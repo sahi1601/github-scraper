@@ -1,12 +1,35 @@
 [
   {
+    "id": 6230049,
+    "slug": "paarden-ontsnappen-aan-verdrinking-bij-overstromingen-australie",
+    "type": "video",
+    "title": "Paarden ontsnappen aan verdrinking bij overstromingen Australië",
+    "subtitle": "Video",
+    "published_at": "2022-10-14T21:41:41+02:00",
+    "updated_at": "2022-10-14T21:41:42+02:00",
+    "media_id": "hu7xz2eadg4h",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6230049/paarden-ontsnappen-aan-verdrinking-bij-overstromingen-australie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230048,
-    "slug": "tientallen-mijnwerkers-vast-onder-de-grond-na-explosie-in-turkse-mijn",
+    "slug": "doden-bij-explosie-in-turkse-mijn-tientallen-mijnwerkers-vast-onder-de-grond",
     "type": "article",
-    "title": "Tientallen mijnwerkers vast onder de grond na explosie in Turkse mijn",
+    "title": "Doden bij explosie in Turkse mijn, tientallen mijnwerkers vast onder de grond",
     "subtitle": null,
     "published_at": "2022-10-14T21:33:29+02:00",
-    "updated_at": "2022-10-14T21:33:29+02:00",
+    "updated_at": "2022-10-14T21:46:47+02:00",
     "media_id": "52nxd4saemvd",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6230048/tientallen-mijnwerkers-vast-onder-de-grond-na-explosie-in-turkse-mijn.html",
+    "url": "/buitenland/6230048/doden-bij-explosie-in-turkse-mijn-tientallen-mijnwerkers-vast-onder-de-grond.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Geëmotioneerde Havik draagt WK-goud op aan Amy Pieters: 'Zij geloofde in me'",
     "subtitle": null,
     "published_at": "2022-10-14T21:23:55+02:00",
-    "updated_at": "2022-10-14T21:27:25+02:00",
+    "updated_at": "2022-10-14T21:45:04+02:00",
     "media_id": "942x5klatdrw",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Hoogland en Havik zorgen voor nieuw Nederlands goud bij WK baanwielrennen",
     "subtitle": null,
     "published_at": "2022-10-14T19:24:52+02:00",
-    "updated_at": "2022-10-14T21:33:23+02:00",
+    "updated_at": "2022-10-14T21:49:44+02:00",
     "media_id": "7v4xfl7apdqv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6229999/zelensky-eert-omgekomen-militairen-op-sobere-oekraiense-feestdag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6229993,
-    "slug": "kabinet-stelt-invoering-omgevingswet-voor-zoveelste-keer-uit-nu-tot-juli-2023",
-    "type": "article",
-    "title": "Kabinet stelt invoering Omgevingswet voor zoveelste keer uit, nu tot juli 2023",
-    "subtitle": null,
-    "published_at": "2022-10-14T16:54:24+02:00",
-    "updated_at": "2022-10-14T16:54:25+02:00",
-    "media_id": "stsxb0paruyv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6229993/kabinet-stelt-invoering-omgevingswet-voor-zoveelste-keer-uit-nu-tot-juli-2023.html",
     "open_new_window": false,
     "partner": null
   }
