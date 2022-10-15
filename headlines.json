@@ -1,5 +1,51 @@
 [
   {
+    "id": 6230102,
+    "slug": "journalistenbond-wil-dat-veiligheidsdiensten-stoppen-met-werven-journalisten",
+    "type": "article",
+    "title": "Journalistenbond wil dat veiligheidsdiensten stoppen met werven journalisten",
+    "subtitle": null,
+    "published_at": "2022-10-15T10:37:09+02:00",
+    "updated_at": "2022-10-15T10:49:57+02:00",
+    "media_id": "0qqx21caqc67",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6230102/journalistenbond-wil-dat-veiligheidsdiensten-stoppen-met-werven-journalisten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6230093,
+    "slug": "pec-captain-van-polen-wint-topper-met-bloedende-lip-word-er-niet-knapper-op",
+    "type": "article",
+    "title": "PEC-captain Van Polen wint topper met bloedende lip: 'Word er niet knapper op'",
+    "subtitle": null,
+    "published_at": "2022-10-15T09:55:42+02:00",
+    "updated_at": "2022-10-15T10:19:30+02:00",
+    "media_id": "d8fxnymar4ik",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6230093/pec-captain-van-polen-wint-topper-met-bloedende-lip-word-er-niet-knapper-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230090,
     "slug": "brandweer-roept-omwonenden-amsterdamse-lunchroom-op-te-evacueren",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "Asielcrisis nog lang niet voorbij: nog maanden tekort aan opvangplekken",
     "subtitle": null,
     "published_at": "2022-10-15T09:16:18+02:00",
-    "updated_at": "2022-10-15T09:41:15+02:00",
+    "updated_at": "2022-10-15T10:15:54+02:00",
     "media_id": "w91x9nwaa17n",
     "duration": null,
     "canonical_section": {
@@ -47,12 +93,12 @@
   },
   {
     "id": 6230076,
-    "slug": "bouwmeester-herpakt-zich-op-vierde-dag-op-wk-en-heeft-medailles-in-zicht",
+    "slug": "bouwmeester-herpakt-zich-op-vierde-dag-van-wk-en-heeft-medailles-in-zicht",
     "type": "article",
-    "title": "Bouwmeester herpakt zich op vierde dag op WK en heeft medailles in zicht",
+    "title": "Bouwmeester herpakt zich op vierde dag van WK en heeft medailles in zicht",
     "subtitle": null,
     "published_at": "2022-10-15T08:59:52+02:00",
-    "updated_at": "2022-10-15T08:59:53+02:00",
+    "updated_at": "2022-10-15T10:13:20+02:00",
     "media_id": "ub5xvm4a06ka",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6230076/bouwmeester-herpakt-zich-op-vierde-dag-op-wk-en-heeft-medailles-in-zicht.html",
+    "url": "/sport-overig/6230076/bouwmeester-herpakt-zich-op-vierde-dag-van-wk-en-heeft-medailles-in-zicht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +144,7 @@
     "title": "Kuijt trots op wederopstanding ADO: 'We zijn paar keer op onze bek gegaan'",
     "subtitle": null,
     "published_at": "2022-10-15T08:31:20+02:00",
-    "updated_at": "2022-10-15T09:52:11+02:00",
+    "updated_at": "2022-10-15T10:05:57+02:00",
     "media_id": "9gnxzivasu5c",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Spoorloos gebruikte tot 2019 bijna geen DNA-onderzoek: hoe gingen ze te werk?",
     "subtitle": null,
     "published_at": "2022-10-15T05:28:57+02:00",
-    "updated_at": "2022-10-15T05:50:42+02:00",
+    "updated_at": "2022-10-15T10:32:05+02:00",
     "media_id": "gh6xm3eaxeuk",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Dertien jaar celstraf voor Nederlander die Canadese Amanda Todd afperste",
     "subtitle": null,
     "published_at": "2022-10-15T00:22:17+02:00",
-    "updated_at": "2022-10-15T09:47:56+02:00",
+    "updated_at": "2022-10-15T09:57:53+02:00",
     "media_id": "gtqxoj7a06ye",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6230055/aivd-en-mivd-zouden-journalisten-werven-om-informatie-te-verzamelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230054,
-    "slug": "dodelijke-explosie-in-turkse-kolenmijn-leidt-tot-chaos",
-    "type": "video",
-    "title": "Dodelijke explosie in Turkse kolenmijn leidt tot chaos",
-    "subtitle": "Video",
-    "published_at": "2022-10-14T22:56:45+02:00",
-    "updated_at": "2022-10-14T22:56:46+02:00",
-    "media_id": "m25xu3la8kvw",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6230054/dodelijke-explosie-in-turkse-kolenmijn-leidt-tot-chaos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230053,
-    "slug": "veertig-jaar-cel-voor-twee-broers-die-moord-op-maltese-journalist-bekennen",
-    "type": "article",
-    "title": "Veertig jaar cel voor twee broers die moord op Maltese journalist bekennen",
-    "subtitle": null,
-    "published_at": "2022-10-14T22:40:19+02:00",
-    "updated_at": "2022-10-15T09:30:07+02:00",
-    "media_id": "tclxda2ai7xd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6230053/veertig-jaar-cel-voor-twee-broers-die-moord-op-maltese-journalist-bekennen.html",
     "open_new_window": false,
     "partner": null
   }
