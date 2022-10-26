@@ -1,28 +1,5 @@
 [
   {
-    "id": 6232372,
-    "slug": "ajax-begint-met-sanchez-en-brobbey-aan-cl-kraker-tegen-liverpool",
-    "type": "article",
-    "title": "Ajax begint met Sánchez en Brobbey aan CL-kraker tegen Liverpool",
-    "subtitle": null,
-    "published_at": "2022-10-26T19:39:39+02:00",
-    "updated_at": "2022-10-26T19:43:15+02:00",
-    "media_id": "9gfxd1na5i17",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6232372/ajax-begint-met-sanchez-en-brobbey-aan-cl-kraker-tegen-liverpool.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6232373,
     "slug": "ook-vijfde-dag-in-zoektocht-naar-drenkelingen-bij-terschelling-zonder-resultaat",
     "type": "article",
@@ -75,8 +52,8 @@
     "title": "Barcelona moet hopen op mirakel, Lang met Brugge op achterstand",
     "subtitle": "Liveblog CL",
     "published_at": "2022-10-26T18:31:26+02:00",
-    "updated_at": "2022-10-26T19:36:39+02:00",
-    "media_id": "dlgxbr2aq0dd",
+    "updated_at": "2022-10-26T19:32:26+02:00",
+    "media_id": "9o2xhwna9ym1",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/voetbal/6232316/van-nistelrooij-verwacht-dat-psv-zich-opricht-tegen-arsenal-zijn-niet-van-suiker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6232339,
+    "slug": "om-eist-200-uur-taakstraf-en-een-maand-voorwaardelijk-tegen-glennis-grace",
+    "type": "article",
+    "title": "OM eist 200 uur taakstraf en één maand voorwaardelijk tegen Glennis Grace",
+    "subtitle": null,
+    "published_at": "2022-10-26T15:48:18+02:00",
+    "updated_at": "2022-10-26T16:33:33+02:00",
+    "media_id": "lx5x8csayx9n",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6232339/om-eist-200-uur-taakstraf-en-een-maand-voorwaardelijk-tegen-glennis-grace.html",
     "open_new_window": false,
     "partner": null
   }
