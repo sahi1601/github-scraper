@@ -1,5 +1,28 @@
 [
   {
+    "id": 6232650,
+    "slug": "feyenoord-coach-slot-baalt-van-heel-slechte-uitgangspositie-na-verlies-in-graz",
+    "type": "article",
+    "title": "Feyenoord-coach Slot baalt van 'heel slechte uitgangspositie' na verlies in Graz",
+    "subtitle": null,
+    "published_at": "2022-10-28T09:25:25+02:00",
+    "updated_at": "2022-10-28T09:25:26+02:00",
+    "media_id": "xznxki9ab73u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6232650/feyenoord-coach-slot-baalt-van-heel-slechte-uitgangspositie-na-verlies-in-graz.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232633,
     "slug": "beving-die-mars-met-enorme-krater-achterliet-veroorzaakt-door-meteorietinslag",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Alonso en Alpine krijgen na succesvol protest zevende plek van GP in VS terug",
     "subtitle": null,
     "published_at": "2022-10-28T07:54:39+02:00",
-    "updated_at": "2022-10-28T08:50:27+02:00",
+    "updated_at": "2022-10-28T09:22:23+02:00",
     "media_id": "lwnxzhoax7sl",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6232606/vs-roept-familie-diplomaten-in-nigeria-op-te-vertrekken-vanwege-terreurdreiging.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232594,
-    "slug": "eredivisie-ziet-portugal-naderen-in-spannende-strijd-om-tweede-cl-ticket",
-    "type": "article",
-    "title": "Eredivisie ziet Portugal naderen in spannende strijd om tweede CL-ticket",
-    "subtitle": "NU+",
-    "published_at": "2022-10-27T23:22:03+02:00",
-    "updated_at": "2022-10-27T23:27:55+02:00",
-    "media_id": "gxmx828aflrm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779108,
-      "slug": "nu-voetbal",
-      "type": "default",
-      "name": "NU+ Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nu-voetbal/6232594/eredivisie-ziet-portugal-naderen-in-spannende-strijd-om-tweede-cl-ticket.html",
     "open_new_window": false,
     "partner": null
   }
