@@ -1,5 +1,28 @@
 [
   {
+    "id": 6232859,
+    "slug": "van-gerwen-had-last-van-wind-op-ek-darts-dobey-ging-daar-beter-mee-om",
+    "type": "article",
+    "title": "Van Gerwen had last van wind op EK darts: 'Dobey ging daar beter mee om'",
+    "subtitle": null,
+    "published_at": "2022-10-29T09:42:34+02:00",
+    "updated_at": "2022-10-29T09:42:35+02:00",
+    "media_id": "8zsxyi1aeo51",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6232859/van-gerwen-had-last-van-wind-op-ek-darts-dobey-ging-daar-beter-mee-om.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6232854,
     "slug": "kuijt-mijdt-ado-kleedkamer-na-verlies-geen-dingen-zeggen-waar-ik-spijt-van-krijg",
     "type": "article",
@@ -346,12 +369,12 @@
   },
   {
     "id": 6232847,
-    "slug": "weerbericht-eerst-code-geel-voor-mist-daarna-zomerse-temperaturen",
+    "slug": "weerbericht-eerst-code-geel-vanwege-mist-daarna-zomerse-temperaturen",
     "type": "article",
-    "title": "Weerbericht: Eerst code geel voor mist, daarna zomerse temperaturen",
+    "title": "Weerbericht: Eerst code geel vanwege mist, daarna zomerse temperaturen",
     "subtitle": null,
     "published_at": "2022-10-29T05:20:55+02:00",
-    "updated_at": "2022-10-29T06:46:30+02:00",
+    "updated_at": "2022-10-29T09:34:26+02:00",
     "media_id": "m1mxindal2ch",
     "duration": null,
     "canonical_section": {
@@ -363,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6232847/weerbericht-eerst-code-geel-voor-mist-daarna-zomerse-temperaturen.html",
+    "url": "/binnenland/6232847/weerbericht-eerst-code-geel-vanwege-mist-daarna-zomerse-temperaturen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6232844/leclerc-crasht-bij-tweede-training-gp-mexico-russell-snelste-in-bandentest.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232841,
-    "slug": "van-gerwen-verrassend-onderuit-tegen-dobey-in-eerste-ronde-ek-darts",
-    "type": "article",
-    "title": "Van Gerwen verrassend onderuit tegen Dobey in eerste ronde EK darts",
-    "subtitle": null,
-    "published_at": "2022-10-28T22:21:04+02:00",
-    "updated_at": "2022-10-28T23:13:40+02:00",
-    "media_id": "2nnxsmuanq3e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6232841/van-gerwen-verrassend-onderuit-tegen-dobey-in-eerste-ronde-ek-darts.html",
     "open_new_window": false,
     "partner": null
   }
