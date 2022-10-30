@@ -1,12 +1,58 @@
 [
   {
+    "id": 6233063,
+    "slug": "indiers-roepen-om-hulp-vanaf-ingestorte-brug",
+    "type": "video",
+    "title": "Indiërs roepen om hulp vanaf ingestorte brug",
+    "subtitle": "Video",
+    "published_at": "2022-10-30T16:44:39+01:00",
+    "updated_at": "2022-10-30T16:44:39+01:00",
+    "media_id": "l8jxff3a5s6w",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6233063/indiers-roepen-om-hulp-vanaf-ingestorte-brug.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233062,
+    "slug": "voor-de-eerste-keer-ooit-beleeft-nederland-drie-warme-dagen-op-rij-in-oktober",
+    "type": "article",
+    "title": "Voor de eerste keer ooit beleeft Nederland drie warme dagen op rij in oktober",
+    "subtitle": null,
+    "published_at": "2022-10-30T16:40:25+01:00",
+    "updated_at": "2022-10-30T16:40:45+01:00",
+    "media_id": "6mxxh67at9t8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6233062/voor-de-eerste-keer-ooit-beleeft-nederland-drie-warme-dagen-op-rij-in-oktober.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233060,
     "slug": "handbalsters-winnen-ook-van-denemarken-en-gaan-met-vertrouwen-naar-ek",
     "type": "article",
     "title": "Handbalsters winnen ook van Denemarken en gaan met vertrouwen naar EK",
     "subtitle": null,
     "published_at": "2022-10-30T16:38:19+01:00",
-    "updated_at": "2022-10-30T16:38:42+01:00",
+    "updated_at": "2022-10-30T16:45:40+01:00",
     "media_id": "197x9q1aczq1",
     "duration": null,
     "canonical_section": {
@@ -24,12 +70,12 @@
   },
   {
     "id": 6233058,
-    "slug": "minstens-40-doden-en-30-zwaargewonden-na-instorten-hangbrug-in-india",
+    "slug": "minstens-veertig-doden-en-dertig-zwaargewonden-door-ingestorte-hangbrug-india",
     "type": "article",
-    "title": "Minstens 40 doden en 30 zwaargewonden na instorten hangbrug in India",
+    "title": "Minstens veertig doden en dertig zwaargewonden door ingestorte hangbrug India",
     "subtitle": null,
     "published_at": "2022-10-30T16:31:05+01:00",
-    "updated_at": "2022-10-30T16:33:01+01:00",
+    "updated_at": "2022-10-30T16:46:36+01:00",
     "media_id": "h29x4n8a5t0p",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6233058/minstens-40-doden-en-30-zwaargewonden-na-instorten-hangbrug-in-india.html",
+    "url": "/buitenland/6233058/minstens-veertig-doden-en-dertig-zwaargewonden-door-ingestorte-hangbrug-india.html",
     "open_new_window": false,
     "partner": null
   },
@@ -88,29 +134,6 @@
       "partner": null
     },
     "url": "/binnenland/6233048/bewakingscamera-in-huissen-legt-exploderende-vuurwerkbom-vast.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6232875,
-    "slug": "het-succes-van-de-jubilerende-kunsthal-rotterdam",
-    "type": "article",
-    "title": "Het succes van de jubilerende Kunsthal Rotterdam",
-    "subtitle": "AD Rotterdams Dagblad",
-    "published_at": "2022-10-30T16:03:44+01:00",
-    "updated_at": "2022-10-30T16:03:44+01:00",
-    "media_id": "uydxfnmazee8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778767,
-      "slug": "uit-andere-media",
-      "type": "default",
-      "name": "Uit andere media",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uit-andere-media/6232875/het-succes-van-de-jubilerende-kunsthal-rotterdam.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6233024/luuk-de-jong-keert-tegen-nec-na-twee-maanden-terug-in-basis-psv.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233022,
-    "slug": "zang-dans-en-een-kiss-cam-zo-won-rico-verhoeven-op-zijn-eigen-evenement",
-    "type": "article",
-    "title": "Zang, dans en een kiss cam: zo won Rico Verhoeven op zijn eigen evenement",
-    "subtitle": null,
-    "published_at": "2022-10-30T13:11:08+01:00",
-    "updated_at": "2022-10-30T13:52:11+01:00",
-    "media_id": "ukoxkbhasuvj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6233022/zang-dans-en-een-kiss-cam-zo-won-rico-verhoeven-op-zijn-eigen-evenement.html",
     "open_new_window": false,
     "partner": null
   }
