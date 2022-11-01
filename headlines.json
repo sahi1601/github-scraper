@@ -1,5 +1,28 @@
 [
   {
+    "id": 6233505,
+    "slug": "atletico-zeldzaam-vroeg-klaar-in-europa-club-brugge-loopt-cl-groepswinst-mis",
+    "type": "article",
+    "title": "Atlético zeldzaam vroeg klaar in Europa, Club Brugge loopt CL-groepswinst mis",
+    "subtitle": null,
+    "published_at": "2022-11-01T20:40:08+01:00",
+    "updated_at": "2022-11-01T20:40:09+01:00",
+    "media_id": "hnixjdvaotun",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6233505/atletico-zeldzaam-vroeg-klaar-in-europa-club-brugge-loopt-cl-groepswinst-mis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233484,
     "slug": "waarom-nederland-opnieuw-onbekende-artiesten-naar-songfestival-stuurt",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6233458/eneco-brengt-energietarieven-weer-iets-omlaag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233452,
-    "slug": "hoe-weten-we-hoe-het-magnetisch-veld-rond-de-aarde-klinkt",
-    "type": "audio",
-    "title": "Hoe weten we hoe het magnetisch veld rond de aarde klinkt?",
-    "subtitle": "Podcast",
-    "published_at": "2022-11-01T16:57:38+01:00",
-    "updated_at": "2022-11-01T16:59:00+01:00",
-    "media_id": "vhfxwp3adban",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779074,
-      "slug": "nunl-zoekt-uit",
-      "type": "default",
-      "name": "NU.nl zoekt uit",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nunl-zoekt-uit/6233452/hoe-weten-we-hoe-het-magnetisch-veld-rond-de-aarde-klinkt.html",
     "open_new_window": false,
     "partner": null
   }
