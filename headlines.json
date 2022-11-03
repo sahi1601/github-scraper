@@ -1,12 +1,81 @@
 [
   {
+    "id": 6233800,
+    "slug": "lukas-dhont-wil-met-film-close-ander-beeld-schetsen-van-mannelijkheid",
+    "type": "article",
+    "title": "Lukas Dhont wil met film Close ander beeld schetsen van mannelijkheid",
+    "subtitle": null,
+    "published_at": "2022-11-03T08:21:47+01:00",
+    "updated_at": "2022-11-03T08:21:48+01:00",
+    "media_id": "qyox1o1a08av",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6233800/lukas-dhont-wil-met-film-close-ander-beeld-schetsen-van-mannelijkheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233802,
+    "slug": "bekijk-de-samenvattingen-van-woensdag-in-de-champions-league",
+    "type": "article",
+    "title": "Bekijk de samenvattingen van woensdag in de Champions League",
+    "subtitle": "Video",
+    "published_at": "2022-11-03T08:16:20+01:00",
+    "updated_at": "2022-11-03T08:16:21+01:00",
+    "media_id": "9f3x56karyn1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6233802/bekijk-de-samenvattingen-van-woensdag-in-de-champions-league.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6233799,
+    "slug": "sakkari-naar-laatste-vier-op-wta-finals-eerste-zege-schuurs-in-dubbelspel",
+    "type": "article",
+    "title": "Sakkari naar laatste vier op WTA Finals, eerste zege Schuurs in dubbelspel",
+    "subtitle": null,
+    "published_at": "2022-11-03T07:52:29+01:00",
+    "updated_at": "2022-11-03T07:59:34+01:00",
+    "media_id": "v5oxnq1a86zr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6233799/sakkari-naar-laatste-vier-op-wta-finals-eerste-zege-schuurs-in-dubbelspel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6233798,
     "slug": "ing-profiteert-van-hogere-rentes-maar-ziet-winst-toch-dalen",
     "type": "article",
-    "title": "ING profiteert van hogere rentes maar ziet winst toch dalen",
+    "title": "ING profiteert van hogere rentes, maar ziet winst toch dalen",
     "subtitle": null,
     "published_at": "2022-11-03T07:48:45+01:00",
-    "updated_at": "2022-11-03T07:48:46+01:00",
+    "updated_at": "2022-11-03T08:07:09+01:00",
     "media_id": "ga0xjr1am33s",
     "duration": null,
     "canonical_section": {
@@ -29,7 +98,7 @@
     "title": "Kim Jong-un vuurt recordaantal raketten af, Japan schrikt van ballistische raket",
     "subtitle": null,
     "published_at": "2022-11-03T07:47:51+01:00",
-    "updated_at": "2022-11-03T07:47:52+01:00",
+    "updated_at": "2022-11-03T08:00:57+01:00",
     "media_id": "affx2ttaunmg",
     "duration": null,
     "canonical_section": {
@@ -47,12 +116,12 @@
   },
   {
     "id": 6233795,
-    "slug": "donald-trump-mag-voorlopig-nog-niet-terugkeren-op-twitter",
+    "slug": "trump-mag-nog-niet-terug-op-twitter-musk-wil-schorsingen-eerst-laten-beoordelen",
     "type": "article",
-    "title": "Donald Trump mag voorlopig nog niet terugkeren op Twitter",
+    "title": "Trump mag nog niet terug op Twitter: Musk wil schorsingen eerst laten beoordelen",
     "subtitle": null,
     "published_at": "2022-11-03T07:29:22+01:00",
-    "updated_at": "2022-11-03T07:29:24+01:00",
+    "updated_at": "2022-11-03T07:55:54+01:00",
     "media_id": "x7yxa2da0o77",
     "duration": null,
     "canonical_section": {
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6233795/donald-trump-mag-voorlopig-nog-niet-terugkeren-op-twitter.html",
+    "url": "/tech/6233795/trump-mag-nog-niet-terug-op-twitter-musk-wil-schorsingen-eerst-laten-beoordelen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +144,7 @@
     "title": "Trotse Schmidt vindt dat Benfica wonderlijke groepswinst heeft verdiend",
     "subtitle": null,
     "published_at": "2022-11-03T07:22:03+01:00",
-    "updated_at": "2022-11-03T07:45:29+01:00",
+    "updated_at": "2022-11-03T08:02:37+01:00",
     "media_id": "xc9x5d7a0xsd",
     "duration": null,
     "canonical_section": {
@@ -116,12 +185,12 @@
   },
   {
     "id": 6233791,
-    "slug": "musk-wil-helft-van-het-twitter-personeel-ontslaan-3800-banen-op-de-tocht",
+    "slug": "musk-wil-helft-van-het-twitter-personeel-ontslaan-3700-banen-op-de-tocht",
     "type": "article",
-    "title": "Musk wil helft van het Twitter-personeel ontslaan: 3.800 banen op de tocht",
+    "title": "Musk wil helft van het Twitter-personeel ontslaan: 3.700 banen op de tocht",
     "subtitle": null,
     "published_at": "2022-11-03T06:59:25+01:00",
-    "updated_at": "2022-11-03T07:32:06+01:00",
+    "updated_at": "2022-11-03T08:08:35+01:00",
     "media_id": "h15x6tgaev2a",
     "duration": null,
     "canonical_section": {
@@ -133,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6233791/musk-wil-helft-van-het-twitter-personeel-ontslaan-3800-banen-op-de-tocht.html",
+    "url": "/tech/6233791/musk-wil-helft-van-het-twitter-personeel-ontslaan-3700-banen-op-de-tocht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +236,7 @@
     "title": "Ye betaalde oud-werknemer schikking vanwege antisemitisch taalgebruik",
     "subtitle": null,
     "published_at": "2022-11-03T06:05:11+01:00",
-    "updated_at": "2022-11-03T06:51:37+01:00",
+    "updated_at": "2022-11-03T08:16:54+01:00",
     "media_id": "4rexwb2a94hr",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6233787/vrouw-onder-verdachte-omstandigheden-overleden-in-ziekenhuis-den-bosch.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233786,
-    "slug": "ns-verhoogt-prijzen-los-treinkaartje-wordt-55-procent-duurder",
-    "type": "article",
-    "title": "NS verhoogt prijzen: los treinkaartje wordt 5,5 procent duurder",
-    "subtitle": null,
-    "published_at": "2022-11-03T03:52:16+01:00",
-    "updated_at": "2022-11-03T07:37:08+01:00",
-    "media_id": "yc9xg8ea0k7g",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6233786/ns-verhoogt-prijzen-los-treinkaartje-wordt-55-procent-duurder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233785,
-    "slug": "levenslang-voor-liberiaanse-oorlogsmisdadiger-die-in-nederland-woonde",
-    "type": "article",
-    "title": "Levenslang voor Liberiaanse oorlogsmisdadiger die in Nederland woonde",
-    "subtitle": null,
-    "published_at": "2022-11-03T03:20:27+01:00",
-    "updated_at": "2022-11-03T07:45:47+01:00",
-    "media_id": "ud3xpz6ahxxv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6233785/levenslang-voor-liberiaanse-oorlogsmisdadiger-die-in-nederland-woonde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6233784,
-    "slug": "vermist-meisje-11-uit-soest-met-vader-teruggevonden-in-bulgarije",
-    "type": "article",
-    "title": "Vermist meisje (11) uit Soest met vader teruggevonden in Bulgarije",
-    "subtitle": null,
-    "published_at": "2022-11-03T00:11:36+01:00",
-    "updated_at": "2022-11-03T07:19:43+01:00",
-    "media_id": "5itxbz4a6r0k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6233784/vermist-meisje-11-uit-soest-met-vader-teruggevonden-in-bulgarije.html",
     "open_new_window": false,
     "partner": null
   }
