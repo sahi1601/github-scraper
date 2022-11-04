@@ -1,5 +1,28 @@
 [
   {
+    "id": 6234167,
+    "slug": "verzekeraar-hoeft-juridische-kosten-van-van-lienden-niet-op-te-hoesten",
+    "type": "article",
+    "title": "Verzekeraar hoeft juridische kosten van Van Lienden niet op te hoesten",
+    "subtitle": null,
+    "published_at": "2022-11-04T15:45:07+01:00",
+    "updated_at": "2022-11-04T15:45:08+01:00",
+    "media_id": "r24xpcbaifrs",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6234167/verzekeraar-hoeft-juridische-kosten-van-van-lienden-niet-op-te-hoesten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234144,
     "slug": "willem-alexander-en-maxima-met-volledig-gezin-bij-fotosessie",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6234095/fifa-roept-wk-landen-in-opmerkelijke-brief-op-zich-volledig-op-voetbal-te-focussen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234097,
-    "slug": "fransman-rijdt-met-raceauto-door-de-mcdrive",
-    "type": "video",
-    "title": "Fransman rijdt met raceauto door de McDrive",
-    "subtitle": "Video",
-    "published_at": "2022-11-04T11:16:49+01:00",
-    "updated_at": "2022-11-04T11:16:50+01:00",
-    "media_id": "5v2xy3ravna8",
-    "duration": "0:24",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6234097/fransman-rijdt-met-raceauto-door-de-mcdrive.html",
     "open_new_window": false,
     "partner": null
   }
