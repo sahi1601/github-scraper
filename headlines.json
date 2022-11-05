@@ -1,12 +1,35 @@
 [
   {
+    "id": 6234350,
+    "slug": "auto-zakt-in-sinkhole-na-gesprongen-waterleiding-in-blaricum",
+    "type": "video",
+    "title": "Auto zakt in sinkhole na gesprongen waterleiding in Blaricum",
+    "subtitle": "Video",
+    "published_at": "2022-11-05T20:17:03+01:00",
+    "updated_at": "2022-11-05T20:17:46+01:00",
+    "media_id": "6zsxui0abw9x",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6234350/auto-zakt-in-sinkhole-na-gesprongen-waterleiding-in-blaricum.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234349,
     "slug": "coach-johansson-gewoon-op-de-bank-tegen-roemenie",
     "type": "article",
     "title": "Coach Johansson 'gewoon' op de bank tegen Roemenië",
     "subtitle": "Liveblog EK handbal",
     "published_at": "2022-11-05T20:09:27+01:00",
-    "updated_at": "2022-11-05T20:09:28+01:00",
+    "updated_at": "2022-11-05T20:16:10+01:00",
     "media_id": "334x9qmaw9yl",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "De Roon maakt twee weken voor WK rentree bij nederlaag Atalanta tegen Napoli",
     "subtitle": null,
     "published_at": "2022-11-05T20:02:48+01:00",
-    "updated_at": "2022-11-05T20:02:50+01:00",
+    "updated_at": "2022-11-05T20:22:43+01:00",
     "media_id": "sfvx4i0azxuy",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Invaller Haaland redt Manchester City tegen Fulham, Summerville scoort weer",
     "subtitle": null,
     "published_at": "2022-11-05T18:09:02+01:00",
-    "updated_at": "2022-11-05T18:43:28+01:00",
+    "updated_at": "2022-11-05T20:25:41+01:00",
     "media_id": "znxxn07ao6kx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6234322/verkeer-a9-kan-na-uren-weer-doorrijden-na-storing-brug-bij-schiphol.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234317,
-    "slug": "zivkovic-zet-emmen-op-0-1-tegen-fortuna-met-eerste-goal",
-    "type": "article",
-    "title": "Zivkovic zet Emmen op 0-1 tegen Fortuna met eerste goal",
-    "subtitle": "Liveblog Eredivisie",
-    "published_at": "2022-11-05T16:11:04+01:00",
-    "updated_at": "2022-11-05T20:09:13+01:00",
-    "media_id": "mz4xrrnazbtf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6234317/zivkovic-zet-emmen-op-0-1-tegen-fortuna-met-eerste-goal.html",
     "open_new_window": false,
     "partner": null
   }
