@@ -1,13 +1,82 @@
 [
   {
-    "id": 6234339,
-    "slug": "sparta-boekt-uitzege-in-28-jaar-en-bezorgt-vitesse-negatieve-primeur",
+    "id": 6234346,
+    "slug": "miljuschka-witzenhausen-moet-zon-acht-weken-in-het-gips",
     "type": "article",
-    "title": "Sparta boekt uitzege in 28 jaar en bezorgt Vitesse negatieve primeur",
+    "title": "Miljuschka Witzenhausen moet zo'n acht weken in het gips",
+    "subtitle": null,
+    "published_at": "2022-11-05T19:37:11+01:00",
+    "updated_at": "2022-11-05T19:37:12+01:00",
+    "media_id": "o6sxxybaixuo",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6234346/miljuschka-witzenhausen-moet-zon-acht-weken-in-het-gips.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234345,
+    "slug": "beelden-tonen-ontstaan-dodelijke-brand-in-russisch-cafe",
+    "type": "video",
+    "title": "Beelden tonen ontstaan dodelijke brand in Russisch café",
+    "subtitle": "Video",
+    "published_at": "2022-11-05T19:34:41+01:00",
+    "updated_at": "2022-11-05T19:34:41+01:00",
+    "media_id": "u9nxyala06d5",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6234345/beelden-tonen-ontstaan-dodelijke-brand-in-russisch-cafe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234343,
+    "slug": "hulpdiensten-arriveren-bij-kliniek-na-dodelijke-steekpartij",
+    "type": "video",
+    "title": "Hulpdiensten arriveren bij kliniek na dodelijke steekpartij",
+    "subtitle": "Video",
+    "published_at": "2022-11-05T19:20:55+01:00",
+    "updated_at": "2022-11-05T19:23:49+01:00",
+    "media_id": "54bxifmaq96o",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6234343/hulpdiensten-arriveren-bij-kliniek-na-dodelijke-steekpartij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234339,
+    "slug": "sparta-boekt-grootste-uitzege-in-28-jaar-en-bezorgt-vitesse-negatieve-primeur",
+    "type": "article",
+    "title": "Sparta boekt grootste uitzege in 28 jaar en bezorgt Vitesse negatieve primeur",
     "subtitle": null,
     "published_at": "2022-11-05T18:29:43+01:00",
-    "updated_at": "2022-11-05T18:41:32+01:00",
-    "media_id": "65lx2nxa42qz",
+    "updated_at": "2022-11-05T19:29:25+01:00",
+    "media_id": "kenxcwta1nj5",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6234339/sparta-boekt-uitzege-in-28-jaar-en-bezorgt-vitesse-negatieve-primeur.html",
+    "url": "/voetbal/6234339/sparta-boekt-grootste-uitzege-in-28-jaar-en-bezorgt-vitesse-negatieve-primeur.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +121,7 @@
     "title": "Invaller Haaland redt Manchester City tegen Fulham, Summerville scoort weer",
     "subtitle": null,
     "published_at": "2022-11-05T18:09:02+01:00",
-    "updated_at": "2022-11-05T18:34:00+01:00",
+    "updated_at": "2022-11-05T18:43:28+01:00",
     "media_id": "znxxn07ao6kx",
     "duration": null,
     "canonical_section": {
@@ -98,7 +167,7 @@
     "title": "Twee doden en twee gewonden na steekpartij in psychiatrische kliniek in Balkbrug",
     "subtitle": null,
     "published_at": "2022-11-05T17:49:39+01:00",
-    "updated_at": "2022-11-05T18:29:23+01:00",
+    "updated_at": "2022-11-05T18:53:16+01:00",
     "media_id": "aw7x00habrvs",
     "duration": null,
     "canonical_section": {
@@ -121,7 +190,7 @@
     "title": "Bayern zonder De Ligt nipt te sterk voor Hertha, Malen wint ruim met Dortmund",
     "subtitle": null,
     "published_at": "2022-11-05T17:45:13+01:00",
-    "updated_at": "2022-11-05T18:26:05+01:00",
+    "updated_at": "2022-11-05T19:20:07+01:00",
     "media_id": "2zjxowkaasbd",
     "duration": null,
     "canonical_section": {
@@ -282,7 +351,7 @@
     "title": "Imposante zegereeks Auger-Aliassime ten einde na verlies tegen Rune in Parijs",
     "subtitle": null,
     "published_at": "2022-11-05T16:48:19+01:00",
-    "updated_at": "2022-11-05T17:01:24+01:00",
+    "updated_at": "2022-11-05T19:29:20+01:00",
     "media_id": "tbax9uuas9ko",
     "duration": null,
     "canonical_section": {
@@ -323,13 +392,13 @@
   },
   {
     "id": 6234317,
-    "slug": "fortuna-ontvangt-fc-emmen-vitesse-druipt-af-na-afstraffing",
+    "slug": "emmen-en-fortuna-nog-in-evenwicht-in-tamme-eerste-helft",
     "type": "article",
-    "title": "Fortuna ontvangt FC Emmen, Vitesse druipt af na afstraffing",
+    "title": "Emmen en Fortuna nog in evenwicht in tamme eerste helft",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-11-05T16:11:04+01:00",
-    "updated_at": "2022-11-05T18:30:53+01:00",
-    "media_id": "lkzxj55ay6t3",
+    "updated_at": "2022-11-05T19:26:16+01:00",
+    "media_id": "mz4xrrnazbtf",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -340,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6234317/fortuna-ontvangt-fc-emmen-vitesse-druipt-af-na-afstraffing.html",
+    "url": "/voetbal/6234317/emmen-en-fortuna-nog-in-evenwicht-in-tamme-eerste-helft.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6234318/quartararo-start-vlak-voor-wk-leider-bagnaia-in-allesbepalende-motogp-race.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234315,
-    "slug": "gestopte-wielrenner-tom-dumoulin-zet-ook-punt-achter-huwelijk",
-    "type": "article",
-    "title": "Gestopte wielrenner Tom Dumoulin zet ook punt achter huwelijk",
-    "subtitle": null,
-    "published_at": "2022-11-05T14:49:06+01:00",
-    "updated_at": "2022-11-05T14:56:52+01:00",
-    "media_id": "i5fxe3aasey7",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6234315/gestopte-wielrenner-tom-dumoulin-zet-ook-punt-achter-huwelijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234314,
-    "slug": "waterpolosters-verliezen-van-spanje-in-halve-finales-world-league",
-    "type": "article",
-    "title": "Waterpolosters verliezen van Spanje in halve finales World League",
-    "subtitle": null,
-    "published_at": "2022-11-05T14:37:42+01:00",
-    "updated_at": "2022-11-05T14:52:10+01:00",
-    "media_id": "s4ox8nja2yf0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6234314/waterpolosters-verliezen-van-spanje-in-halve-finales-world-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234311,
-    "slug": "rechts-populistische-partij-van-le-pen-kiest-voor-27-jarige-bardella-als-leider",
-    "type": "article",
-    "title": "Rechts-populistische partij van Le Pen kiest voor 27-jarige Bardella als leider",
-    "subtitle": null,
-    "published_at": "2022-11-05T14:18:04+01:00",
-    "updated_at": "2022-11-05T16:19:33+01:00",
-    "media_id": "rh3xugqai72l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6234311/rechts-populistische-partij-van-le-pen-kiest-voor-27-jarige-bardella-als-leider.html",
     "open_new_window": false,
     "partner": null
   }
