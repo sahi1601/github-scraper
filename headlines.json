@@ -1,5 +1,51 @@
 [
   {
+    "id": 6234464,
+    "slug": "juventus-zet-opmars-voort-en-verslaat-inter-roma-ten-onder-in-stadsderby",
+    "type": "article",
+    "title": "Juventus zet opmars voort en verslaat Inter, Roma ten onder in stadsderby",
+    "subtitle": null,
+    "published_at": "2022-11-06T22:41:30+01:00",
+    "updated_at": "2022-11-06T22:41:31+01:00",
+    "media_id": "ncaxorfaa2cl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6234464/juventus-zet-opmars-voort-en-verslaat-inter-roma-ten-onder-in-stadsderby.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234465,
+    "slug": "toeschouwers-zijn-getuige-van-dodelijk-rallyongeluk-in-belgie",
+    "type": "video",
+    "title": "Toeschouwers zijn getuige van dodelijk rallyongeluk in België",
+    "subtitle": "Video",
+    "published_at": "2022-11-06T22:36:04+01:00",
+    "updated_at": "2022-11-06T22:40:15+01:00",
+    "media_id": "p0dxbapahunh",
+    "duration": "1:20",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6234465/toeschouwers-zijn-getuige-van-dodelijk-rallyongeluk-in-belgie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234463,
     "slug": "twitter-vraagt-tientallen-ontslagen-medewerkers-terug-te-keren",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Tal van opstootjes bij topper Ajax-PSV: 'Zag iemand zomaar Luuk de Jong duwen'",
     "subtitle": null,
     "published_at": "2022-11-06T22:01:03+01:00",
-    "updated_at": "2022-11-06T22:01:04+01:00",
+    "updated_at": "2022-11-06T22:36:08+01:00",
     "media_id": "0fgxhsjadpr4",
     "duration": null,
     "canonical_section": {
@@ -328,7 +374,7 @@
     "title": "Van Bommel en Antwerp winnen weer niet, Duitse koploper Union hard onderuit",
     "subtitle": null,
     "published_at": "2022-11-06T17:24:44+01:00",
-    "updated_at": "2022-11-06T21:21:41+01:00",
+    "updated_at": "2022-11-06T22:33:33+01:00",
     "media_id": "dadx1q5apaut",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Twee doden doordat racewagen in publiek belandt bij autorally in België",
     "subtitle": null,
     "published_at": "2022-11-06T17:22:35+01:00",
-    "updated_at": "2022-11-06T20:46:07+01:00",
+    "updated_at": "2022-11-06T22:33:19+01:00",
     "media_id": "6twx1oyan9fy",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6234437/blunders-verhulst-breken-az-op-tegen-rkc-twente-speelt-gelijk-tegen-go-ahead.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234438,
-    "slug": "viaduct-in-de-buurt-van-apeldoorn-wordt-gesloopt",
-    "type": "video",
-    "title": "Viaduct in de buurt van Apeldoorn wordt gesloopt",
-    "subtitle": "Video",
-    "published_at": "2022-11-06T16:32:49+01:00",
-    "updated_at": "2022-11-06T16:32:50+01:00",
-    "media_id": "wd5xej8azi0h",
-    "duration": "0:48",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6234438/viaduct-in-de-buurt-van-apeldoorn-wordt-gesloopt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234433,
-    "slug": "feyenoord-rekent-na-europees-succes-simpel-af-met-hekkensluiter-fc-volendam",
-    "type": "article",
-    "title": "Feyenoord rekent na Europees succes simpel af met hekkensluiter FC Volendam",
-    "subtitle": null,
-    "published_at": "2022-11-06T16:22:18+01:00",
-    "updated_at": "2022-11-06T18:50:55+01:00",
-    "media_id": "esoxa77au1d7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6234433/feyenoord-rekent-na-europees-succes-simpel-af-met-hekkensluiter-fc-volendam.html",
     "open_new_window": false,
     "partner": null
   }
