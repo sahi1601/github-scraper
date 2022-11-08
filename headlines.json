@@ -1,12 +1,58 @@
 [
   {
+    "id": 6234825,
+    "slug": "najaarsgolf-voorbij-aantal-nieuwe-coronagevallen-blijft-in-rap-tempo-afnemen",
+    "type": "article",
+    "title": "Najaarsgolf voorbij: aantal nieuwe coronagevallen blijft in rap tempo afnemen",
+    "subtitle": null,
+    "published_at": "2022-11-08T15:45:57+01:00",
+    "updated_at": "2022-11-08T15:45:58+01:00",
+    "media_id": "d8xxmvxauax1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6234825/najaarsgolf-voorbij-aantal-nieuwe-coronagevallen-blijft-in-rap-tempo-afnemen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6234820,
+    "slug": "autobanden-en-plastic-verpakkingen-grootste-bronnen-van-microplastics",
+    "type": "article",
+    "title": "Autobanden en plastic verpakkingen grootste bronnen van microplastics",
+    "subtitle": null,
+    "published_at": "2022-11-08T15:40:08+01:00",
+    "updated_at": "2022-11-08T15:40:10+01:00",
+    "media_id": "vkyx9bzaktvq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6234820/autobanden-en-plastic-verpakkingen-grootste-bronnen-van-microplastics.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234824,
     "slug": "jasper-cillessen-blijkt-kind-te-hebben-met-spaanse-ex-vriendin",
     "type": "article",
     "title": "Jasper Cillessen blijkt kind te hebben met Spaanse ex-vriendin",
     "subtitle": null,
     "published_at": "2022-11-08T15:37:31+01:00",
-    "updated_at": "2022-11-08T15:37:32+01:00",
+    "updated_at": "2022-11-08T15:49:38+01:00",
     "media_id": "xqxxkr2aiw2f",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "VVD-fractie steunt asielwet en vertrouwt erop dat Rutte instroom omlaag brengt",
     "subtitle": null,
     "published_at": "2022-11-08T15:06:41+01:00",
-    "updated_at": "2022-11-08T15:39:00+01:00",
+    "updated_at": "2022-11-08T15:44:02+01:00",
     "media_id": "021xkldaofwq",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6234757/piloot-raakt-zendmast-tijdens-vliegshow-in-argentinie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234755,
-    "slug": "van-persie-gaat-vanaf-volgend-seizoen-voor-hoogste-trainersdiploma",
-    "type": "article",
-    "title": "Van Persie gaat vanaf volgend seizoen voor hoogste trainersdiploma",
-    "subtitle": null,
-    "published_at": "2022-11-08T13:06:20+01:00",
-    "updated_at": "2022-11-08T13:10:31+01:00",
-    "media_id": "d1oxm0ua4bgi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6234755/van-persie-gaat-vanaf-volgend-seizoen-voor-hoogste-trainersdiploma.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234740,
-    "slug": "warmste-europese-oktobermaand-ooit-gemeten-2022-nu-al-het-zonnigste-jaar",
-    "type": "article",
-    "title": "Warmste Europese oktobermaand ooit gemeten, 2022 nu al het zonnigste jaar",
-    "subtitle": null,
-    "published_at": "2022-11-08T12:50:12+01:00",
-    "updated_at": "2022-11-08T12:50:13+01:00",
-    "media_id": "5i1x8wnaof8k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6234740/warmste-europese-oktobermaand-ooit-gemeten-2022-nu-al-het-zonnigste-jaar.html",
     "open_new_window": false,
     "partner": null
   }
