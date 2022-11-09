@@ -1,5 +1,28 @@
 [
   {
+    "id": 6235077,
+    "slug": "ajax-begint-met-klaassen-wijndal-en-kudus-tegen-vitesse-brobbey-op-de-bank",
+    "type": "article",
+    "title": "Ajax begint met Klaassen, Wijndal en Kudus tegen Vitesse, Brobbey op de bank",
+    "subtitle": null,
+    "published_at": "2022-11-09T18:47:04+01:00",
+    "updated_at": "2022-11-09T18:47:05+01:00",
+    "media_id": "vqzxo0hagzaa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6235077/ajax-begint-met-klaassen-wijndal-en-kudus-tegen-vitesse-brobbey-op-de-bank.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235084,
     "slug": "handbiker-schipper-verbetert-werelduurrecord-en-rijdt-plat-uit-de-boeken",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Duitsland blokkeert Chinese investeringen in chipmakers",
     "subtitle": null,
     "published_at": "2022-11-09T17:53:27+01:00",
-    "updated_at": "2022-11-09T17:53:28+01:00",
+    "updated_at": "2022-11-09T18:45:16+01:00",
     "media_id": "d9vxz0raxt9g",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6234995/zwangere-van-den-broek-blaak-mist-deel-van-komend-wielerseizoen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235003,
-    "slug": "milieuorganisaties-streng-co2-doel-voor-luchtvaart-zijn-totaal-doorgeschoten",
-    "type": "article",
-    "title": "Milieuorganisaties: 'Streng CO2-doel voor luchtvaart, zijn totaal doorgeschoten'",
-    "subtitle": null,
-    "published_at": "2022-11-09T14:22:05+01:00",
-    "updated_at": "2022-11-09T17:34:22+01:00",
-    "media_id": "drrx5bxajgy6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6235003/milieuorganisaties-streng-co2-doel-voor-luchtvaart-zijn-totaal-doorgeschoten.html",
     "open_new_window": false,
     "partner": null
   }
