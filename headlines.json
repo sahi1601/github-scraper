@@ -1,12 +1,35 @@
 [
   {
+    "id": 6235034,
+    "slug": "koers-van-bitcoin-zakt-naar-laagste-punt-in-twee-jaar",
+    "type": "article",
+    "title": "Koers van bitcoin zakt naar laagste punt in twee jaar",
+    "subtitle": null,
+    "published_at": "2022-11-09T15:07:48+01:00",
+    "updated_at": "2022-11-09T15:20:07+01:00",
+    "media_id": "oysxf9oapq9y",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6235034/koers-van-bitcoin-zakt-naar-laagste-punt-in-twee-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234957,
     "slug": "wk-deelname-geblesseerde-mane-nog-onzeker-meer-onderzoeken-volgen",
     "type": "article",
     "title": "WK-deelname geblesseerde Mané nog onzeker, meer onderzoeken volgen",
     "subtitle": null,
     "published_at": "2022-11-09T14:53:19+01:00",
-    "updated_at": "2022-11-09T14:54:54+01:00",
+    "updated_at": "2022-11-09T15:18:48+01:00",
     "media_id": "qcvxoquavtm0",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Eerste kennismaking: Audi Q8 e-tron",
     "subtitle": "Video",
     "published_at": "2022-11-09T14:44:21+01:00",
-    "updated_at": "2022-11-09T14:44:22+01:00",
+    "updated_at": "2022-11-09T15:06:22+01:00",
     "media_id": "u4kx1yaadqib",
     "duration": "7:09",
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Koning Charles bekogeld met eieren in York",
     "subtitle": "Video",
     "published_at": "2022-11-09T14:37:26+01:00",
-    "updated_at": "2022-11-09T14:54:19+01:00",
+    "updated_at": "2022-11-09T15:07:14+01:00",
     "media_id": "7k1x12magqxq",
     "duration": "0:37",
     "canonical_section": {
@@ -164,10 +187,10 @@
     "id": 6234999,
     "slug": "aardbeving-verstoort-italiaanse-tv-uitzending",
     "type": "video",
-    "title": "Aardbeving verstoort Italiaanse TV-uitzending",
+    "title": "Aardbeving verstoort Italiaanse tv-uitzending",
     "subtitle": "Video",
     "published_at": "2022-11-09T13:49:20+01:00",
-    "updated_at": "2022-11-09T13:51:47+01:00",
+    "updated_at": "2022-11-09T15:30:43+01:00",
     "media_id": "ktcxk77afas7",
     "duration": "0:42",
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Glennis Grace krijgt taakstraf van 200 uur voor vechtpartij in supermarkt",
     "subtitle": null,
     "published_at": "2022-11-09T13:17:18+01:00",
-    "updated_at": "2022-11-09T14:42:09+01:00",
+    "updated_at": "2022-11-09T14:55:32+01:00",
     "media_id": "3w1xujwaymao",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Facebook-moederbedrijf Meta ontslaat 13 procent van personeel",
     "subtitle": null,
     "published_at": "2022-11-09T12:18:49+01:00",
-    "updated_at": "2022-11-09T13:14:29+01:00",
+    "updated_at": "2022-11-09T15:07:07+01:00",
     "media_id": "b5vxarjalfyw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6234979/adidas-vreest-lagere-winst-na-abrupt-einde-aan-samenwerking-met-ye.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234973,
-    "slug": "topshorttrackers-en-broers-liu-willen-overstappen-van-hongarije-naar-china",
-    "type": "article",
-    "title": "Topshorttrackers en broers Liu willen overstappen van Hongarije naar China",
-    "subtitle": null,
-    "published_at": "2022-11-09T11:52:17+01:00",
-    "updated_at": "2022-11-09T11:52:19+01:00",
-    "media_id": "q9cx87eak3s5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6234973/topshorttrackers-en-broers-liu-willen-overstappen-van-hongarije-naar-china.html",
     "open_new_window": false,
     "partner": null
   }
