@@ -1,5 +1,28 @@
 [
   {
+    "id": 6234969,
+    "slug": "om-eist-achttien-jaar-cel-tegen-sandra-h-in-moordzaak-ichelle-van-de-velde",
+    "type": "article",
+    "title": "OM eist achttien jaar cel tegen Sandra H. in moordzaak Ichelle van de Velde",
+    "subtitle": null,
+    "published_at": "2022-11-09T11:45:04+01:00",
+    "updated_at": "2022-11-09T11:45:06+01:00",
+    "media_id": "hxqx865ak94w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6234969/om-eist-achttien-jaar-cel-tegen-sandra-h-in-moordzaak-ichelle-van-de-velde.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234966,
     "slug": "zes-doden-na-aardbeving-west-nepal",
     "type": "video",
@@ -415,12 +438,12 @@
   },
   {
     "id": 6234904,
-    "slug": "ahold-delhaize-berekent-stijgende-kosten-voorlopig-niet-door-aan-klanten",
+    "slug": "ahold-delhaize-berekent-stijgende-kosten-niet-door-aan-klanten",
     "type": "article",
-    "title": "Ahold Delhaize berekent stijgende kosten voorlopig niet door aan klanten",
+    "title": "Ahold Delhaize berekent stijgende kosten niet door aan klanten",
     "subtitle": null,
     "published_at": "2022-11-09T08:51:33+01:00",
-    "updated_at": "2022-11-09T09:45:10+01:00",
+    "updated_at": "2022-11-09T11:47:48+01:00",
     "media_id": "rvix06mazp5p",
     "duration": null,
     "canonical_section": {
@@ -432,30 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6234904/ahold-delhaize-berekent-stijgende-kosten-voorlopig-niet-door-aan-klanten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234901,
-    "slug": "elon-musk-verkoopt-bijna-4-miljard-dollar-aan-tesla-aandelen",
-    "type": "article",
-    "title": "Elon Musk verkoopt bijna 4 miljard dollar aan Tesla-aandelen",
-    "subtitle": null,
-    "published_at": "2022-11-09T08:50:14+01:00",
-    "updated_at": "2022-11-09T08:50:15+01:00",
-    "media_id": "vj0xacgaydcq",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6234901/elon-musk-verkoopt-bijna-4-miljard-dollar-aan-tesla-aandelen.html",
+    "url": "/economie/6234904/ahold-delhaize-berekent-stijgende-kosten-niet-door-aan-klanten.html",
     "open_new_window": false,
     "partner": null
   }
