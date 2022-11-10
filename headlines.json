@@ -1,12 +1,35 @@
 [
   {
+    "id": 6234734,
+    "slug": "discussie-over-de-wolf-krijgt-zwarte-piet-achtige-trekjes",
+    "type": "article",
+    "title": "'Discussie over de wolf krijgt Zwarte Piet-achtige trekjes'",
+    "subtitle": "BN DeStem",
+    "published_at": "2022-11-10T10:47:58+01:00",
+    "updated_at": "2022-11-10T10:47:59+01:00",
+    "media_id": "xk6xebeauel1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778767,
+      "slug": "uit-andere-media",
+      "type": "default",
+      "name": "Uit andere media",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uit-andere-media/6234734/discussie-over-de-wolf-krijgt-zwarte-piet-achtige-trekjes.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235164,
     "slug": "blue-origin-kan-pas-volgend-jaar-weer-raketten-lanceren-na-crash",
     "type": "article",
     "title": "Blue Origin kan pas volgend jaar weer raketten lanceren na crash",
     "subtitle": null,
     "published_at": "2022-11-10T10:14:46+01:00",
-    "updated_at": "2022-11-10T10:16:25+01:00",
+    "updated_at": "2022-11-10T10:37:02+01:00",
     "media_id": "tqnxdueai23s",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Hartziekten bij vrouwen met migratieachtergrond: de kennis blijft achter",
     "subtitle": null,
     "published_at": "2022-11-10T10:05:27+01:00",
-    "updated_at": "2022-11-10T10:32:49+01:00",
+    "updated_at": "2022-11-10T10:47:23+01:00",
     "media_id": "mphxjxra321d",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Jennifer Aniston is ongewenst kinderloos: 'Heb alles geprobeerd'",
     "subtitle": null,
     "published_at": "2022-11-10T07:26:14+01:00",
-    "updated_at": "2022-11-10T09:22:54+01:00",
+    "updated_at": "2022-11-10T10:43:21+01:00",
     "media_id": "ay8x388aj6wv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6235052/drukte-in-winkels-van-voor-corona-komt-waarschijnlijk-niet-terug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235122,
-    "slug": "cocu-blij-dat-vitesse-zich-niet-van-de-wijs-liet-brengen-door-vroege-goal-ajax",
-    "type": "article",
-    "title": "Cocu blij dat Vitesse zich niet van de wijs liet brengen door vroege goal Ajax",
-    "subtitle": null,
-    "published_at": "2022-11-10T07:05:45+01:00",
-    "updated_at": "2022-11-10T09:46:23+01:00",
-    "media_id": "1c8xog9ag7f4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6235122/cocu-blij-dat-vitesse-zich-niet-van-de-wijs-liet-brengen-door-vroege-goal-ajax.html",
     "open_new_window": false,
     "partner": null
   }
