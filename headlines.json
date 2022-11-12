@@ -1,5 +1,51 @@
 [
   {
+    "id": 6235659,
+    "slug": "ns-kan-weer-geen-reisinformatie-geven-op-digitale-borden-door-storing",
+    "type": "article",
+    "title": "NS kan weer geen reisinformatie geven op digitale borden door storing",
+    "subtitle": null,
+    "published_at": "2022-11-12T07:32:24+01:00",
+    "updated_at": "2022-11-12T07:36:42+01:00",
+    "media_id": "9yux1g1agngs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6235659/ns-kan-weer-geen-reisinformatie-geven-op-digitale-borden-door-storing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6235449,
+    "slug": "waarom-superskinny-schoonheidsideaal-nooit-echt-een-comeback-kan-maken",
+    "type": "video",
+    "title": "Waarom superskinny schoonheidsideaal nooit écht een comeback kan maken",
+    "subtitle": "Video",
+    "published_at": "2022-11-12T07:23:09+01:00",
+    "updated_at": "2022-11-12T07:23:38+01:00",
+    "media_id": "jngxmska9ec6",
+    "duration": "1:59",
+    "canonical_section": {
+      "id": 1778830,
+      "slug": "nu-uitgelegd",
+      "type": "default",
+      "name": "NU-uitgelegd",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nu-uitgelegd/6235449/waarom-superskinny-schoonheidsideaal-nooit-echt-een-comeback-kan-maken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235654,
     "slug": "goed-nieuws-najaarsgolf-coronavirus-voorbij-oudste-volledige-zin-gevonden",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Het graf van F1-legende Ayrton Senna is net zo bescheiden als hijzelf was",
     "subtitle": "NU+",
     "published_at": "2022-11-12T06:08:59+01:00",
-    "updated_at": "2022-11-12T06:09:00+01:00",
+    "updated_at": "2022-11-12T07:36:37+01:00",
     "media_id": "x8ux1lpa15k6",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport/6235643/messi-geeft-neymar-panna-op-training-paris-saint-germain.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235642,
-    "slug": "goal-sem-steijn-tegen-vader-maurice-niet-genoeg-voor-zege-fc-twente-bij-sparta",
-    "type": "article",
-    "title": "Goal Sem Steijn tegen vader Maurice niet genoeg voor zege FC Twente bij Sparta",
-    "subtitle": null,
-    "published_at": "2022-11-11T21:52:32+01:00",
-    "updated_at": "2022-11-11T22:53:12+01:00",
-    "media_id": "njuxh4zamz5c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6235642/goal-sem-steijn-tegen-vader-maurice-niet-genoeg-voor-zege-fc-twente-bij-sparta.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235441,
-    "slug": "leveren-zonnepanelen-nog-wat-op-de-winter",
-    "type": "article",
-    "title": "Leveren zonnepanelen nog wat op de winter?",
-    "subtitle": null,
-    "published_at": "2022-11-11T21:49:33+01:00",
-    "updated_at": "2022-11-11T21:49:34+01:00",
-    "media_id": "c4cxgasa19hn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772342,
-      "slug": "wonen",
-      "type": "default",
-      "name": "Wonen",
-      "style": "nuzakelijk",
-      "media_id": "3qlxtaiahydl",
-      "partner": null
-    },
-    "url": "/wonen/6235441/leveren-zonnepanelen-nog-wat-op-de-winter.html",
     "open_new_window": false,
     "partner": null
   }
