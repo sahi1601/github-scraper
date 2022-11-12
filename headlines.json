@@ -1,5 +1,28 @@
 [
   {
+    "id": 6235699,
+    "slug": "aardverschuiving-in-venezuela-verwoest-tientallen-huizen",
+    "type": "video",
+    "title": "Aardverschuiving in Venezuela verwoest tientallen huizen",
+    "subtitle": "Video",
+    "published_at": "2022-11-12T11:21:21+01:00",
+    "updated_at": "2022-11-12T11:21:22+01:00",
+    "media_id": "lp2xd22aaljy",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6235699/aardverschuiving-in-venezuela-verwoest-tientallen-huizen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235693,
     "slug": "steijn-ziet-zoon-scoren-tegen-sparta-moeder-had-een-duidelijke-voorkeur",
     "type": "article",
@@ -52,8 +75,8 @@
     "title": "Graffitikunstenaar Banksy onthult nieuw werk in Oekraïense stad Borodyanka",
     "subtitle": null,
     "published_at": "2022-11-12T10:52:29+01:00",
-    "updated_at": "2022-11-12T10:59:35+01:00",
-    "media_id": "525xagyaoc0o",
+    "updated_at": "2022-11-12T11:29:28+01:00",
+    "media_id": "jyqxkjrawc49",
     "duration": null,
     "canonical_section": {
       "id": 1778980,
@@ -75,7 +98,7 @@
     "title": "Zorgverzekeraars maken flink hogere premies bekend: tot 10 euro erbij",
     "subtitle": null,
     "published_at": "2022-11-12T10:43:24+01:00",
-    "updated_at": "2022-11-12T11:15:28+01:00",
+    "updated_at": "2022-11-12T11:28:52+01:00",
     "media_id": "06xxbvhapt5i",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/nu-uitgelegd/6235449/waarom-superskinny-schoonheidsideaal-nooit-echt-comeback-kan-maken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235654,
-    "slug": "goed-nieuws-najaarsgolf-coronavirus-voorbij-oudste-volledige-zin-gevonden",
-    "type": "article",
-    "title": "Goed nieuws:  Najaarsgolf coronavirus voorbij | Oudste volledige zin gevonden",
-    "subtitle": null,
-    "published_at": "2022-11-12T06:36:27+01:00",
-    "updated_at": "2022-11-12T09:03:23+01:00",
-    "media_id": "obyxk2nalw7f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6235654/goed-nieuws-najaarsgolf-coronavirus-voorbij-oudste-volledige-zin-gevonden.html",
     "open_new_window": false,
     "partner": null
   }
