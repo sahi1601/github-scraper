@@ -1,12 +1,35 @@
 [
   {
-    "id": 6235806,
-    "slug": "horner-we-dachten-dat-de-zachte-band-het-niet-lang-vol-zou-houden",
+    "id": 6235529,
+    "slug": "mercedes-wint-met-hamilton-eerste-race-van-het-jaar",
     "type": "article",
-    "title": "Horner: 'We dachten dat de zachte band het niet lang vol zou houden'",
+    "title": "'Mercedes wint met Hamilton eerste race van het jaar'",
+    "subtitle": "Voorspelling F1",
+    "published_at": "2022-11-12T22:39:45+01:00",
+    "updated_at": "2022-11-12T22:39:46+01:00",
+    "media_id": "u9sxliqau5cn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Grand Prix van Brazilië",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6235529/mercedes-wint-met-hamilton-eerste-race-van-het-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6235806,
+    "slug": "horner-we-dachten-dat-de-zachte-band-het-niet-lang-zou-volhouden",
+    "type": "article",
+    "title": "Horner: 'We dachten dat de zachte band het niet lang zou volhouden'",
     "subtitle": null,
     "published_at": "2022-11-12T22:26:48+01:00",
-    "updated_at": "2022-11-12T22:26:49+01:00",
+    "updated_at": "2022-11-12T22:29:22+01:00",
     "media_id": "nz8xbkja4q76",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6235806/horner-we-dachten-dat-de-zachte-band-het-niet-lang-vol-zou-houden.html",
+    "url": "/formule-1/6235806/horner-we-dachten-dat-de-zachte-band-het-niet-lang-zou-volhouden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6235785/cardi-b-zit-in-nachtmerrie-na-overlijden-migos-rapper-takeoff.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235784,
-    "slug": "inwoners-kherson-over-lange-russische-bezetting-geen-water-wel-martelingen",
-    "type": "article",
-    "title": "Inwoners Kherson over lange Russische bezetting: 'Geen water, wel martelingen'",
-    "subtitle": null,
-    "published_at": "2022-11-12T18:00:38+01:00",
-    "updated_at": "2022-11-12T18:15:58+01:00",
-    "media_id": "nrtxdstarb20",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6235784/inwoners-kherson-over-lange-russische-bezetting-geen-water-wel-martelingen.html",
     "open_new_window": false,
     "partner": null
   }
