@@ -1,12 +1,35 @@
 [
   {
+    "id": 6235752,
+    "slug": "nederlandse-tennissters-in-billie-jean-king-cup-kansloos-onderuit-tegen-frankrijk",
+    "type": "article",
+    "title": "Nederlandse tennissters in Billie Jean King Cup kansloos onderuit tegen Frankrijk",
+    "subtitle": null,
+    "published_at": "2022-11-12T15:34:09+01:00",
+    "updated_at": "2022-11-12T15:43:11+01:00",
+    "media_id": "bebx25eap3c0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6235752/nederlandse-tennissters-in-billie-jean-king-cup-kansloos-onderuit-tegen-frankrijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235748,
     "slug": "janmaat-vertrekt-al-na-vijf-maanden-als-technisch-manager-bij-dolend-ado",
     "type": "article",
     "title": "Janmaat vertrekt al na vijf maanden als technisch manager bij dolend ADO",
     "subtitle": null,
     "published_at": "2022-11-12T15:19:05+01:00",
-    "updated_at": "2022-11-12T15:26:38+01:00",
+    "updated_at": "2022-11-12T15:28:33+01:00",
     "media_id": "0mqx7o1asi5y",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6235687/graffitikunstenaar-banksy-onthult-nieuw-werk-in-oekraiense-stad-borodyanka.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235671,
-    "slug": "zorgverzekeraars-maken-flink-hogere-premies-bekend-tot-10-euro-erbij",
-    "type": "article",
-    "title": "Zorgverzekeraars maken flink hogere premies bekend: tot 10 euro erbij",
-    "subtitle": null,
-    "published_at": "2022-11-12T10:43:24+01:00",
-    "updated_at": "2022-11-12T14:22:07+01:00",
-    "media_id": "06xxbvhapt5i",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6235671/zorgverzekeraars-maken-flink-hogere-premies-bekend-tot-10-euro-erbij.html",
     "open_new_window": false,
     "partner": null
   }
