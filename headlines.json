@@ -1,5 +1,28 @@
 [
   {
+    "id": 6235655,
+    "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "De Woordle van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2022-11-12T05:38:31+01:00",
+    "updated_at": "2022-11-12T05:38:32+01:00",
+    "media_id": "q90x8w2aq9up",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6235655/de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235475,
     "slug": "zoek-je-een-goedkope-smartphone-dit-zijn-de-beste-van-200-euro",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6235622/oekraine-herovert-kherson-wagner-group-traint-bij-de-grens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235638,
-    "slug": "voorzitter-bergkamp-denkt-niet-aan-opstappen-na-arib-zaak-onderzoek-gaat-door",
-    "type": "article",
-    "title": "Voorzitter Bergkamp denkt niet aan opstappen na Arib-zaak, onderzoek gaat door",
-    "subtitle": null,
-    "published_at": "2022-11-11T21:09:47+01:00",
-    "updated_at": "2022-11-11T22:08:45+01:00",
-    "media_id": "o1ex49aat7y5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6235638/voorzitter-bergkamp-denkt-niet-aan-opstappen-na-arib-zaak-onderzoek-gaat-door.html",
     "open_new_window": false,
     "partner": null
   }
