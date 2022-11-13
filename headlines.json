@@ -1,12 +1,35 @@
 [
   {
+    "id": 6235929,
+    "slug": "fortuna-duwt-groningen-dieper-in-de-zorgen-na-knotsgekke-slotfase-met-drie-goals",
+    "type": "article",
+    "title": "Fortuna duwt Groningen dieper in de zorgen na knotsgekke slotfase met drie goals",
+    "subtitle": null,
+    "published_at": "2022-11-13T16:41:52+01:00",
+    "updated_at": "2022-11-13T16:41:54+01:00",
+    "media_id": "91fx05ya9ywv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6235929/fortuna-duwt-groningen-dieper-in-de-zorgen-na-knotsgekke-slotfase-met-drie-goals.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235926,
     "slug": "sc-heerenveen-knokt-zich-langs-sc-cambuur-in-spannende-friese-derby",
     "type": "article",
     "title": "sc Heerenveen knokt zich langs SC Cambuur in spannende Friese derby",
     "subtitle": null,
     "published_at": "2022-11-13T16:30:34+01:00",
-    "updated_at": "2022-11-13T16:33:43+01:00",
+    "updated_at": "2022-11-13T16:37:00+01:00",
     "media_id": "ab3xrnoabzwx",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6235915,
-    "slug": "zeker-6-doden-en-53-gewonden-bij-explosie-in-drukke-winkelstraat-istanboel",
+    "slug": "zeker-6-doden-en-53-gewonden-bij-aanslag-in-drukke-winkelstraat-istanboel",
     "type": "article",
-    "title": "Zeker 6 doden en 53 gewonden bij explosie in drukke winkelstraat Istanboel",
+    "title": "Zeker 6 doden en 53 gewonden bij aanslag in drukke winkelstraat Istanboel",
     "subtitle": null,
     "published_at": "2022-11-13T15:17:53+01:00",
-    "updated_at": "2022-11-13T16:30:47+01:00",
+    "updated_at": "2022-11-13T16:39:16+01:00",
     "media_id": "2e5x08payde5",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6235915/zeker-6-doden-en-53-gewonden-bij-explosie-in-drukke-winkelstraat-istanboel.html",
+    "url": "/buitenland/6235915/zeker-6-doden-en-53-gewonden-bij-aanslag-in-drukke-winkelstraat-istanboel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +420,7 @@
     "title": "NEC boekt na cruciale redding Cillessen ruime overwinning op RKC Waalwijk",
     "subtitle": null,
     "published_at": "2022-11-13T14:11:46+01:00",
-    "updated_at": "2022-11-13T14:17:00+01:00",
+    "updated_at": "2022-11-13T16:34:05+01:00",
     "media_id": "2xixy7xaq3kr",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6235894/afrika-is-na-eerste-uitvoer-van-mozambique-weer-een-lng-exporteur-rijker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235892,
-    "slug": "fc-volendam-neemt-afstand-van-actie-met-zwarte-pieten-op-tribunes",
-    "type": "article",
-    "title": "FC Volendam neemt afstand van actie met Zwarte Pieten op tribunes",
-    "subtitle": null,
-    "published_at": "2022-11-13T12:36:18+01:00",
-    "updated_at": "2022-11-13T13:08:28+01:00",
-    "media_id": "dirxhuiacurh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6235892/fc-volendam-neemt-afstand-van-actie-met-zwarte-pieten-op-tribunes.html",
     "open_new_window": false,
     "partner": null
   }
