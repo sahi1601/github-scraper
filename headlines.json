@@ -1,5 +1,28 @@
 [
   {
+    "id": 6235883,
+    "slug": "rkc-doelman-vaessen-verslaapt-zich-en-mist-eredivisie-duel-met-nec",
+    "type": "article",
+    "title": "RKC-doelman Vaessen verslaapt zich en mist Eredivisie-duel met NEC",
+    "subtitle": null,
+    "published_at": "2022-11-13T12:13:35+01:00",
+    "updated_at": "2022-11-13T12:28:03+01:00",
+    "media_id": "vwixq1paobzv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6235883/rkc-doelman-vaessen-verslaapt-zich-en-mist-eredivisie-duel-met-nec.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235501,
     "slug": "review-deze-slimme-lampen-voelen-dat-je-de-kamer-binnenloopt",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Klokken van Big Ben verbreken na restauratie van vijf jaar definitief de stilte",
     "subtitle": null,
     "published_at": "2022-11-13T12:03:20+01:00",
-    "updated_at": "2022-11-13T12:05:47+01:00",
+    "updated_at": "2022-11-13T12:18:34+01:00",
     "media_id": "glgxx9gac878",
     "duration": null,
     "canonical_section": {
@@ -70,13 +93,13 @@
   },
   {
     "id": 6235867,
-    "slug": "nec-treft-rkc-met-door-van-gaal-gepasseerde-cillessen",
+    "slug": "rkc-leidt-tegen-nec-van-cillessen-dankzij-rake-strafschop",
     "type": "article",
-    "title": "NEC treft RKC mét door Van Gaal gepasseerde Cillessen",
+    "title": "RKC leidt tegen NEC van Cillessen dankzij rake strafschop",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-11-13T11:30:56+01:00",
-    "updated_at": "2022-11-13T11:52:49+01:00",
-    "media_id": "4awxs8lajrz5",
+    "updated_at": "2022-11-13T12:25:27+01:00",
+    "media_id": "ao7xjwwawktq",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6235867/nec-treft-rkc-met-door-van-gaal-gepasseerde-cillessen.html",
+    "url": "/voetbal/6235867/rkc-leidt-tegen-nec-van-cillessen-dankzij-rake-strafschop.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Deel van Amsterdams appartementencomplex ingestort door brand",
     "subtitle": null,
     "published_at": "2022-11-13T10:14:21+01:00",
-    "updated_at": "2022-11-13T12:11:08+01:00",
+    "updated_at": "2022-11-13T12:23:10+01:00",
     "media_id": "0hixfvnas8ut",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6235820/gekweekt-bloed-getest-op-mensen-zo-werkt-het.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235819,
-    "slug": "de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "De Woordle van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2022-11-13T05:28:05+01:00",
-    "updated_at": "2022-11-13T05:28:06+01:00",
-    "media_id": "q90x8w2aq9up",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6235819/de-woordle-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
