@@ -1,12 +1,35 @@
 [
   {
+    "id": 6235952,
+    "slug": "verstappen-botst-met-hamilton-bij-herstart-van-race-in-brazilie",
+    "type": "video",
+    "title": "Verstappen botst met Hamilton bij herstart van race in Brazilië",
+    "subtitle": "Video",
+    "published_at": "2022-11-13T19:41:54+01:00",
+    "updated_at": "2022-11-13T19:45:22+01:00",
+    "media_id": "1qrxeikabjvt",
+    "duration": "2:23",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6235952/verstappen-botst-met-hamilton-bij-herstart-van-race-in-brazilie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235951,
     "slug": "union-berlin-gaat-opnieuw-hard-onderuit-en-verliest-tweede-plek-aan-freiburg",
     "type": "article",
     "title": "Union Berlin gaat opnieuw hard onderuit en verliest tweede plek aan Freiburg",
     "subtitle": null,
     "published_at": "2022-11-13T19:33:08+01:00",
-    "updated_at": "2022-11-13T19:33:09+01:00",
+    "updated_at": "2022-11-13T19:44:15+01:00",
     "media_id": "d29x1ikagmem",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6235942,
-    "slug": "reacties-na-uitschakeling-oranje-door-gelijkspel-tegen-spanje",
+    "slug": "reacties-na-domper-oranje-door-gelijkspel-tegen-spanje",
     "type": "article",
-    "title": "Reacties na uitschakeling Oranje door gelijkspel tegen Spanje",
+    "title": "Reacties na domper Oranje door gelijkspel tegen Spanje",
     "subtitle": "Liveblog EK handbal",
     "published_at": "2022-11-13T17:51:55+01:00",
-    "updated_at": "2022-11-13T19:31:33+01:00",
+    "updated_at": "2022-11-13T19:40:55+01:00",
     "media_id": "1vmxjgyascoz",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6235942/reacties-na-uitschakeling-oranje-door-gelijkspel-tegen-spanje.html",
+    "url": "/sport-overig/6235942/reacties-na-domper-oranje-door-gelijkspel-tegen-spanje.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6235907/van-anrooij-doorbreekt-zegereeks-van-empel-en-wint-vijfde-wereldbekercross.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235919,
-    "slug": "hond-met-liftangst-dwingt-jan-slagter-te-verhuizen-uit-net-gehuurd-appartement",
-    "type": "article",
-    "title": "Hond met liftangst dwingt Jan Slagter te verhuizen uit net gehuurd appartement",
-    "subtitle": null,
-    "published_at": "2022-11-13T15:38:29+01:00",
-    "updated_at": "2022-11-13T15:57:32+01:00",
-    "media_id": "x3bxfw8atdyk",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6235919/hond-met-liftangst-dwingt-jan-slagter-te-verhuizen-uit-net-gehuurd-appartement.html",
     "open_new_window": false,
     "partner": null
   }
