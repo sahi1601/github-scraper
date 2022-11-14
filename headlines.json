@@ -1,5 +1,28 @@
 [
   {
+    "id": 6236004,
+    "slug": "twee-dagen-per-week-thuiswerken-is-nog-steeds-de-norm",
+    "type": "article",
+    "title": "Twee dagen per week thuiswerken is nog steeds de norm",
+    "subtitle": null,
+    "published_at": "2022-11-14T10:24:33+01:00",
+    "updated_at": "2022-11-14T10:24:34+01:00",
+    "media_id": "udzx2bra1on2",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6236004/twee-dagen-per-week-thuiswerken-is-nog-steeds-de-norm.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235998,
     "slug": "coronapil-paxlovid-vanaf-dinsdag-vergoed-vanuit-basisverzekering-risicopatient",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6235979/taylor-swift-grote-winnaar-mtv-europe-music-awards.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6235977,
-    "slug": "weerbericht-zonnige-dag-met-in-de-avond-wat-meer-bewolking",
-    "type": "article",
-    "title": "Weerbericht: Zonnige dag met in de avond wat meer bewolking",
-    "subtitle": null,
-    "published_at": "2022-11-14T05:33:22+01:00",
-    "updated_at": "2022-11-14T07:37:36+01:00",
-    "media_id": "m1oxoa0aom3m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6235977/weerbericht-zonnige-dag-met-in-de-avond-wat-meer-bewolking.html",
     "open_new_window": false,
     "partner": null
   }
