@@ -1,5 +1,28 @@
 [
   {
+    "id": 6236158,
+    "slug": "bergkamp-vraagt-toch-geen-kameruitspraak-over-onderzoek-arib",
+    "type": "article",
+    "title": "Bergkamp vraagt toch geen Kameruitspraak over onderzoek Arib",
+    "subtitle": null,
+    "published_at": "2022-11-14T21:37:14+01:00",
+    "updated_at": "2022-11-14T21:37:15+01:00",
+    "media_id": "4joxy7vaqpib",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6236158/bergkamp-vraagt-toch-geen-kameruitspraak-over-onderzoek-arib.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236050,
     "slug": "kampeerauto-voor-dagelijks-gebruik-wordt-steeds-aantrekkelijker",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Sneijder stopt alweer met bijstaan Ihattaren: 'Hij kan de knop nog niet omzetten'",
     "subtitle": null,
     "published_at": "2022-11-14T21:10:31+01:00",
-    "updated_at": "2022-11-14T21:32:20+01:00",
+    "updated_at": "2022-11-14T21:39:19+01:00",
     "media_id": "qekxgc6a8yrh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6236114/zelensky-noemt-herovering-kherson-begin-van-einde-van-oorlog.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236110,
-    "slug": "ontslagen-wormuth-haalt-uit-naar-fc-groningen-voelde-me-geestelijk-onveilig",
-    "type": "article",
-    "title": "Ontslagen Wormuth haalt uit naar FC Groningen: 'Voelde me geestelijk onveilig'",
-    "subtitle": null,
-    "published_at": "2022-11-14T18:00:37+01:00",
-    "updated_at": "2022-11-14T18:00:48+01:00",
-    "media_id": "otuxdm7aurk6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6236110/ontslagen-wormuth-haalt-uit-naar-fc-groningen-voelde-me-geestelijk-onveilig.html",
     "open_new_window": false,
     "partner": null
   }
