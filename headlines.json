@@ -1,12 +1,35 @@
 [
   {
+    "id": 6236787,
+    "slug": "westenbroek-doet-toch-niet-mee-aan-world-cup-in-thialf-vanwege-teenblessure",
+    "type": "article",
+    "title": "Westenbroek doet toch niet mee aan World Cup in Thialf vanwege teenblessure",
+    "subtitle": null,
+    "published_at": "2022-11-17T15:19:37+01:00",
+    "updated_at": "2022-11-17T15:19:38+01:00",
+    "media_id": "y4wxxoja7nbm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6236787/westenbroek-doet-toch-niet-mee-aan-world-cup-in-thialf-vanwege-teenblessure.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236786,
     "slug": "privacywaakhond-waarschuwt-wk-gangers-voor-verplichte-qatarese-apps",
     "type": "article",
     "title": "Privacywaakhond waarschuwt WK-gangers voor verplichte Qatarese apps",
     "subtitle": null,
     "published_at": "2022-11-17T15:01:29+01:00",
-    "updated_at": "2022-11-17T15:03:56+01:00",
+    "updated_at": "2022-11-17T15:19:26+01:00",
     "media_id": "irpxrzcado2c",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Danny de Munk keert op korte termijn nog niet terug op RTL",
     "subtitle": null,
     "published_at": "2022-11-17T14:17:25+01:00",
-    "updated_at": "2022-11-17T14:17:26+01:00",
+    "updated_at": "2022-11-17T15:24:01+01:00",
     "media_id": "1p5x3jqajmjd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6236745/inflatie-in-eurolanden-stijgt-naar-nieuwe-recordhoogte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236746,
-    "slug": "ravage-na-explosie-bij-hiphoplabel-in-centrum-rotterdam",
-    "type": "video",
-    "title": "Ravage na explosie bij hiphoplabel in centrum Rotterdam",
-    "subtitle": "Video",
-    "published_at": "2022-11-17T11:53:33+01:00",
-    "updated_at": "2022-11-17T11:53:34+01:00",
-    "media_id": "qkoxaqnar8ne",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1772353,
-      "slug": "rotterdam",
-      "type": "region",
-      "name": "Rotterdam",
-      "style": "mediapartner-internal",
-      "media_id": "zfzx6hta4he6",
-      "partner": null
-    },
-    "url": "/rotterdam/6236746/ravage-na-explosie-bij-hiphoplabel-in-centrum-rotterdam.html",
     "open_new_window": false,
     "partner": null
   }
