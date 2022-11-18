@@ -1,12 +1,81 @@
 [
   {
+    "id": 6236985,
+    "slug": "rel-rond-verstappen-en-teamorders-is-nu-wel-klaar",
+    "type": "audio",
+    "title": "Rel rond Verstappen en teamorders is nu wel klaar",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2022-11-18T11:13:47+01:00",
+    "updated_at": "2022-11-18T11:13:48+01:00",
+    "media_id": "d7txn41aiq2x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1776659,
+      "slug": "de-boordradio",
+      "type": "default",
+      "name": "De Boordradio",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/de-boordradio/6236985/rel-rond-verstappen-en-teamorders-is-nu-wel-klaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6236981,
+    "slug": "eerste-training-zonder-verstappen-begonnen",
+    "type": "article",
+    "title": "Eerste training zonder Verstappen begonnen",
+    "subtitle": "Liveblog F1",
+    "published_at": "2022-11-18T10:56:32+01:00",
+    "updated_at": "2022-11-18T11:15:54+01:00",
+    "media_id": "yctxocaarhq0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Grand Prix van Abu Dhabi",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6236981/eerste-training-zonder-verstappen-begonnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6236977,
+    "slug": "treinverkeer-tussen-nederland-en-berlijn-aangepast-vanwege-botsing",
+    "type": "article",
+    "title": "Treinverkeer tussen Nederland en Berlijn aangepast vanwege botsing",
+    "subtitle": null,
+    "published_at": "2022-11-18T10:43:17+01:00",
+    "updated_at": "2022-11-18T11:06:57+01:00",
+    "media_id": "jkcx5tbavqji",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6236977/treinverkeer-tussen-nederland-en-berlijn-aangepast-vanwege-botsing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236971,
     "slug": "nederlanders-kunnen-maar-moeilijk-afstand-doen-van-oude-smartphone",
     "type": "article",
     "title": "Nederlanders kunnen maar moeilijk afstand doen van oude smartphone",
     "subtitle": null,
     "published_at": "2022-11-18T10:40:11+01:00",
-    "updated_at": "2022-11-18T10:40:12+01:00",
+    "updated_at": "2022-11-18T10:43:44+01:00",
     "media_id": "239xhyuajjrv",
     "duration": null,
     "canonical_section": {
@@ -139,12 +208,12 @@
   },
   {
     "id": 6236946,
-    "slug": "rechter-doet-uitspraak-in-mallorca-zaak",
+    "slug": "rechter-doet-uitspraak-in-mallorca-zaak-veroordeling-doodslag-en-celstraffen-zullen-volgen",
     "type": "video",
-    "title": "Rechter doet uitspraak in Mallorca-zaak",
+    "title": "Rechter doet uitspraak in Mallorca-zaak, veroordeling doodslag en celstraffen zullen volgen",
     "subtitle": "Livestream",
     "published_at": "2022-11-18T09:56:24+01:00",
-    "updated_at": "2022-11-18T09:56:25+01:00",
+    "updated_at": "2022-11-18T10:42:58+01:00",
     "media_id": "fj2xy3rar4vd",
     "duration": "0:01",
     "canonical_section": {
@@ -156,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6236946/rechter-doet-uitspraak-in-mallorca-zaak.html",
+    "url": "/binnenland/6236946/rechter-doet-uitspraak-in-mallorca-zaak-veroordeling-doodslag-en-celstraffen-zullen-volgen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +236,7 @@
     "title": "Oranje traint opnieuw met complete selectie richting WK-duel met Senegal",
     "subtitle": null,
     "published_at": "2022-11-18T09:54:50+01:00",
-    "updated_at": "2022-11-18T10:37:23+01:00",
+    "updated_at": "2022-11-18T10:43:19+01:00",
     "media_id": "4nwxu9pam94h",
     "duration": null,
     "canonical_section": {
@@ -185,12 +254,12 @@
   },
   {
     "id": 6236951,
-    "slug": "benzineprijs-ietsje-onder-2-euro-laagste-niveau-in-ruim-een-jaar",
+    "slug": "benzineprijs-duikt-onder-de-2-euro-laagste-niveau-in-ruim-een-jaar",
     "type": "article",
-    "title": "Benzineprijs ietsje onder 2 euro, laagste niveau in ruim een jaar",
+    "title": "Benzineprijs duikt onder de 2 euro, laagste niveau in ruim een jaar",
     "subtitle": null,
     "published_at": "2022-11-18T09:51:38+01:00",
-    "updated_at": "2022-11-18T09:51:39+01:00",
+    "updated_at": "2022-11-18T11:03:32+01:00",
     "media_id": "uzexzweavg7k",
     "duration": null,
     "canonical_section": {
@@ -202,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6236951/benzineprijs-ietsje-onder-2-euro-laagste-niveau-in-ruim-een-jaar.html",
+    "url": "/economie/6236951/benzineprijs-duikt-onder-de-2-euro-laagste-niveau-in-ruim-een-jaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +328,7 @@
     "title": "Sporen van explosieven gevonden op brokstukken van gaspijplijn Nord Stream",
     "subtitle": null,
     "published_at": "2022-11-18T09:40:13+01:00",
-    "updated_at": "2022-11-18T10:05:04+01:00",
+    "updated_at": "2022-11-18T10:44:57+01:00",
     "media_id": "fnaxh4darmdr",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6236905/sting-breekt-concert-in-afas-live-af-vanwege-stemproblemen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236804,
-    "slug": "iraniers-klaar-met-het-regime-zo-leidt-ayatollah-khamenei-het-land",
-    "type": "video",
-    "title": "Iraniërs klaar met het regime: zo leidt ayatollah Khamenei het land",
-    "subtitle": "Video",
-    "published_at": "2022-11-18T06:04:03+01:00",
-    "updated_at": "2022-11-18T06:04:04+01:00",
-    "media_id": "du5xn3va2jyl",
-    "duration": "2:38",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6236804/iraniers-klaar-met-het-regime-zo-leidt-ayatollah-khamenei-het-land.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236304,
-    "slug": "het-lastige-leven-van-succesvolle-iraanse-filmmakers-is-een-mijnenveld",
-    "type": "article",
-    "title": "Het lastige leven van succesvolle Iraanse filmmakers: 'Is een mijnenveld'",
-    "subtitle": "NU+",
-    "published_at": "2022-11-18T06:03:34+01:00",
-    "updated_at": "2022-11-18T07:10:50+01:00",
-    "media_id": "pvlx3o0a5w6t",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6236304/het-lastige-leven-van-succesvolle-iraanse-filmmakers-is-een-mijnenveld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236300,
-    "slug": "oppermachtige-verstappen-falende-ferraris-en-debuut-de-vries",
-    "type": "article",
-    "title": "Oppermachtige Verstappen, falende Ferrari's en debuut De Vries",
-    "subtitle": "Tijdlijn F1-jaar",
-    "published_at": "2022-11-18T06:02:42+01:00",
-    "updated_at": "2022-11-18T07:27:59+01:00",
-    "media_id": "4y4x7dnaywmp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Grand Prix van Abu Dhabi",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6236300/oppermachtige-verstappen-falende-ferraris-en-debuut-de-vries.html",
     "open_new_window": false,
     "partner": null
   }
