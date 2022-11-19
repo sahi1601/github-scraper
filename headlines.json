@@ -1,5 +1,28 @@
 [
   {
+    "id": 6237219,
+    "slug": "fifa-baas-haalt-uit-naar-europa-kijk-naar-je-eigen-verleden",
+    "type": "video",
+    "title": "FIFA-baas haalt uit naar Europa: ‘Kijk naar je eigen verleden’",
+    "subtitle": "Video",
+    "published_at": "2022-11-19T16:19:31+01:00",
+    "updated_at": "2022-11-19T16:19:55+01:00",
+    "media_id": "80lxe9paoreh",
+    "duration": "1:11",
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237219/fifa-baas-haalt-uit-naar-europa-kijk-naar-je-eigen-verleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237205,
     "slug": "verstappen-pakt-pole-voor-slotrace-in-abu-dhabi-teamgenoot-perez-tweede",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6237094/cryptobeurs-ftx-failliet-klanten-krijgen-geld-waarschijnlijk-niet-terug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237170,
-    "slug": "enorme-ravage-na-dodelijke-gasexplosie-in-russisch-flatgebouw",
-    "type": "video",
-    "title": "Enorme ravage na dodelijke gasexplosie in Russisch flatgebouw",
-    "subtitle": "Video",
-    "published_at": "2022-11-19T11:32:56+01:00",
-    "updated_at": "2022-11-19T11:57:10+01:00",
-    "media_id": "6hex8u1ak64v",
-    "duration": "0:35",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6237170/enorme-ravage-na-dodelijke-gasexplosie-in-russisch-flatgebouw.html",
     "open_new_window": false,
     "partner": null
   }
