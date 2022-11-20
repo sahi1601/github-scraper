@@ -1,13 +1,36 @@
 [
   {
+    "id": 6237344,
+    "slug": "senegal-leeft-zonder-mane-toe-naar-duel-met-oranje-sportwereld-mist-hem",
+    "type": "article",
+    "title": "Senegal leeft zonder Mané toe naar duel met Oranje: 'Sportwereld mist hem'",
+    "subtitle": null,
+    "published_at": "2022-11-20T13:42:50+01:00",
+    "updated_at": "2022-11-20T13:47:52+01:00",
+    "media_id": "b17xoa7aml21",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237344/senegal-leeft-zonder-mane-toe-naar-duel-met-oranje-sportwereld-mist-hem.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237343,
     "slug": "van-gaal-lijkt-tegen-senegal-te-kiezen-voor-noppert-was-geen-moeilijke-keuze",
     "type": "article",
     "title": "Van Gaal lijkt tegen Senegal te kiezen voor Noppert: 'Was geen moeilijke keuze'",
     "subtitle": null,
     "published_at": "2022-11-20T13:20:41+01:00",
-    "updated_at": "2022-11-20T13:25:48+01:00",
-    "media_id": "dv4xmdea9vmr",
+    "updated_at": "2022-11-20T13:50:41+01:00",
+    "media_id": "wgixrpnas4rr",
     "duration": null,
     "canonical_section": {
       "id": 1772307,
@@ -29,7 +52,7 @@
     "title": "Verstappen begint van pole aan laatste GP van seizoen",
     "subtitle": "Liveblog F1",
     "published_at": "2022-11-20T13:17:49+01:00",
-    "updated_at": "2022-11-20T13:28:12+01:00",
+    "updated_at": "2022-11-20T13:37:40+01:00",
     "media_id": "kd9xujmabyge",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6237339,
-    "slug": "sneeuwlandschappen-nog-niet-over-zondagavond-al-kan-het-lokaal-wit-kleuren",
+    "slug": "noorden-van-nederland-kleurde-al-een-beetje-wit-vanavond-weer-kans-sneeuw",
     "type": "article",
-    "title": "Sneeuwlandschappen nog niet over: zondagavond al kan het lokaal wit kleuren",
+    "title": "Noorden van Nederland kleurde al een beetje wit, vanavond weer kans sneeuw",
     "subtitle": null,
     "published_at": "2022-11-20T13:02:24+01:00",
-    "updated_at": "2022-11-20T13:06:59+01:00",
+    "updated_at": "2022-11-20T14:03:04+01:00",
     "media_id": "lxuxj2waxz6c",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6237339/sneeuwlandschappen-nog-niet-over-zondagavond-al-kan-het-lokaal-wit-kleuren.html",
+    "url": "/binnenland/6237339/noorden-van-nederland-kleurde-al-een-beetje-wit-vanavond-weer-kans-sneeuw.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6237295/benzema-reageert-op-mislopen-wk-door-blessure-moet-aan-het-team-denken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237204,
-    "slug": "we-volgen-de-regels-in-qatar-maar-dit-was-intimidatie",
-    "type": "article",
-    "title": "We volgen de regels in Qatar, maar dit was intimidatie",
-    "subtitle": "Van de hoofdredactie",
-    "published_at": "2022-11-20T08:10:08+01:00",
-    "updated_at": "2022-11-20T09:12:18+01:00",
-    "media_id": "064xwsaanmpn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772069,
-      "slug": "blog",
-      "type": "default",
-      "name": "Van de hoofdredactie",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/blog/6237204/we-volgen-de-regels-in-qatar-maar-dit-was-intimidatie.html",
     "open_new_window": false,
     "partner": null
   }
