@@ -1,5 +1,28 @@
 [
   {
+    "id": 6237350,
+    "slug": "kim-boekt-tweede-wereldbekerzege-op-500-meter-leerdam-weer-op-podium",
+    "type": "article",
+    "title": "Kim boekt tweede wereldbekerzege op 500 meter, Leerdam weer op podium",
+    "subtitle": null,
+    "published_at": "2022-11-20T14:43:57+01:00",
+    "updated_at": "2022-11-20T14:43:58+01:00",
+    "media_id": "a26x33va2r3q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6237350/kim-boekt-tweede-wereldbekerzege-op-500-meter-leerdam-weer-op-podium.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237345,
     "slug": "ajax-vrouwen-klopt-psv-dankzij-vrije-trap-leuchter-en-blijft-foutloos-in-eredivisie",
     "type": "article",
@@ -116,12 +139,12 @@
   },
   {
     "id": 6237341,
-    "slug": "verstappen-leidt-voor-perez-in-grand-prix-abu-dhabi",
+    "slug": "verstappen-comfortabel-aan-de-leiding-in-abu-dhabi",
     "type": "article",
-    "title": "Verstappen leidt voor Pérez in Grand Prix Abu Dhabi",
+    "title": "Verstappen comfortabel aan de leiding in Abu Dhabi",
     "subtitle": "Liveblog F1",
     "published_at": "2022-11-20T13:17:49+01:00",
-    "updated_at": "2022-11-20T14:11:34+01:00",
+    "updated_at": "2022-11-20T14:38:27+01:00",
     "media_id": "3tuxn3va1u4n",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6237341/verstappen-leidt-voor-perez-in-grand-prix-abu-dhabi.html",
+    "url": "/formule-1/6237341/verstappen-comfortabel-aan-de-leiding-in-abu-dhabi.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6237306/new-york-getroffen-door-sneeuwstorm.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237230,
-    "slug": "bekijk-hier-de-startopstelling-van-de-gp-van-abu-dhabi-met-verstappen-op-pole",
-    "type": "article",
-    "title": "Bekijk hier de startopstelling van de GP van Abu Dhabi met Verstappen op pole",
-    "subtitle": null,
-    "published_at": "2022-11-20T09:38:42+01:00",
-    "updated_at": "2022-11-20T09:38:43+01:00",
-    "media_id": "uqvxqz6aavxd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Grand Prix van Abu Dhabi",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6237230/bekijk-hier-de-startopstelling-van-de-gp-van-abu-dhabi-met-verstappen-op-pole.html",
     "open_new_window": false,
     "partner": null
   }
