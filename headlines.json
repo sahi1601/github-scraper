@@ -1,12 +1,35 @@
 [
   {
+    "id": 6237329,
+    "slug": "deschamps-roept-geen-vervanger-op-voor-geblesseerde-benzema",
+    "type": "article",
+    "title": "Deschamps roept geen vervanger op voor geblesseerde Benzema",
+    "subtitle": null,
+    "published_at": "2022-11-20T11:37:24+01:00",
+    "updated_at": "2022-11-20T11:39:59+01:00",
+    "media_id": "bhax9qraai9d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237329/deschamps-roept-geen-vervanger-op-voor-geblesseerde-benzema.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237303,
     "slug": "doorbraak-of-doemsdagfonds-meningen-over-klimaattop-lopen-flink-uiteen",
     "type": "article",
     "title": "Doorbraak of 'doemsdagfonds'? Meningen over klimaattop lopen flink uiteen",
     "subtitle": null,
     "published_at": "2022-11-20T11:13:09+01:00",
-    "updated_at": "2022-11-20T11:31:34+01:00",
+    "updated_at": "2022-11-20T11:36:49+01:00",
     "media_id": "jzgx94ga9ueb",
     "duration": null,
     "canonical_section": {
@@ -369,13 +392,13 @@
   },
   {
     "id": 6237285,
-    "slug": "het-aftellen-tot-de-openingswedstrijd-is-begonnen",
+    "slug": "senegal-vult-plek-van-geblesseerde-mane-in-met-linksback",
     "type": "article",
-    "title": "Het aftellen tot de openingswedstrijd is begonnen",
+    "title": "Senegal vult plek van geblesseerde Mané in met linksback",
     "subtitle": "Liveblog WK",
     "published_at": "2022-11-20T07:03:05+01:00",
-    "updated_at": "2022-11-20T11:17:05+01:00",
-    "media_id": "staxd22a5biy",
+    "updated_at": "2022-11-20T11:44:57+01:00",
+    "media_id": "8cjxkcjaa7oz",
     "duration": null,
     "canonical_section": {
       "id": 1772307,
@@ -386,7 +409,7 @@
       "media_id": "m1mxoqoan7eu",
       "partner": null
     },
-    "url": "/wk-voetbal/6237285/het-aftellen-tot-de-openingswedstrijd-is-begonnen.html",
+    "url": "/wk-voetbal/6237285/senegal-vult-plek-van-geblesseerde-mane-in-met-linksback.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6237259/de-wonderlijke-weg-van-noppert-naar-het-wk-onkruid-vergaat-niet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236799,
-    "slug": "als-je-de-30-miljoen-euro-wint-ben-je-in-een-klap-vermogensbeheerder",
-    "type": "article",
-    "title": "Als je de 30 miljoen euro wint, ben je in één klap vermogensbeheerder",
-    "subtitle": null,
-    "published_at": "2022-11-20T06:18:51+01:00",
-    "updated_at": "2022-11-20T06:18:52+01:00",
-    "media_id": "qt9xr0za7coa",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6236799/als-je-de-30-miljoen-euro-wint-ben-je-in-een-klap-vermogensbeheerder.html",
     "open_new_window": false,
     "partner": null
   }
