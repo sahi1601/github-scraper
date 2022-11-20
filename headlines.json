@@ -1,5 +1,74 @@
 [
   {
+    "id": 6237204,
+    "slug": "we-houden-ons-aan-de-strenge-regels-in-qatar-maar-dit-was-intimidatie",
+    "type": "article",
+    "title": "We houden ons aan de strenge regels in Qatar, maar dit was intimidatie",
+    "subtitle": "Van de hoofdredactie",
+    "published_at": "2022-11-20T08:10:08+01:00",
+    "updated_at": "2022-11-20T08:10:09+01:00",
+    "media_id": "064xwsaanmpn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772069,
+      "slug": "blog",
+      "type": "default",
+      "name": "Van de hoofdredactie",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/blog/6237204/we-houden-ons-aan-de-strenge-regels-in-qatar-maar-dit-was-intimidatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237291,
+    "slug": "strooiwagens-op-pad-vanwege-eerste-nacht-met-matige-vorst",
+    "type": "video",
+    "title": "Strooiwagens op pad vanwege eerste nacht met matige vorst",
+    "subtitle": "Video",
+    "published_at": "2022-11-20T08:03:33+01:00",
+    "updated_at": "2022-11-20T08:03:33+01:00",
+    "media_id": "w0xxin4a7xaz",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6237291/strooiwagens-op-pad-vanwege-eerste-nacht-met-matige-vorst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237289,
+    "slug": "vs-rusland-gaat-met-iraanse-hulp-zelf-aanvalsdrones-ontwikkelen-voor-oekraine",
+    "type": "article",
+    "title": "VS: Rusland gaat met Iraanse hulp zelf aanvalsdrones ontwikkelen voor Oekraïne",
+    "subtitle": null,
+    "published_at": "2022-11-20T07:47:45+01:00",
+    "updated_at": "2022-11-20T07:47:46+01:00",
+    "media_id": "exlx6f6a1gad",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6237289/vs-rusland-gaat-met-iraanse-hulp-zelf-aanvalsdrones-ontwikkelen-voor-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237288,
     "slug": "nu-ook-officieel-eerste-matige-vorst-van-het-najaar-gemeten-in-de-bilt",
     "type": "article",
@@ -144,7 +213,7 @@
     "title": "Historische deal over klimaatschadefonds, maar concrete afspraken blijven uit",
     "subtitle": null,
     "published_at": "2022-11-20T06:06:29+01:00",
-    "updated_at": "2022-11-20T07:05:19+01:00",
+    "updated_at": "2022-11-20T08:09:50+01:00",
     "media_id": "06cxv8ya9ps9",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6237279/turkije-bombardeert-dorpen-in-syrie-ter-vergelding-van-aanslag-in-istanboel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237277,
-    "slug": "npo-voorzitter-over-angstcultuur-dwdd-hoe-heeft-dat-kunnen-gebeuren",
-    "type": "article",
-    "title": "NPO-voorzitter over angstcultuur DWDD: 'Hoe heeft dat kunnen gebeuren?'",
-    "subtitle": null,
-    "published_at": "2022-11-20T01:02:37+01:00",
-    "updated_at": "2022-11-20T01:02:37+01:00",
-    "media_id": "jxnx6ujaka2a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6237277/npo-voorzitter-over-angstcultuur-dwdd-hoe-heeft-dat-kunnen-gebeuren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237275,
-    "slug": "eerste-matige-vorst-van-dit-najaar-gemeten-vlak-bij-groningen",
-    "type": "article",
-    "title": "Eerste matige vorst van dit najaar gemeten vlak bij Groningen",
-    "subtitle": null,
-    "published_at": "2022-11-19T23:41:13+01:00",
-    "updated_at": "2022-11-19T23:41:14+01:00",
-    "media_id": "761xi7ga1blf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6237275/eerste-matige-vorst-van-dit-najaar-gemeten-vlak-bij-groningen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237272,
-    "slug": "van-gerwen-kan-voorbeeld-van-barneveld-niet-volgen-en-strandt-op-grand-slam",
-    "type": "article",
-    "title": "Van Gerwen kan voorbeeld Van Barneveld niet volgen en strandt op Grand Slam",
-    "subtitle": null,
-    "published_at": "2022-11-19T23:14:43+01:00",
-    "updated_at": "2022-11-19T23:40:52+01:00",
-    "media_id": "cx8xmrzaq0t5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6237272/van-gerwen-kan-voorbeeld-van-barneveld-niet-volgen-en-strandt-op-grand-slam.html",
     "open_new_window": false,
     "partner": null
   }
