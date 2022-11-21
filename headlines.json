@@ -1,12 +1,35 @@
 [
   {
+    "id": 6237423,
+    "slug": "perez-en-horner-ondanks-mislopen-van-tweede-plek-tevreden-over-f1-seizoen",
+    "type": "article",
+    "title": "Pérez en Horner ondanks mislopen van tweede plek tevreden over F1-seizoen",
+    "subtitle": null,
+    "published_at": "2022-11-21T08:16:15+01:00",
+    "updated_at": "2022-11-21T08:17:03+01:00",
+    "media_id": "f02xsiaa27vw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6237423/perez-en-horner-ondanks-mislopen-van-tweede-plek-tevreden-over-f1-seizoen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237419,
     "slug": "bnnvara-twijfelt-aan-spijtbetuiging-van-nieuwkerk-en-gaat-met-hem-in-gesprek",
     "type": "article",
     "title": "BNNVARA twijfelt aan spijtbetuiging Van Nieuwkerk en gaat met hem in gesprek",
     "subtitle": null,
     "published_at": "2022-11-21T08:02:15+01:00",
-    "updated_at": "2022-11-21T08:02:47+01:00",
+    "updated_at": "2022-11-21T08:27:50+01:00",
     "media_id": "5knxkv8anrb4",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Van Gaal kan tegen Senegal Oranje-bondscoach worden met meeste zeges ooit",
     "subtitle": null,
     "published_at": "2022-11-21T05:34:16+01:00",
-    "updated_at": "2022-11-21T05:34:17+01:00",
+    "updated_at": "2022-11-21T08:27:05+01:00",
     "media_id": "qkzxuj4am3g8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6237409/aardbeving-en-tsunamiwaarschuwing-voor-grieks-eiland-kreta.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237408,
-    "slug": "dode-bij-schietpartij-zuidland-mogelijke-verdachte-aangehouden-na-crash-a15",
-    "type": "article",
-    "title": "Dode bij schietpartij Zuidland, mogelijke verdachte aangehouden na crash A15",
-    "subtitle": null,
-    "published_at": "2022-11-21T02:00:10+01:00",
-    "updated_at": "2022-11-21T06:23:10+01:00",
-    "media_id": "99lxb3ra1lo1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6237408/dode-bij-schietpartij-zuidland-mogelijke-verdachte-aangehouden-na-crash-a15.html",
     "open_new_window": false,
     "partner": null
   }
