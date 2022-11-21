@@ -1,5 +1,74 @@
 [
   {
+    "id": 6237561,
+    "slug": "extern-en-onafhankelijk-onderzoek-naar-werkomstandigheden-dwdd",
+    "type": "article",
+    "title": "Extern en onafhankelijk onderzoek naar werkomstandigheden DWDD",
+    "subtitle": null,
+    "published_at": "2022-11-21T18:03:42+01:00",
+    "updated_at": "2022-11-21T18:15:49+01:00",
+    "media_id": "m1mxeewajc7i",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6237561/extern-en-onafhankelijk-onderzoek-naar-werkomstandigheden-dwdd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237560,
+    "slug": "messi-hoopt-vurig-op-wereldtitel-met-argentinie-maar-genieten-gaat-boven-alles",
+    "type": "article",
+    "title": "Messi hoopt vurig op wereldtitel met Argentinië: 'Maar genieten gaat boven alles'",
+    "subtitle": null,
+    "published_at": "2022-11-21T18:00:13+01:00",
+    "updated_at": "2022-11-21T18:01:45+01:00",
+    "media_id": "6s8xq26a0f4j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237560/messi-hoopt-vurig-op-wereldtitel-met-argentinie-maar-genieten-gaat-boven-alles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237559,
+    "slug": "facebook-introduceert-strengere-regels-voor-gebruikers-onder-zestien-jaar",
+    "type": "article",
+    "title": "Facebook introduceert strengere regels voor gebruikers onder zestien jaar",
+    "subtitle": null,
+    "published_at": "2022-11-21T17:55:51+01:00",
+    "updated_at": "2022-11-21T17:58:02+01:00",
+    "media_id": "bhpxd8xab6j4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6237559/facebook-introduceert-strengere-regels-voor-gebruikers-onder-zestien-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237552,
     "slug": "laptop-delen-whatsapp-web-werkt-aan-beveiliging-van-chats-met-wachtwoord",
     "type": "article",
@@ -29,7 +98,7 @@
     "title": "Staking PostNL dinsdag van de baan, actie op Black Friday nog steeds mogelijk",
     "subtitle": null,
     "published_at": "2022-11-21T17:21:15+01:00",
-    "updated_at": "2022-11-21T17:53:50+01:00",
+    "updated_at": "2022-11-21T17:54:23+01:00",
     "media_id": "n9uxas2an0y5",
     "duration": null,
     "canonical_section": {
@@ -98,7 +167,7 @@
     "title": "Proef met elektrische auto's die al rijdend worden opgeladen",
     "subtitle": null,
     "published_at": "2022-11-21T16:56:00+01:00",
-    "updated_at": "2022-11-21T16:56:01+01:00",
+    "updated_at": "2022-11-21T18:07:42+01:00",
     "media_id": "ttex9u2a3trf",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6237314/oranje-begint-met-debutant-noppert-de-ligt-en-berghuis-tegen-senegal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237520,
-    "slug": "om-eist-werk-en-celstraf-tegen-complotdenker-willem-engel",
-    "type": "video",
-    "title": "OM eist werk- en celstraf tegen complotdenker Willem Engel",
-    "subtitle": "Video",
-    "published_at": "2022-11-21T15:32:48+01:00",
-    "updated_at": "2022-11-21T15:55:44+01:00",
-    "media_id": "q6cx1lwa621c",
-    "duration": "0:35",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6237520/om-eist-werk-en-celstraf-tegen-complotdenker-willem-engel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237515,
-    "slug": "om-eist-180-uur-taakstraf-en-3-maanden-voorwaardelijke-cel-tegen-willem-engel",
-    "type": "article",
-    "title": "OM eist 180 uur taakstraf en 3 maanden voorwaardelijke cel tegen Willem Engel",
-    "subtitle": null,
-    "published_at": "2022-11-21T15:02:43+01:00",
-    "updated_at": "2022-11-21T17:49:17+01:00",
-    "media_id": "3t4xyflakgly",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6237515/om-eist-180-uur-taakstraf-en-3-maanden-voorwaardelijke-cel-tegen-willem-engel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237508,
-    "slug": "veel-nederlanders-doen-op-het-laatste-moment-toch-nog-mee-aan-wk-voetbalpools",
-    "type": "article",
-    "title": "Veel Nederlanders doen op het laatste moment toch nog mee aan WK voetbalpools",
-    "subtitle": null,
-    "published_at": "2022-11-21T14:11:28+01:00",
-    "updated_at": "2022-11-21T14:12:32+01:00",
-    "media_id": "mjxxe2ra7ol3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6237508/veel-nederlanders-doen-op-het-laatste-moment-toch-nog-mee-aan-wk-voetbalpools.html",
     "open_new_window": false,
     "partner": null
   }
