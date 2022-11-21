@@ -1,12 +1,35 @@
 [
   {
+    "id": 6237480,
+    "slug": "grote-ravage-na-dodelijke-aardbeving-op-java-in-indonesie",
+    "type": "video",
+    "title": "Grote ravage na dodelijke aardbeving op Java in Indonesië",
+    "subtitle": "Video",
+    "published_at": "2022-11-21T11:32:40+01:00",
+    "updated_at": "2022-11-21T11:32:41+01:00",
+    "media_id": "ebtx441ako6v",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6237480/grote-ravage-na-dodelijke-aardbeving-op-java-in-indonesie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237473,
     "slug": "rangers-ontslaat-trainer-van-bronckhorst-na-een-jaar-vanwege-slechte-resultaten",
     "type": "article",
     "title": "Rangers ontslaat trainer Van Bronckhorst na een jaar vanwege slechte resultaten",
     "subtitle": null,
     "published_at": "2022-11-21T11:17:54+01:00",
-    "updated_at": "2022-11-21T11:17:54+01:00",
+    "updated_at": "2022-11-21T11:30:25+01:00",
     "media_id": "fozxvriaar1c",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Viruswaarheid-voorman Willem Engel voor de rechter wegens opruiing",
     "subtitle": null,
     "published_at": "2022-11-21T11:00:45+01:00",
-    "updated_at": "2022-11-21T11:01:28+01:00",
+    "updated_at": "2022-11-21T11:30:33+01:00",
     "media_id": "373xblgae5j1",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6237463,
-    "slug": "perez-had-in-deze-red-bull-makkelijk-tweede-moeten-worden",
+    "slug": "perez-had-in-deze-red-bull-tweede-moeten-worden",
     "type": "audio",
-    "title": "'Pérez had in deze Red Bull makkelijk tweede moeten worden'",
+    "title": "'Pérez had in deze Red Bull tweede moeten worden'",
     "subtitle": "Podcast De Boordradio",
     "published_at": "2022-11-21T10:57:49+01:00",
-    "updated_at": "2022-11-21T10:57:50+01:00",
+    "updated_at": "2022-11-21T11:32:22+01:00",
     "media_id": "d7txn41aiq2x",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/de-boordradio/6237463/perez-had-in-deze-red-bull-makkelijk-tweede-moeten-worden.html",
+    "url": "/de-boordradio/6237463/perez-had-in-deze-red-bull-tweede-moeten-worden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6237422/heldere-meteoor-verlicht-hemel-boven-noorwegen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237418,
-    "slug": "asielzoekers-en-statushouders-moeten-te-lang-wachten-op-bsn",
-    "type": "article",
-    "title": "Asielzoekers en statushouders moeten te lang wachten op BSN",
-    "subtitle": null,
-    "published_at": "2022-11-21T07:55:16+01:00",
-    "updated_at": "2022-11-21T08:31:27+01:00",
-    "media_id": "vi5xssaa65jx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6237418/asielzoekers-en-statushouders-moeten-te-lang-wachten-op-bsn.html",
     "open_new_window": false,
     "partner": null
   }
