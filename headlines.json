@@ -1,5 +1,28 @@
 [
   {
+    "id": 6237596,
+    "slug": "bnnvara-was-al-in-gesprek-met-van-nieuwkerk-voordat-volkskrant-stuk-schreef",
+    "type": "article",
+    "title": "BNNVARA was al in gesprek met Van Nieuwkerk voordat Volkskrant stuk schreef",
+    "subtitle": null,
+    "published_at": "2022-11-21T22:21:54+01:00",
+    "updated_at": "2022-11-21T22:21:55+01:00",
+    "media_id": "ymkx5fuatjse",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6237596/bnnvara-was-al-in-gesprek-met-van-nieuwkerk-voordat-volkskrant-stuk-schreef.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6229450,
     "slug": "het-wk-programma-van-morgen-wereldkampioen-frankrijk-en-messi-in-actie",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Iraanse bondscoach verdedigt uitgefloten spelers die volkslied niet zongen",
     "subtitle": null,
     "published_at": "2022-11-21T21:47:31+01:00",
-    "updated_at": "2022-11-21T21:47:32+01:00",
+    "updated_at": "2022-11-21T22:24:29+01:00",
     "media_id": "y24xl19aj0qr",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "NPO kondigt onafhankelijk onderzoek naar werkomstandigheden DWDD aan",
     "subtitle": null,
     "published_at": "2022-11-21T18:03:42+01:00",
-    "updated_at": "2022-11-21T20:17:42+01:00",
+    "updated_at": "2022-11-21T22:28:07+01:00",
     "media_id": "jxnx6ujaka2a",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6237560/messi-hoopt-vurig-op-wereldtitel-met-argentinie-maar-genieten-gaat-boven-alles.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237559,
-    "slug": "facebook-introduceert-strengere-regels-voor-gebruikers-onder-zestien-jaar",
-    "type": "article",
-    "title": "Facebook introduceert strengere regels voor gebruikers onder zestien jaar",
-    "subtitle": null,
-    "published_at": "2022-11-21T17:55:51+01:00",
-    "updated_at": "2022-11-21T17:58:02+01:00",
-    "media_id": "bhpxd8xab6j4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6237559/facebook-introduceert-strengere-regels-voor-gebruikers-onder-zestien-jaar.html",
     "open_new_window": false,
     "partner": null
   }
