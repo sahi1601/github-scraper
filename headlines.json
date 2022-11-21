@@ -1,5 +1,28 @@
 [
   {
+    "id": 6237427,
+    "slug": "bijna-22-miljoen-mensen-kijken-naar-openingswedstrijd-wk-in-qatar",
+    "type": "article",
+    "title": "Bijna 2,2 miljoen mensen kijken naar openingswedstrijd WK in Qatar",
+    "subtitle": null,
+    "published_at": "2022-11-21T08:40:58+01:00",
+    "updated_at": "2022-11-21T08:40:59+01:00",
+    "media_id": "uw0xmisaumc0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6237427/bijna-22-miljoen-mensen-kijken-naar-openingswedstrijd-wk-in-qatar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237423,
     "slug": "perez-en-horner-ondanks-mislopen-van-tweede-plek-tevreden-over-f1-seizoen",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "BNNVARA twijfelt aan spijtbetuiging Van Nieuwkerk en gaat met hem in gesprek",
     "subtitle": null,
     "published_at": "2022-11-21T08:02:15+01:00",
-    "updated_at": "2022-11-21T08:27:50+01:00",
+    "updated_at": "2022-11-21T08:31:33+01:00",
     "media_id": "5knxkv8anrb4",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Asielzoekers en statushouders moeten te lang wachten op BSN",
     "subtitle": null,
     "published_at": "2022-11-21T07:55:16+01:00",
-    "updated_at": "2022-11-21T07:55:17+01:00",
+    "updated_at": "2022-11-21T08:31:27+01:00",
     "media_id": "vi5xssaa65jx",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Van Gaal kan tegen Senegal Oranje-bondscoach worden met meeste zeges ooit",
     "subtitle": null,
     "published_at": "2022-11-21T05:34:16+01:00",
-    "updated_at": "2022-11-21T08:27:05+01:00",
+    "updated_at": "2022-11-21T08:30:31+01:00",
     "media_id": "qkzxuj4am3g8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6237410/groningen-opnieuw-uitgeroepen-tot-gezondste-stad-van-nederland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237409,
-    "slug": "aardbeving-en-tsunamiwaarschuwing-voor-grieks-eiland-kreta",
-    "type": "article",
-    "title": "Aardbeving en tsunamiwaarschuwing voor Grieks eiland Kreta",
-    "subtitle": null,
-    "published_at": "2022-11-21T02:44:38+01:00",
-    "updated_at": "2022-11-21T06:21:31+01:00",
-    "media_id": "wbwxrriaoz0b",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6237409/aardbeving-en-tsunamiwaarschuwing-voor-grieks-eiland-kreta.html",
     "open_new_window": false,
     "partner": null
   }
