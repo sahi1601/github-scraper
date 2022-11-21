@@ -1,12 +1,35 @@
 [
   {
+    "id": 6237495,
+    "slug": "knvb-topman-de-jong-vol-ongeloof-over-sancties-van-fifa-voor-dragen-onelove-band",
+    "type": "article",
+    "title": "KNVB-topman De Jong vol ongeloof over sancties van FIFA voor dragen OneLove-band",
+    "subtitle": null,
+    "published_at": "2022-11-21T12:13:36+01:00",
+    "updated_at": "2022-11-21T12:14:39+01:00",
+    "media_id": "v5txcnsac5ad",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237495/knvb-topman-de-jong-vol-ongeloof-over-sancties-van-fifa-voor-dragen-onelove-band.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237486,
     "slug": "postnl-naar-rechter-om-staking-te-voorkomen",
     "type": "article",
     "title": "PostNL naar rechter om staking te voorkomen",
     "subtitle": null,
     "published_at": "2022-11-21T11:56:21+01:00",
-    "updated_at": "2022-11-21T11:56:23+01:00",
+    "updated_at": "2022-11-21T12:09:19+01:00",
     "media_id": "vu3x70naioab",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "KNVB laat Van Dijk OneLove-band toch niet dragen omdat FIFA met gele kaart dreigt",
     "subtitle": null,
     "published_at": "2022-11-21T10:20:36+01:00",
-    "updated_at": "2022-11-21T11:00:55+01:00",
+    "updated_at": "2022-11-21T12:05:24+01:00",
     "media_id": "ccgxwpwalmkh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6237425/praat-vandaag-mee-over-de-ns.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237426,
-    "slug": "disney-haalt-topman-bob-iger-terug-om-het-bedrijf-te-leiden",
-    "type": "article",
-    "title": "Disney haalt topman Bob Iger terug om het bedrijf te leiden",
-    "subtitle": null,
-    "published_at": "2022-11-21T08:46:44+01:00",
-    "updated_at": "2022-11-21T08:46:45+01:00",
-    "media_id": "a0fxqkmabh8y",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6237426/disney-haalt-topman-bob-iger-terug-om-het-bedrijf-te-leiden.html",
     "open_new_window": false,
     "partner": null
   }
