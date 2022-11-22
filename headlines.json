@@ -1,12 +1,58 @@
 [
   {
+    "id": 6237727,
+    "slug": "politie-haalde-dit-jaar-al-ruim-driehonderd-nepwebwinkels-offline",
+    "type": "article",
+    "title": "Politie haalde dit jaar al ruim driehonderd nepwebwinkels offline",
+    "subtitle": null,
+    "published_at": "2022-11-22T14:22:58+01:00",
+    "updated_at": "2022-11-22T14:22:59+01:00",
+    "media_id": "r93x9c0a35y2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6237727/politie-haalde-dit-jaar-al-ruim-driehonderd-nepwebwinkels-offline.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237725,
+    "slug": "npo-baas-frans-klein-legt-werk-neer-zolang-misstanden-dwdd-worden-onderzocht",
+    "type": "article",
+    "title": "NPO-baas Frans Klein legt werk neer zolang misstanden DWDD worden onderzocht",
+    "subtitle": null,
+    "published_at": "2022-11-22T14:16:19+01:00",
+    "updated_at": "2022-11-22T14:34:07+01:00",
+    "media_id": "m68x2i2aw1jj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6237725/npo-baas-frans-klein-legt-werk-neer-zolang-misstanden-dwdd-worden-onderzocht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237721,
     "slug": "amazon-lijdt-miljarden-dollars-verlies-op-spraakassistent-alexa",
     "type": "article",
     "title": "Amazon lijdt miljarden dollars verlies op spraakassistent Alexa",
     "subtitle": null,
     "published_at": "2022-11-22T14:06:28+01:00",
-    "updated_at": "2022-11-22T14:06:29+01:00",
+    "updated_at": "2022-11-22T14:19:26+01:00",
     "media_id": "ipjxcwiafzwf",
     "duration": null,
     "canonical_section": {
@@ -29,8 +75,8 @@
     "title": "Makers van Nederlandse kinderserie ontvangen Emmy in New York",
     "subtitle": "Video",
     "published_at": "2022-11-22T14:00:51+01:00",
-    "updated_at": "2022-11-22T14:00:51+01:00",
-    "media_id": "d5pxtila2m2u",
+    "updated_at": "2022-11-22T14:25:23+01:00",
+    "media_id": "4ewxoqkaasx6",
     "duration": "1:09",
     "canonical_section": {
       "id": 1772242,
@@ -236,8 +282,8 @@
     "title": "Inspectie waarschuwt voor onverzekerde fatbikes",
     "subtitle": null,
     "published_at": "2022-11-22T12:52:08+01:00",
-    "updated_at": "2022-11-22T13:18:17+01:00",
-    "media_id": "mr8x69kaq9pu",
+    "updated_at": "2022-11-22T14:39:01+01:00",
+    "media_id": "9psxrfhaipo1",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6237672/ap-ontslaat-journalist-na-onjuiste-berichtgeving-over-raketten-die-polen-troffen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237689,
-    "slug": "hulpdiensten-treffen-ravage-aan-op-java-na-verwoestende-aardbeving",
-    "type": "video",
-    "title": "Hulpdiensten treffen ravage aan op Java na verwoestende aardbeving",
-    "subtitle": "Video",
-    "published_at": "2022-11-22T11:34:37+01:00",
-    "updated_at": "2022-11-22T11:34:37+01:00",
-    "media_id": "ytexyxiaipuz",
-    "duration": "0:42",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6237689/hulpdiensten-treffen-ravage-aan-op-java-na-verwoestende-aardbeving.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237688,
-    "slug": "iran-zegt-dat-tot-nu-toe-veertig-buitenlanders-zijn-opgepakt-bij-protesten",
-    "type": "article",
-    "title": "Iran zegt dat tot nu toe veertig buitenlanders zijn opgepakt bij protesten",
-    "subtitle": null,
-    "published_at": "2022-11-22T11:25:50+01:00",
-    "updated_at": "2022-11-22T12:58:01+01:00",
-    "media_id": "3gtxh58a5w6w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6237688/iran-zegt-dat-tot-nu-toe-veertig-buitenlanders-zijn-opgepakt-bij-protesten.html",
     "open_new_window": false,
     "partner": null
   }
