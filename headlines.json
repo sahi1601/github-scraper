@@ -1,5 +1,51 @@
 [
   {
+    "id": 6237982,
+    "slug": "boekenshow-brommer-op-zee-geschrapt-eus-boekenclub-komt-terug",
+    "type": "article",
+    "title": "Boekenshow Brommer op zee geschrapt, Eus' Boekenclub komt terug",
+    "subtitle": null,
+    "published_at": "2022-11-23T15:27:45+01:00",
+    "updated_at": "2022-11-23T15:27:46+01:00",
+    "media_id": "txzxogdaqiat",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6237982/boekenshow-brommer-op-zee-geschrapt-eus-boekenclub-komt-terug.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6237978,
+    "slug": "duits-elftal-en-duitse-minister-maken-bij-wk-duel-met-japan-statement-tegen-fifa",
+    "type": "article",
+    "title": "Duits elftal en Duitse minister maken bij WK-duel met Japan statement tegen FIFA",
+    "subtitle": null,
+    "published_at": "2022-11-23T15:21:28+01:00",
+    "updated_at": "2022-11-23T15:26:02+01:00",
+    "media_id": "3n0x6k1alb2k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6237978/duits-elftal-en-duitse-minister-maken-bij-wk-duel-met-japan-statement-tegen-fifa.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237977,
     "slug": "relaxte-bondscoach-tite-acht-brazilie-in-qatar-kansrijker-dan-op-wk-van-2018",
     "type": "article",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6237974,
-    "slug": "deense-voetbalbond-steunt-herverkiezing-infantino-niet-na-verbod-op-onelove-band",
+    "slug": "deense-bond-steunt-herverkiezing-infantino-niet-na-verbod-op-onelove-band",
     "type": "article",
-    "title": "Deense voetbalbond steunt herverkiezing Infantino niet na verbod op OneLove-band",
+    "title": "Deense bond steunt herverkiezing Infantino niet na verbod op OneLove-band",
     "subtitle": null,
     "published_at": "2022-11-23T15:04:10+01:00",
-    "updated_at": "2022-11-23T15:06:07+01:00",
+    "updated_at": "2022-11-23T15:16:37+01:00",
     "media_id": "9pfxevmavkmn",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": "m1mxoqoan7eu",
       "partner": null
     },
-    "url": "/wk-voetbal/6237974/deense-voetbalbond-steunt-herverkiezing-infantino-niet-na-verbod-op-onelove-band.html",
+    "url": "/wk-voetbal/6237974/deense-bond-steunt-herverkiezing-infantino-niet-na-verbod-op-onelove-band.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6237925/marokko-ziet-mazraoui-uitvallen-bij-gelijkspel-tegen-vicewereldkampioen-kroatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237941,
-    "slug": "wildcamera-legt-spelende-wolvenwelpen-vast-in-drenthe",
-    "type": "video",
-    "title": "Wildcamera legt spelende wolvenwelpen vast in Drenthe",
-    "subtitle": "Video",
-    "published_at": "2022-11-23T12:44:12+01:00",
-    "updated_at": "2022-11-23T12:44:13+01:00",
-    "media_id": "9cox1w2at1w9",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6237941/wildcamera-legt-spelende-wolvenwelpen-vast-in-drenthe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237937,
-    "slug": "npo-blijft-ondanks-kritiek-mediawaakhond-opdrachtgever-van-dwdd-onderzoek",
-    "type": "article",
-    "title": "NPO blijft ondanks kritiek mediawaakhond opdrachtgever van DWDD-onderzoek",
-    "subtitle": null,
-    "published_at": "2022-11-23T12:37:39+01:00",
-    "updated_at": "2022-11-23T12:47:44+01:00",
-    "media_id": "07rxd9ta9j9i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6237937/npo-blijft-ondanks-kritiek-mediawaakhond-opdrachtgever-van-dwdd-onderzoek.html",
     "open_new_window": false,
     "partner": null
   }
