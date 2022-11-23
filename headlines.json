@@ -1,12 +1,35 @@
 [
   {
+    "id": 6237863,
+    "slug": "nos-verslaggever-ron-fresen-keert-terug-naar-de-politieke-journalistiek",
+    "type": "article",
+    "title": "NOS-verslaggever Ron Fresen keert terug naar de politieke journalistiek",
+    "subtitle": null,
+    "published_at": "2022-11-23T08:26:00+01:00",
+    "updated_at": "2022-11-23T08:26:01+01:00",
+    "media_id": "zftxe7kan4fp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6237863/nos-verslaggever-ron-fresen-keert-terug-naar-de-politieke-journalistiek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6237858,
     "slug": "werknemers-iphone-fabriek-china-protesteren-massaal-tegen-coronamaatregelen",
     "type": "article",
     "title": "Werknemers iPhone-fabriek China protesteren massaal tegen coronamaatregelen",
     "subtitle": null,
     "published_at": "2022-11-23T08:24:26+01:00",
-    "updated_at": "2022-11-23T08:24:26+01:00",
+    "updated_at": "2022-11-23T08:37:06+01:00",
     "media_id": "fnnxx5bapse1",
     "duration": null,
     "canonical_section": {
@@ -279,10 +302,10 @@
     "id": 6237777,
     "slug": "wolken-mars-en-aarde-lijken-op-elkaar-wat-betekent-deze-ontdekking",
     "type": "video",
-    "title": "Wolken Mars en Aarde lijken op elkaar: wat betekent deze ontdekking?",
+    "title": "Wolken Mars en aarde lijken op elkaar: wat betekent deze ontdekking?",
     "subtitle": "Video",
     "published_at": "2022-11-23T05:56:04+01:00",
-    "updated_at": "2022-11-23T05:56:05+01:00",
+    "updated_at": "2022-11-23T08:27:37+01:00",
     "media_id": "q4fxhula2dql",
     "duration": "2:12",
     "canonical_section": {
@@ -374,8 +397,8 @@
     "title": "Raad jij Het Woord van vandaag?",
     "subtitle": null,
     "published_at": "2022-11-23T05:21:52+01:00",
-    "updated_at": "2022-11-23T07:45:00+01:00",
-    "media_id": "q90x8w2aq9up",
+    "updated_at": "2022-11-23T08:26:16+01:00",
+    "media_id": "5orxtf5awygy",
     "duration": null,
     "canonical_section": {
       "id": 1773179,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6237802/een-klimaatneutraal-wk-in-qatar-dat-is-een-sprookje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6237831,
-    "slug": "inbrekers-stelen-voor-miljoenen-aan-oude-keltische-munten-uit-duits-museum",
-    "type": "article",
-    "title": "Inbrekers stelen voor miljoenen aan oude Keltische munten uit Duits museum",
-    "subtitle": null,
-    "published_at": "2022-11-23T04:21:41+01:00",
-    "updated_at": "2022-11-23T07:29:03+01:00",
-    "media_id": "cyax92wa1dec",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6237831/inbrekers-stelen-voor-miljoenen-aan-oude-keltische-munten-uit-duits-museum.html",
     "open_new_window": false,
     "partner": null
   }
