@@ -1,5 +1,28 @@
 [
   {
+    "id": 6238075,
+    "slug": "weerbericht-dag-begint-en-eindigt-met-regen-tussendoor-droog-met-zon",
+    "type": "article",
+    "title": "Weerbericht: Dag begint en eindigt met regen, tussendoor droog met zon",
+    "subtitle": null,
+    "published_at": "2022-11-24T05:39:45+01:00",
+    "updated_at": "2022-11-24T05:39:46+01:00",
+    "media_id": "j9jxdv8akc5r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6238075/weerbericht-dag-begint-en-eindigt-met-regen-tussendoor-droog-met-zon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238074,
     "slug": "raad-jij-het-woord-van-vandaag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6238059/bondscoach-luis-enrique-denkt-dat-spanje-nog-veel-beter-kan-na-galavoorstelling.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238055,
-    "slug": "fifa-gaat-duits-elftal-niet-straffen-voor-handen-op-de-mond-bij-teamfoto",
-    "type": "article",
-    "title": "FIFA gaat Duits elftal niet straffen voor handen op de mond bij teamfoto",
-    "subtitle": null,
-    "published_at": "2022-11-23T20:44:02+01:00",
-    "updated_at": "2022-11-23T21:06:59+01:00",
-    "media_id": "r9rx5bya2b3h",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6238055/fifa-gaat-duits-elftal-niet-straffen-voor-handen-op-de-mond-bij-teamfoto.html",
     "open_new_window": false,
     "partner": null
   }
