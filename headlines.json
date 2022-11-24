@@ -1,5 +1,28 @@
 [
   {
+    "id": 6238143,
+    "slug": "miedema-spreekt-schande-van-volle-voetbalkalender-we-slaan-volledig-door",
+    "type": "article",
+    "title": "Miedema spreekt schande van volle voetbalkalender: 'We slaan volledig door'",
+    "subtitle": null,
+    "published_at": "2022-11-24T10:51:48+01:00",
+    "updated_at": "2022-11-24T11:04:38+01:00",
+    "media_id": "cd0xw6yadayn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6238143/miedema-spreekt-schande-van-volle-voetbalkalender-we-slaan-volledig-door.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238140,
     "slug": "paralympier-jetze-plat-kroont-zich-voor-zesde-keer-tot-wereldkampioen-triatlon",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Oranje traint met fitte selectie voor tweede groepswedstrijd tegen Ecuador",
     "subtitle": null,
     "published_at": "2022-11-24T10:24:07+01:00",
-    "updated_at": "2022-11-24T10:24:09+01:00",
+    "updated_at": "2022-11-24T10:53:07+01:00",
     "media_id": "nhjxemrag4gs",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Kyiv dag na zware beschietingen nog grotendeels zonder stroom",
     "subtitle": null,
     "published_at": "2022-11-24T10:13:41+01:00",
-    "updated_at": "2022-11-24T10:13:43+01:00",
+    "updated_at": "2022-11-24T11:10:48+01:00",
     "media_id": "entxg3eamos2",
     "duration": null,
     "canonical_section": {
@@ -231,12 +254,12 @@
   },
   {
     "id": 6238122,
-    "slug": "patient-die-tbs-medewerker-doodstak-in-balkbrug-was-moordverdachte-in-nigeria",
+    "slug": "patient-die-kliniekmedewerker-balkbrug-doodstak-was-moordverdachte-in-nigeria",
     "type": "article",
-    "title": "Patiënt die tbs-medewerker doodstak in Balkbrug was moordverdachte in Nigeria",
+    "title": "Patiënt die kliniekmedewerker Balkbrug doodstak was moordverdachte in Nigeria",
     "subtitle": null,
     "published_at": "2022-11-24T09:43:44+01:00",
-    "updated_at": "2022-11-24T10:43:03+01:00",
+    "updated_at": "2022-11-24T10:56:46+01:00",
     "media_id": "n4lxy5dajss4",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6238122/patient-die-tbs-medewerker-doodstak-in-balkbrug-was-moordverdachte-in-nigeria.html",
+    "url": "/binnenland/6238122/patient-die-kliniekmedewerker-balkbrug-doodstak-was-moordverdachte-in-nigeria.html",
     "open_new_window": false,
     "partner": null
   },
@@ -415,13 +438,13 @@
   },
   {
     "id": 6238094,
-    "slug": "kameroen-begint-met-onana-aan-groepsduel-met-zwitserland",
+    "slug": "kameroen-krijgt-eerste-grote-kans-tegen-zwitserland",
     "type": "article",
-    "title": "Kameroen begint met Onana aan groepsduel met Zwitserland",
+    "title": "Kameroen krijgt eerste grote kans tegen Zwitserland",
     "subtitle": "Liveblog WK",
     "published_at": "2022-11-24T07:57:20+01:00",
-    "updated_at": "2022-11-24T10:26:34+01:00",
-    "media_id": "b7wxlk5awyz3",
+    "updated_at": "2022-11-24T11:15:25+01:00",
+    "media_id": "kd4x6yoajqcv",
     "duration": null,
     "canonical_section": {
       "id": 1772307,
@@ -432,30 +455,7 @@
       "media_id": "m1mxoqoan7eu",
       "partner": null
     },
-    "url": "/wk-voetbal/6238094/kameroen-begint-met-onana-aan-groepsduel-met-zwitserland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238092,
-    "slug": "overheid-dijt-flink-uit-als-werkgever",
-    "type": "article",
-    "title": "Overheid dijt flink uit als werkgever",
-    "subtitle": null,
-    "published_at": "2022-11-24T07:49:44+01:00",
-    "updated_at": "2022-11-24T07:54:01+01:00",
-    "media_id": "dqxx3cma6b9n",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6238092/overheid-dijt-flink-uit-als-werkgever.html",
+    "url": "/wk-voetbal/6238094/kameroen-krijgt-eerste-grote-kans-tegen-zwitserland.html",
     "open_new_window": false,
     "partner": null
   }
