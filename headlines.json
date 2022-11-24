@@ -1,12 +1,58 @@
 [
   {
+    "id": 6238042,
+    "slug": "klaassen-hoopt-op-basisplaats-tegen-ecuador-voel-dat-ik-er-dichtbij-zit",
+    "type": "article",
+    "title": "Klaassen hoopt op basisplaats tegen Ecuador: 'Voel dat ik er dichtbij zit'",
+    "subtitle": null,
+    "published_at": "2022-11-24T07:15:27+01:00",
+    "updated_at": "2022-11-24T07:15:28+01:00",
+    "media_id": "1r9x4xyahehb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6238042/klaassen-hoopt-op-basisplaats-tegen-ecuador-voel-dat-ik-er-dichtbij-zit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6238078,
+    "slug": "eurocommissaris-gaat-in-gesprek-met-leidinggevenden-van-twitter-en-meta",
+    "type": "article",
+    "title": "Eurocommissaris gaat in gesprek met leidinggevenden van Twitter en Meta",
+    "subtitle": null,
+    "published_at": "2022-11-24T07:07:10+01:00",
+    "updated_at": "2022-11-24T07:07:11+01:00",
+    "media_id": "ri8x8p2ayj64",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6238078/eurocommissaris-gaat-in-gesprek-met-leidinggevenden-van-twitter-en-meta.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238031,
-    "slug": "waarom-lukt-het-belgie-niet-om-tonnen-onderschepte-cocaine-direct-te-verbranden",
+    "slug": "waarom-kan-belgie-de-tonnen-onderschepte-cocaine-niet-direct-verbranden",
     "type": "video",
-    "title": "Waarom lukt het België niet om tonnen onderschepte cocaïne direct te verbranden?",
+    "title": "Waarom kan België de tonnen onderschepte cocaïne niet direct verbranden?",
     "subtitle": "Video",
     "published_at": "2022-11-24T05:57:15+01:00",
-    "updated_at": "2022-11-24T05:57:15+01:00",
+    "updated_at": "2022-11-24T07:13:35+01:00",
     "media_id": "265xp3qagv66",
     "duration": "1:57",
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6238031/waarom-lukt-het-belgie-niet-om-tonnen-onderschepte-cocaine-direct-te-verbranden.html",
+    "url": "/algemeen/6238031/waarom-kan-belgie-de-tonnen-onderschepte-cocaine-niet-direct-verbranden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +213,7 @@
     "title": "Kritiek op houding KNVB in Qatar: 'Duitsers hebben wel de ballen om iets te doen'",
     "subtitle": null,
     "published_at": "2022-11-24T04:59:18+01:00",
-    "updated_at": "2022-11-24T06:20:22+01:00",
+    "updated_at": "2022-11-24T07:09:02+01:00",
     "media_id": "upgx2wnady71",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Alderweireld over woordenwisseling met De Bruyne: 'We zijn geen koorknapen'",
     "subtitle": null,
     "published_at": "2022-11-24T01:11:58+01:00",
-    "updated_at": "2022-11-24T01:18:42+01:00",
+    "updated_at": "2022-11-24T07:12:49+01:00",
     "media_id": "5xpxu76au0ii",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Jongetje (5) twee dagen na aardbeving Java levend onder puin vandaan gered",
     "subtitle": null,
     "published_at": "2022-11-24T01:05:37+01:00",
-    "updated_at": "2022-11-24T01:08:04+01:00",
+    "updated_at": "2022-11-24T07:09:13+01:00",
     "media_id": "xjlxfkgaxc5i",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Steeds minder werklozen hebben een WW-uitkering",
     "subtitle": null,
     "published_at": "2022-11-24T00:00:35+01:00",
-    "updated_at": "2022-11-24T00:00:36+01:00",
+    "updated_at": "2022-11-24T07:16:02+01:00",
     "media_id": "vcfxo9nar77m",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Kosovo en Servië leggen ruzie om nummerplaten bij na bemiddeling EU",
     "subtitle": null,
     "published_at": "2022-11-23T23:36:04+01:00",
-    "updated_at": "2022-11-23T23:36:05+01:00",
+    "updated_at": "2022-11-24T07:11:22+01:00",
     "media_id": "wwhxb40a1zoo",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6230833/het-wk-programma-van-vandaag-ronaldo-en-recordkampioen-brazilie-in-actie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238056,
-    "slug": "belgie-worstelt-zich-langs-canada-en-begint-wk-met-zege",
-    "type": "article",
-    "title": "België worstelt zich langs Canada en begint WK met zege",
-    "subtitle": null,
-    "published_at": "2022-11-23T22:01:28+01:00",
-    "updated_at": "2022-11-23T23:47:27+01:00",
-    "media_id": "gphxtzral47a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6238056/belgie-worstelt-zich-langs-canada-en-begint-wk-met-zege.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238062,
-    "slug": "denemarken-raakt-72-voudig-international-delaney-kwijt-op-wk-door-knieblessure",
-    "type": "article",
-    "title": "Denemarken raakt 72-voudig international Delaney kwijt op WK door knieblessure",
-    "subtitle": null,
-    "published_at": "2022-11-23T21:35:46+01:00",
-    "updated_at": "2022-11-23T21:41:25+01:00",
-    "media_id": "e3zxpafajcct",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6238062/denemarken-raakt-72-voudig-international-delaney-kwijt-op-wk-door-knieblessure.html",
     "open_new_window": false,
     "partner": null
   }
