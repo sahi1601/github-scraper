@@ -1,12 +1,35 @@
 [
   {
+    "id": 6238296,
+    "slug": "brazilie-maakt-zich-zorgen-om-verstuikte-enkel-van-uitgevallen-neymar",
+    "type": "article",
+    "title": "Brazilië maakt zich zorgen om verstuikte enkel van uitgevallen Neymar",
+    "subtitle": null,
+    "published_at": "2022-11-24T23:25:46+01:00",
+    "updated_at": "2022-11-24T23:25:47+01:00",
+    "media_id": "un5x5f4ak74j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6238296/brazilie-maakt-zich-zorgen-om-verstuikte-enkel-van-uitgevallen-neymar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238295,
     "slug": "miedema-maakt-in-cl-einde-aan-doelpuntendroogte-ook-beerensteyn-scoort",
     "type": "article",
     "title": "Miedema maakt in CL einde aan doelpuntendroogte, ook Beerensteyn scoort",
     "subtitle": null,
     "published_at": "2022-11-24T22:59:43+01:00",
-    "updated_at": "2022-11-24T23:06:51+01:00",
+    "updated_at": "2022-11-24T23:16:39+01:00",
     "media_id": "cycx2ika8hje",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6238259/explosie-chinese-chemiefabriek-zorgt-voor-schokgolf-in-omgeving.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238256,
-    "slug": "van-der-poel-begint-vol-ambitie-aan-veldritseizoen-denk-dat-ik-kan-winnen",
-    "type": "article",
-    "title": "Van der Poel begint vol ambitie aan veldritseizoen: 'Denk dat ik kan winnen'",
-    "subtitle": null,
-    "published_at": "2022-11-24T18:34:15+01:00",
-    "updated_at": "2022-11-24T19:31:43+01:00",
-    "media_id": "efdx6q2agcuz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6238256/van-der-poel-begint-vol-ambitie-aan-veldritseizoen-denk-dat-ik-kan-winnen.html",
     "open_new_window": false,
     "partner": null
   }
