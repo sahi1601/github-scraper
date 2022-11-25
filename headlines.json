@@ -1,12 +1,35 @@
 [
   {
-    "id": 6238318,
-    "slug": "liter-diesel-ruim-30-cent-goedkoper-dan-in-november",
+    "id": 6238324,
+    "slug": "internationaal-theater-amsterdam-schrapt-voorstellingen-wegens-hoge-werkdruk",
     "type": "article",
-    "title": "Liter diesel ruim 30 cent goedkoper dan in november",
+    "title": "Internationaal Theater Amsterdam schrapt voorstellingen wegens hoge werkdruk",
+    "subtitle": null,
+    "published_at": "2022-11-25T09:24:24+01:00",
+    "updated_at": "2022-11-25T09:25:06+01:00",
+    "media_id": "4kpxwbbatizo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6238324/internationaal-theater-amsterdam-schrapt-voorstellingen-wegens-hoge-werkdruk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6238318,
+    "slug": "liter-diesel-ruim-30-cent-goedkoper-geworden-in-november",
+    "type": "article",
+    "title": "Liter diesel ruim 30 cent goedkoper geworden in november",
     "subtitle": null,
     "published_at": "2022-11-25T09:06:06+01:00",
-    "updated_at": "2022-11-25T09:06:07+01:00",
+    "updated_at": "2022-11-25T09:21:26+01:00",
     "media_id": "tx5x8eway33i",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6238318/liter-diesel-ruim-30-cent-goedkoper-dan-in-november.html",
+    "url": "/economie/6238318/liter-diesel-ruim-30-cent-goedkoper-geworden-in-november.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Hoe Michael Jackson met het album Thriller de videoclip voorgoed veranderde",
     "subtitle": null,
     "published_at": "2022-11-25T05:55:35+01:00",
-    "updated_at": "2022-11-25T05:55:36+01:00",
+    "updated_at": "2022-11-25T09:26:07+01:00",
     "media_id": "4xaxthwac5yk",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6238299/weerbericht-zonnig-met-wolkenvelden-en-een-enkele-bui-s-avonds-mistig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238239,
-    "slug": "kabinet-komt-met-stikstofplannen-ligt-nadruk-op-onteigenen-van-boeren",
-    "type": "article",
-    "title": "Kabinet komt met stikstofplannen: ligt nadruk op onteigenen van boeren?",
-    "subtitle": null,
-    "published_at": "2022-11-25T04:58:52+01:00",
-    "updated_at": "2022-11-25T04:58:53+01:00",
-    "media_id": "8fzxheva1l2p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6238239/kabinet-komt-met-stikstofplannen-ligt-nadruk-op-onteigenen-van-boeren.html",
     "open_new_window": false,
     "partner": null
   }
