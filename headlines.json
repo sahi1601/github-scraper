@@ -1,5 +1,28 @@
 [
   {
+    "id": 6238239,
+    "slug": "kabinet-komt-met-stikstofplannen-ligt-nadruk-op-onteigenen-van-boeren",
+    "type": "article",
+    "title": "Kabinet komt met stikstofplannen: ligt nadruk op onteigenen van boeren?",
+    "subtitle": null,
+    "published_at": "2022-11-25T04:58:52+01:00",
+    "updated_at": "2022-11-25T04:58:53+01:00",
+    "media_id": "8fzxheva1l2p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6238239/kabinet-komt-met-stikstofplannen-ligt-nadruk-op-onteigenen-van-boeren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238298,
     "slug": "franse-justitie-onderzoekt-geldstromen-verkiezingscampagnes-president-macron",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6238262/ronaldo-wijst-portugal-met-recordgoal-de-weg-bij-spectaculaire-zege-op-ghana.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238258,
-    "slug": "ronaldo-schrijft-wk-geschiedenis-met-doelpunt-in-wedstrijd-tegen-ghana",
-    "type": "article",
-    "title": "Ronaldo schrijft WK-geschiedenis met doelpunt in wedstrijd tegen Ghana",
-    "subtitle": null,
-    "published_at": "2022-11-24T18:39:46+01:00",
-    "updated_at": "2022-11-24T20:43:50+01:00",
-    "media_id": "vasx99yan7yt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6238258/ronaldo-schrijft-wk-geschiedenis-met-doelpunt-in-wedstrijd-tegen-ghana.html",
     "open_new_window": false,
     "partner": null
   }
