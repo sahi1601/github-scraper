@@ -1,12 +1,35 @@
 [
   {
-    "id": 6238711,
-    "slug": "dagenlang-dwalende-emoe-toch-gevangen-van-baasje-ontbreekt-nog-elk-spoor",
+    "id": 6238717,
+    "slug": "van-dijk-heeft-spijt-van-reactie-op-kritiek-van-basten-had-ik-beter-moeten-doen",
     "type": "article",
-    "title": "Dagenlang dwalende emoe toch gevangen, van baasje ontbreekt nog elk spoor",
+    "title": "Van Dijk heeft spijt van reactie op kritiek Van Basten: 'Had ik beter moeten doen'",
+    "subtitle": null,
+    "published_at": "2022-11-27T12:24:40+01:00",
+    "updated_at": "2022-11-27T12:24:41+01:00",
+    "media_id": "tj8xzb0a2ibr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6238717/van-dijk-heeft-spijt-van-reactie-op-kritiek-van-basten-had-ik-beter-moeten-doen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6238711,
+    "slug": "dagenlang-dwalende-emoe-alsnog-gevangen-van-baasje-ontbreekt-nog-elk-spoor",
+    "type": "article",
+    "title": "Dagenlang dwalende emoe alsnog gevangen, van baasje ontbreekt nog elk spoor",
     "subtitle": null,
     "published_at": "2022-11-27T12:06:08+01:00",
-    "updated_at": "2022-11-27T12:11:34+01:00",
+    "updated_at": "2022-11-27T12:14:48+01:00",
     "media_id": "8uixthba70mp",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6238711/dagenlang-dwalende-emoe-toch-gevangen-van-baasje-ontbreekt-nog-elk-spoor.html",
+    "url": "/binnenland/6238711/dagenlang-dwalende-emoe-alsnog-gevangen-van-baasje-ontbreekt-nog-elk-spoor.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +420,7 @@
     "title": "Ken je Goncharov? Hoe een nepfilm van Scorsese een hype werd",
     "subtitle": "Video",
     "published_at": "2022-11-27T06:07:15+01:00",
-    "updated_at": "2022-11-27T07:06:25+01:00",
+    "updated_at": "2022-11-27T12:14:20+01:00",
     "media_id": "mbrx96xap5ge",
     "duration": "2:25",
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Elvis wilde een nummer van haar hebben: de verhalen achter de hits van Dolly Parton",
     "subtitle": null,
     "published_at": "2022-11-27T06:06:35+01:00",
-    "updated_at": "2022-11-27T06:06:35+01:00",
+    "updated_at": "2022-11-27T12:17:07+01:00",
     "media_id": "1g4x204az4v6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6238155/elvis-wilde-een-nummer-van-haar-hebben-de-verhalen-achter-de-hits-van-dolly-parton.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238450,
-    "slug": "brexit-is-voor-de-britten-tot-nu-toe-geen-goednieuwsshow",
-    "type": "article",
-    "title": "Brexit is voor de Britten tot nu toe geen goednieuwsshow",
-    "subtitle": "NU+",
-    "published_at": "2022-11-27T06:05:47+01:00",
-    "updated_at": "2022-11-27T12:08:02+01:00",
-    "media_id": "7y0xo8iaq0ce",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6238450/brexit-is-voor-de-britten-tot-nu-toe-geen-goednieuwsshow.html",
     "open_new_window": false,
     "partner": null
   }
