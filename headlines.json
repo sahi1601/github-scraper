@@ -1,12 +1,35 @@
 [
   {
+    "id": 6238783,
+    "slug": "italiaanse-hulpdiensten-zoeken-vermisten-na-dodelijke-aardverschuiving",
+    "type": "video",
+    "title": "Italiaanse hulpdiensten zoeken vermisten na dodelijke aardverschuiving",
+    "subtitle": "Video",
+    "published_at": "2022-11-27T19:21:03+01:00",
+    "updated_at": "2022-11-27T19:21:04+01:00",
+    "media_id": "iskxduwarrqh",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6238783/italiaanse-hulpdiensten-zoeken-vermisten-na-dodelijke-aardverschuiving.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238780,
-    "slug": "promes-leidt-massale-vechtpartij-bij-zenit-spartak-in-zes-rode-kaarten",
+    "slug": "promes-ontketent-massale-vechtpartij-bij-zenit-spartak-zes-rode-kaarten",
     "type": "article",
-    "title": "Promes leidt massale vechtpartij bij Zenit-Spartak in, zes rode kaarten",
+    "title": "Promes ontketent massale vechtpartij bij Zenit-Spartak, zes rode kaarten",
     "subtitle": null,
     "published_at": "2022-11-27T18:58:08+01:00",
-    "updated_at": "2022-11-27T18:58:09+01:00",
+    "updated_at": "2022-11-27T19:27:24+01:00",
     "media_id": "tikx9z0a25a5",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6238780/promes-leidt-massale-vechtpartij-bij-zenit-spartak-in-zes-rode-kaarten.html",
+    "url": "/voetbal/6238780/promes-ontketent-massale-vechtpartij-bij-zenit-spartak-zes-rode-kaarten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,8 +75,8 @@
     "title": "Rellen na WK-overwinning Marokko, ME ingezet in Den Haag en Rotterdam",
     "subtitle": null,
     "published_at": "2022-11-27T18:32:20+01:00",
-    "updated_at": "2022-11-27T19:10:58+01:00",
-    "media_id": "wn0xyrbawigu",
+    "updated_at": "2022-11-27T19:27:25+01:00",
+    "media_id": "vvmxtpnad0ld",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6238733/fitte-memphis-rekent-op-basisplaats-tegen-qatar-met-mij-hebben-we-meer-kans.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238731,
-    "slug": "van-ass-bekroont-debuut-als-bondscoach-van-hockeysters-met-ruime-zege",
-    "type": "article",
-    "title": "Van Ass bekroont debuut als bondscoach van hockeysters met ruime zege",
-    "subtitle": null,
-    "published_at": "2022-11-27T14:31:53+01:00",
-    "updated_at": "2022-11-27T15:24:35+01:00",
-    "media_id": "cxbx96waf6o4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6238731/van-ass-bekroont-debuut-als-bondscoach-van-hockeysters-met-ruime-zege.html",
     "open_new_window": false,
     "partner": null
   }
