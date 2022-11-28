@@ -1,5 +1,51 @@
 [
   {
+    "id": 6238975,
+    "slug": "waarom-de-slag-om-bakhmut-een-bloedige-slijtageslag-is",
+    "type": "video",
+    "title": "Waarom de slag om Bakhmut een bloedige slijtageslag is",
+    "subtitle": "Video",
+    "published_at": "2022-11-28T17:41:40+01:00",
+    "updated_at": "2022-11-28T17:41:41+01:00",
+    "media_id": "wftx305arhdg",
+    "duration": "2:03",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6238975/waarom-de-slag-om-bakhmut-een-bloedige-slijtageslag-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6238972,
+    "slug": "bnnvara-betuigt-spijt-aan-oud-medewerkers-de-wereld-draait-door",
+    "type": "article",
+    "title": "BNNVARA betuigt spijt aan oud-medewerkers De Wereld Draait Door",
+    "subtitle": null,
+    "published_at": "2022-11-28T17:39:27+01:00",
+    "updated_at": "2022-11-28T17:39:51+01:00",
+    "media_id": "jf9xv69arz8k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6238972/bnnvara-betuigt-spijt-aan-oud-medewerkers-de-wereld-draait-door.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238970,
     "slug": "the-weeknd-treedt-na-eerder-afgezegde-shows-toch-weer-op-in-nederland",
     "type": "article",
@@ -144,7 +190,7 @@
     "title": "Agent die man met bijl neerschoot, handelde volgens het boekje",
     "subtitle": null,
     "published_at": "2022-11-28T16:15:12+01:00",
-    "updated_at": "2022-11-28T16:15:13+01:00",
+    "updated_at": "2022-11-28T17:42:32+01:00",
     "media_id": "tjaxnabahd4g",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6238913/voetballers-in-schotland-mogen-minder-koppen-vanwege-risico-op-hersenziektes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238921,
-    "slug": "lauren-verster-is-bevallen-van-zoon-louis",
-    "type": "article",
-    "title": "Lauren Verster is bevallen van zoon Louis",
-    "subtitle": null,
-    "published_at": "2022-11-28T15:08:10+01:00",
-    "updated_at": "2022-11-28T15:43:33+01:00",
-    "media_id": "1inxcetat4h5",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6238921/lauren-verster-is-bevallen-van-zoon-louis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238915,
-    "slug": "chinese-spamaccounts-proberen-protesten-onzichtbaar-te-maken-op-twitter",
-    "type": "article",
-    "title": "Chinese spamaccounts proberen protesten onzichtbaar te maken op Twitter",
-    "subtitle": null,
-    "published_at": "2022-11-28T15:07:20+01:00",
-    "updated_at": "2022-11-28T15:08:27+01:00",
-    "media_id": "lk0xvkwapeyd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6238915/chinese-spamaccounts-proberen-protesten-onzichtbaar-te-maken-op-twitter.html",
     "open_new_window": false,
     "partner": null
   }
