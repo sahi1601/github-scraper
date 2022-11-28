@@ -1,12 +1,35 @@
 [
   {
+    "id": 6238934,
+    "slug": "agent-die-man-met-bijl-neerschoot-handelde-volgens-het-boekje",
+    "type": "article",
+    "title": "Agent die man met bijl neerschoot, handelde volgens het boekje",
+    "subtitle": null,
+    "published_at": "2022-11-28T16:15:12+01:00",
+    "updated_at": "2022-11-28T16:15:13+01:00",
+    "media_id": "tjaxnabahd4g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6238934/agent-die-man-met-bijl-neerschoot-handelde-volgens-het-boekje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6238939,
     "slug": "van-gaal-vindt-niet-dat-wereldtitel-ambitie-onnodig-druk-legt-op-oranjespelers",
     "type": "article",
     "title": "Van Gaal vindt niet dat wereldtitel-ambitie onnodig druk legt op Oranjespelers",
     "subtitle": null,
     "published_at": "2022-11-28T16:10:54+01:00",
-    "updated_at": "2022-11-28T16:10:55+01:00",
+    "updated_at": "2022-11-28T16:26:21+01:00",
     "media_id": "ljox1bdakish",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Minister wil regels voor radio veranderen: Talpa verliest mogelijk frequentie",
     "subtitle": null,
     "published_at": "2022-11-28T16:02:44+01:00",
-    "updated_at": "2022-11-28T16:10:17+01:00",
+    "updated_at": "2022-11-28T16:14:59+01:00",
     "media_id": "t4qxvmcapgf5",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Ajacied Kudus houdt WK-droom Ghana in leven met twee goals tegen Zuid-Korea",
     "subtitle": null,
     "published_at": "2022-11-28T16:02:05+01:00",
-    "updated_at": "2022-11-28T16:12:39+01:00",
+    "updated_at": "2022-11-28T16:27:23+01:00",
     "media_id": "h5hxw5uaifvr",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6238905/van-gaal-houdt-voorlopig-vast-aan-bekritiseerd-systeem-zo-komen-we-verder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238885,
-    "slug": "turnleraar-van-de-g-krijgt-twaalf-jaar-cel-en-tbs-voor-doden-esmee-14",
-    "type": "article",
-    "title": "Turnleraar Van de G. krijgt twaalf jaar cel en tbs voor doden Esmee (14)",
-    "subtitle": null,
-    "published_at": "2022-11-28T13:27:46+01:00",
-    "updated_at": "2022-11-28T14:25:03+01:00",
-    "media_id": "xi4xhauaudxf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6238885/turnleraar-van-de-g-krijgt-twaalf-jaar-cel-en-tbs-voor-doden-esmee-14.html",
     "open_new_window": false,
     "partner": null
   }
