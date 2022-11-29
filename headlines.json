@@ -1,12 +1,58 @@
 [
   {
+    "id": 6238937,
+    "slug": "ferrari-neemt-afscheid-van-teambaas-binotto",
+    "type": "article",
+    "title": "Ferrari neemt afscheid van teambaas Binotto",
+    "subtitle": null,
+    "published_at": "2022-11-29T09:45:15+01:00",
+    "updated_at": "2022-11-29T09:45:25+01:00",
+    "media_id": "j5nxyuga55pq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6238937/ferrari-neemt-afscheid-van-teambaas-binotto.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6239046,
+    "slug": "gestopte-davy-propper-traint-bij-vitesse-om-voetbalvuurtje-aan-te-wakkeren",
+    "type": "article",
+    "title": "Gestopte Davy Pröpper traint bij Vitesse om 'voetbalvuurtje aan te wakkeren'",
+    "subtitle": null,
+    "published_at": "2022-11-29T09:36:12+01:00",
+    "updated_at": "2022-11-29T09:41:10+01:00",
+    "media_id": "4j6xafsaou6z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6239046/gestopte-davy-propper-traint-bij-vitesse-om-voetbalvuurtje-aan-te-wakkeren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239040,
     "slug": "levering-nieuwe-iphone-duurt-langer-dan-ooit-door-onrust-in-chinese-fabriek",
     "type": "article",
     "title": "Levering nieuwe iPhone duurt langer dan ooit door onrust in Chinese fabriek",
     "subtitle": null,
     "published_at": "2022-11-29T09:28:08+01:00",
-    "updated_at": "2022-11-29T09:34:52+01:00",
+    "updated_at": "2022-11-29T09:40:18+01:00",
     "media_id": "53hx789a0029",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Duurzame beleggingsfondsen steken toch geld in luchtvaart en fossiele bedrijven",
     "subtitle": null,
     "published_at": "2022-11-29T09:04:45+01:00",
-    "updated_at": "2022-11-29T09:04:46+01:00",
+    "updated_at": "2022-11-29T09:43:39+01:00",
     "media_id": "vyux0otaqguj",
     "duration": null,
     "canonical_section": {
@@ -328,7 +374,7 @@
     "title": "Famke Louise vs. Roddelpraat: wie wint het hoger beroep?",
     "subtitle": null,
     "published_at": "2022-11-29T05:58:27+01:00",
-    "updated_at": "2022-11-29T09:33:14+01:00",
+    "updated_at": "2022-11-29T09:36:57+01:00",
     "media_id": "hk3xbleaqnky",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech/6239005/apple-roept-bereal-uit-tot-beste-iphone-app-van-het-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239022,
-    "slug": "zware-ochtendspits-door-dichte-mist-in-vrijwel-het-hele-land",
-    "type": "article",
-    "title": "Zware ochtendspits door dichte mist in vrijwel het hele land",
-    "subtitle": null,
-    "published_at": "2022-11-29T05:22:48+01:00",
-    "updated_at": "2022-11-29T09:29:28+01:00",
-    "media_id": "o3yxspwatgii",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6239022/zware-ochtendspits-door-dichte-mist-in-vrijwel-het-hele-land.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6238869,
-    "slug": "ziekenhuizen-zien-aantal-agressieve-patienten-en-bezoekers-sterk-toenemen",
-    "type": "article",
-    "title": "Ziekenhuizen zien aantal agressieve patiënten en bezoekers sterk toenemen",
-    "subtitle": null,
-    "published_at": "2022-11-29T05:00:15+01:00",
-    "updated_at": "2022-11-29T05:00:16+01:00",
-    "media_id": "sbnxuu6awvzk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6238869/ziekenhuizen-zien-aantal-agressieve-patienten-en-bezoekers-sterk-toenemen.html",
     "open_new_window": false,
     "partner": null
   }
