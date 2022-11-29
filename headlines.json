@@ -1,5 +1,28 @@
 [
   {
+    "id": 6239058,
+    "slug": "zo-tover-je-jezelf-om-tot-cyborg-of-astronaut-op-je-profielfoto",
+    "type": "article",
+    "title": "Zo tover je jezelf om tot cyborg of astronaut op je profielfoto",
+    "subtitle": null,
+    "published_at": "2022-11-29T11:53:00+01:00",
+    "updated_at": "2022-11-29T11:53:02+01:00",
+    "media_id": "403xwlzahevh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6239058/zo-tover-je-jezelf-om-tot-cyborg-of-astronaut-op-je-profielfoto.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239072,
     "slug": "easyjet-denkt-aan-juridische-stappen-tegen-schiphol-om-personeelskrapte",
     "type": "article",
@@ -52,8 +75,8 @@
     "title": "Man zegt gevaarlijke stoffen bij zich te hebben, hal Schiphol deels afgezet",
     "subtitle": null,
     "published_at": "2022-11-29T11:31:47+01:00",
-    "updated_at": "2022-11-29T11:41:37+01:00",
-    "media_id": "ha9xuodaybi1",
+    "updated_at": "2022-11-29T11:58:13+01:00",
+    "media_id": "ez0xngfatyu7",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -98,7 +121,7 @@
     "title": "Hoofd organisatiecomité: 'Geen drie, maar honderden dode arbeiders rond WK'",
     "subtitle": null,
     "published_at": "2022-11-29T11:06:00+01:00",
-    "updated_at": "2022-11-29T11:40:47+01:00",
+    "updated_at": "2022-11-29T11:43:14+01:00",
     "media_id": "btdxxb6ae7ev",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6239029/veldbestormer-met-regenboogvlag-krijgt-geen-straf-van-fifa.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239028,
-    "slug": "nieuwe-winkels-en-bouwbedrijven-gaan-minder-vaak-onderuit",
-    "type": "article",
-    "title": "Nieuwe winkels en bouwbedrijven gaan minder vaak onderuit",
-    "subtitle": null,
-    "published_at": "2022-11-29T07:23:32+01:00",
-    "updated_at": "2022-11-29T07:57:33+01:00",
-    "media_id": "47exjmmapktv",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6239028/nieuwe-winkels-en-bouwbedrijven-gaan-minder-vaak-onderuit.html",
     "open_new_window": false,
     "partner": null
   }
