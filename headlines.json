@@ -1,12 +1,35 @@
 [
   {
+    "id": 6239452,
+    "slug": "tbser-ontsnapt-tijdens-begeleid-verlof-en-steekt-vrouw-neer-in-soest",
+    "type": "article",
+    "title": "Tbs'er ontsnapt tijdens begeleid verlof en steekt vrouw neer in Soest",
+    "subtitle": null,
+    "published_at": "2022-11-30T17:25:48+01:00",
+    "updated_at": "2022-11-30T17:47:05+01:00",
+    "media_id": "xdmx09ya8po2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6239452/tbser-ontsnapt-tijdens-begeleid-verlof-en-steekt-vrouw-neer-in-soest.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239447,
     "slug": "starlink-verdubbelt-prijzen-voor-satellietontvangers-in-oekraine",
     "type": "article",
     "title": "Starlink verdubbelt prijzen voor satellietontvangers in Oekraïne",
     "subtitle": null,
     "published_at": "2022-11-30T17:23:04+01:00",
-    "updated_at": "2022-11-30T17:23:05+01:00",
+    "updated_at": "2022-11-30T17:28:26+01:00",
     "media_id": "hesxue7a7m0m",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Heineken verhoogt bierprijzen opnieuw vanwege kostencrisis",
     "subtitle": null,
     "published_at": "2022-11-30T15:57:34+01:00",
-    "updated_at": "2022-11-30T16:09:06+01:00",
+    "updated_at": "2022-11-30T17:42:22+01:00",
     "media_id": "kiexabra867j",
     "duration": null,
     "canonical_section": {
@@ -231,12 +254,12 @@
   },
   {
     "id": 6239406,
-    "slug": "medewerker-buckingham-palace-stapt-op-na-racistische-opmerkingen",
+    "slug": "hofdame-buckingham-palace-stapt-op-na-racistische-opmerkingen",
     "type": "article",
-    "title": "Medewerker Buckingham Palace stapt op na racistische opmerkingen",
+    "title": "Hofdame Buckingham Palace stapt op na racistische opmerkingen",
     "subtitle": null,
     "published_at": "2022-11-30T15:54:09+01:00",
-    "updated_at": "2022-11-30T16:43:54+01:00",
+    "updated_at": "2022-11-30T17:33:27+01:00",
     "media_id": "09px0wlaa2v4",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/koningshuis/6239406/medewerker-buckingham-palace-stapt-op-na-racistische-opmerkingen.html",
+    "url": "/koningshuis/6239406/hofdame-buckingham-palace-stapt-op-na-racistische-opmerkingen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6239373/martinez-haalt-uit-naar-belgische-media-jullie-schieten-in-eigen-doel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239371,
-    "slug": "tennisveteraan-verdasco-twee-maanden-geschorst-na-gebruik-verboden-middel",
-    "type": "article",
-    "title": "Tennisveteraan Verdasco twee maanden geschorst na gebruik verboden middel",
-    "subtitle": null,
-    "published_at": "2022-11-30T14:17:54+01:00",
-    "updated_at": "2022-11-30T14:35:26+01:00",
-    "media_id": "i77xdscaykqa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6239371/tennisveteraan-verdasco-twee-maanden-geschorst-na-gebruik-verboden-middel.html",
     "open_new_window": false,
     "partner": null
   }
