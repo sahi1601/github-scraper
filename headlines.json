@@ -1,5 +1,28 @@
 [
   {
+    "id": 6239634,
+    "slug": "prins-harry-in-trailer-netflix-docu-niemand-weet-wat-achter-gesloten-deuren-gebeurt",
+    "type": "video",
+    "title": "Prins Harry in trailer Netflix-docu: 'Niemand weet wat achter gesloten deuren gebeurt'",
+    "subtitle": "Video",
+    "published_at": "2022-12-01T15:21:32+01:00",
+    "updated_at": "2022-12-01T15:21:33+01:00",
+    "media_id": "zygx1h5ah1g1",
+    "duration": "0:52",
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6239634/prins-harry-in-trailer-netflix-docu-niemand-weet-wat-achter-gesloten-deuren-gebeurt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239633,
     "slug": "water-spuit-metershoog-uit-brandkraan-na-achtervolging-in-vs",
     "type": "video",
@@ -52,7 +75,7 @@
     "title": "Politie grijpt in bij boerenprotest Zwolle, burgemeester vaardigt noodbevel uit",
     "subtitle": null,
     "published_at": "2022-12-01T14:58:41+01:00",
-    "updated_at": "2022-12-01T15:02:34+01:00",
+    "updated_at": "2022-12-01T15:26:47+01:00",
     "media_id": "vh7x18oavlhd",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "OM gaat in beroep voor zwaardere straffen rond dood Carlo Heuvelman",
     "subtitle": null,
     "published_at": "2022-12-01T14:20:55+01:00",
-    "updated_at": "2022-12-01T15:09:54+01:00",
+    "updated_at": "2022-12-01T15:14:10+01:00",
     "media_id": "t9qxb5tacxmt",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Eva Jinek begrijpt Van Nieuwkerk niet: 'Zelf schreeuw ik nooit'",
     "subtitle": null,
     "published_at": "2022-12-01T12:57:43+01:00",
-    "updated_at": "2022-12-01T14:04:12+01:00",
+    "updated_at": "2022-12-01T15:14:31+01:00",
     "media_id": "0ckxbf1azlw3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6239588/coa-vindt-nieuwe-asielwet-te-complex-en-vreest-dat-het-niet-snel-genoeg-helpt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239594,
-    "slug": "eerste-vrouwelijke-scheidsrechter-op-wk-was-geemotioneerd-na-aanstelling",
-    "type": "video",
-    "title": "Eerste vrouwelijke scheidsrechter op WK was 'geëmotioneerd' na aanstelling",
-    "subtitle": "Video",
-    "published_at": "2022-12-01T12:14:52+01:00",
-    "updated_at": "2022-12-01T12:40:35+01:00",
-    "media_id": "h6wx5fsaeapv",
-    "duration": "0:33",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6239594/eerste-vrouwelijke-scheidsrechter-op-wk-was-geemotioneerd-na-aanstelling.html",
     "open_new_window": false,
     "partner": null
   }
