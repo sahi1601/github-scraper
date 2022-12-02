@@ -1,5 +1,28 @@
 [
   {
+    "id": 6239746,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2022-12-02T05:36:08+01:00",
+    "updated_at": "2022-12-02T05:36:09+01:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6239746/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239626,
     "slug": "eerste-huizen-verwarmd-met-waterstof-groene-toekomst-of-verspilde-energie",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6239716/gemeenten-mogen-nieuwe-snackbars-uit-buurt-van-scholen-weren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239713,
-    "slug": "prinses-anne-en-prins-edward-mogen-van-parlement-invallen-voor-koning-charles",
-    "type": "article",
-    "title": "Prinses Anne en prins Edward mogen van parlement invallen voor koning Charles",
-    "subtitle": null,
-    "published_at": "2022-12-01T19:52:03+01:00",
-    "updated_at": "2022-12-01T20:03:38+01:00",
-    "media_id": "2j9x3g9a9h2o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6239713/prinses-anne-en-prins-edward-mogen-van-parlement-invallen-voor-koning-charles.html",
     "open_new_window": false,
     "partner": null
   }
