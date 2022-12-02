@@ -1,13 +1,36 @@
 [
   {
-    "id": 6239936,
-    "slug": "suarez-en-uruguay-na-bloedstollende-slotfase-uitgeschakeld-op-wk",
+    "id": 6239887,
+    "slug": "maken-jongeren-de-stap-van-vapes-naar-sigaretten",
     "type": "article",
-    "title": "Suárez en Uruguay na bloedstollende slotfase uitgeschakeld op WK",
+    "title": "Maken jongeren de stap van vapes naar sigaretten?",
+    "subtitle": null,
+    "published_at": "2022-12-02T18:30:26+01:00",
+    "updated_at": "2022-12-02T18:30:27+01:00",
+    "media_id": "5tax8faamxvj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6239887/maken-jongeren-de-stap-van-vapes-naar-sigaretten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6239936,
+    "slug": "suarez-en-uruguay-na-bloedstollende-ontknoping-uitgeschakeld-op-wk",
+    "type": "article",
+    "title": "Suárez en Uruguay na bloedstollende ontknoping uitgeschakeld op WK",
     "subtitle": null,
     "published_at": "2022-12-02T18:04:05+01:00",
-    "updated_at": "2022-12-02T18:10:45+01:00",
-    "media_id": "gl8x88mav2uw",
+    "updated_at": "2022-12-02T18:38:30+01:00",
+    "media_id": "j08x5e8aocsj",
     "duration": null,
     "canonical_section": {
       "id": 1772307,
@@ -18,19 +41,19 @@
       "media_id": "m1mxoqoan7eu",
       "partner": null
     },
-    "url": "/wk-voetbal/6239936/suarez-en-uruguay-na-bloedstollende-slotfase-uitgeschakeld-op-wk.html",
+    "url": "/wk-voetbal/6239936/suarez-en-uruguay-na-bloedstollende-ontknoping-uitgeschakeld-op-wk.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6239935,
-    "slug": "zuid-korea-verovert-door-goal-in-blessuretijd-achtstefinaleplek-op-wk",
+    "slug": "zuid-korea-stunt-tegen-portugal-en-gaat-dankzij-goal-in-blessuretijd-door-op-wk",
     "type": "article",
-    "title": "Zuid-Korea verovert door goal in blessuretijd achtstefinaleplek op WK",
+    "title": "Zuid-Korea stunt tegen Portugal en gaat dankzij goal in blessuretijd door op WK",
     "subtitle": null,
     "published_at": "2022-12-02T18:03:37+01:00",
-    "updated_at": "2022-12-02T18:21:28+01:00",
-    "media_id": "a8oxysvao2al",
+    "updated_at": "2022-12-02T18:43:37+01:00",
+    "media_id": "6fhxsh2aykau",
     "duration": null,
     "canonical_section": {
       "id": 1772307,
@@ -41,7 +64,7 @@
       "media_id": "m1mxoqoan7eu",
       "partner": null
     },
-    "url": "/wk-voetbal/6239935/zuid-korea-verovert-door-goal-in-blessuretijd-achtstefinaleplek-op-wk.html",
+    "url": "/wk-voetbal/6239935/zuid-korea-stunt-tegen-portugal-en-gaat-dankzij-goal-in-blessuretijd-door-op-wk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6239901/barbie-regisseur-greta-gerwig-in-verwachting-van-tweede-kind.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239893,
-    "slug": "hollands-hoop-regisseur-komt-met-npo-drama-over-big-pharma",
-    "type": "article",
-    "title": "Hollands Hoop-regisseur komt met NPO-drama over big pharma",
-    "subtitle": null,
-    "published_at": "2022-12-02T15:04:02+01:00",
-    "updated_at": "2022-12-02T15:15:21+01:00",
-    "media_id": "sraxpopasl7q",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6239893/hollands-hoop-regisseur-komt-met-npo-drama-over-big-pharma.html",
     "open_new_window": false,
     "partner": null
   }
