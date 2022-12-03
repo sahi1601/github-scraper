@@ -1,12 +1,35 @@
 [
   {
+    "id": 6240085,
+    "slug": "honderden-apeldoorners-vieren-uitbundig-wk-zege-op-vs",
+    "type": "video",
+    "title": "Honderden Apeldoorners vieren uitbundig WK-zege op VS",
+    "subtitle": "Video",
+    "published_at": "2022-12-03T20:12:49+01:00",
+    "updated_at": "2022-12-03T20:12:50+01:00",
+    "media_id": "9epxjq1a3ffv",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6240085/honderden-apeldoorners-vieren-uitbundig-wk-zege-op-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240084,
     "slug": "southgate-ziet-europa-niet-langer-domineren-niveau-stijgt-wereldwijd",
     "type": "article",
     "title": "Southgate ziet Europa niet langer domineren: 'Niveau stijgt wereldwijd'",
     "subtitle": null,
     "published_at": "2022-12-03T20:06:40+01:00",
-    "updated_at": "2022-12-03T20:06:41+01:00",
+    "updated_at": "2022-12-03T20:13:22+01:00",
     "media_id": "3pfxa2oaol3u",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6240059/arbitrage-verlaat-na-rode-kaart-het-veld-bij-oefenduel-pec-zwolle.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240058,
-    "slug": "van-gaal-kiest-ook-tegen-vs-voor-de-roon-en-klaassen-op-middenveld-oranje",
-    "type": "article",
-    "title": "Van Gaal kiest ook tegen VS voor De Roon en Klaassen op middenveld Oranje",
-    "subtitle": null,
-    "published_at": "2022-12-03T14:45:34+01:00",
-    "updated_at": "2022-12-03T15:55:54+01:00",
-    "media_id": "4dgxhb1a0l84",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6240058/van-gaal-kiest-ook-tegen-vs-voor-de-roon-en-klaassen-op-middenveld-oranje.html",
     "open_new_window": false,
     "partner": null
   }
