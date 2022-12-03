@@ -1,5 +1,28 @@
 [
   {
+    "id": 6239980,
+    "slug": "oranje-hoopt-voor-zevende-keer-kwartfinales-te-halen",
+    "type": "article",
+    "title": "Oranje hoopt voor zevende keer kwartfinales te halen",
+    "subtitle": "Liveblog WK",
+    "published_at": "2022-12-03T07:27:26+01:00",
+    "updated_at": "2022-12-03T07:27:27+01:00",
+    "media_id": "c5ix13ba2wpi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6239980/oranje-hoopt-voor-zevende-keer-kwartfinales-te-halen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239923,
     "slug": "oranje-lijkt-meer-dan-ooit-voorbereid-op-penaltyserie-kan-een-plus-zijn",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6239962,
-    "slug": "de-hollandse-jaren-van-de-bondscoach-van-vs-van-gaal-weet-dat-vast-nog-wel",
+    "slug": "de-hollandse-jaren-van-bondscoach-vs-van-gaal-weet-dat-vast-nog-wel",
     "type": "article",
-    "title": "De Hollandse jaren van de bondscoach van VS: 'Van Gaal weet dat vast nog wel'",
+    "title": "De Hollandse jaren van bondscoach VS: 'Van Gaal weet dat vast nog wel'",
     "subtitle": "NU+",
     "published_at": "2022-12-03T06:01:54+01:00",
-    "updated_at": "2022-12-03T06:01:55+01:00",
+    "updated_at": "2022-12-03T07:19:31+01:00",
     "media_id": "2z5xrpba6bw0",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": "m1mxoqoan7eu",
       "partner": null
     },
-    "url": "/wk-voetbal/6239962/de-hollandse-jaren-van-de-bondscoach-van-vs-van-gaal-weet-dat-vast-nog-wel.html",
+    "url": "/wk-voetbal/6239962/de-hollandse-jaren-van-bondscoach-vs-van-gaal-weet-dat-vast-nog-wel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6239966/drie-verdachten-opgepakt-die-ontsnapte-tbser-vermoedelijk-hebben-geholpen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239619,
-    "slug": "oranje-trapt-achtste-finales-af-jubileum-voor-messi",
-    "type": "article",
-    "title": "Oranje trapt achtste finales af, jubileum voor Messi",
-    "subtitle": "WK-programma",
-    "published_at": "2022-12-02T22:02:40+01:00",
-    "updated_at": "2022-12-02T22:22:29+01:00",
-    "media_id": "ktixem1ay8j3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6239619/oranje-trapt-achtste-finales-af-jubileum-voor-messi.html",
     "open_new_window": false,
     "partner": null
   }
