@@ -1,5 +1,28 @@
 [
   {
+    "id": 6240092,
+    "slug": "situatie-van-braziliaans-voetbalicoon-pele-is-volgens-ziekenhuis-stabiel",
+    "type": "article",
+    "title": "Situatie van Braziliaans voetbalicoon Pelé is volgens ziekenhuis stabiel",
+    "subtitle": null,
+    "published_at": "2022-12-03T22:16:09+01:00",
+    "updated_at": "2022-12-03T22:16:10+01:00",
+    "media_id": "m2nx9xfa8nfi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6240092/situatie-van-braziliaans-voetbalicoon-pele-is-volgens-ziekenhuis-stabiel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239897,
     "slug": "frankrijk-en-engeland-jagen-op-kwartfinales",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Oranje treft Argentinië in kwartfinales WK, Messi scoort in zijn duizendste duel",
     "subtitle": null,
     "published_at": "2022-12-03T21:56:43+01:00",
-    "updated_at": "2022-12-03T21:56:50+01:00",
+    "updated_at": "2022-12-03T22:20:15+01:00",
     "media_id": "uqtxgrpamuho",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6240071/memphis-staat-dankzij-goal-tegen-vs-alleen-tweede-op-topscorerslijst-oranje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240060,
-    "slug": "frankrijk-op-zijn-hoede-voor-doelpuntenmachine-lewandowski-en-szczesny",
-    "type": "article",
-    "title": "Frankrijk op zijn hoede voor 'doelpuntenmachine' Lewandowski en Szczesny",
-    "subtitle": null,
-    "published_at": "2022-12-03T16:08:48+01:00",
-    "updated_at": "2022-12-03T16:19:23+01:00",
-    "media_id": "0a1x2via47jm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6240060/frankrijk-op-zijn-hoede-voor-doelpuntenmachine-lewandowski-en-szczesny.html",
     "open_new_window": false,
     "partner": null
   }
