@@ -1,5 +1,51 @@
 [
   {
+    "id": 6240104,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2022-12-04T05:34:20+01:00",
+    "updated_at": "2022-12-04T05:34:21+01:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6240104/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6239528,
+    "slug": "lifehack-met-deze-apps-maak-je-pakjesavond-nog-leuker",
+    "type": "article",
+    "title": "Lifehack: Met deze apps maak je Pakjesavond nog leuker",
+    "subtitle": null,
+    "published_at": "2022-12-04T05:31:49+01:00",
+    "updated_at": "2022-12-04T05:31:50+01:00",
+    "media_id": "8vcxxodav9ku",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6239528/lifehack-met-deze-apps-maak-je-pakjesavond-nog-leuker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239689,
     "slug": "gevlucht-van-kharkiv-naar-valkenswaard-wij-zijn-nederland-eeuwig-dankbaar",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6240082/bondscoach-vs-trots-ondanks-verlies-we-waren-zeker-niet-minder-dan-oranje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240080,
-    "slug": "van-gaal-streng-voor-oranje-na-zege-op-vs-we-leden-veel-te-vaak-balverlies",
-    "type": "article",
-    "title": "Van Gaal streng voor Oranje na zege op VS: 'We leden veel te vaak balverlies'",
-    "subtitle": null,
-    "published_at": "2022-12-03T18:57:10+01:00",
-    "updated_at": "2022-12-04T03:02:46+01:00",
-    "media_id": "udzx9gwaoaw1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6240080/van-gaal-streng-voor-oranje-na-zege-op-vs-we-leden-veel-te-vaak-balverlies.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240078,
-    "slug": "dumfries-in-rijtje-met-cruijff-en-rensenbrink-maar-belangrijkste-is-de-winst",
-    "type": "article",
-    "title": "Dumfries in rijtje met Cruijff en Rensenbrink: 'Maar belangrijkste is de winst'",
-    "subtitle": null,
-    "published_at": "2022-12-03T18:47:54+01:00",
-    "updated_at": "2022-12-03T21:57:14+01:00",
-    "media_id": "fibxrmga996g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6240078/dumfries-in-rijtje-met-cruijff-en-rensenbrink-maar-belangrijkste-is-de-winst.html",
     "open_new_window": false,
     "partner": null
   }
