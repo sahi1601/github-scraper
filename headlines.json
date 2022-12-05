@@ -1,5 +1,28 @@
 [
   {
+    "id": 6240434,
+    "slug": "directeur-bierhoff-vertrekt-bij-duitse-voetbalbond-na-dramatisch-verlopen-wk",
+    "type": "article",
+    "title": "Directeur Bierhoff vertrekt bij Duitse voetbalbond na dramatisch verlopen WK",
+    "subtitle": null,
+    "published_at": "2022-12-05T22:47:28+01:00",
+    "updated_at": "2022-12-05T22:56:07+01:00",
+    "media_id": "fuwxv4gacex5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6240434/directeur-bierhoff-vertrekt-bij-duitse-voetbalbond-na-dramatisch-verlopen-wk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240433,
     "slug": "camera-filmt-uitbarsting-vulkaan-stromboli-in-italie",
     "type": "video",
@@ -305,7 +328,7 @@
     "title": "Drie gewonden na steekpartij in Rotterdam, politie schiet verdachte neer",
     "subtitle": null,
     "published_at": "2022-12-05T19:42:31+01:00",
-    "updated_at": "2022-12-05T22:24:54+01:00",
+    "updated_at": "2022-12-05T22:52:10+01:00",
     "media_id": "mkcxl0wal63r",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6240353/welke-invloed-hebben-sociale-media-op-de-mentale-gezondheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240402,
-    "slug": "serviesbedrijf-blond-amsterdam-haalt-kop-met-lachende-anne-frank-uit-handel",
-    "type": "article",
-    "title": "Serviesbedrijf Blond Amsterdam haalt kop met lachende Anne Frank uit handel",
-    "subtitle": null,
-    "published_at": "2022-12-05T18:21:56+01:00",
-    "updated_at": "2022-12-05T19:46:18+01:00",
-    "media_id": "dy9xigqai6j3",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6240402/serviesbedrijf-blond-amsterdam-haalt-kop-met-lachende-anne-frank-uit-handel.html",
     "open_new_window": false,
     "partner": null
   }
