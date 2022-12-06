@@ -1,5 +1,28 @@
 [
   {
+    "id": 6240450,
+    "slug": "oranje-keert-na-vrije-dag-terug-op-trainingsveld",
+    "type": "article",
+    "title": "Oranje keert na vrije dag terug op trainingsveld",
+    "subtitle": "Liveblog WK",
+    "published_at": "2022-12-06T07:38:46+01:00",
+    "updated_at": "2022-12-06T07:38:55+01:00",
+    "media_id": "gczxxhxag0gc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6240450/oranje-keert-na-vrije-dag-terug-op-trainingsveld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240449,
     "slug": "neuralink-onder-vuur-voor-het-doden-van-1500-proefdieren",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Grote steden zetten zich met maatregelen weer schrap voor WK-wedstrijd Marokko",
     "subtitle": null,
     "published_at": "2022-12-06T07:23:52+01:00",
-    "updated_at": "2022-12-06T07:23:54+01:00",
+    "updated_at": "2022-12-06T07:44:31+01:00",
     "media_id": "34exm8maignm",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Amerikaanse Cheers-actrice Kirstie Alley op 71-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2022-12-06T03:06:05+01:00",
-    "updated_at": "2022-12-06T06:21:08+01:00",
+    "updated_at": "2022-12-06T07:41:25+01:00",
     "media_id": "n3sxjdoa6i7t",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6240433/camera-filmt-uitbarsting-vulkaan-stromboli-in-italie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240431,
-    "slug": "brazilianen-betuigen-steun-aan-zieke-landgenoot-pele",
-    "type": "article",
-    "title": "Brazilianen betuigen steun aan zieke landgenoot Pelé",
-    "subtitle": "In beeld",
-    "published_at": "2022-12-05T22:19:28+01:00",
-    "updated_at": "2022-12-05T22:39:55+01:00",
-    "media_id": "br7xeppa122m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6240431/brazilianen-betuigen-steun-aan-zieke-landgenoot-pele.html",
     "open_new_window": false,
     "partner": null
   }
