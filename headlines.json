@@ -1,5 +1,28 @@
 [
   {
+    "id": 6240820,
+    "slug": "microsoft-teams-gaat-concurrentie-aan-met-facebook-groepen",
+    "type": "article",
+    "title": "Microsoft Teams gaat concurrentie aan met Facebook Groepen",
+    "subtitle": null,
+    "published_at": "2022-12-07T16:14:28+01:00",
+    "updated_at": "2022-12-07T16:17:03+01:00",
+    "media_id": "0tdxe1pa8emx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6240820/microsoft-teams-gaat-concurrentie-aan-met-facebook-groepen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240819,
     "slug": "voedselautoriteit-onderzoekt-mishandeling-van-varkens-op-transport",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "New York Yankees sluit megacontract van 360 miljoen dollar met honkballer Judge",
     "subtitle": null,
     "published_at": "2022-12-07T16:10:36+01:00",
-    "updated_at": "2022-12-07T16:10:37+01:00",
+    "updated_at": "2022-12-07T16:18:57+01:00",
     "media_id": "chbxvhyaqelt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6240761/economie-eurozone-ondanks-inflatie-in-afgelopen-kwartaal-gegroeid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240767,
-    "slug": "infantino-spreekt-van-beste-groepsfase-ooit-geen-grote-en-kleine-teams-meer",
-    "type": "article",
-    "title": "Infantino spreekt van beste groepsfase ooit: 'Geen grote en kleine teams meer'",
-    "subtitle": null,
-    "published_at": "2022-12-07T12:34:08+01:00",
-    "updated_at": "2022-12-07T13:24:33+01:00",
-    "media_id": "u5nxpetaz8f6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6240767/infantino-spreekt-van-beste-groepsfase-ooit-geen-grote-en-kleine-teams-meer.html",
     "open_new_window": false,
     "partner": null
   }
