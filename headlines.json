@@ -1,5 +1,28 @@
 [
   {
+    "id": 6240856,
+    "slug": "aantal-miljardairs-in-2022-gedaald-vooral-in-rusland",
+    "type": "article",
+    "title": "Aantal miljardairs in 2022 gedaald, vooral in Rusland",
+    "subtitle": null,
+    "published_at": "2022-12-07T18:10:47+01:00",
+    "updated_at": "2022-12-07T18:10:48+01:00",
+    "media_id": "5prxq63aik92",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6240856/aantal-miljardairs-in-2022-gedaald-vooral-in-rusland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240857,
     "slug": "timelapse-toont-sloop-van-iconisch-ziekenhuis-in-rotterdam",
     "type": "video",
@@ -52,7 +75,7 @@
     "title": "Walker lacht vragen over Mbappé weg: 'Ga geen rode loper voor hem uitrollen'",
     "subtitle": null,
     "published_at": "2022-12-07T17:26:16+01:00",
-    "updated_at": "2022-12-07T17:38:11+01:00",
+    "updated_at": "2022-12-07T18:13:16+01:00",
     "media_id": "13xx6zdad48a",
     "duration": null,
     "canonical_section": {
@@ -98,8 +121,8 @@
     "title": "Grootste chipmaker ter wereld investeert 40 miljard dollar in VS",
     "subtitle": null,
     "published_at": "2022-12-07T17:12:09+01:00",
-    "updated_at": "2022-12-07T17:43:59+01:00",
-    "media_id": "39oxoofaksba",
+    "updated_at": "2022-12-07T18:11:29+01:00",
+    "media_id": "475xyr6ab6pw",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6240793/drie-maanden-na-stroomstoring-weer-treinverkeer-tussen-lelystad-en-dronten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240791,
-    "slug": "spaanse-trein-mist-voorkant-na-botsing-waarbij-150-gewonden-vielen",
-    "type": "video",
-    "title": "Spaanse trein mist voorkant na botsing waarbij 150 gewonden vielen",
-    "subtitle": "Video",
-    "published_at": "2022-12-07T14:45:48+01:00",
-    "updated_at": "2022-12-07T14:45:49+01:00",
-    "media_id": "an8x2xlaf5m3",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6240791/spaanse-trein-mist-voorkant-na-botsing-waarbij-150-gewonden-vielen.html",
     "open_new_window": false,
     "partner": null
   }
