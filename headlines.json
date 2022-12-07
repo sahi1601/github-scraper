@@ -1,5 +1,28 @@
 [
   {
+    "id": 6240857,
+    "slug": "timelapse-toont-sloop-van-iconisch-ziekenhuis-in-rotterdam",
+    "type": "video",
+    "title": "Timelapse toont sloop van iconisch ziekenhuis in Rotterdam",
+    "subtitle": "Video",
+    "published_at": "2022-12-07T17:52:05+01:00",
+    "updated_at": "2022-12-07T17:52:06+01:00",
+    "media_id": "ct3x1wjazd81",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6240857/timelapse-toont-sloop-van-iconisch-ziekenhuis-in-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240809,
     "slug": "waarom-de-vulkaanuitbarsting-op-java-veel-heviger-is-dan-die-op-hawai",
     "type": "video",
@@ -75,7 +98,7 @@
     "title": "Grootste chipmaker ter wereld investeert 40 miljard dollar in VS",
     "subtitle": null,
     "published_at": "2022-12-07T17:12:09+01:00",
-    "updated_at": "2022-12-07T17:12:10+01:00",
+    "updated_at": "2022-12-07T17:43:59+01:00",
     "media_id": "39oxoofaksba",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6240791/spaanse-trein-mist-voorkant-na-botsing-waarbij-150-gewonden-vielen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240779,
-    "slug": "homo-sapiens-en-neanderthaler-leefden-mogelijk-naast-elkaar-in-europa",
-    "type": "article",
-    "title": "Homo sapiens en neanderthaler leefden mogelijk naast elkaar in Europa",
-    "subtitle": null,
-    "published_at": "2022-12-07T14:16:22+01:00",
-    "updated_at": "2022-12-07T15:10:26+01:00",
-    "media_id": "st0xkx2akncd",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6240779/homo-sapiens-en-neanderthaler-leefden-mogelijk-naast-elkaar-in-europa.html",
     "open_new_window": false,
     "partner": null
   }
