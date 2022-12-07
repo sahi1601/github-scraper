@@ -1,5 +1,51 @@
 [
   {
+    "id": 6240657,
+    "slug": "van-gaal-wil-revanche-op-argentinie-was-toen-misschien-een-dom-besluit",
+    "type": "article",
+    "title": "Van Gaal wil revanche op Argentinië: 'Was toen misschien een dom besluit'",
+    "subtitle": null,
+    "published_at": "2022-12-07T05:35:52+01:00",
+    "updated_at": "2022-12-07T05:35:53+01:00",
+    "media_id": "aq4xa1saqitf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6240657/van-gaal-wil-revanche-op-argentinie-was-toen-misschien-een-dom-besluit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6239842,
+    "slug": "amalias-eerste-jaar-als-troonopvolger-verliep-anders-dan-verwacht",
+    "type": "article",
+    "title": "Amalia's eerste jaar als troonopvolger verliep anders dan verwacht",
+    "subtitle": "NU+",
+    "published_at": "2022-12-07T05:34:45+01:00",
+    "updated_at": "2022-12-07T05:34:46+01:00",
+    "media_id": "wf5x8bkam8xb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6239842/amalias-eerste-jaar-als-troonopvolger-verliep-anders-dan-verwacht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240670,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6240627/belastingdienst-miste-bijna-miljoen-telefoongesprekken-door-personeelstekort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240624,
-    "slug": "oranje-verdediger-ake-over-van-gaal-iedereen-wil-voor-hem-vechten",
-    "type": "video",
-    "title": "Oranje-verdediger Aké over Van Gaal: 'Iedereen wil voor hem vechten'",
-    "subtitle": "Video",
-    "published_at": "2022-12-06T18:51:56+01:00",
-    "updated_at": "2022-12-06T19:02:40+01:00",
-    "media_id": "wn6xqtva0snl",
-    "duration": "0:42",
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6240624/oranje-verdediger-ake-over-van-gaal-iedereen-wil-voor-hem-vechten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240572,
-    "slug": "zorgen-sociale-media-voor-toename-van-psychische-klachten",
-    "type": "audio",
-    "title": "Zorgen sociale media voor toename van psychische klachten?",
-    "subtitle": "Podcast",
-    "published_at": "2022-12-06T18:50:56+01:00",
-    "updated_at": "2022-12-06T18:50:57+01:00",
-    "media_id": "fwkxnd0asie7",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6240572/zorgen-sociale-media-voor-toename-van-psychische-klachten.html",
     "open_new_window": false,
     "partner": null
   }
