@@ -1,12 +1,35 @@
 [
   {
+    "id": 6240858,
+    "slug": "kabinet-houdt-vast-aan-nareisbeperking-voor-gezin-van-statushouders",
+    "type": "article",
+    "title": "Kabinet houdt vast aan nareisbeperking voor gezin van statushouders",
+    "subtitle": null,
+    "published_at": "2022-12-07T18:19:03+01:00",
+    "updated_at": "2022-12-07T18:19:04+01:00",
+    "media_id": "0tmxvf7ai1nr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6240858/kabinet-houdt-vast-aan-nareisbeperking-voor-gezin-van-statushouders.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240856,
     "slug": "aantal-miljardairs-in-2022-gedaald-vooral-in-rusland",
     "type": "article",
     "title": "Aantal miljardairs in 2022 gedaald, vooral in Rusland",
     "subtitle": null,
     "published_at": "2022-12-07T18:10:47+01:00",
-    "updated_at": "2022-12-07T18:10:48+01:00",
+    "updated_at": "2022-12-07T18:16:36+01:00",
     "media_id": "5prxq63aik92",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Timelapse toont sloop van iconisch ziekenhuis in Rotterdam",
     "subtitle": "Video",
     "published_at": "2022-12-07T17:52:05+01:00",
-    "updated_at": "2022-12-07T17:52:06+01:00",
+    "updated_at": "2022-12-07T18:19:26+01:00",
     "media_id": "ct3x1wjazd81",
     "duration": "0:45",
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Noppert voelt geen spanning: 'De beste verdediging ter wereld staat voor me'",
     "subtitle": null,
     "published_at": "2022-12-07T15:59:25+01:00",
-    "updated_at": "2022-12-07T16:43:49+01:00",
+    "updated_at": "2022-12-07T18:24:07+01:00",
     "media_id": "niox3uhanhgq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6240790/meerdere-verdachten-van-rellen-in-staphorst-hebben-zich-gemeld-bij-politie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240793,
-    "slug": "drie-maanden-na-stroomstoring-weer-treinverkeer-tussen-lelystad-en-dronten",
-    "type": "article",
-    "title": "Drie maanden na stroomstoring weer treinverkeer tussen Lelystad en Dronten",
-    "subtitle": null,
-    "published_at": "2022-12-07T15:14:18+01:00",
-    "updated_at": "2022-12-07T15:32:43+01:00",
-    "media_id": "zewxuvjaya3o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6240793/drie-maanden-na-stroomstoring-weer-treinverkeer-tussen-lelystad-en-dronten.html",
     "open_new_window": false,
     "partner": null
   }
