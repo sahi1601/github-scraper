@@ -1,5 +1,51 @@
 [
   {
+    "id": 6240870,
+    "slug": "paarse-vrijdag-moet-verplicht-gevierd-worden-op-alle-scholen",
+    "type": "article",
+    "title": "Paarse Vrijdag moet verplicht gevierd worden op alle scholen",
+    "subtitle": null,
+    "published_at": "2022-12-08T07:33:22+01:00",
+    "updated_at": "2022-12-08T07:33:23+01:00",
+    "media_id": "hjtxejpaxxtg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6240870/paarse-vrijdag-moet-verplicht-gevierd-worden-op-alle-scholen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6240901,
+    "slug": "oranje-werkt-toe-naar-kwartfinale-van-morgen-tegen-argentinie",
+    "type": "article",
+    "title": "Oranje werkt toe naar kwartfinale van morgen tegen Argentinië",
+    "subtitle": "Liveblog WK",
+    "published_at": "2022-12-08T07:23:30+01:00",
+    "updated_at": "2022-12-08T07:25:16+01:00",
+    "media_id": "cxgxb1waazo9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6240901/oranje-werkt-toe-naar-kwartfinale-van-morgen-tegen-argentinie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6240888,
     "slug": "van-dijk-ziet-hongerig-oranje-in-aanloop-naar-kwartfinale-hebben-een-droom",
     "type": "article",
@@ -351,7 +397,7 @@
     "title": "Rijkswaterstaat verwacht een zware ochtendspits door buien en lokale gladheid",
     "subtitle": null,
     "published_at": "2022-12-07T21:46:46+01:00",
-    "updated_at": "2022-12-08T07:17:09+01:00",
+    "updated_at": "2022-12-08T07:28:50+01:00",
     "media_id": "319xtfca24in",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6240877/miedema-leidt-arsenal-met-fraaie-goal-langs-juventus-in-champions-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240876,
-    "slug": "deze-nummers-staan-in-de-top-5-van-de-top-2000",
-    "type": "video",
-    "title": "Deze nummers staan in de top 5 van de Top 2000",
-    "subtitle": "Video",
-    "published_at": "2022-12-07T20:41:36+01:00",
-    "updated_at": "2022-12-07T20:41:37+01:00",
-    "media_id": "gxrxt0gagxrk",
-    "duration": "1:38",
-    "canonical_section": {
-      "id": 1778994,
-      "slug": "media-en-cultuur",
-      "type": "default",
-      "name": "Entertainment",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media-en-cultuur/6240876/deze-nummers-staan-in-de-top-5-van-de-top-2000.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6240872,
-    "slug": "peruaanse-president-opgepakt-nadat-hij-parlement-probeerde-te-ontbinden",
-    "type": "article",
-    "title": "Peruaanse president opgepakt nadat hij parlement probeerde te ontbinden",
-    "subtitle": null,
-    "published_at": "2022-12-07T20:35:21+01:00",
-    "updated_at": "2022-12-08T04:31:05+01:00",
-    "media_id": "v0dxbfma31to",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6240872/peruaanse-president-opgepakt-nadat-hij-parlement-probeerde-te-ontbinden.html",
     "open_new_window": false,
     "partner": null
   }
