@@ -1,5 +1,28 @@
 [
   {
+    "id": 6241339,
+    "slug": "kroaten-uitzinnig-na-winst-op-brazilie-verdriet-in-sao-paulo",
+    "type": "video",
+    "title": "Kroaten uitzinnig na winst op Brazilië, verdriet in São Paulo",
+    "subtitle": "Video",
+    "published_at": "2022-12-09T21:38:46+01:00",
+    "updated_at": "2022-12-09T21:38:47+01:00",
+    "media_id": "0vcx0nmazrol",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6241339/kroaten-uitzinnig-na-winst-op-brazilie-verdriet-in-sao-paulo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241216,
     "slug": "zonnepanelen-huren-in-plaats-van-kopen-is-dat-slim",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6241317/southgate-en-kane-vrezen-niet-alleen-mbappe-heel-frankrijk-is-geweldig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241315,
-    "slug": "favoriet-brazilie-strandt-verrassend-in-kwartfinales-wk-na-penaltys-tegen-kroatie",
-    "type": "article",
-    "title": "Favoriet Brazilië strandt verrassend in kwartfinales WK na penalty's tegen Kroatië",
-    "subtitle": null,
-    "published_at": "2022-12-09T18:47:04+01:00",
-    "updated_at": "2022-12-09T20:03:29+01:00",
-    "media_id": "il9xvnta9aoo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6241315/favoriet-brazilie-strandt-verrassend-in-kwartfinales-wk-na-penaltys-tegen-kroatie.html",
     "open_new_window": false,
     "partner": null
   }
