@@ -1,5 +1,28 @@
 [
   {
+    "id": 6240825,
+    "slug": "ondanks-alle-twijfel-is-giroud-een-franse-legende-de-feniks-van-grenoble",
+    "type": "article",
+    "title": "Ondanks alle twijfel is Giroud een Franse legende: 'De feniks van Grenoble'",
+    "subtitle": "NU+",
+    "published_at": "2022-12-10T07:21:04+01:00",
+    "updated_at": "2022-12-10T07:21:05+01:00",
+    "media_id": "hb0xy2daed99",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6240825/ondanks-alle-twijfel-is-giroud-een-franse-legende-de-feniks-van-grenoble.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241356,
     "slug": "oekraiense-vluchtelingen-moeten-in-tsjechie-plaatsmaken-voor-skiende-politici",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6241340/schouten-stelt-zwaar-teleur-met-zevende-plaats-op-3-kilometer-in-calgary.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241339,
-    "slug": "kroaten-uitzinnig-na-winst-op-brazilie-verdriet-in-sao-paulo",
-    "type": "video",
-    "title": "Kroaten uitzinnig na winst op Brazilië, verdriet in São Paulo",
-    "subtitle": "Video",
-    "published_at": "2022-12-09T21:38:46+01:00",
-    "updated_at": "2022-12-09T21:38:47+01:00",
-    "media_id": "0vcx0nmazrol",
-    "duration": "0:37",
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6241339/kroaten-uitzinnig-na-winst-op-brazilie-verdriet-in-sao-paulo.html",
     "open_new_window": false,
     "partner": null
   }
