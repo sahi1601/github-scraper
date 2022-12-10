@@ -1,5 +1,28 @@
 [
   {
+    "id": 6241410,
+    "slug": "oranje-spelers-sluiten-uitstekend-tijdperk-van-gaal-af-met-klotegevoel",
+    "type": "article",
+    "title": "Oranje-spelers sluiten 'uitstekend' tijdperk Van Gaal af met 'klotegevoel'",
+    "subtitle": null,
+    "published_at": "2022-12-10T14:25:44+01:00",
+    "updated_at": "2022-12-10T14:25:45+01:00",
+    "media_id": "myixhyua72zl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6241410/oranje-spelers-sluiten-uitstekend-tijdperk-van-gaal-af-met-klotegevoel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241405,
     "slug": "bewakingscamera-filmt-dodelijke-explosie-op-jersey",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6241371/oranje-op-weg-naar-nederland-aftellen-naar-marokko-portugal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241368,
-    "slug": "verstappen-ontvangt-kampioenstrofee-op-fia-gala",
-    "type": "video",
-    "title": "Verstappen ontvangt kampioenstrofee op FIA-gala",
-    "subtitle": "Video",
-    "published_at": "2022-12-10T09:24:54+01:00",
-    "updated_at": "2022-12-10T10:19:30+01:00",
-    "media_id": "uu6xv9faex28",
-    "duration": "0:59",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6241368/verstappen-ontvangt-kampioenstrofee-op-fia-gala.html",
     "open_new_window": false,
     "partner": null
   }
