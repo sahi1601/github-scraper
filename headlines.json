@@ -1,5 +1,28 @@
 [
   {
+    "id": 6241458,
+    "slug": "pepe-woest-op-arbitrage-na-uitschakeling-portugal-zo-pakt-argentinie-de-titel",
+    "type": "article",
+    "title": "Pepe woest op arbitrage na uitschakeling Portugal: 'Zo pakt Argentinië de titel'",
+    "subtitle": null,
+    "published_at": "2022-12-10T19:18:45+01:00",
+    "updated_at": "2022-12-10T19:22:50+01:00",
+    "media_id": "jj9xxebamf79",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6241458/pepe-woest-op-arbitrage-na-uitschakeling-portugal-zo-pakt-argentinie-de-titel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241457,
     "slug": "marokko-fans-vieren-historische-overwinning-in-nederlandse-steden",
     "type": "video",
@@ -70,13 +93,13 @@
   },
   {
     "id": 6241451,
-    "slug": "me-grijpt-in-tijdens-onrust-in-haagse-schilderswijk-na-wk-overwinning-marokko",
+    "slug": "steden-vieren-historische-overwinning-marokko-me-grijpt-in-in-den-haag",
     "type": "article",
-    "title": "ME grijpt in tijdens onrust in Haagse Schilderswijk na WK-overwinning Marokko",
+    "title": "Steden vieren historische overwinning Marokko, ME grijpt in in Den Haag",
     "subtitle": null,
     "published_at": "2022-12-10T18:36:07+01:00",
-    "updated_at": "2022-12-10T19:16:38+01:00",
-    "media_id": "x4kxu7laek5z",
+    "updated_at": "2022-12-10T19:25:23+01:00",
+    "media_id": "9zqx2m9asct1",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6241451/me-grijpt-in-tijdens-onrust-in-haagse-schilderswijk-na-wk-overwinning-marokko.html",
+    "url": "/binnenland/6241451/steden-vieren-historische-overwinning-marokko-me-grijpt-in-in-den-haag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6241416/overblijfkracht-dwong-kinderen-amsterdamse-basisschool-horrorfilms-te-kijken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241412,
-    "slug": "politie-waakt-bij-winkelcentrum-in-dresden-na-gijzeling",
-    "type": "video",
-    "title": "Politie waakt bij winkelcentrum in Dresden na gijzeling",
-    "subtitle": "Video",
-    "published_at": "2022-12-10T14:36:27+01:00",
-    "updated_at": "2022-12-10T14:36:28+01:00",
-    "media_id": "ximxropa1zcr",
-    "duration": "0:35",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6241412/politie-waakt-bij-winkelcentrum-in-dresden-na-gijzeling.html",
     "open_new_window": false,
     "partner": null
   }
