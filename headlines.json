@@ -1,5 +1,28 @@
 [
   {
+    "id": 6241243,
+    "slug": "nieuw-op-netflix-deze-films-en-series-verschenen-deze-week",
+    "type": "article",
+    "title": "Nieuw op Netflix: deze films en series verschenen deze week",
+    "subtitle": null,
+    "published_at": "2022-12-11T12:12:11+01:00",
+    "updated_at": "2022-12-11T12:12:12+01:00",
+    "media_id": "3vgxw7pag3iu",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6241243/nieuw-op-netflix-deze-films-en-series-verschenen-deze-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241297,
     "slug": "maanmodule-van-nasa-kaatst-vandaag-door-atmosfeer-bij-terugkeer",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6241250,
-    "slug": "beste-nujij-reacties-abortuspil-via-huisarts-verwarring-over-horrorpoller",
+    "slug": "abortuspil-via-huisarts-verwarring-over-horrorpoller",
     "type": "article",
-    "title": "Beste NUjij-reacties: Abortuspil via huisarts | Verwarring over 'horrorpoller'",
-    "subtitle": null,
+    "title": "Abortuspil via huisarts | Verwarring over 'horrorpoller'",
+    "subtitle": "Beste NUjij-reacties",
     "published_at": "2022-12-11T12:11:10+01:00",
-    "updated_at": "2022-12-11T12:11:11+01:00",
+    "updated_at": "2022-12-11T12:12:39+01:00",
     "media_id": "m1mxnpwaokbs",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/nujij/6241250/beste-nujij-reacties-abortuspil-via-huisarts-verwarring-over-horrorpoller.html",
+    "url": "/nujij/6241250/abortuspil-via-huisarts-verwarring-over-horrorpoller.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6241468/noppert-denkt-dat-wk-avontuur-met-oranje-eenmalig-hoogtepunt-kan-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241484,
-    "slug": "weerbericht-kou-bewolking-en-winterse-buien",
-    "type": "article",
-    "title": "Weerbericht: Kou, bewolking en winterse buien",
-    "subtitle": null,
-    "published_at": "2022-12-11T05:34:21+01:00",
-    "updated_at": "2022-12-11T07:35:49+01:00",
-    "media_id": "m1oxkvhatey7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6241484/weerbericht-kou-bewolking-en-winterse-buien.html",
     "open_new_window": false,
     "partner": null
   }
