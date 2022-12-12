@@ -1,12 +1,35 @@
 [
   {
+    "id": 6241746,
+    "slug": "politie-onderzoekt-grote-vondst-illegaal-vuurwerk-in-nieuwegein",
+    "type": "video",
+    "title": "Politie onderzoekt grote vondst illegaal vuurwerk in Nieuwegein",
+    "subtitle": "Video",
+    "published_at": "2022-12-12T22:44:00+01:00",
+    "updated_at": "2022-12-12T22:49:24+01:00",
+    "media_id": "sr9xt9eayct6",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6241746/politie-onderzoekt-grote-vondst-illegaal-vuurwerk-in-nieuwegein.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241745,
-    "slug": "europees-parlement-herziet-voorstel-om-reizen-naar-qatar-te-vergemakkelijken",
+    "slug": "europees-parlement-herziet-voorstel-om-visumplicht-voor-qatar-en-koeweit-te-schrappen",
     "type": "article",
-    "title": "Europees Parlement herziet voorstel om reizen naar Qatar te vergemakkelijken",
+    "title": "Europees Parlement herziet voorstel om visumplicht voor Qatar en Koeweit te schrappen",
     "subtitle": null,
     "published_at": "2022-12-12T22:20:34+01:00",
-    "updated_at": "2022-12-12T22:41:33+01:00",
+    "updated_at": "2022-12-12T23:12:00+01:00",
     "media_id": "koyxvwaa7vn2",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6241745/europees-parlement-herziet-voorstel-om-reizen-naar-qatar-te-vergemakkelijken.html",
+    "url": "/buitenland/6241745/europees-parlement-herziet-voorstel-om-visumplicht-voor-qatar-en-koeweit-te-schrappen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,13 +139,13 @@
   },
   {
     "id": 6241741,
-    "slug": "jong-psv-wint-bij-jong-az-na-onderbreking-vanwege-blessure-van-scheidsrechter",
+    "slug": "pec-houdt-leiding-in-kkd-binnen-bereik-met-nipte-zege-jong-psv-wint-in-alkmaar",
     "type": "article",
-    "title": "Jong PSV wint bij Jong AZ na onderbreking vanwege blessure van scheidsrechter",
+    "title": "PEC houdt leiding in KKD binnen bereik met nipte zege, Jong PSV wint in Alkmaar",
     "subtitle": null,
     "published_at": "2022-12-12T21:05:49+01:00",
-    "updated_at": "2022-12-12T21:36:05+01:00",
-    "media_id": "v5oxjydaih2j",
+    "updated_at": "2022-12-12T23:13:25+01:00",
+    "media_id": "avhx0k8a7ogu",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6241741/jong-psv-wint-bij-jong-az-na-onderbreking-vanwege-blessure-van-scheidsrechter.html",
+    "url": "/voetbal/6241741/pec-houdt-leiding-in-kkd-binnen-bereik-met-nipte-zege-jong-psv-wint-in-alkmaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -231,12 +254,12 @@
   },
   {
     "id": 6241728,
-    "slug": "wegens-rellen-geen-schermen-op-haagse-en-amsterdamse-pleinen-voor-wk-duel-marokko",
+    "slug": "wegens-rellen-geen-schermen-in-den-haag-en-amsterdam-voor-wk-duel-marokko",
     "type": "article",
-    "title": "Wegens rellen geen schermen op Haagse en Amsterdamse pleinen voor WK-duel Marokko",
+    "title": "Wegens rellen geen schermen in Den Haag en Amsterdam voor WK-duel Marokko",
     "subtitle": null,
     "published_at": "2022-12-12T20:00:50+01:00",
-    "updated_at": "2022-12-12T21:22:22+01:00",
+    "updated_at": "2022-12-12T23:03:53+01:00",
     "media_id": "g4nxcspa0ubz",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6241728/wegens-rellen-geen-schermen-op-haagse-en-amsterdamse-pleinen-voor-wk-duel-marokko.html",
+    "url": "/binnenland/6241728/wegens-rellen-geen-schermen-in-den-haag-en-amsterdam-voor-wk-duel-marokko.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,8 +351,8 @@
     "title": "Argentinië treft WK-specialist Kroatië na clash met Oranje",
     "subtitle": "WK-programma",
     "published_at": "2022-12-12T19:13:43+01:00",
-    "updated_at": "2022-12-12T22:37:46+01:00",
-    "media_id": "xstxmztasuz0",
+    "updated_at": "2022-12-12T23:12:07+01:00",
+    "media_id": "kxrxjw9a35gz",
     "duration": null,
     "canonical_section": {
       "id": 1772307,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6241724/f1-teambaas-capito-verlaat-williams-na-twee-jaar-ook-technisch-directeur-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241725,
-    "slug": "afghaans-hotel-staat-in-brand-na-aanval-door-schutters",
-    "type": "video",
-    "title": "Afghaans hotel staat in brand na aanval door schutters",
-    "subtitle": "Video",
-    "published_at": "2022-12-12T18:20:18+01:00",
-    "updated_at": "2022-12-12T18:20:20+01:00",
-    "media_id": "ojxx39ha3snl",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6241725/afghaans-hotel-staat-in-brand-na-aanval-door-schutters.html",
     "open_new_window": false,
     "partner": null
   }
