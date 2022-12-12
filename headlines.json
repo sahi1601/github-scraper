@@ -1,12 +1,35 @@
 [
   {
+    "id": 6241649,
+    "slug": "gaby-blaaser-in-verwachting-van-eerste-kind-beste-ongelukje-ooit",
+    "type": "article",
+    "title": "Gaby Blaaser in verwachting van eerste kind: 'Beste ongelukje ooit'",
+    "subtitle": null,
+    "published_at": "2022-12-12T13:38:58+01:00",
+    "updated_at": "2022-12-12T14:00:01+01:00",
+    "media_id": "jiaxb23ay7gb",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6241649/gaby-blaaser-in-verwachting-van-eerste-kind-beste-ongelukje-ooit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241653,
     "slug": "dikke-rookwolken-stijgen-op-boven-russisch-winkelcentrum-na-brand",
     "type": "video",
     "title": "Dikke rookwolken stijgen op boven Russisch winkelcentrum na brand",
     "subtitle": "Video",
     "published_at": "2022-12-12T13:32:00+01:00",
-    "updated_at": "2022-12-12T13:32:02+01:00",
+    "updated_at": "2022-12-12T13:38:44+01:00",
     "media_id": "d62xecpauppx",
     "duration": "0:46",
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6241651,
-    "slug": "twee-gewonden-door-ongeluk-met-hijskraan-op-maliebaan-in-utrecht",
+    "slug": "twee-gewonden-bij-ongeluk-met-hijskraan-op-maliebaan-in-utrecht",
     "type": "article",
-    "title": "Twee gewonden door ongeluk met hijskraan op Maliebaan in Utrecht",
+    "title": "Twee gewonden bij ongeluk met hijskraan op Maliebaan in Utrecht",
     "subtitle": null,
     "published_at": "2022-12-12T13:29:30+01:00",
-    "updated_at": "2022-12-12T13:29:30+01:00",
+    "updated_at": "2022-12-12T13:56:27+01:00",
     "media_id": "3a9xp8ga1t9p",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6241651/twee-gewonden-door-ongeluk-met-hijskraan-op-maliebaan-in-utrecht.html",
+    "url": "/binnenland/6241651/twee-gewonden-bij-ongeluk-met-hijskraan-op-maliebaan-in-utrecht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Nederlander verwondt vier agenten met mes op Franse luchthaven",
     "subtitle": null,
     "published_at": "2022-12-12T12:43:31+01:00",
-    "updated_at": "2022-12-12T13:03:26+01:00",
+    "updated_at": "2022-12-12T13:41:36+01:00",
     "media_id": "wqbxifnap1tw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6241593/journalist-ron-fresen-en-actrice-anniek-pheifer-in-nieuwe-reeks-slimste-mens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241595,
-    "slug": "politie-doet-onderzoek-na-dodelijke-schietpartij-in-rome",
-    "type": "video",
-    "title": "Politie doet onderzoek na dodelijke schietpartij in Rome",
-    "subtitle": "Video",
-    "published_at": "2022-12-12T08:31:24+01:00",
-    "updated_at": "2022-12-12T08:34:43+01:00",
-    "media_id": "7yqxkzwa50e1",
-    "duration": "0:35",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6241595/politie-doet-onderzoek-na-dodelijke-schietpartij-in-rome.html",
     "open_new_window": false,
     "partner": null
   }
