@@ -1,5 +1,74 @@
 [
   {
+    "id": 6241657,
+    "slug": "jelle-brandt-corstius-moet-zich-verantwoorden-voor-beschuldiging-verkrachting",
+    "type": "article",
+    "title": "Jelle Brandt Corstius moet zich verantwoorden voor beschuldiging verkrachting",
+    "subtitle": null,
+    "published_at": "2022-12-12T14:18:30+01:00",
+    "updated_at": "2022-12-12T14:18:31+01:00",
+    "media_id": "bj6xcy2ag1kk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1775009,
+      "slug": "metoo",
+      "type": "default",
+      "name": "#metoo",
+      "style": "nu",
+      "media_id": "m1mxmqea7g3b",
+      "partner": null
+    },
+    "url": "/metoo/6241657/jelle-brandt-corstius-moet-zich-verantwoorden-voor-beschuldiging-verkrachting.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241656,
+    "slug": "karsdorp-keert-na-wekenlange-afwezigheid-terug-op-trainingsveld-van-as-roma",
+    "type": "article",
+    "title": "Karsdorp keert na wekenlange afwezigheid terug op trainingsveld van AS Roma",
+    "subtitle": null,
+    "published_at": "2022-12-12T14:08:13+01:00",
+    "updated_at": "2022-12-12T14:10:48+01:00",
+    "media_id": "a7cxqunarc3x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6241656/karsdorp-keert-na-wekenlange-afwezigheid-terug-op-trainingsveld-van-as-roma.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241647,
+    "slug": "mensenrechtencollege-voorrang-statushouders-bij-sociale-huur-geen-discriminatie",
+    "type": "article",
+    "title": "Mensenrechtencollege: Voorrang statushouders bij sociale huur geen discriminatie",
+    "subtitle": null,
+    "published_at": "2022-12-12T14:02:52+01:00",
+    "updated_at": "2022-12-12T14:06:54+01:00",
+    "media_id": "s94xi0ga6xhg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6241647/mensenrechtencollege-voorrang-statushouders-bij-sociale-huur-geen-discriminatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241649,
     "slug": "gaby-blaaser-in-verwachting-van-eerste-kind-beste-ongelukje-ooit",
     "type": "article",
@@ -52,7 +121,7 @@
     "title": "Twee gewonden bij ongeluk met hijskraan op Maliebaan in Utrecht",
     "subtitle": null,
     "published_at": "2022-12-12T13:29:30+01:00",
-    "updated_at": "2022-12-12T13:56:27+01:00",
+    "updated_at": "2022-12-12T14:02:21+01:00",
     "media_id": "3a9xp8ga1t9p",
     "duration": null,
     "canonical_section": {
@@ -75,7 +144,7 @@
     "title": "Lahoz van WK gestuurd na hoofdrol bij Oranje-Argentinië, Makkelie nog in de race",
     "subtitle": null,
     "published_at": "2022-12-12T13:18:05+01:00",
-    "updated_at": "2022-12-12T13:20:28+01:00",
+    "updated_at": "2022-12-12T14:12:31+01:00",
     "media_id": "xauxlmyaff3c",
     "duration": null,
     "canonical_section": {
@@ -121,7 +190,7 @@
     "title": "Drie kinderen overleden na reddingsactie uit bevroren meer in Engeland",
     "subtitle": null,
     "published_at": "2022-12-12T12:50:04+01:00",
-    "updated_at": "2022-12-12T13:21:13+01:00",
+    "updated_at": "2022-12-12T14:05:23+01:00",
     "media_id": "n8cx28la3h9j",
     "duration": null,
     "canonical_section": {
@@ -282,7 +351,7 @@
     "title": "Afrojack niet vervolgd voor belastingfraude",
     "subtitle": null,
     "published_at": "2022-12-12T11:15:29+01:00",
-    "updated_at": "2022-12-12T11:16:11+01:00",
+    "updated_at": "2022-12-12T14:22:05+01:00",
     "media_id": "ef4x7d0auepi",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6241521/droogte-brand-en-keverplagen-europees-bos-zucht-onder-klimaatverandering.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241600,
-    "slug": "derde-editie-scrooge-live-is-bekeken-door-ruim-18-miljoen-mensen",
-    "type": "article",
-    "title": "Derde editie Scrooge Live is bekeken door ruim 1,8 miljoen mensen",
-    "subtitle": null,
-    "published_at": "2022-12-12T08:51:32+01:00",
-    "updated_at": "2022-12-12T08:51:33+01:00",
-    "media_id": "srdxxfka630c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6241600/derde-editie-scrooge-live-is-bekeken-door-ruim-18-miljoen-mensen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241598,
-    "slug": "veel-werkgevers-compenseren-personeel-voor-gestegen-kosten",
-    "type": "article",
-    "title": "Veel werkgevers compenseren personeel voor gestegen kosten",
-    "subtitle": null,
-    "published_at": "2022-12-12T08:45:49+01:00",
-    "updated_at": "2022-12-12T12:12:29+01:00",
-    "media_id": "d2fx1cvadss6",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6241598/veel-werkgevers-compenseren-personeel-voor-gestegen-kosten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241593,
-    "slug": "journalist-ron-fresen-en-actrice-anniek-pheifer-in-nieuwe-reeks-slimste-mens",
-    "type": "article",
-    "title": "Journalist Ron Fresen en actrice Anniek Pheifer in nieuwe reeks Slimste mens",
-    "subtitle": null,
-    "published_at": "2022-12-12T08:32:42+01:00",
-    "updated_at": "2022-12-12T08:32:43+01:00",
-    "media_id": "x3rxpmsamz98",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6241593/journalist-ron-fresen-en-actrice-anniek-pheifer-in-nieuwe-reeks-slimste-mens.html",
     "open_new_window": false,
     "partner": null
   }
