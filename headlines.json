@@ -1,5 +1,28 @@
 [
   {
+    "id": 6241794,
+    "slug": "lerarentekort-verder-toegenomen-noodzaak-aanpak-blijft-onverminderd-hoog",
+    "type": "article",
+    "title": "Lerarentekort verder toegenomen, noodzaak aanpak blijft 'onverminderd hoog'",
+    "subtitle": null,
+    "published_at": "2022-12-13T12:15:32+01:00",
+    "updated_at": "2022-12-13T12:15:33+01:00",
+    "media_id": "t0xxhjfaautl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6241794/lerarentekort-verder-toegenomen-noodzaak-aanpak-blijft-onverminderd-hoog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241830,
     "slug": "franse-coach-deschamps-lyrisch-marokko-heeft-de-beste-verdediging-dit-wk",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "Teambaas Seidl verruilt McLaren voor Alfa Romeo",
     "subtitle": null,
     "published_at": "2022-12-13T11:16:01+01:00",
-    "updated_at": "2022-12-13T11:38:43+01:00",
+    "updated_at": "2022-12-13T12:15:01+01:00",
     "media_id": "zxpxwewaiht9",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Toch een kleine stijging van de kinderopvangtoeslag vanwege hoge tarieven",
     "subtitle": null,
     "published_at": "2022-12-13T10:42:36+01:00",
-    "updated_at": "2022-12-13T10:42:37+01:00",
+    "updated_at": "2022-12-13T12:15:10+01:00",
     "media_id": "uz7xp2yapxw3",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Steenbergen ondanks recordtijd naast podium op 200 meter wissel WK kortebaan",
     "subtitle": null,
     "published_at": "2022-12-13T10:27:36+01:00",
-    "updated_at": "2022-12-13T12:03:48+01:00",
+    "updated_at": "2022-12-13T12:17:36+01:00",
     "media_id": "htvxd58anm98",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6241764/van-der-poel-in-hoger-beroep-vrijuit-na-aanval-op-meisjes-in-australisch-hotel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241763,
-    "slug": "sociale-robot-gaat-ggz-clienten-helpen-bij-dagelijkse-bezigheden",
-    "type": "article",
-    "title": "Sociale robot gaat ggz-cliënten helpen bij dagelijkse bezigheden",
-    "subtitle": null,
-    "published_at": "2022-12-13T08:31:13+01:00",
-    "updated_at": "2022-12-13T08:36:20+01:00",
-    "media_id": "lcsxmytaasv7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6241763/sociale-robot-gaat-ggz-clienten-helpen-bij-dagelijkse-bezigheden.html",
     "open_new_window": false,
     "partner": null
   }
