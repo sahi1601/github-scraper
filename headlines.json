@@ -1,12 +1,35 @@
 [
   {
+    "id": 6241971,
+    "slug": "messi-geniet-van-euforie-na-bereiken-wk-finale-geweldig-om-iedereen-zo-te-zien",
+    "type": "article",
+    "title": "Messi geniet van euforie na bereiken WK-finale: 'Geweldig om iedereen zo te zien'",
+    "subtitle": null,
+    "published_at": "2022-12-13T22:38:26+01:00",
+    "updated_at": "2022-12-13T22:38:28+01:00",
+    "media_id": "4nhxbtqas5ui",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6241971/messi-geniet-van-euforie-na-bereiken-wk-finale-geweldig-om-iedereen-zo-te-zien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241862,
     "slug": "reuzendoder-marokko-aast-in-halve-finales-op-scalp-frankrijk",
     "type": "article",
     "title": "Reuzendoder Marokko aast in halve finales op scalp Frankrijk",
     "subtitle": "WK-programma",
     "published_at": "2022-12-13T22:03:45+01:00",
-    "updated_at": "2022-12-13T22:04:28+01:00",
+    "updated_at": "2022-12-13T22:26:22+01:00",
     "media_id": "5tpxvnra8f1k",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Uitblinker Messi leidt Argentinië ten koste van Kroatië naar WK-finale",
     "subtitle": null,
     "published_at": "2022-12-13T21:55:10+01:00",
-    "updated_at": "2022-12-13T22:10:43+01:00",
+    "updated_at": "2022-12-13T22:27:30+01:00",
     "media_id": "3mvxawcau7ch",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Messi lost Batistuta met elfde goal af als Argentijns WK-topscorer aller tijden",
     "subtitle": null,
     "published_at": "2022-12-13T21:09:58+01:00",
-    "updated_at": "2022-12-13T21:12:42+01:00",
+    "updated_at": "2022-12-13T22:21:49+01:00",
     "media_id": "u9cx060aabxn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6241925/tweevoudig-ritwinnaar-in-de-tour-rolland-36-zet-punt-achter-loopbaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241924,
-    "slug": "grote-groep-migranten-trekt-via-rivier-van-mexico-naar-vs",
-    "type": "video",
-    "title": "Grote groep migranten trekt via rivier van Mexico naar VS",
-    "subtitle": "Video",
-    "published_at": "2022-12-13T17:51:14+01:00",
-    "updated_at": "2022-12-13T18:45:15+01:00",
-    "media_id": "cf5x87da1ofp",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6241924/grote-groep-migranten-trekt-via-rivier-van-mexico-naar-vs.html",
     "open_new_window": false,
     "partner": null
   }
