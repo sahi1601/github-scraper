@@ -1,12 +1,35 @@
 [
   {
+    "id": 6241974,
+    "slug": "televisiemaker-han-peekel-75-overleden-tijdens-vakantie-op-bali",
+    "type": "article",
+    "title": "Televisiemaker Han Peekel (75) overleden tijdens vakantie op Bali",
+    "subtitle": null,
+    "published_at": "2022-12-13T23:17:27+01:00",
+    "updated_at": "2022-12-13T23:20:58+01:00",
+    "media_id": "wwcxixbaxcix",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6241974/televisiemaker-han-peekel-75-overleden-tijdens-vakantie-op-bali.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241973,
     "slug": "bondscoach-kroatie-berust-in-verdiende-nederlaag-we-mogen-trots-zijn",
     "type": "article",
     "title": "Bondscoach Kroatië berust in 'verdiende' nederlaag: 'We mogen trots zijn'",
     "subtitle": null,
     "published_at": "2022-12-13T23:06:42+01:00",
-    "updated_at": "2022-12-13T23:06:43+01:00",
+    "updated_at": "2022-12-13T23:14:46+01:00",
     "media_id": "m6txk68atti1",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6241972,
-    "slug": "nelson-mandelabrug-in-zoetermeer-wordt-deels-ontmanteld-a12-tijdelijk-dicht",
+    "slug": "mandelabrug-in-zoetermeer-wordt-deels-ontmanteld-a12-moet-tijdelijk-dicht",
     "type": "article",
-    "title": "Nelson Mandelabrug in Zoetermeer wordt deels ontmanteld, A12 tijdelijk dicht",
+    "title": "Mandelabrug in Zoetermeer wordt deels ontmanteld, A12 moet tijdelijk dicht",
     "subtitle": null,
     "published_at": "2022-12-13T22:49:59+01:00",
-    "updated_at": "2022-12-13T23:07:53+01:00",
+    "updated_at": "2022-12-13T23:12:52+01:00",
     "media_id": "qc3x3r1amono",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6241972/nelson-mandelabrug-in-zoetermeer-wordt-deels-ontmanteld-a12-tijdelijk-dicht.html",
+    "url": "/binnenland/6241972/mandelabrug-in-zoetermeer-wordt-deels-ontmanteld-a12-moet-tijdelijk-dicht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Messi geniet van euforie na bereiken WK-finale: 'Geweldig om iedereen zo te zien'",
     "subtitle": null,
     "published_at": "2022-12-13T22:38:26+01:00",
-    "updated_at": "2022-12-13T22:48:29+01:00",
+    "updated_at": "2022-12-13T23:25:05+01:00",
     "media_id": "yfrx0vxagwt3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6241936/ook-als-je-onder-het-prijsplafond-blijft-moet-je-soms-hogere-tarieven-betalen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241932,
-    "slug": "celstraffen-tot-18-jaar-voor-handlangers-van-man-die-bloedbad-aanrichtte-in-nice",
-    "type": "article",
-    "title": "Celstraffen tot 18 jaar voor handlangers van man die bloedbad aanrichtte in Nice",
-    "subtitle": null,
-    "published_at": "2022-12-13T18:39:01+01:00",
-    "updated_at": "2022-12-13T18:57:27+01:00",
-    "media_id": "3yyxz60a4x5f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6241932/celstraffen-tot-18-jaar-voor-handlangers-van-man-die-bloedbad-aanrichtte-in-nice.html",
     "open_new_window": false,
     "partner": null
   }
