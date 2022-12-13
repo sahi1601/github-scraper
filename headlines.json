@@ -1,12 +1,58 @@
 [
   {
+    "id": 6241820,
+    "slug": "ijspret-in-doorn-na-koudste-nacht-van-het-jaar",
+    "type": "video",
+    "title": "IJspret in Doorn na koudste nacht van het jaar",
+    "subtitle": "Video",
+    "published_at": "2022-12-13T11:23:42+01:00",
+    "updated_at": "2022-12-13T11:24:04+01:00",
+    "media_id": "k7kxobvausgg",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6241820/ijspret-in-doorn-na-koudste-nacht-van-het-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6241815,
+    "slug": "teambaas-seidl-verruilt-mclaren-voor-alfa-romeo",
+    "type": "article",
+    "title": "Teambaas Seidl verruilt McLaren voor Alfa Romeo",
+    "subtitle": null,
+    "published_at": "2022-12-13T11:16:01+01:00",
+    "updated_at": "2022-12-13T11:29:16+01:00",
+    "media_id": "zxpxwewaiht9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6241815/teambaas-seidl-verruilt-mclaren-voor-alfa-romeo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241812,
     "slug": "ns-bestelt-voor-600-miljoen-euro-nieuwe-treinen-met-verschillende-hoogtes",
     "type": "article",
     "title": "NS bestelt voor 600 miljoen euro nieuwe treinen met verschillende hoogtes",
     "subtitle": null,
     "published_at": "2022-12-13T11:05:58+01:00",
-    "updated_at": "2022-12-13T11:06:07+01:00",
+    "updated_at": "2022-12-13T11:26:01+01:00",
     "media_id": "yt9xka2axjjv",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Bart Vreugdenhil verbetert 73 jaar oud werelduurrecord op natuurijs",
     "subtitle": null,
     "published_at": "2022-12-13T10:37:26+01:00",
-    "updated_at": "2022-12-13T11:12:44+01:00",
+    "updated_at": "2022-12-13T11:15:06+01:00",
     "media_id": "o91x0klaiym0",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6241755/koudste-nacht-van-het-jaar-gemeten-temperatuur-daalde-in-twente-naar-9.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241743,
-    "slug": "scholieren-zouden-veel-later-op-leerniveau-ingedeeld-moeten-worden",
-    "type": "article",
-    "title": "Scholieren zouden veel later op leerniveau ingedeeld moeten worden",
-    "subtitle": null,
-    "published_at": "2022-12-13T07:15:27+01:00",
-    "updated_at": "2022-12-13T07:15:28+01:00",
-    "media_id": "8irxvwfaq26g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6241743/scholieren-zouden-veel-later-op-leerniveau-ingedeeld-moeten-worden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241756,
-    "slug": "originele-blauwe-vinkjes-op-twitter-verdwijnen-over-aantal-maanden",
-    "type": "article",
-    "title": "Originele blauwe vinkjes op Twitter verdwijnen over aantal maanden",
-    "subtitle": null,
-    "published_at": "2022-12-13T07:13:32+01:00",
-    "updated_at": "2022-12-13T07:22:18+01:00",
-    "media_id": "ko4xdo3ax6ha",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6241756/originele-blauwe-vinkjes-op-twitter-verdwijnen-over-aantal-maanden.html",
     "open_new_window": false,
     "partner": null
   }
