@@ -1,5 +1,28 @@
 [
   {
+    "id": 6242020,
+    "slug": "vs-zet-nog-eens-36-chinese-bedrijven-op-zwarte-lijst",
+    "type": "article",
+    "title": "VS zet nog eens 36 Chinese bedrijven op zwarte lijst",
+    "subtitle": null,
+    "published_at": "2022-12-14T10:14:35+01:00",
+    "updated_at": "2022-12-14T10:22:47+01:00",
+    "media_id": "0fwx9mwap46t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6242020/vs-zet-nog-eens-36-chinese-bedrijven-op-zwarte-lijst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242001,
     "slug": "24-miljoen-mensen-zien-hoe-argentinie-zich-voor-wk-finale-plaatst",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6241999,
-    "slug": "primeur-ook-een-vrouwtjesslang-heeft-een-clitoris",
+    "slug": "wetenschappers-ontdekken-dat-ook-vrouwtjesslangen-een-clitoris-hebben",
     "type": "article",
-    "title": "Primeur: ook een vrouwtjesslang heeft een clitoris",
+    "title": "Wetenschappers ontdekken dat ook vrouwtjesslangen een clitoris hebben",
     "subtitle": null,
     "published_at": "2022-12-14T09:18:34+01:00",
-    "updated_at": "2022-12-14T09:52:33+01:00",
+    "updated_at": "2022-12-14T10:23:12+01:00",
     "media_id": "yr4xe6bap1as",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/dieren/6241999/primeur-ook-een-vrouwtjesslang-heeft-een-clitoris.html",
+    "url": "/dieren/6241999/wetenschappers-ontdekken-dat-ook-vrouwtjesslangen-een-clitoris-hebben.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Friese plaats Burgum organiseert vandaag de eerste marathon op natuurijs",
     "subtitle": null,
     "published_at": "2022-12-14T08:53:32+01:00",
-    "updated_at": "2022-12-14T10:05:10+01:00",
+    "updated_at": "2022-12-14T10:23:04+01:00",
     "media_id": "ncrxgq4a97by",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Teleurgestelde Modric gunt Messi de wereldtitel: 'Hij was weer eens de allerbeste'",
     "subtitle": null,
     "published_at": "2022-12-14T08:18:11+01:00",
-    "updated_at": "2022-12-14T09:00:11+01:00",
+    "updated_at": "2022-12-14T10:17:37+01:00",
     "media_id": "oijxuqvat709",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6241903/van-feyenoord-flop-tot-held-van-marokko-hoe-amrabat-het-monster-werd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241871,
-    "slug": "illustratoren-bezorgd-over-robots-die-kunst-namaken-dit-is-diefstal",
-    "type": "article",
-    "title": "Illustratoren bezorgd over robots die kunst namaken: 'Dit is diefstal'",
-    "subtitle": null,
-    "published_at": "2022-12-14T05:43:48+01:00",
-    "updated_at": "2022-12-14T06:39:18+01:00",
-    "media_id": "iuyxvi5a1lqr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6241871/illustratoren-bezorgd-over-robots-die-kunst-namaken-dit-is-diefstal.html",
     "open_new_window": false,
     "partner": null
   }
