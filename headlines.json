@@ -1,12 +1,35 @@
 [
   {
+    "id": 6242468,
+    "slug": "wederom-ongelukken-door-spekgladde-wegen-in-nederland",
+    "type": "video",
+    "title": "Wederom ongelukken door spekgladde wegen in Nederland",
+    "subtitle": "Video",
+    "published_at": "2022-12-15T22:46:27+01:00",
+    "updated_at": "2022-12-15T22:49:17+01:00",
+    "media_id": "qm1x9nka2oi3",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6242468/wederom-ongelukken-door-spekgladde-wegen-in-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242467,
-    "slug": "miedema-blesseert-zich-in-cl-duel-arsenal-en-wordt-in-tranen-van-veld-gedragen",
+    "slug": "miedema-in-tranen-van-het-veld-gedragen-na-blessure-in-cl-duel-arsenal",
     "type": "article",
-    "title": "Miedema blesseert zich in CL-duel Arsenal en wordt in tranen van veld gedragen",
+    "title": "Miedema in tranen van het veld gedragen na blessure in CL-duel Arsenal",
     "subtitle": null,
     "published_at": "2022-12-15T22:43:57+01:00",
-    "updated_at": "2022-12-15T22:43:58+01:00",
+    "updated_at": "2022-12-15T23:00:00+01:00",
     "media_id": "r0rx7axay8p5",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6242467/miedema-blesseert-zich-in-cl-duel-arsenal-en-wordt-in-tranen-van-veld-gedragen.html",
+    "url": "/voetbal/6242467/miedema-in-tranen-van-het-veld-gedragen-na-blessure-in-cl-duel-arsenal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -47,12 +70,12 @@
   },
   {
     "id": 6242463,
-    "slug": "pensioenwet-op-weg-naar-meerderheid-met-steun-van-groenlinks-en-pvda",
+    "slug": "pensioenwet-met-steun-van-groenlinks-en-pvda-op-weg-naar-meerderheid",
     "type": "article",
-    "title": "Pensioenwet op weg naar meerderheid met steun van GroenLinks en PvdA",
+    "title": "Pensioenwet met steun van GroenLinks en PvdA op weg naar meerderheid",
     "subtitle": null,
     "published_at": "2022-12-15T22:38:23+01:00",
-    "updated_at": "2022-12-15T22:38:25+01:00",
+    "updated_at": "2022-12-15T23:12:29+01:00",
     "media_id": "1k6xn6ea3tc4",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6242463/pensioenwet-op-weg-naar-meerderheid-met-steun-van-groenlinks-en-pvda.html",
+    "url": "/politiek/6242463/pensioenwet-met-steun-van-groenlinks-en-pvda-op-weg-naar-meerderheid.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Zorgen om gearresteerde olympisch medaillewinnares Ostapchuk in Belarus",
     "subtitle": null,
     "published_at": "2022-12-15T21:35:38+01:00",
-    "updated_at": "2022-12-15T21:35:41+01:00",
+    "updated_at": "2022-12-15T22:57:16+01:00",
     "media_id": "ed2x25eacwtj",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Wetenschappers ontdekken planeten met waarschijnlijk meer water dan aarde",
     "subtitle": null,
     "published_at": "2022-12-15T19:28:20+01:00",
-    "updated_at": "2022-12-15T19:29:37+01:00",
+    "updated_at": "2022-12-15T23:09:20+01:00",
     "media_id": "tg7xdgja27ps",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6242332/waarom-vluchten-mensen-uit-veilige-landen-naar-nederland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242429,
-    "slug": "rijimpressie-maserati-grecale",
-    "type": "video",
-    "title": "Rijimpressie: Maserati Grecale",
-    "subtitle": "Video",
-    "published_at": "2022-12-15T18:20:31+01:00",
-    "updated_at": "2022-12-15T18:22:13+01:00",
-    "media_id": "k11xbwkam68s",
-    "duration": "6:39",
-    "canonical_section": {
-      "id": 881569,
-      "slug": "auto",
-      "type": "default",
-      "name": "Onderweg",
-      "style": "nuzakelijk",
-      "media_id": "z66x61xaq79c",
-      "partner": null
-    },
-    "url": "/auto/6242429/rijimpressie-maserati-grecale.html",
     "open_new_window": false,
     "partner": null
   }
