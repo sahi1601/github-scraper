@@ -1,12 +1,58 @@
 [
   {
+    "id": 6242565,
+    "slug": "infantino-spreekt-van-beste-wk-ooit-het-is-een-ongelooflijk-succes-geworden",
+    "type": "article",
+    "title": "Infantino spreekt van beste WK ooit: 'Het is een ongelooflijk succes geworden'",
+    "subtitle": null,
+    "published_at": "2022-12-16T12:23:38+01:00",
+    "updated_at": "2022-12-16T12:23:39+01:00",
+    "media_id": "2tjxzpzajkce",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6242565/infantino-spreekt-van-beste-wk-ooit-het-is-een-ongelooflijk-succes-geworden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6242563,
+    "slug": "fifa-gaat-bekritiseerd-wk-format-met-zestien-poules-van-drie-teams-heroverwegen",
+    "type": "article",
+    "title": "FIFA gaat bekritiseerd WK-format met zestien poules van drie teams heroverwegen",
+    "subtitle": null,
+    "published_at": "2022-12-16T12:10:50+01:00",
+    "updated_at": "2022-12-16T12:10:54+01:00",
+    "media_id": "qrxxbxpaagho",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6242563/fifa-gaat-bekritiseerd-wk-format-met-zestien-poules-van-drie-teams-heroverwegen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242558,
     "slug": "vuilniswagens-hebben-last-van-gladheid-container-wordt-niet-of-later-geleegd",
     "type": "article",
     "title": "Vuilniswagens hebben last van gladheid, container wordt niet of later geleegd",
     "subtitle": null,
     "published_at": "2022-12-16T12:03:57+01:00",
-    "updated_at": "2022-12-16T12:09:34+01:00",
+    "updated_at": "2022-12-16T12:15:06+01:00",
     "media_id": "f0exfodahhek",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "OM eist 7 jaar cel tegen advocaat voor doorspelen informatie neef Ridouan Taghi",
     "subtitle": null,
     "published_at": "2022-12-16T11:53:53+01:00",
-    "updated_at": "2022-12-16T12:04:47+01:00",
+    "updated_at": "2022-12-16T12:10:41+01:00",
     "media_id": "xtfxtg6apb31",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6242488/omstander-filmt-ravage-nadat-groot-aquarium-in-duits-hotel-barst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242481,
-    "slug": "praat-mee-over-pinnen-of-contant-betalen",
-    "type": "article",
-    "title": "Praat mee over pinnen of contant betalen",
-    "subtitle": null,
-    "published_at": "2022-12-16T09:00:50+01:00",
-    "updated_at": "2022-12-16T09:00:51+01:00",
-    "media_id": "673xtoka4ov3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6242481/praat-mee-over-pinnen-of-contant-betalen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242486,
-    "slug": "wereldwijd-nog-nooit-zo-veel-steenkool-verbruikt-als-in-dit-jaar",
-    "type": "article",
-    "title": "Wereldwijd nog nooit zo veel steenkool verbruikt als in dit jaar",
-    "subtitle": null,
-    "published_at": "2022-12-16T08:59:33+01:00",
-    "updated_at": "2022-12-16T09:29:48+01:00",
-    "media_id": "6hyxsisal637",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6242486/wereldwijd-nog-nooit-zo-veel-steenkool-verbruikt-als-in-dit-jaar.html",
     "open_new_window": false,
     "partner": null
   }
