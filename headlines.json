@@ -1,5 +1,28 @@
 [
   {
+    "id": 6242543,
+    "slug": "wijk-in-zevenbergen-afgesloten-vanwege-vermoedens-van-asbest-na-brand",
+    "type": "article",
+    "title": "Wijk in Zevenbergen afgesloten vanwege vermoedens van asbest na brand",
+    "subtitle": null,
+    "published_at": "2022-12-16T11:25:41+01:00",
+    "updated_at": "2022-12-16T11:25:42+01:00",
+    "media_id": "d9nxyrua4rhf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6242543/wijk-in-zevenbergen-afgesloten-vanwege-vermoedens-van-asbest-na-brand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242529,
     "slug": "5-mei-wordt-jaarlijkse-feestdag-in-nieuwe-cao-de-volksbank",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "T-Mobile stopt na jarenlange strijd met aanbieden van Datavrije Muziek",
     "subtitle": null,
     "published_at": "2022-12-16T10:54:14+01:00",
-    "updated_at": "2022-12-16T10:54:39+01:00",
+    "updated_at": "2022-12-16T11:26:55+01:00",
     "media_id": "2y2xia0aerqm",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Laatst bekende oud-NSB'er Jacob Luitjens op 103-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2022-12-16T10:45:31+01:00",
-    "updated_at": "2022-12-16T11:04:59+01:00",
+    "updated_at": "2022-12-16T11:18:32+01:00",
     "media_id": "39ax1g9a9i5e",
     "duration": null,
     "canonical_section": {
@@ -415,13 +438,13 @@
   },
   {
     "id": 6242476,
-    "slug": "schouten-pakt-in-record-brons-op-wk-kortebaan-ook-estafettezwemmers-derde",
+    "slug": "steenbergen-pakt-goud-op-wk-kortebaan-brons-voor-schouten-en-estafettezwemmers",
     "type": "article",
-    "title": "Schouten pakt in record brons op WK kortebaan, ook estafettezwemmers derde",
+    "title": "Steenbergen pakt goud op WK kortebaan, brons voor Schouten en estafettezwemmers",
     "subtitle": null,
     "published_at": "2022-12-16T07:42:30+01:00",
-    "updated_at": "2022-12-16T10:43:45+01:00",
-    "media_id": "2rvxgcia9p8u",
+    "updated_at": "2022-12-16T11:19:08+01:00",
+    "media_id": "346xbvgarl2j",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -432,30 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6242476/schouten-pakt-in-record-brons-op-wk-kortebaan-ook-estafettezwemmers-derde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242475,
-    "slug": "cabaretiere-tineke-schouten-68-krijgt-vscd-prijs-voor-gehele-oeuvre",
-    "type": "article",
-    "title": "Cabaretière Tineke Schouten (68) krijgt VSCD-prijs voor gehele oeuvre",
-    "subtitle": null,
-    "published_at": "2022-12-16T07:24:12+01:00",
-    "updated_at": "2022-12-16T08:17:32+01:00",
-    "media_id": "ceix1s2ab6sy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6242475/cabaretiere-tineke-schouten-68-krijgt-vscd-prijs-voor-gehele-oeuvre.html",
+    "url": "/sport-overig/6242476/steenbergen-pakt-goud-op-wk-kortebaan-brons-voor-schouten-en-estafettezwemmers.html",
     "open_new_window": false,
     "partner": null
   }
