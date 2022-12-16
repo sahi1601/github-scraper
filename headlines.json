@@ -1,5 +1,28 @@
 [
   {
+    "id": 6242698,
+    "slug": "ravage-na-botsing-met-vier-autos-bij-marienberg",
+    "type": "video",
+    "title": "Ravage na botsing met vier auto's bij Mariënberg",
+    "subtitle": "Video",
+    "published_at": "2022-12-16T22:03:59+01:00",
+    "updated_at": "2022-12-16T22:03:59+01:00",
+    "media_id": "9r1xngpanj9h",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6242698/ravage-na-botsing-met-vier-autos-bij-marienberg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242329,
     "slug": "zo-maak-je-slim-gebruik-van-de-jubelton-als-je-nog-geen-huis-gevonden-hebt",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Nuis wint met overmacht 1.500 meter bij wereldbekerwedstrijd in Calgary",
     "subtitle": null,
     "published_at": "2022-12-16T21:11:19+01:00",
-    "updated_at": "2022-12-16T21:33:05+01:00",
+    "updated_at": "2022-12-16T21:51:36+01:00",
     "media_id": "vj9xb7pak35n",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "NAC-keeperstrainer Babos (48) noodgedwongen reserve in KKD-duel",
     "subtitle": null,
     "published_at": "2022-12-16T19:39:42+01:00",
-    "updated_at": "2022-12-16T21:20:09+01:00",
+    "updated_at": "2022-12-16T22:10:57+01:00",
     "media_id": "cz2xplyal3bw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/koningshuis/6242670/opgestapte-britse-hofdame-biedt-persoonlijk-excuses-aan-na-racistische-uitingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242425,
-    "slug": "rb-zangeres-sza-scoort-wereldhit-met-lied-over-het-omleggen-van-haar-ex",
-    "type": "article",
-    "title": "R&b-zangeres SZA scoort wereldhit met lied over het omleggen van haar ex",
-    "subtitle": null,
-    "published_at": "2022-12-16T18:06:20+01:00",
-    "updated_at": "2022-12-16T18:21:02+01:00",
-    "media_id": "lnwxioza4gwu",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6242425/rb-zangeres-sza-scoort-wereldhit-met-lied-over-het-omleggen-van-haar-ex.html",
     "open_new_window": false,
     "partner": null
   }
