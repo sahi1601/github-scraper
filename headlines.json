@@ -1,5 +1,28 @@
 [
   {
+    "id": 6242753,
+    "slug": "bekijk-de-zeldzame-ijspannenkoeken-op-rivieren-in-het-vk",
+    "type": "video",
+    "title": "Bekijk de zeldzame 'ijspannenkoeken' op rivieren in het VK",
+    "subtitle": "Video",
+    "published_at": "2022-12-17T12:11:33+01:00",
+    "updated_at": "2022-12-17T12:14:33+01:00",
+    "media_id": "gl9xbkza0254",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6242753/bekijk-de-zeldzame-ijspannenkoeken-op-rivieren-in-het-vk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242303,
     "slug": "getest-de-beste-laptop-tot-700-euro",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Oppermachtige Schulting wint 500 meter in Almaty, Poutsma en Velzeboer vallen",
     "subtitle": null,
     "published_at": "2022-12-17T11:25:35+01:00",
-    "updated_at": "2022-12-17T12:01:41+01:00",
+    "updated_at": "2022-12-17T12:18:42+01:00",
     "media_id": "86mxt8iazgsf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6242663/hoe-een-digitalekaartenactie-trumps-campagnewanhoop-illustreert.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242707,
-    "slug": "auto-crasht-van-90-meter-hoge-klif-in-californie-inzittenden-ongedeerd",
-    "type": "article",
-    "title": "Auto crasht van 90 meter hoge klif in Californië, inzittenden ongedeerd",
-    "subtitle": null,
-    "published_at": "2022-12-17T06:25:32+01:00",
-    "updated_at": "2022-12-17T10:38:37+01:00",
-    "media_id": "s3dxglfarm9z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6242707/auto-crasht-van-90-meter-hoge-klif-in-californie-inzittenden-ongedeerd.html",
     "open_new_window": false,
     "partner": null
   }
