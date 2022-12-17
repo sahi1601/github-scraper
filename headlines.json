@@ -1,5 +1,28 @@
 [
   {
+    "id": 6242709,
+    "slug": "weekendweerbericht-nog-twee-koude-winterse-dagen-met-vorst-gladheid-en-zon",
+    "type": "article",
+    "title": "Weekendweerbericht: nog twee koude winterse dagen met vorst, gladheid en zon",
+    "subtitle": null,
+    "published_at": "2022-12-17T07:01:36+01:00",
+    "updated_at": "2022-12-17T07:01:38+01:00",
+    "media_id": "rr6xvoial0zu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6242709/weekendweerbericht-nog-twee-koude-winterse-dagen-met-vorst-gladheid-en-zon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242708,
     "slug": "grote-steden-bereiden-zich-met-maatregelen-voor-op-troostfinale-van-marokko",
     "type": "article",
@@ -167,7 +190,7 @@
     "title": "Van topscorer tot brein Frans team: Griezmann is de ultieme toernooispeler",
     "subtitle": "NU+",
     "published_at": "2022-12-17T06:03:05+01:00",
-    "updated_at": "2022-12-17T06:03:06+01:00",
+    "updated_at": "2022-12-17T06:52:31+01:00",
     "media_id": "lkrxgseaxsus",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6242695/meer-dan-veertig-voetbalcompetities-kraken-schadelijke-plannen-fifa.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242694,
-    "slug": "de-mooiste-kerststal-van-nederland-staat-in-utrecht",
-    "type": "video",
-    "title": "De 'mooiste kerststal van Nederland' staat in Utrecht",
-    "subtitle": "Video",
-    "published_at": "2022-12-16T20:59:53+01:00",
-    "updated_at": "2022-12-16T20:59:55+01:00",
-    "media_id": "6thxalhav644",
-    "duration": "1:50",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6242694/de-mooiste-kerststal-van-nederland-staat-in-utrecht.html",
     "open_new_window": false,
     "partner": null
   }
