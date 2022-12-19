@@ -1,24 +1,47 @@
 [
   {
+    "id": 6243032,
+    "slug": "europa-beschuldigt-facebook-moederbedrijf-meta-van-concurrentievervalsing",
+    "type": "article",
+    "title": "Europa beschuldigt Facebook-moederbedrijf Meta van concurrentievervalsing",
+    "subtitle": null,
+    "published_at": "2022-12-19T14:18:34+01:00",
+    "updated_at": "2022-12-19T14:18:37+01:00",
+    "media_id": "d7xxnf4ad7mm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6243032/europa-beschuldigt-facebook-moederbedrijf-meta-van-concurrentievervalsing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243029,
     "slug": "belangrijkste-klimaatwet-van-europa-wordt-nog-belangrijker-dit-moet-je-weten",
     "type": "article",
     "title": "Belangrijkste klimaatwet van Europa wordt nog belangrijker: dit moet je weten",
-    "subtitle": "NU+",
+    "subtitle": null,
     "published_at": "2022-12-19T14:11:24+01:00",
-    "updated_at": "2022-12-19T14:11:25+01:00",
+    "updated_at": "2022-12-19T14:22:13+01:00",
     "media_id": "4lex6fnapqtm",
     "duration": null,
     "canonical_section": {
-      "id": 1778899,
-      "slug": "nu-klimaat",
+      "id": 1772754,
+      "slug": "klimaat",
       "type": "default",
-      "name": "NU+ Klimaat",
+      "name": "Klimaat",
       "style": "nuzakelijk",
-      "media_id": null,
+      "media_id": "kf4x3b2agsxg",
       "partner": null
     },
-    "url": "/nu-klimaat/6243029/belangrijkste-klimaatwet-van-europa-wordt-nog-belangrijker-dit-moet-je-weten.html",
+    "url": "/klimaat/6243029/belangrijkste-klimaatwet-van-europa-wordt-nog-belangrijker-dit-moet-je-weten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6243006/miedema-mist-wk-door-zware-knieblessure-ik-ben-er-kapot-van.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242984,
-    "slug": "wereld-sluit-akkoord-over-biodiversiteit-30-procent-van-de-aarde-moet-beschermd-zijn",
-    "type": "article",
-    "title": "Wereld sluit akkoord over biodiversiteit: 30 procent van de aarde moet beschermd zijn",
-    "subtitle": null,
-    "published_at": "2022-12-19T11:15:15+01:00",
-    "updated_at": "2022-12-19T12:37:59+01:00",
-    "media_id": "a6ixmniahlx6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6242984/wereld-sluit-akkoord-over-biodiversiteit-30-procent-van-de-aarde-moet-beschermd-zijn.html",
     "open_new_window": false,
     "partner": null
   }
