@@ -1,5 +1,28 @@
 [
   {
+    "id": 6243051,
+    "slug": "debutant-danny-jansen-wint-van-filipijn-en-bereikt-tweede-ronde-op-wk-darts",
+    "type": "article",
+    "title": "Debutant Danny Jansen wint van Filipijn en bereikt tweede ronde op WK darts",
+    "subtitle": null,
+    "published_at": "2022-12-19T16:23:04+01:00",
+    "updated_at": "2022-12-19T16:25:01+01:00",
+    "media_id": "ut8xt4oabyx8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6243051/debutant-danny-jansen-wint-van-filipijn-en-bereikt-tweede-ronde-op-wk-darts.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243056,
     "slug": "rutte-biedt-excuses-aan-voor-nederlands-slavernijverleden",
     "type": "video",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6243053,
-    "slug": "mensen-glijden-over-gladde-brug-in-delft",
+    "slug": "zo-glad-was-het-zondag-mensen-glibberen-over-delftse-brug",
     "type": "video",
-    "title": "Mensen glijden over gladde brug in Delft",
+    "title": "Zo glad was het zondag: mensen glibberen over Delftse brug",
     "subtitle": "Video",
     "published_at": "2022-12-19T15:57:09+01:00",
-    "updated_at": "2022-12-19T15:57:09+01:00",
+    "updated_at": "2022-12-19T16:22:06+01:00",
     "media_id": "xe6xiqmal6nq",
     "duration": "0:31",
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6243053/mensen-glijden-over-gladde-brug-in-delft.html",
+    "url": "/binnenland/6243053/zo-glad-was-het-zondag-mensen-glibberen-over-delftse-brug.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Eerherstel voor tot slaaf gemaakte Curaçaose verzetsheld Tula",
     "subtitle": null,
     "published_at": "2022-12-19T15:26:55+01:00",
-    "updated_at": "2022-12-19T15:52:22+01:00",
+    "updated_at": "2022-12-19T16:14:11+01:00",
     "media_id": "8xqxd41ayb7o",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Rutte biedt excuses aan voor slavernijverleden: 'Aan alle nazaten tot hier en nu'",
     "subtitle": null,
     "published_at": "2022-12-19T15:17:12+01:00",
-    "updated_at": "2022-12-19T16:04:27+01:00",
+    "updated_at": "2022-12-19T16:17:47+01:00",
     "media_id": "4ssxl42awm7g",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6243021/thais-marineschip-zinkt-in-golf-van-thailand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242972,
-    "slug": "nauwelijks-vakantie-na-wk-break-op-deze-data-starten-de-competities-alweer",
-    "type": "article",
-    "title": "Nauwelijks vakantie na WK-break: op deze data starten de competities alweer",
-    "subtitle": null,
-    "published_at": "2022-12-19T12:47:52+01:00",
-    "updated_at": "2022-12-19T13:01:02+01:00",
-    "media_id": "id8x4gqasyfn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6242972/nauwelijks-vakantie-na-wk-break-op-deze-data-starten-de-competities-alweer.html",
     "open_new_window": false,
     "partner": null
   }
