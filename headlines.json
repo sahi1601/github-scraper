@@ -1,5 +1,28 @@
 [
   {
+    "id": 6242988,
+    "slug": "twintig-gewonden-door-hevige-turbulentie-op-vlucht-naar-hawai",
+    "type": "video",
+    "title": "Twintig gewonden door hevige turbulentie op vlucht naar Hawaï",
+    "subtitle": "Video",
+    "published_at": "2022-12-19T10:21:13+01:00",
+    "updated_at": "2022-12-19T10:21:13+01:00",
+    "media_id": "8tcx5gxaw0g1",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6242988/twintig-gewonden-door-hevige-turbulentie-op-vlucht-naar-hawai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6242978,
     "slug": "google-lens-maakt-handschrift-van-je-huisarts-leesbaar",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6242942/weerbericht-temperatuur-loopt-op-waardoor-gladheid-verdwijnt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6242941,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2022-12-19T05:33:32+01:00",
-    "updated_at": "2022-12-19T05:33:33+01:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6242941/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
