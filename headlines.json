@@ -1,12 +1,35 @@
 [
   {
+    "id": 6243091,
+    "slug": "acteur-joop-dikmans-bekend-als-bassie-en-adriaan-boef-b2-overleden",
+    "type": "article",
+    "title": "Acteur Joop Dikmans, bekend als Bassie en Adriaan-boef B2, overleden",
+    "subtitle": null,
+    "published_at": "2022-12-19T19:39:26+01:00",
+    "updated_at": "2022-12-19T19:39:27+01:00",
+    "media_id": "alzxqcza9n6p",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6243091/acteur-joop-dikmans-bekend-als-bassie-en-adriaan-boef-b2-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243092,
     "slug": "van-vleuten-verkozen-tot-wielrenster-van-het-jaar-na-uniek-seizoen",
     "type": "article",
     "title": "Van Vleuten verkozen tot wielrenster van het jaar na uniek seizoen",
     "subtitle": null,
     "published_at": "2022-12-19T19:19:58+01:00",
-    "updated_at": "2022-12-19T19:28:58+01:00",
+    "updated_at": "2022-12-19T19:32:10+01:00",
     "media_id": "i7wx04pafn91",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/darts/6243051/debutant-jansen-bereikt-tweede-ronde-wk-darts-van-gerwen-treft-williams.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243056,
-    "slug": "bekijk-het-moment-waarop-rutte-excuses-aanbiedt-voor-slavernijverleden",
-    "type": "video",
-    "title": "Bekijk het moment waarop Rutte excuses aanbiedt voor slavernijverleden",
-    "subtitle": "Video",
-    "published_at": "2022-12-19T16:04:04+01:00",
-    "updated_at": "2022-12-19T16:58:54+01:00",
-    "media_id": "vs1xmldavo4c",
-    "duration": "1:09",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6243056/bekijk-het-moment-waarop-rutte-excuses-aanbiedt-voor-slavernijverleden.html",
     "open_new_window": false,
     "partner": null
   }
