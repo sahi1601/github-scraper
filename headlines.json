@@ -1,12 +1,35 @@
 [
   {
+    "id": 6243195,
+    "slug": "wereldkampioen-argentinie-viert-feest-in-buenos-aires",
+    "type": "article",
+    "title": "Wereldkampioen Argentinië viert feest in Buenos Aires",
+    "subtitle": "In beeld",
+    "published_at": "2022-12-20T11:19:02+01:00",
+    "updated_at": "2022-12-20T11:19:03+01:00",
+    "media_id": "qeexleca2ylf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6243195/wereldkampioen-argentinie-viert-feest-in-buenos-aires.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6235179,
     "slug": "ook-hof-vindt-asielopvang-ondermaats-maar-is-niet-op-korte-termijn-op-te-lossen",
     "type": "article",
     "title": "Ook hof vindt asielopvang ondermaats, maar is niet op korte termijn op te lossen",
     "subtitle": null,
     "published_at": "2022-12-20T11:12:10+01:00",
-    "updated_at": "2022-12-20T11:12:43+01:00",
+    "updated_at": "2022-12-20T11:25:19+01:00",
     "media_id": "hksx26fagd59",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Gakpo maakt kans op FIFA-prijs voor mooiste doelpunt op WK",
     "subtitle": null,
     "published_at": "2022-12-20T10:56:30+01:00",
-    "updated_at": "2022-12-20T10:56:31+01:00",
+    "updated_at": "2022-12-20T11:14:26+01:00",
     "media_id": "y92xmueak2ca",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Moederbedrijf van Vliegtickets.nl failliet verklaard",
     "subtitle": null,
     "published_at": "2022-12-20T10:43:03+01:00",
-    "updated_at": "2022-12-20T10:43:04+01:00",
+    "updated_at": "2022-12-20T11:14:34+01:00",
     "media_id": "cxsxtbaaax6h",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6243099/stelling-het-is-goed-voor-ons-land-dat-we-nog-een-koningshuis-hebben.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243137,
-    "slug": "bassie-en-adriaan-wensen-nabestaanden-van-acteur-die-b2-speelde-sterkte",
-    "type": "article",
-    "title": "Bassie en Adriaan wensen nabestaanden van acteur die B2 speelde sterkte",
-    "subtitle": null,
-    "published_at": "2022-12-20T07:01:47+01:00",
-    "updated_at": "2022-12-20T08:27:14+01:00",
-    "media_id": "e6mxupvafq1c",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6243137/bassie-en-adriaan-wensen-nabestaanden-van-acteur-die-b2-speelde-sterkte.html",
     "open_new_window": false,
     "partner": null
   }
