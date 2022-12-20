@@ -1,5 +1,28 @@
 [
   {
+    "id": 6243190,
+    "slug": "tom-cruise-springt-met-motor-van-klif-voor-nieuwe-filmstunt",
+    "type": "video",
+    "title": "Tom Cruise springt met motor van klif voor nieuwe filmstunt",
+    "subtitle": "Video",
+    "published_at": "2022-12-20T10:38:57+01:00",
+    "updated_at": "2022-12-20T10:38:58+01:00",
+    "media_id": "cy8xigvaeb35",
+    "duration": "0:55",
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6243190/tom-cruise-springt-met-motor-van-klif-voor-nieuwe-filmstunt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243164,
     "slug": "ondanks-verbod-profileert-de-overheid-nog-steeds-burgers-om-fraude-op-te-sporen",
     "type": "article",
@@ -328,7 +351,7 @@
     "title": "Stelling: Het is goed voor ons land dat we nog een koningshuis hebben",
     "subtitle": null,
     "published_at": "2022-12-20T07:03:39+01:00",
-    "updated_at": "2022-12-20T07:03:40+01:00",
+    "updated_at": "2022-12-20T10:28:37+01:00",
     "media_id": "b7exkmnakulv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6243133/weerbericht-bewolkt-en-regenachtig-met-wat-droge-momenten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243132,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2022-12-20T05:36:48+01:00",
-    "updated_at": "2022-12-20T05:36:49+01:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6243132/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
