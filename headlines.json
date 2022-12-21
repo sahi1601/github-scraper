@@ -1,5 +1,97 @@
 [
   {
+    "id": 6243351,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2022-12-21T05:35:29+01:00",
+    "updated_at": "2022-12-21T05:35:31+01:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6243351/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243202,
+    "slug": "jubelton-kent-nog-een-opleving-op-weg-naar-het-einde",
+    "type": "article",
+    "title": "Jubelton kent nog een opleving op weg naar het einde",
+    "subtitle": null,
+    "published_at": "2022-12-21T05:34:47+01:00",
+    "updated_at": "2022-12-21T05:34:48+01:00",
+    "media_id": "0mfxx0mayiph",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6243202/jubelton-kent-nog-een-opleving-op-weg-naar-het-einde.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243225,
+    "slug": "dikke-laag-stof-doet-marslander-de-das-om-dit-heeft-het-vaartuig-allemaal-ontdekt",
+    "type": "article",
+    "title": "Dikke laag stof doet Marslander de das om: dit heeft het vaartuig allemaal ontdekt",
+    "subtitle": null,
+    "published_at": "2022-12-21T05:33:01+01:00",
+    "updated_at": "2022-12-21T05:33:02+01:00",
+    "media_id": "bh6x9osapk7a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6243225/dikke-laag-stof-doet-marslander-de-das-om-dit-heeft-het-vaartuig-allemaal-ontdekt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243286,
+    "slug": "van-gerwen-na-sterk-jaar-favoriet-op-wk-het-is-allemaal-geen-wetenschap",
+    "type": "article",
+    "title": "Van Gerwen na sterk jaar favoriet op WK: 'Het is allemaal geen wetenschap'",
+    "subtitle": "NU+",
+    "published_at": "2022-12-21T05:32:19+01:00",
+    "updated_at": "2022-12-21T05:40:56+01:00",
+    "media_id": "8nux0fvaxf44",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6243286/van-gerwen-na-sterk-jaar-favoriet-op-wk-het-is-allemaal-geen-wetenschap.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243162,
     "slug": "derde-seizoen-emily-in-paris-de-fransen-zien-haar-liever-snel-vertrekken",
     "type": "article",
@@ -29,7 +121,7 @@
     "title": "Antidiscriminatiebeleid gemeenten schiet maar niet op: 'Om je kapot te schamen'",
     "subtitle": null,
     "published_at": "2022-12-21T05:30:05+01:00",
-    "updated_at": "2022-12-21T05:30:06+01:00",
+    "updated_at": "2022-12-21T05:32:43+01:00",
     "media_id": "4dqxhu3agqcm",
     "duration": null,
     "canonical_section": {
@@ -116,12 +208,12 @@
   },
   {
     "id": 6243346,
-    "slug": "amerikaanse-media-oekraiense-president-zelensky-bezoekt-woensdag-washington",
+    "slug": "amerikaanse-media-oekraiense-president-zelensky-woensdag-naar-washington",
     "type": "article",
-    "title": "Amerikaanse media: Oekraïense president Zelensky bezoekt woensdag Washington",
+    "title": "Amerikaanse media: Oekraïense president Zelensky woensdag naar Washington",
     "subtitle": null,
     "published_at": "2022-12-20T23:40:41+01:00",
-    "updated_at": "2022-12-21T00:57:02+01:00",
+    "updated_at": "2022-12-21T05:39:22+01:00",
     "media_id": "dg5xbgxaqw6j",
     "duration": null,
     "canonical_section": {
@@ -133,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6243346/amerikaanse-media-oekraiense-president-zelensky-bezoekt-woensdag-washington.html",
+    "url": "/buitenland/6243346/amerikaanse-media-oekraiense-president-zelensky-woensdag-naar-washington.html",
     "open_new_window": false,
     "partner": null
   },
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/darts/6243336/van-barneveld-niet-fit-voor-eerste-partij-op-wk-zat-continu-op-het-toilet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243335,
-    "slug": "marokko-onthaalt-voetballers-als-helden-na-historisch-wk",
-    "type": "video",
-    "title": "Marokko onthaalt voetballers als helden na historisch WK",
-    "subtitle": "Video",
-    "published_at": "2022-12-20T21:57:14+01:00",
-    "updated_at": "2022-12-20T22:02:46+01:00",
-    "media_id": "izdxr4oalh1t",
-    "duration": "0:51",
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6243335/marokko-onthaalt-voetballers-als-helden-na-historisch-wk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243334,
-    "slug": "auto-belandt-half-in-brandweerkazerne-na-botsing-in-zoetermeer",
-    "type": "video",
-    "title": "Auto belandt half in brandweerkazerne na botsing in Zoetermeer",
-    "subtitle": "Video",
-    "published_at": "2022-12-20T21:50:51+01:00",
-    "updated_at": "2022-12-20T21:56:05+01:00",
-    "media_id": "q37xxpvazcab",
-    "duration": "0:33",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6243334/auto-belandt-half-in-brandweerkazerne-na-botsing-in-zoetermeer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243325,
-    "slug": "politie-deelt-beelden-van-megavondst-vuurwerk-bij-duitse-grens",
-    "type": "video",
-    "title": "Politie deelt beelden van megavondst vuurwerk bij Duitse grens",
-    "subtitle": "Video",
-    "published_at": "2022-12-20T20:48:43+01:00",
-    "updated_at": "2022-12-20T20:48:45+01:00",
-    "media_id": "9utxu3oa2hca",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6243325/politie-deelt-beelden-van-megavondst-vuurwerk-bij-duitse-grens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243324,
-    "slug": "spelers-argentinie-en-marokko-feestelijk-onthaald-door-mensenmassa",
-    "type": "article",
-    "title": "Spelers Argentinië en Marokko feestelijk onthaald door mensenmassa",
-    "subtitle": "In beeld",
-    "published_at": "2022-12-20T20:46:29+01:00",
-    "updated_at": "2022-12-20T21:36:56+01:00",
-    "media_id": "lh5xmqpaqrh9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6243324/spelers-argentinie-en-marokko-feestelijk-onthaald-door-mensenmassa.html",
     "open_new_window": false,
     "partner": null
   }
