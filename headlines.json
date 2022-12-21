@@ -1,12 +1,35 @@
 [
   {
+    "id": 6243441,
+    "slug": "politie-zet-chatbot-wout-aan-het-werk-voor-overlastmeldingen",
+    "type": "article",
+    "title": "Politie zet chatbot Wout aan het werk voor overlastmeldingen",
+    "subtitle": null,
+    "published_at": "2022-12-21T11:42:35+01:00",
+    "updated_at": "2022-12-21T11:42:36+01:00",
+    "media_id": "zblxi7cao0gc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6243441/politie-zet-chatbot-wout-aan-het-werk-voor-overlastmeldingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243429,
     "slug": "rusland-opent-groot-nieuw-gasveld-voor-china",
     "type": "article",
     "title": "Rusland opent groot nieuw gasveld voor China",
     "subtitle": null,
     "published_at": "2022-12-21T11:27:33+01:00",
-    "updated_at": "2022-12-21T11:27:34+01:00",
+    "updated_at": "2022-12-21T11:31:18+01:00",
     "media_id": "iitxjhfahvi6",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Argentijnse politie schiet met rubberkogels bij rellen na WK-viering",
     "subtitle": "Video",
     "published_at": "2022-12-21T11:16:16+01:00",
-    "updated_at": "2022-12-21T11:16:18+01:00",
+    "updated_at": "2022-12-21T11:36:10+01:00",
     "media_id": "aiaxv4uafjbi",
     "duration": "0:49",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6243354/amerikaanse-waakhond-plaatst-twitter-onder-verscherpt-toezicht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243352,
-    "slug": "rapper-donnie-maakt-debuut-als-tv-presentator-bij-sbs6",
-    "type": "article",
-    "title": "Rapper Donnie maakt debuut als tv-presentator bij SBS6",
-    "subtitle": null,
-    "published_at": "2022-12-21T06:40:26+01:00",
-    "updated_at": "2022-12-21T08:33:42+01:00",
-    "media_id": "yk6xo9ia5fr2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6243352/rapper-donnie-maakt-debuut-als-tv-presentator-bij-sbs6.html",
     "open_new_window": false,
     "partner": null
   }
