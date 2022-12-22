@@ -1,12 +1,104 @@
 [
   {
+    "id": 6243614,
+    "slug": "silly-walk-uit-monty-python-is-volgens-onderzoekers-heel-goed-voor-je-fitheid",
+    "type": "article",
+    "title": "'Silly walk' uit Monty Python is volgens onderzoekers heel goed voor je fitheid",
+    "subtitle": null,
+    "published_at": "2022-12-22T07:57:22+01:00",
+    "updated_at": "2022-12-22T08:09:19+01:00",
+    "media_id": "00txbayazrym",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6243614/silly-walk-uit-monty-python-is-volgens-onderzoekers-heel-goed-voor-je-fitheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243613,
+    "slug": "zelensky-voor-amerikaans-congres-zorgen-samen-voor-vrijheid",
+    "type": "video",
+    "title": "Zelensky voor Amerikaans Congres: ‘Zorgen samen voor vrijheid’",
+    "subtitle": "Video",
+    "published_at": "2022-12-22T07:56:03+01:00",
+    "updated_at": "2022-12-22T07:56:04+01:00",
+    "media_id": "k7nx4g9a13a8",
+    "duration": "1:17",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6243613/zelensky-voor-amerikaans-congres-zorgen-samen-voor-vrijheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243609,
+    "slug": "pele-brengt-kerst-met-familie-in-ziekenhuis-door-beter-om-hier-te-blijven",
+    "type": "article",
+    "title": "Pelé brengt Kerst met familie in ziekenhuis door: 'Beter om hier te blijven'",
+    "subtitle": null,
+    "published_at": "2022-12-22T07:42:22+01:00",
+    "updated_at": "2022-12-22T08:05:14+01:00",
+    "media_id": "zjbx29jayvj6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6243609/pele-brengt-kerst-met-familie-in-ziekenhuis-door-beter-om-hier-te-blijven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6243610,
+    "slug": "nasa-krijgt-geen-contact-meer-met-marslander-missie-definitief-beeindigd",
+    "type": "article",
+    "title": "NASA krijgt geen contact meer met Marslander: missie definitief beëindigd",
+    "subtitle": null,
+    "published_at": "2022-12-22T07:42:04+01:00",
+    "updated_at": "2022-12-22T07:56:16+01:00",
+    "media_id": "j1wx8iva2oyx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6243610/nasa-krijgt-geen-contact-meer-met-marslander-missie-definitief-beeindigd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243601,
     "slug": "weghorst-blikt-terug-op-akkefietje-met-messi-hij-kent-nu-wel-mijn-naam",
     "type": "article",
     "title": "Weghorst blikt terug op akkefietje met Messi: 'Hij kent nu wel mijn naam'",
     "subtitle": null,
     "published_at": "2022-12-22T07:20:51+01:00",
-    "updated_at": "2022-12-22T07:20:52+01:00",
+    "updated_at": "2022-12-22T07:54:14+01:00",
     "media_id": "2e0xwdyals8y",
     "duration": null,
     "canonical_section": {
@@ -29,7 +121,7 @@
     "title": "Van Gerwen begint WK darts met overtuigende zege",
     "subtitle": "Video",
     "published_at": "2022-12-22T06:51:30+01:00",
-    "updated_at": "2022-12-22T06:51:31+01:00",
+    "updated_at": "2022-12-22T07:54:27+01:00",
     "media_id": "qhoxrygavw45",
     "duration": "1:02",
     "canonical_section": {
@@ -70,12 +162,12 @@
   },
   {
     "id": 6243594,
-    "slug": "frank-lammers-volgend-jaar-te-zien-als-kerstman-in-nieuwe-ziggo-dome-show",
+    "slug": "frank-lammers-volgend-jaar-als-kerstman-te-zien-in-nieuwe-ziggo-dome-show",
     "type": "article",
-    "title": "Frank Lammers volgend jaar te zien als kerstman in nieuwe Ziggo Dome-show",
+    "title": "Frank Lammers volgend jaar als Kerstman te zien in nieuwe Ziggo Dome-show",
     "subtitle": null,
     "published_at": "2022-12-22T06:34:22+01:00",
-    "updated_at": "2022-12-22T06:34:23+01:00",
+    "updated_at": "2022-12-22T08:05:22+01:00",
     "media_id": "kxyxxaca6857",
     "duration": null,
     "canonical_section": {
@@ -87,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/cultuur-overig/6243594/frank-lammers-volgend-jaar-te-zien-als-kerstman-in-nieuwe-ziggo-dome-show.html",
+    "url": "/cultuur-overig/6243594/frank-lammers-volgend-jaar-als-kerstman-te-zien-in-nieuwe-ziggo-dome-show.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +305,7 @@
     "title": "Bijna 140 nieuwe aanvragen vergoeding voor nazaten geëxecuteerde Indonesiërs",
     "subtitle": null,
     "published_at": "2022-12-22T05:26:07+01:00",
-    "updated_at": "2022-12-22T06:57:09+01:00",
+    "updated_at": "2022-12-22T07:48:08+01:00",
     "media_id": "v3exkswadh9p",
     "duration": null,
     "canonical_section": {
@@ -236,7 +328,7 @@
     "title": "Weerbericht: Veel bewolking en regen, in de middag lokaal kans op wat zon",
     "subtitle": null,
     "published_at": "2022-12-22T05:23:53+01:00",
-    "updated_at": "2022-12-22T05:23:54+01:00",
+    "updated_at": "2022-12-22T07:41:29+01:00",
     "media_id": "u3dxps2awugg",
     "duration": null,
     "canonical_section": {
@@ -351,7 +443,7 @@
     "title": "VS belooft Oekraïne blijvende steun, Zelensky maakt vergelijking met 1944",
     "subtitle": null,
     "published_at": "2022-12-22T00:14:22+01:00",
-    "updated_at": "2022-12-22T07:12:59+01:00",
+    "updated_at": "2022-12-22T08:01:17+01:00",
     "media_id": "hiyx3tsas9vi",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6243589/vs-belooft-oekraine-blijvende-steun-zelensky-maakt-vergelijking-met-1944.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243402,
-    "slug": "kleinste-stijging-van-huizenprijzen-in-ruim-zes-jaar",
-    "type": "article",
-    "title": "Kleinste stijging van huizenprijzen in ruim zes jaar",
-    "subtitle": null,
-    "published_at": "2022-12-22T00:01:33+01:00",
-    "updated_at": "2022-12-22T00:01:34+01:00",
-    "media_id": "uwixvt7ap28l",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6243402/kleinste-stijging-van-huizenprijzen-in-ruim-zes-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243588,
-    "slug": "van-gerwen-geeft-signaal-af-met-sterke-start-op-wk-ze-weten-nu-dat-ik-er-ben",
-    "type": "article",
-    "title": "Van Gerwen geeft signaal af met sterke start op WK: 'Ze weten nu dat ik er ben'",
-    "subtitle": null,
-    "published_at": "2022-12-21T23:54:31+01:00",
-    "updated_at": "2022-12-22T06:53:14+01:00",
-    "media_id": "yvixtilak2bc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6243588/van-gerwen-geeft-signaal-af-met-sterke-start-op-wk-ze-weten-nu-dat-ik-er-ben.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243587,
-    "slug": "zelensky-bedankt-biden-voor-amerikaanse-steun-aan-oekraine",
-    "type": "video",
-    "title": "Zelensky bedankt Biden voor Amerikaanse steun aan Oekraïne",
-    "subtitle": "Video",
-    "published_at": "2022-12-21T22:58:49+01:00",
-    "updated_at": "2022-12-21T22:58:50+01:00",
-    "media_id": "puqxj1laqk2c",
-    "duration": "1:02",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6243587/zelensky-bedankt-biden-voor-amerikaanse-steun-aan-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243586,
-    "slug": "ten-hag-kent-probleemloze-hervatting-met-united-rashford-scoort-na-fraaie-solo",
-    "type": "article",
-    "title": "Ten Hag kent probleemloze hervatting met United, Rashford scoort na fraaie solo",
-    "subtitle": null,
-    "published_at": "2022-12-21T22:58:34+01:00",
-    "updated_at": "2022-12-21T23:16:12+01:00",
-    "media_id": "4w6xkkpaa6io",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6243586/ten-hag-kent-probleemloze-hervatting-met-united-rashford-scoort-na-fraaie-solo.html",
     "open_new_window": false,
     "partner": null
   }
