@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244050,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2022-12-24T05:30:59+01:00",
+    "updated_at": "2022-12-24T05:31:00+01:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6244050/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6243675,
     "slug": "apps-van-de-week-alles-wat-je-nog-wil-lezen-of-luisteren-in-een-overzicht",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "Goed nieuws: 'Silly walk' goed voor je fitheid | Krabbels huisarts eindelijk leesbaar",
     "subtitle": null,
     "published_at": "2022-12-24T05:19:23+01:00",
-    "updated_at": "2022-12-24T05:19:24+01:00",
+    "updated_at": "2022-12-24T05:36:09+01:00",
     "media_id": "00txbayazrym",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6244034/15-miljoen-huishoudens-in-vs-zonder-stroom-door-winterstorm-noodtoestand-in-new-york.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243654,
-    "slug": "succesvolste-talentenjacht-ooit-deze-acteurs-wonnen-eerder-op-zoek-naar",
-    "type": "article",
-    "title": "Succesvolste talentenjacht ooit? Deze acteurs wonnen eerder Op Zoek Naar",
-    "subtitle": null,
-    "published_at": "2022-12-23T20:38:41+01:00",
-    "updated_at": "2022-12-23T20:38:43+01:00",
-    "media_id": "87nxq57awnl0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6243654/succesvolste-talentenjacht-ooit-deze-acteurs-wonnen-eerder-op-zoek-naar.html",
     "open_new_window": false,
     "partner": null
   }
