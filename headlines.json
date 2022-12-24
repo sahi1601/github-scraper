@@ -1,12 +1,35 @@
 [
   {
+    "id": 6244121,
+    "slug": "zanger-maxi-jazz-65-van-dancegroep-faithless-overleden",
+    "type": "article",
+    "title": "Zanger Maxi Jazz (65) van dancegroep Faithless overleden",
+    "subtitle": null,
+    "published_at": "2022-12-24T17:38:48+01:00",
+    "updated_at": "2022-12-24T17:44:02+01:00",
+    "media_id": "td2xb4qawln1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6244121/zanger-maxi-jazz-65-van-dancegroep-faithless-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244120,
     "slug": "waarom-we-ieder-jaar-weer-dezelfde-kerstfilms-kijken",
     "type": "video",
     "title": "Waarom we ieder jaar weer dezelfde kerstfilms kijken",
     "subtitle": "Video",
     "published_at": "2022-12-24T17:33:51+01:00",
-    "updated_at": "2022-12-24T17:33:57+01:00",
+    "updated_at": "2022-12-24T17:41:07+01:00",
     "media_id": "ttmx8xxazsad",
     "duration": "2:20",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6244070/frankrijk-roept-fifa-op-tot-actie-om-zielige-uitspraken-van-argentijnse-keeper.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244069,
-    "slug": "aantal-ijsberen-in-canada-daalt-steeds-sneller-door-opwarming-poolgebied",
-    "type": "article",
-    "title": "Aantal ijsberen in Canada daalt steeds sneller door opwarming poolgebied",
-    "subtitle": null,
-    "published_at": "2022-12-24T10:35:09+01:00",
-    "updated_at": "2022-12-24T14:13:56+01:00",
-    "media_id": "tmpx2kxaaoh2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6244069/aantal-ijsberen-in-canada-daalt-steeds-sneller-door-opwarming-poolgebied.html",
     "open_new_window": false,
     "partner": null
   }
