@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244302,
+    "slug": "jongen-14-die-gewond-raakte-door-ongeval-in-oss-is-overleden",
+    "type": "article",
+    "title": "Jongen (14) die gewond raakte door ongeval in Oss is overleden",
+    "subtitle": null,
+    "published_at": "2022-12-26T16:25:16+01:00",
+    "updated_at": "2022-12-26T16:25:17+01:00",
+    "media_id": "jfqx1heab7ik",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6244302/jongen-14-die-gewond-raakte-door-ongeval-in-oss-is-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244270,
     "slug": "waarom-het-hier-niet-zo-koud-wordt-als-in-de-vs-te-veel-obstakels-onderweg",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Van der Poel verslaat Van Aert en Pidcock in titanengevecht en wint in Gavere",
     "subtitle": null,
     "published_at": "2022-12-26T14:35:42+01:00",
-    "updated_at": "2022-12-26T16:12:04+01:00",
+    "updated_at": "2022-12-26T16:17:21+01:00",
     "media_id": "yfvxyg9apzle",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6244269/flemming-heeft-duidelijk-doel-voor-2023-vier-nieuwe-singles-en-veel-optreden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244267,
-    "slug": "nederlandse-scholen-kunnen-microsoft-365-na-avg-aanpassing-blijven-gebruiken",
-    "type": "article",
-    "title": "Nederlandse scholen kunnen Microsoft 365 na AVG-aanpassing blijven gebruiken",
-    "subtitle": null,
-    "published_at": "2022-12-26T10:47:52+01:00",
-    "updated_at": "2022-12-26T10:52:48+01:00",
-    "media_id": "a4bxzflangwc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6244267/nederlandse-scholen-kunnen-microsoft-365-na-avg-aanpassing-blijven-gebruiken.html",
     "open_new_window": false,
     "partner": null
   }
