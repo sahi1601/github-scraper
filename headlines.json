@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244488,
+    "slug": "luipaard-valt-busje-aan-op-studentencampus-in-india",
+    "type": "video",
+    "title": "Luipaard valt busje aan op studentencampus in India",
+    "subtitle": "Video",
+    "published_at": "2022-12-27T21:15:02+01:00",
+    "updated_at": "2022-12-27T21:15:03+01:00",
+    "media_id": "pn5xccmaxjyx",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6244488/luipaard-valt-busje-aan-op-studentencampus-in-india.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244485,
     "slug": "havertz-leidt-ziyech-loos-chelsea-naar-thuiszege-bij-hervatting-competitie",
     "type": "article",
@@ -254,12 +277,12 @@
   },
   {
     "id": 6244460,
-    "slug": "vitesse-verhuurt-overbodige-buitink-rest-van-het-seizoen-aan-fortuna",
+    "slug": "vitesse-verhuurt-buitink-aan-fortuna-twente-haalt-verdediger-van-bodglimt",
     "type": "article",
-    "title": "Vitesse verhuurt overbodige Buitink rest van het seizoen aan Fortuna",
+    "title": "Vitesse verhuurt Buitink aan Fortuna, Twente haalt verdediger van Bodø/Glimt",
     "subtitle": null,
     "published_at": "2022-12-27T18:14:28+01:00",
-    "updated_at": "2022-12-27T18:44:52+01:00",
+    "updated_at": "2022-12-27T21:21:15+01:00",
     "media_id": "4npxmttaoely",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6244460/vitesse-verhuurt-overbodige-buitink-rest-van-het-seizoen-aan-fortuna.html",
+    "url": "/voetbal/6244460/vitesse-verhuurt-buitink-aan-fortuna-twente-haalt-verdediger-van-bodglimt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/jaarwisseling/6244406/vuurwerk-afsteken-mag-weer-maar-let-op-dit-zijn-de-regels-en-uitzonderingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244444,
-    "slug": "apple-aangeklaagd-in-vs-vanwege-discriminatie-met-apple-watch",
-    "type": "article",
-    "title": "Apple aangeklaagd in VS vanwege discriminatie met Apple Watch",
-    "subtitle": null,
-    "published_at": "2022-12-27T16:58:45+01:00",
-    "updated_at": "2022-12-27T17:05:51+01:00",
-    "media_id": "mtwxh3uafuiu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6244444/apple-aangeklaagd-in-vs-vanwege-discriminatie-met-apple-watch.html",
     "open_new_window": false,
     "partner": null
   }
