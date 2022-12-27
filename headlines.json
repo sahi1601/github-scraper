@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244426,
+    "slug": "van-den-bergh-wint-van-ratajski-en-plaatst-zich-als-eerste-voor-achtste-finales",
+    "type": "article",
+    "title": "Van den Bergh wint van Ratajski en plaatst zich als eerste voor achtste finales",
+    "subtitle": null,
+    "published_at": "2022-12-27T15:14:38+01:00",
+    "updated_at": "2022-12-27T15:22:47+01:00",
+    "media_id": "35vxcfpaw5v5",
+    "duration": null,
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6244426/van-den-bergh-wint-van-ratajski-en-plaatst-zich-als-eerste-voor-achtste-finales.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244424,
     "slug": "oekraiense-militairen-gebruiken-personenauto-als-mobiele-uitkijktoren",
     "type": "video",
@@ -52,7 +75,7 @@
     "title": "Alvarado wint ondanks bijna missen start Superprestige in Heusden-Zolder",
     "subtitle": null,
     "published_at": "2022-12-27T14:58:13+01:00",
-    "updated_at": "2022-12-27T15:09:38+01:00",
+    "updated_at": "2022-12-27T15:15:36+01:00",
     "media_id": "joaxejfa7f3t",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6244419,
-    "slug": "blind-ontbindt-contract-en-vertrekt-na-333-duels-transfervrij-bij-ajax",
+    "slug": "daley-blind-ontbindt-contract-en-vertrekt-na-333-duels-transfervrij-bij-ajax",
     "type": "article",
-    "title": "Blind ontbindt contract en vertrekt na 333 duels transfervrij bij Ajax",
+    "title": "Daley Blind ontbindt contract en vertrekt na 333 duels transfervrij bij Ajax",
     "subtitle": null,
     "published_at": "2022-12-27T14:52:35+01:00",
-    "updated_at": "2022-12-27T15:10:26+01:00",
+    "updated_at": "2022-12-27T15:24:57+01:00",
     "media_id": "rxex7waazjka",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6244419/blind-ontbindt-contract-en-vertrekt-na-333-duels-transfervrij-bij-ajax.html",
+    "url": "/voetbal/6244419/daley-blind-ontbindt-contract-en-vertrekt-na-333-duels-transfervrij-bij-ajax.html",
     "open_new_window": false,
     "partner": null
   },
@@ -139,13 +162,13 @@
   },
   {
     "id": 6244414,
-    "slug": "favorieten-rijpma-de-jong-en-roest-beginnen-uitstekend-aan-nk-allround",
+    "slug": "groenewoud-verslaat-rijpma-de-jong-op-3-kilometer-en-maakt-nk-weer-spannend",
     "type": "article",
-    "title": "Favorieten Rijpma-de Jong en Roest beginnen uitstekend aan NK allround",
+    "title": "Groenewoud verslaat Rijpma-de Jong op 3 kilometer en maakt NK weer spannend",
     "subtitle": null,
     "published_at": "2022-12-27T13:44:27+01:00",
-    "updated_at": "2022-12-27T14:29:49+01:00",
-    "media_id": "aucxnnuamw0h",
+    "updated_at": "2022-12-27T15:23:58+01:00",
+    "media_id": "iolxydna3ngm",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -156,7 +179,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6244414/favorieten-rijpma-de-jong-en-roest-beginnen-uitstekend-aan-nk-allround.html",
+    "url": "/schaatsen/6244414/groenewoud-verslaat-rijpma-de-jong-op-3-kilometer-en-maakt-nk-weer-spannend.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6244380/politie-zet-drones-in-voor-toezicht-tijdens-de-jaarwisseling.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244368,
-    "slug": "kim-kardashian-vreest-dat-haar-ex-man-een-nieuwe-liefde-afschrikt",
-    "type": "article",
-    "title": "Kim Kardashian vreest dat haar ex-man een nieuwe liefde afschrikt",
-    "subtitle": null,
-    "published_at": "2022-12-27T11:06:17+01:00",
-    "updated_at": "2022-12-27T11:07:08+01:00",
-    "media_id": "0g2xkh9aeeso",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6244368/kim-kardashian-vreest-dat-haar-ex-man-een-nieuwe-liefde-afschrikt.html",
     "open_new_window": false,
     "partner": null
   }
