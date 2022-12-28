@@ -1,12 +1,35 @@
 [
   {
+    "id": 6244492,
+    "slug": "leerdam-wil-niet-meer-alles-perfect-doen-en-schaatst-daardoor-beter-dan-ooit",
+    "type": "article",
+    "title": "Leerdam wil niet meer alles perfect doen en schaatst daardoor beter dan ooit",
+    "subtitle": null,
+    "published_at": "2022-12-28T06:46:01+01:00",
+    "updated_at": "2022-12-28T06:46:02+01:00",
+    "media_id": "kwoxs71akl7s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6244492/leerdam-wil-niet-meer-alles-perfect-doen-en-schaatst-daardoor-beter-dan-ooit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244495,
     "slug": "geirriteerde-price-overwoog-tegen-van-barneveld-koptelefoon-op-te-doen",
     "type": "article",
     "title": "Geïrriteerde Price overwoog tegen Van Barneveld koptelefoon op te doen",
     "subtitle": null,
     "published_at": "2022-12-28T06:44:31+01:00",
-    "updated_at": "2022-12-28T06:44:32+01:00",
+    "updated_at": "2022-12-28T07:08:50+01:00",
     "media_id": "owjxryda4g7t",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Basisbeurs komt terug, maar studenten rekenen zich nog niet rijk in 2023",
     "subtitle": null,
     "published_at": "2022-12-28T05:29:29+01:00",
-    "updated_at": "2022-12-28T05:29:29+01:00",
+    "updated_at": "2022-12-28T07:06:15+01:00",
     "media_id": "vrmxicnaecg4",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Van Barneveld roemloos uitgeschakeld op WK door pijnlijke nederlaag tegen Price",
     "subtitle": null,
     "published_at": "2022-12-27T22:29:21+01:00",
-    "updated_at": "2022-12-28T02:44:39+01:00",
+    "updated_at": "2022-12-28T07:04:35+01:00",
     "media_id": "yrlxs5ua9iu7",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Blind in open brief aan fans: 'Niet hoe ik me mijn einde bij Ajax had voorgesteld'",
     "subtitle": null,
     "published_at": "2022-12-27T22:25:24+01:00",
-    "updated_at": "2022-12-27T23:24:09+01:00",
+    "updated_at": "2022-12-28T07:05:29+01:00",
     "media_id": "8hzxwcvaz184",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6244484/ghana-dreigt-religieuze-leiders-te-vervolgen-als-ze-nieuwjaarsvoorspelling-doen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244483,
-    "slug": "scheveningen-en-duindorp-bouwen-metershoge-vreugdevuren",
-    "type": "article",
-    "title": "Scheveningen en Duindorp bouwen metershoge vreugdevuren",
-    "subtitle": "In beeld",
-    "published_at": "2022-12-27T20:05:19+01:00",
-    "updated_at": "2022-12-27T20:24:48+01:00",
-    "media_id": "3jmxhydazw4e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6244483/scheveningen-en-duindorp-bouwen-metershoge-vreugdevuren.html",
     "open_new_window": false,
     "partner": null
   }
