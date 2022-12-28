@@ -1,12 +1,35 @@
 [
   {
+    "id": 6244667,
+    "slug": "ook-vs-verplicht-coronatesten-voor-reizigers-uit-china-vanwege-coronagolf",
+    "type": "article",
+    "title": "Ook VS verplicht coronatesten voor reizigers uit China vanwege coronagolf",
+    "subtitle": null,
+    "published_at": "2022-12-28T21:49:07+01:00",
+    "updated_at": "2022-12-28T21:54:25+01:00",
+    "media_id": "fk1xby7a333m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6244667/ook-vs-verplicht-coronatesten-voor-reizigers-uit-china-vanwege-coronagolf.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244666,
     "slug": "vuurwapenverbod-in-brasilia-in-gespannen-aanloop-naar-presidentsinstallatie",
     "type": "article",
     "title": "Vuurwapenverbod in Brasilia in gespannen aanloop naar presidentsinstallatie",
     "subtitle": null,
     "published_at": "2022-12-28T21:13:12+01:00",
-    "updated_at": "2022-12-28T21:44:10+01:00",
+    "updated_at": "2022-12-28T22:02:07+01:00",
     "media_id": "bbjx7fkad628",
     "duration": null,
     "canonical_section": {
@@ -139,13 +162,13 @@
   },
   {
     "id": 6244651,
-    "slug": "superieure-pieterse-voert-nederlands-podium-aan-bij-superprestige-cross-diegem",
+    "slug": "van-aert-klopt-pidcock-na-fraai-gevecht-in-avondcross-diegem-van-der-poel-derde",
     "type": "article",
-    "title": "Superieure Pieterse voert Nederlands podium aan bij Superprestige-cross Diegem",
+    "title": "Van Aert klopt Pidcock na fraai gevecht in avondcross Diegem, Van der Poel derde",
     "subtitle": null,
     "published_at": "2022-12-28T19:49:26+01:00",
-    "updated_at": "2022-12-28T20:12:10+01:00",
-    "media_id": "kp6x5t2aipfz",
+    "updated_at": "2022-12-28T22:01:54+01:00",
+    "media_id": "f2txq9fa2ulf",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6244651/superieure-pieterse-voert-nederlands-podium-aan-bij-superprestige-cross-diegem.html",
+    "url": "/wielrennen/6244651/van-aert-klopt-pidcock-na-fraai-gevecht-in-avondcross-diegem-van-der-poel-derde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6244623/amerikaanse-stad-buffalo-compleet-lamgeslagen-na-sneeuwstorm.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244405,
-    "slug": "eindejaarsquiz-test-jouw-kennis-van-het-formule-1-seizoen-2022",
-    "type": "article",
-    "title": "Eindejaarsquiz: Test jouw kennis van het Formule 1-seizoen 2022",
-    "subtitle": null,
-    "published_at": "2022-12-28T16:53:07+01:00",
-    "updated_at": "2022-12-28T21:43:54+01:00",
-    "media_id": "n9dxlj7audj2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6244405/eindejaarsquiz-test-jouw-kennis-van-het-formule-1-seizoen-2022.html",
     "open_new_window": false,
     "partner": null
   }
