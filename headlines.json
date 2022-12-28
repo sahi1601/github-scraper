@@ -1,12 +1,58 @@
 [
   {
-    "id": 6244603,
-    "slug": "noppert-keek-penaltyserie-terug-maar-daar-werd-ik-niet-echt-vrolijk-van",
+    "id": 6244598,
+    "slug": "de-sousa-overleeft-matchdart-tegen-searle-en-bereikt-vierde-ronde-wk-darts",
     "type": "article",
-    "title": "Noppert keek penaltyserie terug: 'Maar daar werd ik niet echt vrolijk van'",
+    "title": "De Sousa overleeft matchdart tegen Searle en bereikt vierde ronde WK darts",
+    "subtitle": null,
+    "published_at": "2022-12-28T15:18:37+01:00",
+    "updated_at": "2022-12-28T15:18:39+01:00",
+    "media_id": "kqxxm0ta0rw7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6244598/de-sousa-overleeft-matchdart-tegen-searle-en-bereikt-vierde-ronde-wk-darts.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6244596,
+    "slug": "noppert-begint-vol-vertrouwen-aan-derderondepartij",
+    "type": "article",
+    "title": "Noppert begint vol vertrouwen aan derderondepartij",
+    "subtitle": "Liveblog WK darts",
+    "published_at": "2022-12-28T15:15:30+01:00",
+    "updated_at": "2022-12-28T15:18:41+01:00",
+    "media_id": "fuxxc7ra0xgn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6244596/noppert-begint-vol-vertrouwen-aan-derderondepartij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6244603,
+    "slug": "noppert-keek-penaltyserie-op-wk-terug-maar-daar-werd-ik-niet-echt-vrolijk-van",
+    "type": "article",
+    "title": "Noppert keek penaltyserie op WK terug: 'Maar daar werd ik niet echt vrolijk van'",
     "subtitle": null,
     "published_at": "2022-12-28T15:12:04+01:00",
-    "updated_at": "2022-12-28T15:12:05+01:00",
+    "updated_at": "2022-12-28T15:20:34+01:00",
     "media_id": "mzbxnira858f",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6244603/noppert-keek-penaltyserie-terug-maar-daar-werd-ik-niet-echt-vrolijk-van.html",
+    "url": "/voetbal/6244603/noppert-keek-penaltyserie-op-wk-terug-maar-daar-werd-ik-niet-echt-vrolijk-van.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +144,7 @@
     "title": "Sanne en Hebe kwamen om het leven door verkeersongeval, OM sluit onderzoek",
     "subtitle": null,
     "published_at": "2022-12-28T14:16:05+01:00",
-    "updated_at": "2022-12-28T14:16:07+01:00",
+    "updated_at": "2022-12-28T15:16:37+01:00",
     "media_id": "o84x08xat48w",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6244552/aandeel-tesla-zakt-naar-laagste-punt-in-ruim-twee-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244497,
-    "slug": "huybrechts-stunt-met-zege-op-wright-hij-speelde-niet-als-de-wereldkampioen",
-    "type": "article",
-    "title": "Huybrechts stunt met zege op Wright: 'Hij speelde niet als de wereldkampioen'",
-    "subtitle": null,
-    "published_at": "2022-12-28T10:34:15+01:00",
-    "updated_at": "2022-12-28T10:40:57+01:00",
-    "media_id": "bztxv9xax4q9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6244497/huybrechts-stunt-met-zege-op-wright-hij-speelde-niet-als-de-wereldkampioen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244536,
-    "slug": "amerikaans-huis-van-afgevaardigden-verbiedt-tiktok-op-werktelefoons",
-    "type": "article",
-    "title": "Amerikaans Huis van Afgevaardigden verbiedt TikTok op werktelefoons",
-    "subtitle": null,
-    "published_at": "2022-12-28T10:28:42+01:00",
-    "updated_at": "2022-12-28T10:28:43+01:00",
-    "media_id": "b54xos0af5sh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6244536/amerikaans-huis-van-afgevaardigden-verbiedt-tiktok-op-werktelefoons.html",
     "open_new_window": false,
     "partner": null
   }
