@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244713,
+    "slug": "vlammen-slaan-uit-casinohotel-in-cambodja",
+    "type": "video",
+    "title": "Vlammen slaan uit casinohotel in Cambodja",
+    "subtitle": "Video",
+    "published_at": "2022-12-29T09:24:42+01:00",
+    "updated_at": "2022-12-29T09:24:43+01:00",
+    "media_id": "s1nxdsea3xi9",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6244713/vlammen-slaan-uit-casinohotel-in-cambodja.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244709,
     "slug": "haaland-blijft-scoren-maar-guardiola-mist-scherpte-van-eerste-seizoenshelft",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Wereldberoemde hond Kabosu uit talloze internetmemes is ernstig ziek",
     "subtitle": null,
     "published_at": "2022-12-29T09:05:28+01:00",
-    "updated_at": "2022-12-29T09:16:16+01:00",
+    "updated_at": "2022-12-29T09:25:45+01:00",
     "media_id": "7nuxm0paiq1q",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Meerdere doden en gewonden bij grote brand in Cambodjaans casinohotel",
     "subtitle": null,
     "published_at": "2022-12-29T07:45:25+01:00",
-    "updated_at": "2022-12-29T07:56:46+01:00",
+    "updated_at": "2022-12-29T09:25:05+01:00",
     "media_id": "kvbxy3mar5z4",
     "duration": null,
     "canonical_section": {
@@ -371,10 +394,10 @@
     "id": 6243230,
     "slug": "knrmers-na-bootongeluk-terschelling-hij-wilde-doorzoeken",
     "type": "article",
-    "title": "KNRM’ers na bootongeluk Terschelling: ‘Hij wilde doorzoeken’",
+    "title": "KNRM'ers na bootongeluk Terschelling: 'Hij wilde doorzoeken'",
     "subtitle": "NU+",
     "published_at": "2022-12-29T05:27:12+01:00",
-    "updated_at": "2022-12-29T08:36:41+01:00",
+    "updated_at": "2022-12-29T09:22:58+01:00",
     "media_id": "gm8xem3aizvz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6243701/deze-herders-zijn-blij-met-de-wolf-we-staan-niet-boven-de-natuur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244675,
-    "slug": "weerbericht-buien-af-en-toe-opklaringen-en-een-stevige-wind",
-    "type": "article",
-    "title": "Weerbericht: Buien, af en toe opklaringen en een stevige wind",
-    "subtitle": null,
-    "published_at": "2022-12-29T05:04:46+01:00",
-    "updated_at": "2022-12-29T06:02:10+01:00",
-    "media_id": "m1mxeehaleas",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6244675/weerbericht-buien-af-en-toe-opklaringen-en-een-stevige-wind.html",
     "open_new_window": false,
     "partner": null
   }
