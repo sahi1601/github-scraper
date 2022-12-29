@@ -1,5 +1,51 @@
 [
   {
+    "id": 6244681,
+    "slug": "neymar-maakt-schwalbe-en-krijgt-tweede-gele-kaart-binnen-een-minuut",
+    "type": "video",
+    "title": "Neymar maakt schwalbe en krijgt tweede gele kaart binnen een minuut",
+    "subtitle": "Video",
+    "published_at": "2022-12-29T06:55:31+01:00",
+    "updated_at": "2022-12-29T06:58:17+01:00",
+    "media_id": "h8vx41ia2kn9",
+    "duration": "1:20",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6244681/neymar-maakt-schwalbe-en-krijgt-tweede-gele-kaart-binnen-een-minuut.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6244669,
+    "slug": "otterspeer-is-oudste-winnaar-van-nk-sprint-maar-ik-voel-me-steeds-jonger",
+    "type": "article",
+    "title": "Otterspeer is oudste winnaar van NK sprint: 'Maar ik voel me steeds jonger'",
+    "subtitle": null,
+    "published_at": "2022-12-29T06:48:04+01:00",
+    "updated_at": "2022-12-29T06:48:06+01:00",
+    "media_id": "v45xs98a1ukk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6244669/otterspeer-is-oudste-winnaar-van-nk-sprint-maar-ik-voel-me-steeds-jonger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244679,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "In 2022 ging alles anders: Oekraïne en pandemie zetten economie op z'n kop",
     "subtitle": null,
     "published_at": "2022-12-29T05:26:18+01:00",
-    "updated_at": "2022-12-29T05:26:19+01:00",
+    "updated_at": "2022-12-29T06:45:11+01:00",
     "media_id": "hfixugzawd9g",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Van Gerwen was voorbereid op sterke Suljovic: 'Ik weet als geen ander wat hij kan'",
     "subtitle": null,
     "published_at": "2022-12-29T00:25:12+01:00",
-    "updated_at": "2022-12-29T06:42:50+01:00",
+    "updated_at": "2022-12-29T06:59:14+01:00",
     "media_id": "riix2cpaec6u",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Van Gerwen bereikt vierde ronde WK darts na spektakelstuk tegen Suljovic",
     "subtitle": null,
     "published_at": "2022-12-28T22:42:36+01:00",
-    "updated_at": "2022-12-29T05:05:32+01:00",
+    "updated_at": "2022-12-29T06:59:31+01:00",
     "media_id": "qlbxoz6aqyj9",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6244670/gakpo-tekent-bij-liverpool-kan-niet-wachten-om-sfeer-op-anfield-mee-te-maken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244667,
-    "slug": "ook-vs-verplicht-coronatesten-voor-reizigers-uit-china-vanwege-coronagolf",
-    "type": "article",
-    "title": "Ook VS verplicht coronatesten voor reizigers uit China vanwege coronagolf",
-    "subtitle": null,
-    "published_at": "2022-12-28T21:49:07+01:00",
-    "updated_at": "2022-12-28T21:54:25+01:00",
-    "media_id": "fk1xby7a333m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778528,
-      "slug": "coronavirus",
-      "type": "default",
-      "name": "Coronavirus",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/coronavirus/6244667/ook-vs-verplicht-coronatesten-voor-reizigers-uit-china-vanwege-coronagolf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244666,
-    "slug": "vuurwapenverbod-in-brasilia-in-gespannen-aanloop-naar-presidentsinstallatie",
-    "type": "article",
-    "title": "Vuurwapenverbod in Brasilia in gespannen aanloop naar presidentsinstallatie",
-    "subtitle": null,
-    "published_at": "2022-12-28T21:13:12+01:00",
-    "updated_at": "2022-12-28T22:02:07+01:00",
-    "media_id": "bbjx7fkad628",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6244666/vuurwapenverbod-in-brasilia-in-gespannen-aanloop-naar-presidentsinstallatie.html",
     "open_new_window": false,
     "partner": null
   }
