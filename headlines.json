@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244860,
+    "slug": "nick-cannon-verwelkomt-dochter-en-wordt-voor-twaalfde-keer-vader",
+    "type": "article",
+    "title": "Nick Cannon verwelkomt dochter en wordt voor twaalfde keer vader",
+    "subtitle": null,
+    "published_at": "2022-12-29T20:14:49+01:00",
+    "updated_at": "2022-12-29T20:16:24+01:00",
+    "media_id": "q93xk2haaide",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6244860/nick-cannon-verwelkomt-dochter-en-wordt-voor-twaalfde-keer-vader.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244858,
     "slug": "bijna-2500-kinderen-van-toeslagenouders-hebben-compensatie-nog-niet-door-fout",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6244856,
-    "slug": "braziliaanse-voetballegende-pele-op-82-jarige-leeftijd-overleden",
+    "slug": "met-het-overlijden-van-pele-verliezen-we-een-van-de-beste-voetballers-ooit",
     "type": "video",
-    "title": "Braziliaanse voetballegende Pelé op 82-jarige leeftijd overleden",
+    "title": "Met het overlijden van Pelé verliezen we een van de beste voetballers ooit",
     "subtitle": "Video",
     "published_at": "2022-12-29T20:08:20+01:00",
-    "updated_at": "2022-12-29T20:08:21+01:00",
+    "updated_at": "2022-12-29T20:18:28+01:00",
     "media_id": "kqjxm4qag8vg",
     "duration": "1:16",
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6244856/braziliaanse-voetballegende-pele-op-82-jarige-leeftijd-overleden.html",
+    "url": "/algemeen/6244856/met-het-overlijden-van-pele-verliezen-we-een-van-de-beste-voetballers-ooit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Braziliaanse voetballegende Pelé op 82-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2022-12-29T20:02:12+01:00",
-    "updated_at": "2022-12-29T20:03:08+01:00",
+    "updated_at": "2022-12-29T20:23:47+01:00",
     "media_id": "i2zxitha3i3z",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6244808/politie-zoekt-naar-vermiste-oekraiense-vluchteling-en-deelt-foto.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244806,
-    "slug": "van-duijvenbode-door-het-dolle-heen-na-zege-in-dartsthriller",
-    "type": "video",
-    "title": "Van Duijvenbode door het dolle heen na zege in dartsthriller",
-    "subtitle": "Video",
-    "published_at": "2022-12-29T16:08:07+01:00",
-    "updated_at": "2022-12-29T19:48:04+01:00",
-    "media_id": "p82ximuakppz",
-    "duration": "1:01",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6244806/van-duijvenbode-door-het-dolle-heen-na-zege-in-dartsthriller.html",
     "open_new_window": false,
     "partner": null
   }
