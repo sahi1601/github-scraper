@@ -1,5 +1,28 @@
 [
   {
+    "id": 6244778,
+    "slug": "kabinet-mag-gezinshereniging-statushouders-voorlopig-niet-weigeren",
+    "type": "article",
+    "title": "Kabinet mag gezinshereniging statushouders voorlopig niet weigeren",
+    "subtitle": null,
+    "published_at": "2022-12-29T14:20:42+01:00",
+    "updated_at": "2022-12-29T14:26:24+01:00",
+    "media_id": "0lbxvkmapcha",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779109,
+      "slug": "asielcrisis",
+      "type": "default",
+      "name": "Asielcrisis",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/asielcrisis/6244778/kabinet-mag-gezinshereniging-statushouders-voorlopig-niet-weigeren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244771,
     "slug": "italie-wil-dat-ook-andere-eu-landen-reizigers-uit-china-testen-op-corona",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6244770,
-    "slug": "van-duijvenbode-mist-kansen-op-de-dubbels-tegen-smith",
+    "slug": "van-duijvenbode-weer-op-voorsprong-tegen-smith",
     "type": "article",
-    "title": "Van Duijvenbode mist kansen op de dubbels tegen Smith",
+    "title": "Van Duijvenbode weer op voorsprong tegen Smith",
     "subtitle": "Liveblog WK darts",
     "published_at": "2022-12-29T13:39:01+01:00",
-    "updated_at": "2022-12-29T14:13:04+01:00",
+    "updated_at": "2022-12-29T14:24:18+01:00",
     "media_id": "69wxse7amw5x",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/darts/6244770/van-duijvenbode-mist-kansen-op-de-dubbels-tegen-smith.html",
+    "url": "/darts/6244770/van-duijvenbode-weer-op-voorsprong-tegen-smith.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Ongehoord Nederland krijgt tweede sanctie en moet 56.000 euro betalen",
     "subtitle": null,
     "published_at": "2022-12-29T12:52:49+01:00",
-    "updated_at": "2022-12-29T14:12:42+01:00",
+    "updated_at": "2022-12-29T14:16:50+01:00",
     "media_id": "vatxh99a11wg",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Giovanca Ostiana gaat middagprogramma presenteren op NPO Radio 5",
     "subtitle": null,
     "published_at": "2022-12-29T11:41:51+01:00",
-    "updated_at": "2022-12-29T11:41:52+01:00",
+    "updated_at": "2022-12-29T14:17:59+01:00",
     "media_id": "h97xgafao5dq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6244740/lichtgevende-letters-voor-top-2000-cafe-gestolen-npo-radio-2-doet-aangifte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244736,
-    "slug": "nederlanders-massaal-in-de-rij-voor-duits-vuurwerk",
-    "type": "video",
-    "title": "Nederlanders massaal in de rij voor Duits vuurwerk",
-    "subtitle": "Video",
-    "published_at": "2022-12-29T10:36:53+01:00",
-    "updated_at": "2022-12-29T10:36:54+01:00",
-    "media_id": "avsxvv9a98jj",
-    "duration": "0:33",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6244736/nederlanders-massaal-in-de-rij-voor-duits-vuurwerk.html",
     "open_new_window": false,
     "partner": null
   }
