@@ -1,12 +1,35 @@
 [
   {
-    "id": 6244876,
-    "slug": "documentaire-over-marvel-schrijver-stan-lee-komt-volgend-jaar-uit",
+    "id": 6244877,
+    "slug": "beruchte-influencer-andrew-tate-opgepakt-in-roemenie",
     "type": "article",
-    "title": "Documentaire over Marvel-schrijver Stan Lee komt volgend jaar uit",
+    "title": "Beruchte influencer Andrew Tate opgepakt in Roemenië",
+    "subtitle": null,
+    "published_at": "2022-12-30T03:17:29+01:00",
+    "updated_at": "2022-12-30T03:17:30+01:00",
+    "media_id": "36xxznras10c",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6244877/beruchte-influencer-andrew-tate-opgepakt-in-roemenie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6244876,
+    "slug": "disney-brengt-documentaire-over-marvel-schrijver-stan-lee-uit",
+    "type": "article",
+    "title": "Disney+ brengt documentaire over Marvel-schrijver Stan Lee uit",
     "subtitle": null,
     "published_at": "2022-12-30T02:15:55+01:00",
-    "updated_at": "2022-12-30T02:15:56+01:00",
+    "updated_at": "2022-12-30T02:24:23+01:00",
     "media_id": "5qhxlklaodtk",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6244876/documentaire-over-marvel-schrijver-stan-lee-komt-volgend-jaar-uit.html",
+    "url": "/film/6244876/disney-brengt-documentaire-over-marvel-schrijver-stan-lee-uit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6243722/pele-inspireerde-miljoenen-door-na-jeugd-in-armoede-1279-goals-te-maken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6243635,
-    "slug": "de-mooiste-fotos-uit-de-indrukwekkende-carriere-van-pele",
-    "type": "article",
-    "title": "De mooiste foto's uit de indrukwekkende carrière van Pelé",
-    "subtitle": "In beeld",
-    "published_at": "2022-12-29T20:04:16+01:00",
-    "updated_at": "2022-12-29T22:05:35+01:00",
-    "media_id": "w4qx7rlagba5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6243635/de-mooiste-fotos-uit-de-indrukwekkende-carriere-van-pele.html",
     "open_new_window": false,
     "partner": null
   }
