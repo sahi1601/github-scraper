@@ -1,12 +1,35 @@
 [
   {
+    "id": 6244774,
+    "slug": "virologen-willen-europees-coronabeleid-voor-reizigers-uit-china",
+    "type": "article",
+    "title": "Virologen willen Europees coronabeleid voor reizigers uit China",
+    "subtitle": null,
+    "published_at": "2022-12-30T18:14:10+01:00",
+    "updated_at": "2022-12-30T18:14:12+01:00",
+    "media_id": "5u7x63eab8hw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6244774/virologen-willen-europees-coronabeleid-voor-reizigers-uit-china.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245035,
     "slug": "aex-beleeft-slechtste-beursjaar-sinds-kredietcrisis-en-sluit-bijna-14-procent-lager",
     "type": "article",
     "title": "AEX beleeft slechtste beursjaar sinds kredietcrisis en sluit bijna 14 procent lager",
     "subtitle": null,
     "published_at": "2022-12-30T18:08:54+01:00",
-    "updated_at": "2022-12-30T18:08:56+01:00",
+    "updated_at": "2022-12-30T18:17:39+01:00",
     "media_id": "thcxd9saqibu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6244996/hardlopers-beginnen-aan-226-kilometer-lange-estafette-naar-nieuwjaarsduik.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6244991,
-    "slug": "abn-amro-klanten-hebben-al-een-dag-last-van-storing-bij-internetbankieren",
-    "type": "article",
-    "title": "ABN AMRO-klanten hebben al een dag last van storing bij internetbankieren",
-    "subtitle": null,
-    "published_at": "2022-12-30T14:29:05+01:00",
-    "updated_at": "2022-12-30T14:30:37+01:00",
-    "media_id": "8lrxra0a7ylz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6244991/abn-amro-klanten-hebben-al-een-dag-last-van-storing-bij-internetbankieren.html",
     "open_new_window": false,
     "partner": null
   }
