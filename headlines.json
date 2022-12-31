@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245221,
+    "slug": "zo-luidt-utrecht-het-nieuwe-jaar-in",
+    "type": "video",
+    "title": "Zo luidt Utrecht het nieuwe jaar in",
+    "subtitle": "Video",
+    "published_at": "2023-01-01T00:18:23+01:00",
+    "updated_at": "2023-01-01T00:21:42+01:00",
+    "media_id": "f3wxdesa7hvo",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6245221/zo-luidt-utrecht-het-nieuwe-jaar-in.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245213,
     "slug": "na-twee-jaar-landelijk-vuurwerkverbod-knalt-nederland-ouderwets-2023-in",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6245179/na-warmste-oudejaarsdag-nu-ook-warmste-landelijke-decemberdag-ooit-gemeten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245174,
-    "slug": "delen-van-kyiv-verwoest-door-russische-raketaanvallen",
-    "type": "video",
-    "title": "Delen van Kyiv verwoest door Russische raketaanvallen",
-    "subtitle": "Video",
-    "published_at": "2022-12-31T17:35:13+01:00",
-    "updated_at": "2022-12-31T17:35:14+01:00",
-    "media_id": "abkxxo9aiaqd",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6245174/delen-van-kyiv-verwoest-door-russische-raketaanvallen.html",
     "open_new_window": false,
     "partner": null
   }
