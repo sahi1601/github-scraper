@@ -1,12 +1,58 @@
 [
   {
+    "id": 6245191,
+    "slug": "foo-fighters-gaan-door-na-dood-drummer-hawkins-maar-worden-andere-band",
+    "type": "article",
+    "title": "Foo Fighters gaan door na dood drummer Hawkins, maar worden 'andere' band",
+    "subtitle": null,
+    "published_at": "2022-12-31T19:23:50+01:00",
+    "updated_at": "2022-12-31T19:23:51+01:00",
+    "media_id": "h4fxk7yapsns",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6245191/foo-fighters-gaan-door-na-dood-drummer-hawkins-maar-worden-andere-band.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245190,
+    "slug": "fc-barcelona-trainer-xavi-baalt-van-zinloze-kaarten-arbiter-lahoz",
+    "type": "article",
+    "title": "FC Barcelona-trainer Xavi baalt van 'zinloze kaarten' arbiter Lahoz",
+    "subtitle": null,
+    "published_at": "2022-12-31T19:19:31+01:00",
+    "updated_at": "2022-12-31T19:19:32+01:00",
+    "media_id": "lchx87ia4k4l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6245190/fc-barcelona-trainer-xavi-baalt-van-zinloze-kaarten-arbiter-lahoz.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245189,
     "slug": "man-op-klaarlichte-dag-doodgestoken-in-brabants-dorp-bladel",
     "type": "article",
     "title": "Man op klaarlichte dag doodgestoken in Brabants dorp Bladel",
     "subtitle": null,
     "published_at": "2022-12-31T18:59:47+01:00",
-    "updated_at": "2022-12-31T19:13:54+01:00",
+    "updated_at": "2022-12-31T19:18:56+01:00",
     "media_id": "1wbxbmra978s",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Na warmste Oudejaarsdag nu ook warmste landelijke decemberdag ooit gemeten",
     "subtitle": null,
     "published_at": "2022-12-31T17:57:11+01:00",
-    "updated_at": "2022-12-31T18:12:21+01:00",
+    "updated_at": "2022-12-31T19:25:17+01:00",
     "media_id": "ouzxdrdad2ep",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6245148/nieuw-zeeland-en-australie-luiden-als-eerst-2023-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245146,
-    "slug": "dit-zijn-de-best-bekeken-videos-uit-2022",
-    "type": "video",
-    "title": "Dit zijn de best bekeken video's uit 2022",
-    "subtitle": "Video",
-    "published_at": "2022-12-31T14:16:46+01:00",
-    "updated_at": "2022-12-31T14:49:15+01:00",
-    "media_id": "p20xzskacl6q",
-    "duration": "4:59",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6245146/dit-zijn-de-best-bekeken-videos-uit-2022.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245143,
-    "slug": "davy-propper-maakt-in-oefenduel-van-vitesse-eerste-minuten-sinds-comeback",
-    "type": "article",
-    "title": "Davy Pröpper maakt in oefenduel van Vitesse eerste minuten sinds comeback",
-    "subtitle": null,
-    "published_at": "2022-12-31T13:54:46+01:00",
-    "updated_at": "2022-12-31T14:32:46+01:00",
-    "media_id": "loexc3sapn6u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245143/davy-propper-maakt-in-oefenduel-van-vitesse-eerste-minuten-sinds-comeback.html",
     "open_new_window": false,
     "partner": null
   }
