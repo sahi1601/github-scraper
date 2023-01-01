@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245236,
+    "slug": "jaarwisseling-in-het-teken-van-vuurwerkverbod-arrestaties-en-brandjes",
+    "type": "article",
+    "title": "Jaarwisseling in het teken van vuurwerk(verbod), arrestaties en brandjes",
+    "subtitle": null,
+    "published_at": "2023-01-01T05:22:54+01:00",
+    "updated_at": "2023-01-01T05:22:55+01:00",
+    "media_id": "6zixc3ua5xh6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6245236/jaarwisseling-in-het-teken-van-vuurwerkverbod-arrestaties-en-brandjes.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245231,
     "slug": "vlammen-slaan-uit-dak-van-kerkgebouw-in-veghel",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6245188/lang-vormer-en-meijer-krijgen-scott-parker-als-nieuwe-trainer-bij-club-brugge.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245187,
-    "slug": "real-speler-vinicius-laakt-la-liga-nadat-hij-weer-het-mikpunt-van-apengeluiden-is",
-    "type": "article",
-    "title": "Real-speler Vinícius laakt La Liga nadat hij weer het mikpunt van apengeluiden is",
-    "subtitle": null,
-    "published_at": "2022-12-31T18:20:06+01:00",
-    "updated_at": "2022-12-31T19:41:12+01:00",
-    "media_id": "vqcx2c7adzgi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245187/real-speler-vinicius-laakt-la-liga-nadat-hij-weer-het-mikpunt-van-apengeluiden-is.html",
     "open_new_window": false,
     "partner": null
   }
