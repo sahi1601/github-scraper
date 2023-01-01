@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245241,
+    "slug": "prachtige-dronebeelden-tonen-zee-van-vuurwerk-boven-den-haag",
+    "type": "video",
+    "title": "Prachtige dronebeelden tonen zee van vuurwerk boven Den Haag",
+    "subtitle": "Video",
+    "published_at": "2023-01-01T08:21:49+01:00",
+    "updated_at": "2023-01-01T08:21:51+01:00",
+    "media_id": "423x2sjam6s3",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6245241/prachtige-dronebeelden-tonen-zee-van-vuurwerk-boven-den-haag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6244939,
     "slug": "stelling-2023-wordt-een-beter-jaar-dan-2022",
     "type": "article",
@@ -259,7 +282,7 @@
     "title": "Afsteekverbod massaal genegeerd, tientallen arrestaties en vuurwerkslachtoffers",
     "subtitle": null,
     "published_at": "2023-01-01T05:22:54+01:00",
-    "updated_at": "2023-01-01T08:07:34+01:00",
+    "updated_at": "2023-01-01T08:16:29+01:00",
     "media_id": "dn2x5v0a7d51",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/jaarwisseling/6245213/na-twee-jaar-landelijk-vuurwerkverbod-knalt-nederland-ouderwets-2023-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245218,
-    "slug": "toch-veel-vuurwerk-in-centrum-amsterdam-ondanks-verbod",
-    "type": "video",
-    "title": "Toch veel vuurwerk in centrum Amsterdam ondanks verbod",
-    "subtitle": "Video",
-    "published_at": "2022-12-31T23:44:51+01:00",
-    "updated_at": "2023-01-01T00:44:31+01:00",
-    "media_id": "tz6x69tan12n",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6245218/toch-veel-vuurwerk-in-centrum-amsterdam-ondanks-verbod.html",
     "open_new_window": false,
     "partner": null
   }
