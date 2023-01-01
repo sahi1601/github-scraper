@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245292,
+    "slug": "teun-van-de-keuken-stopt-na-20-jaar-met-presentatie-keuringsdienst-van-waarde",
+    "type": "article",
+    "title": "Teun van de Keuken stopt na 20 jaar met presentatie Keuringsdienst van Waarde",
+    "subtitle": null,
+    "published_at": "2023-01-01T19:47:28+01:00",
+    "updated_at": "2023-01-01T19:49:50+01:00",
+    "media_id": "locx9k3accfv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6245292/teun-van-de-keuken-stopt-na-20-jaar-met-presentatie-keuringsdienst-van-waarde.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245291,
     "slug": "lula-da-silva-officieel-beedigd-als-president-brazilie-vervangt-bolsonaro",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6245271/we-kochten-in-2022-minder-nieuwe-autos-dan-het-jaar-ervoor.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245269,
-    "slug": "van-empel-wint-bij-debuut-voor-jumbo-visma-iserbyt-profiteert-van-val-pidcock",
-    "type": "article",
-    "title": "Van Empel wint bij debuut voor Jumbo-Visma, Iserbyt profiteert van val Pidcock",
-    "subtitle": null,
-    "published_at": "2023-01-01T14:38:44+01:00",
-    "updated_at": "2023-01-01T19:26:44+01:00",
-    "media_id": "alvxz40aj8vn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6245269/van-empel-wint-bij-debuut-voor-jumbo-visma-iserbyt-profiteert-van-val-pidcock.html",
     "open_new_window": false,
     "partner": null
   }
