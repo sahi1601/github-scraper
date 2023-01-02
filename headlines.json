@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245397,
+    "slug": "afgelopen-jaar-minder-meldingen-van-bedreiging-en-geweld-tegen-journalisten",
+    "type": "article",
+    "title": "Afgelopen jaar minder meldingen van bedreiging en geweld tegen journalisten",
+    "subtitle": null,
+    "published_at": "2023-01-02T17:46:36+01:00",
+    "updated_at": "2023-01-02T17:46:37+01:00",
+    "media_id": "dj1xjjca7mzs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6245397/afgelopen-jaar-minder-meldingen-van-bedreiging-en-geweld-tegen-journalisten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245398,
     "slug": "grote-magneet-haalt-spijkers-uit-haags-strand-na-vreugdevuur",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Aanslagen tijdens jaarwisseling gevolgd door dodelijkste aanval op Russen",
     "subtitle": "Overzicht",
     "published_at": "2023-01-02T17:24:06+01:00",
-    "updated_at": "2023-01-02T17:29:50+01:00",
+    "updated_at": "2023-01-02T17:39:15+01:00",
     "media_id": "tfax9pxaijh3",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Trucker Van Kasteren raakt etappezege in Dakar Rally kwijt door tijdstraf",
     "subtitle": null,
     "published_at": "2023-01-02T14:50:33+01:00",
-    "updated_at": "2023-01-02T17:29:27+01:00",
+    "updated_at": "2023-01-02T17:42:42+01:00",
     "media_id": "rgzxqhtao3a3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6245378/fc-volendam-huurt-franse-middenvelder-van-olympique-lyonnais.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245360,
-    "slug": "dit-vinden-jullie-van-de-kritiek-van-de-ombudsman-op-de-overheid",
-    "type": "article",
-    "title": "Dit vinden jullie van de kritiek van de ombudsman op de overheid",
-    "subtitle": null,
-    "published_at": "2023-01-02T13:41:18+01:00",
-    "updated_at": "2023-01-02T13:52:28+01:00",
-    "media_id": "6gzxivoagdsj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6245360/dit-vinden-jullie-van-de-kritiek-van-de-ombudsman-op-de-overheid.html",
     "open_new_window": false,
     "partner": null
   }
