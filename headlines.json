@@ -1,5 +1,51 @@
 [
   {
+    "id": 6245398,
+    "slug": "grote-magneet-haalt-spijkers-uit-haags-strand-na-vreugdevuur",
+    "type": "video",
+    "title": "Grote magneet haalt spijkers uit Haags strand na vreugdevuur",
+    "subtitle": "Video",
+    "published_at": "2023-01-02T17:25:26+01:00",
+    "updated_at": "2023-01-02T17:31:17+01:00",
+    "media_id": "1ccxhdfax9tp",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6245398/grote-magneet-haalt-spijkers-uit-haags-strand-na-vreugdevuur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6245387,
+    "slug": "aanslagen-tijdens-jaarwisseling-gevolgd-door-dodelijkste-aanval-op-russen",
+    "type": "article",
+    "title": "Aanslagen tijdens jaarwisseling gevolgd door dodelijkste aanval op Russen",
+    "subtitle": "Overzicht",
+    "published_at": "2023-01-02T17:24:06+01:00",
+    "updated_at": "2023-01-02T17:29:50+01:00",
+    "media_id": "tfax9pxaijh3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6245387/aanslagen-tijdens-jaarwisseling-gevolgd-door-dodelijkste-aanval-op-russen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245364,
     "slug": "loterij-niet-gewonnen-zo-rijd-je-toch-in-een-aston-martin-of-porsche",
     "type": "article",
@@ -213,7 +259,7 @@
     "title": "Brazilianen nemen tijdens emotionele wake afscheid van Pelé",
     "subtitle": "In beeld",
     "published_at": "2023-01-02T15:23:04+01:00",
-    "updated_at": "2023-01-02T15:29:30+01:00",
+    "updated_at": "2023-01-02T17:29:46+01:00",
     "media_id": "75jx3pcal9wh",
     "duration": null,
     "canonical_section": {
@@ -277,12 +323,12 @@
   },
   {
     "id": 6245384,
-    "slug": "trucker-van-kasteren-pakt-dagzege-in-dakar-rally-autocoureur-van-loon-tweede",
+    "slug": "trucker-van-kasteren-raakt-etappezege-in-dakar-rally-kwijt-door-tijdstraf",
     "type": "article",
-    "title": "Trucker Van Kasteren pakt dagzege in Dakar Rally, autocoureur Van Loon tweede",
+    "title": "Trucker Van Kasteren raakt etappezege in Dakar Rally kwijt door tijdstraf",
     "subtitle": null,
     "published_at": "2023-01-02T14:50:33+01:00",
-    "updated_at": "2023-01-02T17:08:35+01:00",
+    "updated_at": "2023-01-02T17:29:27+01:00",
     "media_id": "rgzxqhtao3a3",
     "duration": null,
     "canonical_section": {
@@ -294,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6245384/trucker-van-kasteren-pakt-dagzege-in-dakar-rally-autocoureur-van-loon-tweede.html",
+    "url": "/sport-overig/6245384/trucker-van-kasteren-raakt-etappezege-in-dakar-rally-kwijt-door-tijdstraf.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6245360/dit-vinden-jullie-van-de-kritiek-van-de-ombudsman-op-de-overheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245374,
-    "slug": "gemeenten-houden-vast-aan-vuurwerkverbod-ook-al-werd-dat-genegeerd",
-    "type": "article",
-    "title": "Gemeenten houden vast aan vuurwerkverbod, ook al werd dat genegeerd",
-    "subtitle": null,
-    "published_at": "2023-01-02T13:19:57+01:00",
-    "updated_at": "2023-01-02T16:28:14+01:00",
-    "media_id": "jrsxut9awsdy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772236,
-      "slug": "jaarwisseling",
-      "type": "files",
-      "name": "Jaarwisseling",
-      "style": "nu",
-      "media_id": "m1oxc1gaswou",
-      "partner": null
-    },
-    "url": "/jaarwisseling/6245374/gemeenten-houden-vast-aan-vuurwerkverbod-ook-al-werd-dat-genegeerd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245376,
-    "slug": "koudegolf-teistert-het-noorden-van-india",
-    "type": "video",
-    "title": "Koudegolf teistert het noorden van India",
-    "subtitle": "Video",
-    "published_at": "2023-01-02T13:19:41+01:00",
-    "updated_at": "2023-01-02T13:19:42+01:00",
-    "media_id": "uzgxgdta492x",
-    "duration": "0:35",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6245376/koudegolf-teistert-het-noorden-van-india.html",
     "open_new_window": false,
     "partner": null
   }
