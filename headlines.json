@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245329,
+    "slug": "schoten-te-horen-tijdens-dodelijke-aanval-op-mexicaanse-gevangenis",
+    "type": "video",
+    "title": "Schoten te horen tijdens dodelijke aanval op Mexicaanse gevangenis",
+    "subtitle": "Video",
+    "published_at": "2023-01-02T08:19:10+01:00",
+    "updated_at": "2023-01-02T08:19:11+01:00",
+    "media_id": "s4zx704ak2o6",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6245329/schoten-te-horen-tijdens-dodelijke-aanval-op-mexicaanse-gevangenis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245328,
     "slug": "price-zet-koptelefoon-op-bij-wk-darts-wegens-boegeroep",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6245313/warmterecord-gemeten-bij-zwitserse-alpen-16-graden-boven-gemiddelde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245312,
-    "slug": "ongenaakbare-van-gerwen-weet-zeker-dat-koptelefoon-in-darts-snel-verboden-is",
-    "type": "article",
-    "title": "Ongenaakbare Van Gerwen weet zeker dat koptelefoon in darts snel verboden is",
-    "subtitle": null,
-    "published_at": "2023-01-02T00:26:57+01:00",
-    "updated_at": "2023-01-02T06:11:50+01:00",
-    "media_id": "5cfxflgasvue",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6245312/ongenaakbare-van-gerwen-weet-zeker-dat-koptelefoon-in-darts-snel-verboden-is.html",
     "open_new_window": false,
     "partner": null
   }
