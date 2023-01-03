@@ -1,12 +1,35 @@
 [
   {
+    "id": 6245548,
+    "slug": "lid-britse-koninklijke-garde-onder-vuur-vanwege-spotfilmpje-tijdens-dienst",
+    "type": "article",
+    "title": "Lid Britse koninklijke garde onder vuur vanwege spotfilmpje tijdens dienst",
+    "subtitle": null,
+    "published_at": "2023-01-03T19:34:47+01:00",
+    "updated_at": "2023-01-03T19:43:49+01:00",
+    "media_id": "ofrxm7ratmw6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6245548/lid-britse-koninklijke-garde-onder-vuur-vanwege-spotfilmpje-tijdens-dienst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245550,
     "slug": "op-zijspoor-gezette-clubicoon-vormer-verruilt-club-brugge-voor-zulte-waregem",
     "type": "article",
     "title": "Op zijspoor gezette clubicoon Vormer verruilt Club Brugge voor Zulte Waregem",
     "subtitle": null,
     "published_at": "2023-01-03T19:26:01+01:00",
-    "updated_at": "2023-01-03T19:26:03+01:00",
+    "updated_at": "2023-01-03T19:45:24+01:00",
     "media_id": "n0gx62razhb4",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6245522/drietal-opgepakt-op-verdenking-van-oplichten-bejaarde-middels-bankpasfraude.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245523,
-    "slug": "verdachte-dodelijke-steekpartij-bladel-droeg-net-als-slachtoffer-enkelband",
-    "type": "article",
-    "title": "Verdachte dodelijke steekpartij Bladel droeg net als slachtoffer enkelband",
-    "subtitle": null,
-    "published_at": "2023-01-03T15:32:57+01:00",
-    "updated_at": "2023-01-03T15:32:58+01:00",
-    "media_id": "q32xpv8ad3f4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6245523/verdachte-dodelijke-steekpartij-bladel-droeg-net-als-slachtoffer-enkelband.html",
     "open_new_window": false,
     "partner": null
   }
