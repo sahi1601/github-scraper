@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245562,
+    "slug": "voor-het-eerst-in-45-jaar-geen-neushoorns-gestroopt-in-indiase-deelstaat-assam",
+    "type": "article",
+    "title": "Voor het eerst in 45 jaar geen neushoorns gestroopt in Indiase deelstaat Assam",
+    "subtitle": null,
+    "published_at": "2023-01-03T22:33:49+01:00",
+    "updated_at": "2023-01-03T22:40:56+01:00",
+    "media_id": "7y1xaumasxqd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6245562/voor-het-eerst-in-45-jaar-geen-neushoorns-gestroopt-in-indiase-deelstaat-assam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245560,
     "slug": "ftx-oprichter-en-cryptokoning-zegt-onschuldig-te-zijn-aan-fraude",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6245556,
-    "slug": "van-gerwen-weer-op-voorsprong-na-negendarter-smith",
+    "slug": "van-gerwen-en-smith-op-gelijke-hoogte-in-sensationele-finale",
     "type": "article",
-    "title": "Van Gerwen weer op voorsprong na negendarter Smith",
+    "title": "Van Gerwen en Smith op gelijke hoogte in sensationele finale",
     "subtitle": "Liveblog WK darts",
     "published_at": "2023-01-03T20:33:05+01:00",
-    "updated_at": "2023-01-03T22:22:25+01:00",
+    "updated_at": "2023-01-03T22:34:16+01:00",
     "media_id": "hxtx3b5ah5nb",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/darts/6245556/van-gerwen-weer-op-voorsprong-na-negendarter-smith.html",
+    "url": "/darts/6245556/van-gerwen-en-smith-op-gelijke-hoogte-in-sensationele-finale.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6245542/pascal-jansen-nog-twee-jaar-langer-trainer-van-az-ik-voel-me-zeer-gewaardeerd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245539,
-    "slug": "pele-wordt-met-brandweerwagen-naar-laatste-rustplaats-gebracht",
-    "type": "article",
-    "title": "Pelé wordt met brandweerwagen naar laatste rustplaats gebracht",
-    "subtitle": "In beeld",
-    "published_at": "2023-01-03T17:29:02+01:00",
-    "updated_at": "2023-01-03T20:04:49+01:00",
-    "media_id": "gq9x0v4abh7w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6245539/pele-wordt-met-brandweerwagen-naar-laatste-rustplaats-gebracht.html",
     "open_new_window": false,
     "partner": null
   }
