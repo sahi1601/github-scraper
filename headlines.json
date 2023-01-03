@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245518,
+    "slug": "inflatie-in-duitsland-daalt-na-energiemaatregelen",
+    "type": "article",
+    "title": "Inflatie in Duitsland daalt na energiemaatregelen",
+    "subtitle": null,
+    "published_at": "2023-01-03T15:14:58+01:00",
+    "updated_at": "2023-01-03T15:17:26+01:00",
+    "media_id": "fvjx3hpa9me6",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6245518/inflatie-in-duitsland-daalt-na-energiemaatregelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245516,
     "slug": "overvallers-van-eo-cameraploeg-hoeven-niet-terug-de-cel-in",
     "type": "article",
@@ -351,7 +374,7 @@
     "title": "Extreemrechts White Lives Matter claimt racistische teksten op Erasmusbrug",
     "subtitle": null,
     "published_at": "2023-01-03T12:13:02+01:00",
-    "updated_at": "2023-01-03T14:54:33+01:00",
+    "updated_at": "2023-01-03T15:15:18+01:00",
     "media_id": "6g7xp4bay0sn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6245482/geen-slachtoffers-en-weinig-nieuwkomers-op-dynamische-energiemarkt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245372,
-    "slug": "hoe-influencer-andrew-tate-de-kuil-voor-zijn-eigen-ondergang-groef",
-    "type": "article",
-    "title": "Hoe influencer Andrew Tate de kuil voor zijn eigen ondergang groef",
-    "subtitle": "NU+",
-    "published_at": "2023-01-03T11:28:50+01:00",
-    "updated_at": "2023-01-03T12:45:43+01:00",
-    "media_id": "e84x38bas7da",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6245372/hoe-influencer-andrew-tate-de-kuil-voor-zijn-eigen-ondergang-groef.html",
     "open_new_window": false,
     "partner": null
   }
