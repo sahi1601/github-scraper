@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245864,
+    "slug": "nederlander-overleden-na-sprong-met-wingsuit-in-zwitserland",
+    "type": "article",
+    "title": "Nederlander overleden na sprong met wingsuit in Zwitserland",
+    "subtitle": null,
+    "published_at": "2023-01-06T06:19:12+01:00",
+    "updated_at": "2023-01-06T06:19:14+01:00",
+    "media_id": "8zuxu10a8wnu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6245864/nederlander-overleden-na-sprong-met-wingsuit-in-zwitserland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245749,
     "slug": "meer-dan-alleen-je-kerstboom-wegdoen-hier-draait-driekoningen-eigenlijk-om",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6245792/blind-rondt-transfer-naar-bayern-af-en-tekent-contract-tot-einde-van-het-seizoen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245847,
-    "slug": "zwaarste-vliegende-vogel-in-europa-keert-terug-naar-vk-groot-succes",
-    "type": "video",
-    "title": "Zwaarste vliegende vogel in Europa keert terug naar VK: 'Groot succes'",
-    "subtitle": "Video",
-    "published_at": "2023-01-05T21:01:30+01:00",
-    "updated_at": "2023-01-05T21:01:31+01:00",
-    "media_id": "a2zxpjxasqub",
-    "duration": "1:00",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6245847/zwaarste-vliegende-vogel-in-europa-keert-terug-naar-vk-groot-succes.html",
     "open_new_window": false,
     "partner": null
   }
