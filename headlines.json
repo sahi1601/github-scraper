@@ -1,5 +1,28 @@
 [
   {
+    "id": 6245863,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-01-06T05:32:55+01:00",
+    "updated_at": "2023-01-06T05:32:56+01:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6245863/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245853,
     "slug": "verbij-wil-bij-ek-afrekenen-met-15-jaar-pech-ben-wel-genoeg-ziek-geweest",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6245846/movistar-renner-sosa-met-revolver-in-gezicht-geslagen-tijdens-training-in-colombia.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245818,
-    "slug": "oekraine-verwerpt-russisch-voorstel-wapenstilstand-pure-propaganda",
-    "type": "article",
-    "title": "Oekraïne verwerpt Russisch voorstel wapenstilstand: 'Pure propaganda'",
-    "subtitle": "Overzicht",
-    "published_at": "2023-01-05T20:56:26+01:00",
-    "updated_at": "2023-01-05T23:57:50+01:00",
-    "media_id": "zxcxonla5msr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6245818/oekraine-verwerpt-russisch-voorstel-wapenstilstand-pure-propaganda.html",
     "open_new_window": false,
     "partner": null
   }
