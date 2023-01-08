@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246136,
+    "slug": "drukte-voor-eerste-trein-naar-vasteland-china-sinds-lockdowns",
+    "type": "video",
+    "title": "Drukte voor eerste trein naar vasteland China sinds lockdowns",
+    "subtitle": "Video",
+    "published_at": "2023-01-08T11:18:56+01:00",
+    "updated_at": "2023-01-08T11:18:58+01:00",
+    "media_id": "sivxlrrapshi",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6246136/drukte-voor-eerste-trein-naar-vasteland-china-sinds-lockdowns.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246128,
     "slug": "feyenoord-begint-met-rasmussen-en-danilo-aan-uitwedstrijd-tegen-fc-utrecht",
     "type": "article",
@@ -259,7 +282,7 @@
     "title": "Otterspeer kapot na mislukt EK: 'Heb goud door mijn vingers laten glippen'",
     "subtitle": null,
     "published_at": "2023-01-08T08:08:12+01:00",
-    "updated_at": "2023-01-08T08:08:13+01:00",
+    "updated_at": "2023-01-08T11:25:48+01:00",
     "media_id": "l3qxtsyagic5",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Duitse politie verijdelt mogelijk chemische bomaanslag",
     "subtitle": null,
     "published_at": "2023-01-08T06:33:23+01:00",
-    "updated_at": "2023-01-08T08:08:43+01:00",
+    "updated_at": "2023-01-08T11:24:19+01:00",
     "media_id": "pizxix9a4mx8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6245887/wat-je-niet-moet-doen-als-je-de-tv-schoonmaakt-en-wat-wel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6245621,
-    "slug": "ajax-coach-schreuder-gaat-zijn-eigen-gang-hoe-groot-de-afkeer-ook-is",
-    "type": "article",
-    "title": "Ajax-coach Schreuder gaat zijn eigen gang, hoe groot de afkeer ook is",
-    "subtitle": "NU+",
-    "published_at": "2023-01-08T05:34:28+01:00",
-    "updated_at": "2023-01-08T09:21:23+01:00",
-    "media_id": "5w0xqj4aubku",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779108,
-      "slug": "nu-voetbal",
-      "type": "default",
-      "name": "NU+ Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nu-voetbal/6245621/ajax-coach-schreuder-gaat-zijn-eigen-gang-hoe-groot-de-afkeer-ook-is.html",
     "open_new_window": false,
     "partner": null
   }
