@@ -1,12 +1,58 @@
 [
   {
+    "id": 6246175,
+    "slug": "van-der-poel-gefrustreerd-door-rugklachten-heel-moeilijk-om-me-te-focussen",
+    "type": "article",
+    "title": "Van der Poel gefrustreerd door rugklachten: 'Heel moeilijk om me te focussen'",
+    "subtitle": null,
+    "published_at": "2023-01-08T17:26:16+01:00",
+    "updated_at": "2023-01-08T17:26:17+01:00",
+    "media_id": "gzgxr3gak9gt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6246175/van-der-poel-gefrustreerd-door-rugklachten-heel-moeilijk-om-me-te-focussen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246174,
+    "slug": "gestreepte-dolfijn-gespot-bij-hoek-van-holland",
+    "type": "video",
+    "title": "Gestreepte dolfijn gespot bij Hoek van Holland",
+    "subtitle": "Video",
+    "published_at": "2023-01-08T17:23:20+01:00",
+    "updated_at": "2023-01-08T17:24:07+01:00",
+    "media_id": "47ax4okangv7",
+    "duration": "0:24",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6246174/gestreepte-dolfijn-gespot-bij-hoek-van-holland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246173,
     "slug": "roest-prolongeert-europese-titel-na-onverwacht-spannende-strijd-met-noor-eitrem",
     "type": "article",
     "title": "Roest prolongeert Europese titel na onverwacht spannende strijd met Noor Eitrem",
     "subtitle": null,
     "published_at": "2023-01-08T17:10:57+01:00",
-    "updated_at": "2023-01-08T17:15:51+01:00",
+    "updated_at": "2023-01-08T17:29:12+01:00",
     "media_id": "fdix2mxadk69",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Schreuder houdt ook na nieuwe misstap Ajax moed: 'De resultaten komen vanzelf'",
     "subtitle": null,
     "published_at": "2023-01-08T17:04:39+01:00",
-    "updated_at": "2023-01-08T17:04:41+01:00",
+    "updated_at": "2023-01-08T17:32:56+01:00",
     "media_id": "n8vxul8aeswr",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Nederlandse schatten bestaan echt, maar zijn een speld in verboden hooiberg",
     "subtitle": null,
     "published_at": "2023-01-08T16:56:05+01:00",
-    "updated_at": "2023-01-08T17:15:43+01:00",
+    "updated_at": "2023-01-08T17:23:56+01:00",
     "media_id": "b3kxoa9all38",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Van Aert declasseert Van der Poel in Zonhoven, overtuigende zege Van Anrooij",
     "subtitle": null,
     "published_at": "2023-01-08T14:47:29+01:00",
-    "updated_at": "2023-01-08T17:01:28+01:00",
+    "updated_at": "2023-01-08T17:30:28+01:00",
     "media_id": "pzvx7u7aj7ih",
     "duration": null,
     "canonical_section": {
@@ -397,7 +443,7 @@
     "title": "Zorgen over gestreepte dolfijn bij Hoek van Holland, dier mogelijk in nood",
     "subtitle": null,
     "published_at": "2023-01-08T14:08:44+01:00",
-    "updated_at": "2023-01-08T14:27:18+01:00",
+    "updated_at": "2023-01-08T17:23:38+01:00",
     "media_id": "02qxnaga37pf",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6246153/zorgen-over-gestreepte-dolfijn-bij-hoek-van-holland-dier-mogelijk-in-nood.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246150,
-    "slug": "reacties-na-vier-nederlandse-titels-in-vol-schaatsweekend",
-    "type": "article",
-    "title": "Reacties na vier Nederlandse titels in vol schaatsweekend",
-    "subtitle": "Liveblog EK allround",
-    "published_at": "2023-01-08T13:34:44+01:00",
-    "updated_at": "2023-01-08T17:12:30+01:00",
-    "media_id": "cibx1c4amogq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6246150/reacties-na-vier-nederlandse-titels-in-vol-schaatsweekend.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246143,
-    "slug": "dit-vinden-jullie-van-testen-op-autisme-we-moeten-veel-strijden-tegen-onbegrip",
-    "type": "article",
-    "title": "Dit vinden jullie van testen op autisme: 'We moeten veel strijden tegen onbegrip'",
-    "subtitle": null,
-    "published_at": "2023-01-08T13:27:48+01:00",
-    "updated_at": "2023-01-08T13:27:49+01:00",
-    "media_id": "qkqxun7aokbb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6246143/dit-vinden-jullie-van-testen-op-autisme-we-moeten-veel-strijden-tegen-onbegrip.html",
     "open_new_window": false,
     "partner": null
   }
