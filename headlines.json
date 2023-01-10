@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246330,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-01-10T05:35:39+01:00",
+    "updated_at": "2023-01-10T05:35:41+01:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6246330/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246259,
     "slug": "waar-is-britney-spears-fans-maken-zich-opnieuw-zorgen",
     "type": "article",
@@ -50,9 +73,9 @@
     "slug": "twee-derde-minder-sneeuw-in-de-alpen-valt-de-rijn-straks-droog",
     "type": "article",
     "title": "Twee derde minder sneeuw in de Alpen: valt de Rijn straks droog?",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-01-10T05:27:46+01:00",
-    "updated_at": "2023-01-10T05:27:47+01:00",
+    "updated_at": "2023-01-10T05:37:30+01:00",
     "media_id": "pzmxg9iabses",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6246317/elfjarig-kind-komt-om-nadat-woning-is-beschoten-in-antwerpen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246316,
-    "slug": "duizenden-spreeuwen-geven-show-weg-boven-overijssels-dorp",
-    "type": "video",
-    "title": "Duizenden spreeuwen geven show weg boven Overijssels dorp",
-    "subtitle": "Video",
-    "published_at": "2023-01-09T21:31:38+01:00",
-    "updated_at": "2023-01-09T21:31:40+01:00",
-    "media_id": "nqixctqaglze",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6246316/duizenden-spreeuwen-geven-show-weg-boven-overijssels-dorp.html",
     "open_new_window": false,
     "partner": null
   }
