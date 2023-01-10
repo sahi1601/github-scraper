@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246348,
+    "slug": "overstaprecord-zorgverzekering-massaal-ingeruild-vanwege-wegvallende-korting",
+    "type": "article",
+    "title": "Overstaprecord: zorgverzekering massaal ingeruild vanwege wegvallende korting",
+    "subtitle": null,
+    "published_at": "2023-01-10T09:23:31+01:00",
+    "updated_at": "2023-01-10T09:23:32+01:00",
+    "media_id": "97jxnufaam41",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6246348/overstaprecord-zorgverzekering-massaal-ingeruild-vanwege-wegvallende-korting.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246343,
     "slug": "lekker-snel-of-een-praatje-praat-mee-over-zelfscankassas",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6246272/deze-mensen-kiezen-voor-de-nachtdienst-ik-vind-de-nacht-magisch.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246329,
-    "slug": "eerste-raketlancering-vanuit-west-europa-mislukt",
-    "type": "article",
-    "title": "Eerste raketlancering vanuit West-Europa mislukt",
-    "subtitle": null,
-    "published_at": "2023-01-10T05:25:25+01:00",
-    "updated_at": "2023-01-10T08:55:19+01:00",
-    "media_id": "x48xu8na0e29",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6246329/eerste-raketlancering-vanuit-west-europa-mislukt.html",
     "open_new_window": false,
     "partner": null
   }
