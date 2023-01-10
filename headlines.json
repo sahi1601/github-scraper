@@ -1,5 +1,51 @@
 [
   {
+    "id": 6246407,
+    "slug": "politie-breekt-door-barricades-bij-bruinkooldorp-lutzerath",
+    "type": "video",
+    "title": "Politie breekt door barricades bij 'bruinkooldorp' Lützerath",
+    "subtitle": "Video",
+    "published_at": "2023-01-10T15:28:11+01:00",
+    "updated_at": "2023-01-10T15:28:12+01:00",
+    "media_id": "6rxxcarantav",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6246407/politie-breekt-door-barricades-bij-bruinkooldorp-lutzerath.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246406,
+    "slug": "zeekoeien-in-burgers-zoo-zwemmen-rond-met-camera",
+    "type": "video",
+    "title": "Zeekoeien in Burgers' Zoo zwemmen rond met camera",
+    "subtitle": "Video",
+    "published_at": "2023-01-10T15:25:00+01:00",
+    "updated_at": "2023-01-10T15:25:01+01:00",
+    "media_id": "eeyxfhgag2j6",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6246406/zeekoeien-in-burgers-zoo-zwemmen-rond-met-camera.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246403,
     "slug": "coinbase-is-het-volgende-cryptoplatform-dat-veel-banen-schrapt",
     "type": "article",
@@ -121,7 +167,7 @@
     "title": "Politie haalt barricades weg bij Duits 'bruinkooldorp' dat al twee jaar wordt bezet",
     "subtitle": null,
     "published_at": "2023-01-10T13:29:01+01:00",
-    "updated_at": "2023-01-10T13:29:02+01:00",
+    "updated_at": "2023-01-10T15:28:35+01:00",
     "media_id": "8jcxqp1abuak",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Dorp bij Oekraïense stad Bakhmut grotendeels veroverd door Russen",
     "subtitle": null,
     "published_at": "2023-01-10T13:11:22+01:00",
-    "updated_at": "2023-01-10T15:05:24+01:00",
+    "updated_at": "2023-01-10T15:08:45+01:00",
     "media_id": "94xxnhha6rgp",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6246377/ellen-degeneres-laat-modderstroom-zien-naast-huis-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246371,
-    "slug": "minder-cocaine-gevonden-in-rotterdamse-haven-recordhoeveelheid-in-antwerpen",
-    "type": "article",
-    "title": "Minder cocaïne gevonden in Rotterdamse haven, recordhoeveelheid in Antwerpen",
-    "subtitle": null,
-    "published_at": "2023-01-10T11:44:23+01:00",
-    "updated_at": "2023-01-10T11:59:43+01:00",
-    "media_id": "uyjx6czagzs8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6246371/minder-cocaine-gevonden-in-rotterdamse-haven-recordhoeveelheid-in-antwerpen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246366,
-    "slug": "om-limburg-start-strafrechtelijk-onderzoek-naar-projectie-racistische-leuzen-venlo",
-    "type": "article",
-    "title": "OM Limburg start strafrechtelijk onderzoek naar projectie racistische leuzen Venlo",
-    "subtitle": null,
-    "published_at": "2023-01-10T11:08:40+01:00",
-    "updated_at": "2023-01-10T11:24:20+01:00",
-    "media_id": "njlxuk5aflg6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6246366/om-limburg-start-strafrechtelijk-onderzoek-naar-projectie-racistische-leuzen-venlo.html",
     "open_new_window": false,
     "partner": null
   }
