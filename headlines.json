@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246474,
+    "slug": "haase-kan-niet-nogmaals-stunten-in-adelaide-en-verliest-van-bautista-agut",
+    "type": "article",
+    "title": "Haase kan niet nogmaals stunten in Adelaide en verliest van Bautista Agut",
+    "subtitle": null,
+    "published_at": "2023-01-11T08:16:10+01:00",
+    "updated_at": "2023-01-11T08:16:11+01:00",
+    "media_id": "tjnxur4astys",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6246474/haase-kan-niet-nogmaals-stunten-in-adelaide-en-verliest-van-bautista-agut.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246473,
     "slug": "al-nassr-ontkent-dat-ronaldo-wordt-ingezet-om-wk-naar-saoedi-arabie-te-halen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6246457/psv-wint-nu-wel-van-sparta-en-bereikt-achtste-finales-bekertoernooi.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246456,
-    "slug": "laatste-griekse-koning-constantijn-ii-overleden-op-82-jarige-leeftijd",
-    "type": "article",
-    "title": "Laatste Griekse koning Constantijn II overleden op 82-jarige leeftijd",
-    "subtitle": null,
-    "published_at": "2023-01-10T22:28:29+01:00",
-    "updated_at": "2023-01-10T23:03:04+01:00",
-    "media_id": "blwxofba88mb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6246456/laatste-griekse-koning-constantijn-ii-overleden-op-82-jarige-leeftijd.html",
     "open_new_window": false,
     "partner": null
   }
