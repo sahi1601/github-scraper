@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246476,
+    "slug": "van-de-zandschulp-valt-net-buiten-plaatsingslijst-op-australian-open",
+    "type": "article",
+    "title": "Van de Zandschulp valt net buiten plaatsingslijst op Australian Open",
+    "subtitle": null,
+    "published_at": "2023-01-11T08:34:24+01:00",
+    "updated_at": "2023-01-11T08:37:57+01:00",
+    "media_id": "5raxscaaxrw3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6246476/van-de-zandschulp-valt-net-buiten-plaatsingslijst-op-australian-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246474,
     "slug": "haase-kan-niet-nogmaals-stunten-in-adelaide-en-verliest-van-bautista-agut",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6246458/antony-scoort-bij-ruime-zege-manchester-united-in-kwartfinales-league-cup.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246457,
-    "slug": "psv-wint-nu-wel-van-sparta-en-bereikt-achtste-finales-bekertoernooi",
-    "type": "article",
-    "title": "PSV wint nu wél van Sparta en bereikt achtste finales bekertoernooi",
-    "subtitle": null,
-    "published_at": "2023-01-10T22:55:02+01:00",
-    "updated_at": "2023-01-11T00:53:50+01:00",
-    "media_id": "6ywxm58af0mi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6246457/psv-wint-nu-wel-van-sparta-en-bereikt-achtste-finales-bekertoernooi.html",
     "open_new_window": false,
     "partner": null
   }
