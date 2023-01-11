@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246496,
+    "slug": "politie-start-met-hardhandig-verwijderen-van-activisten-in-duits-bruinkooldorp",
+    "type": "article",
+    "title": "Politie start met hardhandig verwijderen van activisten in Duits 'bruinkooldorp'",
+    "subtitle": null,
+    "published_at": "2023-01-11T10:17:38+01:00",
+    "updated_at": "2023-01-11T10:17:40+01:00",
+    "media_id": "r1fxbqqa4rgy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6246496/politie-start-met-hardhandig-verwijderen-van-activisten-in-duits-bruinkooldorp.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246495,
     "slug": "politie-rukt-uit-na-steekpartij-op-treinstation-parijs",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Twee mannen opgepakt voor aanslag twee jaar geleden op huis agent in Best",
     "subtitle": null,
     "published_at": "2023-01-11T09:43:57+01:00",
-    "updated_at": "2023-01-11T09:43:59+01:00",
+    "updated_at": "2023-01-11T10:25:25+01:00",
     "media_id": "rftxxvuanih9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6246465/monica-geuze-voelt-zich-bevrijd-na-stoppen-met-vloggen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246464,
-    "slug": "weerbericht-stevige-buien-met-onweer-en-windstoten-na-overwegend-droge-dag",
-    "type": "article",
-    "title": "Weerbericht: Stevige buien met onweer en windstoten na overwegend droge dag",
-    "subtitle": null,
-    "published_at": "2023-01-11T06:11:59+01:00",
-    "updated_at": "2023-01-11T06:21:01+01:00",
-    "media_id": "v4sxry4ap1ok",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6246464/weerbericht-stevige-buien-met-onweer-en-windstoten-na-overwegend-droge-dag.html",
     "open_new_window": false,
     "partner": null
   }
