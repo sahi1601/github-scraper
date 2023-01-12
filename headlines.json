@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246756,
+    "slug": "exxonmobil-weet-al-decennialang-dat-de-aarde-opwarmt-door-olie-industrie",
+    "type": "article",
+    "title": "ExxonMobil weet al decennialang dat de aarde opwarmt door olie-industrie",
+    "subtitle": null,
+    "published_at": "2023-01-12T21:21:33+01:00",
+    "updated_at": "2023-01-12T21:27:54+01:00",
+    "media_id": "8qcx0zhalnsn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6246756/exxonmobil-weet-al-decennialang-dat-de-aarde-opwarmt-door-olie-industrie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246755,
     "slug": "britse-royals-voor-het-eerst-in-het-openbaar-na-publicatie-harrys-boek",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Van Barneveld met prima gemiddelde naar kwartfinales Bahrain Darts Masters",
     "subtitle": null,
     "published_at": "2023-01-12T20:59:38+01:00",
-    "updated_at": "2023-01-12T20:59:39+01:00",
+    "updated_at": "2023-01-12T21:18:47+01:00",
     "media_id": "vsixzyia1ytx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6246722/brand-in-brussels-kraakpand-met-900-migranten-in-schrijnende-omstandigheden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246729,
-    "slug": "botenstalling-in-haven-van-marbella-gaat-in-vlammen-op",
-    "type": "video",
-    "title": "Botenstalling in haven van Marbella gaat in vlammen op",
-    "subtitle": "Video",
-    "published_at": "2023-01-12T17:23:33+01:00",
-    "updated_at": "2023-01-12T19:57:16+01:00",
-    "media_id": "4pfx7ptap7oy",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6246729/botenstalling-in-haven-van-marbella-gaat-in-vlammen-op.html",
     "open_new_window": false,
     "partner": null
   }
