@@ -1,12 +1,58 @@
 [
   {
+    "id": 6246694,
+    "slug": "trucker-van-den-brink-wint-etappe-in-dakar-rally-en-zit-van-kasteren-op-de-hielen",
+    "type": "article",
+    "title": "Trucker Van den Brink wint etappe in Dakar Rally en zit Van Kasteren op de hielen",
+    "subtitle": null,
+    "published_at": "2023-01-12T13:41:35+01:00",
+    "updated_at": "2023-01-12T13:41:36+01:00",
+    "media_id": "plgxcfma6965",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6246694/trucker-van-den-brink-wint-etappe-in-dakar-rally-en-zit-van-kasteren-op-de-hielen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246693,
+    "slug": "vliegtuig-landt-voor-landingsbaan-op-schiphol-oostbaan-enige-tijd-gesloten",
+    "type": "article",
+    "title": "Vliegtuig landt vóór landingsbaan op Schiphol, Oostbaan enige tijd gesloten",
+    "subtitle": null,
+    "published_at": "2023-01-12T13:35:13+01:00",
+    "updated_at": "2023-01-12T13:41:32+01:00",
+    "media_id": "zanxg9qayz7h",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6246693/vliegtuig-landt-voor-landingsbaan-op-schiphol-oostbaan-enige-tijd-gesloten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246695,
     "slug": "boze-gast-rijdt-auto-hotellobby-in-shanghai-binnen",
     "type": "video",
     "title": "Boze gast rijdt auto hotellobby in Shanghai binnen",
     "subtitle": "Video",
     "published_at": "2023-01-12T13:31:13+01:00",
-    "updated_at": "2023-01-12T13:31:14+01:00",
+    "updated_at": "2023-01-12T13:37:45+01:00",
     "media_id": "t0cxyg1aru0b",
     "duration": "0:51",
     "canonical_section": {
@@ -26,10 +72,10 @@
     "id": 6246689,
     "slug": "arbeidsinspectie-kreeg-toch-meldingen-over-bagageafhandeling-op-schiphol",
     "type": "article",
-    "title": "Arbeidsinspectie kreeg toch meldingen over bagageafhandeling op Schiphol",
+    "title": "Arbeidsinspectie kreeg tóch meldingen over bagageafhandeling op Schiphol",
     "subtitle": null,
     "published_at": "2023-01-12T13:22:55+01:00",
-    "updated_at": "2023-01-12T13:22:57+01:00",
+    "updated_at": "2023-01-12T13:56:44+01:00",
     "media_id": "vtcxh60a38c8",
     "duration": null,
     "canonical_section": {
@@ -47,12 +93,12 @@
   },
   {
     "id": 6246691,
-    "slug": "rode-kaart-voor-cambuur-keeper-in-bekerfiasco-tegen-amateurclub-kwijtgescholden",
+    "slug": "rode-kaart-voor-cambuur-keeper-in-bekerfiasco-tegen-amateurclub-ingetrokken",
     "type": "article",
-    "title": "Rode kaart voor Cambuur-keeper in bekerfiasco tegen amateurclub kwijtgescholden",
+    "title": "Rode kaart voor Cambuur-keeper in bekerfiasco tegen amateurclub ingetrokken",
     "subtitle": null,
     "published_at": "2023-01-12T13:22:08+01:00",
-    "updated_at": "2023-01-12T13:22:10+01:00",
+    "updated_at": "2023-01-12T13:33:22+01:00",
     "media_id": "qkexla5asq0d",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6246691/rode-kaart-voor-cambuur-keeper-in-bekerfiasco-tegen-amateurclub-kwijtgescholden.html",
+    "url": "/voetbal/6246691/rode-kaart-voor-cambuur-keeper-in-bekerfiasco-tegen-amateurclub-ingetrokken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +213,7 @@
     "title": "Geen treinen tussen Utrecht en Den Bosch omdat dieven koper van spoor stelen",
     "subtitle": null,
     "published_at": "2023-01-12T12:48:44+01:00",
-    "updated_at": "2023-01-12T12:55:35+01:00",
+    "updated_at": "2023-01-12T13:34:02+01:00",
     "media_id": "ajgxvh6aayk6",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "James Webb-telescoop ziet eerste planeet die om andere ster dan de zon draait",
     "subtitle": null,
     "published_at": "2023-01-12T11:34:46+01:00",
-    "updated_at": "2023-01-12T11:34:47+01:00",
+    "updated_at": "2023-01-12T13:37:08+01:00",
     "media_id": "htex50uaqf8g",
     "duration": null,
     "canonical_section": {
@@ -397,7 +443,7 @@
     "title": "Weer jongeren opgepakt omdat ze drugs uit Rotterdamse haven kwamen halen",
     "subtitle": null,
     "published_at": "2023-01-12T11:31:53+01:00",
-    "updated_at": "2023-01-12T11:31:54+01:00",
+    "updated_at": "2023-01-12T13:49:04+01:00",
     "media_id": "uyjx6czagzs8",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6246662/weer-jongeren-opgepakt-omdat-ze-drugs-uit-rotterdamse-haven-kwamen-halen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246669,
-    "slug": "californiers-ruimen-stormschade-op-ondanks-dreiging-nieuwe-stormen",
-    "type": "video",
-    "title": "Californiërs ruimen stormschade op ondanks dreiging nieuwe stormen",
-    "subtitle": "Video",
-    "published_at": "2023-01-12T11:26:41+01:00",
-    "updated_at": "2023-01-12T11:34:30+01:00",
-    "media_id": "yvuxgupa35k2",
-    "duration": "1:02",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6246669/californiers-ruimen-stormschade-op-ondanks-dreiging-nieuwe-stormen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246554,
-    "slug": "schulting-weer-topfavoriet-bij-ek-maar-ze-kan-allroundtitel-niet-verdedigen",
-    "type": "article",
-    "title": "Schulting weer topfavoriet bij EK, maar ze kan allroundtitel niet verdedigen",
-    "subtitle": null,
-    "published_at": "2023-01-12T10:28:30+01:00",
-    "updated_at": "2023-01-12T10:39:18+01:00",
-    "media_id": "g94x51fam7xt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6246554/schulting-weer-topfavoriet-bij-ek-maar-ze-kan-allroundtitel-niet-verdedigen.html",
     "open_new_window": false,
     "partner": null
   }
