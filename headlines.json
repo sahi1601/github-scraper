@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246878,
+    "slug": "manchester-city-speler-benjamin-mendy-vrijgesproken-van-verkrachting",
+    "type": "article",
+    "title": "Manchester City-speler Benjamin Mendy vrijgesproken van verkrachting",
+    "subtitle": null,
+    "published_at": "2023-01-13T14:26:35+01:00",
+    "updated_at": "2023-01-13T14:26:36+01:00",
+    "media_id": "3t7x7hrap1b8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6246878/manchester-city-speler-benjamin-mendy-vrijgesproken-van-verkrachting.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246873,
     "slug": "jonge-vrouw-krijgt-geen-straf-voor-dodelijke-steekpartij-op-terras-in-rosmalen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6246825/rutte-redelijk-in-shock-om-vertrek-segers-anker-in-deze-coalitie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246820,
-    "slug": "di-rect-staat-in-december-met-het-residentie-orkest-in-ahoy",
-    "type": "article",
-    "title": "DI-RECT staat in december met het Residentie Orkest in Ahoy",
-    "subtitle": null,
-    "published_at": "2023-01-13T10:36:24+01:00",
-    "updated_at": "2023-01-13T10:36:25+01:00",
-    "media_id": "6f2xb36ay2d9",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6246820/di-rect-staat-in-december-met-het-residentie-orkest-in-ahoy.html",
     "open_new_window": false,
     "partner": null
   }
