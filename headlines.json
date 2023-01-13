@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246934,
+    "slug": "familiebedrijf-trump-krijgt-15-miljoen-euro-boete-voor-belastingfraude",
+    "type": "article",
+    "title": "Familiebedrijf Trump krijgt 1,5 miljoen euro boete voor belastingfraude",
+    "subtitle": null,
+    "published_at": "2023-01-13T19:46:06+01:00",
+    "updated_at": "2023-01-13T19:46:07+01:00",
+    "media_id": "uicx6jaarsxs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6246934/familiebedrijf-trump-krijgt-15-miljoen-euro-boete-voor-belastingfraude.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246933,
     "slug": "gevangen-russische-oppositieleider-navalny-heeft-dringend-medische-hulp-nodig",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6246928,
-    "slug": "handballers-boeken-tegen-argentinie-eerste-zege-ooit-op-wk",
+    "slug": "handballers-boeken-tegen-argentinie-eerste-overwinning-ooit-op-wk",
     "type": "article",
-    "title": "Handballers boeken tegen Argentinië eerste zege ooit op WK",
+    "title": "Handballers boeken tegen Argentinië eerste overwinning ooit op WK",
     "subtitle": null,
     "published_at": "2023-01-13T19:31:14+01:00",
-    "updated_at": "2023-01-13T19:37:43+01:00",
+    "updated_at": "2023-01-13T20:06:37+01:00",
     "media_id": "061xqz9aoi5e",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6246928/handballers-boeken-tegen-argentinie-eerste-zege-ooit-op-wk.html",
+    "url": "/sport-overig/6246928/handballers-boeken-tegen-argentinie-eerste-overwinning-ooit-op-wk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -254,13 +277,13 @@
   },
   {
     "id": 6246921,
-    "slug": "reacties-na-historische-overwinning-oranje-tegen-argentinie",
+    "slug": "reacties-na-historische-zege-oranje-op-argentinie",
     "type": "article",
-    "title": "Reacties na historische overwinning Oranje tegen Argentinië",
+    "title": "Reacties na historische zege Oranje op Argentinië",
     "subtitle": "Liveblog WK handbal",
     "published_at": "2023-01-13T17:37:06+01:00",
-    "updated_at": "2023-01-13T19:32:12+01:00",
-    "media_id": "n7kxscham0cu",
+    "updated_at": "2023-01-13T19:55:22+01:00",
+    "media_id": "we8x3bhax374",
     "duration": null,
     "canonical_section": {
       "id": 149,
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport/6246921/reacties-na-historische-overwinning-oranje-tegen-argentinie.html",
+    "url": "/sport/6246921/reacties-na-historische-zege-oranje-op-argentinie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,8 +328,8 @@
     "title": "Red Bull presenteert nieuwe auto Verstappen op 3 februari in New York",
     "subtitle": null,
     "published_at": "2023-01-13T17:06:34+01:00",
-    "updated_at": "2023-01-13T17:37:32+01:00",
-    "media_id": "d9rx0pgaviob",
+    "updated_at": "2023-01-13T20:07:54+01:00",
+    "media_id": "2tdx0faa7rhn",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6246908/bouwvakker-filmt-gigantische-tornado-in-saoedi-arabie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246904,
-    "slug": "ruim-helft-jonge-vrouwen-was-slachtoffer-seksueel-grensoverschrijdend-gedrag",
-    "type": "article",
-    "title": "Ruim helft jonge vrouwen was slachtoffer seksueel grensoverschrijdend gedrag",
-    "subtitle": null,
-    "published_at": "2023-01-13T16:09:33+01:00",
-    "updated_at": "2023-01-13T16:33:57+01:00",
-    "media_id": "fy5xzxcam63z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6246904/ruim-helft-jonge-vrouwen-was-slachtoffer-seksueel-grensoverschrijdend-gedrag.html",
     "open_new_window": false,
     "partner": null
   }
