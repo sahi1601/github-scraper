@@ -1,12 +1,35 @@
 [
   {
-    "id": 6246878,
-    "slug": "manchester-city-speler-benjamin-mendy-vrijgesproken-van-verkrachting",
+    "id": 6246882,
+    "slug": "meer-betaalproblemen-bij-klanten-eneco-en-vattenfall-door-duur-gas",
     "type": "article",
-    "title": "Manchester City-speler Benjamin Mendy vrijgesproken van verkrachting",
+    "title": "Meer betaalproblemen bij klanten Eneco en Vattenfall door duur gas",
+    "subtitle": null,
+    "published_at": "2023-01-13T14:30:00+01:00",
+    "updated_at": "2023-01-13T14:30:01+01:00",
+    "media_id": "bnyxmgsaws8w",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6246882/meer-betaalproblemen-bij-klanten-eneco-en-vattenfall-door-duur-gas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246878,
+    "slug": "manchester-city-speler-mendy-grotendeels-vrijgesproken-in-verkrachtingszaak",
+    "type": "article",
+    "title": "Manchester City-speler Mendy grotendeels vrijgesproken in verkrachtingszaak",
     "subtitle": null,
     "published_at": "2023-01-13T14:26:35+01:00",
-    "updated_at": "2023-01-13T14:26:36+01:00",
+    "updated_at": "2023-01-13T14:36:47+01:00",
     "media_id": "3t7x7hrap1b8",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6246878/manchester-city-speler-benjamin-mendy-vrijgesproken-van-verkrachting.html",
+    "url": "/voetbal/6246878/manchester-city-speler-mendy-grotendeels-vrijgesproken-in-verkrachtingszaak.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6246828/moeizaam-scorend-fc-emmen-haalt-spits-darfalou-terug-naar-eredivisie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246825,
-    "slug": "rutte-redelijk-in-shock-om-vertrek-segers-anker-in-deze-coalitie",
-    "type": "article",
-    "title": "Rutte 'redelijk in shock' om vertrek Segers: 'Anker in deze coalitie'",
-    "subtitle": null,
-    "published_at": "2023-01-13T10:54:41+01:00",
-    "updated_at": "2023-01-13T12:33:00+01:00",
-    "media_id": "3vuxzolakudd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6246825/rutte-redelijk-in-shock-om-vertrek-segers-anker-in-deze-coalitie.html",
     "open_new_window": false,
     "partner": null
   }
