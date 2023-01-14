@@ -1,5 +1,28 @@
 [
   {
+    "id": 6246883,
+    "slug": "bedenker-kijkwijzer-leeftijdsadvies-bij-films-moet-geen-wet-zijn",
+    "type": "article",
+    "title": "Bedenker Kijkwijzer: 'Leeftijdsadvies bij films moet geen wet zijn'",
+    "subtitle": null,
+    "published_at": "2023-01-14T05:26:50+01:00",
+    "updated_at": "2023-01-14T05:26:51+01:00",
+    "media_id": "omixlv3auwhz",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6246883/bedenker-kijkwijzer-leeftijdsadvies-bij-films-moet-geen-wet-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246958,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -305,7 +328,7 @@
     "title": "Museum krijgt oud ontwerp Erwin de Vries voor beeld verzetsheld Anton de Kom",
     "subtitle": null,
     "published_at": "2023-01-13T21:26:41+01:00",
-    "updated_at": "2023-01-13T22:52:21+01:00",
+    "updated_at": "2023-01-14T05:20:18+01:00",
     "media_id": "8lxxvf5awkqn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6246938/vlammen-van-50-meter-hoog-na-explosie-in-litouwse-gasleiding.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246936,
-    "slug": "pamela-anderson-over-seksvideo-met-tommy-lee-moederschap-heeft-me-gered",
-    "type": "article",
-    "title": "Pamela Anderson over seksvideo met Tommy Lee: 'Moederschap heeft me gered'",
-    "subtitle": null,
-    "published_at": "2023-01-13T20:16:38+01:00",
-    "updated_at": "2023-01-13T20:55:26+01:00",
-    "media_id": "b1pxtiaajcms",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6246936/pamela-anderson-over-seksvideo-met-tommy-lee-moederschap-heeft-me-gered.html",
     "open_new_window": false,
     "partner": null
   }
