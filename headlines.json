@@ -1,12 +1,58 @@
 [
   {
+    "id": 6246965,
+    "slug": "maatregelen-om-hoger-water-maar-echte-overlast-blijft-waarschijnlijk-uit",
+    "type": "article",
+    "title": "Maatregelen om hoger water, maar echte overlast blijft waarschijnlijk uit",
+    "subtitle": null,
+    "published_at": "2023-01-14T10:04:08+01:00",
+    "updated_at": "2023-01-14T10:04:09+01:00",
+    "media_id": "h3exgswag5rt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6246965/maatregelen-om-hoger-water-maar-echte-overlast-blijft-waarschijnlijk-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246974,
+    "slug": "dubbelspecialist-rojer-wint-toernooi-in-australie-zonder-finales-te-hoeven-spelen",
+    "type": "article",
+    "title": "Dubbelspecialist Rojer wint toernooi in Australië zonder finales te hoeven spelen",
+    "subtitle": null,
+    "published_at": "2023-01-14T09:56:24+01:00",
+    "updated_at": "2023-01-14T10:01:14+01:00",
+    "media_id": "1gkxcg1ay1ls",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6246974/dubbelspecialist-rojer-wint-toernooi-in-australie-zonder-finales-te-hoeven-spelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6246972,
     "slug": "fifa-opent-disciplinair-onderzoek-naar-wangedrag-van-wereldkampioen-argentinie",
     "type": "article",
     "title": "FIFA opent disciplinair onderzoek naar wangedrag van wereldkampioen Argentinië",
     "subtitle": null,
     "published_at": "2023-01-14T09:30:11+01:00",
-    "updated_at": "2023-01-14T09:33:14+01:00",
+    "updated_at": "2023-01-14T09:48:04+01:00",
     "media_id": "48jxnvea71vo",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6246958/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246956,
-    "slug": "goed-nieuws-ozonlaag-herstelt-volgens-plan-recordaantal-stamceldonoren",
-    "type": "article",
-    "title": "Goed nieuws: Ozonlaag herstelt volgens plan | Recordaantal stamceldonoren",
-    "subtitle": null,
-    "published_at": "2023-01-14T05:08:56+01:00",
-    "updated_at": "2023-01-14T08:32:17+01:00",
-    "media_id": "9vmxdtpa5qtk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6246956/goed-nieuws-ozonlaag-herstelt-volgens-plan-recordaantal-stamceldonoren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246690,
-    "slug": "bolcom-verwijderde-sinds-oktober-tientallen-nieuwe-antisemitische-boeken",
-    "type": "article",
-    "title": "Bol.com verwijderde sinds oktober tientallen nieuwe antisemitische boeken",
-    "subtitle": null,
-    "published_at": "2023-01-14T05:01:04+01:00",
-    "updated_at": "2023-01-14T05:01:05+01:00",
-    "media_id": "p2kxsbaau6va",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6246690/bolcom-verwijderde-sinds-oktober-tientallen-nieuwe-antisemitische-boeken.html",
     "open_new_window": false,
     "partner": null
   }
