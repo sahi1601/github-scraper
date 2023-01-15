@@ -1,12 +1,35 @@
 [
   {
+    "id": 6247109,
+    "slug": "koopmeiners-heeft-met-treffer-aandeel-in-monsterzege-atalanta",
+    "type": "article",
+    "title": "Koopmeiners heeft met treffer aandeel in monsterzege Atalanta",
+    "subtitle": null,
+    "published_at": "2023-01-15T19:51:54+01:00",
+    "updated_at": "2023-01-15T20:09:31+01:00",
+    "media_id": "vkwxi9xal5si",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6247109/koopmeiners-heeft-met-treffer-aandeel-in-monsterzege-atalanta.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247108,
     "slug": "handballers-verslaan-ook-noord-macedonie-en-bereiken-hoofdfase-wk",
     "type": "article",
     "title": "Handballers verslaan ook Noord-Macedonië en bereiken hoofdfase WK",
     "subtitle": null,
     "published_at": "2023-01-15T19:30:12+01:00",
-    "updated_at": "2023-01-15T19:42:00+01:00",
+    "updated_at": "2023-01-15T20:08:14+01:00",
     "media_id": "koqxgsdax68p",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Klaasen en Sherrock grijpen opnieuw naast Tour-kaart voor PDC",
     "subtitle": null,
     "published_at": "2023-01-15T18:58:59+01:00",
-    "updated_at": "2023-01-15T19:01:50+01:00",
+    "updated_at": "2023-01-15T19:45:46+01:00",
     "media_id": "loxxt3damzfc",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6247101,
-    "slug": "arsenal-dankzij-blunder-doelman-lloris-op-voorsprong-tegen-spurs",
+    "slug": "arsenal-komt-dankzij-blunder-doelman-lloris-op-voorsprong-tegen-spurs",
     "type": "video",
-    "title": "Arsenal dankzij blunder doelman Lloris op voorsprong tegen Spurs",
+    "title": "Arsenal komt dankzij blunder doelman Lloris op voorsprong tegen Spurs",
     "subtitle": "Video",
     "published_at": "2023-01-15T18:23:21+01:00",
-    "updated_at": "2023-01-15T18:23:22+01:00",
+    "updated_at": "2023-01-15T19:46:05+01:00",
     "media_id": "m76xjwdaahul",
     "duration": "1:43",
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport/6247101/arsenal-dankzij-blunder-doelman-lloris-op-voorsprong-tegen-spurs.html",
+    "url": "/sport/6247101/arsenal-komt-dankzij-blunder-doelman-lloris-op-voorsprong-tegen-spurs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +397,7 @@
     "title": "Arsenal wint derby tegen Spurs mede door blunder Lloris en gaat steviger aan kop",
     "subtitle": null,
     "published_at": "2023-01-15T16:57:29+01:00",
-    "updated_at": "2023-01-15T19:28:49+01:00",
+    "updated_at": "2023-01-15T19:59:27+01:00",
     "media_id": "hbcx2coa75h6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6247072/eerste-afvaller-wie-is-de-mol-ik-heb-jarenlange-training-gehad-voor-niks.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247086,
-    "slug": "veerkrachtig-go-ahead-verliest-ook-niet-van-utrecht-emmen-cambuur-in-balans",
-    "type": "article",
-    "title": "Veerkrachtig Go Ahead verliest ook niet van Utrecht, Emmen-Cambuur in balans",
-    "subtitle": null,
-    "published_at": "2023-01-15T16:33:38+01:00",
-    "updated_at": "2023-01-15T18:43:20+01:00",
-    "media_id": "kl3x6h1ayf73",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6247086/veerkrachtig-go-ahead-verliest-ook-niet-van-utrecht-emmen-cambuur-in-balans.html",
     "open_new_window": false,
     "partner": null
   }
