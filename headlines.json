@@ -1,12 +1,35 @@
 [
   {
+    "id": 6247070,
+    "slug": "zweden-wil-vergunningsplicht-voor-dansen-in-horecazaken-afschaffen",
+    "type": "article",
+    "title": "Zweden wil vergunningsplicht voor dansen in horecazaken afschaffen",
+    "subtitle": null,
+    "published_at": "2023-01-15T13:28:37+01:00",
+    "updated_at": "2023-01-15T13:36:47+01:00",
+    "media_id": "zdnxsifapmu6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6247070/zweden-wil-vergunningsplicht-voor-dansen-in-horecazaken-afschaffen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247065,
     "slug": "psv-begint-met-aan-chelsea-gelinkte-madueke-tegen-fortuna-sittard",
     "type": "article",
     "title": "PSV begint met aan Chelsea gelinkte Madueke tegen Fortuna Sittard",
     "subtitle": null,
     "published_at": "2023-01-15T13:21:18+01:00",
-    "updated_at": "2023-01-15T13:25:16+01:00",
+    "updated_at": "2023-01-15T13:31:38+01:00",
     "media_id": "44dxwqsa1gko",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6247061,
-    "slug": "vitesse-jaagt-tegen-tiental-nec-op-openingstreffer",
+    "slug": "zwak-vitesse-weet-zich-geen-raad-met-tiental-nec",
     "type": "article",
-    "title": "Vitesse jaagt tegen tiental NEC op openingstreffer",
+    "title": "Zwak Vitesse weet zich geen raad met tiental NEC",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-01-15T11:53:37+01:00",
-    "updated_at": "2023-01-15T13:22:18+01:00",
+    "updated_at": "2023-01-15T13:46:12+01:00",
     "media_id": "5yzxja4aooc0",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6247061/vitesse-jaagt-tegen-tiental-nec-op-openingstreffer.html",
+    "url": "/voetbal/6247061/zwak-vitesse-weet-zich-geen-raad-met-tiental-nec.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6247045/bijna-alle-inzittenden-om-het-leven-gekomen-bij-vliegtuigcrash-in-nepal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247044,
-    "slug": "dodental-russische-aanval-op-oekraiense-flat-stijgt-naar-20-tientallen-gewonden",
-    "type": "article",
-    "title": "Dodental Russische aanval op Oekraïense flat stijgt naar 20, tientallen gewonden",
-    "subtitle": null,
-    "published_at": "2023-01-15T07:26:14+01:00",
-    "updated_at": "2023-01-15T09:18:21+01:00",
-    "media_id": "x91x0ysaq7bq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6247044/dodental-russische-aanval-op-oekraiense-flat-stijgt-naar-20-tientallen-gewonden.html",
     "open_new_window": false,
     "partner": null
   }
