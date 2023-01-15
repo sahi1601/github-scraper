@@ -1,5 +1,51 @@
 [
   {
+    "id": 6246814,
+    "slug": "omslagpunt-voor-kunstmatige-intelligentie-bereikt-nu-al-een-iq-van-80",
+    "type": "article",
+    "title": "Omslagpunt voor kunstmatige intelligentie bereikt: 'Nu al een IQ van 80'",
+    "subtitle": "NU+",
+    "published_at": "2023-01-15T05:46:33+01:00",
+    "updated_at": "2023-01-15T05:46:34+01:00",
+    "media_id": "ekdxunhaww3x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6246814/omslagpunt-voor-kunstmatige-intelligentie-bereikt-nu-al-een-iq-van-80.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246785,
+    "slug": "lifehack-deze-apps-helpen-je-om-beter-te-slapen",
+    "type": "article",
+    "title": "Lifehack: Deze apps helpen je om beter te slapen",
+    "subtitle": null,
+    "published_at": "2023-01-15T05:45:33+01:00",
+    "updated_at": "2023-01-15T05:45:34+01:00",
+    "media_id": "qdzxpgva4onu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6246785/lifehack-deze-apps-helpen-je-om-beter-te-slapen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6245955,
     "slug": "luidere-roep-om-aandacht-voor-nederlandse-uitbuiting-in-suriname-na-slavernij",
     "type": "article",
@@ -305,7 +351,7 @@
     "title": "Zwalkend Ajax blijft na rode kaart Rensch ook tegen FC Twente zonder zege",
     "subtitle": null,
     "published_at": "2023-01-14T22:59:22+01:00",
-    "updated_at": "2023-01-15T00:14:48+01:00",
+    "updated_at": "2023-01-15T05:53:06+01:00",
     "media_id": "hjexz3maviug",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6247027/az-boekt-zakelijke-zege-bij-heerenveen-en-staat-voorlopig-tweede-in-eredivisie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247026,
-    "slug": "fc-volendam-zet-opmars-in-eredivisie-voort-sparta-klopt-excelsior-in-slotfase",
-    "type": "article",
-    "title": "FC Volendam zet opmars in Eredivisie voort, Sparta klopt Excelsior in slotfase",
-    "subtitle": null,
-    "published_at": "2023-01-14T20:40:54+01:00",
-    "updated_at": "2023-01-14T23:16:12+01:00",
-    "media_id": "unkx22la5c08",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6247026/fc-volendam-zet-opmars-in-eredivisie-voort-sparta-klopt-excelsior-in-slotfase.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247023,
-    "slug": "ac-milan-verspeelt-weer-punten-in-serie-a-inter-profiteert-dankzij-vroege-goal",
-    "type": "article",
-    "title": "AC Milan verspeelt weer punten in Serie A, Inter profiteert dankzij vroege goal",
-    "subtitle": null,
-    "published_at": "2023-01-14T19:59:01+01:00",
-    "updated_at": "2023-01-14T22:46:51+01:00",
-    "media_id": "fgcxxwea3pzq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6247023/ac-milan-verspeelt-weer-punten-in-serie-a-inter-profiteert-dankzij-vroege-goal.html",
     "open_new_window": false,
     "partner": null
   }
