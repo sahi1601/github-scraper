@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247222,
+    "slug": "geld-lenen-wordt-steeds-duurder-door-hogere-rentes",
+    "type": "article",
+    "title": "Geld lenen wordt steeds duurder door hogere rentes",
+    "subtitle": null,
+    "published_at": "2023-01-16T17:16:20+01:00",
+    "updated_at": "2023-01-16T17:16:22+01:00",
+    "media_id": "10nxl1xalsp2",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6247222/geld-lenen-wordt-steeds-duurder-door-hogere-rentes.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247217,
     "slug": "gevangenis-vught-krijgt-nieuwe-rechtszaal-en-vergroot-hiermee-veiligheid",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6247175/swiatek-naar-tweede-ronde-australian-open-kraker-tussen-gauff-en-raducanu.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247179,
-    "slug": "bitcoin-binnen-een-week-ruim-20-procent-meer-waard-geworden",
-    "type": "article",
-    "title": "Bitcoin binnen een week ruim 20 procent meer waard geworden",
-    "subtitle": null,
-    "published_at": "2023-01-16T12:52:33+01:00",
-    "updated_at": "2023-01-16T12:52:34+01:00",
-    "media_id": "0vuxwmuau4d6",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6247179/bitcoin-binnen-een-week-ruim-20-procent-meer-waard-geworden.html",
     "open_new_window": false,
     "partner": null
   }
