@@ -1,12 +1,35 @@
 [
   {
+    "id": 6247122,
+    "slug": "griekspoor-en-van-de-zandschulp-treffen-elkaar-in-tweede-ronde-australian-open",
+    "type": "article",
+    "title": "Griekspoor en Van de Zandschulp treffen elkaar in tweede ronde Australian Open",
+    "subtitle": null,
+    "published_at": "2023-01-16T06:23:28+01:00",
+    "updated_at": "2023-01-16T06:27:34+01:00",
+    "media_id": "n13xqmtaowva",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6247122/griekspoor-en-van-de-zandschulp-treffen-elkaar-in-tweede-ronde-australian-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247121,
     "slug": "weerbericht-buien-in-het-hele-land-plaatselijk-natte-sneeuw-mogelijk",
     "type": "article",
     "title": "Weerbericht: Buien in het hele land, plaatselijk natte sneeuw mogelijk",
     "subtitle": null,
     "published_at": "2023-01-16T05:47:17+01:00",
-    "updated_at": "2023-01-16T05:47:18+01:00",
+    "updated_at": "2023-01-16T06:22:34+01:00",
     "media_id": "012x8zcaha9q",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6247119,
-    "slug": "drie-doden-en-drie-gewonden-door-ongeluk-met-spookrijder-op-a16",
+    "slug": "drie-doden-en-drie-gewonden-bij-ongeluk-met-spookrijder-op-a16",
     "type": "article",
-    "title": "Drie doden en drie gewonden door ongeluk met spookrijder op A16",
+    "title": "Drie doden en drie gewonden bij ongeluk met spookrijder op A16",
     "subtitle": null,
     "published_at": "2023-01-16T00:27:47+01:00",
-    "updated_at": "2023-01-16T06:01:12+01:00",
+    "updated_at": "2023-01-16T06:23:24+01:00",
     "media_id": "uwnxsktai7fq",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6247119/drie-doden-en-drie-gewonden-door-ongeluk-met-spookrijder-op-a16.html",
+    "url": "/binnenland/6247119/drie-doden-en-drie-gewonden-bij-ongeluk-met-spookrijder-op-a16.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/darts/6247105/klaasen-en-sherrock-grijpen-opnieuw-naast-tour-kaart-voor-pdc.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247104,
-    "slug": "25-profvoetballers-in-nederland-gokten-op-eigen-duels-of-competitie",
-    "type": "article",
-    "title": "25 profvoetballers in Nederland gokten op eigen duels of competitie",
-    "subtitle": null,
-    "published_at": "2023-01-15T18:47:40+01:00",
-    "updated_at": "2023-01-15T18:57:51+01:00",
-    "media_id": "291xe0jaeqh0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6247104/25-profvoetballers-in-nederland-gokten-op-eigen-duels-of-competitie.html",
     "open_new_window": false,
     "partner": null
   }
