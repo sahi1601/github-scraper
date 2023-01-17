@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247270,
+    "slug": "meer-longkanker-in-nederlandse-wijken-waar-bewoners-lager-inkomen-hebben",
+    "type": "article",
+    "title": "Meer longkanker in Nederlandse wijken waar bewoners lager inkomen hebben",
+    "subtitle": null,
+    "published_at": "2023-01-17T07:41:58+01:00",
+    "updated_at": "2023-01-17T07:41:59+01:00",
+    "media_id": "mb4xqysa59yp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1146768,
+      "slug": "gezondheid",
+      "type": "default",
+      "name": "Gezondheid",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/gezondheid/6247270/meer-longkanker-in-nederlandse-wijken-waar-bewoners-lager-inkomen-hebben.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247266,
     "slug": "nederland-voert-meer-machines-en-apparaten-uit",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6247251/fc-eindhoven-dient-den-bosch-nieuwe-nederlaag-toe-en-herovert-derde-plek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247250,
-    "slug": "eiffeltoren-belicht-in-teken-van-iraanse-protestbeweging",
-    "type": "video",
-    "title": "Eiffeltoren belicht in teken van Iraanse protestbeweging",
-    "subtitle": "Video",
-    "published_at": "2023-01-16T21:54:16+01:00",
-    "updated_at": "2023-01-16T22:01:24+01:00",
-    "media_id": "1ahxjniaq93i",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6247250/eiffeltoren-belicht-in-teken-van-iraanse-protestbeweging.html",
     "open_new_window": false,
     "partner": null
   }
