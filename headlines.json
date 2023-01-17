@@ -1,5 +1,51 @@
 [
   {
+    "id": 6247355,
+    "slug": "politie-registreert-voor-het-eerst-in-jaren-meer-misdrijven-bijna-797000",
+    "type": "article",
+    "title": "Politie registreert voor het eerst in jaren meer misdrijven: bijna 797.000",
+    "subtitle": null,
+    "published_at": "2023-01-17T16:18:47+01:00",
+    "updated_at": "2023-01-17T16:18:48+01:00",
+    "media_id": "jcyxyjwamjzh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6247355/politie-registreert-voor-het-eerst-in-jaren-meer-misdrijven-bijna-797000.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247358,
+    "slug": "drone-filmt-hoge-waterstand-van-de-waal-in-nijmegen",
+    "type": "video",
+    "title": "Drone filmt hoge waterstand van de Waal in Nijmegen",
+    "subtitle": "Video",
+    "published_at": "2023-01-17T16:16:21+01:00",
+    "updated_at": "2023-01-17T16:24:33+01:00",
+    "media_id": "xdwxtvtagob5",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6247358/drone-filmt-hoge-waterstand-van-de-waal-in-nijmegen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247357,
     "slug": "rijimpressie-citroen-e-c4-x",
     "type": "video",
@@ -52,7 +98,7 @@
     "title": "Moeizaam scorend Cambuur huurt aanvaller Mahi van FC Utrecht",
     "subtitle": null,
     "published_at": "2023-01-17T15:52:23+01:00",
-    "updated_at": "2023-01-17T16:09:54+01:00",
+    "updated_at": "2023-01-17T16:24:57+01:00",
     "media_id": "jgjxb73abp7w",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6247321/djokovic-verzekert-zich-van-tweede-ronde-australian-open-gesloten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247318,
-    "slug": "hangglider-scheert-bij-noodlanding-rakelings-langs-busje-in-india",
-    "type": "video",
-    "title": "Hangglider scheert bij noodlanding rakelings langs busje in India",
-    "subtitle": "Video",
-    "published_at": "2023-01-17T12:13:11+01:00",
-    "updated_at": "2023-01-17T12:45:58+01:00",
-    "media_id": "i1gx5vtawyyz",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6247318/hangglider-scheert-bij-noodlanding-rakelings-langs-busje-in-india.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247315,
-    "slug": "buddys-gaan-op-meer-plekken-vrouwen-begeleiden-naar-abortuskliniek",
-    "type": "article",
-    "title": "Buddy's gaan op meer plekken vrouwen begeleiden naar abortuskliniek",
-    "subtitle": null,
-    "published_at": "2023-01-17T12:08:01+01:00",
-    "updated_at": "2023-01-17T12:08:03+01:00",
-    "media_id": "ifdxbv2a9vsv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6247315/buddys-gaan-op-meer-plekken-vrouwen-begeleiden-naar-abortuskliniek.html",
     "open_new_window": false,
     "partner": null
   }
