@@ -1,12 +1,35 @@
 [
   {
+    "id": 6247491,
+    "slug": "gesink-blijkt-bekken-te-hebben-gebroken-bij-zware-val-in-tour-down-under",
+    "type": "article",
+    "title": "Gesink blijkt bekken te hebben gebroken bij zware val in Tour Down Under",
+    "subtitle": null,
+    "published_at": "2023-01-18T14:23:43+01:00",
+    "updated_at": "2023-01-18T14:23:45+01:00",
+    "media_id": "np6xfzxarcnd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6247491/gesink-blijkt-bekken-te-hebben-gebroken-bij-zware-val-in-tour-down-under.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247490,
     "slug": "uitgebrande-helikopter-ligt-bij-kinderopvang-in-buitenwijk-kyiv",
     "type": "video",
     "title": "Uitgebrande helikopter ligt bij kinderopvang in buitenwijk Kyiv",
     "subtitle": "Video",
     "published_at": "2023-01-18T14:12:15+01:00",
-    "updated_at": "2023-01-18T14:12:17+01:00",
+    "updated_at": "2023-01-18T14:23:18+01:00",
     "media_id": "upxxxovafgau",
     "duration": "0:39",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6247448/nederlanders-in-klederdracht-op-nieuwe-serie-postzegels-van-postnl.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247451,
-    "slug": "veel-rook-en-vlammen-na-helikoptercrash-bij-oekraiense-kleuterschool",
-    "type": "video",
-    "title": "Veel rook en vlammen na helikoptercrash bij Oekraïense kleuterschool",
-    "subtitle": "Video",
-    "published_at": "2023-01-18T10:31:27+01:00",
-    "updated_at": "2023-01-18T14:12:41+01:00",
-    "media_id": "0qoxdmzaujut",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6247451/veel-rook-en-vlammen-na-helikoptercrash-bij-oekraiense-kleuterschool.html",
     "open_new_window": false,
     "partner": null
   }
