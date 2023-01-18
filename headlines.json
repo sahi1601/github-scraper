@@ -1,12 +1,58 @@
 [
   {
+    "id": 6247490,
+    "slug": "uitgebrande-helikopter-ligt-bij-kinderopvang-in-buitenwijk-kyiv",
+    "type": "video",
+    "title": "Uitgebrande helikopter ligt bij kinderopvang in buitenwijk Kyiv",
+    "subtitle": "Video",
+    "published_at": "2023-01-18T14:12:15+01:00",
+    "updated_at": "2023-01-18T14:12:17+01:00",
+    "media_id": "upxxxovafgau",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6247490/uitgebrande-helikopter-ligt-bij-kinderopvang-in-buitenwijk-kyiv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247450,
+    "slug": "jelle-brandt-corstius-vrijgesproken-voor-smaad-in-zaak-gijs-van-dam",
+    "type": "article",
+    "title": "Jelle Brandt Corstius vrijgesproken voor smaad in zaak Gijs van Dam",
+    "subtitle": null,
+    "published_at": "2023-01-18T13:59:36+01:00",
+    "updated_at": "2023-01-18T14:07:36+01:00",
+    "media_id": "oqbxd3hagzcs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1775009,
+      "slug": "metoo",
+      "type": "default",
+      "name": "#metoo",
+      "style": "nu",
+      "media_id": "m1mxmqea7g3b",
+      "partner": null
+    },
+    "url": "/metoo/6247450/jelle-brandt-corstius-vrijgesproken-voor-smaad-in-zaak-gijs-van-dam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247483,
     "slug": "griekspoor-overklast-van-de-zandschulp-in-tweede-ronde-australian-open",
     "type": "article",
     "title": "Griekspoor overklast Van de Zandschulp in tweede ronde Australian Open",
     "subtitle": null,
     "published_at": "2023-01-18T13:55:04+01:00",
-    "updated_at": "2023-01-18T13:57:27+01:00",
+    "updated_at": "2023-01-18T14:13:51+01:00",
     "media_id": "yjfxdf8avzmq",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Nieuwe wet voor duurzaam ondernemen in de maak, bedrijven vrezen gevolgen",
     "subtitle": null,
     "published_at": "2023-01-18T13:51:43+01:00",
-    "updated_at": "2023-01-18T13:55:45+01:00",
+    "updated_at": "2023-01-18T14:03:08+01:00",
     "media_id": "423xmg6a4q44",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "Prins Harry staat bovenaan de lijst met bestverkochte boeken in Nederland",
     "subtitle": null,
     "published_at": "2023-01-18T12:23:22+01:00",
-    "updated_at": "2023-01-18T13:35:18+01:00",
+    "updated_at": "2023-01-18T14:06:55+01:00",
     "media_id": "j8rxlsoaqae6",
     "duration": null,
     "canonical_section": {
@@ -254,12 +300,12 @@
   },
   {
     "id": 6247465,
-    "slug": "reacties-na-zege-griekspoor-op-van-de-zandschulp",
+    "slug": "reacties-na-zege-griekspoor-op-van-de-zandschulp-gesloten",
     "type": "article",
-    "title": "Reacties na zege Griekspoor op Van de Zandschulp",
+    "title": "Reacties na zege Griekspoor op Van de Zandschulp (gesloten)",
     "subtitle": "Liveblog",
     "published_at": "2023-01-18T11:37:53+01:00",
-    "updated_at": "2023-01-18T13:55:55+01:00",
+    "updated_at": "2023-01-18T14:02:50+01:00",
     "media_id": "4c0xngnatf7w",
     "duration": null,
     "canonical_section": {
@@ -271,7 +317,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6247465/reacties-na-zege-griekspoor-op-van-de-zandschulp.html",
+    "url": "/tennis/6247465/reacties-na-zege-griekspoor-op-van-de-zandschulp-gesloten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +443,7 @@
     "title": "Veel rook en vlammen na helikoptercrash bij Oekraïense kleuterschool",
     "subtitle": "Video",
     "published_at": "2023-01-18T10:31:27+01:00",
-    "updated_at": "2023-01-18T10:40:10+01:00",
+    "updated_at": "2023-01-18T14:12:41+01:00",
     "media_id": "0qoxdmzaujut",
     "duration": "0:39",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6247451/veel-rook-en-vlammen-na-helikoptercrash-bij-oekraiense-kleuterschool.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247449,
-    "slug": "miljoen-chinezen-pakken-de-koffers-voor-chinees-nieuwjaar",
-    "type": "article",
-    "title": "Miljoen Chinezen pakken de koffers voor Chinees Nieuwjaar",
-    "subtitle": null,
-    "published_at": "2023-01-18T10:28:17+01:00",
-    "updated_at": "2023-01-18T10:28:18+01:00",
-    "media_id": "jftxflpaq082",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6247449/miljoen-chinezen-pakken-de-koffers-voor-chinees-nieuwjaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247446,
-    "slug": "zelensky-bedankt-rutte-voor-leveren-patriot-luchtafweergeschut",
-    "type": "video",
-    "title": "Zelensky bedankt Rutte voor leveren Patriot-luchtafweergeschut",
-    "subtitle": "Video",
-    "published_at": "2023-01-18T10:16:11+01:00",
-    "updated_at": "2023-01-18T10:16:12+01:00",
-    "media_id": "3tlx55kazggh",
-    "duration": "0:27",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6247446/zelensky-bedankt-rutte-voor-leveren-patriot-luchtafweergeschut.html",
     "open_new_window": false,
     "partner": null
   }
