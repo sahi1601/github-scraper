@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247453,
+    "slug": "bbc-presentator-barst-tijdens-uitzending-in-lachen-uit-vanwege-gekreun",
+    "type": "video",
+    "title": "BBC-presentator barst tijdens uitzending in lachen uit vanwege gekreun",
+    "subtitle": "Video",
+    "published_at": "2023-01-18T10:46:42+01:00",
+    "updated_at": "2023-01-18T10:46:43+01:00",
+    "media_id": "ypqxiq9alry8",
+    "duration": "1:03",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6247453/bbc-presentator-barst-tijdens-uitzending-in-lachen-uit-vanwege-gekreun.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247452,
     "slug": "az-verdediger-beukema-staat-weken-aan-de-kant-door-knieletsel",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Onzeker of kabinet genoeg steun krijgt voor afbouwen subsidie op zonnepanelen",
     "subtitle": null,
     "published_at": "2023-01-18T10:36:54+01:00",
-    "updated_at": "2023-01-18T10:36:56+01:00",
+    "updated_at": "2023-01-18T11:02:11+01:00",
     "media_id": "jdnxgqcahoiv",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Oekraïense binnenlandminister en 17 anderen komen om bij helikoptercrash in Kyiv",
     "subtitle": null,
     "published_at": "2023-01-18T09:37:59+01:00",
-    "updated_at": "2023-01-18T10:34:35+01:00",
+    "updated_at": "2023-01-18T10:50:44+01:00",
     "media_id": "ownx0s9ac5f0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6247419/ministers-ontwikkelen-beurs-voor-uitwisseling-studenten-binnen-het-koninkrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247418,
-    "slug": "nadal-haalt-door-blessure-niet-zijn-niveau-en-is-al-klaar-op-australian-open",
-    "type": "article",
-    "title": "Nadal haalt door blessure niet zijn niveau en is al klaar op Australian Open",
-    "subtitle": null,
-    "published_at": "2023-01-18T07:30:01+01:00",
-    "updated_at": "2023-01-18T09:03:15+01:00",
-    "media_id": "diwxsswadi6v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6247418/nadal-haalt-door-blessure-niet-zijn-niveau-en-is-al-klaar-op-australian-open.html",
     "open_new_window": false,
     "partner": null
   }
