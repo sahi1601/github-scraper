@@ -1,12 +1,35 @@
 [
   {
+    "id": 6247549,
+    "slug": "vincent-janssen-draagt-met-doelpunt-bij-aan-overtuigende-zege-antwerp",
+    "type": "article",
+    "title": "Vincent Janssen draagt met doelpunt bij aan overtuigende zege Antwerp",
+    "subtitle": null,
+    "published_at": "2023-01-18T20:22:22+01:00",
+    "updated_at": "2023-01-18T20:22:23+01:00",
+    "media_id": "meox8dba5mx9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6247549/vincent-janssen-draagt-met-doelpunt-bij-aan-overtuigende-zege-antwerp.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247548,
     "slug": "weghorst-krijgt-direct-een-basisplaats-van-ten-hag-en-debuteert-voor-united",
     "type": "article",
     "title": "Weghorst krijgt direct een basisplaats van Ten Hag en debuteert voor United",
     "subtitle": null,
     "published_at": "2023-01-18T20:08:20+01:00",
-    "updated_at": "2023-01-18T20:12:01+01:00",
+    "updated_at": "2023-01-18T20:20:34+01:00",
     "media_id": "8sux6wlagkmj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6247516/fc-groningen-uit-boosheid-zonder-fans-naar-heerenveen-besluit-is-onacceptabel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247482,
-    "slug": "schiphol-verwerkt-vanaf-eind-maart-70000-vertrekkende-passagiers-per-dag",
-    "type": "article",
-    "title": "Schiphol verwerkt vanaf eind maart 70.000 vertrekkende passagiers per dag",
-    "subtitle": null,
-    "published_at": "2023-01-18T16:53:39+01:00",
-    "updated_at": "2023-01-18T17:29:16+01:00",
-    "media_id": "3esx6z6absxp",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6247482/schiphol-verwerkt-vanaf-eind-maart-70000-vertrekkende-passagiers-per-dag.html",
     "open_new_window": false,
     "partner": null
   }
