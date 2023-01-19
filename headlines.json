@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247573,
+    "slug": "weerbericht-kans-op-gladheid-door-winterse-buien-hagel-en-sneeuw",
+    "type": "article",
+    "title": "Weerbericht: Kans op gladheid door winterse buien, hagel en sneeuw",
+    "subtitle": null,
+    "published_at": "2023-01-19T05:43:49+01:00",
+    "updated_at": "2023-01-19T05:46:54+01:00",
+    "media_id": "s47xulua5jl7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6247573/weerbericht-kans-op-gladheid-door-winterse-buien-hagel-en-sneeuw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247494,
     "slug": "we-eindigden-en-beginnen-het-jaar-ziek-zwak-en-misselijk",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Streekvervoerders staken vandaag en raden aan alternatief vervoer te zoeken",
     "subtitle": null,
     "published_at": "2023-01-19T05:07:59+01:00",
-    "updated_at": "2023-01-19T05:08:00+01:00",
+    "updated_at": "2023-01-19T05:48:41+01:00",
     "media_id": "vr6xjn9afjsn",
     "duration": null,
     "canonical_section": {
@@ -144,8 +167,8 @@
     "title": "Nieuw-Zeelandse premier Ardern kondigt plotseling vertrek aan: 'Geen energie meer'",
     "subtitle": null,
     "published_at": "2023-01-19T01:51:59+01:00",
-    "updated_at": "2023-01-19T05:31:55+01:00",
-    "media_id": "lohxcjiac6h0",
+    "updated_at": "2023-01-19T06:04:08+01:00",
+    "media_id": "3i4xprtaqjl2",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6247556/compensatie-ouders-toeslagenaffaire-kan-volgens-gemeenten-tot-2030-duren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247553,
-    "slug": "trein-rijdt-vrachtwagen-omver-en-ontspoort-in-cambodja",
-    "type": "video",
-    "title": "Trein rijdt vrachtwagen omver en ontspoort in Cambodja",
-    "subtitle": "Video",
-    "published_at": "2023-01-18T20:41:43+01:00",
-    "updated_at": "2023-01-18T20:41:44+01:00",
-    "media_id": "ippx8u3ammt5",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6247553/trein-rijdt-vrachtwagen-omver-en-ontspoort-in-cambodja.html",
     "open_new_window": false,
     "partner": null
   }
