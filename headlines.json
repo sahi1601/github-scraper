@@ -1,5 +1,51 @@
 [
   {
+    "id": 6247577,
+    "slug": "ochtendspits-vroeg-op-gang-langzaam-rijdend-verkeer-in-zuiden-van-het-land",
+    "type": "article",
+    "title": "Ochtendspits vroeg op gang, langzaam rijdend verkeer in zuiden van het land",
+    "subtitle": null,
+    "published_at": "2023-01-19T07:26:32+01:00",
+    "updated_at": "2023-01-19T07:31:32+01:00",
+    "media_id": "jq1xa2jaxqex",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6247577/ochtendspits-vroeg-op-gang-langzaam-rijdend-verkeer-in-zuiden-van-het-land.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247576,
+    "slug": "jumbo-visma-heeft-dankzij-ritzege-rohan-dennis-weer-wat-te-vieren-in-australie",
+    "type": "article",
+    "title": "Jumbo-Visma heeft dankzij ritzege Rohan Dennis weer wat te vieren in Australië",
+    "subtitle": null,
+    "published_at": "2023-01-19T07:20:03+01:00",
+    "updated_at": "2023-01-19T07:25:28+01:00",
+    "media_id": "ebyxdagaerid",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6247576/jumbo-visma-heeft-dankzij-ritzege-rohan-dennis-weer-wat-te-vieren-in-australie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247492,
     "slug": "stelling-nederlanders-zouden-trotser-moeten-zijn-op-de-prestaties-van-de-ns",
     "type": "article",
@@ -208,12 +254,12 @@
   },
   {
     "id": 6247570,
-    "slug": "nieuw-zeelandse-premier-ardern-kondigt-plotseling-vertrek-aan-geen-energie-meer",
+    "slug": "nieuw-zeelandse-premier-ardern-kondigt-plots-vertrek-aan-geen-energie-meer",
     "type": "article",
-    "title": "Nieuw-Zeelandse premier Ardern kondigt plotseling vertrek aan: 'Geen energie meer'",
+    "title": "Nieuw-Zeelandse premier Ardern kondigt plots vertrek aan: 'Geen energie meer'",
     "subtitle": null,
     "published_at": "2023-01-19T01:51:59+01:00",
-    "updated_at": "2023-01-19T07:09:40+01:00",
+    "updated_at": "2023-01-19T07:30:53+01:00",
     "media_id": "3i4xprtaqjl2",
     "duration": null,
     "canonical_section": {
@@ -225,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6247570/nieuw-zeelandse-premier-ardern-kondigt-plotseling-vertrek-aan-geen-energie-meer.html",
+    "url": "/buitenland/6247570/nieuw-zeelandse-premier-ardern-kondigt-plots-vertrek-aan-geen-energie-meer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +282,7 @@
     "title": "Britse acteur Julian Sands al bijna week vermist na wandeltocht in Californië",
     "subtitle": null,
     "published_at": "2023-01-19T00:29:14+01:00",
-    "updated_at": "2023-01-19T00:36:55+01:00",
+    "updated_at": "2023-01-19T07:26:46+01:00",
     "media_id": "qpxxwx7ahf51",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Iraanse man krijgt acht jaar cel voor onthoofden van zijn vrouw (17) uit eerwraak",
     "subtitle": null,
     "published_at": "2023-01-19T00:24:39+01:00",
-    "updated_at": "2023-01-19T00:24:40+01:00",
+    "updated_at": "2023-01-19T07:24:55+01:00",
     "media_id": "1m5xdnsa8k43",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6247561/inter-wint-afgetekend-van-stadgenoot-ac-milan-en-verovert-italiaanse-supercup.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247559,
-    "slug": "kim-kardashian-koopt-op-veiling-juweel-van-prinses-diana",
-    "type": "article",
-    "title": "Kim Kardashian koopt op veiling juweel van prinses Diana",
-    "subtitle": null,
-    "published_at": "2023-01-18T21:46:02+01:00",
-    "updated_at": "2023-01-18T21:54:15+01:00",
-    "media_id": "ujfxvpaaon7y",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6247559/kim-kardashian-koopt-op-veiling-juweel-van-prinses-diana.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247557,
-    "slug": "feyenoord-supporter-draagt-kunstoog-met-logo-van-club",
-    "type": "video",
-    "title": "Feyenoord-supporter draagt kunstoog met logo van club",
-    "subtitle": "Video",
-    "published_at": "2023-01-18T21:31:08+01:00",
-    "updated_at": "2023-01-18T21:31:11+01:00",
-    "media_id": "kgsx2cbagxz3",
-    "duration": "1:26",
-    "canonical_section": {
-      "id": 937692,
-      "slug": "opmerkelijk",
-      "type": "default",
-      "name": "Opmerkelijk",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/opmerkelijk/6247557/feyenoord-supporter-draagt-kunstoog-met-logo-van-club.html",
     "open_new_window": false,
     "partner": null
   }
