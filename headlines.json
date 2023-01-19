@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247518,
+    "slug": "van-shell-naar-extinction-rebellion-zij-namen-ontslag-voor-het-klimaat",
+    "type": "article",
+    "title": "Van Shell naar Extinction Rebellion: zij namen ontslag voor het klimaat",
+    "subtitle": "NU+",
+    "published_at": "2023-01-19T16:33:35+01:00",
+    "updated_at": "2023-01-19T16:33:36+01:00",
+    "media_id": "b4px2lna9pmy",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6247518/van-shell-naar-extinction-rebellion-zij-namen-ontslag-voor-het-klimaat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247685,
     "slug": "bekijk-de-eerste-trailer-van-scream-vi",
     "type": "video",
@@ -121,7 +144,7 @@
     "title": "Man verdacht van afpersen ruim 100 meisjes in grootste onlinemisbruikzaak in Nederland",
     "subtitle": null,
     "published_at": "2023-01-19T15:20:04+01:00",
-    "updated_at": "2023-01-19T16:26:18+01:00",
+    "updated_at": "2023-01-19T16:42:26+01:00",
     "media_id": "vcwxh64a4s95",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6247639/djokovic-ondanks-fysieke-problemen-door-naar-derde-ronde-australian-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247636,
-    "slug": "huiskatten-chippen-en-registreren-wordt-binnenkort-verplicht",
-    "type": "article",
-    "title": "Huiskatten chippen en registreren wordt binnenkort verplicht",
-    "subtitle": null,
-    "published_at": "2023-01-19T13:00:19+01:00",
-    "updated_at": "2023-01-19T15:05:20+01:00",
-    "media_id": "86sx8ouatgsw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6247636/huiskatten-chippen-en-registreren-wordt-binnenkort-verplicht.html",
     "open_new_window": false,
     "partner": null
   }
