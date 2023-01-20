@@ -1,12 +1,35 @@
 [
   {
+    "id": 6247908,
+    "slug": "advocaten-nabil-b-willen-dat-kroongetuige-dit-najaar-vrijkomt-vanwege-fouten-om",
+    "type": "article",
+    "title": "Advocaten Nabil B. willen dat kroongetuige dit najaar vrijkomt vanwege fouten OM",
+    "subtitle": null,
+    "published_at": "2023-01-20T22:45:37+01:00",
+    "updated_at": "2023-01-20T22:56:36+01:00",
+    "media_id": "g57xgfsaiipq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6247908/advocaten-nabil-b-willen-dat-kroongetuige-dit-najaar-vrijkomt-vanwege-fouten-om.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247760,
     "slug": "madueke-rondt-miljoenentransfer-van-psv-naar-chelsea-af-en-tekent-voor-75-jaar",
     "type": "article",
     "title": "Madueke rondt miljoenentransfer van PSV naar Chelsea af en tekent voor 7,5 jaar",
     "subtitle": null,
     "published_at": "2023-01-20T22:35:19+01:00",
-    "updated_at": "2023-01-20T22:40:38+01:00",
+    "updated_at": "2023-01-20T22:57:58+01:00",
     "media_id": "hscxklma0zku",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Blind ziet vanaf de bank hoe Bayern gelijkspeelt in topper tegen RB Leipzig",
     "subtitle": null,
     "published_at": "2023-01-20T22:27:28+01:00",
-    "updated_at": "2023-01-20T22:35:50+01:00",
+    "updated_at": "2023-01-20T23:14:00+01:00",
     "media_id": "4qcxq6va9mpq",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Juventus krijgt liefst vijftien punten aftrek wegens grootschalige fraudezaak",
     "subtitle": null,
     "published_at": "2023-01-20T21:54:59+01:00",
-    "updated_at": "2023-01-20T22:06:56+01:00",
+    "updated_at": "2023-01-20T22:47:36+01:00",
     "media_id": "tz4x631ardos",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Belastingdienst: 'Pas vanaf 2013 discriminerende systemen rond toeslagen'",
     "subtitle": null,
     "published_at": "2023-01-20T18:57:42+01:00",
-    "updated_at": "2023-01-20T19:15:47+01:00",
+    "updated_at": "2023-01-20T22:45:54+01:00",
     "media_id": "dahxmimasvid",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6247833/belastingdienst-pas-vanaf-2013-discriminerende-systemen-rond-toeslagen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247887,
-    "slug": "nederland-levert-samen-met-vs-en-duitsland-een-patriot-systeem-aan-oekraine",
-    "type": "article",
-    "title": "Nederland levert samen met VS en Duitsland een Patriot-systeem aan Oekraïne",
-    "subtitle": null,
-    "published_at": "2023-01-20T18:56:04+01:00",
-    "updated_at": "2023-01-20T20:15:48+01:00",
-    "media_id": "m9oxveya71ww",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6247887/nederland-levert-samen-met-vs-en-duitsland-een-patriot-systeem-aan-oekraine.html",
     "open_new_window": false,
     "partner": null
   }
