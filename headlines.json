@@ -1,12 +1,81 @@
 [
   {
+    "id": 6247781,
+    "slug": "madonna-doet-twee-concerten-in-ziggo-dome-wegens-grote-belangstelling",
+    "type": "article",
+    "title": "Madonna doet twee concerten in Ziggo Dome wegens grote belangstelling",
+    "subtitle": null,
+    "published_at": "2023-01-20T11:06:19+01:00",
+    "updated_at": "2023-01-20T11:06:22+01:00",
+    "media_id": "89uxgxbaoiah",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6247781/madonna-doet-twee-concerten-in-ziggo-dome-wegens-grote-belangstelling.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247785,
+    "slug": "brabanders-filmen-hevige-sneeuwval",
+    "type": "video",
+    "title": "Brabanders filmen hevige sneeuwval",
+    "subtitle": "Video",
+    "published_at": "2023-01-20T10:56:49+01:00",
+    "updated_at": "2023-01-20T10:56:50+01:00",
+    "media_id": "umlxb4kalriz",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6247785/brabanders-filmen-hevige-sneeuwval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247784,
+    "slug": "rangers-vinden-gigantische-reuzenpad-in-australie",
+    "type": "video",
+    "title": "Rangers vinden gigantische reuzenpad in Australië",
+    "subtitle": "Video",
+    "published_at": "2023-01-20T10:51:52+01:00",
+    "updated_at": "2023-01-20T10:52:07+01:00",
+    "media_id": "5ovxxftax8g9",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6247784/rangers-vinden-gigantische-reuzenpad-in-australie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247776,
     "slug": "ryanair-op-vingers-getikt-door-acm-vanwege-duurzaamheidsclaim",
     "type": "article",
     "title": "Ryanair op vingers getikt door ACM vanwege duurzaamheidsclaim",
     "subtitle": null,
     "published_at": "2023-01-20T10:43:55+01:00",
-    "updated_at": "2023-01-20T10:43:57+01:00",
+    "updated_at": "2023-01-20T10:45:02+01:00",
     "media_id": "xyexoe1aqlse",
     "duration": null,
     "canonical_section": {
@@ -98,7 +167,7 @@
     "title": "Tim Hofman door Villamedia uitgeroepen tot Journalist van het Jaar",
     "subtitle": null,
     "published_at": "2023-01-20T10:07:51+01:00",
-    "updated_at": "2023-01-20T10:21:14+01:00",
+    "updated_at": "2023-01-20T10:59:03+01:00",
     "media_id": "g3zxx1sad3nb",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6247631/stelling-de-nutri-score-is-handig-voor-het-maken-van-gezondere-voedselkeuzes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247744,
-    "slug": "australian-open-directie-houdt-ook-na-nachtwerk-murray-vast-aan-tijdschema",
-    "type": "article",
-    "title": "Australian Open-directie houdt ook na nachtwerk Murray vast aan tijdschema",
-    "subtitle": null,
-    "published_at": "2023-01-20T06:24:31+01:00",
-    "updated_at": "2023-01-20T08:21:54+01:00",
-    "media_id": "w93xwd8ad55v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6247744/australian-open-directie-houdt-ook-na-nachtwerk-murray-vast-aan-tijdschema.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247743,
-    "slug": "chrissy-teigen-en-john-legend-verwelkomen-dochter-esti-maxine",
-    "type": "article",
-    "title": "Chrissy Teigen en John Legend verwelkomen dochter Esti Maxine",
-    "subtitle": null,
-    "published_at": "2023-01-20T06:19:30+01:00",
-    "updated_at": "2023-01-20T08:07:59+01:00",
-    "media_id": "e95x0kwa83p0",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6247743/chrissy-teigen-en-john-legend-verwelkomen-dochter-esti-maxine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247742,
-    "slug": "trump-moet-hillary-clinton-bijna-1-miljoen-dollar-betalen-vanwege-valse-claim",
-    "type": "article",
-    "title": "Trump moet Hillary Clinton bijna 1 miljoen dollar betalen vanwege valse claim",
-    "subtitle": null,
-    "published_at": "2023-01-20T06:18:41+01:00",
-    "updated_at": "2023-01-20T07:14:02+01:00",
-    "media_id": "jdgxu5say1hp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6247742/trump-moet-hillary-clinton-bijna-1-miljoen-dollar-betalen-vanwege-valse-claim.html",
     "open_new_window": false,
     "partner": null
   }
