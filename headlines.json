@@ -1,12 +1,58 @@
 [
   {
+    "id": 6247853,
+    "slug": "waarom-zet-poetin-luchtafweergeschut-op-daken-in-moskou",
+    "type": "video",
+    "title": "Waarom zet Poetin luchtafweergeschut op daken in Moskou?",
+    "subtitle": "Video",
+    "published_at": "2023-01-20T15:26:46+01:00",
+    "updated_at": "2023-01-20T15:26:48+01:00",
+    "media_id": "n74xpriacmr8",
+    "duration": "2:17",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6247853/waarom-zet-poetin-luchtafweergeschut-op-daken-in-moskou.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6247844,
+    "slug": "andrew-tate-blijft-nog-tot-zeker-eind-februari-vastzitten-in-roemenie",
+    "type": "article",
+    "title": "Andrew Tate blijft nog tot zeker eind februari vastzitten in Roemenië",
+    "subtitle": null,
+    "published_at": "2023-01-20T15:14:08+01:00",
+    "updated_at": "2023-01-20T15:14:09+01:00",
+    "media_id": "wpwxku7adjyb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6247844/andrew-tate-blijft-nog-tot-zeker-eind-februari-vastzitten-in-roemenie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247842,
     "slug": "boeren-moeten-toch-sneller-voldoen-aan-strengere-regels-voor-uitrijden-mest",
     "type": "article",
     "title": "Boeren moeten toch sneller voldoen aan strengere regels voor uitrijden mest",
     "subtitle": null,
     "published_at": "2023-01-20T15:12:52+01:00",
-    "updated_at": "2023-01-20T15:12:53+01:00",
+    "updated_at": "2023-01-20T15:26:37+01:00",
     "media_id": "latxrdmapua9",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Lagarde: 'Versoepeling van coronaregels in China jaagt Europese inflatie aan'",
     "subtitle": null,
     "published_at": "2023-01-20T14:44:29+01:00",
-    "updated_at": "2023-01-20T14:44:30+01:00",
+    "updated_at": "2023-01-20T15:14:02+01:00",
     "media_id": "u47x8k2asdtt",
     "duration": null,
     "canonical_section": {
@@ -213,8 +259,8 @@
     "title": "NPO-ombudsman onderzoekt uitspraak van Op1-presentatrice Gibbs over Israël",
     "subtitle": null,
     "published_at": "2023-01-20T13:51:09+01:00",
-    "updated_at": "2023-01-20T14:33:55+01:00",
-    "media_id": "3q8x24na6itj",
+    "updated_at": "2023-01-20T15:15:57+01:00",
+    "media_id": "nxxxl07a27fn",
     "duration": null,
     "canonical_section": {
       "id": 1771675,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6247810/brussel-dreigt-mestvoordeel-nederland-te-schrappen-den-haag-in-spoedoverleg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247803,
-    "slug": "dit-vinden-jullie-van-verbod-op-huisdieren-met-korte-snuit-of-vouworen-het-is-een-begin",
-    "type": "article",
-    "title": "Dit vinden jullie van verbod op huisdieren met korte snuit of vouworen: 'Het is een begin'",
-    "subtitle": null,
-    "published_at": "2023-01-20T12:32:13+01:00",
-    "updated_at": "2023-01-20T12:32:14+01:00",
-    "media_id": "lazx162aub63",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6247803/dit-vinden-jullie-van-verbod-op-huisdieren-met-korte-snuit-of-vouworen-het-is-een-begin.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247686,
-    "slug": "is-een-thuisbatterij-om-zonnestroom-op-te-slaan-een-goed-idee",
-    "type": "article",
-    "title": "Is een thuisbatterij om zonnestroom op te slaan een goed idee?",
-    "subtitle": "NU+",
-    "published_at": "2023-01-20T12:10:46+01:00",
-    "updated_at": "2023-01-20T12:15:37+01:00",
-    "media_id": "a23x7ahaidgb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772342,
-      "slug": "wonen",
-      "type": "default",
-      "name": "Wonen",
-      "style": "nuzakelijk",
-      "media_id": "3qlxtaiahydl",
-      "partner": null
-    },
-    "url": "/wonen/6247686/is-een-thuisbatterij-om-zonnestroom-op-te-slaan-een-goed-idee.html",
     "open_new_window": false,
     "partner": null
   }
