@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247876,
+    "slug": "neushoorn-rolt-door-sneeuw-in-beekse-bergen",
+    "type": "video",
+    "title": "Neushoorn rolt door sneeuw in Beekse Bergen",
+    "subtitle": "Video",
+    "published_at": "2023-01-20T17:27:58+01:00",
+    "updated_at": "2023-01-20T17:28:35+01:00",
+    "media_id": "ftmxlu1a78hd",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6247876/neushoorn-rolt-door-sneeuw-in-beekse-bergen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247872,
     "slug": "arsenal-haalt-met-trossard-eerste-winterse-versterking-na-mislopen-mudryk",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Sneeuwval gooit roet in eten: meerdere voetbalduels afgelast",
     "subtitle": null,
     "published_at": "2023-01-20T15:46:11+01:00",
-    "updated_at": "2023-01-20T16:02:33+01:00",
+    "updated_at": "2023-01-20T17:38:16+01:00",
     "media_id": "jyrxkeuawnl9",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Adema moet zich aan mestafspraak houden, boeren krijgen geen uitstel",
     "subtitle": null,
     "published_at": "2023-01-20T15:12:52+01:00",
-    "updated_at": "2023-01-20T17:20:12+01:00",
+    "updated_at": "2023-01-20T17:21:16+01:00",
     "media_id": "latxrdmapua9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6247831/duitsland-geeft-nog-geen-groen-licht-voor-tanks-wel-veel-extra-geld-voor-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247506,
-    "slug": "memphis-verlaat-fc-barcelona-en-tekent-voor-25-jaar-bij-atletico-madrid",
-    "type": "article",
-    "title": "Memphis verlaat FC Barcelona en tekent voor 2,5 jaar bij Atlético Madrid",
-    "subtitle": null,
-    "published_at": "2023-01-20T14:07:29+01:00",
-    "updated_at": "2023-01-20T16:48:17+01:00",
-    "media_id": "fbyxk6xa3gzr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6247506/memphis-verlaat-fc-barcelona-en-tekent-voor-25-jaar-bij-atletico-madrid.html",
     "open_new_window": false,
     "partner": null
   }
