@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247986,
+    "slug": "psv-gaat-zich-versterken-met-fabio-silva-geen-vervanger-voor-gakpo-of-madueke",
+    "type": "article",
+    "title": "PSV gaat zich versterken met Fábio Silva: 'Geen vervanger voor Gakpo of Madueke'",
+    "subtitle": null,
+    "published_at": "2023-01-21T20:20:05+01:00",
+    "updated_at": "2023-01-21T20:23:19+01:00",
+    "media_id": "tyhxqfya87r2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6247986/psv-gaat-zich-versterken-met-fabio-silva-geen-vervanger-voor-gakpo-of-madueke.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247984,
     "slug": "salernitana-en-vilhena-blijven-ook-na-aparte-trainerssoap-verliezen-in-serie-a",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Oekraïens leger wil nieuw materieel: 'Deze tank is stom'",
     "subtitle": "Video",
     "published_at": "2023-01-21T19:19:48+01:00",
-    "updated_at": "2023-01-21T19:19:49+01:00",
+    "updated_at": "2023-01-21T20:17:53+01:00",
     "media_id": "ow4xh10a405i",
     "duration": "1:04",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6247966/zelensky-woont-herdenking-bij-na-helikoptercrash-in-kyiv.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247834,
-    "slug": "nieuw-op-netflix-deze-films-en-series-verschenen-deze-week",
-    "type": "article",
-    "title": "Nieuw op Netflix: deze films en series verschenen deze week",
-    "subtitle": null,
-    "published_at": "2023-01-21T16:02:36+01:00",
-    "updated_at": "2023-01-21T16:02:37+01:00",
-    "media_id": "mdjxt9wakupo",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6247834/nieuw-op-netflix-deze-films-en-series-verschenen-deze-week.html",
     "open_new_window": false,
     "partner": null
   }
