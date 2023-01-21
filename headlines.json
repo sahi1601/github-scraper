@@ -1,5 +1,28 @@
 [
   {
+    "id": 6247952,
+    "slug": "dodelijk-slachtoffer-bij-schietpartij-winkelcentrum-zwijndrecht",
+    "type": "article",
+    "title": "Dodelijk slachtoffer bij schietpartij winkelcentrum Zwijndrecht",
+    "subtitle": null,
+    "published_at": "2023-01-21T14:23:31+01:00",
+    "updated_at": "2023-01-21T14:23:32+01:00",
+    "media_id": "bl6xz0baztky",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6247952/dodelijk-slachtoffer-bij-schietpartij-winkelcentrum-zwijndrecht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6247948,
     "slug": "nu-ook-vaste-vergoeding-voor-grotere-schades-door-aardbevingen-groningen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6247925/turkije-schrapt-bezoek-zweedse-minister-om-anti-turkse-protesten-in-stockholm.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6247923,
-    "slug": "drie-uithalers-opgepakt-omdat-ze-drugs-uit-containers-maasvlakte-kwamen-halen",
-    "type": "article",
-    "title": "Drie 'uithalers' opgepakt omdat ze drugs uit containers Maasvlakte kwamen halen",
-    "subtitle": null,
-    "published_at": "2023-01-21T09:27:05+01:00",
-    "updated_at": "2023-01-21T14:02:18+01:00",
-    "media_id": "4fexwj0ajrwc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6247923/drie-uithalers-opgepakt-omdat-ze-drugs-uit-containers-maasvlakte-kwamen-halen.html",
     "open_new_window": false,
     "partner": null
   }
