@@ -1,12 +1,35 @@
 [
   {
+    "id": 6248027,
+    "slug": "revelatie-lehecka-stunt-tegen-auger-aliassime-in-australie-tsitsipas-klopt-sinner",
+    "type": "article",
+    "title": "Revelatie Lehecka stunt tegen Auger-Aliassime in Australië, Tsitsipás klopt Sinner",
+    "subtitle": null,
+    "published_at": "2023-01-22T13:35:34+01:00",
+    "updated_at": "2023-01-22T13:35:35+01:00",
+    "media_id": "afbx67vaf47b",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6248027/revelatie-lehecka-stunt-tegen-auger-aliassime-in-australie-tsitsipas-klopt-sinner.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248037,
     "slug": "ajax-met-berghuis-en-kudus-in-klassieker-feyenoord-ongewijzigd",
     "type": "article",
     "title": "Ajax met Berghuis en Kudus in Klassieker, Feyenoord ongewijzigd",
     "subtitle": null,
     "published_at": "2023-01-22T13:19:20+01:00",
-    "updated_at": "2023-01-22T13:23:13+01:00",
+    "updated_at": "2023-01-22T13:31:18+01:00",
     "media_id": "daixg1ha3wyc",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Baas Nederlandsche Bank waarschuwt: juich niet te vroeg om dalende gasprijs",
     "subtitle": null,
     "published_at": "2023-01-22T12:28:31+01:00",
-    "updated_at": "2023-01-22T13:22:35+01:00",
+    "updated_at": "2023-01-22T13:39:15+01:00",
     "media_id": "si6x3lqa2uwm",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Zeker tien doden bij schietpartij na Aziatisch nieuwjaarsfeest bij Los Angeles",
     "subtitle": null,
     "published_at": "2023-01-22T11:54:12+01:00",
-    "updated_at": "2023-01-22T13:21:57+01:00",
+    "updated_at": "2023-01-22T13:33:59+01:00",
     "media_id": "5aixvwga9229",
     "duration": null,
     "canonical_section": {
@@ -185,13 +208,13 @@
   },
   {
     "id": 6248026,
-    "slug": "ajax-en-feyenoord-aangekomen-bij-de-kuip-1-1-bij-heerenveen-groningen",
+    "slug": "opstellingen-ajax-en-feyenoord-bekend-toeleven-naar-klassieker",
     "type": "article",
-    "title": "Ajax en Feyenoord aangekomen bij De Kuip, 1-1 bij Heerenveen-Groningen",
+    "title": "Opstellingen Ajax en Feyenoord bekend, toeleven naar Klassieker",
     "subtitle": "Liveblog",
     "published_at": "2023-01-22T11:53:48+01:00",
-    "updated_at": "2023-01-22T13:23:07+01:00",
-    "media_id": "tj3xmnaa0igg",
+    "updated_at": "2023-01-22T13:43:32+01:00",
+    "media_id": "daax5zqa8axf",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6248026/ajax-en-feyenoord-aangekomen-bij-de-kuip-1-1-bij-heerenveen-groningen.html",
+    "url": "/voetbal/6248026/opstellingen-ajax-en-feyenoord-bekend-toeleven-naar-klassieker.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6248008/mondiale-nummer-een-swiatek-onderuit-op-australian-open-ook-gauff-naar-huis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248006,
-    "slug": "australier-vine-weerstaat-aanval-simon-yates-en-wint-tour-down-under",
-    "type": "article",
-    "title": "Australiër Vine weerstaat aanval Simon Yates en wint Tour Down Under",
-    "subtitle": null,
-    "published_at": "2023-01-22T08:28:18+01:00",
-    "updated_at": "2023-01-22T09:02:51+01:00",
-    "media_id": "r9cx3gea5w12",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6248006/australier-vine-weerstaat-aanval-simon-yates-en-wint-tour-down-under.html",
     "open_new_window": false,
     "partner": null
   }
