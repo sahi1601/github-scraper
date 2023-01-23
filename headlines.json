@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248220,
+    "slug": "coa-gaf-geweld-tegen-minderjarige-asielzoekers-niet-door-inspectie-wil-uitleg",
+    "type": "article",
+    "title": "COA gaf geweld tegen minderjarige asielzoekers niet door, inspectie wil uitleg",
+    "subtitle": null,
+    "published_at": "2023-01-23T22:22:02+01:00",
+    "updated_at": "2023-01-23T22:22:03+01:00",
+    "media_id": "bn3xgv1app9i",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6248220/coa-gaf-geweld-tegen-minderjarige-asielzoekers-niet-door-inspectie-wil-uitleg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248222,
     "slug": "president-brazilie-juichte-voor-messi-na-uitschakeling-op-wk",
     "type": "video",
@@ -98,7 +121,7 @@
     "title": "Duitsland zegt sturen van tanks naar Oekraïne niet tegen te houden",
     "subtitle": "Overzicht",
     "published_at": "2023-01-23T21:01:28+01:00",
-    "updated_at": "2023-01-23T21:04:57+01:00",
+    "updated_at": "2023-01-23T22:18:10+01:00",
     "media_id": "7bhxplqao43n",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6247778/aanpak-natuurbranden-moet-nu-van-start-effect-laat-jaren-op-zich-wachten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248193,
-    "slug": "nieuwe-arrestatie-in-onderzoek-naar-moord-op-peter-r-de-vries",
-    "type": "article",
-    "title": "Nieuwe arrestatie in onderzoek naar moord op Peter R. de Vries",
-    "subtitle": null,
-    "published_at": "2023-01-23T17:17:35+01:00",
-    "updated_at": "2023-01-23T17:50:59+01:00",
-    "media_id": "v90xquzaodgl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6248193/nieuwe-arrestatie-in-onderzoek-naar-moord-op-peter-r-de-vries.html",
     "open_new_window": false,
     "partner": null
   }
