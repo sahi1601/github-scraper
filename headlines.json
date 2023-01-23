@@ -1,12 +1,35 @@
 [
   {
+    "id": 6248187,
+    "slug": "microsoft-investeert-miljarden-in-bedrijf-achter-chatgpt",
+    "type": "article",
+    "title": "Microsoft investeert miljarden in bedrijf achter ChatGPT",
+    "subtitle": null,
+    "published_at": "2023-01-23T16:40:34+01:00",
+    "updated_at": "2023-01-23T16:40:35+01:00",
+    "media_id": "gjnxl3harpnj",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6248187/microsoft-investeert-miljarden-in-bedrijf-achter-chatgpt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248181,
     "slug": "vijf-duitsers-aangeklaagd-voor-hoogverraad-omdat-ze-minister-wilden-ontvoeren",
     "type": "article",
     "title": "Vijf Duitsers aangeklaagd voor hoogverraad omdat ze minister wilden ontvoeren",
     "subtitle": null,
     "published_at": "2023-01-23T15:59:02+01:00",
-    "updated_at": "2023-01-23T16:12:38+01:00",
+    "updated_at": "2023-01-23T16:36:18+01:00",
     "media_id": "067x665agx7h",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6248148/psv-in-uitduel-met-fc-emmen-zonder-de-jong-en-transferdoelwit-fabio-silva.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248146,
-    "slug": "lees-alles-terug-over-de-persconferentie-van-koeman",
-    "type": "article",
-    "title": "Lees alles terug over de persconferentie van Koeman",
-    "subtitle": "Liveblog",
-    "published_at": "2023-01-23T12:46:44+01:00",
-    "updated_at": "2023-01-23T14:25:54+01:00",
-    "media_id": "idyxvetaco06",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6248146/lees-alles-terug-over-de-persconferentie-van-koeman.html",
     "open_new_window": false,
     "partner": null
   }
