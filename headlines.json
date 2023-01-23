@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248197,
+    "slug": "onderzoek-naar-verwoestende-explosie-in-haven-beiroet-na-ruim-een-jaar-hervat",
+    "type": "article",
+    "title": "Onderzoek naar verwoestende explosie in haven Beiroet na ruim een jaar hervat",
+    "subtitle": null,
+    "published_at": "2023-01-23T17:43:04+01:00",
+    "updated_at": "2023-01-23T17:43:05+01:00",
+    "media_id": "z0hxmzba57xs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6248197/onderzoek-naar-verwoestende-explosie-in-haven-beiroet-na-ruim-een-jaar-hervat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248199,
     "slug": "deze-nederlandse-rover-gaat-klimaatonderzoek-doen-in-antarctica",
     "type": "video",
@@ -52,7 +75,7 @@
     "title": "Nieuwe arrestatie in onderzoek naar moord op Peter R. de Vries",
     "subtitle": null,
     "published_at": "2023-01-23T17:17:35+01:00",
-    "updated_at": "2023-01-23T17:35:34+01:00",
+    "updated_at": "2023-01-23T17:45:34+01:00",
     "media_id": "v90xquzaodgl",
     "duration": null,
     "canonical_section": {
@@ -75,8 +98,8 @@
     "title": "Verdachte dodelijke schietpartij Zwijndrecht gewisseld naar andere auto",
     "subtitle": null,
     "published_at": "2023-01-23T17:15:36+01:00",
-    "updated_at": "2023-01-23T17:36:27+01:00",
-    "media_id": "gg2x8gjaw9oq",
+    "updated_at": "2023-01-23T17:46:02+01:00",
+    "media_id": "2qkxyqwah2k0",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6248152/claudia-de-breij-maakt-korte-theatertour-met-alleen-maar-liedjes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248154,
-    "slug": "koeman-wil-snel-eerste-doelman-bij-oranje-maar-we-hebben-niet-veel-topkeepers",
-    "type": "article",
-    "title": "Koeman wil snel eerste doelman bij Oranje: 'Maar we hebben niet veel topkeepers'",
-    "subtitle": null,
-    "published_at": "2023-01-23T13:58:32+01:00",
-    "updated_at": "2023-01-23T14:54:46+01:00",
-    "media_id": "rh7xrrpapttv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6248154/koeman-wil-snel-eerste-doelman-bij-oranje-maar-we-hebben-niet-veel-topkeepers.html",
     "open_new_window": false,
     "partner": null
   }
