@@ -23,29 +23,6 @@
     "partner": null
   },
   {
-    "id": 6248232,
-    "slug": "laten",
-    "type": "article",
-    "title": "LATEN",
-    "subtitle": null,
-    "published_at": "2023-01-24T06:08:28+01:00",
-    "updated_at": "2023-01-24T06:10:16+01:00",
-    "media_id": "1tlxkpkaqpmg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6248232/laten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6248231,
     "slug": "weerbericht-veel-bewolking-en-temperaturen-net-boven-het-vriespunt",
     "type": "article",
@@ -213,7 +190,7 @@
     "title": "Schietpartij na Aziatisch nieuwjaarsfeest in Californië eist elfde leven",
     "subtitle": null,
     "published_at": "2023-01-24T00:27:36+01:00",
-    "updated_at": "2023-01-24T00:27:37+01:00",
+    "updated_at": "2023-01-24T06:17:09+01:00",
     "media_id": "n67xajja6zd9",
     "duration": null,
     "canonical_section": {
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/buitenland/6248219/vs-geeft-tientallen-gestolen-museumstukken-terug-aan-italie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6248218,
+    "slug": "bekende-voetbalanalyticus-johan-boskamp-lag-zes-dagen-op-ic-met-hartproblemen",
+    "type": "article",
+    "title": "Bekende voetbalanalyticus Johan Boskamp lag zes dagen op ic met hartproblemen",
+    "subtitle": null,
+    "published_at": "2023-01-23T21:08:32+01:00",
+    "updated_at": "2023-01-23T21:29:09+01:00",
+    "media_id": "8ftxf96aqfcv",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6248218/bekende-voetbalanalyticus-johan-boskamp-lag-zes-dagen-op-ic-met-hartproblemen.html",
     "open_new_window": false,
     "partner": null
   }
