@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248230,
+    "slug": "zeven-doden-bij-nieuwe-schietpartij-in-californie-verdachte-aangehouden",
+    "type": "article",
+    "title": "Zeven doden bij nieuwe schietpartij in Californië, verdachte aangehouden",
+    "subtitle": null,
+    "published_at": "2023-01-24T05:31:37+01:00",
+    "updated_at": "2023-01-24T05:31:53+01:00",
+    "media_id": "nm2xlruaykzs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6248230/zeven-doden-bij-nieuwe-schietpartij-in-californie-verdachte-aangehouden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248229,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6248217/binnenkern-aarde-zou-gestopt-zijn-met-draaien-en-nu-de-andere-kant-op-gaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248190,
-    "slug": "santos-gaat-na-ontslag-bij-portugal-aan-de-slag-als-bondscoach-van-polen",
-    "type": "article",
-    "title": "Santos gaat na ontslag bij Portugal aan de slag als bondscoach van Polen",
-    "subtitle": null,
-    "published_at": "2023-01-23T20:48:19+01:00",
-    "updated_at": "2023-01-23T23:36:25+01:00",
-    "media_id": "1ucxrmham6om",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6248190/santos-gaat-na-ontslag-bij-portugal-aan-de-slag-als-bondscoach-van-polen.html",
     "open_new_window": false,
     "partner": null
   }
