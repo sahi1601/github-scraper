@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248347,
+    "slug": "formule-1-tikt-fia-president-op-de-vingers-na-uitspraken-over-waarde-van-de-sport",
+    "type": "article",
+    "title": "Formule 1 tikt FIA-president op de vingers na uitspraken over waarde van de sport",
+    "subtitle": null,
+    "published_at": "2023-01-24T17:33:11+01:00",
+    "updated_at": "2023-01-24T17:33:12+01:00",
+    "media_id": "2xcxfvtaazm4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6248347/formule-1-tikt-fia-president-op-de-vingers-na-uitspraken-over-waarde-van-de-sport.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248349,
     "slug": "militairen-rijden-door-verwoeste-straten-van-bakhmut",
     "type": "video",
@@ -93,12 +116,12 @@
   },
   {
     "id": 6248338,
-    "slug": "brendon-urie-stopt-met-panic-at-the-disco-omdat-hij-vader-wordt",
+    "slug": "panic-at-the-disco-stopt-omdat-zanger-brendon-urie-vader-wordt",
     "type": "article",
-    "title": "Brendon Urie stopt met Panic! At The Disco omdat hij vader wordt",
+    "title": "Panic! At The Disco stopt omdat zanger Brendon Urie vader wordt",
     "subtitle": null,
     "published_at": "2023-01-24T16:22:19+01:00",
-    "updated_at": "2023-01-24T16:23:02+01:00",
+    "updated_at": "2023-01-24T17:23:41+01:00",
     "media_id": "nlpx04za1zgx",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6248338/brendon-urie-stopt-met-panic-at-the-disco-omdat-hij-vader-wordt.html",
+    "url": "/muziek/6248338/panic-at-the-disco-stopt-omdat-zanger-brendon-urie-vader-wordt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Dit zijn de genomineerden voor de Oscars van 2023",
     "subtitle": null,
     "published_at": "2023-01-24T15:44:21+01:00",
-    "updated_at": "2023-01-24T17:00:25+01:00",
+    "updated_at": "2023-01-24T17:27:40+01:00",
     "media_id": "kxqxtolavv02",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Everything Everywhere All at Once is grootste kanshebber bij Oscars",
     "subtitle": null,
     "published_at": "2023-01-24T15:10:11+01:00",
-    "updated_at": "2023-01-24T16:01:27+01:00",
+    "updated_at": "2023-01-24T17:26:51+01:00",
     "media_id": "4n9xi30a4118",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6248296/ruim-duizend-grafheuvels-ontdekt-in-nederland-dankzij-speurwerk-6500-burgers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248298,
-    "slug": "politie-vindt-vermoedelijke-tweede-vluchtauto-verdachte-schietpartij-zwijndrecht",
-    "type": "article",
-    "title": "Politie vindt vermoedelijke tweede vluchtauto verdachte schietpartij Zwijndrecht",
-    "subtitle": null,
-    "published_at": "2023-01-24T12:55:57+01:00",
-    "updated_at": "2023-01-24T17:19:14+01:00",
-    "media_id": "dy4x2lxad7a4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6248298/politie-vindt-vermoedelijke-tweede-vluchtauto-verdachte-schietpartij-zwijndrecht.html",
     "open_new_window": false,
     "partner": null
   }
