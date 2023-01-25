@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248387,
+    "slug": "weerbericht-opnieuw-bewolkte-dag-met-dalende-temperaturen",
+    "type": "article",
+    "title": "Weerbericht: Opnieuw bewolkte dag met dalende temperaturen",
+    "subtitle": null,
+    "published_at": "2023-01-25T05:45:55+01:00",
+    "updated_at": "2023-01-25T06:06:38+01:00",
+    "media_id": "k82xj5zai1k1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6248387/weerbericht-opnieuw-bewolkte-dag-met-dalende-temperaturen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248386,
     "slug": "noord-koreaanse-hoofdstad-vijf-dagen-in-lockdown-om-luchtwegaandoening",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Feestjes aflopen en bakken met geld uitgeven: zo win je een Oscar",
     "subtitle": "NU+",
     "published_at": "2023-01-25T05:00:47+01:00",
-    "updated_at": "2023-01-25T05:00:48+01:00",
+    "updated_at": "2023-01-25T06:04:22+01:00",
     "media_id": "1p3xd7ca8bk5",
     "duration": null,
     "canonical_section": {
@@ -111,29 +134,6 @@
       "partner": null
     },
     "url": "/film/6247182/feestjes-aflopen-en-bakken-met-geld-uitgeven-zo-win-je-een-oscar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248322,
-    "slug": "we-struinen-meer-supermarkten-af-op-zoek-naar-de-beste-prijs",
-    "type": "article",
-    "title": "We struinen meer supermarkten af op zoek naar de beste prijs",
-    "subtitle": null,
-    "published_at": "2023-01-25T04:59:32+01:00",
-    "updated_at": "2023-01-25T04:59:33+01:00",
-    "media_id": "3ckxvjeaoyiq",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6248322/we-struinen-meer-supermarkten-af-op-zoek-naar-de-beste-prijs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +259,7 @@
     "title": "Van Nistelrooij vindt dat het crisis is bij PSV: 'Het is overleven nu'",
     "subtitle": null,
     "published_at": "2023-01-24T22:03:57+01:00",
-    "updated_at": "2023-01-25T05:07:36+01:00",
+    "updated_at": "2023-01-25T05:47:03+01:00",
     "media_id": "6bcxy0nazmwi",
     "duration": null,
     "canonical_section": {
@@ -374,7 +374,7 @@
     "title": "Tiental PSV verliest in Emmen en verzuimt koploper Feyenoord bij te halen",
     "subtitle": null,
     "published_at": "2023-01-24T20:41:37+01:00",
-    "updated_at": "2023-01-24T21:24:19+01:00",
+    "updated_at": "2023-01-25T05:47:23+01:00",
     "media_id": "4wkxy06ao5nv",
     "duration": null,
     "canonical_section": {
@@ -397,7 +397,7 @@
     "title": "Bayern voorkomt in slotfase eerste thuisnederlaag in meer dan een jaar tijd",
     "subtitle": null,
     "published_at": "2023-01-24T20:40:36+01:00",
-    "updated_at": "2023-01-24T23:42:44+01:00",
+    "updated_at": "2023-01-25T06:08:32+01:00",
     "media_id": "a7axo2ia220z",
     "duration": null,
     "canonical_section": {
