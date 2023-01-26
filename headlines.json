@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248636,
+    "slug": "nvwa-haalt-opnieuw-honden-weg-bij-brabantse-fokker",
+    "type": "video",
+    "title": "NVWA haalt opnieuw honden weg bij Brabantse fokker",
+    "subtitle": "Video",
+    "published_at": "2023-01-26T15:32:17+01:00",
+    "updated_at": "2023-01-26T15:32:18+01:00",
+    "media_id": "ebmxgsfa02w3",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6248636/nvwa-haalt-opnieuw-honden-weg-bij-brabantse-fokker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248594,
     "slug": "dit-is-jullie-mening-over-het-afbouwen-van-de-salderingsregeling",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Kringloopeconomie komt niet van de grond: 'Trends gaan juist verkeerde kant op'",
     "subtitle": null,
     "published_at": "2023-01-26T15:02:58+01:00",
-    "updated_at": "2023-01-26T15:21:40+01:00",
+    "updated_at": "2023-01-26T15:26:40+01:00",
     "media_id": "rhtxgifaygfr",
     "duration": null,
     "canonical_section": {
@@ -374,8 +397,8 @@
     "title": "Duivelsverzen-auteur Salman Rushdie brengt half jaar na aanslag nieuw boek uit",
     "subtitle": null,
     "published_at": "2023-01-26T12:39:56+01:00",
-    "updated_at": "2023-01-26T15:21:43+01:00",
-    "media_id": "8j0xpaza0qft",
+    "updated_at": "2023-01-26T15:25:35+01:00",
+    "media_id": "p4lxqw2auxpz",
     "duration": null,
     "canonical_section": {
       "id": 1772075,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6248597/jaimie-vaes-legde-geen-nieuwe-verklaring-af-in-zaak-tegen-lil-kleine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248596,
-    "slug": "aanhangers-navalny-plaatsen-replica-van-zijn-cel-in-berlijn",
-    "type": "video",
-    "title": "Aanhangers Navalny plaatsen replica van zijn cel in Berlijn",
-    "subtitle": "Video",
-    "published_at": "2023-01-26T11:52:36+01:00",
-    "updated_at": "2023-01-26T13:20:31+01:00",
-    "media_id": "dk9xm46a1xj4",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6248596/aanhangers-navalny-plaatsen-replica-van-zijn-cel-in-berlijn.html",
     "open_new_window": false,
     "partner": null
   }
