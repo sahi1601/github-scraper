@@ -1,12 +1,35 @@
 [
   {
+    "id": 6248572,
+    "slug": "fc-twente-nijdig-over-afgekeurde-goal-eigenlijk-winnen-we-hier-met-2-3",
+    "type": "article",
+    "title": "FC Twente nijdig over afgekeurde goal: 'Eigenlijk winnen we hier met 2-3'",
+    "subtitle": null,
+    "published_at": "2023-01-26T10:18:28+01:00",
+    "updated_at": "2023-01-26T10:18:29+01:00",
+    "media_id": "njkxqd5a2ef6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6248572/fc-twente-nijdig-over-afgekeurde-goal-eigenlijk-winnen-we-hier-met-2-3.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248574,
     "slug": "nationaal-theaterweekend-krijgt-voor-het-eerst-een-jongereneditie",
     "type": "article",
     "title": "Nationaal Theaterweekend krijgt voor het eerst een jongereneditie",
     "subtitle": null,
     "published_at": "2023-01-26T10:12:01+01:00",
-    "updated_at": "2023-01-26T10:12:02+01:00",
+    "updated_at": "2023-01-26T10:20:52+01:00",
     "media_id": "v8lxowma04rd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6248543/knmi-waarschuwt-voor-gladheid-meerdere-ongelukken-in-oosten-van-het-land.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248542,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-01-26T05:16:12+01:00",
-    "updated_at": "2023-01-26T05:16:13+01:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6248542/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
