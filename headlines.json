@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248766,
+    "slug": "groene-arbeidsvoorwaarden-steunen-werknemers-in-verduurzaming-van-hun-huis",
+    "type": "article",
+    "title": "Groene arbeidsvoorwaarden steunen werknemers in verduurzaming van hun huis",
+    "subtitle": null,
+    "published_at": "2023-01-27T12:08:15+01:00",
+    "updated_at": "2023-01-27T12:08:16+01:00",
+    "media_id": "hooxlvca1gva",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6248766/groene-arbeidsvoorwaarden-steunen-werknemers-in-verduurzaming-van-hun-huis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248757,
     "slug": "verdachte-van-moord-op-advocaat-derk-wiersum-laat-rechters-zien-hoe-hij-rent",
     "type": "article",
@@ -213,7 +236,7 @@
     "title": "Jongen na zes dagen op zee bevrijd uit container in Maleisië",
     "subtitle": "Video",
     "published_at": "2023-01-27T10:22:38+01:00",
-    "updated_at": "2023-01-27T10:27:18+01:00",
+    "updated_at": "2023-01-27T11:45:49+01:00",
     "media_id": "f5bx51uavdig",
     "duration": "0:50",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6248722/philips-kondigt-nieuwe-ontslagronde-aan-en-wil-ruim-duizend-banen-schrappen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248720,
-    "slug": "rick-astley-klaagt-rapper-yung-gravy-aan-om-na-apen-van-stem",
-    "type": "article",
-    "title": "Rick Astley klaagt rapper Yung Gravy aan om na-apen van stem",
-    "subtitle": null,
-    "published_at": "2023-01-27T08:52:45+01:00",
-    "updated_at": "2023-01-27T10:35:59+01:00",
-    "media_id": "ox7xbo0an4yv",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6248720/rick-astley-klaagt-rapper-yung-gravy-aan-om-na-apen-van-stem.html",
     "open_new_window": false,
     "partner": null
   }
