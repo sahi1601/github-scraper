@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248723,
+    "slug": "geruzie-bij-aannemers-leidt-weer-tot-vertraging-van-bouw-stikstoffabriek",
+    "type": "article",
+    "title": "Geruzie bij aannemers leidt wéér tot vertraging van bouw stikstoffabriek",
+    "subtitle": null,
+    "published_at": "2023-01-27T09:19:42+01:00",
+    "updated_at": "2023-01-27T09:19:44+01:00",
+    "media_id": "rd1xzc0a05ga",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6248723/geruzie-bij-aannemers-leidt-weer-tot-vertraging-van-bouw-stikstoffabriek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248715,
     "slug": "ben-jij-geregistreerd-als-donor-praat-mee-over-toestemming-voor-orgaandonatie",
     "type": "article",
@@ -282,7 +305,7 @@
     "title": "Scheepswrak voor Britse kust blijkt Nederlands oorlogsschip uit 17e eeuw",
     "subtitle": null,
     "published_at": "2023-01-27T06:23:41+01:00",
-    "updated_at": "2023-01-27T07:02:56+01:00",
+    "updated_at": "2023-01-27T09:13:23+01:00",
     "media_id": "7brxjuoa9dm5",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6248705/nieuwe-trainer-ajax-mogelijk-zondag-tegen-excelsior-al-op-de-bank.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248704,
-    "slug": "van-der-sar-over-ontslag-schreuder-pijnlijke-maar-noodzakelijke-beslissing",
-    "type": "article",
-    "title": "Van der Sar over ontslag Schreuder: 'Pijnlijke maar noodzakelijke beslissing'",
-    "subtitle": null,
-    "published_at": "2023-01-27T01:15:35+01:00",
-    "updated_at": "2023-01-27T07:29:52+01:00",
-    "media_id": "yzhxh6wa1d2s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6248704/van-der-sar-over-ontslag-schreuder-pijnlijke-maar-noodzakelijke-beslissing.html",
     "open_new_window": false,
     "partner": null
   }
