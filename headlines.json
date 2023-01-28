@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248899,
+    "slug": "rybakina-en-sabalenka-strijden-om-eerste-australian-open-titel",
+    "type": "article",
+    "title": "Rybakina en Sabalenka strijden om eerste Australian Open-titel",
+    "subtitle": "Liveblog tennis",
+    "published_at": "2023-01-28T09:27:22+01:00",
+    "updated_at": "2023-01-28T09:27:23+01:00",
+    "media_id": "pc5xxcka1o26",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6248899/rybakina-en-sabalenka-strijden-om-eerste-australian-open-titel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248898,
     "slug": "guardiola-roemt-exceptionele-matchwinner-ake-als-coach-wil-je-spelers-zoals-hij",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6248883/van-duijvenbode-bereikt-tweede-ronde-van-the-masters-en-treft-price.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248882,
-    "slug": "suriname-pakt-vier-verdachten-op-voor-mislukte-aanslag-op-gerechtsgebouw",
-    "type": "article",
-    "title": "Suriname pakt vier verdachten op voor mislukte aanslag op gerechtsgebouw",
-    "subtitle": null,
-    "published_at": "2023-01-27T23:02:43+01:00",
-    "updated_at": "2023-01-27T23:02:44+01:00",
-    "media_id": "xdtxscfav1gp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6248882/suriname-pakt-vier-verdachten-op-voor-mislukte-aanslag-op-gerechtsgebouw.html",
     "open_new_window": false,
     "partner": null
   }
