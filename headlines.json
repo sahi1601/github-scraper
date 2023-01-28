@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248892,
+    "slug": "ongenaakbare-rolstoeltennisster-de-groot-wint-australian-open-voor-vijfde-keer",
+    "type": "article",
+    "title": "Ongenaakbare rolstoeltennisster De Groot wint Australian Open voor vijfde keer",
+    "subtitle": null,
+    "published_at": "2023-01-28T08:16:35+01:00",
+    "updated_at": "2023-01-28T08:24:03+01:00",
+    "media_id": "bxqxzs6arhph",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6248892/ongenaakbare-rolstoeltennisster-de-groot-wint-australian-open-voor-vijfde-keer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248796,
     "slug": "etniciteit-zou-nooit-onderdeel-mogen-zijn-van-een-daderprofiel-van-de-politie",
     "type": "article",
@@ -93,12 +116,12 @@
   },
   {
     "id": 6248886,
-    "slug": "meerdere-kleinere-protesten-in-vs-na-vrijgeven-beelden-politiegeweld",
+    "slug": "meerdere-protesten-in-vs-na-vrijgeven-beelden-van-fatale-arrestatie-zwarte-man",
     "type": "article",
-    "title": "Meerdere kleinere protesten in VS na vrijgeven beelden politiegeweld",
+    "title": "Meerdere protesten in VS na vrijgeven beelden van fatale arrestatie zwarte man",
     "subtitle": null,
     "published_at": "2023-01-28T05:25:24+01:00",
-    "updated_at": "2023-01-28T06:23:31+01:00",
+    "updated_at": "2023-01-28T08:24:07+01:00",
     "media_id": "gx4xf4pa48fw",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6248886/meerdere-kleinere-protesten-in-vs-na-vrijgeven-beelden-politiegeweld.html",
+    "url": "/buitenland/6248886/meerdere-protesten-in-vs-na-vrijgeven-beelden-van-fatale-arrestatie-zwarte-man.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Jaren cel voor man die tijdens Capitool-bestorming politie aanviel met pepperspray",
     "subtitle": null,
     "published_at": "2023-01-28T00:57:24+01:00",
-    "updated_at": "2023-01-28T00:57:25+01:00",
+    "updated_at": "2023-01-28T08:16:19+01:00",
     "media_id": "jyyxqphabnkk",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6248876/ioc-voorzitter-bach-weren-russen-op-spelen-niet-in-lijn-met-olympisch-handvest.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248831,
-    "slug": "dit-weten-we-over-de-a12-blokkade-vier-keer-meer-aanwezigen-dan-verwacht",
-    "type": "article",
-    "title": "Dit weten we over de A12-blokkade: 'Vier keer meer aanwezigen dan verwacht'",
-    "subtitle": null,
-    "published_at": "2023-01-27T21:34:29+01:00",
-    "updated_at": "2023-01-28T05:55:54+01:00",
-    "media_id": "tfbx44jat85i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6248831/dit-weten-we-over-de-a12-blokkade-vier-keer-meer-aanwezigen-dan-verwacht.html",
     "open_new_window": false,
     "partner": null
   }
