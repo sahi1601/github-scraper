@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248945,
+    "slug": "doekhi-helpt-verrassende-bayern-uitdager-union-op-weg-naar-zege-in-derby",
+    "type": "article",
+    "title": "Doekhi helpt verrassende Bayern-uitdager Union op weg naar zege in derby",
+    "subtitle": null,
+    "published_at": "2023-01-28T17:28:59+01:00",
+    "updated_at": "2023-01-28T17:34:22+01:00",
+    "media_id": "4g3xz0uats75",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6248945/doekhi-helpt-verrassende-bayern-uitdager-union-op-weg-naar-zege-in-derby.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6248910,
     "slug": "minstens-helft-van-wereldwijde-sterfgevallen-door-corona-vindt-nu-plaats-in-china",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6248937,
-    "slug": "psv-halverwege-dankzij-uitgerekend-veerman-op-voorsprong",
+    "slug": "psv-met-kleine-voorsprong-begonnen-aan-tweede-helft",
     "type": "article",
-    "title": "PSV halverwege dankzij uitgerekend Veerman op voorsprong",
+    "title": "PSV met kleine voorsprong begonnen aan tweede helft",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-01-28T15:47:58+01:00",
-    "updated_at": "2023-01-28T17:16:17+01:00",
+    "updated_at": "2023-01-28T17:31:50+01:00",
     "media_id": "dxdxc4haeyup",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6248937/psv-halverwege-dankzij-uitgerekend-veerman-op-voorsprong.html",
+    "url": "/voetbal/6248937/psv-met-kleine-voorsprong-begonnen-aan-tweede-helft.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6248916/politie-grijpt-in-bij-klimaatbetoging-op-a12-bij-den-haag-demonstranten-opgepakt-en-weggevoerd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248913,
-    "slug": "sabalenka-wint-spannende-australian-open-finale-en-pakt-eerste-grand-slam-titel",
-    "type": "article",
-    "title": "Sabalenka wint spannende Australian Open-finale en pakt eerste Grand Slam-titel",
-    "subtitle": null,
-    "published_at": "2023-01-28T12:14:23+01:00",
-    "updated_at": "2023-01-28T12:53:27+01:00",
-    "media_id": "runxtqmaj8o4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6248913/sabalenka-wint-spannende-australian-open-finale-en-pakt-eerste-grand-slam-titel.html",
     "open_new_window": false,
     "partner": null
   }
