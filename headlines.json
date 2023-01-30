@@ -1,12 +1,35 @@
 [
   {
+    "id": 6249184,
+    "slug": "cbs-corrigeert-zinnen-over-rol-van-jeugdbescherming-in-toeslagenschandaal",
+    "type": "article",
+    "title": "CBS corrigeert zinnen over rol van jeugdbescherming in toeslagenschandaal",
+    "subtitle": null,
+    "published_at": "2023-01-30T22:30:10+01:00",
+    "updated_at": "2023-01-30T22:36:11+01:00",
+    "media_id": "5l4xzc6alkx4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249184/cbs-corrigeert-zinnen-over-rol-van-jeugdbescherming-in-toeslagenschandaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249183,
     "slug": "paris-saint-germain-lijkt-te-verrassen-met-komst-chelsea-bankzitter-ziyech",
     "type": "article",
     "title": "Paris Saint-Germain lijkt te verrassen met komst Chelsea-bankzitter Ziyech",
     "subtitle": null,
     "published_at": "2023-01-30T22:25:11+01:00",
-    "updated_at": "2023-01-30T22:27:29+01:00",
+    "updated_at": "2023-01-30T22:41:43+01:00",
     "media_id": "mgvx61nap6qj",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "J&J kan via faillissement niet ontkomen aan rechtszaken over babypoeder",
     "subtitle": null,
     "published_at": "2023-01-30T22:11:30+01:00",
-    "updated_at": "2023-01-30T22:11:31+01:00",
+    "updated_at": "2023-01-30T22:37:06+01:00",
     "media_id": "1w1xbj9axra4",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6249135/bijna-800-arrestaties-dragen-volgens-experts-juist-bij-aan-doel-van-klimaatacties.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249161,
-    "slug": "inmiddels-55-mensen-verdacht-van-rol-bij-voorbereiden-staatsgreep-in-duitsland",
-    "type": "article",
-    "title": "Inmiddels 55 mensen verdacht van rol bij voorbereiden staatsgreep in Duitsland",
-    "subtitle": null,
-    "published_at": "2023-01-30T18:26:00+01:00",
-    "updated_at": "2023-01-30T18:37:25+01:00",
-    "media_id": "9b9xtxfaf0aj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6249161/inmiddels-55-mensen-verdacht-van-rol-bij-voorbereiden-staatsgreep-in-duitsland.html",
     "open_new_window": false,
     "partner": null
   }
