@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249142,
+    "slug": "rijimpressie-mitsubishi-asx",
+    "type": "video",
+    "title": "Rijimpressie: Mitsubishi ASX",
+    "subtitle": "Video",
+    "published_at": "2023-01-30T15:53:08+01:00",
+    "updated_at": "2023-01-30T15:56:04+01:00",
+    "media_id": "i4rxfk2auayg",
+    "duration": "6:47",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6249142/rijimpressie-mitsubishi-asx.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249137,
     "slug": "opruimgoeroe-marie-kondo-vindt-rommeligheid-in-huis-geen-probleem-meer",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Zangeres Meghan Trainor in verwachting van tweede kindje",
     "subtitle": null,
     "published_at": "2023-01-30T15:39:19+01:00",
-    "updated_at": "2023-01-30T15:39:20+01:00",
+    "updated_at": "2023-01-30T15:47:26+01:00",
     "media_id": "uanx49oatu1z",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Drie luiaards sterven van de kou in vliegtuig op luchthaven van Luik",
     "subtitle": null,
     "published_at": "2023-01-30T13:05:18+01:00",
-    "updated_at": "2023-01-30T15:31:23+01:00",
+    "updated_at": "2023-01-30T15:49:25+01:00",
     "media_id": "0z3x9ayaecy4",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6249110/manodj-b-zegt-sumanta-bansi-uit-zelfverdediging-te-hebben-doodgestoken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249108,
-    "slug": "olympier-krumins-treedt-toe-tot-technische-staf-van-atletiekbond",
-    "type": "article",
-    "title": "Olympiër Krumins treedt toe tot technische staf van atletiekbond",
-    "subtitle": null,
-    "published_at": "2023-01-30T12:30:33+01:00",
-    "updated_at": "2023-01-30T12:35:54+01:00",
-    "media_id": "kl2xuh7avss5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6249108/olympier-krumins-treedt-toe-tot-technische-staf-van-atletiekbond.html",
     "open_new_window": false,
     "partner": null
   }
