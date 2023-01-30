@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249102,
+    "slug": "aantal-slecht-nagemaakte-eurobiljetten-in-nederland-neemt-toe",
+    "type": "article",
+    "title": "Aantal slecht nagemaakte eurobiljetten in Nederland neemt toe",
+    "subtitle": null,
+    "published_at": "2023-01-30T11:59:06+01:00",
+    "updated_at": "2023-01-30T11:59:07+01:00",
+    "media_id": "e03xk83a0eb1",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6249102/aantal-slecht-nagemaakte-eurobiljetten-in-nederland-neemt-toe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249099,
     "slug": "chinezen-laten-autos-in-bergtunnel-achter-vanwege-brand",
     "type": "video",
@@ -98,7 +121,7 @@
     "title": "Zeker 28 doden en ruim 150 gewonden bij explosie in Pakistaanse moskee",
     "subtitle": null,
     "published_at": "2023-01-30T10:54:51+01:00",
-    "updated_at": "2023-01-30T11:42:29+01:00",
+    "updated_at": "2023-01-30T11:45:07+01:00",
     "media_id": "ofaxf4maxsb5",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6249063/griekspoor-stijgt-vier-plekken-op-door-djokovic-aangevoerde-wereldranglijst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6227640,
-    "slug": "fusie-tussen-rtl-nederland-en-talpa-network-is-van-de-baan",
-    "type": "article",
-    "title": "Fusie tussen RTL Nederland en Talpa Network is van de baan",
-    "subtitle": null,
-    "published_at": "2023-01-30T08:09:41+01:00",
-    "updated_at": "2023-01-30T11:40:23+01:00",
-    "media_id": "vw2xqd0abjr9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6227640/fusie-tussen-rtl-nederland-en-talpa-network-is-van-de-baan.html",
     "open_new_window": false,
     "partner": null
   }
