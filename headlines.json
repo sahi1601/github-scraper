@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248803,
+    "slug": "nederlands-duo-mia-dion-strijdt-in-eerste-halve-finale-eurovisie-songfestival",
+    "type": "article",
+    "title": "Nederlands duo Mia & Dion strijdt in eerste halve finale Eurovisie Songfestival",
+    "subtitle": null,
+    "published_at": "2023-01-31T20:23:38+01:00",
+    "updated_at": "2023-01-31T20:24:09+01:00",
+    "media_id": "11kx7qgazg81",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772282,
+      "slug": "songfestival",
+      "type": "default",
+      "name": "Songfestival",
+      "style": "nuuit",
+      "media_id": "4a9xjerag1rk",
+      "partner": null
+    },
+    "url": "/songfestival/6248803/nederlands-duo-mia-dion-strijdt-in-eerste-halve-finale-eurovisie-songfestival.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249331,
     "slug": "psv-polste-memphis-voor-terugkeer-en-weigerde-miljoenenbod-psg-op-bakayoko",
     "type": "article",
@@ -236,7 +259,7 @@
     "title": "Heerenveen haalt Noor als opvolger Sarr, Groningen ontbindt contract Te Wierik",
     "subtitle": null,
     "published_at": "2023-01-31T17:40:27+01:00",
-    "updated_at": "2023-01-31T20:00:12+01:00",
+    "updated_at": "2023-01-31T20:14:29+01:00",
     "media_id": "9s1x2e3a0uns",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "PSV heeft met Belgisch international Thorgan Hazard gewenste aanvaller binnen",
     "subtitle": null,
     "published_at": "2023-01-31T16:49:24+01:00",
-    "updated_at": "2023-01-31T17:08:28+01:00",
+    "updated_at": "2023-01-31T20:25:23+01:00",
     "media_id": "jggxzduaaj01",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6249296/kamer-wil-seksuele-handelingen-met-overledene-strafbaar-stellen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249293,
-    "slug": "kabinet-beslist-in-de-zomer-of-groningenveld-jaar-langer-op-de-waakvlam-blijft",
-    "type": "article",
-    "title": "Kabinet beslist in de zomer of Groningenveld jaar langer op de waakvlam blijft",
-    "subtitle": null,
-    "published_at": "2023-01-31T16:10:56+01:00",
-    "updated_at": "2023-01-31T18:59:14+01:00",
-    "media_id": "ioyx8jdanbvj",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6249293/kabinet-beslist-in-de-zomer-of-groningenveld-jaar-langer-op-de-waakvlam-blijft.html",
     "open_new_window": false,
     "partner": null
   }
