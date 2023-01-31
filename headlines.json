@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249290,
+    "slug": "efteling-ontruimt-attracties-vanwege-grote-stroomstoring",
+    "type": "video",
+    "title": "Efteling ontruimt attracties vanwege grote stroomstoring",
+    "subtitle": "Video",
+    "published_at": "2023-01-31T15:26:45+01:00",
+    "updated_at": "2023-01-31T15:26:47+01:00",
+    "media_id": "5suxptea6maa",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249290/efteling-ontruimt-attracties-vanwege-grote-stroomstoring.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249286,
     "slug": "groenewegen-komt-centimeters-tekort-voor-tweede-ritzege-in-saoedi-arabie",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Grote stroomstoring rond Tilburg, attracties Efteling staan stil",
     "subtitle": null,
     "published_at": "2023-01-31T15:00:22+01:00",
-    "updated_at": "2023-01-31T15:23:09+01:00",
+    "updated_at": "2023-01-31T15:40:28+01:00",
     "media_id": "sqgxkj6arrt0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6249253/go-ahead-huurt-serra-van-valencia-en-ziet-tekie-gaan-fc-utrecht-haalt-descotte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248337,
-    "slug": "studenten-eisen-einde-aan-fossiel-geld-universiteiten-stop-greenwashing",
-    "type": "article",
-    "title": "Studenten eisen einde aan 'fossiel' geld universiteiten: 'Stop greenwashing'",
-    "subtitle": "NU+",
-    "published_at": "2023-01-31T12:25:43+01:00",
-    "updated_at": "2023-01-31T13:02:22+01:00",
-    "media_id": "n1tx5m0aq51f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6248337/studenten-eisen-einde-aan-fossiel-geld-universiteiten-stop-greenwashing.html",
     "open_new_window": false,
     "partner": null
   }
