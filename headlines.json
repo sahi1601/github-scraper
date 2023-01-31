@@ -1,12 +1,35 @@
 [
   {
+    "id": 6249314,
+    "slug": "heerenveen-haalt-noor-als-opvolger-sarr-groningen-huurt-fins-international",
+    "type": "article",
+    "title": "Heerenveen haalt Noor als opvolger Sarr, Groningen huurt Fins international",
+    "subtitle": null,
+    "published_at": "2023-01-31T17:40:27+01:00",
+    "updated_at": "2023-01-31T17:47:24+01:00",
+    "media_id": "9s1x2e3a0uns",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6249314/heerenveen-haalt-noor-als-opvolger-sarr-groningen-huurt-fins-international.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249313,
     "slug": "braspennincx-en-van-riessen-zijn-toe-aan-rust-en-laten-ek-baanwielrennen-schieten",
     "type": "article",
     "title": "Braspennincx en Van Riessen zijn toe aan rust en laten EK baanwielrennen schieten",
     "subtitle": null,
     "published_at": "2023-01-31T17:37:23+01:00",
-    "updated_at": "2023-01-31T17:37:25+01:00",
+    "updated_at": "2023-01-31T17:44:54+01:00",
     "media_id": "e8sxok6ar4y9",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Yesilgöz vindt het goed dat klimaatactivisten worden opgepakt vóór protest",
     "subtitle": null,
     "published_at": "2023-01-31T17:14:12+01:00",
-    "updated_at": "2023-01-31T17:14:13+01:00",
+    "updated_at": "2023-01-31T17:42:17+01:00",
     "media_id": "bscxhlzajr4o",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6249267/ten-hag-en-manchester-united-moeten-eriksen-maandenlang-missen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249264,
-    "slug": "air-miles-worden-minder-lang-geldig",
-    "type": "article",
-    "title": "Air Miles worden minder lang geldig",
-    "subtitle": null,
-    "published_at": "2023-01-31T13:20:35+01:00",
-    "updated_at": "2023-01-31T16:34:33+01:00",
-    "media_id": "x2pxv8daalju",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6249264/air-miles-worden-minder-lang-geldig.html",
     "open_new_window": false,
     "partner": null
   }
