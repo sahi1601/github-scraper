@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249189,
+    "slug": "haagse-oud-wethouders-de-mos-en-guernaoui-horen-strafeis-in-corruptiezaak",
+    "type": "article",
+    "title": "Haagse oud-wethouders De Mos en Guernaoui horen strafeis in corruptiezaak",
+    "subtitle": null,
+    "published_at": "2023-01-31T05:38:46+01:00",
+    "updated_at": "2023-01-31T05:38:47+01:00",
+    "media_id": "1bfxsvlaxgtf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249189/haagse-oud-wethouders-de-mos-en-guernaoui-horen-strafeis-in-corruptiezaak.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249188,
     "slug": "dodental-na-zelfmoordaanslag-in-pakistaanse-moskee-stijgt-naar-83",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6249170/scholieren-liepen-wereldwijd-maanden-leerachterstand-op-door-corona.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249171,
-    "slug": "heerenveen-maakt-financiele-klapper-met-miljoenentransfer-sarr-naar-lyon",
-    "type": "article",
-    "title": "Heerenveen maakt financiële klapper met miljoenentransfer Sarr naar Lyon",
-    "subtitle": null,
-    "published_at": "2023-01-30T20:09:06+01:00",
-    "updated_at": "2023-01-30T21:22:56+01:00",
-    "media_id": "8uux69pa9dnb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6249171/heerenveen-maakt-financiele-klapper-met-miljoenentransfer-sarr-naar-lyon.html",
     "open_new_window": false,
     "partner": null
   }
