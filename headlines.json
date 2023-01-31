@@ -1,12 +1,58 @@
 [
   {
+    "id": 6249191,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-01-31T06:06:05+01:00",
+    "updated_at": "2023-01-31T06:06:05+01:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6249191/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249190,
+    "slug": "weerbericht-vrijwel-de-hele-dag-buien-en-stevige-wind",
+    "type": "article",
+    "title": "Weerbericht: Vrijwel de hele dag buien en stevige wind",
+    "subtitle": null,
+    "published_at": "2023-01-31T05:48:56+01:00",
+    "updated_at": "2023-01-31T06:06:37+01:00",
+    "media_id": "uy0x98gaqgd6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249190/weerbericht-vrijwel-de-hele-dag-buien-en-stevige-wind.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249189,
     "slug": "haagse-oud-wethouders-de-mos-en-guernaoui-horen-strafeis-in-corruptiezaak",
     "type": "article",
     "title": "Haagse oud-wethouders De Mos en Guernaoui horen strafeis in corruptiezaak",
     "subtitle": null,
     "published_at": "2023-01-31T05:38:46+01:00",
-    "updated_at": "2023-01-31T05:38:47+01:00",
+    "updated_at": "2023-01-31T06:11:24+01:00",
     "media_id": "1bfxsvlaxgtf",
     "duration": null,
     "canonical_section": {
@@ -116,12 +162,12 @@
   },
   {
     "id": 6249048,
-    "slug": "70-jaar-na-watersnoodramp-dit-gebeurde-tijdens-de-rampnacht-en-daarna",
+    "slug": "zeventig-jaar-na-watersnoodramp-dit-gebeurde-tijdens-de-rampnacht-en-daarna",
     "type": "article",
-    "title": "70 jaar na Watersnoodramp: dit gebeurde tijdens de rampnacht (en daarna)",
+    "title": "Zeventig jaar na Watersnoodramp: dit gebeurde tijdens de rampnacht (en daarna)",
     "subtitle": null,
     "published_at": "2023-01-31T05:07:56+01:00",
-    "updated_at": "2023-01-31T05:07:57+01:00",
+    "updated_at": "2023-01-31T06:04:27+01:00",
     "media_id": "vhmx9ewa4r9x",
     "duration": null,
     "canonical_section": {
@@ -133,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6249048/70-jaar-na-watersnoodramp-dit-gebeurde-tijdens-de-rampnacht-en-daarna.html",
+    "url": "/binnenland/6249048/zeventig-jaar-na-watersnoodramp-dit-gebeurde-tijdens-de-rampnacht-en-daarna.html",
     "open_new_window": false,
     "partner": null
   },
@@ -185,12 +231,12 @@
   },
   {
     "id": 6249187,
-    "slug": "vliegtuig-landt-na-vlucht-van-13-uur-op-zelfde-luchthaven-van-waar-het-vertrok",
+    "slug": "vliegtuig-landt-na-vlucht-van-dertien-uur-op-zelfde-luchthaven-vanwaar-het-vertrok",
     "type": "article",
-    "title": "Vliegtuig landt na vlucht van 13 uur op zelfde luchthaven van waar het vertrok",
+    "title": "Vliegtuig landt na vlucht van dertien uur op zelfde luchthaven vanwaar het vertrok",
     "subtitle": null,
     "published_at": "2023-01-31T00:16:38+01:00",
-    "updated_at": "2023-01-31T00:48:20+01:00",
+    "updated_at": "2023-01-31T06:05:47+01:00",
     "media_id": "omexoiiafmn9",
     "duration": null,
     "canonical_section": {
@@ -202,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/opmerkelijk/6249187/vliegtuig-landt-na-vlucht-van-13-uur-op-zelfde-luchthaven-van-waar-het-vertrok.html",
+    "url": "/opmerkelijk/6249187/vliegtuig-landt-na-vlucht-van-dertien-uur-op-zelfde-luchthaven-vanwaar-het-vertrok.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6249179/zanger-lee-towers-heeft-zijn-heup-gebroken-en-moet-revalideren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6248163,
-    "slug": "oud-oranje-international-bruma-keert-bij-heerenveen-terug-in-eredivisie",
-    "type": "article",
-    "title": "Oud-Oranje-international Bruma keert bij Heerenveen terug in Eredivisie",
-    "subtitle": null,
-    "published_at": "2023-01-30T21:04:38+01:00",
-    "updated_at": "2023-01-30T23:23:35+01:00",
-    "media_id": "yjhxh91ak6w6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6248163/oud-oranje-international-bruma-keert-bij-heerenveen-terug-in-eredivisie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249170,
-    "slug": "scholieren-liepen-wereldwijd-maanden-leerachterstand-op-door-corona",
-    "type": "article",
-    "title": "Scholieren liepen wereldwijd maanden leerachterstand op door corona",
-    "subtitle": null,
-    "published_at": "2023-01-30T21:04:11+01:00",
-    "updated_at": "2023-01-30T21:14:35+01:00",
-    "media_id": "erjxe7aaygu0",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6249170/scholieren-liepen-wereldwijd-maanden-leerachterstand-op-door-corona.html",
     "open_new_window": false,
     "partner": null
   }
