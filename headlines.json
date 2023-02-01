@@ -1,5 +1,51 @@
 [
   {
+    "id": 6249392,
+    "slug": "billie-eilish-en-florence-the-machine-bij-eerste-namen-voor-lowlands",
+    "type": "article",
+    "title": "Billie Eilish en Florence + The Machine bij eerste namen voor Lowlands",
+    "subtitle": null,
+    "published_at": "2023-02-01T11:29:47+01:00",
+    "updated_at": "2023-02-01T11:29:48+01:00",
+    "media_id": "vm0xngraz3yd",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6249392/billie-eilish-en-florence-the-machine-bij-eerste-namen-voor-lowlands.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249393,
+    "slug": "auto-zit-klem-onder-vrachtwagen-na-zwaar-ongeluk-op-a15",
+    "type": "video",
+    "title": "Auto zit klem onder vrachtwagen na zwaar ongeluk op A15",
+    "subtitle": "Video",
+    "published_at": "2023-02-01T11:21:07+01:00",
+    "updated_at": "2023-02-01T11:23:16+01:00",
+    "media_id": "bxmx1vxaa056",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6249393/auto-zit-klem-onder-vrachtwagen-na-zwaar-ongeluk-op-a15.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249385,
     "slug": "minister-en-leraren-kritisch-op-amsterdams-plan-met-onbevoegde-leerkrachten",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Kabinet komt toch zelf met financiële regeling voor zorgpersoneel met long covid",
     "subtitle": null,
     "published_at": "2023-02-01T10:54:26+01:00",
-    "updated_at": "2023-02-01T11:15:39+01:00",
+    "updated_at": "2023-02-01T11:18:36+01:00",
     "media_id": "5mvx0bkar1jt",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/koningshuis/6249354/oranjes-gooien-heupen-los-op-laatste-avond-op-aruba.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249353,
-    "slug": "talkshow-dr-phil-stopt-deze-lente-na-ruim-twintig-jaar",
-    "type": "article",
-    "title": "Talkshow Dr. Phil stopt deze lente na ruim twintig jaar",
-    "subtitle": null,
-    "published_at": "2023-02-01T06:27:51+01:00",
-    "updated_at": "2023-02-01T09:28:35+01:00",
-    "media_id": "graxej0a5nzk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6249353/talkshow-dr-phil-stopt-deze-lente-na-ruim-twintig-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249350,
-    "slug": "weerbericht-enkele-buien-en-harde-soms-zelfs-stormachtige-wind",
-    "type": "article",
-    "title": "Weerbericht: Enkele buien en harde, soms zelfs stormachtige wind",
-    "subtitle": null,
-    "published_at": "2023-02-01T05:32:22+01:00",
-    "updated_at": "2023-02-01T06:17:42+01:00",
-    "media_id": "tl3xiuca8mdl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6249350/weerbericht-enkele-buien-en-harde-soms-zelfs-stormachtige-wind.html",
     "open_new_window": false,
     "partner": null
   }
