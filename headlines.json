@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249483,
+    "slug": "dallinga-en-van-den-boomen-helpen-toulouse-aan-zege-marseille-nadert-psg",
+    "type": "article",
+    "title": "Dallinga en Van den Boomen helpen Toulouse aan zege, Marseille nadert PSG",
+    "subtitle": null,
+    "published_at": "2023-02-01T20:53:21+01:00",
+    "updated_at": "2023-02-01T20:53:22+01:00",
+    "media_id": "ovyx74havsfj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6249483/dallinga-en-van-den-boomen-helpen-toulouse-aan-zege-marseille-nadert-psg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249481,
     "slug": "vuilniszakken-stapelen-zich-door-staking-op-in-utrecht",
     "type": "video",
@@ -75,7 +98,7 @@
     "title": "Amrabat wint dag na mislopen droomtransfer met Fiorentina in bekertoernooi",
     "subtitle": null,
     "published_at": "2023-02-01T20:02:46+01:00",
-    "updated_at": "2023-02-01T20:37:07+01:00",
+    "updated_at": "2023-02-01T20:57:39+01:00",
     "media_id": "lr8x6e2a9zu7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6249457/om-eis-tegen-de-mos-22-maanden-celstraf-en-vier-jaar-geen-publiek-ambt-vervullen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249453,
-    "slug": "gastlanden-wk-vrouwenvoetbal-woedend-op-fifa-vanwege-saoedische-sponsor",
-    "type": "article",
-    "title": "Gastlanden WK vrouwenvoetbal woedend op FIFA vanwege Saoedische sponsor",
-    "subtitle": null,
-    "published_at": "2023-02-01T16:22:14+01:00",
-    "updated_at": "2023-02-01T16:24:11+01:00",
-    "media_id": "lfaxwqba6203",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6249453/gastlanden-wk-vrouwenvoetbal-woedend-op-fifa-vanwege-saoedische-sponsor.html",
     "open_new_window": false,
     "partner": null
   }
