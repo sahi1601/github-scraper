@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249365,
+    "slug": "amerikaanse-agent-haalt-man-uit-auto-die-in-brand-vliegt",
+    "type": "video",
+    "title": "Amerikaanse agent haalt man uit auto die in brand vliegt",
+    "subtitle": "Video",
+    "published_at": "2023-02-01T09:21:44+01:00",
+    "updated_at": "2023-02-01T09:21:45+01:00",
+    "media_id": "0m6x7m6a5kat",
+    "duration": "0:51",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6249365/amerikaanse-agent-haalt-man-uit-auto-die-in-brand-vliegt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249358,
     "slug": "chipkaart-of-bankpas-praat-mee-over-het-nieuwe-inchecken-in-het-ov",
     "type": "article",
@@ -236,7 +259,7 @@
     "title": "Talkshow Dr. Phil stopt deze lente na ruim twintig jaar",
     "subtitle": null,
     "published_at": "2023-02-01T06:27:51+01:00",
-    "updated_at": "2023-02-01T06:52:18+01:00",
+    "updated_at": "2023-02-01T09:28:35+01:00",
     "media_id": "graxej0a5nzk",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Zeespiegeldreiging is niet het breken van de dijken, maar de hele kust",
     "subtitle": null,
     "published_at": "2023-02-01T05:00:11+01:00",
-    "updated_at": "2023-02-01T05:00:13+01:00",
+    "updated_at": "2023-02-01T09:28:52+01:00",
     "media_id": "vbyx0qdawoir",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6249346/chelsea-maakt-van-enzo-fernandez-duurste-premier-league-speler-ooit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249335,
-    "slug": "ten-hag-en-united-vinden-in-sabitzer-vervanger-van-geblesseerde-eriksen",
-    "type": "article",
-    "title": "Ten Hag en United vinden in Sabitzer vervanger van geblesseerde Eriksen",
-    "subtitle": null,
-    "published_at": "2023-02-01T01:21:55+01:00",
-    "updated_at": "2023-02-01T07:16:20+01:00",
-    "media_id": "mjzxm9uakgh6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6249335/ten-hag-en-united-vinden-in-sabitzer-vervanger-van-geblesseerde-eriksen.html",
     "open_new_window": false,
     "partner": null
   }
