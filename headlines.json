@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249473,
+    "slug": "nieuwe-autos-waren-weer-in-trek-in-januari",
+    "type": "article",
+    "title": "Nieuwe auto's waren weer in trek in januari",
+    "subtitle": null,
+    "published_at": "2023-02-01T19:20:16+01:00",
+    "updated_at": "2023-02-01T19:20:17+01:00",
+    "media_id": "a02xf16al18h",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6249473/nieuwe-autos-waren-weer-in-trek-in-januari.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249475,
     "slug": "koninklijke-familie-reist-per-marineschip-van-aruba-naar-curacao",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6249439/ariens-in-tranen-na-tweede-overwinning-in-alternatieve-elfstedentocht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249223,
-    "slug": "beyonce-treedt-in-juni-twee-keer-op-in-johan-cruijff-arena",
-    "type": "article",
-    "title": "Beyoncé treedt in juni twee keer op in Johan Cruijff ArenA",
-    "subtitle": null,
-    "published_at": "2023-02-01T15:04:36+01:00",
-    "updated_at": "2023-02-01T15:39:07+01:00",
-    "media_id": "cbnx6rpax3pz",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6249223/beyonce-treedt-in-juni-twee-keer-op-in-johan-cruijff-arena.html",
     "open_new_window": false,
     "partner": null
   }
