@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249617,
+    "slug": "rijimpressie-porsche-911-dakar",
+    "type": "video",
+    "title": "Rijimpressie: Porsche 911 Dakar",
+    "subtitle": "Video",
+    "published_at": "2023-02-02T17:39:42+01:00",
+    "updated_at": "2023-02-02T17:39:44+01:00",
+    "media_id": "55ux3flae15p",
+    "duration": "7:02",
+    "canonical_section": {
+      "id": 881569,
+      "slug": "auto",
+      "type": "default",
+      "name": "Onderweg",
+      "style": "nuzakelijk",
+      "media_id": "z66x61xaq79c",
+      "partner": null
+    },
+    "url": "/auto/6249617/rijimpressie-porsche-911-dakar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249571,
     "slug": "recensieoverzicht-klem-een-even-overbodig-als-aangenaam-weerzien",
     "type": "article",
@@ -397,7 +420,7 @@
     "title": "ECB verhoogt opnieuw de rente om inflatie te bestrijden",
     "subtitle": null,
     "published_at": "2023-02-02T15:04:59+01:00",
-    "updated_at": "2023-02-02T17:33:51+01:00",
+    "updated_at": "2023-02-02T17:42:21+01:00",
     "media_id": "rtfxc43aapl0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6249584/veluwe-krijgt-tienduizenden-jonge-bomen-om-verzuurde-bodem-te-onderzoeken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249585,
-    "slug": "amerikaan-schaatst-op-beijzelde-straat-in-texas-na-hevige-sneeuwstorm",
-    "type": "video",
-    "title": "Amerikaan schaatst op beijzelde straat in Texas na hevige sneeuwstorm",
-    "subtitle": "Video",
-    "published_at": "2023-02-02T14:43:58+01:00",
-    "updated_at": "2023-02-02T14:43:59+01:00",
-    "media_id": "3vwx3jlaiiuz",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6249585/amerikaan-schaatst-op-beijzelde-straat-in-texas-na-hevige-sneeuwstorm.html",
     "open_new_window": false,
     "partner": null
   }
