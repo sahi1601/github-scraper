@@ -1,12 +1,35 @@
 [
   {
+    "id": 6249541,
+    "slug": "nederlandse-bende-opgerold-na-meer-dan-50-plofkraken-in-duitsland",
+    "type": "article",
+    "title": "Nederlandse bende opgerold na meer dan 50 plofkraken in Duitsland",
+    "subtitle": null,
+    "published_at": "2023-02-02T11:20:52+01:00",
+    "updated_at": "2023-02-02T11:28:20+01:00",
+    "media_id": "sd2xydgai3ku",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6249541/nederlandse-bende-opgerold-na-meer-dan-50-plofkraken-in-duitsland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249540,
     "slug": "titelverdediger-van-rijthoven-doet-opnieuw-mee-aan-grastoernooi-rosmalen",
     "type": "article",
     "title": "Titelverdediger Van Rijthoven doet opnieuw mee aan grastoernooi Rosmalen",
     "subtitle": null,
     "published_at": "2023-02-02T11:12:18+01:00",
-    "updated_at": "2023-02-02T11:14:21+01:00",
+    "updated_at": "2023-02-02T11:26:29+01:00",
     "media_id": "2jsx67lan6fz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6249504/straatverbod-voor-stalker-van-keanu-reeves-die-beweert-dat-hij-familie-van-hem-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249456,
-    "slug": "stelling-het-tekort-op-de-arbeidsmarkt-lossen-we-op-door-parttimebanen-te-schrappen",
-    "type": "article",
-    "title": "Stelling: Het tekort op de arbeidsmarkt lossen we op door parttimebanen te schrappen",
-    "subtitle": null,
-    "published_at": "2023-02-02T07:02:59+01:00",
-    "updated_at": "2023-02-02T07:03:00+01:00",
-    "media_id": "4suxlqcava99",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6249456/stelling-het-tekort-op-de-arbeidsmarkt-lossen-we-op-door-parttimebanen-te-schrappen.html",
     "open_new_window": false,
     "partner": null
   }
