@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249658,
+    "slug": "onderzoek-medicijnen-afstemmen-op-dna-scheelt-30-procent-aan-bijwerkingen",
+    "type": "article",
+    "title": "Onderzoek: Medicijnen afstemmen op DNA scheelt 30 procent aan bijwerkingen",
+    "subtitle": null,
+    "published_at": "2023-02-03T08:16:30+01:00",
+    "updated_at": "2023-02-03T08:16:31+01:00",
+    "media_id": "u5wxq3ealu7h",
+    "duration": null,
+    "canonical_section": {
+      "id": 1146768,
+      "slug": "gezondheid",
+      "type": "default",
+      "name": "Gezondheid",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/gezondheid/6249658/onderzoek-medicijnen-afstemmen-op-dna-scheelt-30-procent-aan-bijwerkingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249653,
     "slug": "voor-de-mooiste-stations-moet-je-naar-zuid-limburg-klimmen-ransdaal-favoriet",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6249645/red-bull-kondigt-vandaag-waarschijnlijk-motorendeal-met-ford-voor-2026-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249644,
-    "slug": "zelensky-voert-druk-op-europese-leiders-op-voor-meer-hulp-en-eu-lidmaatschap",
-    "type": "article",
-    "title": "Zelensky voert druk op Europese leiders op voor meer hulp en EU-lidmaatschap",
-    "subtitle": null,
-    "published_at": "2023-02-02T23:01:35+01:00",
-    "updated_at": "2023-02-02T23:07:28+01:00",
-    "media_id": "i13xzyhas2dm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6249644/zelensky-voert-druk-op-europese-leiders-op-voor-meer-hulp-en-eu-lidmaatschap.html",
     "open_new_window": false,
     "partner": null
   }
