@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249650,
+    "slug": "kyrgios-zegt-schuldig-te-zijn-aan-mishandeling-van-ex-vriendin",
+    "type": "article",
+    "title": "Kyrgios zegt schuldig te zijn aan mishandeling van ex-vriendin",
+    "subtitle": null,
+    "published_at": "2023-02-03T05:48:49+01:00",
+    "updated_at": "2023-02-03T05:48:51+01:00",
+    "media_id": "osix4l9aabai",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6249650/kyrgios-zegt-schuldig-te-zijn-aan-mishandeling-van-ex-vriendin.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249649,
     "slug": "weerbericht-bewolkte-zonnige-en-regenachtige-periodes-wisselen-elkaar-af",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6249641/verdachte-van-fataal-ongeluk-op-a16-weer-bij-kennis-en-in-voorarrest-genomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249636,
-    "slug": "van-gerwen-buigt-voor-debutant-dobey-in-finale-eerste-premier-league-avond",
-    "type": "article",
-    "title": "Van Gerwen buigt voor debutant Dobey in finale eerste Premier League-avond",
-    "subtitle": null,
-    "published_at": "2023-02-02T21:13:42+01:00",
-    "updated_at": "2023-02-03T00:10:23+01:00",
-    "media_id": "eq5x03gaql7x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6249636/van-gerwen-buigt-voor-debutant-dobey-in-finale-eerste-premier-league-avond.html",
     "open_new_window": false,
     "partner": null
   }
