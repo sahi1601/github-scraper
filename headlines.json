@@ -1,12 +1,58 @@
 [
   {
-    "id": 6249658,
-    "slug": "onderzoek-medicijnen-afstemmen-op-dna-scheelt-30-procent-aan-bijwerkingen",
+    "id": 6249661,
+    "slug": "messi-zet-deur-voor-deelname-aan-wk-van-2026-toch-op-een-kier",
     "type": "article",
-    "title": "Onderzoek: Medicijnen afstemmen op DNA scheelt 30 procent aan bijwerkingen",
+    "title": "Messi zet deur voor deelname aan WK van 2026 toch op een kier",
+    "subtitle": null,
+    "published_at": "2023-02-03T08:44:35+01:00",
+    "updated_at": "2023-02-03T08:44:39+01:00",
+    "media_id": "b3yxl4sa8g38",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6249661/messi-zet-deur-voor-deelname-aan-wk-van-2026-toch-op-een-kier.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249660,
+    "slug": "vs-spot-chinese-ballon-die-amerikanen-moet-bespioneren",
+    "type": "video",
+    "title": "VS spot Chinese ballon die Amerikanen moet bespioneren",
+    "subtitle": "Video",
+    "published_at": "2023-02-03T08:24:40+01:00",
+    "updated_at": "2023-02-03T08:24:42+01:00",
+    "media_id": "u5bxxq5a5na1",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6249660/vs-spot-chinese-ballon-die-amerikanen-moet-bespioneren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6249658,
+    "slug": "medicijnen-afstemmen-op-dna-blijkt-30-procent-aan-bijwerkingen-te-schelen",
+    "type": "article",
+    "title": "Medicijnen afstemmen op DNA blijkt 30 procent aan bijwerkingen te schelen",
     "subtitle": null,
     "published_at": "2023-02-03T08:16:30+01:00",
-    "updated_at": "2023-02-03T08:16:31+01:00",
+    "updated_at": "2023-02-03T08:26:12+01:00",
     "media_id": "u5wxq3ealu7h",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/gezondheid/6249658/onderzoek-medicijnen-afstemmen-op-dna-scheelt-30-procent-aan-bijwerkingen.html",
+    "url": "/gezondheid/6249658/medicijnen-afstemmen-op-dna-blijkt-30-procent-aan-bijwerkingen-te-schelen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Stelling: Alle bacheloropleidingen moeten in het Nederlands worden gegeven",
     "subtitle": null,
     "published_at": "2023-02-03T07:30:58+01:00",
-    "updated_at": "2023-02-03T07:30:59+01:00",
+    "updated_at": "2023-02-03T08:35:15+01:00",
     "media_id": "lyrxifuajg1s",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6249646/voor-het-eerst-in-bijna-een-jaar-tijd-meerdere-weken-geen-oversterfte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249613,
-    "slug": "we-vliegen-vooral-binnen-europa-en-spanje-is-onze-favoriete-bestemming",
-    "type": "article",
-    "title": "We vliegen vooral binnen Europa en Spanje is onze favoriete bestemming",
-    "subtitle": null,
-    "published_at": "2023-02-03T00:03:34+01:00",
-    "updated_at": "2023-02-03T00:03:35+01:00",
-    "media_id": "d22x9nfaf1oe",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6249613/we-vliegen-vooral-binnen-europa-en-spanje-is-onze-favoriete-bestemming.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249645,
-    "slug": "red-bull-kondigt-vandaag-waarschijnlijk-motorendeal-met-ford-voor-2026-aan",
-    "type": "article",
-    "title": "Red Bull kondigt vandaag waarschijnlijk motorendeal met Ford voor 2026 aan",
-    "subtitle": null,
-    "published_at": "2023-02-02T23:55:53+01:00",
-    "updated_at": "2023-02-03T06:51:22+01:00",
-    "media_id": "2qixqy4a2o60",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6249645/red-bull-kondigt-vandaag-waarschijnlijk-motorendeal-met-ford-voor-2026-aan.html",
     "open_new_window": false,
     "partner": null
   }
