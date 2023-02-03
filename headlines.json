@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249795,
+    "slug": "brazilie-wil-oud-vliegdekschip-met-asbest-in-oceaan-laten-zinken",
+    "type": "article",
+    "title": "Brazilië wil oud vliegdekschip met asbest in oceaan laten zinken",
+    "subtitle": null,
+    "published_at": "2023-02-03T19:15:34+01:00",
+    "updated_at": "2023-02-03T19:15:36+01:00",
+    "media_id": "mx2x0rbazdc6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6249795/brazilie-wil-oud-vliegdekschip-met-asbest-in-oceaan-laten-zinken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249794,
     "slug": "gevangenissen-stoppen-definitief-met-kwetsbare-berichtendienst-emates",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Overmars en Ajax werken mee aan onderzoek naar grensoverschrijdend gedrag",
     "subtitle": null,
     "published_at": "2023-02-03T18:43:31+01:00",
-    "updated_at": "2023-02-03T18:50:52+01:00",
+    "updated_at": "2023-02-03T19:29:10+01:00",
     "media_id": "5qixyryabdu8",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Iraanse regisseur Jafar Panahi na ruim half jaar vrijgelaten uit gevangenis",
     "subtitle": null,
     "published_at": "2023-02-03T18:03:13+01:00",
-    "updated_at": "2023-02-03T18:03:14+01:00",
+    "updated_at": "2023-02-03T19:30:39+01:00",
     "media_id": "70yxym5asdyl",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6249761/slot-bevestigt-basisplaats-timber-bij-feyenoord-in-topper-tegen-psv.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249763,
-    "slug": "weekendweerbericht-grijs-en-zacht-weer-maar-zondag-slaat-het-om",
-    "type": "article",
-    "title": "Weekendweerbericht: Grijs en zacht weer, maar zondag slaat het om",
-    "subtitle": null,
-    "published_at": "2023-02-03T15:26:51+01:00",
-    "updated_at": "2023-02-03T15:40:58+01:00",
-    "media_id": "cbbxam4a21ny",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6249763/weekendweerbericht-grijs-en-zacht-weer-maar-zondag-slaat-het-om.html",
     "open_new_window": false,
     "partner": null
   }
