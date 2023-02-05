@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249968,
+    "slug": "van-der-poel-klopt-van-aert-in-prachtig-duel-en-pakt-vijfde-wereldtitel-veldrijden",
+    "type": "article",
+    "title": "Van der Poel klopt Van Aert in prachtig duel en pakt vijfde wereldtitel veldrijden",
+    "subtitle": null,
+    "published_at": "2023-02-05T16:12:30+01:00",
+    "updated_at": "2023-02-05T16:23:23+01:00",
+    "media_id": "18ixmaxaqusf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6249968/van-der-poel-klopt-van-aert-in-prachtig-duel-en-pakt-vijfde-wereldtitel-veldrijden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249969,
     "slug": "oekraine-belooft-nieuwe-raketten-niet-voor-aanval-op-russisch-grondgebied",
     "type": "article",
@@ -70,13 +93,13 @@
   },
   {
     "id": 6249966,
-    "slug": "schouten-herstelt-zich-knap-met-derde-nationale-titel-op-rij-op-5-kilometer",
+    "slug": "schouten-herstelt-zich-met-goud-op-5-kilometer-maar-ben-totaal-uit-vorm",
     "type": "article",
-    "title": "Schouten herstelt zich knap met derde nationale titel op rij op 5 kilometer",
+    "title": "Schouten herstelt zich met goud op 5 kilometer: 'Maar ben totaal uit vorm'",
     "subtitle": null,
     "published_at": "2023-02-05T15:25:59+01:00",
-    "updated_at": "2023-02-05T15:30:18+01:00",
-    "media_id": "segxleqazuaa",
+    "updated_at": "2023-02-05T16:19:12+01:00",
+    "media_id": "9qmxp95avs3p",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -87,7 +110,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6249966/schouten-herstelt-zich-knap-met-derde-nationale-titel-op-rij-op-5-kilometer.html",
+    "url": "/schaatsen/6249966/schouten-herstelt-zich-met-goud-op-5-kilometer-maar-ben-totaal-uit-vorm.html",
     "open_new_window": false,
     "partner": null
   },
@@ -277,12 +300,12 @@
   },
   {
     "id": 6249959,
-    "slug": "roest-wint-ook-10-kilometer-en-evenaart-kramer-met-hattrick-bij-nk-afstanden",
+    "slug": "roest-wint-ook-10-kilometer-nuis-pakt-voor-zesde-keer-nk-goud-op-1000-meter",
     "type": "article",
-    "title": "Roest wint ook 10 kilometer en evenaart Kramer met hattrick bij NK afstanden",
+    "title": "Roest wint ook 10 kilometer, Nuis pakt voor zesde keer NK-goud op 1.000 meter",
     "subtitle": null,
     "published_at": "2023-02-05T14:23:27+01:00",
-    "updated_at": "2023-02-05T16:11:07+01:00",
+    "updated_at": "2023-02-05T16:20:50+01:00",
     "media_id": "8s3xfygaijv9",
     "duration": null,
     "canonical_section": {
@@ -294,7 +317,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6249959/roest-wint-ook-10-kilometer-en-evenaart-kramer-met-hattrick-bij-nk-afstanden.html",
+    "url": "/schaatsen/6249959/roest-wint-ook-10-kilometer-nuis-pakt-voor-zesde-keer-nk-goud-op-1000-meter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6249950/opnieuw-nederlandse-kansen-bij-de-grammy-awards.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249948,
-    "slug": "van-der-poel-en-van-aert-strijden-tot-finish-om-wereldtitel",
-    "type": "article",
-    "title": "Van der Poel en Van Aert strijden tot finish om wereldtitel",
-    "subtitle": "Liveblog veldrijden",
-    "published_at": "2023-02-05T12:45:02+01:00",
-    "updated_at": "2023-02-05T16:01:08+01:00",
-    "media_id": "18ixmaxaqusf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6249948/van-der-poel-en-van-aert-strijden-tot-finish-om-wereldtitel.html",
     "open_new_window": false,
     "partner": null
   }
