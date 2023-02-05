@@ -1,5 +1,28 @@
 [
   {
+    "id": 6249664,
+    "slug": "mogelijk-geen-export-asml-naar-china-meer-wat-maakt-het-eigenlijk",
+    "type": "video",
+    "title": "Mogelijk geen export ASML naar China meer, wat maakt het eigenlijk?",
+    "subtitle": "Video",
+    "published_at": "2023-02-05T05:17:24+01:00",
+    "updated_at": "2023-02-05T05:17:25+01:00",
+    "media_id": "dq8xcfaaudr4",
+    "duration": "1:40",
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6249664/mogelijk-geen-export-asml-naar-china-meer-wat-maakt-het-eigenlijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6249707,
     "slug": "blunders-boycot-en-boze-fans-hoe-fc-groningen-dit-seizoen-ineenstortte",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6249901/haller-glundert-na-eerste-goal-voor-dortmund-ik-heb-naar-dit-moment-uitgekeken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249900,
-    "slug": "bekijk-hier-hoe-fem-van-empel-wereldkampioen-veldrijden-werd",
-    "type": "video",
-    "title": "Bekijk hier hoe Fem van Empel wereldkampioen veldrijden werd",
-    "subtitle": "Video",
-    "published_at": "2023-02-04T19:56:46+01:00",
-    "updated_at": "2023-02-04T20:03:07+01:00",
-    "media_id": "cmbxuw6atowk",
-    "duration": "1:37",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6249900/bekijk-hier-hoe-fem-van-empel-wereldkampioen-veldrijden-werd.html",
     "open_new_window": false,
     "partner": null
   }
