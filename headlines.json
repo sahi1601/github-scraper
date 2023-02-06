@@ -1,12 +1,58 @@
 [
   {
+    "id": 6250077,
+    "slug": "manchester-city-aangeklaagd-voor-overtreden-financiele-regels-in-premier-league",
+    "type": "article",
+    "title": "Manchester City aangeklaagd voor overtreden financiële regels in Premier League",
+    "subtitle": null,
+    "published_at": "2023-02-06T12:14:35+01:00",
+    "updated_at": "2023-02-06T12:14:36+01:00",
+    "media_id": "ubsxuh2afazt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6250077/manchester-city-aangeklaagd-voor-overtreden-financiele-regels-in-premier-league.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250076,
+    "slug": "rampgebied-in-turkije-en-syrie-opgeschrikt-door-nieuwe-zware-aardbeving",
+    "type": "article",
+    "title": "Rampgebied in Turkije en Syrië opgeschrikt door nieuwe zware aardbeving",
+    "subtitle": null,
+    "published_at": "2023-02-06T12:12:27+01:00",
+    "updated_at": "2023-02-06T12:20:46+01:00",
+    "media_id": "9jsxrsma7frg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779210,
+      "slug": "aardbeving-syrie-en-turkije",
+      "type": "files",
+      "name": "Aardbeving Syrië en Turkije",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/aardbeving-syrie-en-turkije/6250076/rampgebied-in-turkije-en-syrie-opgeschrikt-door-nieuwe-zware-aardbeving.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250073,
     "slug": "ongeveer-de-helft-van-de-bussen-rijdt-niet-door-staking-in-streekvervoer",
     "type": "article",
     "title": "Ongeveer de helft van de bussen rijdt niet door staking in streekvervoer",
     "subtitle": null,
     "published_at": "2023-02-06T12:09:43+01:00",
-    "updated_at": "2023-02-06T12:09:44+01:00",
+    "updated_at": "2023-02-06T12:16:01+01:00",
     "media_id": "xcvxja7axwyr",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Raad van State zeer kritisch op 'onnodig complexe' spreidingswet asielzoekers",
     "subtitle": null,
     "published_at": "2023-02-06T12:05:57+01:00",
-    "updated_at": "2023-02-06T12:05:58+01:00",
+    "updated_at": "2023-02-06T12:15:46+01:00",
     "media_id": "c7axqkua8vb3",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Turks flatgebouw stort uren na aardbeving in",
     "subtitle": "Video",
     "published_at": "2023-02-06T11:48:50+01:00",
-    "updated_at": "2023-02-06T12:07:30+01:00",
+    "updated_at": "2023-02-06T12:16:41+01:00",
     "media_id": "en7xqg6a0vtt",
     "duration": "0:44",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6250036/grote-brand-beschadigt-boeddhistische-tempel-in-australie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250030,
-    "slug": "turkije-en-syrie-opnieuw-getroffen-door-zware-aardbeving-en-naschokken",
-    "type": "article",
-    "title": "Turkije en Syrië opnieuw getroffen door zware aardbeving en naschokken",
-    "subtitle": "Liveblog",
-    "published_at": "2023-02-06T08:11:09+01:00",
-    "updated_at": "2023-02-06T12:08:59+01:00",
-    "media_id": "4pcxj6manzgw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779210,
-      "slug": "aardbeving-syrie-en-turkije",
-      "type": "files",
-      "name": "Aardbeving Syrië en Turkije",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/aardbeving-syrie-en-turkije/6250030/turkije-en-syrie-opnieuw-getroffen-door-zware-aardbeving-en-naschokken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250032,
-    "slug": "guardiola-zet-titel-even-uit-zijn-hoofd-na-uitputtende-trip-naar-noord-europa",
-    "type": "article",
-    "title": "Guardiola zet titel even uit zijn hoofd na 'uitputtende trip naar Noord-Europa'",
-    "subtitle": null,
-    "published_at": "2023-02-06T08:06:26+01:00",
-    "updated_at": "2023-02-06T10:57:18+01:00",
-    "media_id": "h52xlf7ar9bb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6250032/guardiola-zet-titel-even-uit-zijn-hoofd-na-uitputtende-trip-naar-noord-europa.html",
     "open_new_window": false,
     "partner": null
   }
