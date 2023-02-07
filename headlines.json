@@ -1,12 +1,35 @@
 [
   {
+    "id": 6250176,
+    "slug": "feyenoord-doelwit-van-den-belt-ik-stond-klaar-om-in-rotterdam-te-tekenen",
+    "type": "article",
+    "title": "Feyenoord-doelwit Van den Belt: 'Ik stond klaar om in Rotterdam te tekenen'",
+    "subtitle": null,
+    "published_at": "2023-02-07T07:27:02+01:00",
+    "updated_at": "2023-02-07T07:28:42+01:00",
+    "media_id": "qq6xrn5az4py",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6250176/feyenoord-doelwit-van-den-belt-ik-stond-klaar-om-in-rotterdam-te-tekenen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250175,
     "slug": "jennifer-love-hewitt-mogelijk-terug-in-vervolg-i-know-what-you-did-last-summer",
     "type": "article",
     "title": "Jennifer Love Hewitt mogelijk terug in vervolg I Know What You Did Last Summer",
     "subtitle": null,
     "published_at": "2023-02-07T07:16:06+01:00",
-    "updated_at": "2023-02-07T07:16:07+01:00",
+    "updated_at": "2023-02-07T07:30:21+01:00",
     "media_id": "5i8xotlam8um",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Reddingswerk in Turkije en Syrië ging 's nachts door, maar met slecht weer",
     "subtitle": null,
     "published_at": "2023-02-07T06:11:31+01:00",
-    "updated_at": "2023-02-07T06:53:28+01:00",
+    "updated_at": "2023-02-07T07:29:39+01:00",
     "media_id": "t3dx5aiap5u5",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Dodental aardbevingen Turkije en Syrië stijgt naar ruim 3.800",
     "subtitle": null,
     "published_at": "2023-02-07T01:04:02+01:00",
-    "updated_at": "2023-02-07T06:46:35+01:00",
+    "updated_at": "2023-02-07T07:25:37+01:00",
     "media_id": "fs2xwcfa13ni",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6250164/pec-houdt-brobbey-van-scoren-af-en-speelt-doelpuntloos-gelijk-bij-jong-ajax.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250163,
-    "slug": "astronomen-ontdekken-planeet-buiten-ons-zonnestelsel-waar-kans-is-op-leven",
-    "type": "article",
-    "title": "Astronomen ontdekken planeet buiten ons zonnestelsel waar kans is op leven",
-    "subtitle": null,
-    "published_at": "2023-02-06T22:05:07+01:00",
-    "updated_at": "2023-02-06T22:30:17+01:00",
-    "media_id": "5x8x3b3agq1j",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6250163/astronomen-ontdekken-planeet-buiten-ons-zonnestelsel-waar-kans-is-op-leven.html",
     "open_new_window": false,
     "partner": null
   }
