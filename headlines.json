@@ -1,5 +1,28 @@
 [
   {
+    "id": 6250333,
+    "slug": "kamer-positief-over-wetswijziging-die-gesloten-jeugdhulp-moet-verbeteren",
+    "type": "article",
+    "title": "Kamer positief over wetswijziging die gesloten jeugdhulp moet verbeteren",
+    "subtitle": null,
+    "published_at": "2023-02-08T00:18:36+01:00",
+    "updated_at": "2023-02-08T00:18:37+01:00",
+    "media_id": "k1jx3q6a3264",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6250333/kamer-positief-over-wetswijziging-die-gesloten-jeugdhulp-moet-verbeteren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250302,
     "slug": "kinderopvang-worstelt-met-groei-aantal-vacatures-en-hogere-werkdruk",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Dit is nu de stand van zaken rondom de aardbevingen in Syrië en Turkije",
     "subtitle": null,
     "published_at": "2023-02-07T22:15:47+01:00",
-    "updated_at": "2023-02-07T22:15:48+01:00",
+    "updated_at": "2023-02-08T00:20:57+01:00",
     "media_id": "to1x0gzau0ev",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/aardbeving-syrie-en-turkije/6250294/syrie-en-turkije-zoeken-dag-na-aardbevingen-naar-overlevenden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250310,
-    "slug": "ongelukken-en-staking-leiden-tot-erg-drukke-avondspits-bijna-900-kilometer-file",
-    "type": "article",
-    "title": "Ongelukken en staking leiden tot erg drukke avondspits, bijna 900 kilometer file",
-    "subtitle": null,
-    "published_at": "2023-02-07T18:52:56+01:00",
-    "updated_at": "2023-02-07T18:52:57+01:00",
-    "media_id": "42mxhu2aurjf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6250310/ongelukken-en-staking-leiden-tot-erg-drukke-avondspits-bijna-900-kilometer-file.html",
     "open_new_window": false,
     "partner": null
   }
