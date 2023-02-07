@@ -1,5 +1,28 @@
 [
   {
+    "id": 6250324,
+    "slug": "fc-utrecht-verslaat-az-via-verlenging-nu-wel-en-bereikt-kwartfinales-beker",
+    "type": "article",
+    "title": "FC Utrecht verslaat AZ via verlenging nu wel en bereikt kwartfinales beker",
+    "subtitle": null,
+    "published_at": "2023-02-07T21:30:31+01:00",
+    "updated_at": "2023-02-07T21:30:32+01:00",
+    "media_id": "i6mxoaoaa51y",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6250324/fc-utrecht-verslaat-az-via-verlenging-nu-wel-en-bereikt-kwartfinales-beker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250322,
     "slug": "kind-na-bijna-een-dag-gered-uit-thaise-put",
     "type": "video",
@@ -277,13 +300,13 @@
   },
   {
     "id": 6250308,
-    "slug": "utrecht-leidt-bij-az-nac-op-1-0-tegen-heerenveen",
+    "slug": "nac-staat-verrassend-op-voorsprong-tegen-heerenveen",
     "type": "article",
-    "title": "Utrecht leidt bij AZ, NAC op 1-0 tegen Heerenveen",
+    "title": "NAC staat verrassend op voorsprong tegen Heerenveen",
     "subtitle": "Liveblog KNVB-beker",
     "published_at": "2023-02-07T18:19:30+01:00",
-    "updated_at": "2023-02-07T21:18:22+01:00",
-    "media_id": "i6mxoaoaa51y",
+    "updated_at": "2023-02-07T21:32:28+01:00",
+    "media_id": "2yyx4owaha5z",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6250308/utrecht-leidt-bij-az-nac-op-1-0-tegen-heerenveen.html",
+    "url": "/voetbal/6250308/nac-staat-verrassend-op-voorsprong-tegen-heerenveen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6250295/waarom-het-niet-lukt-om-aardbevingen-te-voorspellen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250292,
-    "slug": "jeffrey-wammes-en-krista-arriens-te-zien-in-first-dates-valentijn-special",
-    "type": "article",
-    "title": "Jeffrey Wammes en Krista Arriëns te zien in First Dates Valentijn Special",
-    "subtitle": null,
-    "published_at": "2023-02-07T17:15:52+01:00",
-    "updated_at": "2023-02-07T17:29:04+01:00",
-    "media_id": "lt8x5qrauuwq",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6250292/jeffrey-wammes-en-krista-arriens-te-zien-in-first-dates-valentijn-special.html",
     "open_new_window": false,
     "partner": null
   }
