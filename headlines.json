@@ -1,12 +1,58 @@
 [
   {
-    "id": 6250217,
-    "slug": "acm-onderzoekt-energietarieven-van-eneco-essent-en-vattenfall",
+    "id": 6250227,
+    "slug": "hulpverleners-redden-meisje-onder-puin-vandaan-in-syrie",
+    "type": "video",
+    "title": "Hulpverleners redden meisje onder puin vandaan in Syrië",
+    "subtitle": "Video",
+    "published_at": "2023-02-07T12:09:51+01:00",
+    "updated_at": "2023-02-07T12:10:24+01:00",
+    "media_id": "d0rx96daahh3",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1779210,
+      "slug": "aardbeving-syrie-en-turkije",
+      "type": "files",
+      "name": "Aardbeving Syrië en Turkije",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/aardbeving-syrie-en-turkije/6250227/hulpverleners-redden-meisje-onder-puin-vandaan-in-syrie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250216,
+    "slug": "nederland-wil-europees-pfas-verbod-op-ruim-tienduizend-chemische-stoffen",
     "type": "article",
-    "title": "ACM onderzoekt energietarieven van Eneco, Essent en Vattenfall",
+    "title": "Nederland wil Europees PFAS-verbod op ruim tienduizend chemische stoffen",
+    "subtitle": null,
+    "published_at": "2023-02-07T11:46:13+01:00",
+    "updated_at": "2023-02-07T11:46:14+01:00",
+    "media_id": "zrox7kdabp7k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6250216/nederland-wil-europees-pfas-verbod-op-ruim-tienduizend-chemische-stoffen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250217,
+    "slug": "acm-over-de-vloer-bij-eneco-essent-en-vattenfall-voor-onderzoek-naar-tarieven",
+    "type": "article",
+    "title": "ACM over de vloer bij Eneco, Essent en Vattenfall voor onderzoek naar tarieven",
     "subtitle": null,
     "published_at": "2023-02-07T11:31:02+01:00",
-    "updated_at": "2023-02-07T11:33:20+01:00",
+    "updated_at": "2023-02-07T12:08:10+01:00",
     "media_id": "p6ux62sal6l0",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6250217/acm-onderzoekt-energietarieven-van-eneco-essent-en-vattenfall.html",
+    "url": "/economie/6250217/acm-over-de-vloer-bij-eneco-essent-en-vattenfall-voor-onderzoek-naar-tarieven.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +190,7 @@
     "title": "Alfa Romeo-Sauber presenteert als eerste Formule 1-team auto voor 2023",
     "subtitle": null,
     "published_at": "2023-02-07T10:44:16+01:00",
-    "updated_at": "2023-02-07T11:11:14+01:00",
+    "updated_at": "2023-02-07T12:10:08+01:00",
     "media_id": "efux99iaj40c",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Voormalig Vitesse-speler Atsu levend onder puin vandaan gehaald in Turkije",
     "subtitle": null,
     "published_at": "2023-02-07T09:35:40+01:00",
-    "updated_at": "2023-02-07T10:49:59+01:00",
+    "updated_at": "2023-02-07T12:07:35+01:00",
     "media_id": "i3cxbaya7oub",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Vattenfall verlaagt energietarieven per april",
     "subtitle": null,
     "published_at": "2023-02-07T08:30:33+01:00",
-    "updated_at": "2023-02-07T11:08:15+01:00",
+    "updated_at": "2023-02-07T11:53:24+01:00",
     "media_id": "mtaxa0bacd89",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6250181/groningse-zorgboerderij-moet-dicht-nadat-inspectie-ernstige-misstanden-ziet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250182,
-    "slug": "luchtbeelden-tonen-verwoesting-in-turkije-en-syrie-na-aardbevingen",
-    "type": "video",
-    "title": "Luchtbeelden tonen verwoesting in Turkije en Syrië na aardbevingen",
-    "subtitle": "Video",
-    "published_at": "2023-02-07T07:53:55+01:00",
-    "updated_at": "2023-02-07T11:30:15+01:00",
-    "media_id": "t0xxdmcasw3n",
-    "duration": "1:02",
-    "canonical_section": {
-      "id": 1779210,
-      "slug": "aardbeving-syrie-en-turkije",
-      "type": "files",
-      "name": "Aardbeving Syrië en Turkije",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/aardbeving-syrie-en-turkije/6250182/luchtbeelden-tonen-verwoesting-in-turkije-en-syrie-na-aardbevingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250179,
-    "slug": "zes-nederlanders-vermist-in-turkije-dodental-boven-de-5000",
-    "type": "article",
-    "title": "Zes Nederlanders vermist in Turkije, dodental boven de 5.000",
-    "subtitle": "Liveblog",
-    "published_at": "2023-02-07T07:43:47+01:00",
-    "updated_at": "2023-02-07T11:27:21+01:00",
-    "media_id": "ugwxzjxauxmk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779210,
-      "slug": "aardbeving-syrie-en-turkije",
-      "type": "files",
-      "name": "Aardbeving Syrië en Turkije",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/aardbeving-syrie-en-turkije/6250179/zes-nederlanders-vermist-in-turkije-dodental-boven-de-5000.html",
     "open_new_window": false,
     "partner": null
   }
