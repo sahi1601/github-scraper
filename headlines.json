@@ -1,12 +1,35 @@
 [
   {
+    "id": 6250396,
+    "slug": "mercedes-benz-ontslaat-380-mensen-in-nederland",
+    "type": "article",
+    "title": "Mercedes-Benz ontslaat 380 mensen in Nederland",
+    "subtitle": null,
+    "published_at": "2023-02-08T14:58:13+01:00",
+    "updated_at": "2023-02-08T14:58:14+01:00",
+    "media_id": "bqxx5vqa1ex5",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6250396/mercedes-benz-ontslaat-380-mensen-in-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250399,
     "slug": "tata-steel-moet-110000-euro-betalen-omdat-het-bedrijf-milieuregels-overtrad",
     "type": "article",
     "title": "Tata Steel moet 110.000 euro betalen omdat het bedrijf milieuregels overtrad",
     "subtitle": null,
     "published_at": "2023-02-08T14:28:48+01:00",
-    "updated_at": "2023-02-08T14:38:10+01:00",
+    "updated_at": "2023-02-08T15:10:52+01:00",
     "media_id": "jpbxff4apqpt",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Poetin had rol bij inzet buk-raket die MH17 neerhaalde, maar wordt niet vervolgd",
     "subtitle": null,
     "published_at": "2023-02-08T12:58:36+01:00",
-    "updated_at": "2023-02-08T14:39:26+01:00",
+    "updated_at": "2023-02-08T15:07:30+01:00",
     "media_id": "9rbxplxadz69",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Ieder uitstapje een nieuwe outfit: Máxima en Amalia maken hele andere keuzes",
     "subtitle": null,
     "published_at": "2023-02-08T12:11:56+01:00",
-    "updated_at": "2023-02-08T12:11:57+01:00",
+    "updated_at": "2023-02-08T14:53:50+01:00",
     "media_id": "2igxzebad0dt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6250375/claudia-de-breij-annuleert-theatertour-heb-tijd-en-rust-nodig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250371,
-    "slug": "madonna-klaar-met-commentaar-op-veranderd-uiterlijk-leeftijdsdiscriminatie",
-    "type": "article",
-    "title": "Madonna klaar met commentaar op veranderd uiterlijk: 'Leeftijdsdiscriminatie'",
-    "subtitle": null,
-    "published_at": "2023-02-08T11:05:16+01:00",
-    "updated_at": "2023-02-08T11:05:57+01:00",
-    "media_id": "71wxb0aa7owa",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6250371/madonna-klaar-met-commentaar-op-veranderd-uiterlijk-leeftijdsdiscriminatie.html",
     "open_new_window": false,
     "partner": null
   }
