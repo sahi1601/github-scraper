@@ -1,5 +1,28 @@
 [
   {
+    "id": 6250337,
+    "slug": "weerbericht-heldere-en-koude-nacht-gevolgd-door-zonnige-dag",
+    "type": "article",
+    "title": "Weerbericht: Heldere en koude nacht gevolgd door zonnige dag",
+    "subtitle": null,
+    "published_at": "2023-02-08T05:37:49+01:00",
+    "updated_at": "2023-02-08T05:37:50+01:00",
+    "media_id": "4ikxf4yap3rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6250337/weerbericht-heldere-en-koude-nacht-gevolgd-door-zonnige-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250336,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6250324/fc-utrecht-verslaat-az-via-verlenging-nu-wel-en-bereikt-kwartfinales-beker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250322,
-    "slug": "kind-na-bijna-een-dag-gered-uit-thaise-put",
-    "type": "video",
-    "title": "Kind na bijna een dag gered uit Thaise put",
-    "subtitle": "Video",
-    "published_at": "2023-02-07T21:15:12+01:00",
-    "updated_at": "2023-02-07T21:15:15+01:00",
-    "media_id": "i52xkl3ayksf",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6250322/kind-na-bijna-een-dag-gered-uit-thaise-put.html",
     "open_new_window": false,
     "partner": null
   }
