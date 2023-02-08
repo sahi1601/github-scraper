@@ -1,5 +1,28 @@
 [
   {
+    "id": 6250358,
+    "slug": "nederlandse-reddingswerker-in-turkije-zes-mensen-gered",
+    "type": "video",
+    "title": "Nederlandse reddingswerker in Turkije: 'Zes mensen gered'",
+    "subtitle": "Video",
+    "published_at": "2023-02-08T09:37:32+01:00",
+    "updated_at": "2023-02-08T09:37:33+01:00",
+    "media_id": "jkoxw0qagb1w",
+    "duration": "0:58",
+    "canonical_section": {
+      "id": 1779210,
+      "slug": "aardbeving-syrie-en-turkije",
+      "type": "files",
+      "name": "Aardbeving Syrië en Turkije",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/aardbeving-syrie-en-turkije/6250358/nederlandse-reddingswerker-in-turkije-zes-mensen-gered.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250352,
     "slug": "microsoft-wil-ons-laten-chatten-met-zoekmachine-bing",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Bosz grijpt naast bondscoachschap bij België: Tedesco (37) volgt Martínez op",
     "subtitle": null,
     "published_at": "2023-02-08T09:23:22+01:00",
-    "updated_at": "2023-02-08T09:28:55+01:00",
+    "updated_at": "2023-02-08T09:36:00+01:00",
     "media_id": "625xn75aoj5q",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Ruim miljoen mensen langs de kant: mismatch op arbeidsmarkt houdt aan",
     "subtitle": null,
     "published_at": "2023-02-08T05:02:56+01:00",
-    "updated_at": "2023-02-08T05:02:57+01:00",
+    "updated_at": "2023-02-08T09:42:39+01:00",
     "media_id": "qklxvvva7nbn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6250277/ruim-miljoen-mensen-langs-de-kant-mismatch-op-arbeidsmarkt-houdt-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250268,
-    "slug": "waarom-record-massaschietpartijen-vs-dit-jaar-mogelijk-wordt-gebroken",
-    "type": "video",
-    "title": "Waarom record massaschietpartijen VS dit jaar mogelijk wordt gebroken",
-    "subtitle": "Video",
-    "published_at": "2023-02-08T05:02:22+01:00",
-    "updated_at": "2023-02-08T09:24:01+01:00",
-    "media_id": "gaixhl3a0se7",
-    "duration": "1:43",
-    "canonical_section": {
-      "id": 1778967,
-      "slug": "uitleg",
-      "type": "default",
-      "name": "Het nieuws uitgelegd",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitleg/6250268/waarom-record-massaschietpartijen-vs-dit-jaar-mogelijk-wordt-gebroken.html",
     "open_new_window": false,
     "partner": null
   }
