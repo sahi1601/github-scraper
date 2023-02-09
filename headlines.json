@@ -1,5 +1,28 @@
 [
   {
+    "id": 6250568,
+    "slug": "kabinet-komt-weer-met-stikstofmaatregelen-ook-industrie-en-vliegverkeer-krijgen-doelen",
+    "type": "article",
+    "title": "Kabinet komt weer met stikstofmaatregelen: ook industrie en (vlieg)verkeer krijgen doelen",
+    "subtitle": null,
+    "published_at": "2023-02-09T16:22:08+01:00",
+    "updated_at": "2023-02-09T16:22:09+01:00",
+    "media_id": "nofxkv1a8pte",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6250568/kabinet-komt-weer-met-stikstofmaatregelen-ook-industrie-en-vliegverkeer-krijgen-doelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250580,
     "slug": "tottenham-coach-conte-keert-week-na-galblaasoperatie-terug-op-trainingsveld",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6250279,
-    "slug": "roxeanne-hazes-vanwege-mentale-gezondheid-niet-aanwezig-bij-rechtszaak-tegen-moeder",
+    "slug": "rachel-hazes-volgens-dochter-geen-erfgenaam-van-andre-hazes",
     "type": "article",
-    "title": "Roxeanne Hazes vanwege mentale gezondheid niet aanwezig bij rechtszaak tegen moeder",
+    "title": "Rachel Hazes volgens dochter geen erfgenaam van André Hazes",
     "subtitle": null,
     "published_at": "2023-02-09T16:04:37+01:00",
-    "updated_at": "2023-02-09T16:04:49+01:00",
+    "updated_at": "2023-02-09T16:20:40+01:00",
     "media_id": "5l3xuaia9o4s",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6250279/roxeanne-hazes-vanwege-mentale-gezondheid-niet-aanwezig-bij-rechtszaak-tegen-moeder.html",
+    "url": "/achterklap/6250279/rachel-hazes-volgens-dochter-geen-erfgenaam-van-andre-hazes.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Componist en schrijver van 'I Say a Little Prayer' Burt Bacharach (94) overleden",
     "subtitle": null,
     "published_at": "2023-02-09T16:03:35+01:00",
-    "updated_at": "2023-02-09T16:14:07+01:00",
+    "updated_at": "2023-02-09T16:18:05+01:00",
     "media_id": "f4uxh9has8l7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6250514/orkas-krijgen-minder-jongen-doordat-mannetjes-lang-afhankelijk-zijn-van-moeder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250542,
-    "slug": "hardloper-rent-86-dagen-op-rij-ultramarathon-door-peru",
-    "type": "video",
-    "title": "Hardloper rent 86 dagen op rij ultramarathon door Peru",
-    "subtitle": "Video",
-    "published_at": "2023-02-09T12:21:59+01:00",
-    "updated_at": "2023-02-09T12:22:00+01:00",
-    "media_id": "z2ex1fwacvzy",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6250542/hardloper-rent-86-dagen-op-rij-ultramarathon-door-peru.html",
     "open_new_window": false,
     "partner": null
   }
