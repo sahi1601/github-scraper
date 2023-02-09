@@ -1,5 +1,51 @@
 [
   {
+    "id": 6250636,
+    "slug": "acteur-alec-baldwin-weer-aangeklaagd-na-schietincident-op-filmset-rust",
+    "type": "article",
+    "title": "Acteur Alec Baldwin weer aangeklaagd na schietincident op filmset Rust",
+    "subtitle": null,
+    "published_at": "2023-02-09T22:24:40+01:00",
+    "updated_at": "2023-02-09T22:24:42+01:00",
+    "media_id": "rj5xh3waagwb",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6250636/acteur-alec-baldwin-weer-aangeklaagd-na-schietincident-op-filmset-rust.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6250635,
+    "slug": "van-gerwen-wint-weer-van-van-den-bergh-en-mag-hopen-op-premier-league-zege",
+    "type": "article",
+    "title": "Van Gerwen wint weer van Van den Bergh en mag hopen op Premier League-zege",
+    "subtitle": null,
+    "published_at": "2023-02-09T22:13:08+01:00",
+    "updated_at": "2023-02-09T22:16:18+01:00",
+    "media_id": "en0x8ppakib3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6250635/van-gerwen-wint-weer-van-van-den-bergh-en-mag-hopen-op-premier-league-zege.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250632,
     "slug": "braziliaanse-politie-verdrijft-goudzoekers-uit-amazonegebied",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "Heitinga na zwaarbevochten winst op Twente: 'Heel goed voor het zelfvertrouwen'",
     "subtitle": null,
     "published_at": "2023-02-09T21:28:36+01:00",
-    "updated_at": "2023-02-09T22:02:25+01:00",
+    "updated_at": "2023-02-09T22:18:05+01:00",
     "media_id": "hxfxrkna60eq",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Al meer dan twintigduizend doden na aardbevingen in Turkije en Syrië",
     "subtitle": null,
     "published_at": "2023-02-09T19:14:25+01:00",
-    "updated_at": "2023-02-09T20:59:30+01:00",
+    "updated_at": "2023-02-09T22:21:43+01:00",
     "media_id": "3dsxun1afyts",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6250607/amalia-ontspant-op-idyllisch-saba-ik-vind-het-hier-prachtig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250609,
-    "slug": "ado-van-advocaat-bij-rust-op-0-0-tegen-go-ahead-eagles",
-    "type": "article",
-    "title": "ADO van Advocaat bij rust op 0-0 tegen Go Ahead Eagles",
-    "subtitle": "Liveblog KNVB-beker",
-    "published_at": "2023-02-09T18:05:43+01:00",
-    "updated_at": "2023-02-09T21:55:31+01:00",
-    "media_id": "ifgxycia1mt0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6250609/ado-van-advocaat-bij-rust-op-0-0-tegen-go-ahead-eagles.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250606,
-    "slug": "amerikaanse-verslaggever-in-uitzending-tegen-grond-gewerkt-en-opgepakt",
-    "type": "video",
-    "title": "Amerikaanse verslaggever in uitzending tegen grond gewerkt en opgepakt",
-    "subtitle": "Video",
-    "published_at": "2023-02-09T17:58:21+01:00",
-    "updated_at": "2023-02-09T18:19:00+01:00",
-    "media_id": "zy3xk9eakwns",
-    "duration": "0:53",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6250606/amerikaanse-verslaggever-in-uitzending-tegen-grond-gewerkt-en-opgepakt.html",
     "open_new_window": false,
     "partner": null
   }
