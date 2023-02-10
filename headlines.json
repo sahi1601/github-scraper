@@ -1,12 +1,35 @@
 [
   {
+    "id": 6250808,
+    "slug": "dit-is-dit-jaar-de-winnaar-van-de-slimste-mens",
+    "type": "video",
+    "title": "Dit is dit jaar de winnaar van De Slimste Mens",
+    "subtitle": "Video",
+    "published_at": "2023-02-10T21:20:52+01:00",
+    "updated_at": "2023-02-10T21:20:53+01:00",
+    "media_id": "7oax9tka67h5",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1778994,
+      "slug": "media-en-cultuur",
+      "type": "default",
+      "name": "Entertainment",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media-en-cultuur/6250808/dit-is-dit-jaar-de-winnaar-van-de-slimste-mens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250805,
     "slug": "fbi-vindt-geheim-document-bij-huiszoeking-amerikaanse-oud-vicepresident-pence",
     "type": "article",
     "title": "FBI vindt geheim document bij huiszoeking Amerikaanse oud-vicepresident Pence",
     "subtitle": null,
     "published_at": "2023-02-10T21:12:48+01:00",
-    "updated_at": "2023-02-10T21:12:49+01:00",
+    "updated_at": "2023-02-10T21:18:15+01:00",
     "media_id": "tqlxtc8auzh0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6250783/nuis-wint-met-overmacht-1500-meter-bij-wereldbeker-in-polen-roest-derde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250776,
-    "slug": "ocampos-wist-al-na-een-maand-dat-zijn-periode-bij-ajax-zou-mislukken",
-    "type": "article",
-    "title": "Ocampos wist al na een maand dat zijn periode bij Ajax zou mislukken",
-    "subtitle": null,
-    "published_at": "2023-02-10T17:36:49+01:00",
-    "updated_at": "2023-02-10T17:58:17+01:00",
-    "media_id": "1rfxpwzas1yq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6250776/ocampos-wist-al-na-een-maand-dat-zijn-periode-bij-ajax-zou-mislukken.html",
     "open_new_window": false,
     "partner": null
   }
