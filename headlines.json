@@ -1,12 +1,35 @@
 [
   {
+    "id": 6250921,
+    "slug": "dronebeelden-tonen-turkse-antakya-in-puin",
+    "type": "video",
+    "title": "Dronebeelden tonen Turkse Antakya in puin",
+    "subtitle": "Video",
+    "published_at": "2023-02-12T09:24:03+01:00",
+    "updated_at": "2023-02-12T09:24:04+01:00",
+    "media_id": "8kzxe7takbmo",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1779210,
+      "slug": "aardbeving-syrie-en-turkije",
+      "type": "files",
+      "name": "Aardbeving Syrië en Turkije",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/aardbeving-syrie-en-turkije/6250921/dronebeelden-tonen-turkse-antakya-in-puin.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250920,
     "slug": "matchwinner-ozyakup-hoopt-op-donaties-op-giro555-mijn-goal-boeit-me-nu-niets",
     "type": "article",
     "title": "Matchwinner Özyakup hoopt op donaties op Giro555: 'Mijn goal boeit me nu niets'",
     "subtitle": null,
     "published_at": "2023-02-12T09:09:00+01:00",
-    "updated_at": "2023-02-12T09:11:15+01:00",
+    "updated_at": "2023-02-12T09:23:46+01:00",
     "media_id": "d1ixjb2a2d3i",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Onze verslaggever is in Turkije: 'Niet te heftig voor NU.nl?'",
     "subtitle": "Van de hoofdredactie",
     "published_at": "2023-02-12T09:04:07+01:00",
-    "updated_at": "2023-02-12T09:06:45+01:00",
+    "updated_at": "2023-02-12T09:24:58+01:00",
     "media_id": "l9rx1uha95yg",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Zwarte quarterbacks zorgen voor primeur bij Super Bowl: 'Dit is zo belangrijk'",
     "subtitle": null,
     "published_at": "2023-02-12T05:05:13+01:00",
-    "updated_at": "2023-02-12T05:05:14+01:00",
+    "updated_at": "2023-02-12T09:24:42+01:00",
     "media_id": "ub3xjvdamopl",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6250908/alphatauri-presenteert-auto-de-vries-voor-2023-in-new-york.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250909,
-    "slug": "simons-maakt-ook-tegen-groningen-indruk-bij-psv-hij-wordt-elke-dag-beter",
-    "type": "article",
-    "title": "Simons maakt ook tegen Groningen indruk bij PSV: 'Hij wordt elke dag beter'",
-    "subtitle": null,
-    "published_at": "2023-02-11T23:53:25+01:00",
-    "updated_at": "2023-02-11T23:53:26+01:00",
-    "media_id": "s25xt9saw1g3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6250909/simons-maakt-ook-tegen-groningen-indruk-bij-psv-hij-wordt-elke-dag-beter.html",
     "open_new_window": false,
     "partner": null
   }
