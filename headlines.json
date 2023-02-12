@@ -1,5 +1,28 @@
 [
   {
+    "id": 6250911,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-02-12T05:20:25+01:00",
+    "updated_at": "2023-02-12T05:20:26+01:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6250911/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250553,
     "slug": "rihanna-treedt-op-bij-super-bowl-komt-er-dan-ook-eindelijk-een-nieuw-album",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6250900/knegt-snapt-dat-hij-excuses-moest-maken-maar-neem-mijn-kritiek-niet-terug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250850,
-    "slug": "ongeloof-in-de-door-aardbevingen-verwoeste-stad-antakya",
-    "type": "article",
-    "title": "Ongeloof in de door aardbevingen verwoeste stad Antakya",
-    "subtitle": "In beeld",
-    "published_at": "2023-02-11T21:34:38+01:00",
-    "updated_at": "2023-02-11T21:34:39+01:00",
-    "media_id": "942xb81a86cw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6250850/ongeloof-in-de-door-aardbevingen-verwoeste-stad-antakya.html",
     "open_new_window": false,
     "partner": null
   }
