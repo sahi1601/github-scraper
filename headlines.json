@@ -1,5 +1,51 @@
 [
   {
+    "id": 6251028,
+    "slug": "krezip-drummer-bram-van-den-berg-speelt-tijdelijk-bij-u2",
+    "type": "article",
+    "title": "Krezip-drummer Bram van den Berg speelt tijdelijk bij U2",
+    "subtitle": null,
+    "published_at": "2023-02-13T09:30:34+01:00",
+    "updated_at": "2023-02-13T09:30:35+01:00",
+    "media_id": "g5hx18tac72u",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6251028/krezip-drummer-bram-van-den-berg-speelt-tijdelijk-bij-u2.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251027,
+    "slug": "nieuw-programma-de-nieuwe-vermeer-trapt-af-met-12-miljoen-kijkers",
+    "type": "article",
+    "title": "Nieuw programma De Nieuwe Vermeer trapt af met 1,2 miljoen kijkers",
+    "subtitle": null,
+    "published_at": "2023-02-13T09:23:51+01:00",
+    "updated_at": "2023-02-13T09:23:52+01:00",
+    "media_id": "rakxn03acenp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6251027/nieuw-programma-de-nieuwe-vermeer-trapt-af-met-12-miljoen-kijkers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251023,
     "slug": "te-duur-of-toch-haalbaar-praat-mee-over-gezond-eten-in-tijden-van-inflatie",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6251007/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250573,
-    "slug": "nederlanders-kleuren-abn-amro-open-wij-zijn-de-nieuwe-generatie",
-    "type": "article",
-    "title": "Nederlanders kleuren ABN AMRO Open: 'Wij zijn de nieuwe generatie'",
-    "subtitle": "NU+",
-    "published_at": "2023-02-13T05:05:14+01:00",
-    "updated_at": "2023-02-13T07:51:07+01:00",
-    "media_id": "i2mx7npa6j6m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6250573/nederlanders-kleuren-abn-amro-open-wij-zijn-de-nieuwe-generatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6249322,
-    "slug": "drankindustrie-trekt-tientallen-miljoenen-uit-voor-alcoholreclames",
-    "type": "article",
-    "title": "Drankindustrie trekt tientallen miljoenen uit voor alcoholreclames",
-    "subtitle": null,
-    "published_at": "2023-02-13T05:04:17+01:00",
-    "updated_at": "2023-02-13T05:04:18+01:00",
-    "media_id": "8noxuj8a9hfv",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6249322/drankindustrie-trekt-tientallen-miljoenen-uit-voor-alcoholreclames.html",
     "open_new_window": false,
     "partner": null
   }
