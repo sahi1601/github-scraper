@@ -1,12 +1,35 @@
 [
   {
-    "id": 6251014,
-    "slug": "jeangu-macrooy-speelt-hoofdrol-in-nederlandse-versie-jesus-christ-superstar",
+    "id": 6250962,
+    "slug": "stelling-middelbare-scholen-moeten-jongeren-beter-begeleiden-bij-hun-studiekeuzes",
     "type": "article",
-    "title": "Jeangu Macrooy speelt hoofdrol in Nederlandse versie Jesus Christ Superstar",
+    "title": "Stelling: Middelbare scholen moeten jongeren beter begeleiden bij hun studiekeuzes",
+    "subtitle": null,
+    "published_at": "2023-02-13T07:28:34+01:00",
+    "updated_at": "2023-02-13T07:28:35+01:00",
+    "media_id": "n0uxmx1ap60w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6250962/stelling-middelbare-scholen-moeten-jongeren-beter-begeleiden-bij-hun-studiekeuzes.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251014,
+    "slug": "jeangu-macrooy-speelt-hoofdrol-in-nederlandse-versie-van-jesus-christ-superstar",
+    "type": "article",
+    "title": "Jeangu Macrooy speelt hoofdrol in Nederlandse versie van Jesus Christ Superstar",
     "subtitle": null,
     "published_at": "2023-02-13T07:01:09+01:00",
-    "updated_at": "2023-02-13T07:01:10+01:00",
+    "updated_at": "2023-02-13T07:27:09+01:00",
     "media_id": "sfkxfh4a9hyk",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6251014/jeangu-macrooy-speelt-hoofdrol-in-nederlandse-versie-jesus-christ-superstar.html",
+    "url": "/muziek/6251014/jeangu-macrooy-speelt-hoofdrol-in-nederlandse-versie-van-jesus-christ-superstar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -70,12 +93,12 @@
   },
   {
     "id": 6251012,
-    "slug": "sinan-eroglu-speelt-rol-van-jezus-in-nieuwe-editie-the-passion",
+    "slug": "sinan-eroglu-speelt-jezus-in-nieuwe-editie-van-the-passion",
     "type": "article",
-    "title": "Sinan Eroglu speelt rol van Jezus in nieuwe editie The Passion",
+    "title": "Sinan Eroglu speelt Jezus in nieuwe editie van The Passion",
     "subtitle": null,
     "published_at": "2023-02-13T06:38:15+01:00",
-    "updated_at": "2023-02-13T07:13:22+01:00",
+    "updated_at": "2023-02-13T07:21:46+01:00",
     "media_id": "873x604ags18",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6251012/sinan-eroglu-speelt-rol-van-jezus-in-nieuwe-editie-the-passion.html",
+    "url": "/media/6251012/sinan-eroglu-speelt-jezus-in-nieuwe-editie-van-the-passion.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6251000/matchwinner-memphis-heel-gelukkig-bij-atletico-teamgenoten-zijn-geweldig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6250999,
-    "slug": "napoli-zet-zegereeks-voort-tegen-cremonese-en-gaat-nog-steviger-aan-kop",
-    "type": "article",
-    "title": "Napoli zet zegereeks voort tegen Cremonese en gaat nog steviger aan kop",
-    "subtitle": null,
-    "published_at": "2023-02-12T22:47:54+01:00",
-    "updated_at": "2023-02-12T23:10:38+01:00",
-    "media_id": "9ibx9flawdwd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6250999/napoli-zet-zegereeks-voort-tegen-cremonese-en-gaat-nog-steviger-aan-kop.html",
     "open_new_window": false,
     "partner": null
   }
