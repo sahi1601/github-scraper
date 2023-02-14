@@ -1,5 +1,28 @@
 [
   {
+    "id": 6251171,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-02-14T05:24:26+01:00",
+    "updated_at": "2023-02-14T05:24:27+01:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6251171/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6250550,
     "slug": "in-duinen-staan-bunkers-vol-explosieve-nitraatfilms-waarom-worden-ze-bewaard",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6251157/luchtbeelden-tonen-verschroeide-grond-na-brand-bij-recylebedrijf-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251135,
-    "slug": "reddingsacties-in-turkije-en-syrie-lopen-week-na-aardbevingen-bijna-ten-einde",
-    "type": "article",
-    "title": "Reddingsacties in Turkije en Syrië lopen week na aardbevingen bijna ten einde",
-    "subtitle": null,
-    "published_at": "2023-02-13T21:20:46+01:00",
-    "updated_at": "2023-02-13T21:20:47+01:00",
-    "media_id": "umpxi8wa1pdj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779210,
-      "slug": "aardbeving-syrie-en-turkije",
-      "type": "files",
-      "name": "Aardbeving Syrië en Turkije",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/aardbeving-syrie-en-turkije/6251135/reddingsacties-in-turkije-en-syrie-lopen-week-na-aardbevingen-bijna-ten-einde.html",
     "open_new_window": false,
     "partner": null
   }
