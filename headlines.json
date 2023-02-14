@@ -1,5 +1,51 @@
 [
   {
+    "id": 6251176,
+    "slug": "choreograaf-die-poep-op-criticus-smeerde-absoluut-geen-geweldige-keuze",
+    "type": "article",
+    "title": "Choreograaf die poep op criticus smeerde: 'Absoluut geen geweldige keuze'",
+    "subtitle": null,
+    "published_at": "2023-02-14T07:30:06+01:00",
+    "updated_at": "2023-02-14T07:30:07+01:00",
+    "media_id": "uy3x5w1apxg7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6251176/choreograaf-die-poep-op-criticus-smeerde-absoluut-geen-geweldige-keuze.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6251120,
+    "slug": "stelling-alcohol-moet-net-zo-streng-gereguleerd-worden-als-tabak",
+    "type": "article",
+    "title": "Stelling: Alcohol moet net zo streng gereguleerd worden als tabak",
+    "subtitle": null,
+    "published_at": "2023-02-14T07:23:33+01:00",
+    "updated_at": "2023-02-14T07:23:34+01:00",
+    "media_id": "bwvxgmla1f27",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6251120/stelling-alcohol-moet-net-zo-streng-gereguleerd-worden-als-tabak.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251175,
     "slug": "studenten-in-vs-rennen-in-paniek-gebouw-uit-vanwege-schietpartij",
     "type": "video",
@@ -121,7 +167,7 @@
     "title": "Zonder Miedema broedt Oranje op nieuw WK-plan: 'Anderen moet nu opstaan'",
     "subtitle": null,
     "published_at": "2023-02-14T05:06:55+01:00",
-    "updated_at": "2023-02-14T06:54:13+01:00",
+    "updated_at": "2023-02-14T07:23:53+01:00",
     "media_id": "slqx9ctamcug",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6251163/gakpo-heeft-met-eerste-goal-voor-liverpool-belangrijk-aandeel-in-zege-op-everton.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251167,
-    "slug": "nieuw-zeeland-neemt-zeldzame-stap-en-roept-noodtoestand-uit-vanwege-cycloon",
-    "type": "article",
-    "title": "Nieuw-Zeeland neemt zeldzame stap en roept noodtoestand uit vanwege cycloon",
-    "subtitle": null,
-    "published_at": "2023-02-13T22:47:54+01:00",
-    "updated_at": "2023-02-13T22:56:57+01:00",
-    "media_id": "a39xr1laj862",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6251167/nieuw-zeeland-neemt-zeldzame-stap-en-roept-noodtoestand-uit-vanwege-cycloon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251161,
-    "slug": "agenten-achtervolgen-busje-dat-voetgangers-aanreed-in-new-york",
-    "type": "video",
-    "title": "Agenten achtervolgen busje dat voetgangers aanreed in New York",
-    "subtitle": "Video",
-    "published_at": "2023-02-13T22:29:14+01:00",
-    "updated_at": "2023-02-13T22:57:13+01:00",
-    "media_id": "lixxnbca8lm2",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6251161/agenten-achtervolgen-busje-dat-voetgangers-aanreed-in-new-york.html",
     "open_new_window": false,
     "partner": null
   }
