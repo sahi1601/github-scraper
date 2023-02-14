@@ -1,5 +1,28 @@
 [
   {
+    "id": 6251247,
+    "slug": "who-aardbevingen-in-turkije-en-syrie-ergste-europese-natuurramp-in-100-jaar",
+    "type": "article",
+    "title": "WHO: 'Aardbevingen in Turkije en Syrië ergste Europese natuurramp in 100 jaar'",
+    "subtitle": null,
+    "published_at": "2023-02-14T15:19:57+01:00",
+    "updated_at": "2023-02-14T15:19:58+01:00",
+    "media_id": "bm6x7ipau95k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779210,
+      "slug": "aardbeving-syrie-en-turkije",
+      "type": "files",
+      "name": "Aardbeving Syrië en Turkije",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/aardbeving-syrie-en-turkije/6251247/who-aardbevingen-in-turkije-en-syrie-ergste-europese-natuurramp-in-100-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251246,
     "slug": "humberto-tan-vervangt-eva-jinek-in-haar-talkshow-tijdens-benefietavond",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Schiphol beperkt het aantal passagiers weer, maar je vlucht wordt niet geschrapt",
     "subtitle": null,
     "published_at": "2023-02-14T14:28:32+01:00",
-    "updated_at": "2023-02-14T15:02:13+01:00",
+    "updated_at": "2023-02-14T15:25:16+01:00",
     "media_id": "899xiw0a1fx1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6251210/jetro-willems-krijgt-kans-om-zich-te-bewijzen-op-trainingsveld-fc-groningen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251209,
-    "slug": "berger-haalt-autos-van-a7-na-botsing-door-mist",
-    "type": "video",
-    "title": "Berger haalt auto's van A7 na botsing door mist",
-    "subtitle": "Video",
-    "published_at": "2023-02-14T11:53:37+01:00",
-    "updated_at": "2023-02-14T11:53:38+01:00",
-    "media_id": "vvjxye7aixrd",
-    "duration": "0:33",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6251209/berger-haalt-autos-van-a7-na-botsing-door-mist.html",
     "open_new_window": false,
     "partner": null
   }
