@@ -1,12 +1,35 @@
 [
   {
+    "id": 6251305,
+    "slug": "bayern-en-de-ligt-staan-voor-kraker-tegen-psg-met-messi",
+    "type": "article",
+    "title": "Bayern en De Ligt staan voor kraker tegen PSG met Messi",
+    "subtitle": "Liveblog CL",
+    "published_at": "2023-02-14T20:31:55+01:00",
+    "updated_at": "2023-02-14T20:41:26+01:00",
+    "media_id": "bkaxwaxajhkg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6251305/bayern-en-de-ligt-staan-voor-kraker-tegen-psg-met-messi.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251304,
     "slug": "vos-ondergaat-donderdag-operatie-aan-vernauwing-van-bekkenslagader",
     "type": "article",
     "title": "Vos ondergaat donderdag operatie aan vernauwing van bekkenslagader",
     "subtitle": null,
     "published_at": "2023-02-14T20:18:54+01:00",
-    "updated_at": "2023-02-14T20:22:06+01:00",
+    "updated_at": "2023-02-14T20:25:39+01:00",
     "media_id": "7ucxo3xaevov",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Dit gebeurt op radio en televisie om geld op te halen voor Giro555",
     "subtitle": null,
     "published_at": "2023-02-14T20:02:10+01:00",
-    "updated_at": "2023-02-14T20:02:11+01:00",
+    "updated_at": "2023-02-14T20:43:10+01:00",
     "media_id": "6gbxv8nalwqs",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6251281/vereniging-mag-eenmalig-gaan-zoeken-naar-mogelijke-nazischat-in-ommeren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251282,
-    "slug": "van-de-looi-vertrekt-na-ek-als-bondscoach-van-jong-oranje",
-    "type": "article",
-    "title": "Van de Looi vertrekt na EK als bondscoach van Jong Oranje",
-    "subtitle": null,
-    "published_at": "2023-02-14T17:39:50+01:00",
-    "updated_at": "2023-02-14T18:05:14+01:00",
-    "media_id": "6xaxe3lazw6g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6251282/van-de-looi-vertrekt-na-ek-als-bondscoach-van-jong-oranje.html",
     "open_new_window": false,
     "partner": null
   }
