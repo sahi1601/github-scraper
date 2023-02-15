@@ -1,5 +1,28 @@
 [
   {
+    "id": 6251338,
+    "slug": "nederland-krijgt-er-voor-het-eerst-sinds-1973-een-nieuwe-kernreactor-bij",
+    "type": "article",
+    "title": "Nederland krijgt er voor het eerst sinds 1973 een nieuwe kernreactor bij",
+    "subtitle": null,
+    "published_at": "2023-02-15T09:15:14+01:00",
+    "updated_at": "2023-02-15T09:24:46+01:00",
+    "media_id": "ommxo74ag0ft",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6251338/nederland-krijgt-er-voor-het-eerst-sinds-1973-een-nieuwe-kernreactor-bij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251335,
     "slug": "handige-manier-van-sparen-of-niet-praat-mee-over-koopzegels",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Ahold ziet winst oplopen door extra verkopen in supermarkten",
     "subtitle": null,
     "published_at": "2023-02-15T08:35:09+01:00",
-    "updated_at": "2023-02-15T08:35:10+01:00",
+    "updated_at": "2023-02-15T09:16:30+01:00",
     "media_id": "pi7x5yuaaea9",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Of en hoeveel we doneren aan Giro555? 'Nederlanders zijn zeer gul'",
     "subtitle": "NU+",
     "published_at": "2023-02-15T05:00:05+01:00",
-    "updated_at": "2023-02-15T08:16:49+01:00",
+    "updated_at": "2023-02-15T09:28:54+01:00",
     "media_id": "3vlxzo5ae8a7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6251253/in-deze-gemeenten-koop-je-een-huis-voor-minder-dan-250000-euro.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251056,
-    "slug": "we-zijn-niet-tevredener-over-ons-leven-door-een-hoger-minimumloon",
-    "type": "article",
-    "title": "We zijn niet tevredener over ons leven door een hoger minimumloon",
-    "subtitle": null,
-    "published_at": "2023-02-15T04:48:53+01:00",
-    "updated_at": "2023-02-15T07:45:00+01:00",
-    "media_id": "gxcxzk2ah99o",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6251056/we-zijn-niet-tevredener-over-ons-leven-door-een-hoger-minimumloon.html",
     "open_new_window": false,
     "partner": null
   }
