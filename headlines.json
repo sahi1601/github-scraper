@@ -1,5 +1,28 @@
 [
   {
+    "id": 6251322,
+    "slug": "weerbericht-dichte-mist-bewolking-en-zonneschijn-wisselen-elkaar-af",
+    "type": "article",
+    "title": "Weerbericht: Dichte mist, bewolking en zonneschijn wisselen elkaar af",
+    "subtitle": null,
+    "published_at": "2023-02-15T05:25:35+01:00",
+    "updated_at": "2023-02-15T05:25:36+01:00",
+    "media_id": "kemxykkac1j0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6251322/weerbericht-dichte-mist-bewolking-en-zonneschijn-wisselen-elkaar-af.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251321,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6251311/man-die-kaag-bedreigde-verstoort-uitzending-hlf8-politie-pakt-hem-op.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251310,
-    "slug": "leontine-ruiters-is-weer-vrijgezel-na-korte-relatie-met-multimiljonair",
-    "type": "article",
-    "title": "Leontine Ruiters is weer vrijgezel na korte relatie met multimiljonair",
-    "subtitle": null,
-    "published_at": "2023-02-14T21:32:06+01:00",
-    "updated_at": "2023-02-14T23:20:03+01:00",
-    "media_id": "ydfxmepawhg2",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6251310/leontine-ruiters-is-weer-vrijgezel-na-korte-relatie-met-multimiljonair.html",
     "open_new_window": false,
     "partner": null
   }
