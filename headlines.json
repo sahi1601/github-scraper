@@ -1,5 +1,28 @@
 [
   {
+    "id": 6251516,
+    "slug": "alleen-op-de-markt-kun-je-nog-altijd-met-contant-geld-betalen",
+    "type": "article",
+    "title": "Alleen op de markt kun je nog altijd met contant geld betalen",
+    "subtitle": null,
+    "published_at": "2023-02-16T10:16:24+01:00",
+    "updated_at": "2023-02-16T10:20:36+01:00",
+    "media_id": "o7nxetna5owv",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6251516/alleen-op-de-markt-kun-je-nog-altijd-met-contant-geld-betalen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251390,
     "slug": "steeds-meer-overlevingskans-voor-kinderen-met-kanker",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6251488/union-moet-wennen-aan-nieuwe-status-duel-met-ajax-is-godsgeschenk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251492,
-    "slug": "hoe-komt-het-dat-je-auto-onder-het-saharastof-zit",
-    "type": "video",
-    "title": "Hoe komt het dat je auto onder het Saharastof zit?",
-    "subtitle": "Video",
-    "published_at": "2023-02-16T06:40:25+01:00",
-    "updated_at": "2023-02-16T06:55:10+01:00",
-    "media_id": "g50xr8iaiyjr",
-    "duration": "1:14",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6251492/hoe-komt-het-dat-je-auto-onder-het-saharastof-zit.html",
     "open_new_window": false,
     "partner": null
   }
