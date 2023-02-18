@@ -1,12 +1,35 @@
 [
   {
+    "id": 6251884,
+    "slug": "minder-vraag-fossiele-brandstof-betere-kansen-voor-kinderen-met-kanker",
+    "type": "article",
+    "title": "Minder vraag fossiele brandstof | Betere kansen voor kinderen met kanker",
+    "subtitle": "Goed nieuws",
+    "published_at": "2023-02-18T14:21:42+01:00",
+    "updated_at": "2023-02-18T14:21:44+01:00",
+    "media_id": "ry2xvvfaus5l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6251884/minder-vraag-fossiele-brandstof-betere-kansen-voor-kinderen-met-kanker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251887,
     "slug": "drietal-na-296-uur-onder-puin-vandaan-gehaald-in-turkije",
     "type": "video",
     "title": "Drietal na 296 uur onder puin vandaan gehaald in Turkije",
     "subtitle": "Video",
     "published_at": "2023-02-18T14:05:08+01:00",
-    "updated_at": "2023-02-18T14:05:09+01:00",
+    "updated_at": "2023-02-18T14:25:23+01:00",
     "media_id": "ynlxmuyaauem",
     "duration": "0:45",
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "INEOS-eigenaar Ratcliffe brengt miljardenbod uit op Manchester United",
     "subtitle": null,
     "published_at": "2023-02-18T13:41:01+01:00",
-    "updated_at": "2023-02-18T13:41:02+01:00",
+    "updated_at": "2023-02-18T14:18:08+01:00",
     "media_id": "yoexc2nawyjv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6251855/lichaam-van-voormalig-vitesse-speler-atsu-31-gevonden-onder-puin-in-turkije.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251853,
-    "slug": "griekspoor-gelooft-in-finaleplek-in-rotterdam-ik-heb-niets-te-verliezen",
-    "type": "article",
-    "title": "Griekspoor gelooft in finaleplek in Rotterdam: 'Ik heb niets te verliezen'",
-    "subtitle": null,
-    "published_at": "2023-02-18T08:25:31+01:00",
-    "updated_at": "2023-02-18T13:00:55+01:00",
-    "media_id": "btcxrysa7sj5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6251853/griekspoor-gelooft-in-finaleplek-in-rotterdam-ik-heb-niets-te-verliezen.html",
     "open_new_window": false,
     "partner": null
   }
