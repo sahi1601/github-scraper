@@ -1,5 +1,28 @@
 [
   {
+    "id": 6251887,
+    "slug": "drietal-na-296-uur-onder-puin-vandaan-gehaald-in-turkije",
+    "type": "video",
+    "title": "Drietal na 296 uur onder puin vandaan gehaald in Turkije",
+    "subtitle": "Video",
+    "published_at": "2023-02-18T14:05:08+01:00",
+    "updated_at": "2023-02-18T14:05:09+01:00",
+    "media_id": "ynlxmuyaauem",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1779210,
+      "slug": "aardbeving-syrie-en-turkije",
+      "type": "files",
+      "name": "Aardbeving Syrië en Turkije",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/aardbeving-syrie-en-turkije/6251887/drietal-na-296-uur-onder-puin-vandaan-gehaald-in-turkije.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251885,
     "slug": "ineos-eigenaar-ratcliffe-brengt-miljardenbod-uit-op-manchester-united",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Tiger Woods biedt excuses aan voor grap met tampon op golfbaan",
     "subtitle": null,
     "published_at": "2023-02-18T13:00:00+01:00",
-    "updated_at": "2023-02-18T13:13:20+01:00",
+    "updated_at": "2023-02-18T14:00:23+01:00",
     "media_id": "gc9xipaa1dcl",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Kind (12) dat bijna 300 uur na aardbeving werd gered is alsnog overleden",
     "subtitle": null,
     "published_at": "2023-02-18T10:40:26+01:00",
-    "updated_at": "2023-02-18T12:44:46+01:00",
+    "updated_at": "2023-02-18T14:05:39+01:00",
     "media_id": "6gtxl0pap19p",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6251853/griekspoor-gelooft-in-finaleplek-in-rotterdam-ik-heb-niets-te-verliezen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251852,
-    "slug": "samenwerkende-automobilisten-redden-hond-op-snelweg-in-vs",
-    "type": "video",
-    "title": "Samenwerkende automobilisten redden hond op snelweg in VS",
-    "subtitle": "Video",
-    "published_at": "2023-02-18T08:16:50+01:00",
-    "updated_at": "2023-02-18T08:16:51+01:00",
-    "media_id": "tczxziha4lug",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6251852/samenwerkende-automobilisten-redden-hond-op-snelweg-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
