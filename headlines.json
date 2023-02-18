@@ -1,12 +1,35 @@
 [
   {
+    "id": 6251895,
+    "slug": "pogacar-viert-vijftigste-profzege-met-nieuw-machtsvertoon-in-ruta-del-sol",
+    "type": "article",
+    "title": "Pogacar viert vijftigste profzege met nieuw machtsvertoon in Ruta del Sol",
+    "subtitle": null,
+    "published_at": "2023-02-18T15:17:09+01:00",
+    "updated_at": "2023-02-18T15:17:10+01:00",
+    "media_id": "v03xkn2a4tlt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6251895/pogacar-viert-vijftigste-profzege-met-nieuw-machtsvertoon-in-ruta-del-sol.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251893,
     "slug": "speciale-oproep-bij-carnaval-in-horst-na-fatale-steekpartij-gedraag-ow",
     "type": "article",
     "title": "Speciale oproep bij carnaval in Horst na fatale steekpartij: 'Gedraag ow!'",
     "subtitle": null,
     "published_at": "2023-02-18T15:05:56+01:00",
-    "updated_at": "2023-02-18T15:05:57+01:00",
+    "updated_at": "2023-02-18T15:18:14+01:00",
     "media_id": "d3dxxlcad0ww",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Worst klopt Alvarado en soleert naar zege in Exact Cross Sint-Niklaas",
     "subtitle": null,
     "published_at": "2023-02-18T15:00:13+01:00",
-    "updated_at": "2023-02-18T15:00:14+01:00",
+    "updated_at": "2023-02-18T15:15:21+01:00",
     "media_id": "bf8xicsav4rq",
     "duration": null,
     "canonical_section": {
@@ -121,8 +144,8 @@
     "title": "Rijpma-de Jong pakt zilver op laatste 1.500 meter voor WK, Wiklund maakt indruk",
     "subtitle": null,
     "published_at": "2023-02-18T14:32:35+01:00",
-    "updated_at": "2023-02-18T15:04:01+01:00",
-    "media_id": "9ebxzx5aqvtl",
+    "updated_at": "2023-02-18T15:19:27+01:00",
+    "media_id": "nibxiu1a8js3",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -144,7 +167,7 @@
     "title": "Meer kans voor kinderen met kanker | Minder fossiele brandstof",
     "subtitle": "Goed nieuws",
     "published_at": "2023-02-18T14:21:42+01:00",
-    "updated_at": "2023-02-18T15:11:49+01:00",
+    "updated_at": "2023-02-18T15:18:40+01:00",
     "media_id": "5nexjs8albb3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6251866/kritiek-op-surinaamse-politie-vanwege-slechte-voorbereiding-op-rellen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251865,
-    "slug": "oekrainers-halen-niet-ontplofte-russische-raket-van-straat",
-    "type": "video",
-    "title": "Oekraïners halen niet-ontplofte Russische raket van straat",
-    "subtitle": "Video",
-    "published_at": "2023-02-18T11:03:04+01:00",
-    "updated_at": "2023-02-18T11:03:05+01:00",
-    "media_id": "bfqx6oxa15hz",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6251865/oekrainers-halen-niet-ontplofte-russische-raket-van-straat.html",
     "open_new_window": false,
     "partner": null
   }
