@@ -1,12 +1,35 @@
 [
   {
+    "id": 6251943,
+    "slug": "groningen-laat-eerste-zege-in-maanden-glippen-paar-jongens-waren-echt-kwaad",
+    "type": "article",
+    "title": "Groningen laat eerste zege in maanden glippen: 'Paar jongens waren echt kwaad'",
+    "subtitle": null,
+    "published_at": "2023-02-19T10:16:56+01:00",
+    "updated_at": "2023-02-19T10:20:35+01:00",
+    "media_id": "17vx2ynarcqg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6251943/groningen-laat-eerste-zege-in-maanden-glippen-paar-jongens-waren-echt-kwaad.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251942,
     "slug": "bayern-coach-nagelsmann-biedt-arbiter-excuses-aan-voor-tirade-na-nederlaag",
     "type": "article",
     "title": "Bayern-coach Nagelsmann biedt arbiter excuses aan voor tirade na nederlaag",
     "subtitle": null,
     "published_at": "2023-02-19T09:19:03+01:00",
-    "updated_at": "2023-02-19T09:39:44+01:00",
+    "updated_at": "2023-02-19T10:21:28+01:00",
     "media_id": "xyox82pa15to",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6251929/syrische-baby-die-aardbeving-overleefde-vernoemd-naar-overleden-moeder-afraa.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251930,
-    "slug": "feyenoord-verslaat-az-door-late-goal-en-doet-uitstekende-zaken-in-titelstrijd",
-    "type": "article",
-    "title": "Feyenoord verslaat AZ door late goal en doet uitstekende zaken in titelstrijd",
-    "subtitle": null,
-    "published_at": "2023-02-18T23:03:38+01:00",
-    "updated_at": "2023-02-19T07:57:58+01:00",
-    "media_id": "9mdx35aarcq9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6251930/feyenoord-verslaat-az-door-late-goal-en-doet-uitstekende-zaken-in-titelstrijd.html",
     "open_new_window": false,
     "partner": null
   }
