@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252001,
+    "slug": "ajax-tegenstander-union-berlin-stelt-teleur-tegen-hekkensluiter-schalke-04",
+    "type": "article",
+    "title": "Ajax-tegenstander Union Berlin stelt teleur tegen hekkensluiter Schalke 04",
+    "subtitle": null,
+    "published_at": "2023-02-19T17:29:34+01:00",
+    "updated_at": "2023-02-19T17:29:35+01:00",
+    "media_id": "5tjx9qnaj8ix",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6252001/ajax-tegenstander-union-berlin-stelt-teleur-tegen-hekkensluiter-schalke-04.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251999,
     "slug": "luuk-de-jong-gefrustreerd-na-nieuw-puntenverlies-psv-niet-volwassen-genoeg",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Femke Bol verplettert 41 jaar oud wereldrecord op 400 meter indoor",
     "subtitle": null,
     "published_at": "2023-02-19T16:52:34+01:00",
-    "updated_at": "2023-02-19T17:08:57+01:00",
+    "updated_at": "2023-02-19T17:21:20+01:00",
     "media_id": "qmcx8j3af9gq",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Dijs verslaat toptalent Stolz en wint 1.000 meter in Polen, eindzege Otterspeer",
     "subtitle": null,
     "published_at": "2023-02-19T16:09:00+01:00",
-    "updated_at": "2023-02-19T16:32:48+01:00",
+    "updated_at": "2023-02-19T17:22:54+01:00",
     "media_id": "uukx1rmaef0f",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6251977/emotionele-bezoekers-zwaaien-reuzenpanda-uit-in-tokio.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251976,
-    "slug": "messi-schiet-psg-diep-in-blessuretijd-naar-zege-in-spektakelstuk-met-zeven-goals",
-    "type": "article",
-    "title": "Messi schiet PSG diep in blessuretijd naar zege in spektakelstuk met zeven goals",
-    "subtitle": null,
-    "published_at": "2023-02-19T15:00:45+01:00",
-    "updated_at": "2023-02-19T15:53:49+01:00",
-    "media_id": "t8vx0oxa9aip",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6251976/messi-schiet-psg-diep-in-blessuretijd-naar-zege-in-spektakelstuk-met-zeven-goals.html",
     "open_new_window": false,
     "partner": null
   }
