@@ -1,13 +1,36 @@
 [
   {
+    "id": 6252009,
+    "slug": "psv-opponent-sevilla-blijft-steken-op-gelijkspel-richting-return-in-eindhoven",
+    "type": "article",
+    "title": "PSV-opponent Sevilla blijft steken op gelijkspel richting return in Eindhoven",
+    "subtitle": null,
+    "published_at": "2023-02-19T18:48:24+01:00",
+    "updated_at": "2023-02-19T18:53:32+01:00",
+    "media_id": "6y4xukuaeyrf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6252009/psv-opponent-sevilla-blijft-steken-op-gelijkspel-richting-return-in-eindhoven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252008,
     "slug": "ajax-boekt-ruime-thuiszege-op-sparta-en-neemt-tweede-plaats-over-van-az",
     "type": "article",
     "title": "Ajax boekt ruime thuiszege op Sparta en neemt tweede plaats over van AZ",
     "subtitle": null,
     "published_at": "2023-02-19T18:36:00+01:00",
-    "updated_at": "2023-02-19T18:36:01+01:00",
-    "media_id": "p98xkcbacksj",
+    "updated_at": "2023-02-19T19:08:30+01:00",
+    "media_id": "pkgx9iga8z8w",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -29,7 +52,7 @@
     "title": "Woensdag en vrijdag opnieuw stakingen in streekvervoer, begin nieuwe reeks",
     "subtitle": null,
     "published_at": "2023-02-19T18:34:49+01:00",
-    "updated_at": "2023-02-19T18:41:21+01:00",
+    "updated_at": "2023-02-19T18:51:19+01:00",
     "media_id": "zn6xotza3fc6",
     "duration": null,
     "canonical_section": {
@@ -75,8 +98,8 @@
     "title": "Medvedev wint jubileumeditie ABN AMRO Open onder toeziend oog van koning",
     "subtitle": null,
     "published_at": "2023-02-19T18:14:52+01:00",
-    "updated_at": "2023-02-19T18:37:27+01:00",
-    "media_id": "v0gx7leaxlse",
+    "updated_at": "2023-02-19T19:02:06+01:00",
+    "media_id": "c8uxuwgam37a",
     "duration": null,
     "canonical_section": {
       "id": 1772432,
@@ -121,7 +144,7 @@
     "title": "Net een dag terug uit Turkije staat reddingshond Power 'alweer te stuiteren'",
     "subtitle": "NU+",
     "published_at": "2023-02-19T17:38:39+01:00",
-    "updated_at": "2023-02-19T18:00:39+01:00",
+    "updated_at": "2023-02-19T19:07:51+01:00",
     "media_id": "4uex89paljx5",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Luuk de Jong gefrustreerd na nieuw puntenverlies PSV: 'Niet volwassen genoeg'",
     "subtitle": null,
     "published_at": "2023-02-19T17:09:00+01:00",
-    "updated_at": "2023-02-19T18:38:47+01:00",
+    "updated_at": "2023-02-19T19:01:13+01:00",
     "media_id": "lu1xutvay6gb",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "PSV lijdt drie dagen na zeperd in Europa League puntenverlies bij FC Utrecht",
     "subtitle": null,
     "published_at": "2023-02-19T16:26:10+01:00",
-    "updated_at": "2023-02-19T18:38:57+01:00",
+    "updated_at": "2023-02-19T19:00:49+01:00",
     "media_id": "i2lxj57apqm0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6251988/koster-pakt-ook-nationale-indoortitel-op-3000-meter-boers-verrast-bonevacia.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251987,
-    "slug": "dijs-verslaat-toptalent-stolz-en-wint-1000-meter-in-polen-eindzege-otterspeer",
-    "type": "article",
-    "title": "Dijs verslaat toptalent Stolz en wint 1.000 meter in Polen, eindzege Otterspeer",
-    "subtitle": null,
-    "published_at": "2023-02-19T16:09:00+01:00",
-    "updated_at": "2023-02-19T17:43:49+01:00",
-    "media_id": "uukx1rmaef0f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6251987/dijs-verslaat-toptalent-stolz-en-wint-1000-meter-in-polen-eindzege-otterspeer.html",
     "open_new_window": false,
     "partner": null
   }
