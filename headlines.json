@@ -1,13 +1,36 @@
 [
   {
+    "id": 6251933,
+    "slug": "ademhalingscoach-helpt-matchwinner-pedersen-te-blijven-rennen-bij-feyenoord",
+    "type": "article",
+    "title": "Ademhalingscoach helpt matchwinner Pedersen te blijven rennen bij Feyenoord",
+    "subtitle": null,
+    "published_at": "2023-02-19T03:44:51+01:00",
+    "updated_at": "2023-02-19T04:00:09+01:00",
+    "media_id": "oekx26aaw5dt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6251933/ademhalingscoach-helpt-matchwinner-pedersen-te-blijven-rennen-bij-feyenoord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6251934,
     "slug": "feyenoord-droomt-hardop-van-coolsingel-we-geloven-in-het-kampioenschap",
     "type": "article",
     "title": "Feyenoord droomt hardop van Coolsingel: 'We geloven in het kampioenschap'",
     "subtitle": null,
     "published_at": "2023-02-19T03:08:52+01:00",
-    "updated_at": "2023-02-19T03:08:53+01:00",
-    "media_id": "an7xv91aljl5",
+    "updated_at": "2023-02-19T03:51:09+01:00",
+    "media_id": "gcjxi1iasa3o",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6251912/nederland-sluit-consulaat-sint-petersburg-en-wijst-groep-russische-diplomaten-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6251913,
-    "slug": "van-bommel-ziet-janssen-en-ekkelenkamp-scoren-bij-winnend-antwerp",
-    "type": "article",
-    "title": "Van Bommel ziet Janssen en Ekkelenkamp scoren bij winnend Antwerp",
-    "subtitle": null,
-    "published_at": "2023-02-18T18:13:19+01:00",
-    "updated_at": "2023-02-18T23:06:36+01:00",
-    "media_id": "169x45nawlp8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6251913/van-bommel-ziet-janssen-en-ekkelenkamp-scoren-bij-winnend-antwerp.html",
     "open_new_window": false,
     "partner": null
   }
