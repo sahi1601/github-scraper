@@ -1,5 +1,51 @@
 [
   {
+    "id": 6252149,
+    "slug": "nieuwe-forse-aardbeving-in-rampgebied-turkije-en-syrie",
+    "type": "article",
+    "title": "Nieuwe forse aardbeving in rampgebied Turkije en Syrië",
+    "subtitle": null,
+    "published_at": "2023-02-20T18:25:04+01:00",
+    "updated_at": "2023-02-20T18:26:47+01:00",
+    "media_id": "e15x62ia6050",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6252149/nieuwe-forse-aardbeving-in-rampgebied-turkije-en-syrie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6252147,
+    "slug": "israelische-demonstranten-blokkeren-nederzetting-waar-politicus-woont",
+    "type": "video",
+    "title": "Israëlische demonstranten blokkeren nederzetting waar politicus woont",
+    "subtitle": "Video",
+    "published_at": "2023-02-20T18:15:31+01:00",
+    "updated_at": "2023-02-20T18:15:33+01:00",
+    "media_id": "gnox9iiaydh8",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6252147/israelische-demonstranten-blokkeren-nederzetting-waar-politicus-woont.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252142,
     "slug": "flitsbezorgers-beloven-beterschap-na-tabaksverkoop-aan-minderjarigen",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Femke Bol liep wereldrecord: deze stokoude records staan nog wel in de boeken",
     "subtitle": null,
     "published_at": "2023-02-20T17:52:42+01:00",
-    "updated_at": "2023-02-20T17:54:02+01:00",
+    "updated_at": "2023-02-20T18:27:39+01:00",
     "media_id": "30ax0oca45ha",
     "duration": null,
     "canonical_section": {
@@ -93,12 +139,12 @@
   },
   {
     "id": 6252134,
-    "slug": "oranjevrouwen-bezoeken-mariniers-op-malta-wij-moeten-ook-op-elkaar-rekenen",
+    "slug": "oranjevrouwen-bezoeken-marine-op-malta-wij-moeten-ook-op-elkaar-rekenen",
     "type": "article",
-    "title": "Oranjevrouwen bezoeken mariniers op Malta: 'Wij moeten ook op elkaar rekenen'",
+    "title": "Oranjevrouwen bezoeken Marine op Malta: 'Wij moeten ook op elkaar rekenen'",
     "subtitle": null,
     "published_at": "2023-02-20T17:23:23+01:00",
-    "updated_at": "2023-02-20T18:05:52+01:00",
+    "updated_at": "2023-02-20T18:23:52+01:00",
     "media_id": "qv3xlnuasrsu",
     "duration": null,
     "canonical_section": {
@@ -110,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6252134/oranjevrouwen-bezoeken-mariniers-op-malta-wij-moeten-ook-op-elkaar-rekenen.html",
+    "url": "/voetbal/6252134/oranjevrouwen-bezoeken-marine-op-malta-wij-moeten-ook-op-elkaar-rekenen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +236,7 @@
     "title": "Gezondheidsraad: Laat zwangere vrouwen meer resultaten van NIPT-test weten",
     "subtitle": null,
     "published_at": "2023-02-20T16:42:43+01:00",
-    "updated_at": "2023-02-20T17:53:19+01:00",
+    "updated_at": "2023-02-20T18:13:55+01:00",
     "media_id": "9g9x8krazfjp",
     "duration": null,
     "canonical_section": {
@@ -300,12 +346,12 @@
   },
   {
     "id": 6252114,
-    "slug": "veelbesproken-knegt-ondanks-kritiek-op-bondscoach-in-wk-selectie-shorttrack",
+    "slug": "veelbesproken-knegt-ondanks-kritiek-op-bondscoach-in-selectie-wk-shorttrack",
     "type": "article",
-    "title": "Veelbesproken Knegt ondanks kritiek op bondscoach in WK-selectie shorttrack",
+    "title": "Veelbesproken Knegt ondanks kritiek op bondscoach in selectie WK shorttrack",
     "subtitle": null,
     "published_at": "2023-02-20T15:41:52+01:00",
-    "updated_at": "2023-02-20T17:17:45+01:00",
+    "updated_at": "2023-02-20T18:15:28+01:00",
     "media_id": "1qwxlfrazwbh",
     "duration": null,
     "canonical_section": {
@@ -317,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport/6252114/veelbesproken-knegt-ondanks-kritiek-op-bondscoach-in-wk-selectie-shorttrack.html",
+    "url": "/sport/6252114/veelbesproken-knegt-ondanks-kritiek-op-bondscoach-in-selectie-wk-shorttrack.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6252050/nederland-krijgt-de-sterkste-mri-scanner-ter-wereld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252106,
-    "slug": "biden-en-zelensky-speechen-tijdens-verrassingsbezoek-in-kyiv",
-    "type": "video",
-    "title": "Biden en Zelensky speechen tijdens verrassingsbezoek in Kyiv",
-    "subtitle": "Video",
-    "published_at": "2023-02-20T14:25:56+01:00",
-    "updated_at": "2023-02-20T14:25:58+01:00",
-    "media_id": "zudx6ufaaxfe",
-    "duration": "1:15",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6252106/biden-en-zelensky-speechen-tijdens-verrassingsbezoek-in-kyiv.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252100,
-    "slug": "real-madrid-mist-kroos-en-tchouameni-in-cl-kraker-tegen-liverpool",
-    "type": "article",
-    "title": "Real Madrid mist Kroos en Tchouaméni in CL-kraker tegen Liverpool",
-    "subtitle": null,
-    "published_at": "2023-02-20T14:21:37+01:00",
-    "updated_at": "2023-02-20T14:21:38+01:00",
-    "media_id": "z3xxoigafq9l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6252100/real-madrid-mist-kroos-en-tchouameni-in-cl-kraker-tegen-liverpool.html",
     "open_new_window": false,
     "partner": null
   }
