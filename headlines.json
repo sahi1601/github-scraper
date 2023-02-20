@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252157,
+    "slug": "defensie-zet-nog-eens-230-militairen-in-om-oekraiense-soldaten-te-trainen",
+    "type": "article",
+    "title": "Defensie zet nog eens 230 militairen in om Oekraïense soldaten te trainen",
+    "subtitle": null,
+    "published_at": "2023-02-20T19:34:21+01:00",
+    "updated_at": "2023-02-20T19:34:22+01:00",
+    "media_id": "192x53vavdj7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6252157/defensie-zet-nog-eens-230-militairen-in-om-oekraiense-soldaten-te-trainen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252156,
     "slug": "aanklacht-tegen-alec-baldwin-aangepast-vanwege-nieuwe-wapenwet",
     "type": "article",
     "title": "Aanklacht tegen Alec Baldwin aangepast vanwege nieuwe wapenwet",
     "subtitle": null,
     "published_at": "2023-02-20T19:31:25+01:00",
-    "updated_at": "2023-02-20T19:31:31+01:00",
+    "updated_at": "2023-02-20T19:37:11+01:00",
     "media_id": "5o8x7hyauzgd",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6252149,
-    "slug": "nieuwe-forse-aardbevingen-in-rampgebied-turkije-en-syrie",
+    "slug": "nieuwe-forse-aardbevingen-in-rampgebied-gebouwen-verwoest-en-mensen-onder-het-puin",
     "type": "article",
-    "title": "Nieuwe forse aardbevingen in rampgebied Turkije en Syrië",
+    "title": "Nieuwe forse aardbevingen in rampgebied: gebouwen verwoest en mensen onder het puin",
     "subtitle": null,
     "published_at": "2023-02-20T18:25:04+01:00",
-    "updated_at": "2023-02-20T19:30:42+01:00",
+    "updated_at": "2023-02-20T19:40:19+01:00",
     "media_id": "edvx7zsat68q",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/aardbeving-syrie-en-turkije/6252149/nieuwe-forse-aardbevingen-in-rampgebied-turkije-en-syrie.html",
+    "url": "/aardbeving-syrie-en-turkije/6252149/nieuwe-forse-aardbevingen-in-rampgebied-gebouwen-verwoest-en-mensen-onder-het-puin.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6252122/onderzoekers-tu-delft-doen-ontdekking-waardoor-levensduur-accus-verdubbelt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252086,
-    "slug": "twitter-wil-dat-je-betaalt-voor-sms-controle-beter-is-overstappen-op-iets-veiligers",
-    "type": "article",
-    "title": "Twitter wil dat je betaalt voor sms-controle, beter is overstappen op iets veiligers",
-    "subtitle": null,
-    "published_at": "2023-02-20T16:29:43+01:00",
-    "updated_at": "2023-02-20T18:08:03+01:00",
-    "media_id": "i16xvxaagibn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6252086/twitter-wil-dat-je-betaalt-voor-sms-controle-beter-is-overstappen-op-iets-veiligers.html",
     "open_new_window": false,
     "partner": null
   }
