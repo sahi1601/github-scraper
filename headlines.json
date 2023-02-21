@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252198,
+    "slug": "dashcambeelden-tonen-nieuwe-aardbeving-in-rampgebied-turkije",
+    "type": "video",
+    "title": "Dashcambeelden tonen nieuwe aardbeving in rampgebied Turkije",
+    "subtitle": "Video",
+    "published_at": "2023-02-21T09:38:37+01:00",
+    "updated_at": "2023-02-21T09:38:38+01:00",
+    "media_id": "kepx4mlagd2w",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6252198/dashcambeelden-tonen-nieuwe-aardbeving-in-rampgebied-turkije.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252188,
     "slug": "nuttig-of-niet-belangrijk-praat-mee-over-het-vooraf-checken-van-reviews",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6252186,
-    "slug": "stakingen-in-meer-dan-50-ziekenhuizen-na-afwijzing-looneis",
+    "slug": "stakingen-in-meer-dan-vijftig-ziekenhuizen-na-afwijzing-looneis",
     "type": "article",
-    "title": "Stakingen in meer dan 50 ziekenhuizen na afwijzing looneis",
+    "title": "Stakingen in meer dan vijftig ziekenhuizen na afwijzing looneis",
     "subtitle": null,
     "published_at": "2023-02-21T08:11:19+01:00",
-    "updated_at": "2023-02-21T09:30:43+01:00",
+    "updated_at": "2023-02-21T09:36:50+01:00",
     "media_id": "x90xwrtalrr8",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6252186/stakingen-in-meer-dan-50-ziekenhuizen-na-afwijzing-looneis.html",
+    "url": "/economie/6252186/stakingen-in-meer-dan-vijftig-ziekenhuizen-na-afwijzing-looneis.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6252095/surinamers-over-dure-boodschappen-iedereen-is-in-paniek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252144,
-    "slug": "oekraiense-magazijnen-vol-met-onze-kleding-we-hebben-er-niks-aan",
-    "type": "video",
-    "title": "Oekraïense magazijnen vol met ‘onze’ kleding: 'We hebben er niks aan'",
-    "subtitle": "Video",
-    "published_at": "2023-02-21T05:06:19+01:00",
-    "updated_at": "2023-02-21T08:15:55+01:00",
-    "media_id": "wt0x8auaxw9v",
-    "duration": "2:53",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6252144/oekraiense-magazijnen-vol-met-onze-kleding-we-hebben-er-niks-aan.html",
     "open_new_window": false,
     "partner": null
   }
