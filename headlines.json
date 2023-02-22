@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252489,
+    "slug": "man-die-rapper-nipsey-hussle-doodschoot-veroordeeld-tot-60-jaar-cel",
+    "type": "article",
+    "title": "Man die rapper Nipsey Hussle doodschoot veroordeeld tot 60 jaar cel",
+    "subtitle": null,
+    "published_at": "2023-02-22T22:00:28+01:00",
+    "updated_at": "2023-02-22T22:04:56+01:00",
+    "media_id": "c4pxxnqan0xt",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6252489/man-die-rapper-nipsey-hussle-doodschoot-veroordeeld-tot-60-jaar-cel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252488,
     "slug": "schiphol-legt-zich-voorlopig-neer-bij-krimp-aantal-vluchten-maar-wil-weer-groeien",
     "type": "article",
     "title": "Schiphol legt zich voorlopig neer bij krimp aantal vluchten, maar wil weer groeien",
     "subtitle": null,
     "published_at": "2023-02-22T21:34:53+01:00",
-    "updated_at": "2023-02-22T21:34:54+01:00",
+    "updated_at": "2023-02-22T21:47:33+01:00",
     "media_id": "ackxit0a58vj",
     "duration": null,
     "canonical_section": {
@@ -139,13 +162,13 @@
   },
   {
     "id": 6252479,
-    "slug": "mahrez-zet-city-op-voorsprong-tegen-leipzig",
+    "slug": "manchester-city-en-ake-leiden-na-rust-tegen-leipzig",
     "type": "article",
-    "title": "Mahrez zet City op voorsprong tegen Leipzig",
+    "title": "Manchester City en Aké leiden na rust tegen Leipzig",
     "subtitle": "Liveblog CL",
     "published_at": "2023-02-22T20:20:40+01:00",
-    "updated_at": "2023-02-22T21:32:02+01:00",
-    "media_id": "uj7xkaeapm12",
+    "updated_at": "2023-02-22T22:06:36+01:00",
+    "media_id": "pc5x8xta4p60",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6252479/mahrez-zet-city-op-voorsprong-tegen-leipzig.html",
+    "url": "/voetbal/6252479/manchester-city-en-ake-leiden-na-rust-tegen-leipzig.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6252453/minderjarige-vluchteling-nog-altijd-eerder-naar-reguliere-opvang-broze-situatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252456,
-    "slug": "bayern-coach-nagelsmann-ontloopt-schorsing-na-woede-uitbarsting-richting-arbiter",
-    "type": "article",
-    "title": "Bayern-coach Nagelsmann ontloopt schorsing na woede-uitbarsting richting arbiter",
-    "subtitle": null,
-    "published_at": "2023-02-22T17:32:17+01:00",
-    "updated_at": "2023-02-22T17:32:19+01:00",
-    "media_id": "bxwxvqxav2nl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6252456/bayern-coach-nagelsmann-ontloopt-schorsing-na-woede-uitbarsting-richting-arbiter.html",
     "open_new_window": false,
     "partner": null
   }
