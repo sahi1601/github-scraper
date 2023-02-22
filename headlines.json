@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252477,
+    "slug": "ravage-nadat-vrachtwagen-zich-in-brabantse-woning-boort",
+    "type": "video",
+    "title": "Ravage nadat vrachtwagen zich in Brabantse woning boort",
+    "subtitle": "Video",
+    "published_at": "2023-02-22T20:09:38+01:00",
+    "updated_at": "2023-02-22T20:09:40+01:00",
+    "media_id": "tavxonha2wv0",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6252477/ravage-nadat-vrachtwagen-zich-in-brabantse-woning-boort.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252475,
     "slug": "qatar-airways-sluit-miljoenendeal-met-formule-1-we-zijn-een-perfecte-match",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6252436/in-haagse-huisartsenpraktijk-neergestoken-man-is-huisarts-en-ligt-op-ic.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252432,
-    "slug": "man-die-sinds-2004-op-de-vlucht-was-na-doden-van-nichtje-zit-vast-in-turkije",
-    "type": "article",
-    "title": "Man die sinds 2004 op de vlucht was na doden van nichtje zit vast in Turkije",
-    "subtitle": null,
-    "published_at": "2023-02-22T15:38:37+01:00",
-    "updated_at": "2023-02-22T15:38:39+01:00",
-    "media_id": "rqxxzjzaw6gy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6252432/man-die-sinds-2004-op-de-vlucht-was-na-doden-van-nichtje-zit-vast-in-turkije.html",
     "open_new_window": false,
     "partner": null
   }
