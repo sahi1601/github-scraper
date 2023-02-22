@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252230,
+    "slug": "wie-betaalt-je-salaris-als-je-gaat-staken",
+    "type": "article",
+    "title": "Wie betaalt je salaris als je gaat staken?",
+    "subtitle": null,
+    "published_at": "2023-02-22T05:21:46+01:00",
+    "updated_at": "2023-02-22T05:21:47+01:00",
+    "media_id": "zukx7isa336r",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6252230/wie-betaalt-je-salaris-als-je-gaat-staken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252288,
     "slug": "f1-testdagen-van-start-de-vries-moet-vooral-geen-risico-nemen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6252319/karius-keept-tegen-united-weer-na-finaletrauma-hij-kan-zijn-verhaal-herschrijven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252321,
-    "slug": "kate-middleton-flipt-pannenkoek-bij-bezoek-aan-zorgcentrum",
-    "type": "video",
-    "title": "Kate Middleton flipt pannenkoek bij bezoek aan zorgcentrum",
-    "subtitle": "Video",
-    "published_at": "2023-02-21T21:13:23+01:00",
-    "updated_at": "2023-02-21T21:35:24+01:00",
-    "media_id": "il2xvzlav8is",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6252321/kate-middleton-flipt-pannenkoek-bij-bezoek-aan-zorgcentrum.html",
     "open_new_window": false,
     "partner": null
   }
