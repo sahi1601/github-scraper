@@ -1,12 +1,58 @@
 [
   {
+    "id": 6252362,
+    "slug": "ancelotti-lyrisch-over-vinicius-hij-is-de-meest-bepalende-speler-ter-wereld",
+    "type": "article",
+    "title": "Ancelotti lyrisch over Vinícius: 'Hij is de meest bepalende speler ter wereld'",
+    "subtitle": null,
+    "published_at": "2023-02-22T09:10:46+01:00",
+    "updated_at": "2023-02-22T09:16:55+01:00",
+    "media_id": "litxozdaljxg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6252362/ancelotti-lyrisch-over-vinicius-hij-is-de-meest-bepalende-speler-ter-wereld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6252190,
+    "slug": "regelmatig-wisselen-of-jaren-blijven-praat-mee-over-jobhoppen",
+    "type": "article",
+    "title": "Regelmatig wisselen of jaren blijven? Praat mee over jobhoppen",
+    "subtitle": null,
+    "published_at": "2023-02-22T09:01:06+01:00",
+    "updated_at": "2023-02-22T09:01:07+01:00",
+    "media_id": "ykxxkqpa20rt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6252190/regelmatig-wisselen-of-jaren-blijven-praat-mee-over-jobhoppen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252354,
     "slug": "akkoord-over-nieuwe-cao-voor-gemeentepersoneel-stakingen-van-de-baan",
     "type": "article",
     "title": "Akkoord over nieuwe cao voor gemeentepersoneel, stakingen van de baan",
     "subtitle": null,
     "published_at": "2023-02-22T08:37:19+01:00",
-    "updated_at": "2023-02-22T08:44:07+01:00",
+    "updated_at": "2023-02-22T08:59:26+01:00",
     "media_id": "8oaxharamjr7",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Gemeenten geïrriteerd over hoge warmtetarieven bij Eneco",
     "subtitle": null,
     "published_at": "2023-02-22T08:18:37+01:00",
-    "updated_at": "2023-02-22T08:18:38+01:00",
+    "updated_at": "2023-02-22T09:02:16+01:00",
     "media_id": "aowxbk1a6ewe",
     "duration": null,
     "canonical_section": {
@@ -167,7 +213,7 @@
     "title": "BTS-lid Jimin komt volgende maand met eerste soloalbum",
     "subtitle": null,
     "published_at": "2023-02-22T06:42:02+01:00",
-    "updated_at": "2023-02-22T06:47:43+01:00",
+    "updated_at": "2023-02-22T08:51:31+01:00",
     "media_id": "gbzxp5qaz33o",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Defensie stelt Oeigoerse militair wiens familie vastzat in China op non-actief",
     "subtitle": null,
     "published_at": "2023-02-22T06:03:30+01:00",
-    "updated_at": "2023-02-22T06:27:07+01:00",
+    "updated_at": "2023-02-22T08:49:40+01:00",
     "media_id": "pzxx34zandnd",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/nu-formule-1/6252288/f1-testdagen-van-start-de-vries-moet-vooral-geen-risico-nemen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252297,
-    "slug": "minder-controle-op-rusland-na-opschorten-nucleair-verdrag-hoe-zit-dat",
-    "type": "video",
-    "title": "Minder controle op Rusland na opschorten nucleair verdrag: hoe zit dat?",
-    "subtitle": "Video",
-    "published_at": "2023-02-22T05:16:08+01:00",
-    "updated_at": "2023-02-22T05:16:39+01:00",
-    "media_id": "389x564apnfd",
-    "duration": "2:08",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6252297/minder-controle-op-rusland-na-opschorten-nucleair-verdrag-hoe-zit-dat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252272,
-    "slug": "overnachten-in-nederland-is-populairder-dan-ooit-bij-toeristen",
-    "type": "article",
-    "title": "Overnachten in Nederland is populairder dan ooit bij toeristen",
-    "subtitle": null,
-    "published_at": "2023-02-22T00:00:59+01:00",
-    "updated_at": "2023-02-22T07:21:42+01:00",
-    "media_id": "i65xcqaafda6",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6252272/overnachten-in-nederland-is-populairder-dan-ooit-bij-toeristen.html",
     "open_new_window": false,
     "partner": null
   }
