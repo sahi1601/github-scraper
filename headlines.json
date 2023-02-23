@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252502,
+    "slug": "hof-doet-vandaag-uitspraak-in-moordzaak-advocaat-derk-wiersum",
+    "type": "article",
+    "title": "Hof doet vandaag uitspraak in moordzaak advocaat Derk Wiersum",
+    "subtitle": null,
+    "published_at": "2023-02-23T05:22:38+01:00",
+    "updated_at": "2023-02-23T05:22:40+01:00",
+    "media_id": "mz4x7p2as2bj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6252502/hof-doet-vandaag-uitspraak-in-moordzaak-advocaat-derk-wiersum.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252104,
     "slug": "rechter-bepaalt-vandaag-is-rachel-de-erfgename-van-andre-hazes",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6252487/bodycam-filmt-israelische-aanval-in-nablus.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252486,
-    "slug": "xavi-denkt-dat-barcelona-beste-united-in-jaren-alleen-in-topvorm-kan-verslaan",
-    "type": "article",
-    "title": "Xavi denkt dat Barcelona 'beste United in jaren' alleen in topvorm kan verslaan",
-    "subtitle": null,
-    "published_at": "2023-02-22T21:24:42+01:00",
-    "updated_at": "2023-02-22T21:33:43+01:00",
-    "media_id": "hj7x18ra74p7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6252486/xavi-denkt-dat-barcelona-beste-united-in-jaren-alleen-in-topvorm-kan-verslaan.html",
     "open_new_window": false,
     "partner": null
   }
