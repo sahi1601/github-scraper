@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252536,
+    "slug": "daft-punk-brengt-jubileumeditie-random-access-memories-uit-met-nieuw-werk",
+    "type": "article",
+    "title": "Daft Punk brengt jubileumeditie Random Access Memories uit, mét nieuw werk",
+    "subtitle": null,
+    "published_at": "2023-02-23T10:14:51+01:00",
+    "updated_at": "2023-02-23T10:14:53+01:00",
+    "media_id": "4dzxyx7aqbpi",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6252536/daft-punk-brengt-jubileumeditie-random-access-memories-uit-met-nieuw-werk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252531,
     "slug": "israel-en-palestijnen-voeren-luchtaanvallen-uit-na-dood-van-elf-mensen-bij-inval",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Verstappen laat nieuwe Red Bull zien in Bahrein",
     "subtitle": "In beeld",
     "published_at": "2023-02-23T08:41:22+01:00",
-    "updated_at": "2023-02-23T09:18:43+01:00",
+    "updated_at": "2023-02-23T10:22:31+01:00",
     "media_id": "0uux5y0a83r5",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6252485/timber-ziet-ajax-beter-verdedigen-onder-heitinga-zo-moeilijk-is-het-niet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252478,
-    "slug": "coolblue-verkocht-veel-minder-laptops-en-tvs-in-2022",
-    "type": "article",
-    "title": "Coolblue verkocht veel minder laptops en tv's in 2022",
-    "subtitle": null,
-    "published_at": "2023-02-23T06:15:06+01:00",
-    "updated_at": "2023-02-23T09:02:35+01:00",
-    "media_id": "bguxzwuar2zy",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6252478/coolblue-verkocht-veel-minder-laptops-en-tvs-in-2022.html",
     "open_new_window": false,
     "partner": null
   }
