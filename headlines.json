@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252606,
+    "slug": "chaos-in-spaanse-koers-door-sneeuwval-peloton-stapt-af-kopgroep-rijdt-door",
+    "type": "article",
+    "title": "Chaos in Spaanse koers door sneeuwval: peloton stapt af, kopgroep rijdt door",
+    "subtitle": null,
+    "published_at": "2023-02-23T15:25:05+01:00",
+    "updated_at": "2023-02-23T15:25:06+01:00",
+    "media_id": "4k1xpd1adnnc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6252606/chaos-in-spaanse-koers-door-sneeuwval-peloton-stapt-af-kopgroep-rijdt-door.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252598,
     "slug": "huiverige-leeuwen-zwemmen-rivier-over-in-kenia",
     "type": "video",
@@ -52,7 +75,7 @@
     "title": "Drone filmt Oekraïense 'spookstad' Bakhmut",
     "subtitle": "Video",
     "published_at": "2023-02-23T14:45:57+01:00",
-    "updated_at": "2023-02-23T14:46:00+01:00",
+    "updated_at": "2023-02-23T15:23:51+01:00",
     "media_id": "0qrxutgacxbs",
     "duration": "0:45",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6252575/roxeanne-en-moeder-rachel-gaan-in-gesprek-strijdbijl-begraven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252574,
-    "slug": "de-graafschap-trainer-poldervaart-verlaat-ziekenhuis-en-begint-aan-herstel",
-    "type": "article",
-    "title": "De Graafschap-trainer Poldervaart verlaat ziekenhuis en begint aan herstel",
-    "subtitle": null,
-    "published_at": "2023-02-23T12:50:37+01:00",
-    "updated_at": "2023-02-23T12:50:39+01:00",
-    "media_id": "islxjvmaqr7s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6252574/de-graafschap-trainer-poldervaart-verlaat-ziekenhuis-en-begint-aan-herstel.html",
     "open_new_window": false,
     "partner": null
   }
