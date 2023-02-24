@@ -1,5 +1,51 @@
 [
   {
+    "id": 6252772,
+    "slug": "groningers-over-enquete-gaswinning-erkenning-maar-wat-gaat-er-nu-gebeuren",
+    "type": "article",
+    "title": "Groningers over enquête gaswinning: 'Erkenning, maar wat gaat er nu gebeuren?'",
+    "subtitle": null,
+    "published_at": "2023-02-24T17:31:07+01:00",
+    "updated_at": "2023-02-24T17:31:10+01:00",
+    "media_id": "3cyxkbyawr8z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772247,
+      "slug": "gaswinning-groningen",
+      "type": "files",
+      "name": "Gaswinning",
+      "style": "nu",
+      "media_id": "m1mxes7a42ey",
+      "partner": null
+    },
+    "url": "/gaswinning-groningen/6252772/groningers-over-enquete-gaswinning-erkenning-maar-wat-gaat-er-nu-gebeuren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6252822,
+    "slug": "verstappen-tweede-ondanks-technische-problemen-de-vries-vierde-in-bahrein",
+    "type": "article",
+    "title": "Verstappen tweede ondanks technische problemen, De Vries vierde in Bahrein",
+    "subtitle": null,
+    "published_at": "2023-02-24T17:30:46+01:00",
+    "updated_at": "2023-02-24T17:30:47+01:00",
+    "media_id": "ccvxwu3as0g6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6252822/verstappen-tweede-ondanks-technische-problemen-de-vries-vierde-in-bahrein.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252823,
     "slug": "eva-jinek-wordt-voor-de-tweede-keer-moeder",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Conclusies enquêterapport gaswinning kwamen ook bij Rutte 'hard binnen'",
     "subtitle": null,
     "published_at": "2023-02-24T16:34:26+01:00",
-    "updated_at": "2023-02-24T17:20:36+01:00",
+    "updated_at": "2023-02-24T17:33:17+01:00",
     "media_id": "wxtxqtfawloa",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Vliegverkeer op Eindhoven Airport stilgelegd na bommelding in vliegtuig",
     "subtitle": null,
     "published_at": "2023-02-24T16:08:55+01:00",
-    "updated_at": "2023-02-24T17:22:30+01:00",
+    "updated_at": "2023-02-24T17:34:22+01:00",
     "media_id": "8l2xam2ai3wo",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6252797/sinds-vorig-jaar-voortvluchtige-tbser-sherwin-w-opgepakt-in-spanje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252782,
-    "slug": "slot-klaagt-niet-over-shakhtar-als-opponent-feyenoord-er-waren-betere-ploegen",
-    "type": "article",
-    "title": "Slot klaagt niet over Shakhtar als opponent Feyenoord: 'Er waren betere ploegen'",
-    "subtitle": null,
-    "published_at": "2023-02-24T14:29:21+01:00",
-    "updated_at": "2023-02-24T14:47:45+01:00",
-    "media_id": "ixhx8e0adgmr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6252782/slot-klaagt-niet-over-shakhtar-als-opponent-feyenoord-er-waren-betere-ploegen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252790,
-    "slug": "oekraine-heeft-eerste-leopard-2-tanks-binnen",
-    "type": "article",
-    "title": "Oekraïne heeft eerste Leopard 2-tanks binnen",
-    "subtitle": null,
-    "published_at": "2023-02-24T14:28:24+01:00",
-    "updated_at": "2023-02-24T16:35:00+01:00",
-    "media_id": "ivuxuk9a04e7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Een jaar oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6252790/oekraine-heeft-eerste-leopard-2-tanks-binnen.html",
     "open_new_window": false,
     "partner": null
   }
