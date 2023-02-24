@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252636,
+    "slug": "alphatauri-mikt-met-de-vries-op-minimaal-top-zes-het-moet-echt-beter",
+    "type": "article",
+    "title": "AlphaTauri mikt met De Vries op minimaal top zes: 'Het moet echt beter'",
+    "subtitle": null,
+    "published_at": "2023-02-24T06:30:12+01:00",
+    "updated_at": "2023-02-24T06:30:13+01:00",
+    "media_id": "afqx1guakts0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6252636/alphatauri-mikt-met-de-vries-op-minimaal-top-zes-het-moet-echt-beter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252645,
     "slug": "atleten-vragen-bij-ek-in-turkije-aandacht-voor-ramp-we-voelen-een-verplichting",
     "type": "article",
@@ -254,12 +277,12 @@
   },
   {
     "id": 6252591,
-    "slug": "huis-gesloopt-vanwege-gaswinning-we-zijn-al-die-tijd-heel-slecht-geinformeerd",
+    "slug": "huis-gesloopt-vanwege-gaswinning-we-zijn-heel-slecht-geinformeerd",
     "type": "article",
-    "title": "Huis gesloopt vanwege gaswinning: 'We zijn al die tijd heel slecht geïnformeerd'",
+    "title": "Huis gesloopt vanwege gaswinning: 'We zijn heel slecht geïnformeerd'",
     "subtitle": "NU+",
     "published_at": "2023-02-24T05:09:47+01:00",
-    "updated_at": "2023-02-24T05:09:49+01:00",
+    "updated_at": "2023-02-24T06:30:44+01:00",
     "media_id": "hd3x656amdci",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": "m1mxes7a42ey",
       "partner": null
     },
-    "url": "/gaswinning-groningen/6252591/huis-gesloopt-vanwege-gaswinning-we-zijn-al-die-tijd-heel-slecht-geinformeerd.html",
+    "url": "/gaswinning-groningen/6252591/huis-gesloopt-vanwege-gaswinning-we-zijn-heel-slecht-geinformeerd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +443,7 @@
     "title": "Wéér een vernietigend rapport over jeugdbescherming: 'Totaal geen verbetering'",
     "subtitle": null,
     "published_at": "2023-02-23T23:27:17+01:00",
-    "updated_at": "2023-02-23T23:39:24+01:00",
+    "updated_at": "2023-02-24T06:40:00+01:00",
     "media_id": "j44x7t7arvew",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6252672/weer-een-vernietigend-rapport-over-jeugdbescherming-totaal-geen-verbetering.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252670,
-    "slug": "teleurstellend-europees-seizoen-ajax-voorbij-door-nederlaag-tegen-union-berlin",
-    "type": "article",
-    "title": "Teleurstellend Europees seizoen Ajax voorbij door nederlaag tegen Union Berlin",
-    "subtitle": null,
-    "published_at": "2023-02-23T22:55:18+01:00",
-    "updated_at": "2023-02-24T06:25:56+01:00",
-    "media_id": "3w8xh67ajwqw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6252670/teleurstellend-europees-seizoen-ajax-voorbij-door-nederlaag-tegen-union-berlin.html",
     "open_new_window": false,
     "partner": null
   }
