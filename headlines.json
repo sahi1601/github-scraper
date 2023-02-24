@@ -1,5 +1,28 @@
 [
   {
+    "id": 6252806,
+    "slug": "vingegaard-klimt-in-spaanse-koers-solo-naar-eerste-overwinning-van-seizoen",
+    "type": "article",
+    "title": "Vingegaard klimt in Spaanse koers solo naar eerste overwinning van seizoen",
+    "subtitle": null,
+    "published_at": "2023-02-24T15:24:46+01:00",
+    "updated_at": "2023-02-24T15:24:47+01:00",
+    "media_id": "vw3xyinawot4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6252806/vingegaard-klimt-in-spaanse-koers-solo-naar-eerste-overwinning-van-seizoen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252794,
     "slug": "staatssecretaris-vijlbrief-groningers-hadden-al-die-tijd-gelijk",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6252760/harry-potter-spel-hogwarts-legacy-in-twee-weken-twaalf-miljoen-keer-verkocht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252761,
-    "slug": "sainz-klokt-snelste-tijd-van-testweek-alphatauri-productiefst-in-bahrein",
-    "type": "article",
-    "title": "Sainz klokt snelste tijd van testweek, AlphaTauri productiefst in Bahrein",
-    "subtitle": null,
-    "published_at": "2023-02-24T12:28:03+01:00",
-    "updated_at": "2023-02-24T12:49:50+01:00",
-    "media_id": "z24xd05ail81",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6252761/sainz-klokt-snelste-tijd-van-testweek-alphatauri-productiefst-in-bahrein.html",
     "open_new_window": false,
     "partner": null
   }
