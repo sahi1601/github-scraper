@@ -1,12 +1,35 @@
 [
   {
+    "id": 6252912,
+    "slug": "verstappen-heeft-de-perfecte-afstelling-van-zijn-auto-al-bijna-te-pakken",
+    "type": "article",
+    "title": "Verstappen heeft de perfecte afstelling van zijn auto al bijna te pakken",
+    "subtitle": "NU+",
+    "published_at": "2023-02-25T15:16:52+01:00",
+    "updated_at": "2023-02-25T15:18:35+01:00",
+    "media_id": "0dyx3xwa6rlp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778846,
+      "slug": "nu-formule-1",
+      "type": "default",
+      "name": "NU+ Formule 1",
+      "style": "nusport",
+      "media_id": "gtmxcxnaui5m",
+      "partner": null
+    },
+    "url": "/nu-formule-1/6252912/verstappen-heeft-de-perfecte-afstelling-van-zijn-auto-al-bijna-te-pakken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6252913,
     "slug": "chaos-bij-marathonschaatsen-hoolwerf-juicht-onterecht-apparaat-fotofinish-kapot",
     "type": "article",
     "title": "Chaos bij marathonschaatsen: Hoolwerf juicht onterecht, apparaat fotofinish kapot",
     "subtitle": null,
     "published_at": "2023-02-25T15:09:26+01:00",
-    "updated_at": "2023-02-25T15:10:32+01:00",
+    "updated_at": "2023-02-25T15:14:20+01:00",
     "media_id": "4m2xufban7gm",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Antwoord op jullie vragen over Oekraïne: 'Nog geen interesse in onderhandelen'",
     "subtitle": null,
     "published_at": "2023-02-25T14:29:49+01:00",
-    "updated_at": "2023-02-25T14:29:50+01:00",
+    "updated_at": "2023-02-25T15:22:42+01:00",
     "media_id": "h5vxfdray2wk",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Afsluitdijk in beide richtingen weer open voor verkeer na storing aan brug",
     "subtitle": null,
     "published_at": "2023-02-25T14:23:33+01:00",
-    "updated_at": "2023-02-25T15:05:07+01:00",
+    "updated_at": "2023-02-25T15:19:40+01:00",
     "media_id": "gd0x0rra53r3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6252883/tientallen-tot-honderden-eritreeers-in-nederland-slachtoffer-van-smokkelnetwerk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252884,
-    "slug": "nieuw-sbs6-programma-avastars-begint-met-tegenvallende-kijkcijfers",
-    "type": "article",
-    "title": "Nieuw SBS6-programma Avastars begint met tegenvallende kijkcijfers",
-    "subtitle": null,
-    "published_at": "2023-02-25T10:10:10+01:00",
-    "updated_at": "2023-02-25T10:43:17+01:00",
-    "media_id": "33kx4kra3uzs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6252884/nieuw-sbs6-programma-avastars-begint-met-tegenvallende-kijkcijfers.html",
     "open_new_window": false,
     "partner": null
   }
