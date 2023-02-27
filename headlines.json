@@ -1,5 +1,28 @@
 [
   {
+    "id": 6253071,
+    "slug": "timelapse-toont-spectaculair-noorderlicht-boven-terschelling",
+    "type": "video",
+    "title": "Timelapse toont spectaculair noorderlicht boven Terschelling",
+    "subtitle": "Video",
+    "published_at": "2023-02-27T07:28:21+01:00",
+    "updated_at": "2023-02-27T07:28:23+01:00",
+    "media_id": "n1dxy8xakx5o",
+    "duration": "0:55",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6253071/timelapse-toont-spectaculair-noorderlicht-boven-terschelling.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253070,
     "slug": "nicolette-van-dam-scheurt-kruisband-en-meniscus-tijdens-wintersport",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "PostNL schrapt enkele honderden banen om kosten te besparen",
     "subtitle": null,
     "published_at": "2023-02-27T07:08:54+01:00",
-    "updated_at": "2023-02-27T07:08:55+01:00",
+    "updated_at": "2023-02-27T07:27:54+01:00",
     "media_id": "j3bx8tratacg",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Wiegman gaat voor hattrick bij prestigieuze FIFA-verkiezing",
     "subtitle": null,
     "published_at": "2023-02-27T05:13:06+01:00",
-    "updated_at": "2023-02-27T05:13:08+01:00",
+    "updated_at": "2023-02-27T07:25:08+01:00",
     "media_id": "fd6x2clajllb",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6252968/zo-liggen-de-verhoudingen-tussen-de-f1-teams-na-de-testdagen-in-bahrein.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6252719,
-    "slug": "voetballen-gaat-weer-maar-we-zakken-op-wintersport-massaal-door-onze-knieen",
-    "type": "article",
-    "title": "Voetballen gaat weer, maar we zakken op wintersport massaal door onze knieën",
-    "subtitle": null,
-    "published_at": "2023-02-27T05:10:55+01:00",
-    "updated_at": "2023-02-27T07:05:14+01:00",
-    "media_id": "rtfxv0yanfa1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1146768,
-      "slug": "gezondheid",
-      "type": "default",
-      "name": "Gezondheid",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gezondheid/6252719/voetballen-gaat-weer-maar-we-zakken-op-wintersport-massaal-door-onze-knieen.html",
     "open_new_window": false,
     "partner": null
   }
