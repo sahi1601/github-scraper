@@ -1,12 +1,35 @@
 [
   {
+    "id": 6253219,
+    "slug": "van-dijk-en-koeman-stemden-op-messi-maar-kozen-ieder-voor-andere-top-drie",
+    "type": "article",
+    "title": "Van Dijk en Koeman stemden op Messi, maar kozen ieder voor andere top drie",
+    "subtitle": null,
+    "published_at": "2023-02-28T07:32:50+01:00",
+    "updated_at": "2023-02-28T07:32:51+01:00",
+    "media_id": "dnnxlssaz5sr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6253219/van-dijk-en-koeman-stemden-op-messi-maar-kozen-ieder-voor-andere-top-drie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253217,
     "slug": "surinaamse-activist-en-leider-van-protest-in-paramaribo-vrijgelaten",
     "type": "article",
     "title": "Surinaamse activist en leider van protest in Paramaribo vrijgelaten",
     "subtitle": null,
     "published_at": "2023-02-28T07:11:44+01:00",
-    "updated_at": "2023-02-28T07:11:46+01:00",
+    "updated_at": "2023-02-28T07:24:54+01:00",
     "media_id": "8g9xzzma1lzd",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Misbruik zorgt voor strengere eisen bij nieuwe ronde STAP-budget",
     "subtitle": null,
     "published_at": "2023-02-28T05:25:36+01:00",
-    "updated_at": "2023-02-28T05:25:37+01:00",
+    "updated_at": "2023-02-28T07:33:33+01:00",
     "media_id": "rwsxe9xa746s",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6253208/oud-bondscoach-van-gaal-benoemd-tot-officier-in-de-orde-van-oranje-nassau.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253176,
-    "slug": "messi-troeft-mbappe-ook-af-in-strijd-om-fifa-prijs-voor-speler-van-het-jaar",
-    "type": "article",
-    "title": "Messi troeft Mbappé ook af in strijd om FIFA-prijs voor Speler van het Jaar",
-    "subtitle": null,
-    "published_at": "2023-02-27T22:38:58+01:00",
-    "updated_at": "2023-02-28T07:10:35+01:00",
-    "media_id": "sx0x7dmawmae",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6253176/messi-troeft-mbappe-ook-af-in-strijd-om-fifa-prijs-voor-speler-van-het-jaar.html",
     "open_new_window": false,
     "partner": null
   }
