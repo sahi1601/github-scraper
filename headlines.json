@@ -1,5 +1,28 @@
 [
   {
+    "id": 6253494,
+    "slug": "noord-brabant-verleent-tijdelijk-geen-bouwvergunningen-om-natuur-te-beschermen",
+    "type": "article",
+    "title": "Noord-Brabant verleent tijdelijk geen bouwvergunningen om natuur te beschermen",
+    "subtitle": null,
+    "published_at": "2023-03-01T19:34:54+01:00",
+    "updated_at": "2023-03-01T19:34:55+01:00",
+    "media_id": "05sx6gzap7ze",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6253494/noord-brabant-verleent-tijdelijk-geen-bouwvergunningen-om-natuur-te-beschermen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253493,
     "slug": "dit-is-het-lied-waarmee-nederland-naar-het-songfestival-gaat",
     "type": "video",
@@ -29,8 +52,8 @@
     "title": "Heerenveen en Feyenoord strijden om halvefinaleplek",
     "subtitle": "Liveblog KNVB-beker",
     "published_at": "2023-03-01T19:28:44+01:00",
-    "updated_at": "2023-03-01T19:29:46+01:00",
-    "media_id": "cryxlora3ghi",
+    "updated_at": "2023-03-01T19:41:35+01:00",
+    "media_id": "w38x9q9a8hdc",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6253466/joep-wennemars-langer-bij-jumbo-visma-we-zijn-met-iets-groters-bezig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253470,
-    "slug": "vier-koffers-met-170000-beschermde-babypalingen-onderschept-op-schiphol",
-    "type": "article",
-    "title": "Vier koffers met 170.000 beschermde babypalingen onderschept op Schiphol",
-    "subtitle": null,
-    "published_at": "2023-03-01T16:40:44+01:00",
-    "updated_at": "2023-03-01T18:36:43+01:00",
-    "media_id": "7sdxa6ra06e2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6253470/vier-koffers-met-170000-beschermde-babypalingen-onderschept-op-schiphol.html",
     "open_new_window": false,
     "partner": null
   }
