@@ -1,13 +1,36 @@
 [
   {
+    "id": 6253526,
+    "slug": "the-weeknd-gaat-hoofdrol-spelen-in-film-die-hij-zelf-schreef",
+    "type": "article",
+    "title": "The Weeknd gaat hoofdrol spelen in film die hij zelf schreef",
+    "subtitle": null,
+    "published_at": "2023-03-02T07:44:59+01:00",
+    "updated_at": "2023-03-02T07:44:59+01:00",
+    "media_id": "w0bxevracu5q",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6253526/the-weeknd-gaat-hoofdrol-spelen-in-film-die-hij-zelf-schreef.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253522,
     "slug": "onderzoek-bevestigt-dat-oermens-in-nederland-donkere-huid-en-lichte-ogen-had",
     "type": "article",
     "title": "Onderzoek bevestigt dat oermens in Nederland donkere huid en lichte ogen had",
     "subtitle": null,
     "published_at": "2023-03-02T07:24:33+01:00",
-    "updated_at": "2023-03-02T07:43:17+01:00",
-    "media_id": "zunxbhbahd5i",
+    "updated_at": "2023-03-02T08:12:37+01:00",
+    "media_id": "4fjxmiiayb08",
     "duration": null,
     "canonical_section": {
       "id": 478878,
@@ -29,7 +52,7 @@
     "title": "Duurdere boodschappen zorgen voor hogere inflatie in februari",
     "subtitle": null,
     "published_at": "2023-03-02T07:18:30+01:00",
-    "updated_at": "2023-03-02T07:31:27+01:00",
+    "updated_at": "2023-03-02T08:05:59+01:00",
     "media_id": "vblx6qtauzhd",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Ten Hag looft Weghorst na comeback United: 'Hij was een van de beste spelers'",
     "subtitle": null,
     "published_at": "2023-03-02T07:15:39+01:00",
-    "updated_at": "2023-03-02T07:17:00+01:00",
+    "updated_at": "2023-03-02T07:54:15+01:00",
     "media_id": "wd7xq97adsso",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Eerste indruk Songfestival-lied: 'Typisch Duncan Laurence-nummer'",
     "subtitle": "Video",
     "published_at": "2023-03-02T06:45:36+01:00",
-    "updated_at": "2023-03-02T07:36:31+01:00",
+    "updated_at": "2023-03-02T08:09:52+01:00",
     "media_id": "818xn1fa5rey",
     "duration": "2:31",
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Femke Bol is meer dan een natuurtalent: 'Zelfs de koffie gaat volgens schema'",
     "subtitle": "NU+",
     "published_at": "2023-03-02T06:37:08+01:00",
-    "updated_at": "2023-03-02T06:37:10+01:00",
+    "updated_at": "2023-03-02T08:00:44+01:00",
     "media_id": "dg0x0t2ajv2d",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6253507/onrust-op-iraanse-scholen-na-golf-van-vergiftigingen-onder-meisjes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253510,
-    "slug": "kokcu-opgelucht-na-nipte-bekerzege-feyenoord-ik-schaam-me-voor-mijn-fout",
-    "type": "article",
-    "title": "Kökçü opgelucht na nipte bekerzege Feyenoord: 'Ik schaam me voor mijn fout'",
-    "subtitle": null,
-    "published_at": "2023-03-01T22:54:21+01:00",
-    "updated_at": "2023-03-02T07:19:20+01:00",
-    "media_id": "vpmxi8eailw3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6253510/kokcu-opgelucht-na-nipte-bekerzege-feyenoord-ik-schaam-me-voor-mijn-fout.html",
     "open_new_window": false,
     "partner": null
   }
