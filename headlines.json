@@ -1,5 +1,28 @@
 [
   {
+    "id": 6253653,
+    "slug": "ontslag-oud-voorzitter-politiebond-om-grensoverschrijdend-gedrag-was-terecht",
+    "type": "article",
+    "title": "Ontslag oud-voorzitter politiebond om grensoverschrijdend gedrag was terecht",
+    "subtitle": null,
+    "published_at": "2023-03-02T19:39:54+01:00",
+    "updated_at": "2023-03-02T19:39:55+01:00",
+    "media_id": "28nxdpxa29ec",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6253653/ontslag-oud-voorzitter-politiebond-om-grensoverschrijdend-gedrag-was-terecht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253654,
     "slug": "saxofonist-en-componist-wayne-shorter-op-89-jarige-leeftijd-overleden",
     "type": "article",
@@ -116,12 +139,12 @@
   },
   {
     "id": 6253647,
-    "slug": "psv-al-vroeg-op-rozen-in-kwartfinaleduel-met-ado",
+    "slug": "psv-na-een-helft-op-rozen-in-kwartfinaleduel-met-ado",
     "type": "article",
-    "title": "PSV al vroeg op rozen in kwartfinaleduel met ADO",
+    "title": "PSV na één helft op rozen in kwartfinaleduel met ADO",
     "subtitle": "Liveblog KNVB-beker",
     "published_at": "2023-03-02T18:28:26+01:00",
-    "updated_at": "2023-03-02T19:09:55+01:00",
+    "updated_at": "2023-03-02T19:38:30+01:00",
     "media_id": "k03x2enawta6",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6253647/psv-al-vroeg-op-rozen-in-kwartfinaleduel-met-ado.html",
+    "url": "/voetbal/6253647/psv-na-een-helft-op-rozen-in-kwartfinaleduel-met-ado.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6253626/russell-blijft-optimistisch-over-mercedes-er-zit-genoeg-marge-in-onze-auto.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253606,
-    "slug": "door-drukte-bij-belastingdienst-is-je-zorgverzekeraar-ook-moeilijk-te-bereiken",
-    "type": "article",
-    "title": "Door drukte bij Belastingdienst is je zorgverzekeraar ook moeilijk te bereiken",
-    "subtitle": null,
-    "published_at": "2023-03-02T16:40:44+01:00",
-    "updated_at": "2023-03-02T17:33:38+01:00",
-    "media_id": "o9yxpe7aku2k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6253606/door-drukte-bij-belastingdienst-is-je-zorgverzekeraar-ook-moeilijk-te-bereiken.html",
     "open_new_window": false,
     "partner": null
   }
