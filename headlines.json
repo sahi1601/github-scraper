@@ -1,5 +1,28 @@
 [
   {
+    "id": 6253564,
+    "slug": "verkiezingsupdate-kritiek-op-verkiezingsdebat-linksom-of-rechtsom",
+    "type": "article",
+    "title": "Verkiezingsupdate: Kritiek op verkiezingsdebat Linksom of rechtsom",
+    "subtitle": null,
+    "published_at": "2023-03-03T17:42:56+01:00",
+    "updated_at": "2023-03-03T17:42:58+01:00",
+    "media_id": "131xyfca6lhq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779224,
+      "slug": "provinciale-statenverkiezingen",
+      "type": "default",
+      "name": "Provinciale Statenverkiezingen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/provinciale-statenverkiezingen/6253564/verkiezingsupdate-kritiek-op-verkiezingsdebat-linksom-of-rechtsom.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253798,
     "slug": "vier-nederlanders-opgepakt-in-belgie-na-vondst-van-5000-kilo-cocaine",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Seedo grijpt naast finaleplaats op 60 meter bij EK indoor",
     "subtitle": null,
     "published_at": "2023-03-03T17:31:58+01:00",
-    "updated_at": "2023-03-03T17:35:25+01:00",
+    "updated_at": "2023-03-03T17:40:33+01:00",
     "media_id": "510xlu2aue02",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Parlementsleden gaan elkaar te lijf in Moldavië",
     "subtitle": "Video",
     "published_at": "2023-03-03T17:30:17+01:00",
-    "updated_at": "2023-03-03T17:30:18+01:00",
+    "updated_at": "2023-03-03T17:45:19+01:00",
     "media_id": "jtgxrgia4lzi",
     "duration": "0:45",
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Hamilton mag ondanks verbod definitief neuspiercing dragen tijdens race",
     "subtitle": null,
     "published_at": "2023-03-03T17:03:22+01:00",
-    "updated_at": "2023-03-03T17:04:10+01:00",
+    "updated_at": "2023-03-03T17:41:28+01:00",
     "media_id": "hqsxy3eai9ex",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6253745/van-der-poel-favoriet-in-strade-bianche-moet-nog-wel-naar-topniveau-groeien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253761,
-    "slug": "fc-twente-zet-brenet-uit-selectie-vanwege-slechte-reactie-op-wissel-tegen-psv",
-    "type": "article",
-    "title": "FC Twente zet Brenet uit selectie vanwege slechte reactie op wissel tegen PSV",
-    "subtitle": null,
-    "published_at": "2023-03-03T13:56:06+01:00",
-    "updated_at": "2023-03-03T14:05:42+01:00",
-    "media_id": "dcmxhkaa7ci7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6253761/fc-twente-zet-brenet-uit-selectie-vanwege-slechte-reactie-op-wissel-tegen-psv.html",
     "open_new_window": false,
     "partner": null
   }
