@@ -1,5 +1,28 @@
 [
   {
+    "id": 6253834,
+    "slug": "femke-kok-pakt-als-eerste-nederlandse-wereldtitel-op-500-meter",
+    "type": "article",
+    "title": "Femke Kok pakt als eerste Nederlandse wereldtitel op 500 meter",
+    "subtitle": null,
+    "published_at": "2023-03-03T21:19:07+01:00",
+    "updated_at": "2023-03-03T21:20:59+01:00",
+    "media_id": "g5axly8atflb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6253834/femke-kok-pakt-als-eerste-nederlandse-wereldtitel-op-500-meter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253833,
     "slug": "omstanders-overmeesteren-man-die-nederlands-meisje-in-zweden-neerstak",
     "type": "video",
@@ -231,13 +254,13 @@
   },
   {
     "id": 6253819,
-    "slug": "az-op-voorsprong-tegen-vitesse-utrecht-fortuna-nog-0-0",
+    "slug": "az-leidt-tegen-vitesse-ook-fc-utrecht-op-voorsprong",
     "type": "article",
-    "title": "AZ op voorsprong tegen Vitesse, Utrecht-Fortuna nog 0-0",
+    "title": "AZ leidt tegen Vitesse, ook FC Utrecht op voorsprong",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-03-03T19:32:28+01:00",
-    "updated_at": "2023-03-03T20:41:01+01:00",
-    "media_id": "1fux6suavuz5",
+    "updated_at": "2023-03-03T21:24:41+01:00",
+    "media_id": "llcx30daiia5",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6253819/az-op-voorsprong-tegen-vitesse-utrecht-fortuna-nog-0-0.html",
+    "url": "/voetbal/6253819/az-leidt-tegen-vitesse-ook-fc-utrecht-op-voorsprong.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Diskwalificatie kost Nederlandse schaatssters wereldtitel op ploegenachtervolging",
     "subtitle": null,
     "published_at": "2023-03-03T19:23:30+01:00",
-    "updated_at": "2023-03-03T20:01:47+01:00",
+    "updated_at": "2023-03-03T21:18:07+01:00",
     "media_id": "qpgxt0sakfza",
     "duration": null,
     "canonical_section": {
@@ -369,12 +392,12 @@
   },
   {
     "id": 6253812,
-    "slug": "femke-kok-voorlopig-snelst-op-500-meter",
+    "slug": "reacties-op-verrassend-goud-kok-op-500-meter",
     "type": "article",
-    "title": "Femke Kok voorlopig snelst op 500 meter",
+    "title": "Reacties op verrassend goud Kok op 500 meter",
     "subtitle": "Liveblog WK afstanden",
     "published_at": "2023-03-03T18:41:37+01:00",
-    "updated_at": "2023-03-03T21:08:33+01:00",
+    "updated_at": "2023-03-03T21:25:00+01:00",
     "media_id": "fppxxoyaoivh",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6253812/femke-kok-voorlopig-snelst-op-500-meter.html",
+    "url": "/schaatsen/6253812/reacties-op-verrassend-goud-kok-op-500-meter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6253808/djokovic-ziet-tegen-medvedev-einde-komen-aan-imponerende-zegereeks.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253807,
-    "slug": "amerikaan-loopt-door-metershoog-sneeuwdolhof-voor-zijn-huis",
-    "type": "video",
-    "title": "Amerikaan loopt door metershoog sneeuwdolhof voor zijn huis",
-    "subtitle": "Video",
-    "published_at": "2023-03-03T18:21:54+01:00",
-    "updated_at": "2023-03-03T18:40:26+01:00",
-    "media_id": "685xwb2akjfl",
-    "duration": "0:29",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6253807/amerikaan-loopt-door-metershoog-sneeuwdolhof-voor-zijn-huis.html",
     "open_new_window": false,
     "partner": null
   }
