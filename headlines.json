@@ -1,12 +1,35 @@
 [
   {
+    "id": 6253818,
+    "slug": "diskwalificatie-kost-nederlandse-vrouwen-wereldtitel-op-ploegenachtervolging",
+    "type": "article",
+    "title": "Diskwalificatie kost Nederlandse vrouwen wereldtitel op ploegenachtervolging",
+    "subtitle": null,
+    "published_at": "2023-03-03T19:23:30+01:00",
+    "updated_at": "2023-03-03T19:30:13+01:00",
+    "media_id": "sbpxthsa4jbe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6253818/diskwalificatie-kost-nederlandse-vrouwen-wereldtitel-op-ploegenachtervolging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253816,
     "slug": "eu-dreigt-met-sancties-tegen-china-als-het-land-wapens-levert-aan-rusland",
     "type": "article",
     "title": "EU dreigt met sancties tegen China als het land wapens levert aan Rusland",
     "subtitle": null,
     "published_at": "2023-03-03T19:17:37+01:00",
-    "updated_at": "2023-03-03T19:17:49+01:00",
+    "updated_at": "2023-03-03T19:30:44+01:00",
     "media_id": "n6cx44fau9pi",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Belgische vrouw die haar vijf eigen kinderen doodde, krijgt euthanasie",
     "subtitle": null,
     "published_at": "2023-03-03T19:02:17+01:00",
-    "updated_at": "2023-03-03T19:02:18+01:00",
+    "updated_at": "2023-03-03T19:26:14+01:00",
     "media_id": "9hzxufbakyx5",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6253812,
-    "slug": "tweede-dag-begint-met-gevreesde-ploegenachtervolging",
+    "slug": "schaatssters-gediskwalificeerd-op-ploegenachtervolging",
     "type": "article",
-    "title": "Tweede dag begint met gevreesde ploegenachtervolging",
+    "title": "Schaatssters gediskwalificeerd op ploegenachtervolging",
     "subtitle": "Liveblog WK afstanden",
     "published_at": "2023-03-03T18:41:37+01:00",
-    "updated_at": "2023-03-03T18:49:46+01:00",
+    "updated_at": "2023-03-03T19:30:43+01:00",
     "media_id": "9uyxoauamca3",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6253812/tweede-dag-begint-met-gevreesde-ploegenachtervolging.html",
+    "url": "/schaatsen/6253812/schaatssters-gediskwalificeerd-op-ploegenachtervolging.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +305,7 @@
     "title": "Bol en Klaver overtuigend naar finale 400 meter op EK, Bonevacia uitgeschakeld",
     "subtitle": null,
     "published_at": "2023-03-03T17:31:58+01:00",
-    "updated_at": "2023-03-03T18:49:57+01:00",
+    "updated_at": "2023-03-03T19:25:19+01:00",
     "media_id": "z1mx3qlaj9qw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6253789/duizenden-belgische-boeren-rijden-met-tractor-naar-brussel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253786,
-    "slug": "zelensky-bezoekt-gewonde-militairen-in-ziekenhuis-in-lviv",
-    "type": "video",
-    "title": "Zelensky bezoekt gewonde militairen in ziekenhuis in Lviv",
-    "subtitle": "Video",
-    "published_at": "2023-03-03T16:12:34+01:00",
-    "updated_at": "2023-03-03T17:10:39+01:00",
-    "media_id": "ik3xbsqa5501",
-    "duration": "0:54",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6253786/zelensky-bezoekt-gewonde-militairen-in-ziekenhuis-in-lviv.html",
     "open_new_window": false,
     "partner": null
   }
