@@ -1,13 +1,36 @@
 [
   {
+    "id": 6254019,
+    "slug": "rijpma-de-jong-verovert-in-thialf-eerste-wereldtitel-op-1500-meter",
+    "type": "article",
+    "title": "Rijpma-de Jong verovert in Thialf eerste wereldtitel op 1.500 meter",
+    "subtitle": null,
+    "published_at": "2023-03-05T14:26:39+01:00",
+    "updated_at": "2023-03-05T14:27:19+01:00",
+    "media_id": "emvx7kval4oi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6254019/rijpma-de-jong-verovert-in-thialf-eerste-wereldtitel-op-1500-meter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254014,
     "slug": "fc-twente-vrouwen-lijdt-in-sittard-eerste-competitienederlaag-in-anderhalf-jaar",
     "type": "article",
     "title": "FC Twente Vrouwen lijdt in Sittard eerste competitienederlaag in anderhalf jaar",
     "subtitle": null,
     "published_at": "2023-03-05T14:16:11+01:00",
-    "updated_at": "2023-03-05T14:19:20+01:00",
-    "media_id": "rdwxxlwarjnn",
+    "updated_at": "2023-03-05T14:25:21+01:00",
+    "media_id": "37rx4l8ayr22",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -70,12 +93,12 @@
   },
   {
     "id": 6254012,
-    "slug": "laatste-afvaller-wie-is-de-mol-in-aflevering-4-ging-een-knop-om",
+    "slug": "laatste-afvaller-wie-is-de-mol-het-voelde-ineens-heel-eenzaam-en-oneerlijk",
     "type": "article",
-    "title": "Laatste afvaller Wie is de Mol?: 'In aflevering 4 ging een knop om'",
+    "title": "Laatste afvaller Wie is de Mol?: 'Het voelde ineens heel eenzaam en oneerlijk'",
     "subtitle": null,
     "published_at": "2023-03-05T13:17:25+01:00",
-    "updated_at": "2023-03-05T14:12:30+01:00",
+    "updated_at": "2023-03-05T14:22:11+01:00",
     "media_id": "dtixlzmab0fq",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6254012/laatste-afvaller-wie-is-de-mol-in-aflevering-4-ging-een-knop-om.html",
+    "url": "/media/6254012/laatste-afvaller-wie-is-de-mol-het-voelde-ineens-heel-eenzaam-en-oneerlijk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,12 +231,12 @@
   },
   {
     "id": 6254007,
-    "slug": "rijpma-de-jong-grote-favoriet-op-koninginnennummer",
+    "slug": "reacties-op-imponerende-race-rijpma-de-jong",
     "type": "article",
-    "title": "Rijpma-de Jong grote favoriet op koninginnennummer",
+    "title": "Reacties op imponerende race Rijpma-De Jong",
     "subtitle": "Liveblog WK afstanden",
     "published_at": "2023-03-05T12:25:08+01:00",
-    "updated_at": "2023-03-05T14:01:29+01:00",
+    "updated_at": "2023-03-05T14:28:48+01:00",
     "media_id": "2x6x2dnauiu5",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6254007/rijpma-de-jong-grote-favoriet-op-koninginnennummer.html",
+    "url": "/schaatsen/6254007/reacties-op-imponerende-race-rijpma-de-jong.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Het programma van deze bomvolle sportdag",
     "subtitle": "Overzicht",
     "published_at": "2023-03-05T12:01:50+01:00",
-    "updated_at": "2023-03-05T14:09:49+01:00",
+    "updated_at": "2023-03-05T14:26:59+01:00",
     "media_id": "khkx7gwalb0k",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6253997/trump-zegt-oorlog-in-oekraine-in-een-dag-op-te-kunnen-lossen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253996,
-    "slug": "de-vries-kan-vooral-vooruitkijken-teams-liggen-dicht-bij-elkaar",
-    "type": "video",
-    "title": "De Vries kan vooral vooruitkijken: 'Teams liggen dicht bij elkaar'",
-    "subtitle": "Video",
-    "published_at": "2023-03-05T11:02:19+01:00",
-    "updated_at": "2023-03-05T12:31:23+01:00",
-    "media_id": "83yxi3gayrh5",
-    "duration": "1:34",
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Bahrein",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6253996/de-vries-kan-vooral-vooruitkijken-teams-liggen-dicht-bij-elkaar.html",
     "open_new_window": false,
     "partner": null
   }
