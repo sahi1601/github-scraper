@@ -1,5 +1,28 @@
 [
   {
+    "id": 6253999,
+    "slug": "drie-politieagenten-mishandeld-na-wedstrijd-volendam-emmen",
+    "type": "article",
+    "title": "Drie politieagenten mishandeld na wedstrijd Volendam-Emmen",
+    "subtitle": null,
+    "published_at": "2023-03-05T11:19:24+01:00",
+    "updated_at": "2023-03-05T11:28:37+01:00",
+    "media_id": "5xzxr6za7wqo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6253999/drie-politieagenten-mishandeld-na-wedstrijd-volendam-emmen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6253994,
     "slug": "chris-rock-over-oscars-klap-van-will-smith-het-doet-nog-steeds-pijn",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6253996,
-    "slug": "op-p19-kan-de-vries-vooral-vooruitkijken-teams-liggen-dicht-bij-elkaar",
+    "slug": "de-vries-kan-vooral-vooruitkijken-teams-liggen-dicht-bij-elkaar",
     "type": "video",
-    "title": "Op P19 kan De Vries vooral vooruitkijken: 'Teams liggen dicht bij elkaar'",
+    "title": "De Vries kan vooral vooruitkijken: 'Teams liggen dicht bij elkaar'",
     "subtitle": "Video",
     "published_at": "2023-03-05T11:02:19+01:00",
-    "updated_at": "2023-03-05T11:08:53+01:00",
+    "updated_at": "2023-03-05T11:14:12+01:00",
     "media_id": "83yxi3gayrh5",
     "duration": "1:34",
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6253996/op-p19-kan-de-vries-vooral-vooruitkijken-teams-liggen-dicht-bij-elkaar.html",
+    "url": "/formule-1/6253996/de-vries-kan-vooral-vooruitkijken-teams-liggen-dicht-bij-elkaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6253237/oproep-tot-boycot-nieuwe-harry-potter-game-wat-is-er-aan-de-hand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6253955,
-    "slug": "pogacar-en-vingegaard-klaar-voor-nieuwe-clash-in-parijs-nice-dit-wordt-leuk",
-    "type": "article",
-    "title": "Pogacar en Vingegaard klaar voor nieuwe clash in Parijs-Nice: 'Dit wordt leuk'",
-    "subtitle": null,
-    "published_at": "2023-03-05T05:05:18+01:00",
-    "updated_at": "2023-03-05T05:05:19+01:00",
-    "media_id": "vdoxorgaxg7g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6253955/pogacar-en-vingegaard-klaar-voor-nieuwe-clash-in-parijs-nice-dit-wordt-leuk.html",
     "open_new_window": false,
     "partner": null
   }
