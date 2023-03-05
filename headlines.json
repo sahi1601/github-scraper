@@ -1,5 +1,28 @@
 [
   {
+    "id": 6254043,
+    "slug": "npo-verzet-debat-linksom-of-rechtsom-na-klacht-nieuwsuur-over-tijdstip",
+    "type": "article",
+    "title": "NPO verzet debat Linksom of Rechtsom na klacht Nieuwsuur over tijdstip",
+    "subtitle": null,
+    "published_at": "2023-03-05T18:23:09+01:00",
+    "updated_at": "2023-03-05T18:24:56+01:00",
+    "media_id": "bhjx0ifa8qv6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6254043/npo-verzet-debat-linksom-of-rechtsom-na-klacht-nieuwsuur-over-tijdstip.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254045,
     "slug": "fc-barcelona-boekt-nipte-thuiszege-ondanks-rode-kaart-en-gemiste-penalty",
     "type": "article",
@@ -29,8 +52,8 @@
     "title": "Verstappen lyrisch over auto na winst in Bahrein: 'Hiermee kunnen we vlammen'",
     "subtitle": null,
     "published_at": "2023-03-05T18:10:07+01:00",
-    "updated_at": "2023-03-05T18:13:32+01:00",
-    "media_id": "1xlxmy5a6l0n",
+    "updated_at": "2023-03-05T18:15:37+01:00",
+    "media_id": "8odxucpaou63",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -52,7 +75,7 @@
     "title": "Irene Schouten schudt moeizaam seizoen van zich af met wereldtitel op 5 kilometer",
     "subtitle": null,
     "published_at": "2023-03-05T17:38:33+01:00",
-    "updated_at": "2023-03-05T18:01:59+01:00",
+    "updated_at": "2023-03-05T18:14:52+01:00",
     "media_id": "ryixv66aydg6",
     "duration": null,
     "canonical_section": {
@@ -70,13 +93,13 @@
   },
   {
     "id": 6254030,
-    "slug": "verstappen-onbedreigd-naar-zege-in-openingsrace-bahrein-de-vries-veertiende",
+    "slug": "verstappen-begint-formule-1-seizoen-met-soevereine-zege-de-vries-veertiende",
     "type": "article",
-    "title": "Verstappen onbedreigd naar zege in openingsrace Bahrein, De Vries veertiende",
+    "title": "Verstappen begint Formule 1-seizoen met soevereine zege, De Vries veertiende",
     "subtitle": null,
     "published_at": "2023-03-05T17:38:21+01:00",
-    "updated_at": "2023-03-05T18:11:27+01:00",
-    "media_id": "ic1x4hkau1yw",
+    "updated_at": "2023-03-05T18:18:53+01:00",
+    "media_id": "1xlxmy5a6l0n",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6254030/verstappen-onbedreigd-naar-zege-in-openingsrace-bahrein-de-vries-veertiende.html",
+    "url": "/formule-1/6254030/verstappen-begint-formule-1-seizoen-met-soevereine-zege-de-vries-veertiende.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Hoofdrol Frimpong bij Leverkusen, Ekkelenkamp en Kerk scoren voor Antwerp",
     "subtitle": null,
     "published_at": "2023-03-05T17:26:28+01:00",
-    "updated_at": "2023-03-05T18:12:02+01:00",
+    "updated_at": "2023-03-05T18:23:05+01:00",
     "media_id": "h4zxaipap431",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Bol pakt met Nederlandse vrouwen EK-goud op 4x400 meter, brons voor mannen",
     "subtitle": null,
     "published_at": "2023-03-05T17:16:46+01:00",
-    "updated_at": "2023-03-05T18:12:32+01:00",
+    "updated_at": "2023-03-05T18:19:00+01:00",
     "media_id": "gwkx93aauyrv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6254019/rijpma-de-jong-verovert-in-thialf-haar-eerste-wereldtitel-op-1500-meter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254014,
-    "slug": "fc-twente-vrouwen-lijdt-in-sittard-eerste-competitienederlaag-in-anderhalf-jaar",
-    "type": "article",
-    "title": "FC Twente Vrouwen lijdt in Sittard eerste competitienederlaag in anderhalf jaar",
-    "subtitle": null,
-    "published_at": "2023-03-05T14:16:11+01:00",
-    "updated_at": "2023-03-05T14:25:21+01:00",
-    "media_id": "37rx4l8ayr22",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6254014/fc-twente-vrouwen-lijdt-in-sittard-eerste-competitienederlaag-in-anderhalf-jaar.html",
     "open_new_window": false,
     "partner": null
   }
