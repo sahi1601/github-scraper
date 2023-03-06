@@ -1,5 +1,28 @@
 [
   {
+    "id": 6254189,
+    "slug": "netflix-komt-met-twee-nieuwe-nederlandse-films-hoofdrol-voor-jandino-asporaat",
+    "type": "article",
+    "title": "Netflix komt met twee nieuwe Nederlandse films, hoofdrol voor Jandino Asporaat",
+    "subtitle": null,
+    "published_at": "2023-03-06T17:48:06+01:00",
+    "updated_at": "2023-03-06T17:48:09+01:00",
+    "media_id": "drxx8vdawtfa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6254189/netflix-komt-met-twee-nieuwe-nederlandse-films-hoofdrol-voor-jandino-asporaat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254190,
     "slug": "vrouwen-racen-in-traditionele-rok-door-boliviaanse-straten",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6254155/vermeende-drugsbaron-piet-s-ontkent-was-scheidsrechter-van-de-onderwereld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254154,
-    "slug": "luchtbeelden-tonen-ravage-na-nieuwe-treinontsporing-in-vs",
-    "type": "video",
-    "title": "Luchtbeelden tonen ravage na nieuwe treinontsporing in VS",
-    "subtitle": "Video",
-    "published_at": "2023-03-06T13:54:34+01:00",
-    "updated_at": "2023-03-06T13:54:35+01:00",
-    "media_id": "6p3xcp2a454p",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6254154/luchtbeelden-tonen-ravage-na-nieuwe-treinontsporing-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
