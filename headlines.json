@@ -1,12 +1,58 @@
 [
   {
+    "id": 6254207,
+    "slug": "eland-valt-sneeuwscooteraar-aan-in-vs",
+    "type": "video",
+    "title": "Eland valt sneeuwscooteraar aan in VS",
+    "subtitle": "Video",
+    "published_at": "2023-03-06T20:58:47+01:00",
+    "updated_at": "2023-03-06T20:58:48+01:00",
+    "media_id": "gv6xbudal9a8",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6254207/eland-valt-sneeuwscooteraar-aan-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254205,
+    "slug": "geen-hoger-beroep-meer-voor-groningers-met-aardbevingsschade",
+    "type": "article",
+    "title": "Geen hoger beroep meer voor Groningers met aardbevingsschade",
+    "subtitle": null,
+    "published_at": "2023-03-06T20:46:42+01:00",
+    "updated_at": "2023-03-06T20:54:50+01:00",
+    "media_id": "4mxxx0qa8pt2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6254205/geen-hoger-beroep-meer-voor-groningers-met-aardbevingsschade.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254206,
     "slug": "clasie-wil-vooral-genieten-van-duel-met-lazio-denk-dat-zij-favoriet-zijn",
     "type": "article",
     "title": "Clasie wil vooral genieten van duel met Lazio: 'Denk dat zij favoriet zijn'",
     "subtitle": null,
     "published_at": "2023-03-06T20:40:15+01:00",
-    "updated_at": "2023-03-06T20:40:16+01:00",
+    "updated_at": "2023-03-06T20:46:49+01:00",
     "media_id": "k6fxyo0a8tis",
     "duration": null,
     "canonical_section": {
@@ -29,8 +75,8 @@
     "title": "Edisons voor sor, Maan en Goldband, oeuvreprijs voor Kensington",
     "subtitle": null,
     "published_at": "2023-03-06T20:36:55+01:00",
-    "updated_at": "2023-03-06T20:36:59+01:00",
-    "media_id": "tssx7rwarivj",
+    "updated_at": "2023-03-06T20:42:57+01:00",
+    "media_id": "px5xo14a0kyk",
     "duration": null,
     "canonical_section": {
       "id": 868281,
@@ -282,19 +328,19 @@
     "title": "Netflix komt met twee nieuwe Nederlandse films, hoofdrol voor Jandino Asporaat",
     "subtitle": null,
     "published_at": "2023-03-06T17:48:06+01:00",
-    "updated_at": "2023-03-06T17:48:09+01:00",
+    "updated_at": "2023-03-06T20:44:56+01:00",
     "media_id": "drxx8vdawtfa",
     "duration": null,
     "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
+      "id": 127,
+      "slug": "film",
       "type": "default",
-      "name": "Media",
+      "name": "Films & Series",
       "style": "nuuit",
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6254189/netflix-komt-met-twee-nieuwe-nederlandse-films-hoofdrol-voor-jandino-asporaat.html",
+    "url": "/film/6254189/netflix-komt-met-twee-nieuwe-nederlandse-films-hoofdrol-voor-jandino-asporaat.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6254179/pedersen-troeft-kooij-af-in-parijs-nice-pogacar-loopt-weer-wat-uit-op-vingegaard.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254174,
-    "slug": "nederlanders-kunnen-niet-wachten-om-schaatsfenomeen-stolz-te-verslaan",
-    "type": "article",
-    "title": "Nederlanders kunnen niet wachten om schaatsfenomeen Stolz te verslaan",
-    "subtitle": "NU+",
-    "published_at": "2023-03-06T16:39:09+01:00",
-    "updated_at": "2023-03-06T17:14:25+01:00",
-    "media_id": "2vixukwan8aa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6254174/nederlanders-kunnen-niet-wachten-om-schaatsfenomeen-stolz-te-verslaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254178,
-    "slug": "adele-verrast-pasgetrouwd-stel-door-bruidsjurk-te-signeren",
-    "type": "video",
-    "title": "Adele verrast pasgetrouwd stel door bruidsjurk te signeren",
-    "subtitle": "Video",
-    "published_at": "2023-03-06T16:23:51+01:00",
-    "updated_at": "2023-03-06T16:23:53+01:00",
-    "media_id": "r5cx8kaa2gky",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6254178/adele-verrast-pasgetrouwd-stel-door-bruidsjurk-te-signeren.html",
     "open_new_window": false,
     "partner": null
   }
