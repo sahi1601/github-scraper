@@ -1,5 +1,28 @@
 [
   {
+    "id": 6254080,
+    "slug": "weerbericht-veel-bewolking-en-kans-op-natte-sneeuw",
+    "type": "article",
+    "title": "Weerbericht: Veel bewolking en kans op natte sneeuw",
+    "subtitle": null,
+    "published_at": "2023-03-06T06:15:36+01:00",
+    "updated_at": "2023-03-06T06:15:38+01:00",
+    "media_id": "l00xxzaafclb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6254080/weerbericht-veel-bewolking-en-kans-op-natte-sneeuw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254079,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6254058/gebouw-van-zes-verdiepingen-in-turkije-stort-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254057,
-    "slug": "ontgoochelde-ten-hag-noemt-historische-afstraffing-tegen-liverpool-onacceptabel",
-    "type": "article",
-    "title": "Ontgoochelde Ten Hag noemt historische afstraffing tegen Liverpool onacceptabel",
-    "subtitle": null,
-    "published_at": "2023-03-05T20:33:27+01:00",
-    "updated_at": "2023-03-05T21:07:13+01:00",
-    "media_id": "2ssx63oa71ho",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6254057/ontgoochelde-ten-hag-noemt-historische-afstraffing-tegen-liverpool-onacceptabel.html",
     "open_new_window": false,
     "partner": null
   }
