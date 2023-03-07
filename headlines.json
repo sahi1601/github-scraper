@@ -1,5 +1,28 @@
 [
   {
+    "id": 6254227,
+    "slug": "regen-en-ongelukken-zorgen-voor-drukste-ochtendspits-van-het-jaar-bijna-1100-kilometer",
+    "type": "article",
+    "title": "Regen en ongelukken zorgen voor drukste ochtendspits van het jaar: bijna 1.100 kilometer",
+    "subtitle": null,
+    "published_at": "2023-03-07T08:13:33+01:00",
+    "updated_at": "2023-03-07T08:22:37+01:00",
+    "media_id": "bcbxrfvaggdi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6254227/regen-en-ongelukken-zorgen-voor-drukste-ochtendspits-van-het-jaar-bijna-1100-kilometer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254225,
     "slug": "canadese-premier-regimes-proberen-zich-te-mengen-in-onze-democratie",
     "type": "video",
@@ -323,12 +346,12 @@
   },
   {
     "id": 6254191,
-    "slug": "halve-wereldbevolking-te-zwaar-in-2035-draagt-body-positivity-hieraan-bij",
+    "slug": "halve-wereldbevolking-te-zwaar-in-2035-draagt-bodypositivity-hieraan-bij",
     "type": "article",
-    "title": "Halve wereldbevolking te zwaar in 2035: draagt 'body positivity' hieraan bij?",
+    "title": "Halve wereldbevolking te zwaar in 2035: draagt bodypositivity hieraan bij?",
     "subtitle": "NU+",
     "published_at": "2023-03-07T05:03:49+01:00",
-    "updated_at": "2023-03-07T06:01:03+01:00",
+    "updated_at": "2023-03-07T08:13:43+01:00",
     "media_id": "oz8x6mnae0tw",
     "duration": null,
     "canonical_section": {
@@ -340,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/login-vereist/6254191/halve-wereldbevolking-te-zwaar-in-2035-draagt-body-positivity-hieraan-bij.html",
+    "url": "/login-vereist/6254191/halve-wereldbevolking-te-zwaar-in-2035-draagt-bodypositivity-hieraan-bij.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6253742/ongelijkheid-in-nederland-blijft-volgens-nieuw-onderzoek-hardnekkig-probleem.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254213,
-    "slug": "45-jaar-cel-voor-man-die-voor-16-miljoen-aan-flessen-wijn-stal-in-spanje",
-    "type": "article",
-    "title": "4,5 jaar cel voor man die voor 1,6 miljoen aan flessen wijn stal in Spanje",
-    "subtitle": null,
-    "published_at": "2023-03-06T23:43:44+01:00",
-    "updated_at": "2023-03-07T07:53:55+01:00",
-    "media_id": "jekx2vxa39g1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6254213/45-jaar-cel-voor-man-die-voor-16-miljoen-aan-flessen-wijn-stal-in-spanje.html",
     "open_new_window": false,
     "partner": null
   }
