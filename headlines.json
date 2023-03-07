@@ -1,5 +1,28 @@
 [
   {
+    "id": 6254231,
+    "slug": "ook-zalando-voelt-einde-van-lockdowns-winst-ruim-gehalveerd",
+    "type": "article",
+    "title": "Ook Zalando voelt einde van lockdowns: winst ruim gehalveerd",
+    "subtitle": null,
+    "published_at": "2023-03-07T09:26:08+01:00",
+    "updated_at": "2023-03-07T09:32:46+01:00",
+    "media_id": "dl4x8uuaqfio",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6254231/ook-zalando-voelt-einde-van-lockdowns-winst-ruim-gehalveerd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254235,
     "slug": "reddingsteam-in-vs-baant-zich-weg-door-ijs-om-man-te-redden",
     "type": "video",
@@ -116,12 +139,12 @@
   },
   {
     "id": 6254227,
-    "slug": "regen-sneeuw-en-ongelukken-zorgen-voor-drukste-ochtendspits-2023-bijna-1100-kilometer",
+    "slug": "neerslag-en-ongelukken-zorgen-voor-drukste-ochtendspits-van-2023-bijna-1100-kilometer",
     "type": "article",
-    "title": "Regen, sneeuw en ongelukken zorgen voor drukste ochtendspits 2023: bijna 1100 kilometer",
+    "title": "Neerslag en ongelukken zorgen voor drukste ochtendspits van 2023: bijna 1100 kilometer",
     "subtitle": null,
     "published_at": "2023-03-07T08:13:33+01:00",
-    "updated_at": "2023-03-07T09:21:20+01:00",
+    "updated_at": "2023-03-07T09:24:19+01:00",
     "media_id": "bcbxrfvaggdi",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6254227/regen-sneeuw-en-ongelukken-zorgen-voor-drukste-ochtendspits-2023-bijna-1100-kilometer.html",
+    "url": "/binnenland/6254227/neerslag-en-ongelukken-zorgen-voor-drukste-ochtendspits-van-2023-bijna-1100-kilometer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -185,12 +208,12 @@
   },
   {
     "id": 6254223,
-    "slug": "fc-volendam-trainer-jonk-gaat-ondanks-bestuurschaos-voor-drie-jaar-bijtekenen",
+    "slug": "fc-volendam-trainer-jonk-verlengt-contract-ondanks-bestuurschaos-met-drie-jaar",
     "type": "article",
-    "title": "FC Volendam-trainer Jonk gaat ondanks bestuurschaos voor drie jaar bijtekenen",
+    "title": "FC Volendam-trainer Jonk verlengt contract ondanks bestuurschaos met drie jaar",
     "subtitle": null,
     "published_at": "2023-03-07T07:36:25+01:00",
-    "updated_at": "2023-03-07T07:58:53+01:00",
+    "updated_at": "2023-03-07T09:28:15+01:00",
     "media_id": "cjbxa0qau1go",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6254223/fc-volendam-trainer-jonk-gaat-ondanks-bestuurschaos-voor-drie-jaar-bijtekenen.html",
+    "url": "/voetbal/6254223/fc-volendam-trainer-jonk-verlengt-contract-ondanks-bestuurschaos-met-drie-jaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +305,7 @@
     "title": "Femke Bol heerst op 400 meter: waarom doet ze dat niet op de WK of Spelen?",
     "subtitle": null,
     "published_at": "2023-03-07T06:49:07+01:00",
-    "updated_at": "2023-03-07T08:49:55+01:00",
+    "updated_at": "2023-03-07T09:33:38+01:00",
     "media_id": "njaxp34a8xw9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6254216/china-mengde-zich-mogelijk-in-canadese-verkiezingen-trudeau-stelt-onderzoek-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254162,
-    "slug": "deze-koppels-uit-married-at-first-sight-hebben-het-niet-gehaald",
-    "type": "article",
-    "title": "Deze koppels uit Married At First Sight hebben het (niet) gehaald",
-    "subtitle": null,
-    "published_at": "2023-03-07T05:05:07+01:00",
-    "updated_at": "2023-03-07T08:05:15+01:00",
-    "media_id": "755xsn9a4nm3",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6254162/deze-koppels-uit-married-at-first-sight-hebben-het-niet-gehaald.html",
     "open_new_window": false,
     "partner": null
   }
