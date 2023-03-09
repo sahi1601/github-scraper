@@ -1,5 +1,28 @@
 [
   {
+    "id": 6254639,
+    "slug": "volle-voetbalavond-met-feyenoord-op-punt-van-beginnen",
+    "type": "article",
+    "title": "Volle voetbalavond met Feyenoord op punt van beginnen",
+    "subtitle": "Liveblog EL",
+    "published_at": "2023-03-09T18:24:09+01:00",
+    "updated_at": "2023-03-09T18:24:10+01:00",
+    "media_id": "ltzx35pa8cmb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6254639/volle-voetbalavond-met-feyenoord-op-punt-van-beginnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254626,
     "slug": "dit-zijn-de-antwoorden-op-jullie-vragen-over-het-postcovidsyndroom",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6254595/duizend-jaar-oude-goudschat-gevonden-in-hoogwoud.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254597,
-    "slug": "japanners-likken-aan-eetstokjes-en-tandenstokers-in-restaurant",
-    "type": "video",
-    "title": "Japanners likken aan eetstokjes en tandenstokers in restaurant",
-    "subtitle": "Video",
-    "published_at": "2023-03-09T14:07:48+01:00",
-    "updated_at": "2023-03-09T14:08:25+01:00",
-    "media_id": "fnfxltfaxa3z",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6254597/japanners-likken-aan-eetstokjes-en-tandenstokers-in-restaurant.html",
     "open_new_window": false,
     "partner": null
   }
