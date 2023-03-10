@@ -1,5 +1,28 @@
 [
   {
+    "id": 6254681,
+    "slug": "weerbericht-noorden-snel-bedolven-onder-sneeuw-rest-ontkomt-er-ook-niet-aan",
+    "type": "article",
+    "title": "Weerbericht: noorden snel bedolven onder sneeuw, rest ontkomt er ook niet aan",
+    "subtitle": null,
+    "published_at": "2023-03-10T05:59:19+01:00",
+    "updated_at": "2023-03-10T06:10:25+01:00",
+    "media_id": "t7exdvfa4o02",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6254681/weerbericht-noorden-snel-bedolven-onder-sneeuw-rest-ontkomt-er-ook-niet-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254613,
     "slug": "geen-roxeanne-en-mogelijk-minder-andre-holland-zingt-hazes-is-niet-uitverkocht",
     "type": "article",
@@ -305,7 +328,7 @@
     "title": "Meerdere doden en zwaargewonden bij schietpartij in gebedsruimte in Hamburg",
     "subtitle": null,
     "published_at": "2023-03-09T22:36:12+01:00",
-    "updated_at": "2023-03-10T00:42:52+01:00",
+    "updated_at": "2023-03-10T06:05:48+01:00",
     "media_id": "6dcx98fagnu7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6254667/zweden-turkije-erkent-dat-we-stappen-zetten-richting-navo-lidmaatschap.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254660,
-    "slug": "ontketende-van-gerwen-pakt-voor-derde-week-op-rij-dagzege-in-premier-league",
-    "type": "article",
-    "title": "Ontketende Van Gerwen pakt voor derde week op rij dagzege in Premier League",
-    "subtitle": null,
-    "published_at": "2023-03-09T21:16:15+01:00",
-    "updated_at": "2023-03-10T02:13:33+01:00",
-    "media_id": "4w8xlxlaiiln",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6254660/ontketende-van-gerwen-pakt-voor-derde-week-op-rij-dagzege-in-premier-league.html",
     "open_new_window": false,
     "partner": null
   }
