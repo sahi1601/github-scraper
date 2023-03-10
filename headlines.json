@@ -1,12 +1,35 @@
 [
   {
+    "id": 6254809,
+    "slug": "rutte-reactie-op-enqueterapport-groningen-was-niet-goed",
+    "type": "video",
+    "title": "Rutte: 'Reactie op enquêterapport Groningen was niet goed'",
+    "subtitle": "Video",
+    "published_at": "2023-03-10T17:50:17+01:00",
+    "updated_at": "2023-03-10T17:50:18+01:00",
+    "media_id": "lkgx6jzaofed",
+    "duration": "2:04",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6254809/rutte-reactie-op-enqueterapport-groningen-was-niet-goed.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254797,
     "slug": "stage-entertainment-stopt-met-onderzoek-naar-mogelijk-wangedrag-danny-de-munk",
     "type": "article",
     "title": "Stage Entertainment stopt met onderzoek naar mogelijk wangedrag Danny de Munk",
     "subtitle": null,
     "published_at": "2023-03-10T17:39:01+01:00",
-    "updated_at": "2023-03-10T17:39:03+01:00",
+    "updated_at": "2023-03-10T17:43:14+01:00",
     "media_id": "wwbxmenaekpt",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Erland Galjaard vertrekt bij Talpa na mislukte fusie met RTL",
     "subtitle": null,
     "published_at": "2023-03-10T17:20:13+01:00",
-    "updated_at": "2023-03-10T17:40:27+01:00",
+    "updated_at": "2023-03-10T17:42:48+01:00",
     "media_id": "svyx5uwatsqh",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Drukte op de weg door sneeuwbuien",
     "subtitle": null,
     "published_at": "2023-03-10T17:03:23+01:00",
-    "updated_at": "2023-03-10T17:41:14+01:00",
+    "updated_at": "2023-03-10T17:42:45+01:00",
     "media_id": "9t4x6b9anvhm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6254768/kickbokser-tavares-is-terug-van-dopingschorsing-en-strijdt-om-duel-met-plazibat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254764,
-    "slug": "united-trainer-ten-hag-opnieuw-manager-van-de-maand-in-premier-league",
-    "type": "article",
-    "title": "United-trainer Ten Hag opnieuw manager van de maand in Premier League",
-    "subtitle": null,
-    "published_at": "2023-03-10T14:04:13+01:00",
-    "updated_at": "2023-03-10T14:04:14+01:00",
-    "media_id": "1xdxu4gatt9m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6254764/united-trainer-ten-hag-opnieuw-manager-van-de-maand-in-premier-league.html",
     "open_new_window": false,
     "partner": null
   }
