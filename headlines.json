@@ -1,5 +1,28 @@
 [
   {
+    "id": 6254688,
+    "slug": "schoten-te-horen-bij-aanslag-op-kerk-jehovas-getuigen-in-hamburg",
+    "type": "video",
+    "title": "Schoten te horen bij aanslag op kerk Jehova's getuigen in Hamburg",
+    "subtitle": "Video",
+    "published_at": "2023-03-10T07:22:00+01:00",
+    "updated_at": "2023-03-10T07:23:36+01:00",
+    "media_id": "1c5xncca9x1h",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6254688/schoten-te-horen-bij-aanslag-op-kerk-jehovas-getuigen-in-hamburg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254687,
     "slug": "tevreden-ten-hag-ziet-dat-united-wakker-is-geschud-door-afgang-op-anfield",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Dader schietpartij Hamburg handelde alleen en is waarschijnlijk overleden",
     "subtitle": null,
     "published_at": "2023-03-10T06:39:58+01:00",
-    "updated_at": "2023-03-10T06:39:59+01:00",
+    "updated_at": "2023-03-10T07:22:50+01:00",
     "media_id": "mswx45mavc9j",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Sylvie Meis en Rafael van der Vaart kregen 50.000 euro voor registratie bruiloft",
     "subtitle": null,
     "published_at": "2023-03-10T06:14:29+01:00",
-    "updated_at": "2023-03-10T06:14:30+01:00",
+    "updated_at": "2023-03-10T07:28:28+01:00",
     "media_id": "rhzxalza279n",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6254675/feyenoord-scoort-wederom-in-slotfase-en-ontsnapt-aan-nederlaag-tegen-shakhtar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254674,
-    "slug": "meerdere-doden-en-zwaargewonden-bij-schietpartij-in-gebedsruimte-in-hamburg",
-    "type": "article",
-    "title": "Meerdere doden en zwaargewonden bij schietpartij in gebedsruimte in Hamburg",
-    "subtitle": null,
-    "published_at": "2023-03-09T22:36:12+01:00",
-    "updated_at": "2023-03-10T07:18:30+01:00",
-    "media_id": "6dcx98fagnu7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6254674/meerdere-doden-en-zwaargewonden-bij-schietpartij-in-gebedsruimte-in-hamburg.html",
     "open_new_window": false,
     "partner": null
   }
