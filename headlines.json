@@ -1,12 +1,35 @@
 [
   {
-    "id": 6254799,
-    "slug": "adviseur-erland-galjaard-vertrekt-bij-talpa-na-mislukte-fusie-met-rtl",
+    "id": 6254797,
+    "slug": "stage-entertainment-stopt-met-onderzoek-naar-mogelijk-wangedrag-danny-de-munk",
     "type": "article",
-    "title": "Adviseur Erland Galjaard vertrekt bij Talpa na mislukte fusie met RTL",
+    "title": "Stage Entertainment stopt met onderzoek naar mogelijk wangedrag Danny de Munk",
+    "subtitle": null,
+    "published_at": "2023-03-10T17:39:01+01:00",
+    "updated_at": "2023-03-10T17:39:03+01:00",
+    "media_id": "wwbxmenaekpt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6254797/stage-entertainment-stopt-met-onderzoek-naar-mogelijk-wangedrag-danny-de-munk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254799,
+    "slug": "erland-galjaard-vertrekt-bij-talpa-na-mislukte-fusie-met-rtl",
+    "type": "article",
+    "title": "Erland Galjaard vertrekt bij Talpa na mislukte fusie met RTL",
     "subtitle": null,
     "published_at": "2023-03-10T17:20:13+01:00",
-    "updated_at": "2023-03-10T17:20:14+01:00",
+    "updated_at": "2023-03-10T17:40:27+01:00",
     "media_id": "svyx5uwatsqh",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6254799/adviseur-erland-galjaard-vertrekt-bij-talpa-na-mislukte-fusie-met-rtl.html",
+    "url": "/media/6254799/erland-galjaard-vertrekt-bij-talpa-na-mislukte-fusie-met-rtl.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Drukte op de weg door sneeuwbuien",
     "subtitle": null,
     "published_at": "2023-03-10T17:03:23+01:00",
-    "updated_at": "2023-03-10T17:20:35+01:00",
+    "updated_at": "2023-03-10T17:41:14+01:00",
     "media_id": "9t4x6b9anvhm",
     "duration": null,
     "canonical_section": {
@@ -121,8 +144,8 @@
     "title": "Roglic wint ook ingekorte koninginnenrit en slaat dubbelslag in Tirreno-Adriatico",
     "subtitle": null,
     "published_at": "2023-03-10T16:36:52+01:00",
-    "updated_at": "2023-03-10T17:06:10+01:00",
-    "media_id": "x7txx8ba0bol",
+    "updated_at": "2023-03-10T17:37:55+01:00",
+    "media_id": "1uoxc48aagkm",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6254764/united-trainer-ten-hag-opnieuw-manager-van-de-maand-in-premier-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254771,
-    "slug": "eekhoorn-probeert-ervandoor-te-gaan-met-sjaal-in-deventer",
-    "type": "video",
-    "title": "Eekhoorn probeert ervandoor te gaan met sjaal in Deventer",
-    "subtitle": "Video",
-    "published_at": "2023-03-10T14:03:32+01:00",
-    "updated_at": "2023-03-10T14:03:33+01:00",
-    "media_id": "ap1xj07a14y8",
-    "duration": "0:22",
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6254771/eekhoorn-probeert-ervandoor-te-gaan-met-sjaal-in-deventer.html",
     "open_new_window": false,
     "partner": null
   }
