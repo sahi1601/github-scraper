@@ -1,5 +1,28 @@
 [
   {
+    "id": 6254843,
+    "slug": "invaller-dumfries-veroorzaakt-in-slotfase-penalty-en-verliest-met-internazionale",
+    "type": "article",
+    "title": "Invaller Dumfries veroorzaakt in slotfase penalty en verliest met Internazionale",
+    "subtitle": null,
+    "published_at": "2023-03-10T22:49:07+01:00",
+    "updated_at": "2023-03-10T23:02:37+01:00",
+    "media_id": "el7xh32aob95",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6254843/invaller-dumfries-veroorzaakt-in-slotfase-penalty-en-verliest-met-internazionale.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254810,
     "slug": "goed-nieuws-coronaregels-geschrapt-achterstand-vrouwen-sneller-weggewerkt",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "NAC legt druk bij Almere City in strijd om periodetitel, nipte zege koploper PEC",
     "subtitle": null,
     "published_at": "2023-03-10T22:02:43+01:00",
-    "updated_at": "2023-03-10T22:43:19+01:00",
+    "updated_at": "2023-03-10T22:55:08+01:00",
     "media_id": "84xxjpua7gy6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6254812/overheid-stopt-niet-met-bewaren-gegevens-vliegreizigers-bewaartijd-wel-ingekort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254807,
-    "slug": "twee-personen-zaten-tijdens-sneeuwbui-bijna-uur-vast-in-zweefmolen-amsterdam",
-    "type": "article",
-    "title": "Twee personen zaten tijdens sneeuwbui bijna uur vast in zweefmolen Amsterdam",
-    "subtitle": null,
-    "published_at": "2023-03-10T17:59:22+01:00",
-    "updated_at": "2023-03-10T18:38:42+01:00",
-    "media_id": "3grxyhlab0p7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6254807/twee-personen-zaten-tijdens-sneeuwbui-bijna-uur-vast-in-zweefmolen-amsterdam.html",
     "open_new_window": false,
     "partner": null
   }
