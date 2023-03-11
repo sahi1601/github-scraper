@@ -1,13 +1,36 @@
 [
   {
+    "id": 6254909,
+    "slug": "promes-scoort-week-na-rechtszaak-twee-keer-en-is-topscorer-in-rusland",
+    "type": "article",
+    "title": "Promes scoort week na rechtszaak twee keer en is topscorer in Rusland",
+    "subtitle": null,
+    "published_at": "2023-03-11T17:24:51+01:00",
+    "updated_at": "2023-03-11T17:34:31+01:00",
+    "media_id": "aoqxuhva7c8c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6254909/promes-scoort-week-na-rechtszaak-twee-keer-en-is-topscorer-in-rusland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254907,
     "slug": "oppermachtige-wiebes-wint-ronde-van-drenthe-voor-derde-keer-op-rij",
     "type": "article",
     "title": "Oppermachtige Wiebes wint Ronde van Drenthe voor derde keer op rij",
     "subtitle": null,
     "published_at": "2023-03-11T16:48:05+01:00",
-    "updated_at": "2023-03-11T17:19:27+01:00",
-    "media_id": "vt6xxesa27xh",
+    "updated_at": "2023-03-11T17:32:46+01:00",
+    "media_id": "pykx2smapmna",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -70,12 +93,12 @@
   },
   {
     "id": 6254903,
-    "slug": "emmen-en-excelsior-rusten-na-weinig-verheffende-eerste-helft",
+    "slug": "fc-emmen-en-excelsior-houden-elkaar-nog-in-evenwicht",
     "type": "article",
-    "title": "Emmen en Excelsior rusten na weinig verheffende eerste helft",
+    "title": "FC Emmen en Excelsior houden elkaar nog in evenwicht",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-03-11T16:06:18+01:00",
-    "updated_at": "2023-03-11T17:18:26+01:00",
+    "updated_at": "2023-03-11T17:35:13+01:00",
     "media_id": "0rrxr5watyq4",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6254903/emmen-en-excelsior-rusten-na-weinig-verheffende-eerste-helft.html",
+    "url": "/voetbal/6254903/fc-emmen-en-excelsior-houden-elkaar-nog-in-evenwicht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,8 +282,8 @@
     "title": "Pogacar is Vingegaard opnieuw de baas en nadert eindzege in Parijs-Nice",
     "subtitle": null,
     "published_at": "2023-03-11T14:58:52+01:00",
-    "updated_at": "2023-03-11T15:34:40+01:00",
-    "media_id": "32sx8pvapozi",
+    "updated_at": "2023-03-11T17:27:12+01:00",
+    "media_id": "h39xsnladfum",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6254885/activisten-blokkeren-a12-en-boeren-komen-samen-in-zuiderpark.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254882,
-    "slug": "politie-zet-tientallen-tractors-stil-langs-a4",
-    "type": "video",
-    "title": "Politie zet tientallen tractors stil langs A4",
-    "subtitle": "Video",
-    "published_at": "2023-03-11T12:27:39+01:00",
-    "updated_at": "2023-03-11T12:36:01+01:00",
-    "media_id": "1f2x1x0a8yhv",
-    "duration": "0:48",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6254882/politie-zet-tientallen-tractors-stil-langs-a4.html",
     "open_new_window": false,
     "partner": null
   }
