@@ -1,12 +1,35 @@
 [
   {
+    "id": 6254911,
+    "slug": "bayern-verslaat-augsburg-in-doelpuntenfestijn-en-gaat-voorlopig-alleen-aan-kop",
+    "type": "article",
+    "title": "Bayern verslaat Augsburg in doelpuntenfestijn en gaat voorlopig alleen aan kop",
+    "subtitle": null,
+    "published_at": "2023-03-11T17:46:25+01:00",
+    "updated_at": "2023-03-11T18:06:06+01:00",
+    "media_id": "3o4x6hra2fzw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6254911/bayern-verslaat-augsburg-in-doelpuntenfestijn-en-gaat-voorlopig-alleen-aan-kop.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254910,
-    "slug": "middelvinger-opsteken-mag-officieel-in-canada-maar-op-deze-plekken-niet",
+    "slug": "middelvinger-opsteken-toegestaan-in-canada-maar-op-deze-plekken-niet",
     "type": "video",
-    "title": "Middelvinger opsteken mag officieel in Canada, maar op deze plekken niet",
+    "title": "Middelvinger opsteken toegestaan in Canada, maar op deze plekken niet",
     "subtitle": "Video",
     "published_at": "2023-03-11T17:38:18+01:00",
-    "updated_at": "2023-03-11T17:38:20+01:00",
+    "updated_at": "2023-03-11T17:58:26+01:00",
     "media_id": "lz0xwxmah3g9",
     "duration": "1:42",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6254910/middelvinger-opsteken-mag-officieel-in-canada-maar-op-deze-plekken-niet.html",
+    "url": "/buitenland/6254910/middelvinger-opsteken-toegestaan-in-canada-maar-op-deze-plekken-niet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,13 +139,13 @@
   },
   {
     "id": 6254903,
-    "slug": "excelsior-dicht-bij-openingstreffer-op-bezoek-bij-fc-emmen",
+    "slug": "fc-emmen-doet-excelsior-pijn-in-degradatiekraker",
     "type": "article",
-    "title": "Excelsior dicht bij openingstreffer op bezoek bij FC Emmen",
+    "title": "FC Emmen doet Excelsior pijn in degradatiekraker",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-03-11T16:06:18+01:00",
-    "updated_at": "2023-03-11T17:40:02+01:00",
-    "media_id": "upix1cyaz79t",
+    "updated_at": "2023-03-11T18:00:17+01:00",
+    "media_id": "n0dxa65advcu",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6254903/excelsior-dicht-bij-openingstreffer-op-bezoek-bij-fc-emmen.html",
+    "url": "/voetbal/6254903/fc-emmen-doet-excelsior-pijn-in-degradatiekraker.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Liverpool blameert zich week na monsteroverwinning op United in Bournemouth",
     "subtitle": null,
     "published_at": "2023-03-11T15:29:05+01:00",
-    "updated_at": "2023-03-11T16:23:08+01:00",
+    "updated_at": "2023-03-11T18:12:00+01:00",
     "media_id": "99lxtqza811x",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6254887/nos-gaat-nog-in-gesprek-met-tom-egbers-naar-aanleiding-van-volkskrant-artikel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254884,
-    "slug": "klimaatactivisten-weten-ondanks-verbod-toch-a12-bij-den-haag-te-blokkeren",
-    "type": "article",
-    "title": "Klimaatactivisten weten ondanks verbod toch A12 bij Den Haag te blokkeren",
-    "subtitle": null,
-    "published_at": "2023-03-11T12:37:58+01:00",
-    "updated_at": "2023-03-11T12:56:39+01:00",
-    "media_id": "mkzxpwpa0kvc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6254884/klimaatactivisten-weten-ondanks-verbod-toch-a12-bij-den-haag-te-blokkeren.html",
     "open_new_window": false,
     "partner": null
   }
