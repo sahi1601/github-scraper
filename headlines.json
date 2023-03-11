@@ -1,5 +1,28 @@
 [
   {
+    "id": 6254910,
+    "slug": "middelvinger-opsteken-mag-officieel-in-canada-maar-op-deze-plekken-niet",
+    "type": "video",
+    "title": "Middelvinger opsteken mag officieel in Canada, maar op deze plekken niet",
+    "subtitle": "Video",
+    "published_at": "2023-03-11T17:38:18+01:00",
+    "updated_at": "2023-03-11T17:38:20+01:00",
+    "media_id": "lz0xwxmah3g9",
+    "duration": "1:42",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6254910/middelvinger-opsteken-mag-officieel-in-canada-maar-op-deze-plekken-niet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254909,
     "slug": "promes-scoort-week-na-rechtszaak-twee-keer-en-is-topscorer-in-rusland",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Oppermachtige Wiebes wint Ronde van Drenthe voor derde keer op rij",
     "subtitle": null,
     "published_at": "2023-03-11T16:48:05+01:00",
-    "updated_at": "2023-03-11T17:32:46+01:00",
+    "updated_at": "2023-03-11T17:38:26+01:00",
     "media_id": "pykx2smapmna",
     "duration": null,
     "canonical_section": {
@@ -52,8 +75,8 @@
     "title": "Roglic voltooit hattrick in Tirreno-Adriatico en heeft eindzege bijna binnen",
     "subtitle": null,
     "published_at": "2023-03-11T16:32:26+01:00",
-    "updated_at": "2023-03-11T16:58:04+01:00",
-    "media_id": "orqxlrka3khf",
+    "updated_at": "2023-03-11T17:36:38+01:00",
+    "media_id": "4nmxap2ag6rt",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -93,13 +116,13 @@
   },
   {
     "id": 6254903,
-    "slug": "fc-emmen-en-excelsior-houden-elkaar-nog-in-evenwicht",
+    "slug": "excelsior-dicht-bij-openingstreffer-op-bezoek-bij-fc-emmen",
     "type": "article",
-    "title": "FC Emmen en Excelsior houden elkaar nog in evenwicht",
+    "title": "Excelsior dicht bij openingstreffer op bezoek bij FC Emmen",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-03-11T16:06:18+01:00",
-    "updated_at": "2023-03-11T17:35:13+01:00",
-    "media_id": "0rrxr5watyq4",
+    "updated_at": "2023-03-11T17:40:02+01:00",
+    "media_id": "upix1cyaz79t",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6254903/fc-emmen-en-excelsior-houden-elkaar-nog-in-evenwicht.html",
+    "url": "/voetbal/6254903/excelsior-dicht-bij-openingstreffer-op-bezoek-bij-fc-emmen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Real Madrid komt terug van achterstand en boekt overwinning op Espanyol",
     "subtitle": null,
     "published_at": "2023-03-11T16:04:02+01:00",
-    "updated_at": "2023-03-11T16:18:33+01:00",
+    "updated_at": "2023-03-11T17:37:21+01:00",
     "media_id": "mquxy7maiw97",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6254884/klimaatactivisten-weten-ondanks-verbod-toch-a12-bij-den-haag-te-blokkeren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254885,
-    "slug": "activisten-blokkeren-a12-en-boeren-komen-samen-in-zuiderpark",
-    "type": "video",
-    "title": "Activisten blokkeren A12 en boeren komen samen in Zuiderpark",
-    "subtitle": "Video",
-    "published_at": "2023-03-11T12:37:08+01:00",
-    "updated_at": "2023-03-11T13:54:07+01:00",
-    "media_id": "2hkx8jha5spw",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6254885/activisten-blokkeren-a12-en-boeren-komen-samen-in-zuiderpark.html",
     "open_new_window": false,
     "partner": null
   }
