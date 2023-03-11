@@ -1,12 +1,35 @@
 [
   {
+    "id": 6254928,
+    "slug": "brandweer-onderzoekt-woning-na-gasexplosie-in-oosterwolde",
+    "type": "video",
+    "title": "Brandweer onderzoekt woning na gasexplosie in Oosterwolde",
+    "subtitle": "Video",
+    "published_at": "2023-03-11T22:14:04+01:00",
+    "updated_at": "2023-03-11T22:14:05+01:00",
+    "media_id": "n4zxe8aaoiiv",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6254928/brandweer-onderzoekt-woning-na-gasexplosie-in-oosterwolde.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254918,
     "slug": "klopp-moedeloos-na-nieuwe-blamage-liverpool-wat-kan-ik-zeggen",
     "type": "article",
     "title": "Klopp moedeloos na nieuwe blamage Liverpool: 'Wat kan ik zeggen?'",
     "subtitle": null,
     "published_at": "2023-03-11T22:02:43+01:00",
-    "updated_at": "2023-03-11T22:02:44+01:00",
+    "updated_at": "2023-03-11T22:10:49+01:00",
     "media_id": "znux483ae95d",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6254927,
-    "slug": "az-verslaat-groningen-door-prachtgoal-karlsson-en-staat-voorlopig-tweede",
+    "slug": "az-verslaat-fc-groningen-door-prachtgoal-karlsson-en-staat-voorlopig-tweede",
     "type": "article",
-    "title": "AZ verslaat Groningen door prachtgoal Karlsson en staat voorlopig tweede",
+    "title": "AZ verslaat FC Groningen door prachtgoal Karlsson en staat voorlopig tweede",
     "subtitle": null,
     "published_at": "2023-03-11T21:54:41+01:00",
-    "updated_at": "2023-03-11T22:08:13+01:00",
+    "updated_at": "2023-03-11T22:19:43+01:00",
     "media_id": "8j1xkapaxiud",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6254927/az-verslaat-groningen-door-prachtgoal-karlsson-en-staat-voorlopig-tweede.html",
+    "url": "/voetbal/6254927/az-verslaat-fc-groningen-door-prachtgoal-karlsson-en-staat-voorlopig-tweede.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Engelse rugbyers lijden tegen Frankrijk grootste thuisnederlaag ooit",
     "subtitle": null,
     "published_at": "2023-03-11T21:43:44+01:00",
-    "updated_at": "2023-03-11T21:47:39+01:00",
+    "updated_at": "2023-03-11T22:13:40+01:00",
     "media_id": "3b0x8tlavng3",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Zevenhonderd arrestaties bij klimaatblokkade A12 in Den Haag",
     "subtitle": null,
     "published_at": "2023-03-11T21:20:26+01:00",
-    "updated_at": "2023-03-11T22:01:24+01:00",
+    "updated_at": "2023-03-11T22:21:41+01:00",
     "media_id": "l7wx5byay18q",
     "duration": null,
     "canonical_section": {
@@ -144,8 +167,8 @@
     "title": "Presentator Tom Egbers zondag niet bij Studio Sport na vermeend wangedrag",
     "subtitle": null,
     "published_at": "2023-03-11T21:03:56+01:00",
-    "updated_at": "2023-03-11T21:10:54+01:00",
-    "media_id": "x13x5lga6j24",
+    "updated_at": "2023-03-11T22:18:46+01:00",
+    "media_id": "flcxikga6ygu",
     "duration": null,
     "canonical_section": {
       "id": 1772242,
@@ -305,7 +328,7 @@
     "title": "Gewonde bij explosie gebouw in Fries Oosterwolde, woningblok ontruimd",
     "subtitle": null,
     "published_at": "2023-03-11T19:30:47+01:00",
-    "updated_at": "2023-03-11T20:16:35+01:00",
+    "updated_at": "2023-03-11T22:17:38+01:00",
     "media_id": "vn9xpayaq7cq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6254910/middelvinger-opsteken-toegestaan-in-canada-maar-op-deze-plekken-niet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254909,
-    "slug": "promes-scoort-week-na-rechtszaak-twee-keer-en-is-topscorer-in-rusland",
-    "type": "article",
-    "title": "Promes scoort week na rechtszaak twee keer en is topscorer in Rusland",
-    "subtitle": null,
-    "published_at": "2023-03-11T17:24:51+01:00",
-    "updated_at": "2023-03-11T17:34:31+01:00",
-    "media_id": "aoqxuhva7c8c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6254909/promes-scoort-week-na-rechtszaak-twee-keer-en-is-topscorer-in-rusland.html",
     "open_new_window": false,
     "partner": null
   }
