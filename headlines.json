@@ -1,12 +1,35 @@
 [
   {
-    "id": 6254784,
-    "slug": "en-toen-was-de-verslaggever-even-klaar-met-alle-scheldpartijen",
+    "id": 6254955,
+    "slug": "mores-reageert-nog-niet-op-onthullingen-over-tom-egbers-in-volkskrant",
     "type": "article",
-    "title": "En toen was de verslaggever even klaar met alle scheldpartijen",
+    "title": "Mores reageert nog niet op onthullingen over Tom Egbers in Volkskrant",
+    "subtitle": null,
+    "published_at": "2023-03-12T09:15:20+01:00",
+    "updated_at": "2023-03-12T09:23:00+01:00",
+    "media_id": "42zxs4ea0bvr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1775009,
+      "slug": "metoo",
+      "type": "default",
+      "name": "#metoo",
+      "style": "nu",
+      "media_id": "m1mxmqea7g3b",
+      "partner": null
+    },
+    "url": "/metoo/6254955/mores-reageert-nog-niet-op-onthullingen-over-tom-egbers-in-volkskrant.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254784,
+    "slug": "de-verslaggever-was-even-klaar-met-alle-scheldpartijen",
+    "type": "article",
+    "title": "De verslaggever was even klaar met alle scheldpartijen",
     "subtitle": "Van de hoofdredactie",
     "published_at": "2023-03-12T09:12:04+01:00",
-    "updated_at": "2023-03-12T09:12:05+01:00",
+    "updated_at": "2023-03-12T09:22:55+01:00",
     "media_id": "9orx7vpa9eyt",
     "duration": null,
     "canonical_section": {
@@ -18,19 +41,19 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/blog/6254784/en-toen-was-de-verslaggever-even-klaar-met-alle-scheldpartijen.html",
+    "url": "/blog/6254784/de-verslaggever-was-even-klaar-met-alle-scheldpartijen.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6254953,
-    "slug": "nederlandse-shorttrackers-pakken-allereerste-wereldtitel-op-mixed-relay",
+    "slug": "nederlandse-vrouwen-pakken-alle-titels-bij-wk-shorttrack-ook-goud-op-relay",
     "type": "article",
-    "title": "Nederlandse shorttrackers pakken allereerste wereldtitel op mixed relay",
+    "title": "Nederlandse vrouwen pakken alle titels bij WK shorttrack: ook goud op relay",
     "subtitle": null,
     "published_at": "2023-03-12T08:55:10+01:00",
-    "updated_at": "2023-03-12T09:12:51+01:00",
-    "media_id": "yzjxvzlaotjn",
+    "updated_at": "2023-03-12T09:26:26+01:00",
+    "media_id": "yllxfyaajj9o",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -41,7 +64,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6254953/nederlandse-shorttrackers-pakken-allereerste-wereldtitel-op-mixed-relay.html",
+    "url": "/schaatsen/6254953/nederlandse-vrouwen-pakken-alle-titels-bij-wk-shorttrack-ook-goud-op-relay.html",
     "open_new_window": false,
     "partner": null
   },
@@ -139,12 +162,12 @@
   },
   {
     "id": 6254946,
-    "slug": "hollywood-klaar-voor-de-oscars-veel-kansen-voor-everything-everywhere-all-at-once",
+    "slug": "hollywood-klaar-voor-oscars-kansen-voor-everything-everywhere-all-at-once",
     "type": "article",
-    "title": "Hollywood klaar voor de Oscars, veel kansen voor Everything Everywhere All At Once",
+    "title": "Hollywood klaar voor Oscars, kansen voor Everything Everywhere All At Once",
     "subtitle": null,
     "published_at": "2023-03-12T07:37:17+01:00",
-    "updated_at": "2023-03-12T08:13:02+01:00",
+    "updated_at": "2023-03-12T09:28:12+01:00",
     "media_id": "rflx9k2ayn3n",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": "m1mxwaua9mtl",
       "partner": null
     },
-    "url": "/oscars/6254946/hollywood-klaar-voor-de-oscars-veel-kansen-voor-everything-everywhere-all-at-once.html",
+    "url": "/oscars/6254946/hollywood-klaar-voor-oscars-kansen-voor-everything-everywhere-all-at-once.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6254937/hoe-wie-is-de-mol-opnieuw-kijkers-wist-te-misleiden-met-nephints.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254936,
-    "slug": "andre-hazes-geniet-meer-van-optreden-nu-hij-geen-alcohol-of-drugs-gebruikt",
-    "type": "article",
-    "title": "André Hazes geniet meer van optreden nu hij geen alcohol of drugs gebruikt",
-    "subtitle": null,
-    "published_at": "2023-03-12T02:27:47+01:00",
-    "updated_at": "2023-03-12T08:34:52+01:00",
-    "media_id": "go4x4pya993g",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6254936/andre-hazes-geniet-meer-van-optreden-nu-hij-geen-alcohol-of-drugs-gebruikt.html",
     "open_new_window": false,
     "partner": null
   }
