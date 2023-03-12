@@ -1,5 +1,28 @@
 [
   {
+    "id": 6254970,
+    "slug": "straten-staan-blank-nadat-dijk-doorbreekt-in-californie",
+    "type": "video",
+    "title": "Straten staan blank nadat dijk doorbreekt in Californië",
+    "subtitle": "Video",
+    "published_at": "2023-03-12T11:33:33+01:00",
+    "updated_at": "2023-03-12T11:33:34+01:00",
+    "media_id": "wdex16ia522l",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6254970/straten-staan-blank-nadat-dijk-doorbreekt-in-californie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254965,
     "slug": "man-verdacht-van-betrokkenheid-bij-explosie-appartementencomplex-oosterwolde",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6254939/weerbericht-in-de-ochtend-kans-op-een-bui-daarna-droog-en-af-en-toe-zon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254938,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-03-12T05:06:47+01:00",
-    "updated_at": "2023-03-12T05:06:48+01:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6254938/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
