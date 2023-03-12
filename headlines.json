@@ -1,5 +1,74 @@
 [
   {
+    "id": 6254784,
+    "slug": "en-toen-was-de-verslaggever-even-klaar-met-alle-scheldpartijen",
+    "type": "article",
+    "title": "En toen was de verslaggever even klaar met alle scheldpartijen",
+    "subtitle": "Van de hoofdredactie",
+    "published_at": "2023-03-12T09:12:04+01:00",
+    "updated_at": "2023-03-12T09:12:05+01:00",
+    "media_id": "9orx7vpa9eyt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772069,
+      "slug": "blog",
+      "type": "default",
+      "name": "Van de hoofdredactie",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/blog/6254784/en-toen-was-de-verslaggever-even-klaar-met-alle-scheldpartijen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254953,
+    "slug": "nederlandse-shorttrackers-pakken-allereerste-wereldtitel-op-mixed-relay",
+    "type": "article",
+    "title": "Nederlandse shorttrackers pakken allereerste wereldtitel op mixed relay",
+    "subtitle": null,
+    "published_at": "2023-03-12T08:55:10+01:00",
+    "updated_at": "2023-03-12T09:12:51+01:00",
+    "media_id": "yzjxvzlaotjn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6254953/nederlandse-shorttrackers-pakken-allereerste-wereldtitel-op-mixed-relay.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6254952,
+    "slug": "rivier-in-chicago-kleurt-traditioneel-groen-voor-st-patricks-day",
+    "type": "video",
+    "title": "Rivier in Chicago kleurt traditioneel groen voor St. Patrick's Day",
+    "subtitle": "Video",
+    "published_at": "2023-03-12T08:45:31+01:00",
+    "updated_at": "2023-03-12T08:45:32+01:00",
+    "media_id": "r9sxr8faw4uq",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6254952/rivier-in-chicago-kleurt-traditioneel-groen-voor-st-patricks-day.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254742,
     "slug": "stelling-waterschapsbestuurders-moeten-professionals-zijn-niet-verkozen-politici",
     "type": "article",
@@ -52,7 +121,7 @@
     "title": "Velzeboer verslaat Schulting ook op 1.000 meter en pakt tweede wereldtitel",
     "subtitle": null,
     "published_at": "2023-03-12T07:37:27+01:00",
-    "updated_at": "2023-03-12T08:09:51+01:00",
+    "updated_at": "2023-03-12T09:01:10+01:00",
     "media_id": "yozxug9ay5le",
     "duration": null,
     "canonical_section": {
@@ -98,7 +167,7 @@
     "title": "Geen finaleplek voor Van 't Wout en Knegt op 1.000 meter WK shorttrack",
     "subtitle": null,
     "published_at": "2023-03-12T07:28:21+01:00",
-    "updated_at": "2023-03-12T08:19:14+01:00",
+    "updated_at": "2023-03-12T09:04:04+01:00",
     "media_id": "h5kx5klasjbq",
     "duration": null,
     "canonical_section": {
@@ -300,12 +369,12 @@
   },
   {
     "id": 6254439,
-    "slug": "jamai-koos-bijna-this-love-als-idols-single-maar-toen-wilde-maroon-5-m-terug",
+    "slug": "jamai-koos-this-love-als-idols-single-maar-toen-wilde-maroon-5-m-terug",
     "type": "article",
-    "title": "Jamai koos bijna This Love als Idols-single, maar toen wilde Maroon 5 'm terug",
+    "title": "Jamai koos This Love als Idols-single, maar toen wilde Maroon 5 'm terug",
     "subtitle": null,
     "published_at": "2023-03-12T05:02:02+01:00",
-    "updated_at": "2023-03-12T05:02:03+01:00",
+    "updated_at": "2023-03-12T09:12:00+01:00",
     "media_id": "n0axdfwa17jv",
     "duration": null,
     "canonical_section": {
@@ -317,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6254439/jamai-koos-bijna-this-love-als-idols-single-maar-toen-wilde-maroon-5-m-terug.html",
+    "url": "/muziek/6254439/jamai-koos-this-love-als-idols-single-maar-toen-wilde-maroon-5-m-terug.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +397,7 @@
     "title": "Interview Van der Plas (BBB): 'De haat maakt het heftig'",
     "subtitle": null,
     "published_at": "2023-03-12T05:00:07+01:00",
-    "updated_at": "2023-03-12T05:00:08+01:00",
+    "updated_at": "2023-03-12T09:12:44+01:00",
     "media_id": "riexytiaxt9c",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6254936/andre-hazes-geniet-meer-van-optreden-nu-hij-geen-alcohol-of-drugs-gebruikt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254935,
-    "slug": "interview-met-de-mol-ik-had-mezelf-echt-een-eikel-gevonden",
-    "type": "article",
-    "title": "Interview met de Mol: 'Ik had mezelf echt een eikel gevonden'",
-    "subtitle": null,
-    "published_at": "2023-03-12T02:19:25+01:00",
-    "updated_at": "2023-03-12T07:29:28+01:00",
-    "media_id": "tmdx4woa2e5o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6254935/interview-met-de-mol-ik-had-mezelf-echt-een-eikel-gevonden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254933,
-    "slug": "loreen-elf-jaar-na-winst-met-euphoria-weer-zweedse-kandidaat-voor-songfestival",
-    "type": "article",
-    "title": "Loreen elf jaar na winst met Euphoria weer Zweedse kandidaat voor Songfestival",
-    "subtitle": null,
-    "published_at": "2023-03-12T00:29:07+01:00",
-    "updated_at": "2023-03-12T02:22:21+01:00",
-    "media_id": "1kjxw4zaj46a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772282,
-      "slug": "songfestival",
-      "type": "default",
-      "name": "Songfestival",
-      "style": "nuuit",
-      "media_id": "4a9xjerag1rk",
-      "partner": null
-    },
-    "url": "/songfestival/6254933/loreen-elf-jaar-na-winst-met-euphoria-weer-zweedse-kandidaat-voor-songfestival.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254914,
-    "slug": "voor-het-eerst-wordt-een-skelet-van-een-t-rex-geveild-in-europa",
-    "type": "article",
-    "title": "Voor het eerst wordt een skelet van een T. Rex geveild in Europa",
-    "subtitle": null,
-    "published_at": "2023-03-11T23:22:24+01:00",
-    "updated_at": "2023-03-11T23:22:26+01:00",
-    "media_id": "g72x5j3a9p1i",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6254914/voor-het-eerst-wordt-een-skelet-van-een-t-rex-geveild-in-europa.html",
     "open_new_window": false,
     "partner": null
   }
