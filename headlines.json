@@ -1,12 +1,35 @@
 [
   {
+    "id": 6255090,
+    "slug": "gevoelig-advies-aan-kabinet-minder-vee-en-meer-belasting-om-klimaatdoelen-te-halen",
+    "type": "article",
+    "title": "Gevoelig advies aan kabinet: minder vee en meer belasting om klimaatdoelen te halen",
+    "subtitle": null,
+    "published_at": "2023-03-13T18:17:20+01:00",
+    "updated_at": "2023-03-13T18:23:31+01:00",
+    "media_id": "9foxry8aftpk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6255090/gevoelig-advies-aan-kabinet-minder-vee-en-meer-belasting-om-klimaatdoelen-te-halen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255142,
     "slug": "feyenoorder-kokcu-draagt-aangepaste-aanvoerdersband-in-onelove-weekend",
     "type": "article",
     "title": "Feyenoorder Kökçü draagt aangepaste aanvoerdersband in OneLove-weekend",
     "subtitle": null,
     "published_at": "2023-03-13T18:09:25+01:00",
-    "updated_at": "2023-03-13T18:09:26+01:00",
+    "updated_at": "2023-03-13T18:21:42+01:00",
     "media_id": "eudxh6kancea",
     "duration": null,
     "canonical_section": {
@@ -300,12 +323,12 @@
   },
   {
     "id": 6255107,
-    "slug": "eerste-storm-van-2023-een-feit-man-overleden-door-afgebroken-tak-op-zijn-hoofd",
+    "slug": "eerste-storm-van-2023-een-feit-man-overleden-door-afgebroken-tak-op-hoofd",
     "type": "article",
-    "title": "Eerste storm van 2023 een feit, man overleden door afgebroken tak op zijn hoofd",
+    "title": "Eerste storm van 2023 een feit, man overleden door afgebroken tak op hoofd",
     "subtitle": null,
     "published_at": "2023-03-13T14:31:09+01:00",
-    "updated_at": "2023-03-13T18:03:01+01:00",
+    "updated_at": "2023-03-13T18:16:21+01:00",
     "media_id": "yacx15naaqmd",
     "duration": null,
     "canonical_section": {
@@ -317,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6255107/eerste-storm-van-2023-een-feit-man-overleden-door-afgebroken-tak-op-zijn-hoofd.html",
+    "url": "/binnenland/6255107/eerste-storm-van-2023-een-feit-man-overleden-door-afgebroken-tak-op-hoofd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +420,7 @@
     "title": "NOS-directie stapt niet op na misstanden bij NOS Sport",
     "subtitle": null,
     "published_at": "2023-03-13T13:43:56+01:00",
-    "updated_at": "2023-03-13T14:21:04+01:00",
+    "updated_at": "2023-03-13T18:26:58+01:00",
     "media_id": "nnixb4wau4fc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6255087/deze-keer-meer-stembureaus-toegankelijk-voor-mensen-met-een-beperking.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255094,
-    "slug": "tennissters-opnieuw-zonder-kopvrouw-arantxa-rus-in-billie-jean-king-cup",
-    "type": "article",
-    "title": "Tennissters opnieuw zonder kopvrouw Arantxa Rus in Billie Jean King Cup",
-    "subtitle": null,
-    "published_at": "2023-03-13T13:37:58+01:00",
-    "updated_at": "2023-03-13T17:30:18+01:00",
-    "media_id": "7lnxzepae278",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6255094/tennissters-opnieuw-zonder-kopvrouw-arantxa-rus-in-billie-jean-king-cup.html",
     "open_new_window": false,
     "partner": null
   }
