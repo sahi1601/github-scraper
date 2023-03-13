@@ -1,5 +1,74 @@
 [
   {
+    "id": 6255093,
+    "slug": "migranten-in-botsing-met-grenswachters-bij-amerikaans-mexicaanse-grens",
+    "type": "video",
+    "title": "Migranten in botsing met grenswachters bij Amerikaans-Mexicaanse grens",
+    "subtitle": "Video",
+    "published_at": "2023-03-13T13:27:41+01:00",
+    "updated_at": "2023-03-13T13:27:43+01:00",
+    "media_id": "pjyxencakfmj",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6255093/migranten-in-botsing-met-grenswachters-bij-amerikaans-mexicaanse-grens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255088,
+    "slug": "brandweer-redt-koeien-uit-het-water-na-ongeval",
+    "type": "video",
+    "title": "Brandweer redt koeien uit het water na ongeval",
+    "subtitle": "Video",
+    "published_at": "2023-03-13T13:12:28+01:00",
+    "updated_at": "2023-03-13T13:16:04+01:00",
+    "media_id": "yloxqvrav599",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6255088/brandweer-redt-koeien-uit-het-water-na-ongeval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255084,
+    "slug": "tour-de-france-2024-krijgt-bijzonder-slotweekend-met-zware-bergetappe-en-tijdrit",
+    "type": "article",
+    "title": "Tour de France 2024 krijgt bijzonder slotweekend met zware bergetappe én tijdrit",
+    "subtitle": null,
+    "published_at": "2023-03-13T13:08:05+01:00",
+    "updated_at": "2023-03-13T13:19:52+01:00",
+    "media_id": "cbcx0inag7ep",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6255084/tour-de-france-2024-krijgt-bijzonder-slotweekend-met-zware-bergetappe-en-tijdrit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6254992,
     "slug": "praat-mee-over-de-provinciale-statenverkiezingen-in-zuid-holland-en-zeeland",
     "type": "article",
@@ -52,7 +121,7 @@
     "title": "Gary Lineker keert zaterdag terug als presentator bij BBC na ophef over tweet",
     "subtitle": null,
     "published_at": "2023-03-13T11:42:41+01:00",
-    "updated_at": "2023-03-13T12:35:16+01:00",
+    "updated_at": "2023-03-13T12:44:50+01:00",
     "media_id": "tbux97wapobd",
     "duration": null,
     "canonical_section": {
@@ -144,7 +213,7 @@
     "title": "Bekijk hier de grote winnaars van de Oscar-uitreiking",
     "subtitle": "Video",
     "published_at": "2023-03-13T11:05:56+01:00",
-    "updated_at": "2023-03-13T11:05:57+01:00",
+    "updated_at": "2023-03-13T12:45:05+01:00",
     "media_id": "mggxtetah9t0",
     "duration": "1:08",
     "canonical_section": {
@@ -323,12 +392,12 @@
   },
   {
     "id": 6255050,
-    "slug": "hoofdofficier-draagt-beveiliging-familie-kroongetuige-nabil-b-over-na-noodkreet",
+    "slug": "hoofdofficier-draagt-beveiliging-familie-kroongetuige-nabil-b-over-na-reeks-fouten",
     "type": "article",
-    "title": "Hoofdofficier draagt beveiliging familie kroongetuige Nabil B. over na 'noodkreet'",
+    "title": "Hoofdofficier draagt beveiliging familie kroongetuige Nabil B. over na reeks fouten",
     "subtitle": null,
     "published_at": "2023-03-13T09:54:31+01:00",
-    "updated_at": "2023-03-13T12:18:05+01:00",
+    "updated_at": "2023-03-13T12:45:37+01:00",
     "media_id": "2agxxdoa4l0p",
     "duration": null,
     "canonical_section": {
@@ -340,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/peter-r-de-vries/6255050/hoofdofficier-draagt-beveiliging-familie-kroongetuige-nabil-b-over-na-noodkreet.html",
+    "url": "/peter-r-de-vries/6255050/hoofdofficier-draagt-beveiliging-familie-kroongetuige-nabil-b-over-na-reeks-fouten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6255048/soraya-gerrits-speelt-hoofdrol-in-nieuwe-musical-mamma-mia.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255047,
-    "slug": "aantal-faillissementen-op-hoogste-punt-in-ruim-25-jaar",
-    "type": "article",
-    "title": "Aantal faillissementen op hoogste punt in ruim 2,5 jaar",
-    "subtitle": null,
-    "published_at": "2023-03-13T07:56:49+01:00",
-    "updated_at": "2023-03-13T09:20:13+01:00",
-    "media_id": "ewzxkfpavrt3",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6255047/aantal-faillissementen-op-hoogste-punt-in-ruim-25-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255045,
-    "slug": "xavi-schrikt-van-vijandige-sfeer-in-bilbao-vanwege-corruptieschandaal-rond-barca",
-    "type": "article",
-    "title": "Xavi schrikt van 'vijandige sfeer' in Bilbao vanwege corruptieschandaal rond Barça",
-    "subtitle": null,
-    "published_at": "2023-03-13T07:44:57+01:00",
-    "updated_at": "2023-03-13T09:25:49+01:00",
-    "media_id": "ju6xivear12c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255045/xavi-schrikt-van-vijandige-sfeer-in-bilbao-vanwege-corruptieschandaal-rond-barca.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254644,
-    "slug": "stelling-de-eerste-kamer-zou-direct-gekozen-moeten-worden",
-    "type": "article",
-    "title": "Stelling: De Eerste Kamer zou direct gekozen moeten worden",
-    "subtitle": null,
-    "published_at": "2023-03-13T07:05:34+01:00",
-    "updated_at": "2023-03-13T07:05:35+01:00",
-    "media_id": "h3rx7qfaig5a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6254644/stelling-de-eerste-kamer-zou-direct-gekozen-moeten-worden.html",
     "open_new_window": false,
     "partner": null
   }
