@@ -1,5 +1,28 @@
 [
   {
+    "id": 6255041,
+    "slug": "weerbericht-regen-en-code-geel-in-noordwesten-vanwege-zware-windstoten",
+    "type": "article",
+    "title": "Weerbericht: Regen en code geel in noordwesten vanwege zware windstoten",
+    "subtitle": null,
+    "published_at": "2023-03-13T05:47:00+01:00",
+    "updated_at": "2023-03-13T05:47:17+01:00",
+    "media_id": "qguxjura0izf",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6255041/weerbericht-regen-en-code-geel-in-noordwesten-vanwege-zware-windstoten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255040,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6254361,
-    "slug": "turkije-telt-af-naar-belangrijkste-verkiezingen-in-ruim-70-jaar",
+    "slug": "turkije-telt-af-naar-belangrijkste-verkiezingen-in-ruim-zeventig-jaar",
     "type": "article",
-    "title": "Turkije telt af naar 'belangrijkste verkiezingen in ruim 70 jaar'",
+    "title": "Turkije telt af naar 'belangrijkste verkiezingen in ruim zeventig jaar'",
     "subtitle": "NU+",
     "published_at": "2023-03-13T05:02:01+01:00",
-    "updated_at": "2023-03-13T05:02:02+01:00",
+    "updated_at": "2023-03-13T06:04:23+01:00",
     "media_id": "9zexbwkaq16x",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6254361/turkije-telt-af-naar-belangrijkste-verkiezingen-in-ruim-70-jaar.html",
+    "url": "/buitenland/6254361/turkije-telt-af-naar-belangrijkste-verkiezingen-in-ruim-zeventig-jaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,12 +139,12 @@
   },
   {
     "id": 6255038,
-    "slug": "everything-everywhere-all-at-once-grote-winnaar-oscars-met-zeven-beeldjes",
+    "slug": "everything-everywhere-all-at-once-met-7-beeldjes-grote-winnaar-oscar-uitreiking",
     "type": "article",
-    "title": "Everything Everywhere All at Once grote winnaar Oscars met zeven beeldjes",
+    "title": "Everything Everywhere All at Once met 7 beeldjes grote winnaar Oscar-uitreiking",
     "subtitle": null,
     "published_at": "2023-03-13T01:31:23+01:00",
-    "updated_at": "2023-03-13T05:34:48+01:00",
+    "updated_at": "2023-03-13T06:13:26+01:00",
     "media_id": "vd7x0eqapcil",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6255038/everything-everywhere-all-at-once-grote-winnaar-oscars-met-zeven-beeldjes.html",
+    "url": "/film/6255038/everything-everywhere-all-at-once-met-7-beeldjes-grote-winnaar-oscar-uitreiking.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6254995/wat-wil-jij-weten-over-de-provinciale-statenverkiezingen-stel-hier-je-vragen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6254967,
-    "slug": "unieke-zaak-vs-fox-news-voor-de-rechter-voor-leugens-over-verkiezingsfraude",
-    "type": "article",
-    "title": "Unieke zaak VS: Fox News voor de rechter voor leugens over verkiezingsfraude",
-    "subtitle": null,
-    "published_at": "2023-03-12T19:48:45+01:00",
-    "updated_at": "2023-03-13T05:07:28+01:00",
-    "media_id": "3e1xycdah7nt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6254967/unieke-zaak-vs-fox-news-voor-de-rechter-voor-leugens-over-verkiezingsfraude.html",
     "open_new_window": false,
     "partner": null
   }
