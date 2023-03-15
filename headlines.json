@@ -1,12 +1,35 @@
 [
   {
+    "id": 6255354,
+    "slug": "van-kaag-tot-rutte-politici-brengen-stem-uit",
+    "type": "video",
+    "title": "Van Kaag tot Rutte: politici brengen stem uit",
+    "subtitle": "Video",
+    "published_at": "2023-03-15T11:09:43+01:00",
+    "updated_at": "2023-03-15T11:09:44+01:00",
+    "media_id": "v6gx7zoa7pje",
+    "duration": "1:30",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6255354/van-kaag-tot-rutte-politici-brengen-stem-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255344,
     "slug": "swiatek-kritisch-op-wta-na-rel-oekraiense-speelsters-moeten-meer-steun-krijgen",
     "type": "article",
     "title": "Swiatek kritisch op WTA na rel: 'Oekraïense speelsters moeten meer steun krijgen'",
     "subtitle": null,
     "published_at": "2023-03-15T10:30:38+01:00",
-    "updated_at": "2023-03-15T10:41:54+01:00",
+    "updated_at": "2023-03-15T10:43:44+01:00",
     "media_id": "ow4x9wxabesr",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Onderzoek naar Quincy Promes rond steekincident heropend, uitspraak uitgesteld",
     "subtitle": null,
     "published_at": "2023-03-15T10:30:22+01:00",
-    "updated_at": "2023-03-15T10:35:54+01:00",
+    "updated_at": "2023-03-15T11:06:30+01:00",
     "media_id": "5suxhssaw1t4",
     "duration": null,
     "canonical_section": {
@@ -49,10 +72,10 @@
     "id": 6255349,
     "slug": "autos-drijven-weg-door-overstromingen-in-turks-aardbevingsgebied",
     "type": "video",
-    "title": "Auto’s drijven weg door overstromingen in Turks aardbevingsgebied",
+    "title": "Auto's drijven weg door overstromingen in Turks aardbevingsgebied",
     "subtitle": "Video",
     "published_at": "2023-03-15T10:25:11+01:00",
-    "updated_at": "2023-03-15T10:36:59+01:00",
+    "updated_at": "2023-03-15T11:12:59+01:00",
     "media_id": "lyhxbbeabrg1",
     "duration": "0:44",
     "canonical_section": {
@@ -392,13 +415,13 @@
   },
   {
     "id": 6255297,
-    "slug": "eerste-rijen-ontstaan-bij-stembureaus-politici-brengen-stem-uit",
+    "slug": "opkomst-tot-dusver-iets-hoger-dan-bij-verkiezingen-in-2019",
     "type": "article",
-    "title": "Eerste rijen ontstaan bij stembureaus, politici brengen stem uit",
+    "title": "Opkomst tot dusver iets hoger dan bij verkiezingen in 2019",
     "subtitle": "Liveblog",
     "published_at": "2023-03-15T07:11:31+01:00",
-    "updated_at": "2023-03-15T09:38:43+01:00",
-    "media_id": "jtpxad2a7hh5",
+    "updated_at": "2023-03-15T11:09:49+01:00",
+    "media_id": "heqxuauagwnx",
     "duration": null,
     "canonical_section": {
       "id": 1779224,
@@ -409,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/provinciale-statenverkiezingen/6255297/eerste-rijen-ontstaan-bij-stembureaus-politici-brengen-stem-uit.html",
+    "url": "/provinciale-statenverkiezingen/6255297/opkomst-tot-dusver-iets-hoger-dan-bij-verkiezingen-in-2019.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6255316/weerbericht-koude-maar-zonnige-verkiezingsdag-s-ochtends-kans-op-sneeuw.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255315,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-03-15T05:12:21+01:00",
-    "updated_at": "2023-03-15T05:12:22+01:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6255315/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
