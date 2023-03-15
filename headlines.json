@@ -1,12 +1,35 @@
 [
   {
+    "id": 6255462,
+    "slug": "frankfurt-hooligans-rellen-in-napels-ondanks-stadionverbod",
+    "type": "video",
+    "title": "Frankfurt-hooligans rellen in Napels ondanks stadionverbod",
+    "subtitle": "Video",
+    "published_at": "2023-03-15T19:53:32+01:00",
+    "updated_at": "2023-03-15T19:53:33+01:00",
+    "media_id": "g2dxnbaacbda",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6255462/frankfurt-hooligans-rellen-in-napels-ondanks-stadionverbod.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255460,
     "slug": "alfred-schreuder-keert-niet-terug-bij-club-brugge-interim-coach-maakt-seizoen-af",
     "type": "article",
     "title": "Alfred Schreuder keert niet terug bij Club Brugge: interim-coach maakt seizoen af",
     "subtitle": null,
     "published_at": "2023-03-15T19:39:34+01:00",
-    "updated_at": "2023-03-15T19:39:36+01:00",
+    "updated_at": "2023-03-15T19:55:05+01:00",
     "media_id": "t6gxevgaldtl",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "AZ-coach Jansen weet niet of hij sterkste elf van Lazio treft: 'Ga ik ook niet over'",
     "subtitle": null,
     "published_at": "2023-03-15T19:38:30+01:00",
-    "updated_at": "2023-03-15T19:38:32+01:00",
+    "updated_at": "2023-03-15T19:50:36+01:00",
     "media_id": "98mx3p0axpe9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6255433/musical-sister-act-keert-volgend-jaar-terug-in-nederlandse-theaters.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255432,
-    "slug": "de-kleijn-klopt-gaviria-in-milaan-turijn-en-boekt-grootste-overwinning-in-loopbaan",
-    "type": "article",
-    "title": "De Kleijn klopt Gaviria in Milaan-Turijn en boekt grootste overwinning in loopbaan",
-    "subtitle": null,
-    "published_at": "2023-03-15T16:42:41+01:00",
-    "updated_at": "2023-03-15T17:36:33+01:00",
-    "media_id": "xoox8f6a5fxe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6255432/de-kleijn-klopt-gaviria-in-milaan-turijn-en-boekt-grootste-overwinning-in-loopbaan.html",
     "open_new_window": false,
     "partner": null
   }
