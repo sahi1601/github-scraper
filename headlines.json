@@ -6,7 +6,7 @@
     "title": "Verstappen maakt zich geen zorgen na motorproblemen: 'Niets is onmogelijk'",
     "subtitle": null,
     "published_at": "2023-03-18T19:15:45+01:00",
-    "updated_at": "2023-03-18T19:15:46+01:00",
+    "updated_at": "2023-03-18T19:19:31+01:00",
     "media_id": "f0mx1hxah69g",
     "duration": null,
     "canonical_section": {
@@ -157,29 +157,6 @@
       "partner": null
     },
     "url": "/darts/6255924/sherrock-schrijft-weer-historie-en-gooit-als-eerste-vrouw-ooit-negendarter-bij-pdc.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255918,
-    "slug": "marina-zette-alles-op-het-spel-met-haar-oorlogsprotest-op-de-russische-tv",
-    "type": "article",
-    "title": "Marina zette alles op het spel met haar oorlogsprotest op de Russische tv",
-    "subtitle": "NU+",
-    "published_at": "2023-03-18T17:45:28+01:00",
-    "updated_at": "2023-03-18T17:45:29+01:00",
-    "media_id": "tk9x2pya473z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6255918/marina-zette-alles-op-het-spel-met-haar-oorlogsprotest-op-de-russische-tv.html",
     "open_new_window": false,
     "partner": null
   },
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/buitenland/6255902/juwelier-78-overmeestert-sieradendief-in-engeland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255900,
+    "slug": "greys-anatomy-actrice-kelly-mccreary-stopt-met-rol-van-cardioloog-maggie-pierce",
+    "type": "article",
+    "title": "Grey's Anatomy-actrice Kelly McCreary stopt met rol van cardioloog Maggie Pierce",
+    "subtitle": null,
+    "published_at": "2023-03-18T13:37:50+01:00",
+    "updated_at": "2023-03-18T13:44:02+01:00",
+    "media_id": "rojxzhma7dcy",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6255900/greys-anatomy-actrice-kelly-mccreary-stopt-met-rol-van-cardioloog-maggie-pierce.html",
     "open_new_window": false,
     "partner": null
   }
