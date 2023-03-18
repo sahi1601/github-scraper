@@ -1,5 +1,28 @@
 [
   {
+    "id": 6255944,
+    "slug": "van-seumeren-stormt-utrecht-kleedkamer-binnen-begrijpen-dat-hij-ontevreden-is",
+    "type": "article",
+    "title": "Van Seumeren stormt Utrecht-kleedkamer binnen: 'Begrijpen dat hij ontevreden is'",
+    "subtitle": null,
+    "published_at": "2023-03-18T21:22:15+01:00",
+    "updated_at": "2023-03-18T21:22:16+01:00",
+    "media_id": "7p3xie9a1qsn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6255944/van-seumeren-stormt-utrecht-kleedkamer-binnen-begrijpen-dat-hij-ontevreden-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255945,
     "slug": "ierse-rugbyers-pakken-met-grand-slam-na-vijf-jaar-weer-eindzege-six-nations",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6255925/weer-onrust-in-frankrijk-om-pensioenplannen-demonstratieverbod-bij-parlement.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255924,
-    "slug": "sherrock-schrijft-weer-historie-en-gooit-als-eerste-vrouw-ooit-negendarter-bij-pdc",
-    "type": "article",
-    "title": "Sherrock schrijft weer historie en gooit als eerste vrouw ooit negendarter bij PDC",
-    "subtitle": null,
-    "published_at": "2023-03-18T18:02:43+01:00",
-    "updated_at": "2023-03-18T18:14:39+01:00",
-    "media_id": "r8qxhz1a9tma",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6255924/sherrock-schrijft-weer-historie-en-gooit-als-eerste-vrouw-ooit-negendarter-bij-pdc.html",
     "open_new_window": false,
     "partner": null
   }
