@@ -1,12 +1,35 @@
 [
   {
-    "id": 6255953,
-    "slug": "dit-zijn-de-mooiste-fotos-van-de-zege-van-van-der-poels-in-milaan-san-remo",
+    "id": 6255956,
+    "slug": "medvedev-zet-zegereeks-voort-en-bereikt-in-indian-wells-vierde-finale-op-rij",
     "type": "article",
-    "title": "Dit zijn de mooiste foto's van de zege van Van der Poels in Milaan-San Remo",
+    "title": "Medvedev zet zegereeks voort en bereikt in Indian Wells vierde finale op rij",
+    "subtitle": null,
+    "published_at": "2023-03-18T23:50:32+01:00",
+    "updated_at": "2023-03-18T23:50:33+01:00",
+    "media_id": "11pxci6a5m7g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6255956/medvedev-zet-zegereeks-voort-en-bereikt-in-indian-wells-vierde-finale-op-rij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6255953,
+    "slug": "de-mooiste-fotos-van-de-zege-van-van-der-poel-in-milaan-san-remo",
+    "type": "article",
+    "title": "De mooiste foto's van de zege van Van der Poel in Milaan-San Remo",
     "subtitle": "In beeld",
     "published_at": "2023-03-18T23:37:33+01:00",
-    "updated_at": "2023-03-18T23:37:34+01:00",
+    "updated_at": "2023-03-19T00:00:09+01:00",
     "media_id": "q4ex8t5anmgf",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6255953/dit-zijn-de-mooiste-fotos-van-de-zege-van-van-der-poels-in-milaan-san-remo.html",
+    "url": "/wielrennen/6255953/de-mooiste-fotos-van-de-zege-van-van-der-poel-in-milaan-san-remo.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6255936/perez-focust-op-zege-in-jeddah-ga-niet-racen-met-max-in-mijn-hoofd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255934,
-    "slug": "duizenden-vrijwilligers-raapten-vandaag-afval-op-in-heel-het-land",
-    "type": "article",
-    "title": "Duizenden vrijwilligers raapten vandaag afval op in heel het land",
-    "subtitle": null,
-    "published_at": "2023-03-18T19:58:29+01:00",
-    "updated_at": "2023-03-18T20:11:34+01:00",
-    "media_id": "ashx3h3a7f19",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6255934/duizenden-vrijwilligers-raapten-vandaag-afval-op-in-heel-het-land.html",
     "open_new_window": false,
     "partner": null
   }
