@@ -1,13 +1,36 @@
 [
   {
+    "id": 6255816,
+    "slug": "wat-zijn-thermietbommen-een-van-de-wreedste-wapens-van-rusland",
+    "type": "video",
+    "title": "Wat zijn thermietbommen, een van de 'wreedste wapens' van Rusland?",
+    "subtitle": "Video",
+    "published_at": "2023-03-18T16:48:19+01:00",
+    "updated_at": "2023-03-18T16:48:20+01:00",
+    "media_id": "2hbxmhxapgcb",
+    "duration": "1:15",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6255816/wat-zijn-thermietbommen-een-van-de-wreedste-wapens-van-rusland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255909,
     "slug": "ontketende-van-der-poel-wint-milaan-san-remo-als-eerste-nederlander-in-38-jaar",
     "type": "article",
     "title": "Ontketende Van der Poel wint Milaan-San Remo als eerste Nederlander in 38 jaar",
     "subtitle": null,
     "published_at": "2023-03-18T16:43:01+01:00",
-    "updated_at": "2023-03-18T16:43:04+01:00",
-    "media_id": "1e7xvvva5vue",
+    "updated_at": "2023-03-18T17:18:06+01:00",
+    "media_id": "ar2xsmbag9s0",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -70,13 +93,13 @@
   },
   {
     "id": 6255917,
-    "slug": "hake-jaar-na-ontslag-terug-in-utrecht-met-go-ahead",
+    "slug": "topscorer-douvikas-zet-utrecht-op-voorsprong-tegen-go-ahead",
     "type": "article",
-    "title": "Hake jaar na ontslag terug in Utrecht met Go Ahead",
+    "title": "Topscorer Douvikas zet Utrecht op voorsprong tegen Go Ahead",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-03-18T16:16:38+01:00",
-    "updated_at": "2023-03-18T16:43:03+01:00",
-    "media_id": "im9x9spac2q9",
+    "updated_at": "2023-03-18T17:14:59+01:00",
+    "media_id": "ormxewdakafm",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6255917/hake-jaar-na-ontslag-terug-in-utrecht-met-go-ahead.html",
+    "url": "/voetbal/6255917/topscorer-douvikas-zet-utrecht-op-voorsprong-tegen-go-ahead.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Graandeal Oekraïne en Rusland verlengd, maar met welke termijn is onduidelijk",
     "subtitle": null,
     "published_at": "2023-03-18T15:04:44+01:00",
-    "updated_at": "2023-03-18T16:40:59+01:00",
+    "updated_at": "2023-03-18T16:59:56+01:00",
     "media_id": "iapxf6ha9ltz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6255887/kompany-wil-dat-guardiola-hem-niet-meer-noemt-als-toekomstige-city-coach.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255617,
-    "slug": "de-wielrenners-komen-naar-buiten-zo-blijft-het-leuk-en-veilig-op-de-weg",
-    "type": "article",
-    "title": "De wielrenners komen naar buiten: zo blijft het leuk (en veilig) op de weg",
-    "subtitle": "NU+",
-    "published_at": "2023-03-18T11:47:39+01:00",
-    "updated_at": "2023-03-18T11:47:40+01:00",
-    "media_id": "rxrx7o3angid",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6255617/de-wielrenners-komen-naar-buiten-zo-blijft-het-leuk-en-veilig-op-de-weg.html",
     "open_new_window": false,
     "partner": null
   }
