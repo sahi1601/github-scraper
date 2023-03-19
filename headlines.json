@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256020,
+    "slug": "verstappen-moet-alleen-teammaat-perez-voorlaten-na-inhaalrace-in-saoedi-arabie",
+    "type": "article",
+    "title": "Verstappen moet alleen teammaat Pérez voorlaten na inhaalrace in Saoedi-Arabië",
+    "subtitle": null,
+    "published_at": "2023-03-19T19:27:35+01:00",
+    "updated_at": "2023-03-19T19:28:36+01:00",
+    "media_id": "7jjx12ba4rat",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Saoedi-Arabië",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6256020/verstappen-moet-alleen-teammaat-perez-voorlaten-na-inhaalrace-in-saoedi-arabie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256015,
     "slug": "messi-wordt-uitgefloten-en-lijdt-pijnlijke-nederlaag-met-paris-saint-germain",
     "type": "article",
@@ -300,12 +323,12 @@
   },
   {
     "id": 6256005,
-    "slug": "verstappen-jaagt-op-leider-perez-in-straten-van-jeddah",
+    "slug": "reacties-na-zege-perez-in-jeddah",
     "type": "article",
-    "title": "Verstappen jaagt op leider Pérez in straten van Jeddah",
+    "title": "Reacties na zege Pérez in Jeddah",
     "subtitle": "Liveblog F1",
     "published_at": "2023-03-19T16:39:24+01:00",
-    "updated_at": "2023-03-19T18:58:39+01:00",
+    "updated_at": "2023-03-19T19:28:36+01:00",
     "media_id": "kgaxeq2aixow",
     "duration": null,
     "canonical_section": {
@@ -317,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6256005/verstappen-jaagt-op-leider-perez-in-straten-van-jeddah.html",
+    "url": "/formule-1/6256005/reacties-na-zege-perez-in-jeddah.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6255997/zwitserland-overweegt-nationalisatie-credit-suisse-als-ubs-deal-niet-doorgaat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255995,
-    "slug": "antwerp-van-van-bommel-verliest-az-opponent-anderlecht-wint-wel",
-    "type": "article",
-    "title": "Antwerp van Van Bommel verliest, AZ-opponent Anderlecht wint wel",
-    "subtitle": null,
-    "published_at": "2023-03-19T15:40:00+01:00",
-    "updated_at": "2023-03-19T18:10:41+01:00",
-    "media_id": "jooxyaoa0hgm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255995/antwerp-van-van-bommel-verliest-az-opponent-anderlecht-wint-wel.html",
     "open_new_window": false,
     "partner": null
   }
