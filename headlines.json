@@ -1,12 +1,35 @@
 [
   {
+    "id": 6256016,
+    "slug": "psv-speelt-door-eigen-goal-gelijk-bij-vitesse-en-raakt-verder-achterop-in-titelrace",
+    "type": "article",
+    "title": "PSV speelt door eigen goal gelijk bij Vitesse en raakt verder achterop in titelrace",
+    "subtitle": null,
+    "published_at": "2023-03-19T18:38:02+01:00",
+    "updated_at": "2023-03-19T18:38:07+01:00",
+    "media_id": "fjxxibya52rr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6256016/psv-speelt-door-eigen-goal-gelijk-bij-vitesse-en-raakt-verder-achterop-in-titelrace.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256014,
     "slug": "ubs-zegt-toe-credit-suisse-te-kopen-voor-meer-dan-2-miljard-dollar",
     "type": "article",
     "title": "UBS zegt toe Credit Suisse te kopen voor meer dan 2 miljard dollar",
     "subtitle": null,
     "published_at": "2023-03-19T18:19:17+01:00",
-    "updated_at": "2023-03-19T18:24:41+01:00",
+    "updated_at": "2023-03-19T18:34:46+01:00",
     "media_id": "d4oxqb6a7ye2",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6256005,
-    "slug": "perez-herpakt-leiding-in-jeddah-verstappen-rukt-op-richting-podium",
+    "slug": "perez-leidt-in-jeddah-gunstige-safetycar-voor-opstomende-verstappen",
     "type": "article",
-    "title": "Pérez herpakt leiding in Jeddah, Verstappen rukt op richting podium",
+    "title": "Pérez leidt in Jeddah, gunstige safetycar voor opstomende Verstappen",
     "subtitle": "Liveblog F1",
     "published_at": "2023-03-19T16:39:24+01:00",
-    "updated_at": "2023-03-19T18:24:45+01:00",
+    "updated_at": "2023-03-19T18:42:09+01:00",
     "media_id": "ijfxq5ual8wb",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6256005/perez-herpakt-leiding-in-jeddah-verstappen-rukt-op-richting-podium.html",
+    "url": "/formule-1/6256005/perez-leidt-in-jeddah-gunstige-safetycar-voor-opstomende-verstappen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Feyenoord zet grote stap richting titel met eerste uitzege op Ajax in achttien jaar",
     "subtitle": null,
     "published_at": "2023-03-19T16:26:10+01:00",
-    "updated_at": "2023-03-19T17:32:16+01:00",
+    "updated_at": "2023-03-19T18:41:37+01:00",
     "media_id": "19kxcwxak2bs",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Ontketend Excelsior is al na één helft klaar met concurrent Cambuur",
     "subtitle": null,
     "published_at": "2023-03-19T16:21:45+01:00",
-    "updated_at": "2023-03-19T16:55:48+01:00",
+    "updated_at": "2023-03-19T18:42:39+01:00",
     "media_id": "0itxe9pak8dk",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/gezondheid/6255567/volgende-week-start-zomertijd-waarom-je-nu-al-eerder-naar-bed-moet-gaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255994,
-    "slug": "minderjarige-fc-groningen-fan-opgepakt-voor-vuistslag-op-hoofd-jetro-willems",
-    "type": "article",
-    "title": "Minderjarige FC Groningen-fan opgepakt voor vuistslag op hoofd Jetro Willems",
-    "subtitle": null,
-    "published_at": "2023-03-19T14:11:22+01:00",
-    "updated_at": "2023-03-19T17:04:06+01:00",
-    "media_id": "aakx63fa3t96",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255994/minderjarige-fc-groningen-fan-opgepakt-voor-vuistslag-op-hoofd-jetro-willems.html",
     "open_new_window": false,
     "partner": null
   }
