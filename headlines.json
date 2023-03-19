@@ -1,5 +1,28 @@
 [
   {
+    "id": 6255997,
+    "slug": "zwitserland-overweegt-nationalisatie-credit-suisse-als-ubs-deal-niet-doorgaat",
+    "type": "article",
+    "title": "Zwitserland overweegt nationalisatie Credit Suisse als UBS-deal niet doorgaat",
+    "subtitle": null,
+    "published_at": "2023-03-19T15:44:58+01:00",
+    "updated_at": "2023-03-19T16:05:03+01:00",
+    "media_id": "u53x099aqqtf",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6255997/zwitserland-overweegt-nationalisatie-credit-suisse-als-ubs-deal-niet-doorgaat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255995,
     "slug": "antwerp-van-van-bommel-loopt-door-nederlaag-schade-op-in-titelrace",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6255996,
-    "slug": "fc-groningen-schrikt-van-vuistslag-aan-willems-dit-mag-niet-gebeuren",
+    "slug": "willems-niet-onder-de-indruk-van-vuistslag-van-fan-kom-uit-rotterdam-zuid",
     "type": "article",
-    "title": "FC Groningen schrikt van vuistslag aan Willems: 'Dit mag niet gebeuren'",
+    "title": "Willems niet onder de indruk van vuistslag van fan: 'Kom uit Rotterdam-Zuid'",
     "subtitle": null,
     "published_at": "2023-03-19T15:33:38+01:00",
-    "updated_at": "2023-03-19T15:37:35+01:00",
+    "updated_at": "2023-03-19T16:08:34+01:00",
     "media_id": "pbpxtutavwb5",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6255996/fc-groningen-schrikt-van-vuistslag-aan-willems-dit-mag-niet-gebeuren.html",
+    "url": "/voetbal/6255996/willems-niet-onder-de-indruk-van-vuistslag-van-fan-kom-uit-rotterdam-zuid.html",
     "open_new_window": false,
     "partner": null
   },
@@ -323,13 +346,13 @@
   },
   {
     "id": 6255979,
-    "slug": "feyenoord-maakt-kort-na-rust-gelijk-tegen-ajax",
+    "slug": "ajax-en-koploper-feyenoord-bezig-aan-slotfase-spannende-klassieker",
     "type": "article",
-    "title": "Feyenoord maakt kort na rust gelijk tegen Ajax",
+    "title": "Ajax en koploper Feyenoord bezig aan slotfase spannende Klassieker",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2023-03-19T11:50:39+01:00",
-    "updated_at": "2023-03-19T15:42:12+01:00",
-    "media_id": "2vuxvh0a002l",
+    "updated_at": "2023-03-19T16:10:25+01:00",
+    "media_id": "rmmx5ioau1tt",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -340,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6255979/feyenoord-maakt-kort-na-rust-gelijk-tegen-ajax.html",
+    "url": "/voetbal/6255979/ajax-en-koploper-feyenoord-bezig-aan-slotfase-spannende-klassieker.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6255973/hamilton-blijft-worstelen-in-tegenvallende-mercedes-het-is-ellendig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255971,
-    "slug": "zwitserse-noodmaatregelen-moeten-snelle-overname-credit-suisse-mogelijk-maken",
-    "type": "article",
-    "title": "Zwitserse noodmaatregelen moeten snelle overname Credit Suisse mogelijk maken",
-    "subtitle": null,
-    "published_at": "2023-03-19T10:06:05+01:00",
-    "updated_at": "2023-03-19T10:18:15+01:00",
-    "media_id": "xxgx8svauhus",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6255971/zwitserse-noodmaatregelen-moeten-snelle-overname-credit-suisse-mogelijk-maken.html",
     "open_new_window": false,
     "partner": null
   }
