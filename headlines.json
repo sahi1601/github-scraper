@@ -1,12 +1,35 @@
 [
   {
+    "id": 6255862,
+    "slug": "defensie-expert-ko-colijn-over-oorlogsmoeheid-bij-rusland-en-oekraine",
+    "type": "article",
+    "title": "Defensie-expert Ko Colijn over oorlogsmoeheid bij Rusland (en Oekraïne)",
+    "subtitle": "NU+",
+    "published_at": "2023-03-19T20:08:24+01:00",
+    "updated_at": "2023-03-19T20:08:26+01:00",
+    "media_id": "8qqxbwjay3v3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6255862/defensie-expert-ko-colijn-over-oorlogsmoeheid-bij-rusland-en-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256025,
     "slug": "verstappen-kan-leven-met-tweede-plek-goed-resultaat-na-vijftiende-startpositie",
     "type": "article",
     "title": "Verstappen kan leven met tweede plek: 'Goed resultaat na vijftiende startpositie'",
     "subtitle": null,
     "published_at": "2023-03-19T20:03:23+01:00",
-    "updated_at": "2023-03-19T20:03:24+01:00",
+    "updated_at": "2023-03-19T20:08:52+01:00",
     "media_id": "2gix5nvapalb",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Van Gerwen neemt revanche op Van Duijvenbode en wint Players Championship",
     "subtitle": null,
     "published_at": "2023-03-19T19:50:31+01:00",
-    "updated_at": "2023-03-19T19:50:33+01:00",
+    "updated_at": "2023-03-19T20:11:52+01:00",
     "media_id": "sfuxtp1a8pmm",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Van Nistelrooij teleurgesteld in PSV: 'Een van de minste wedstrijden tot nu toe'",
     "subtitle": null,
     "published_at": "2023-03-19T19:30:03+01:00",
-    "updated_at": "2023-03-19T19:37:16+01:00",
+    "updated_at": "2023-03-19T20:15:41+01:00",
     "media_id": "yimxt8oa1a7l",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Dubbele rode kaart Fulham helpt United en Ten Hag naar halve finales FA Cup",
     "subtitle": null,
     "published_at": "2023-03-19T19:29:35+01:00",
-    "updated_at": "2023-03-19T19:29:36+01:00",
+    "updated_at": "2023-03-19T20:23:33+01:00",
     "media_id": "a70xbtkav2a4",
     "duration": null,
     "canonical_section": {
@@ -254,12 +277,12 @@
   },
   {
     "id": 6256014,
-    "slug": "ubs-zegt-toe-credit-suisse-te-kopen-voor-meer-dan-2-miljard-dollar",
+    "slug": "ubs-neemt-credit-suisse-over-voor-2-miljard-en-krijgt-steun-van-centrale-bank",
     "type": "article",
-    "title": "UBS zegt toe Credit Suisse te kopen voor meer dan 2 miljard dollar",
+    "title": "UBS neemt Credit Suisse over voor 2 miljard en krijgt steun van centrale bank",
     "subtitle": null,
     "published_at": "2023-03-19T18:19:17+01:00",
-    "updated_at": "2023-03-19T19:52:18+01:00",
+    "updated_at": "2023-03-19T20:19:46+01:00",
     "media_id": "d4oxqb6a7ye2",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6256014/ubs-zegt-toe-credit-suisse-te-kopen-voor-meer-dan-2-miljard-dollar.html",
+    "url": "/economie/6256014/ubs-neemt-credit-suisse-over-voor-2-miljard-en-krijgt-steun-van-centrale-bank.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +420,7 @@
     "title": "Feyenoord-opponent AS Roma verliest derby, Napoli weer stap dichter bij titel",
     "subtitle": null,
     "published_at": "2023-03-19T16:57:55+01:00",
-    "updated_at": "2023-03-19T20:05:00+01:00",
+    "updated_at": "2023-03-19T20:12:28+01:00",
     "media_id": "3lfxo9paghw5",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6256002/feyenoord-captain-kokcu-was-er-klaar-mee-ajax-denkt-altijd-de-beste-te-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256005,
-    "slug": "reacties-na-zege-perez-en-tweede-plek-verstappen-in-jeddah",
-    "type": "article",
-    "title": "Reacties na zege Pérez en tweede plek Verstappen in Jeddah",
-    "subtitle": "Liveblog F1",
-    "published_at": "2023-03-19T16:39:24+01:00",
-    "updated_at": "2023-03-19T19:29:44+01:00",
-    "media_id": "kgaxeq2aixow",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Saoedi-Arabië",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6256005/reacties-na-zege-perez-en-tweede-plek-verstappen-in-jeddah.html",
     "open_new_window": false,
     "partner": null
   }
