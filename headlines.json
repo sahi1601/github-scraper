@@ -1,12 +1,81 @@
 [
   {
+    "id": 6256003,
+    "slug": "mh17-eenheid-actief-in-oekraine-en-poetin-brengt-bezoek-aan-mariupol",
+    "type": "article",
+    "title": "MH17-eenheid actief in Oekraïne en Poetin brengt bezoek aan Mariupol",
+    "subtitle": "Overzicht",
+    "published_at": "2023-03-19T17:14:03+01:00",
+    "updated_at": "2023-03-19T17:14:05+01:00",
+    "media_id": "sdzxh9za4sjg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6256003/mh17-eenheid-actief-in-oekraine-en-poetin-brengt-bezoek-aan-mariupol.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256007,
+    "slug": "napoli-haalt-uit-bij-torino-en-is-weer-stap-dichter-bij-eerste-landstitel-sinds-1990",
+    "type": "article",
+    "title": "Napoli haalt uit bij Torino en is weer stap dichter bij eerste landstitel sinds 1990",
+    "subtitle": null,
+    "published_at": "2023-03-19T16:57:55+01:00",
+    "updated_at": "2023-03-19T17:04:58+01:00",
+    "media_id": "vkzxtuba84cu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6256007/napoli-haalt-uit-bij-torino-en-is-weer-stap-dichter-bij-eerste-landstitel-sinds-1990.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256002,
+    "slug": "feyenoord-captain-kokcu-was-er-klaar-mee-ajax-denkt-altijd-de-beste-te-zijn",
+    "type": "article",
+    "title": "Feyenoord-captain Kökçü was er klaar mee: 'Ajax denkt altijd de beste te zijn'",
+    "subtitle": null,
+    "published_at": "2023-03-19T16:55:01+01:00",
+    "updated_at": "2023-03-19T17:09:04+01:00",
+    "media_id": "dyexvgiaziy5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6256002/feyenoord-captain-kokcu-was-er-klaar-mee-ajax-denkt-altijd-de-beste-te-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256005,
     "slug": "verstappen-staat-voor-inhaalrace-bij-grand-prix-van-saoedi-arabie",
     "type": "article",
     "title": "Verstappen staat voor inhaalrace bij Grand Prix van Saoedi-Arabië",
     "subtitle": "Liveblog F1",
     "published_at": "2023-03-19T16:39:24+01:00",
-    "updated_at": "2023-03-19T16:39:25+01:00",
+    "updated_at": "2023-03-19T16:47:37+01:00",
     "media_id": "1atxq6ea2ih8",
     "duration": null,
     "canonical_section": {
@@ -52,8 +121,8 @@
     "title": "Feyenoord zet grote stap richting titel met eerste uitzege op Ajax in achttien jaar",
     "subtitle": null,
     "published_at": "2023-03-19T16:26:10+01:00",
-    "updated_at": "2023-03-19T16:39:10+01:00",
-    "media_id": "g3kx59uawkeb",
+    "updated_at": "2023-03-19T17:02:46+01:00",
+    "media_id": "19kxcwxak2bs",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -75,7 +144,7 @@
     "title": "Ontketend Excelsior is al na één helft klaar met concurrent Cambuur",
     "subtitle": null,
     "published_at": "2023-03-19T16:21:45+01:00",
-    "updated_at": "2023-03-19T16:21:47+01:00",
+    "updated_at": "2023-03-19T16:55:48+01:00",
     "media_id": "0itxe9pak8dk",
     "duration": null,
     "canonical_section": {
@@ -98,7 +167,7 @@
     "title": "Toptalent Van Anrooij soleert in Italiaanse heuvelkoers naar eerste zege op de weg",
     "subtitle": null,
     "published_at": "2023-03-19T16:17:07+01:00",
-    "updated_at": "2023-03-19T16:34:39+01:00",
+    "updated_at": "2023-03-19T16:59:47+01:00",
     "media_id": "1k0xvhva2o9l",
     "duration": null,
     "canonical_section": {
@@ -254,12 +323,12 @@
   },
   {
     "id": 6255994,
-    "slug": "politie-houdt-minderjarige-fc-groningen-fan-aan-die-jetro-willems-klap-gaf",
+    "slug": "minderjarige-fc-groningen-fan-opgepakt-voor-vuistslag-op-hoofd-jetro-willems",
     "type": "article",
-    "title": "Politie houdt minderjarige FC Groningen-fan aan die Jetro Willems klap gaf",
+    "title": "Minderjarige FC Groningen-fan opgepakt voor vuistslag op hoofd Jetro Willems",
     "subtitle": null,
     "published_at": "2023-03-19T14:11:22+01:00",
-    "updated_at": "2023-03-19T16:38:20+01:00",
+    "updated_at": "2023-03-19T17:04:06+01:00",
     "media_id": "aakx63fa3t96",
     "duration": null,
     "canonical_section": {
@@ -271,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6255994/politie-houdt-minderjarige-fc-groningen-fan-aan-die-jetro-willems-klap-gaf.html",
+    "url": "/voetbal/6255994/minderjarige-fc-groningen-fan-opgepakt-voor-vuistslag-op-hoofd-jetro-willems.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/film/6255532/recensieoverzicht-shazam-fury-of-the-gods-druk-en-vreugdeloos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255786,
-    "slug": "jongeren-dromen-niet-van-vast-contract-ze-kunnen-toch-geen-hypotheek-krijgen",
-    "type": "article",
-    "title": "Jongeren dromen niet van vast contract: 'Ze kunnen toch geen hypotheek krijgen'",
-    "subtitle": null,
-    "published_at": "2023-03-19T12:04:42+01:00",
-    "updated_at": "2023-03-19T12:31:05+01:00",
-    "media_id": "yusxebzagrx8",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6255786/jongeren-dromen-niet-van-vast-contract-ze-kunnen-toch-geen-hypotheek-krijgen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255978,
-    "slug": "beleggen-of-niet-praat-mee-over-crypto-aandelen-en-sparen",
-    "type": "article",
-    "title": "Beleggen of niet? Praat mee over crypto, aandelen en sparen",
-    "subtitle": null,
-    "published_at": "2023-03-19T12:02:54+01:00",
-    "updated_at": "2023-03-19T12:02:56+01:00",
-    "media_id": "dndxx2kavfio",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6255978/beleggen-of-niet-praat-mee-over-crypto-aandelen-en-sparen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255980,
-    "slug": "minibus-ligt-op-de-kant-na-zwaar-ongeluk-in-antwerpen",
-    "type": "video",
-    "title": "Minibus ligt op de kant na zwaar ongeluk in Antwerpen",
-    "subtitle": "Video",
-    "published_at": "2023-03-19T11:51:48+01:00",
-    "updated_at": "2023-03-19T11:54:53+01:00",
-    "media_id": "h5qxrt2af04a",
-    "duration": "0:34",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6255980/minibus-ligt-op-de-kant-na-zwaar-ongeluk-in-antwerpen.html",
     "open_new_window": false,
     "partner": null
   }
