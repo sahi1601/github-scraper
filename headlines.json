@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256243,
+    "slug": "taak-van-scholen-of-niet-praat-mee-over-seksuele-voorlichting",
+    "type": "article",
+    "title": "Taak van scholen of niet? Praat mee over seksuele voorlichting",
+    "subtitle": null,
+    "published_at": "2023-03-21T12:11:37+01:00",
+    "updated_at": "2023-03-21T12:11:38+01:00",
+    "media_id": "q5tx4a1a5x2o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6256243/taak-van-scholen-of-niet-praat-mee-over-seksuele-voorlichting.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6255279,
     "slug": "steeds-meer-erkenning-discriminatie-zes-voorbeelden-van-afgelopen-jaar",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Debutant Veerman completeert Oranje-selectie op trainingsveld in Zeist",
     "subtitle": null,
     "published_at": "2023-03-21T11:56:49+01:00",
-    "updated_at": "2023-03-21T12:08:12+01:00",
+    "updated_at": "2023-03-21T12:17:07+01:00",
     "media_id": "7koxf3ea7eha",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "OM vervolgt duo voor opruiing rond spotprent waardoor docent moest onderduiken",
     "subtitle": null,
     "published_at": "2023-03-21T10:48:35+01:00",
-    "updated_at": "2023-03-21T11:50:16+01:00",
+    "updated_at": "2023-03-21T12:24:54+01:00",
     "media_id": "ljxxwp1awton",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Inteelt vormt grootste bedreiging voor orka's voor Noord-Amerikaanse westkust",
     "subtitle": null,
     "published_at": "2023-03-21T08:22:50+01:00",
-    "updated_at": "2023-03-21T08:37:37+01:00",
+    "updated_at": "2023-03-21T12:15:54+01:00",
     "media_id": "sx4xa4qa69r4",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6256213/bedrijven-kunnen-vanaf-vandaag-tegemoetkoming-in-energiekosten-aanvragen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256212,
-    "slug": "tennislegende-martina-navratilova-is-na-succesvolle-behandeling-kankervrij",
-    "type": "article",
-    "title": "Tennislegende Martina Navrátilová is na succesvolle behandeling kankervrij",
-    "subtitle": null,
-    "published_at": "2023-03-21T07:36:34+01:00",
-    "updated_at": "2023-03-21T07:42:16+01:00",
-    "media_id": "k3mxgmla72f4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6256212/tennislegende-martina-navratilova-is-na-succesvolle-behandeling-kankervrij.html",
     "open_new_window": false,
     "partner": null
   }
