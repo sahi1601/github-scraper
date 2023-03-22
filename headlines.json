@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256480,
+    "slug": "japanse-maanlander-eerste-commerciele-ruimtevoertuig-ooit-in-baan-om-de-maan",
+    "type": "article",
+    "title": "Japanse maanlander eerste commerciële ruimtevoertuig ooit in baan om de maan",
+    "subtitle": null,
+    "published_at": "2023-03-22T22:13:49+01:00",
+    "updated_at": "2023-03-22T22:20:10+01:00",
+    "media_id": "8qdx6kaayn52",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779219,
+      "slug": "tech-wetenschap",
+      "type": "default",
+      "name": "Tech & Wetenschap",
+      "style": "nuoverig",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech-wetenschap/6256480/japanse-maanlander-eerste-commerciele-ruimtevoertuig-ooit-in-baan-om-de-maan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256482,
     "slug": "tientallen-boten-gaan-in-vlammen-op-in-seattle",
     "type": "video",
@@ -259,7 +282,7 @@
     "title": "Amerikanen verhogen rente tot hoogste niveau in 16 jaar ondanks bankenonrust",
     "subtitle": null,
     "published_at": "2023-03-22T19:23:35+01:00",
-    "updated_at": "2023-03-22T20:11:31+01:00",
+    "updated_at": "2023-03-22T22:15:17+01:00",
     "media_id": "e0yxzymai7sd",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Eindredacteur NU.nl: 'Zonde als lezers afhaken door moeilijke woorden'",
     "subtitle": null,
     "published_at": "2023-03-22T19:02:26+01:00",
-    "updated_at": "2023-03-22T20:37:53+01:00",
+    "updated_at": "2023-03-22T22:12:43+01:00",
     "media_id": "m1mxsmlaexmq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6256456/oscarwinnaar-aaron-sorkin-direct-gestopt-met-roken-na-beroerte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256442,
-    "slug": "evenepoel-vloert-roglic-in-bergrit-catalonie-maar-komt-net-tekort-voor-leiderstrui",
-    "type": "article",
-    "title": "Evenepoel vloert Roglic in bergrit Catalonië, maar komt net tekort voor leiderstrui",
-    "subtitle": null,
-    "published_at": "2023-03-22T17:14:01+01:00",
-    "updated_at": "2023-03-22T18:10:02+01:00",
-    "media_id": "naxxb14abyqh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6256442/evenepoel-vloert-roglic-in-bergrit-catalonie-maar-komt-net-tekort-voor-leiderstrui.html",
     "open_new_window": false,
     "partner": null
   }
