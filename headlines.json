@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256324,
+    "slug": "we-blijven-ons-vaak-ziek-melden-maar-nu-vanwege-griep",
+    "type": "article",
+    "title": "We blijven ons vaak ziek melden, maar nu vanwege griep",
+    "subtitle": null,
+    "published_at": "2023-03-22T05:30:45+01:00",
+    "updated_at": "2023-03-22T05:30:47+01:00",
+    "media_id": "6k5x7lyaoz52",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6256324/we-blijven-ons-vaak-ziek-melden-maar-nu-vanwege-griep.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256358,
     "slug": "weerbericht-geen-sprake-van-lenteweer-door-krachtige-wind-bewolking-en-regen",
     "type": "article",
@@ -282,7 +305,7 @@
     "title": "Don Quishocking-cabaretier en regisseur Fred Florusse (85) overleden",
     "subtitle": null,
     "published_at": "2023-03-21T22:12:09+01:00",
-    "updated_at": "2023-03-21T23:04:58+01:00",
+    "updated_at": "2023-03-22T05:31:07+01:00",
     "media_id": "xiuxicraysq7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6256326/cryptische-ibrahimovic-terug-bij-zweden-ik-ben-verleden-heden-en-toekomst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256340,
-    "slug": "oeganda-verbiedt-homo-en-transseksualiteit-zelfs-jezelf-zo-noemen-nu-strafbaar",
-    "type": "article",
-    "title": "Oeganda verbiedt homo- en transseksualiteit: zelfs jezelf zo noemen nu strafbaar",
-    "subtitle": null,
-    "published_at": "2023-03-21T20:20:51+01:00",
-    "updated_at": "2023-03-21T22:41:05+01:00",
-    "media_id": "d5fxzlqal1vs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6256340/oeganda-verbiedt-homo-en-transseksualiteit-zelfs-jezelf-zo-noemen-nu-strafbaar.html",
     "open_new_window": false,
     "partner": null
   }
