@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256485,
+    "slug": "fc-barcelona-sleept-journalisten-en-media-voor-de-rechter-in-omkopingszaak",
+    "type": "article",
+    "title": "FC Barcelona sleept journalisten en media voor de rechter in omkopingszaak",
+    "subtitle": null,
+    "published_at": "2023-03-22T22:28:28+01:00",
+    "updated_at": "2023-03-22T22:41:35+01:00",
+    "media_id": "8ohx1j1ajnb8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6256485/fc-barcelona-sleept-journalisten-en-media-voor-de-rechter-in-omkopingszaak.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256480,
     "slug": "japanse-maanlander-eerste-commerciele-ruimtevoertuig-ooit-in-baan-om-de-maan",
     "type": "article",
@@ -282,7 +305,7 @@
     "title": "Amerikanen verhogen rente tot hoogste niveau in 16 jaar ondanks bankenonrust",
     "subtitle": null,
     "published_at": "2023-03-22T19:23:35+01:00",
-    "updated_at": "2023-03-22T22:15:17+01:00",
+    "updated_at": "2023-03-22T22:33:39+01:00",
     "media_id": "e0yxzymai7sd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6256460/waarom-het-lang-duurt-om-de-dassenburcht-onder-het-spoor-weg-te-halen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256456,
-    "slug": "oscarwinnaar-aaron-sorkin-direct-gestopt-met-roken-na-beroerte",
-    "type": "article",
-    "title": "Oscarwinnaar Aaron Sorkin direct gestopt met roken na beroerte",
-    "subtitle": null,
-    "published_at": "2023-03-22T17:23:51+01:00",
-    "updated_at": "2023-03-22T17:57:48+01:00",
-    "media_id": "wltxyj4apqlm",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6256456/oscarwinnaar-aaron-sorkin-direct-gestopt-met-roken-na-beroerte.html",
     "open_new_window": false,
     "partner": null
   }
