@@ -1,12 +1,35 @@
 [
   {
-    "id": 6256406,
-    "slug": "man-opgepakt-voor-betrokkenheid-bij-ongeluk-op-a59-waarbij-gezin-omkwam",
+    "id": 6256405,
+    "slug": "coop-supermarkt-verdwijnt-steeds-verder-uit-het-straatbeeld",
     "type": "article",
-    "title": "Man opgepakt voor betrokkenheid bij ongeluk op A59 waarbij gezin omkwam",
+    "title": "Coop-supermarkt verdwijnt steeds verder uit het straatbeeld",
+    "subtitle": null,
+    "published_at": "2023-03-22T12:30:16+01:00",
+    "updated_at": "2023-03-22T12:30:18+01:00",
+    "media_id": "9smxe6maam1u",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6256405/coop-supermarkt-verdwijnt-steeds-verder-uit-het-straatbeeld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256406,
+    "slug": "bestuurder-onder-invloed-opgepakt-voor-zijn-rol-bij-ongeval-dat-gezin-fataal-werd",
+    "type": "article",
+    "title": "Bestuurder onder invloed opgepakt voor zijn rol bij ongeval dat gezin fataal werd",
     "subtitle": null,
     "published_at": "2023-03-22T12:14:07+01:00",
-    "updated_at": "2023-03-22T12:17:51+01:00",
+    "updated_at": "2023-03-22T12:36:30+01:00",
     "media_id": "a49x1tca2597",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6256406/man-opgepakt-voor-betrokkenheid-bij-ongeluk-op-a59-waarbij-gezin-omkwam.html",
+    "url": "/binnenland/6256406/bestuurder-onder-invloed-opgepakt-voor-zijn-rol-bij-ongeval-dat-gezin-fataal-werd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -93,12 +116,12 @@
   },
   {
     "id": 6256401,
-    "slug": "eerste-treinen-in-griekenland-rijden-weer-na-treinramp",
+    "slug": "drie-weken-na-dodelijke-treinramp-rijden-er-weer-treinen-in-griekenland",
     "type": "article",
-    "title": "Eerste treinen in Griekenland rijden weer na treinramp",
+    "title": "Drie weken na dodelijke treinramp rijden er weer treinen in Griekenland",
     "subtitle": null,
     "published_at": "2023-03-22T11:38:58+01:00",
-    "updated_at": "2023-03-22T11:39:01+01:00",
+    "updated_at": "2023-03-22T12:26:00+01:00",
     "media_id": "kkqx7ehabcs5",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6256401/eerste-treinen-in-griekenland-rijden-weer-na-treinramp.html",
+    "url": "/buitenland/6256401/drie-weken-na-dodelijke-treinramp-rijden-er-weer-treinen-in-griekenland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Van Zundert door naar vrije kür op WK kunstrijden, paarrijders schrijven historie",
     "subtitle": null,
     "published_at": "2023-03-22T11:23:44+01:00",
-    "updated_at": "2023-03-22T12:22:55+01:00",
+    "updated_at": "2023-03-22T12:29:41+01:00",
     "media_id": "4o9xfsaa64h4",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Stelling: De kinderbijslag moet omlaag",
     "subtitle": null,
     "published_at": "2023-03-22T07:16:00+01:00",
-    "updated_at": "2023-03-22T12:00:22+01:00",
+    "updated_at": "2023-03-22T12:43:56+01:00",
     "media_id": "2iaxibta20xv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6256364/honkballers-japan-kloppen-vs-en-winnen-world-baseball-classic-voor-derde-keer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256274,
-    "slug": "alex-klaasen-en-edwin-jonker-naast-jeangu-macrooy-in-jesus-christ-superstar",
-    "type": "article",
-    "title": "Alex Klaasen en Edwin Jonker naast Jeangu Macrooy in Jesus Christ Superstar",
-    "subtitle": null,
-    "published_at": "2023-03-22T07:06:49+01:00",
-    "updated_at": "2023-03-22T07:06:50+01:00",
-    "media_id": "axkx0g0awev6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6256274/alex-klaasen-en-edwin-jonker-naast-jeangu-macrooy-in-jesus-christ-superstar.html",
     "open_new_window": false,
     "partner": null
   }
