@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256478,
+    "slug": "knvb-staat-eet-en-drinkpauzes-toe-in-eredivisie-en-kkd-vanwege-ramadan",
+    "type": "article",
+    "title": "KNVB staat eet- en drinkpauzes toe in Eredivisie en KKD vanwege ramadan",
+    "subtitle": null,
+    "published_at": "2023-03-22T21:24:20+01:00",
+    "updated_at": "2023-03-22T21:36:59+01:00",
+    "media_id": "tl9xtjwawisq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6256478/knvb-staat-eet-en-drinkpauzes-toe-in-eredivisie-en-kkd-vanwege-ramadan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256477,
     "slug": "man-richt-ravage-aan-na-val-van-drie-etages-in-thais-winkelcentrum",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Dassen zijn slechte jagers maar de populatie in Nederland groeit gestaag",
     "subtitle": null,
     "published_at": "2023-03-22T20:33:10+01:00",
-    "updated_at": "2023-03-22T21:19:25+01:00",
+    "updated_at": "2023-03-22T21:33:29+01:00",
     "media_id": "meqxhg6a5unz",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Waarom het lang duurt om de dassenburcht onder het spoor weg te halen",
     "subtitle": "Video",
     "published_at": "2023-03-22T17:33:25+01:00",
-    "updated_at": "2023-03-22T20:08:53+01:00",
+    "updated_at": "2023-03-22T21:37:55+01:00",
     "media_id": "5oyxo63aciue",
     "duration": "2:30",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6256453/boris-johnson-blijft-erbij-heb-niet-tegen-parlement-gelogen-over-coronafeestjes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256451,
-    "slug": "ook-bij-veel-albert-heijn-filialen-kun-je-voortaan-gratis-water-tappen",
-    "type": "article",
-    "title": "Ook bij veel Albert Heijn-filialen kun je voortaan gratis water tappen",
-    "subtitle": null,
-    "published_at": "2023-03-22T17:04:27+01:00",
-    "updated_at": "2023-03-22T18:06:26+01:00",
-    "media_id": "789x3qlalnfo",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6256451/ook-bij-veel-albert-heijn-filialen-kun-je-voortaan-gratis-water-tappen.html",
     "open_new_window": false,
     "partner": null
   }
