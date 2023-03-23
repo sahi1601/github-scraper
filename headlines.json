@@ -1,12 +1,35 @@
 [
   {
+    "id": 6256612,
+    "slug": "vogelaars-trekken-naar-franeker-voor-zeldzame-alpengierzwaluw",
+    "type": "video",
+    "title": "Vogelaars trekken naar Franeker voor zeldzame alpengierzwaluw",
+    "subtitle": "Video",
+    "published_at": "2023-03-23T20:31:29+01:00",
+    "updated_at": "2023-03-23T20:31:30+01:00",
+    "media_id": "1n6xd3oavdcy",
+    "duration": "1:00",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6256612/vogelaars-trekken-naar-franeker-voor-zeldzame-alpengierzwaluw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256609,
     "slug": "mondiale-atletiekbond-verbiedt-deelname-transgenders-aan-vrouwenwedstrijden",
     "type": "article",
     "title": "Mondiale atletiekbond verbiedt deelname transgenders aan vrouwenwedstrijden",
     "subtitle": null,
     "published_at": "2023-03-23T20:16:26+01:00",
-    "updated_at": "2023-03-23T20:16:52+01:00",
+    "updated_at": "2023-03-23T20:37:30+01:00",
     "media_id": "qfkxv8xaf298",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Finse ondernemer biedt op Manchester United en wil fans ook bij plan betrekken",
     "subtitle": null,
     "published_at": "2023-03-23T19:50:54+01:00",
-    "updated_at": "2023-03-23T19:50:55+01:00",
+    "updated_at": "2023-03-23T20:39:37+01:00",
     "media_id": "t3qxx2faob6b",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6256590/groves-klopt-schelling-bij-massasprint-in-catalonie-roglic-behoudt-leiding.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256575,
-    "slug": "acda-en-de-munnik-na-acht-jaar-weer-bij-elkaar-bezig-met-nieuwe-muziek",
-    "type": "article",
-    "title": "Acda en De Munnik na acht jaar weer bij elkaar, bezig met nieuwe muziek",
-    "subtitle": null,
-    "published_at": "2023-03-23T17:13:20+01:00",
-    "updated_at": "2023-03-23T17:13:36+01:00",
-    "media_id": "cj1xuhgayawy",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6256575/acda-en-de-munnik-na-acht-jaar-weer-bij-elkaar-bezig-met-nieuwe-muziek.html",
     "open_new_window": false,
     "partner": null
   }
