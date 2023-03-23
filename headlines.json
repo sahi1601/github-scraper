@@ -1,5 +1,51 @@
 [
   {
+    "id": 6256527,
+    "slug": "eerste-zorgmedewerker-wint-rechtszaak-om-financiele-gevolgen-door-corona",
+    "type": "article",
+    "title": "Eerste zorgmedewerker wint rechtszaak om financiële gevolgen door corona",
+    "subtitle": null,
+    "published_at": "2023-03-23T11:10:44+01:00",
+    "updated_at": "2023-03-23T11:10:45+01:00",
+    "media_id": "tikxqkhao8gb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6256527/eerste-zorgmedewerker-wint-rechtszaak-om-financiele-gevolgen-door-corona.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256524,
+    "slug": "fc-emmen-maakt-seizoen-gewoon-af-met-vertrekkende-trainer-lukkien",
+    "type": "article",
+    "title": "FC Emmen maakt seizoen gewoon af met vertrekkende trainer Lukkien",
+    "subtitle": null,
+    "published_at": "2023-03-23T10:51:15+01:00",
+    "updated_at": "2023-03-23T10:51:17+01:00",
+    "media_id": "v1oxydbavhyv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6256524/fc-emmen-maakt-seizoen-gewoon-af-met-vertrekkende-trainer-lukkien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256521,
     "slug": "tiktok-is-volgens-topman-geen-spion-van-de-chinese-overheid",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Fransman raast met 255,5 kilometer per uur van piste en breekt record",
     "subtitle": "Video",
     "published_at": "2023-03-23T10:26:06+01:00",
-    "updated_at": "2023-03-23T10:26:07+01:00",
+    "updated_at": "2023-03-23T10:45:00+01:00",
     "media_id": "hzsxpqia3ba7",
     "duration": "0:45",
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Virus teistert Oranje: De Ligt, Gakpo, Botman, Veerman en Verbruggen naar huis",
     "subtitle": null,
     "published_at": "2023-03-23T10:08:43+01:00",
-    "updated_at": "2023-03-23T10:41:58+01:00",
+    "updated_at": "2023-03-23T11:08:39+01:00",
     "media_id": "laixqz5axhwy",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Expertisecentrum verleende 11 procent meer euthanasie dan jaar eerder",
     "subtitle": null,
     "published_at": "2023-03-23T07:31:47+01:00",
-    "updated_at": "2023-03-23T07:53:18+01:00",
+    "updated_at": "2023-03-23T11:12:02+01:00",
     "media_id": "eosxm3tay9wp",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6256492/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6255422,
-    "slug": "nieuw-belgie-en-de-zaak-ronaldo-zo-gaan-toplanden-ek-kwalificatie-in",
-    "type": "article",
-    "title": "'Nieuw' België en de zaak-Ronaldo: zo gaan toplanden EK-kwalificatie in",
-    "subtitle": "NU+",
-    "published_at": "2023-03-23T05:11:06+01:00",
-    "updated_at": "2023-03-23T06:35:37+01:00",
-    "media_id": "b8kxyzwaatn4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6255422/nieuw-belgie-en-de-zaak-ronaldo-zo-gaan-toplanden-ek-kwalificatie-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256258,
-    "slug": "ondernemers-stoppen-vanwege-regeldruk-en-schulden-steeds-vaker-uit-zichzelf",
-    "type": "article",
-    "title": "Ondernemers stoppen vanwege regeldruk en schulden steeds vaker uit zichzelf",
-    "subtitle": null,
-    "published_at": "2023-03-23T05:10:25+01:00",
-    "updated_at": "2023-03-23T05:10:26+01:00",
-    "media_id": "bp8x0mnayy1q",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6256258/ondernemers-stoppen-vanwege-regeldruk-en-schulden-steeds-vaker-uit-zichzelf.html",
     "open_new_window": false,
     "partner": null
   }
