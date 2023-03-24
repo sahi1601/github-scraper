@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256758,
+    "slug": "roglic-houdt-de-macht-in-catalonie-door-evenepoel-te-verslaan-op-loodzware-klim",
+    "type": "article",
+    "title": "Roglic houdt de macht in Catalonië door Evenepoel te verslaan op loodzware klim",
+    "subtitle": null,
+    "published_at": "2023-03-24T17:20:31+01:00",
+    "updated_at": "2023-03-24T17:32:32+01:00",
+    "media_id": "anoxahyaw3p7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6256758/roglic-houdt-de-macht-in-catalonie-door-evenepoel-te-verslaan-op-loodzware-klim.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256764,
     "slug": "netflix-maakt-vijfde-en-laatste-seizoen-van-dramaserie-you",
     "type": "article",
@@ -70,13 +93,13 @@
   },
   {
     "id": 6256766,
-    "slug": "van-aert-klopt-van-der-poel-en-pogacar-in-prachtige-titanenstrijd-e3-prijs",
+    "slug": "van-aert-klopt-van-der-poel-en-pogacar-in-prachtige-titanenstrijd-in-e3-prijs",
     "type": "article",
-    "title": "Van Aert klopt Van der Poel en Pogacar in prachtige titanenstrijd E3 Prijs",
+    "title": "Van Aert klopt Van der Poel en Pogacar in prachtige titanenstrijd in E3 Prijs",
     "subtitle": null,
     "published_at": "2023-03-24T17:10:59+01:00",
-    "updated_at": "2023-03-24T17:11:04+01:00",
-    "media_id": "dtdxcmzak9fl",
+    "updated_at": "2023-03-24T17:33:16+01:00",
+    "media_id": "xrbxk14agebh",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6256766/van-aert-klopt-van-der-poel-en-pogacar-in-prachtige-titanenstrijd-e3-prijs.html",
+    "url": "/wielrennen/6256766/van-aert-klopt-van-der-poel-en-pogacar-in-prachtige-titanenstrijd-in-e3-prijs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6256722/grote-asteroide-scheert-zaterdag-zichtbaar-langs-de-aarde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256720,
-    "slug": "zorgen-op-europese-beurzen-over-stabiliteit-bankensector-blijven-groot",
-    "type": "article",
-    "title": "Zorgen op Europese beurzen over stabiliteit bankensector blijven groot",
-    "subtitle": null,
-    "published_at": "2023-03-24T13:26:00+01:00",
-    "updated_at": "2023-03-24T13:26:02+01:00",
-    "media_id": "94xxnjpaaem9",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6256720/zorgen-op-europese-beurzen-over-stabiliteit-bankensector-blijven-groot.html",
     "open_new_window": false,
     "partner": null
   }
