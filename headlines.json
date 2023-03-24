@@ -1,12 +1,35 @@
 [
   {
+    "id": 6256781,
+    "slug": "oranje-start-met-debutant-geertruida-tegen-frankrijk-ook-taylor-in-basis",
+    "type": "article",
+    "title": "Oranje start met debutant Geertruida tegen Frankrijk, ook Taylor in basis",
+    "subtitle": null,
+    "published_at": "2023-03-24T19:21:22+01:00",
+    "updated_at": "2023-03-24T19:25:37+01:00",
+    "media_id": "zmpxk5maknyf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6256781/oranje-start-met-debutant-geertruida-tegen-frankrijk-ook-taylor-in-basis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256782,
     "slug": "mensenrechtenorganisaties-kritisch-over-handelen-franse-politie-bij-protesten",
     "type": "article",
     "title": "Mensenrechtenorganisaties kritisch over handelen Franse politie bij protesten",
     "subtitle": null,
     "published_at": "2023-03-24T19:14:08+01:00",
-    "updated_at": "2023-03-24T19:14:09+01:00",
+    "updated_at": "2023-03-24T19:23:02+01:00",
     "media_id": "tlexvh4auhi9",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Sanne Wevers verbaast zichzelf bij rentree: 'Ik heb nog iets om voor te strijden'",
     "subtitle": null,
     "published_at": "2023-03-24T19:10:03+01:00",
-    "updated_at": "2023-03-24T19:13:59+01:00",
+    "updated_at": "2023-03-24T19:19:17+01:00",
     "media_id": "unmx75pa87lw",
     "duration": null,
     "canonical_section": {
@@ -75,8 +98,8 @@
     "title": "Britse politie komt duizenden cybercriminelen op het spoor via loksites",
     "subtitle": null,
     "published_at": "2023-03-24T18:58:14+01:00",
-    "updated_at": "2023-03-24T18:58:15+01:00",
-    "media_id": "o1lx7z3affvw",
+    "updated_at": "2023-03-24T19:20:12+01:00",
+    "media_id": "gwcxe6eae1gl",
     "duration": null,
     "canonical_section": {
       "id": 1771438,
@@ -116,12 +139,12 @@
   },
   {
     "id": 6256777,
-    "slug": "hoogste-rechtbank-ziet-geen-reden-om-minister-te-vervolgen-na-aangifte-moskeeen",
+    "slug": "hoogste-rechtbank-ziet-geen-reden-minister-te-vervolgen-na-aangifte-moskeeen",
     "type": "article",
-    "title": "Hoogste rechtbank ziet geen reden om minister te vervolgen na aangifte moskeeën",
+    "title": "Hoogste rechtbank ziet geen reden minister te vervolgen na aangifte moskeeën",
     "subtitle": null,
     "published_at": "2023-03-24T18:42:36+01:00",
-    "updated_at": "2023-03-24T19:14:25+01:00",
+    "updated_at": "2023-03-24T19:24:55+01:00",
     "media_id": "42uxwtuayxu9",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6256777/hoogste-rechtbank-ziet-geen-reden-om-minister-te-vervolgen-na-aangifte-moskeeen.html",
+    "url": "/binnenland/6256777/hoogste-rechtbank-ziet-geen-reden-minister-te-vervolgen-na-aangifte-moskeeen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Van Aert klopt Van der Poel en Pogacar in prachtige titanenstrijd in E3",
     "subtitle": null,
     "published_at": "2023-03-24T17:10:59+01:00",
-    "updated_at": "2023-03-24T18:56:08+01:00",
+    "updated_at": "2023-03-24T19:29:13+01:00",
     "media_id": "xrbxk14agebh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6256753/vrachtwagen-gekanteld-na-botsing-met-vijf-bomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256743,
-    "slug": "advocaat-verdachte-haalt-uit-naar-vvder-ellian-na-uitspraken-over-zaak-de-vries",
-    "type": "article",
-    "title": "Advocaat verdachte haalt uit naar VVD'er Ellian na uitspraken over zaak-De Vries",
-    "subtitle": null,
-    "published_at": "2023-03-24T15:54:34+01:00",
-    "updated_at": "2023-03-24T15:54:35+01:00",
-    "media_id": "yz0x6ywadvum",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778818,
-      "slug": "peter-r-de-vries",
-      "type": "default",
-      "name": "Peter R. de Vries",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/peter-r-de-vries/6256743/advocaat-verdachte-haalt-uit-naar-vvder-ellian-na-uitspraken-over-zaak-de-vries.html",
     "open_new_window": false,
     "partner": null
   }
