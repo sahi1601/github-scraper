@@ -1,12 +1,58 @@
 [
   {
+    "id": 6256654,
+    "slug": "twitter-verwijdert-volgende-week-oude-blauwe-vinkjes",
+    "type": "article",
+    "title": "Twitter verwijdert volgende week oude blauwe vinkjes",
+    "subtitle": null,
+    "published_at": "2023-03-24T09:36:56+01:00",
+    "updated_at": "2023-03-24T09:36:59+01:00",
+    "media_id": "7vpxsxmat52p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6256654/twitter-verwijdert-volgende-week-oude-blauwe-vinkjes.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6256651,
+    "slug": "wietze-de-jager-en-vrouw-lieke-krijgen-vierde-kind",
+    "type": "article",
+    "title": "Wietze de Jager en vrouw Lieke krijgen vierde kind",
+    "subtitle": null,
+    "published_at": "2023-03-24T09:32:02+01:00",
+    "updated_at": "2023-03-24T09:40:59+01:00",
+    "media_id": "6wsxbvwail1n",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6256651/wietze-de-jager-en-vrouw-lieke-krijgen-vierde-kind.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256652,
     "slug": "fc-twente-voorkomt-transfervrij-vertrek-van-wolfswinkel-cerny-en-hilgers",
     "type": "article",
     "title": "FC Twente voorkomt transfervrij vertrek Van Wolfswinkel, Cerny en Hilgers",
     "subtitle": null,
     "published_at": "2023-03-24T09:27:21+01:00",
-    "updated_at": "2023-03-24T09:27:22+01:00",
+    "updated_at": "2023-03-24T09:30:05+01:00",
     "media_id": "ogex15ya72qb",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Dassenburcht Brabant mag worden verwijderd, eind volgende week weer treinen",
     "subtitle": null,
     "published_at": "2023-03-24T05:38:35+01:00",
-    "updated_at": "2023-03-24T06:50:32+01:00",
+    "updated_at": "2023-03-24T09:29:19+01:00",
     "media_id": "vg4xtawa02cf",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6256542/bestuurschaos-en-boze-sterren-het-rommelt-bij-oranjeopponent-frankrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256292,
-    "slug": "winnende-kunstenaars-houden-dubbel-gevoel-over-aan-de-nieuwe-vermeer",
-    "type": "article",
-    "title": "Winnende kunstenaars houden dubbel gevoel over aan De Nieuwe Vermeer",
-    "subtitle": null,
-    "published_at": "2023-03-24T05:07:12+01:00",
-    "updated_at": "2023-03-24T09:00:46+01:00",
-    "media_id": "hs2x9alawkt9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6256292/winnende-kunstenaars-houden-dubbel-gevoel-over-aan-de-nieuwe-vermeer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256552,
-    "slug": "shell-bp-en-dow-hebben-een-veel-grotere-impact-op-het-klimaat-dan-concurrenten",
-    "type": "article",
-    "title": "Shell, BP en Dow hebben een veel grotere impact op het klimaat dan concurrenten",
-    "subtitle": null,
-    "published_at": "2023-03-24T05:06:17+01:00",
-    "updated_at": "2023-03-24T08:16:13+01:00",
-    "media_id": "lyvxzu4atfbv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6256552/shell-bp-en-dow-hebben-een-veel-grotere-impact-op-het-klimaat-dan-concurrenten.html",
     "open_new_window": false,
     "partner": null
   }
