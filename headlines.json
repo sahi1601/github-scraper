@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256815,
+    "slug": "cillessen-beleeft-pijnlijke-rentree-in-oranje-had-me-er-veel-van-voorgesteld",
+    "type": "article",
+    "title": "Cillessen beleeft pijnlijke rentree in Oranje: 'Had me er veel van voorgesteld'",
+    "subtitle": null,
+    "published_at": "2023-03-25T08:27:20+01:00",
+    "updated_at": "2023-03-25T08:27:21+01:00",
+    "media_id": "l1sxrayau77o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6256815/cillessen-beleeft-pijnlijke-rentree-in-oranje-had-me-er-veel-van-voorgesteld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256816,
     "slug": "politie-neemt-auto-in-beslag-na-dodelijk-ongeval-met-vrouw-en-hond",
     "type": "video",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6256814,
-    "slug": "om-concludeert-natuurlijk-overlijden-ex-mivder",
+    "slug": "om-concludeert-ook-dat-oud-mivder-een-natuurlijke-dood-stierf",
     "type": "article",
-    "title": "OM concludeert natuurlijk overlijden ex-MIVD’er",
+    "title": "OM concludeert ook dat oud-MIVD'er een natuurlijke dood stierf",
     "subtitle": null,
     "published_at": "2023-03-25T08:05:28+01:00",
-    "updated_at": "2023-03-25T08:16:03+01:00",
+    "updated_at": "2023-03-25T08:36:06+01:00",
     "media_id": "1wbxbmra978s",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6256814/om-concludeert-natuurlijk-overlijden-ex-mivder.html",
+    "url": "/binnenland/6256814/om-concludeert-ook-dat-oud-mivder-een-natuurlijke-dood-stierf.html",
     "open_new_window": false,
     "partner": null
   },
@@ -162,12 +185,12 @@
   },
   {
     "id": 6256810,
-    "slug": "medeoprichter-van-intel-gordon-moore-94-overleden",
+    "slug": "intel-oprichter-gordon-moore-94-die-wet-van-moore-bedacht-overleden",
     "type": "article",
-    "title": "Medeoprichter van Intel Gordon Moore (94) overleden",
+    "title": "Intel-oprichter Gordon Moore (94) die 'wet van Moore' bedacht overleden",
     "subtitle": null,
     "published_at": "2023-03-25T05:55:41+01:00",
-    "updated_at": "2023-03-25T07:31:00+01:00",
+    "updated_at": "2023-03-25T08:38:35+01:00",
     "media_id": "u5pxfnca8xgq",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6256810/medeoprichter-van-intel-gordon-moore-94-overleden.html",
+    "url": "/buitenland/6256810/intel-oprichter-gordon-moore-94-die-wet-van-moore-bedacht-overleden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6256797/van-de-zandschulp-komt-met-schrik-vrij-en-bereikt-derde-ronde-in-miami.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256794,
-    "slug": "oranje-begint-tweede-tijdperk-koeman-met-kansloos-verlies-tegen-frankrijk",
-    "type": "article",
-    "title": "Oranje begint tweede tijdperk Koeman met kansloos verlies tegen Frankrijk",
-    "subtitle": null,
-    "published_at": "2023-03-24T22:40:04+01:00",
-    "updated_at": "2023-03-25T07:39:48+01:00",
-    "media_id": "nr5xx6parcum",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6256794/oranje-begint-tweede-tijdperk-koeman-met-kansloos-verlies-tegen-frankrijk.html",
     "open_new_window": false,
     "partner": null
   }
