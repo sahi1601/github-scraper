@@ -1,12 +1,35 @@
 [
   {
+    "id": 6256816,
+    "slug": "politie-neemt-auto-in-beslag-na-dodelijk-ongeval-met-vrouw-en-hond",
+    "type": "video",
+    "title": "Politie neemt auto in beslag na dodelijk ongeval met vrouw en hond",
+    "subtitle": "Video",
+    "published_at": "2023-03-25T08:12:07+01:00",
+    "updated_at": "2023-03-25T08:12:08+01:00",
+    "media_id": "n19x254ahi5z",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6256816/politie-neemt-auto-in-beslag-na-dodelijk-ongeval-met-vrouw-en-hond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256814,
     "slug": "om-concludeert-natuurlijk-overlijden-ex-mivder",
     "type": "article",
     "title": "OM concludeert natuurlijk overlijden ex-MIVD’er",
     "subtitle": null,
     "published_at": "2023-03-25T08:05:28+01:00",
-    "updated_at": "2023-03-25T08:05:30+01:00",
+    "updated_at": "2023-03-25T08:16:03+01:00",
     "media_id": "1wbxbmra978s",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Vrouw en hond doodgereden in IJmuiden, drie personen aangehouden",
     "subtitle": null,
     "published_at": "2023-03-25T06:59:43+01:00",
-    "updated_at": "2023-03-25T08:04:45+01:00",
+    "updated_at": "2023-03-25T08:12:53+01:00",
     "media_id": "dmdxqiha3w30",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6256811,
-    "slug": "geen-celstraf-voor-man-die-meer-dan-duizend-manuscripten-stal",
+    "slug": "geen-celstraf-voor-italiaan-die-meer-dan-duizend-manuscripten-stal",
     "type": "article",
-    "title": "Geen celstraf voor man die meer dan duizend manuscripten stal",
+    "title": "Geen celstraf voor Italiaan die meer dan duizend manuscripten stal",
     "subtitle": null,
     "published_at": "2023-03-25T06:45:35+01:00",
-    "updated_at": "2023-03-25T06:45:36+01:00",
+    "updated_at": "2023-03-25T08:11:52+01:00",
     "media_id": "t0yx0p7axq1k",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/cultuur-overig/6256811/geen-celstraf-voor-man-die-meer-dan-duizend-manuscripten-stal.html",
+    "url": "/cultuur-overig/6256811/geen-celstraf-voor-italiaan-die-meer-dan-duizend-manuscripten-stal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Weerbericht: Code geel in kustprovincies en Zuid-Limburg vanwege windstoten",
     "subtitle": null,
     "published_at": "2023-03-25T05:37:40+01:00",
-    "updated_at": "2023-03-25T07:52:34+01:00",
+    "updated_at": "2023-03-25T08:16:09+01:00",
     "media_id": "lc1xjv3al7qk",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6256794/oranje-begint-tweede-tijdperk-koeman-met-kansloos-verlies-tegen-frankrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256799,
-    "slug": "tadic-gidst-servie-naar-zege-psver-bakayoko-geeft-assist-bij-debuut-voor-belgie",
-    "type": "article",
-    "title": "Tadic gidst Servië naar zege, PSV'er Bakayoko geeft assist bij debuut voor België",
-    "subtitle": null,
-    "published_at": "2023-03-24T22:39:20+01:00",
-    "updated_at": "2023-03-24T23:42:28+01:00",
-    "media_id": "zywxda1aelll",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6256799/tadic-gidst-servie-naar-zege-psver-bakayoko-geeft-assist-bij-debuut-voor-belgie.html",
     "open_new_window": false,
     "partner": null
   }
