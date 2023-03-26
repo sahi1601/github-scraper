@@ -1,5 +1,28 @@
 [
   {
+    "id": 6256951,
+    "slug": "dit-is-het-moment-dat-theo-maassen-een-peuter-de-zaal-uitzet",
+    "type": "video",
+    "title": "Dit is het moment dat Theo Maassen een peuter de zaal uitzet",
+    "subtitle": "Video",
+    "published_at": "2023-03-26T21:47:15+02:00",
+    "updated_at": "2023-03-26T21:56:22+02:00",
+    "media_id": "4blxwklaz6vu",
+    "duration": "1:47",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6256951/dit-is-het-moment-dat-theo-maassen-een-peuter-de-zaal-uitzet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6256949,
     "slug": "vloeistoflek-in-zuid-engelse-haven-poole-harbour-door-kapotte-pijpleiding",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Van Gerwen gaat voor tweede keer in vier dagen ten onder tegen Price",
     "subtitle": null,
     "published_at": "2023-03-26T20:05:36+02:00",
-    "updated_at": "2023-03-26T21:41:56+02:00",
+    "updated_at": "2023-03-26T22:06:06+02:00",
     "media_id": "afbxj96a89mg",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Vier Nederlanders omgekomen bij ongeluk met Porsches vlak over Duitse grens",
     "subtitle": null,
     "published_at": "2023-03-26T17:42:13+02:00",
-    "updated_at": "2023-03-26T19:39:32+02:00",
+    "updated_at": "2023-03-26T21:47:05+02:00",
     "media_id": "oz8xa01ajwo8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6256925/bagnaia-troeft-vinales-af-en-wint-in-portugal-eerste-race-van-motogp-seizoen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256923,
-    "slug": "koeman-wil-veel-goals-zien-tegen-gibraltar-en-denkt-aan-weghorst",
-    "type": "article",
-    "title": "Koeman wil veel goals zien tegen Gibraltar en denkt aan Weghorst",
-    "subtitle": null,
-    "published_at": "2023-03-26T15:42:34+02:00",
-    "updated_at": "2023-03-26T15:53:20+02:00",
-    "media_id": "u6uxsayaptxp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6256923/koeman-wil-veel-goals-zien-tegen-gibraltar-en-denkt-aan-weghorst.html",
     "open_new_window": false,
     "partner": null
   }
