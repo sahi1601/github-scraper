@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257030,
+    "slug": "jullie-vragen-over-de-ramadan-vasten-draait-om-de-toewijding-aan-god",
+    "type": "article",
+    "title": "Jullie vragen over de ramadan: 'Vasten draait om de toewijding aan God'",
+    "subtitle": null,
+    "published_at": "2023-03-27T18:00:17+02:00",
+    "updated_at": "2023-03-27T18:00:19+02:00",
+    "media_id": "shzx95davie9",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6257030/jullie-vragen-over-de-ramadan-vasten-draait-om-de-toewijding-aan-god.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257052,
     "slug": "originele-documentaire-over-kees-momma-blijft-bij-npo-videoland-teleurgesteld",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Personeel streekvervoer staakt deze week toch niet, gesprekken gaan door",
     "subtitle": null,
     "published_at": "2023-03-27T17:08:49+02:00",
-    "updated_at": "2023-03-27T17:36:53+02:00",
+    "updated_at": "2023-03-27T17:44:54+02:00",
     "media_id": "fm6xq45a2y2e",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Vanaf vandaag statiegeld op blikjes: 'Platdrukken kost je nu geld'",
     "subtitle": "Explainer",
     "published_at": "2023-03-27T16:28:45+02:00",
-    "updated_at": "2023-03-27T16:31:48+02:00",
+    "updated_at": "2023-03-27T18:00:00+02:00",
     "media_id": "9q6xlnqakvew",
     "duration": "1:36",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6257017/meer-vrouwen-verkozen-in-provinciale-staten-maar-nergens-een-meerderheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6256983,
-    "slug": "meeste-slachtoffers-the-voice-schandaal-hoorden-nooit-iets-van-rtl-en-itv",
-    "type": "article",
-    "title": "Meeste slachtoffers The Voice-schandaal hoorden nooit iets van RTL en ITV",
-    "subtitle": null,
-    "published_at": "2023-03-27T14:34:23+02:00",
-    "updated_at": "2023-03-27T17:31:13+02:00",
-    "media_id": "s26xw0aagz1m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778960,
-      "slug": "the-voice",
-      "type": "default",
-      "name": "The Voice",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/the-voice/6256983/meeste-slachtoffers-the-voice-schandaal-hoorden-nooit-iets-van-rtl-en-itv.html",
     "open_new_window": false,
     "partner": null
   }
