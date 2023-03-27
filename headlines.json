@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257086,
+    "slug": "koeman-had-meer-verwacht-van-oranjeweek-het-is-me-niet-meegevallen",
+    "type": "article",
+    "title": "Koeman had meer verwacht van Oranjeweek: 'Het is me niet meegevallen'",
+    "subtitle": null,
+    "published_at": "2023-03-27T23:29:09+02:00",
+    "updated_at": "2023-03-27T23:32:13+02:00",
+    "media_id": "r0jxz2ta14qx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6257086/koeman-had-meer-verwacht-van-oranjeweek-het-is-me-niet-meegevallen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257085,
     "slug": "ggd-ruim-de-helft-van-jongvolwassenen-had-afgelopen-jaar-mentale-klachten",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Oranje kan met zuinige overwinning op Gibraltar opnieuw niet overtuigen",
     "subtitle": null,
     "published_at": "2023-03-27T22:40:57+02:00",
-    "updated_at": "2023-03-27T23:05:13+02:00",
+    "updated_at": "2023-03-27T23:35:45+02:00",
     "media_id": "vxnxnq8adymq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6257063/oranje-begint-met-debutant-wieffer-weghorst-en-de-ligt-tegen-gibraltar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257057,
-    "slug": "netanyahu-stelt-debat-over-omstreden-juridische-hervormingen-israel-toch-uit",
-    "type": "article",
-    "title": "Netanyahu stelt debat over omstreden juridische hervormingen Israël toch uit",
-    "subtitle": null,
-    "published_at": "2023-03-27T19:20:54+02:00",
-    "updated_at": "2023-03-27T19:35:11+02:00",
-    "media_id": "qfzxl7uabaer",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6257057/netanyahu-stelt-debat-over-omstreden-juridische-hervormingen-israel-toch-uit.html",
     "open_new_window": false,
     "partner": null
   }
