@@ -1,12 +1,35 @@
 [
   {
+    "id": 6257057,
+    "slug": "netanyahu-stelt-debat-over-omstreden-juridische-hervormingen-israel-toch-uit",
+    "type": "article",
+    "title": "Netanyahu stelt debat over omstreden juridische hervormingen Israël toch uit",
+    "subtitle": null,
+    "published_at": "2023-03-27T19:20:54+02:00",
+    "updated_at": "2023-03-27T19:26:37+02:00",
+    "media_id": "qfzxl7uabaer",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6257057/netanyahu-stelt-debat-over-omstreden-juridische-hervormingen-israel-toch-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257062,
     "slug": "weg-finland-tot-de-navo-ligt-open-na-hongaarse-ja-zweden-moet-nog-wachten",
     "type": "article",
     "title": "Weg Finland tot de NAVO ligt open na Hongaarse 'ja', Zweden moet nog wachten",
     "subtitle": null,
     "published_at": "2023-03-27T19:07:09+02:00",
-    "updated_at": "2023-03-27T19:07:10+02:00",
+    "updated_at": "2023-03-27T19:18:02+02:00",
     "media_id": "9oxxt5vaihf1",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Supermarkten zijn er klaar voor: vanaf vandaag krijg je ook statiegeld op blikjes",
     "subtitle": null,
     "published_at": "2023-03-27T15:47:05+02:00",
-    "updated_at": "2023-03-27T16:27:13+02:00",
+    "updated_at": "2023-03-27T19:21:16+02:00",
     "media_id": "ytrxqaoaib6e",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6257027/supermarkten-zijn-er-klaar-voor-vanaf-vandaag-krijg-je-ook-statiegeld-op-blikjes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257026,
-    "slug": "childish-gambino-wint-rechtszaak-over-vermeend-plagiaat",
-    "type": "article",
-    "title": "Childish Gambino wint rechtszaak over vermeend plagiaat",
-    "subtitle": null,
-    "published_at": "2023-03-27T15:34:36+02:00",
-    "updated_at": "2023-03-27T15:34:38+02:00",
-    "media_id": "cy5xaltasif6",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6257026/childish-gambino-wint-rechtszaak-over-vermeend-plagiaat.html",
     "open_new_window": false,
     "partner": null
   }
