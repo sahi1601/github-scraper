@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257039,
+    "slug": "staatssecretaris-uslu-in-gesprek-met-omroep-na-klachten-over-schilderprogramma",
+    "type": "article",
+    "title": "Staatssecretaris Uslu in gesprek met omroep na klachten over schilderprogramma",
+    "subtitle": null,
+    "published_at": "2023-03-27T16:38:59+02:00",
+    "updated_at": "2023-03-27T16:39:00+02:00",
+    "media_id": "sr2xahdaivqt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6257039/staatssecretaris-uslu-in-gesprek-met-omroep-na-klachten-over-schilderprogramma.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257037,
     "slug": "chelsea-lijdt-140-miljoen-euro-verlies-vanwege-sancties-tegen-abramovich",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Wim de Bie: Inventief, tijdloos en onweerstaanbaar grappig",
     "subtitle": "NU+",
     "published_at": "2023-03-27T16:28:29+02:00",
-    "updated_at": "2023-03-27T16:34:50+02:00",
+    "updated_at": "2023-03-27T16:39:22+02:00",
     "media_id": "adfx7c7aro1v",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6257034,
-    "slug": "jong-oranje-geeft-oefenzege-in-slotfase-weg-tegen-jong-tsjechie",
+    "slug": "jong-oranje-grijpt-in-slotfase-naast-oefenzege-op-jong-tsjechie",
     "type": "article",
-    "title": "Jong Oranje geeft oefenzege in slotfase weg tegen Jong Tsjechië",
+    "title": "Jong Oranje grijpt in slotfase naast oefenzege op Jong Tsjechië",
     "subtitle": null,
     "published_at": "2023-03-27T15:59:20+02:00",
-    "updated_at": "2023-03-27T15:59:21+02:00",
+    "updated_at": "2023-03-27T16:39:06+02:00",
     "media_id": "smtx3zga7veg",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6257034/jong-oranje-geeft-oefenzege-in-slotfase-weg-tegen-jong-tsjechie.html",
+    "url": "/voetbal/6257034/jong-oranje-grijpt-in-slotfase-naast-oefenzege-op-jong-tsjechie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Humza Yousaf volgt Nicola Sturgeon op als Schotse premier",
     "subtitle": null,
     "published_at": "2023-03-27T15:34:34+02:00",
-    "updated_at": "2023-03-27T16:01:48+02:00",
+    "updated_at": "2023-03-27T16:39:36+02:00",
     "media_id": "qxuxms9at0e1",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Edwin Spee, weduwnaar van Bibian Mentel, gaat trouwen met zijn vriendin",
     "subtitle": null,
     "published_at": "2023-03-27T14:10:55+02:00",
-    "updated_at": "2023-03-27T14:15:16+02:00",
+    "updated_at": "2023-03-27T16:38:44+02:00",
     "media_id": "z84xnqzasn12",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6257005/aandacht-voor-overleden-wim-de-bie-in-herhaling-op-vpro-en-in-de-taalstaat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257011,
-    "slug": "voetbalwereld-rouwt-om-overlijden-thijs-slegers-een-voorbeeld-voor-velen",
-    "type": "article",
-    "title": "Voetbalwereld rouwt om overlijden Thijs Slegers: 'Een voorbeeld voor velen'",
-    "subtitle": null,
-    "published_at": "2023-03-27T13:44:44+02:00",
-    "updated_at": "2023-03-27T15:09:53+02:00",
-    "media_id": "pdrxbsea2dab",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6257011/voetbalwereld-rouwt-om-overlijden-thijs-slegers-een-voorbeeld-voor-velen.html",
     "open_new_window": false,
     "partner": null
   }
