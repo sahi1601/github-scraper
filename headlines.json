@@ -1,12 +1,35 @@
 [
   {
-    "id": 6257144,
-    "slug": "wieffer-genoot-bij-oranje-zat-ineens-met-jongens-die-ik-alleen-kende-van-tv",
+    "id": 6257162,
+    "slug": "feyenoord-moet-geertruida-door-hamstringblessure-wekenlang-missen-in-titelrace",
     "type": "article",
-    "title": "Wieffer genoot bij Oranje: 'Zat ineens met jongens die ik alleen kende van tv'",
+    "title": "Feyenoord moet Geertruida door hamstringblessure wekenlang missen in titelrace",
+    "subtitle": null,
+    "published_at": "2023-03-28T13:28:35+02:00",
+    "updated_at": "2023-03-28T13:38:18+02:00",
+    "media_id": "7r2xthya5lu4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6257162/feyenoord-moet-geertruida-door-hamstringblessure-wekenlang-missen-in-titelrace.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257144,
+    "slug": "wieffer-debuteert-voor-oranje-na-bizar-jaar-kende-de-jongens-alleen-van-tv",
+    "type": "article",
+    "title": "Wieffer debuteert voor Oranje na bizar jaar: 'Kende de jongens alleen van tv'",
     "subtitle": null,
     "published_at": "2023-03-28T13:19:49+02:00",
-    "updated_at": "2023-03-28T13:23:20+02:00",
+    "updated_at": "2023-03-28T13:29:25+02:00",
     "media_id": "cyexasqan8r4",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6257144/wieffer-genoot-bij-oranje-zat-ineens-met-jongens-die-ik-alleen-kende-van-tv.html",
+    "url": "/voetbal/6257144/wieffer-debuteert-voor-oranje-na-bizar-jaar-kende-de-jongens-alleen-van-tv.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6257119/doelman-gallese-van-peruaans-elftal-gearresteerd-na-ruzie-met-spaanse-politie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257121,
-    "slug": "elke-60-kilometer-een-laadpunt-moet-eind-maken-aan-lege-accu-angst",
-    "type": "article",
-    "title": "Elke 60 kilometer een laadpunt moet eind maken aan lege accu-angst",
-    "subtitle": null,
-    "published_at": "2023-03-28T10:33:04+02:00",
-    "updated_at": "2023-03-28T13:09:54+02:00",
-    "media_id": "kkgxv8kaq1b8",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6257121/elke-60-kilometer-een-laadpunt-moet-eind-maken-aan-lege-accu-angst.html",
     "open_new_window": false,
     "partner": null
   }
