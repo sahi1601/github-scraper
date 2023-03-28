@@ -1,12 +1,35 @@
 [
   {
-    "id": 6257094,
-    "slug": "onderwijs-en-zorg-willen-einde-aan-zinloze-verplaatsingen-asielkinderen",
+    "id": 6256666,
+    "slug": "stelling-festivals-zouden-niet-meer-in-parken-of-natuurgebieden-gehouden-mogen-worden",
     "type": "article",
-    "title": "Onderwijs en zorg willen einde aan 'zinloze' verplaatsingen asielkinderen",
+    "title": "Stelling: Festivals zouden niet meer in parken of natuurgebieden gehouden mogen worden",
+    "subtitle": null,
+    "published_at": "2023-03-28T07:07:41+02:00",
+    "updated_at": "2023-03-28T07:07:43+02:00",
+    "media_id": "p3exbgoaey7x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6256666/stelling-festivals-zouden-niet-meer-in-parken-of-natuurgebieden-gehouden-mogen-worden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257094,
+    "slug": "onderwijs-en-zorg-willen-einde-aan-zinloze-verplaatsingen-van-asielkinderen",
+    "type": "article",
+    "title": "Onderwijs en zorg willen einde aan zinloze verplaatsingen van asielkinderen",
     "subtitle": null,
     "published_at": "2023-03-28T06:34:23+02:00",
-    "updated_at": "2023-03-28T06:34:24+02:00",
+    "updated_at": "2023-03-28T06:53:40+02:00",
     "media_id": "yyoxuwsaj7om",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6257094/onderwijs-en-zorg-willen-einde-aan-zinloze-verplaatsingen-asielkinderen.html",
+    "url": "/binnenland/6257094/onderwijs-en-zorg-willen-einde-aan-zinloze-verplaatsingen-van-asielkinderen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Aké verbaast zichzelf door voor het eerst sinds zijn jeugd twee keer te scoren",
     "subtitle": null,
     "published_at": "2023-03-28T01:48:14+02:00",
-    "updated_at": "2023-03-28T06:42:07+02:00",
+    "updated_at": "2023-03-28T06:42:50+02:00",
     "media_id": "n2bxohladvxv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6257075/politie-begeleidt-kinderen-uit-school-na-dodelijke-schietpartij-in-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257074,
-    "slug": "grootste-cryptobeurs-binance-voor-de-rechter-om-jarenlang-schenden-van-regels",
-    "type": "article",
-    "title": "Grootste cryptobeurs Binance voor de rechter om jarenlang schenden van regels",
-    "subtitle": null,
-    "published_at": "2023-03-27T21:23:50+02:00",
-    "updated_at": "2023-03-27T21:34:45+02:00",
-    "media_id": "q7ex2h6a26s4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6257074/grootste-cryptobeurs-binance-voor-de-rechter-om-jarenlang-schenden-van-regels.html",
     "open_new_window": false,
     "partner": null
   }
