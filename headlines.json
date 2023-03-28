@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257094,
+    "slug": "onderwijs-en-zorg-willen-einde-aan-zinloze-verplaatsingen-asielkinderen",
+    "type": "article",
+    "title": "Onderwijs en zorg willen einde aan 'zinloze' verplaatsingen asielkinderen",
+    "subtitle": null,
+    "published_at": "2023-03-28T06:34:23+02:00",
+    "updated_at": "2023-03-28T06:34:24+02:00",
+    "media_id": "yyoxuwsaj7om",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6257094/onderwijs-en-zorg-willen-einde-aan-zinloze-verplaatsingen-asielkinderen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257092,
     "slug": "weerbericht-zonnige-ochtend-maar-bewolkte-en-soms-regenachtige-middag",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "Aké verbaast zichzelf door voor het eerst sinds zijn jeugd twee keer te scoren",
     "subtitle": null,
     "published_at": "2023-03-28T01:48:14+02:00",
-    "updated_at": "2023-03-28T01:56:36+02:00",
+    "updated_at": "2023-03-28T06:42:07+02:00",
     "media_id": "n2bxohladvxv",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Staat voor rechter gesleept wegens roof privédata bij GGD's tijdens pandemie",
     "subtitle": null,
     "published_at": "2023-03-28T00:22:12+02:00",
-    "updated_at": "2023-03-28T06:21:37+02:00",
+    "updated_at": "2023-03-28T06:35:39+02:00",
     "media_id": "wnwxnb3a38d3",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Vijfde Indiana Jones-film beleeft wereldpremière in Cannes",
     "subtitle": null,
     "published_at": "2023-03-27T22:53:57+02:00",
-    "updated_at": "2023-03-27T22:59:49+02:00",
+    "updated_at": "2023-03-28T06:41:35+02:00",
     "media_id": "up5xxtpaqk2q",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6257074/grootste-cryptobeurs-binance-voor-de-rechter-om-jarenlang-schenden-van-regels.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257045,
-    "slug": "meeste-huishoudens-moeten-langer-wachten-op-een-vast-energiecontract",
-    "type": "article",
-    "title": "Meeste huishoudens moeten langer wachten op een vast energiecontract",
-    "subtitle": null,
-    "published_at": "2023-03-27T21:10:07+02:00",
-    "updated_at": "2023-03-28T06:05:52+02:00",
-    "media_id": "75gxpppamn6f",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6257045/meeste-huishoudens-moeten-langer-wachten-op-een-vast-energiecontract.html",
     "open_new_window": false,
     "partner": null
   }
