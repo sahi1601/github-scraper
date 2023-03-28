@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257061,
+    "slug": "acda-en-de-munnik-geven-twee-extra-concerten-in-ziggo-dome",
+    "type": "article",
+    "title": "Acda en De Munnik geven twee extra concerten in Ziggo Dome",
+    "subtitle": null,
+    "published_at": "2023-03-28T09:16:05+02:00",
+    "updated_at": "2023-03-28T09:16:06+02:00",
+    "media_id": "5rxxxpdazzc7",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6257061/acda-en-de-munnik-geven-twee-extra-concerten-in-ziggo-dome.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257109,
     "slug": "aanbiedingsprijzen-voor-reizen-volgens-consumentenbond-vaak-niet-beschikbaar",
     "type": "article",
@@ -397,7 +420,7 @@
     "title": "De Ligt betreurt ontslag van Nagelsmann bij Bayern München: 'Was even slikken'",
     "subtitle": null,
     "published_at": "2023-03-28T03:06:44+02:00",
-    "updated_at": "2023-03-28T08:02:16+02:00",
+    "updated_at": "2023-03-28T09:22:15+02:00",
     "media_id": "bmqx70iaql3w",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6257089/ake-verbaast-zichzelf-door-voor-het-eerst-sinds-zijn-jeugd-twee-keer-te-scoren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257088,
-    "slug": "schutter-28-maakte-plan-voor-schietpartij-nashville-waarbij-zes-doden-vielen",
-    "type": "article",
-    "title": "Schutter (28) maakte plan voor schietpartij Nashville waarbij zes doden vielen",
-    "subtitle": null,
-    "published_at": "2023-03-28T00:28:41+02:00",
-    "updated_at": "2023-03-28T08:46:43+02:00",
-    "media_id": "v0hxblya8fd9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6257088/schutter-28-maakte-plan-voor-schietpartij-nashville-waarbij-zes-doden-vielen.html",
     "open_new_window": false,
     "partner": null
   }
