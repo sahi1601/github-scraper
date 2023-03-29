@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257239,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-03-29T05:16:01+02:00",
+    "updated_at": "2023-03-29T05:16:02+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6257239/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257036,
     "slug": "voor-de-zon-op-zeven-moslimas-maken-s-ochtends-radio-tijdens-de-ramadan",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6257221/eneco-moet-groot-aantal-klanten-met-zonnepanelen-compenseren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257219,
-    "slug": "editienl-biedt-excuses-aan-voor-gebruik-van-foto-uit-auschwitz-bij-item-over-spoor",
-    "type": "article",
-    "title": "EditieNL biedt excuses aan voor gebruik van foto uit Auschwitz bij item over spoor",
-    "subtitle": null,
-    "published_at": "2023-03-28T19:44:06+02:00",
-    "updated_at": "2023-03-28T23:30:27+02:00",
-    "media_id": "e6lx5lga2mbs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6257219/editienl-biedt-excuses-aan-voor-gebruik-van-foto-uit-auschwitz-bij-item-over-spoor.html",
     "open_new_window": false,
     "partner": null
   }
