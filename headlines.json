@@ -1,5 +1,51 @@
 [
   {
+    "id": 6257284,
+    "slug": "renard-stopt-na-bijzonder-wk-bij-saoedi-arabie-om-franse-voetbalsters-te-coachen",
+    "type": "article",
+    "title": "Renard stopt na bijzonder WK bij Saoedi-Arabië om Franse voetbalsters te coachen",
+    "subtitle": null,
+    "published_at": "2023-03-29T11:06:19+02:00",
+    "updated_at": "2023-03-29T11:13:12+02:00",
+    "media_id": "nixxn00ab0wp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6257284/renard-stopt-na-bijzonder-wk-bij-saoedi-arabie-om-franse-voetbalsters-te-coachen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257281,
+    "slug": "zelensky-rusland-zal-winst-in-bakhmut-gebruiken-voor-steun",
+    "type": "video",
+    "title": "Zelensky: 'Rusland zal winst in Bakhmut gebruiken voor steun'",
+    "subtitle": "Video",
+    "published_at": "2023-03-29T10:49:10+02:00",
+    "updated_at": "2023-03-29T11:09:15+02:00",
+    "media_id": "zj6xudxac6qs",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6257281/zelensky-rusland-zal-winst-in-bakhmut-gebruiken-voor-steun.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257274,
     "slug": "jeremy-renner-pakt-werkzaamheden-voorzichtig-op-na-sneeuwschuifongeluk",
     "type": "article",
@@ -369,12 +415,12 @@
   },
   {
     "id": 6257245,
-    "slug": "topman-ralph-hamers-vertrekt-bij-zwitserse-bank-ubs",
+    "slug": "nederlandse-topman-ralph-hamers-vertrekt-bij-zwitserse-bank-ubs",
     "type": "article",
-    "title": "Topman Ralph Hamers vertrekt bij Zwitserse bank UBS",
+    "title": "Nederlandse topman Ralph Hamers vertrekt bij Zwitserse bank UBS",
     "subtitle": null,
     "published_at": "2023-03-29T07:38:21+02:00",
-    "updated_at": "2023-03-29T08:30:01+02:00",
+    "updated_at": "2023-03-29T11:04:41+02:00",
     "media_id": "78yxdbnauyqn",
     "duration": null,
     "canonical_section": {
@@ -386,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6257245/topman-ralph-hamers-vertrekt-bij-zwitserse-bank-ubs.html",
+    "url": "/economie/6257245/nederlandse-topman-ralph-hamers-vertrekt-bij-zwitserse-bank-ubs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6257243/messi-viert-honderdste-goal-voor-argentinie-bij-klinkende-zege-op-curacao.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257154,
-    "slug": "stelling-basisscholen-moeten-vanaf-groep-1-beginnen-met-tweetalig-lesgeven",
-    "type": "article",
-    "title": "Stelling: Basisscholen moeten vanaf groep 1 beginnen met tweetalig lesgeven",
-    "subtitle": null,
-    "published_at": "2023-03-29T06:56:07+02:00",
-    "updated_at": "2023-03-29T07:38:56+02:00",
-    "media_id": "tpnxkzjan818",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6257154/stelling-basisscholen-moeten-vanaf-groep-1-beginnen-met-tweetalig-lesgeven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257242,
-    "slug": "wachtlijsten-voor-onderwijs-aan-vluchtelingen-kunnen-scholen-geld-gaan-kosten",
-    "type": "article",
-    "title": "Wachtlijsten voor onderwijs aan vluchtelingen kunnen scholen geld gaan kosten",
-    "subtitle": null,
-    "published_at": "2023-03-29T06:47:57+02:00",
-    "updated_at": "2023-03-29T07:02:39+02:00",
-    "media_id": "kbdx8nka0vpj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6257242/wachtlijsten-voor-onderwijs-aan-vluchtelingen-kunnen-scholen-geld-gaan-kosten.html",
     "open_new_window": false,
     "partner": null
   }
