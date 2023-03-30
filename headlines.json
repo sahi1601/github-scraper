@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257506,
+    "slug": "lezersreacties-op-nederlandse-landmacht-onder-duits-bevel",
+    "type": "article",
+    "title": "Lezersreacties op Nederlandse landmacht onder Duits bevel",
+    "subtitle": null,
+    "published_at": "2023-03-30T18:34:38+02:00",
+    "updated_at": "2023-03-30T18:34:39+02:00",
+    "media_id": "y08xslma885p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6257506/lezersreacties-op-nederlandse-landmacht-onder-duits-bevel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257503,
     "slug": "colombia-is-miljarden-pesos-kwijt-aan-verplaatsen-pablo-escobars-nijlpaarden",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Meldkamers mogen pers voorlopig toch nog informeren bij incidenten",
     "subtitle": null,
     "published_at": "2023-03-30T18:08:39+02:00",
-    "updated_at": "2023-03-30T18:18:07+02:00",
+    "updated_at": "2023-03-30T18:20:12+02:00",
     "media_id": "yk3xd4waz0c1",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6257515,
-    "slug": "kort-geding-tegen-softwareleverancier-die-betrokken-is-bij-serie-datalekken",
+    "slug": "data-miljoenen-nederlanders-gelekt-softwareleverancier-voor-rechter-gesleept",
     "type": "article",
-    "title": "Kort geding tegen softwareleverancier die betrokken is bij serie datalekken",
+    "title": "Data miljoenen Nederlanders gelekt, softwareleverancier voor rechter gesleept",
     "subtitle": null,
     "published_at": "2023-03-30T18:00:13+02:00",
-    "updated_at": "2023-03-30T18:15:43+02:00",
+    "updated_at": "2023-03-30T18:37:06+02:00",
     "media_id": "5xzxjqja4q4r",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6257515/kort-geding-tegen-softwareleverancier-die-betrokken-is-bij-serie-datalekken.html",
+    "url": "/tech/6257515/data-miljoenen-nederlanders-gelekt-softwareleverancier-voor-rechter-gesleept.html",
     "open_new_window": false,
     "partner": null
   },
@@ -139,12 +162,12 @@
   },
   {
     "id": 6257505,
-    "slug": "brussel-waarschuwt-kabinet-dat-stikstofaanpak-geen-vaart-mag-verliezen",
+    "slug": "nederlandse-stikstofaanpak-mag-van-brussel-geen-vaart-verliezen",
     "type": "article",
-    "title": "Brussel waarschuwt kabinet dat stikstofaanpak geen vaart mag verliezen",
+    "title": "Nederlandse stikstofaanpak mag van Brussel geen vaart verliezen",
     "subtitle": null,
     "published_at": "2023-03-30T17:36:54+02:00",
-    "updated_at": "2023-03-30T18:15:12+02:00",
+    "updated_at": "2023-03-30T18:31:31+02:00",
     "media_id": "cnrxd6oa8ra8",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6257505/brussel-waarschuwt-kabinet-dat-stikstofaanpak-geen-vaart-mag-verliezen.html",
+    "url": "/binnenland/6257505/nederlandse-stikstofaanpak-mag-van-brussel-geen-vaart-verliezen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6257464/paus-herstelt-goed-van-longontsteking-en-is-weer-aan-het-werk-vanuit-ziekenhuis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257463,
-    "slug": "brandweer-reanimeert-kat-na-friese-woningbrand",
-    "type": "video",
-    "title": "Brandweer reanimeert kat na Friese woningbrand",
-    "subtitle": "Video",
-    "published_at": "2023-03-30T13:29:53+02:00",
-    "updated_at": "2023-03-30T13:29:54+02:00",
-    "media_id": "lr4xm3za3sbn",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6257463/brandweer-reanimeert-kat-na-friese-woningbrand.html",
     "open_new_window": false,
     "partner": null
   }
