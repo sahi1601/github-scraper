@@ -1,12 +1,35 @@
 [
   {
+    "id": 6257486,
+    "slug": "vrouwtjesspin-stelt-mannetje-voor-het-paren-gerust-door-te-doen-alsof-ze-dood-is",
+    "type": "article",
+    "title": "Vrouwtjesspin stelt mannetje voor het paren gerust door te doen alsof ze dood is",
+    "subtitle": null,
+    "published_at": "2023-03-30T16:01:47+02:00",
+    "updated_at": "2023-03-30T16:01:49+02:00",
+    "media_id": "kqhxwb2a2yg7",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6257486/vrouwtjesspin-stelt-mannetje-voor-het-paren-gerust-door-te-doen-alsof-ze-dood-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257485,
     "slug": "jumbo-visma-zonder-schaduwfavoriet-van-baarle-naar-ronde-van-vlaanderen",
     "type": "article",
     "title": "Jumbo-Visma zonder schaduwfavoriet Van Baarle naar Ronde van Vlaanderen",
     "subtitle": null,
     "published_at": "2023-03-30T15:33:08+02:00",
-    "updated_at": "2023-03-30T15:36:43+02:00",
+    "updated_at": "2023-03-30T16:02:07+02:00",
     "media_id": "p7jxm7ban2wa",
     "duration": null,
     "canonical_section": {
@@ -77,7 +100,7 @@
     "published_at": "2023-03-30T15:09:28+02:00",
     "updated_at": "2023-03-30T15:09:29+02:00",
     "media_id": "43gxzajafrgx",
-    "duration": "0:43",
+    "duration": "1:01",
     "canonical_section": {
       "id": 1771436,
       "slug": "buitenland",
@@ -231,12 +254,12 @@
   },
   {
     "id": 6257433,
-    "slug": "wagner-verliest-terrein-in-bakhmut-poetin-sancties-raken-rusland",
+    "slug": "verliezen-aan-beide-kanten-in-bakhmut-poetin-sancties-raken-rusland",
     "type": "article",
-    "title": "Wagner verliest terrein in Bakhmut | Poetin: 'Sancties raken Rusland'",
+    "title": "Verliezen aan beide kanten in Bakhmut | Poetin: 'Sancties raken Rusland'",
     "subtitle": "Overzicht",
     "published_at": "2023-03-30T13:04:12+02:00",
-    "updated_at": "2023-03-30T15:18:20+02:00",
+    "updated_at": "2023-03-30T16:07:08+02:00",
     "media_id": "ifgx3c5awvvr",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6257433/wagner-verliest-terrein-in-bakhmut-poetin-sancties-raken-rusland.html",
+    "url": "/spanningen-oekraine/6257433/verliezen-aan-beide-kanten-in-bakhmut-poetin-sancties-raken-rusland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6257429/inflatie-in-spanje-bereikt-laagste-punt-in-twintig-maanden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257434,
-    "slug": "tory-lanez-in-beroep-tegen-oordeel-dat-hij-megan-thee-stallion-beschoot",
-    "type": "article",
-    "title": "Tory Lanez in beroep tegen oordeel dat hij Megan Thee Stallion beschoot",
-    "subtitle": null,
-    "published_at": "2023-03-30T11:33:17+02:00",
-    "updated_at": "2023-03-30T11:35:44+02:00",
-    "media_id": "f6ixum0a7zhd",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6257434/tory-lanez-in-beroep-tegen-oordeel-dat-hij-megan-thee-stallion-beschoot.html",
     "open_new_window": false,
     "partner": null
   }
