@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257716,
+    "slug": "alderweireld-behoedt-antwerp-en-van-bommel-met-twee-late-goals-voor-puntenverlies",
+    "type": "article",
+    "title": "Alderweireld behoedt Antwerp en Van Bommel met twee late goals voor puntenverlies",
+    "subtitle": null,
+    "published_at": "2023-03-31T22:48:14+02:00",
+    "updated_at": "2023-03-31T23:07:28+02:00",
+    "media_id": "cntx5nwalftq",
+    "duration": null,
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6257716/alderweireld-behoedt-antwerp-en-van-bommel-met-twee-late-goals-voor-puntenverlies.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257715,
     "slug": "skier-redt-snowboarder-die-ondersteboven-in-sneeuw-vastzit-in-vs",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6257655/dit-zeggen-jullie-over-ereschuld-kabinet-gaat-om-meer-dan-schadeafhandeling.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257688,
-    "slug": "nederlandse-vrouw-neergestoken-door-barman-tijdens-vakantie-in-india",
-    "type": "article",
-    "title": "Nederlandse vrouw neergestoken door barman tijdens vakantie in India",
-    "subtitle": null,
-    "published_at": "2023-03-31T18:18:37+02:00",
-    "updated_at": "2023-03-31T19:46:54+02:00",
-    "media_id": "ychxdn9axzfd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6257688/nederlandse-vrouw-neergestoken-door-barman-tijdens-vakantie-in-india.html",
     "open_new_window": false,
     "partner": null
   }
