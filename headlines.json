@@ -1,12 +1,35 @@
 [
   {
+    "id": 6257772,
+    "slug": "ancelotti-wordt-enthousiast-van-belangstelling-braziliaanse-bond",
+    "type": "article",
+    "title": "Ancelotti wordt enthousiast van belangstelling Braziliaanse bond",
+    "subtitle": null,
+    "published_at": "2023-04-01T13:25:09+02:00",
+    "updated_at": "2023-04-01T13:29:48+02:00",
+    "media_id": "pm2xfq0axesi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6257772/ancelotti-wordt-enthousiast-van-belangstelling-braziliaanse-bond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257771,
     "slug": "auto-in-de-prak-gereden-door-dronken-bredanaar-zonder-rijbewijs",
     "type": "video",
     "title": "Auto in de prak gereden door dronken Bredanaar zonder rijbewijs",
     "subtitle": "Video",
     "published_at": "2023-04-01T13:24:01+02:00",
-    "updated_at": "2023-04-01T13:24:02+02:00",
+    "updated_at": "2023-04-01T13:31:06+02:00",
     "media_id": "qg2x89razzl4",
     "duration": "0:41",
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Verkenners in drie provincies klaar, elders moeten ze coalitiepuzzel nog leggen",
     "subtitle": null,
     "published_at": "2023-04-01T12:59:19+02:00",
-    "updated_at": "2023-04-01T13:11:54+02:00",
+    "updated_at": "2023-04-01T13:35:56+02:00",
     "media_id": "2o6xbctair4r",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6257576/reacties-na-behalen-pole-verstappen-in-melbourne.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257724,
-    "slug": "ricciardo-is-nog-altijd-geliefd-maar-ook-klaar-om-terug-te-keren",
-    "type": "article",
-    "title": "Ricciardo is nog altijd geliefd, maar ook klaar om terug te keren?",
-    "subtitle": "NU+",
-    "published_at": "2023-04-01T06:26:05+02:00",
-    "updated_at": "2023-04-01T12:20:37+02:00",
-    "media_id": "c97xtuaa60d2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6257724/ricciardo-is-nog-altijd-geliefd-maar-ook-klaar-om-terug-te-keren.html",
     "open_new_window": false,
     "partner": null
   }
