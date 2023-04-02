@@ -1,12 +1,81 @@
 [
   {
+    "id": 6257836,
+    "slug": "luchtbeelden-uit-vk-tonen-lange-rijen-voor-ferry-naar-frankrijk",
+    "type": "video",
+    "title": "Luchtbeelden uit VK tonen lange rijen voor ferry naar Frankrijk",
+    "subtitle": "Video",
+    "published_at": "2023-04-02T09:43:26+02:00",
+    "updated_at": "2023-04-02T09:43:26+02:00",
+    "media_id": "dkmxm1xak754",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6257836/luchtbeelden-uit-vk-tonen-lange-rijen-voor-ferry-naar-frankrijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257820,
+    "slug": "verstappen-houdt-hoofd-koel-in-chaos-en-wint-bizarre-gp-van-australie",
+    "type": "article",
+    "title": "Verstappen houdt hoofd koel in chaos en wint bizarre GP van Australië",
+    "subtitle": null,
+    "published_at": "2023-04-02T09:36:21+02:00",
+    "updated_at": "2023-04-02T09:43:53+02:00",
+    "media_id": "k3uxs66agxhn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Australië",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6257820/verstappen-houdt-hoofd-koel-in-chaos-en-wint-bizarre-gp-van-australie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257833,
+    "slug": "vier-jonge-mannen-omgekomen-bij-ongeval-in-het-friese-jirnsum",
+    "type": "article",
+    "title": "Vier jonge mannen omgekomen bij ongeval in het Friese Jirnsum",
+    "subtitle": null,
+    "published_at": "2023-04-02T09:27:40+02:00",
+    "updated_at": "2023-04-02T09:30:03+02:00",
+    "media_id": "blvxkhwa9wr5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6257833/vier-jonge-mannen-omgekomen-bij-ongeval-in-het-friese-jirnsum.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257566,
     "slug": "wat-wil-jij-weten-over-de-grand-prix-van-australie",
     "type": "article",
     "title": "Wat wil jij weten over de Grand Prix van Australië?",
     "subtitle": null,
     "published_at": "2023-04-02T09:20:50+02:00",
-    "updated_at": "2023-04-02T09:20:51+02:00",
+    "updated_at": "2023-04-02T09:25:00+02:00",
     "media_id": "wp6xfbda15q8",
     "duration": null,
     "canonical_section": {
@@ -47,12 +116,12 @@
   },
   {
     "id": 6257786,
-    "slug": "het-liefdesleven-van-jutta-leerdam-naast-de-ellende-in-de-wereld",
+    "slug": "jutta-leerdams-liefdesleven-naast-de-ellende-in-de-wereld",
     "type": "article",
-    "title": "Het liefdesleven van Jutta Leerdam, naast de ellende in de wereld",
+    "title": "Jutta Leerdams liefdesleven, naast de ellende in de wereld",
     "subtitle": "Van de hoofdredactie",
     "published_at": "2023-04-02T09:07:28+02:00",
-    "updated_at": "2023-04-02T09:14:45+02:00",
+    "updated_at": "2023-04-02T09:39:31+02:00",
     "media_id": "191xu7fau9bu",
     "duration": null,
     "canonical_section": {
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/blog/6257786/het-liefdesleven-van-jutta-leerdam-naast-de-ellende-in-de-wereld.html",
+    "url": "/blog/6257786/jutta-leerdams-liefdesleven-naast-de-ellende-in-de-wereld.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +167,7 @@
     "title": "Bokser Joshua boekt na twee nederlagen broodnodige zege op Franklin",
     "subtitle": null,
     "published_at": "2023-04-02T08:55:29+02:00",
-    "updated_at": "2023-04-02T09:09:49+02:00",
+    "updated_at": "2023-04-02T09:41:36+02:00",
     "media_id": "d8rx7zeaqr6t",
     "duration": null,
     "canonical_section": {
@@ -162,12 +231,12 @@
   },
   {
     "id": 6257577,
-    "slug": "verstappen-gaat-achter-safetycar-als-eerste-finishen-in-chaotische-gp-australie",
+    "slug": "reacties-op-dominante-zege-verstappen-in-chaotische-gp-australie",
     "type": "article",
-    "title": "Verstappen gaat achter safetycar als eerste finishen in chaotische GP Australië",
+    "title": "Reacties op dominante zege Verstappen in chaotische GP Australië",
     "subtitle": "Liveblog",
     "published_at": "2023-04-02T06:47:17+02:00",
-    "updated_at": "2023-04-02T09:20:22+02:00",
+    "updated_at": "2023-04-02T09:38:04+02:00",
     "media_id": "3w0xgbvakpfe",
     "duration": null,
     "canonical_section": {
@@ -179,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6257577/verstappen-gaat-achter-safetycar-als-eerste-finishen-in-chaotische-gp-australie.html",
+    "url": "/formule-1/6257577/reacties-op-dominante-zege-verstappen-in-chaotische-gp-australie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -187,10 +256,10 @@
     "id": 6257658,
     "slug": "iedereen-elektrisch-laten-rijden-als-het-goedkoper-is-gaat-het-vanzelf",
     "type": "video",
-    "title": "Iedereen elektrisch laten rijden: ‘Als het goedkoper is gaat het vanzelf’",
+    "title": "Iedereen elektrisch laten rijden: 'Als het goedkoper is gaat het vanzelf'",
     "subtitle": "Explainer",
     "published_at": "2023-04-02T06:33:46+02:00",
-    "updated_at": "2023-04-02T09:00:11+02:00",
+    "updated_at": "2023-04-02T09:31:15+02:00",
     "media_id": "fswxxa3a6rmp",
     "duration": "7:20",
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/economie/6257605/prijzen-van-paaseieren-hoger-dan-ooit-maar-we-eten-er-geen-eitje-minder-om.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257816,
-    "slug": "bekerkoorts-heerst-in-spakenburg-richting-psv-hele-dorp-kleurt-blauw",
-    "type": "article",
-    "title": "Bekerkoorts heerst in Spakenburg richting PSV: 'Hele dorp kleurt blauw'",
-    "subtitle": "NU+",
-    "published_at": "2023-04-02T05:02:24+02:00",
-    "updated_at": "2023-04-02T08:12:47+02:00",
-    "media_id": "xj2x5sva6dkw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6257816/bekerkoorts-heerst-in-spakenburg-richting-psv-hele-dorp-kleurt-blauw.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257597,
-    "slug": "lonen-stijgen-niet-bij-iedereen-wat-kan-je-doen-als-een-loonsverhoging-uitblijft",
-    "type": "article",
-    "title": "Lonen stijgen niet bij iedereen: wat kan je doen als een loonsverhoging uitblijft?",
-    "subtitle": null,
-    "published_at": "2023-04-02T05:00:52+02:00",
-    "updated_at": "2023-04-02T08:59:11+02:00",
-    "media_id": "84txq2jalfvw",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6257597/lonen-stijgen-niet-bij-iedereen-wat-kan-je-doen-als-een-loonsverhoging-uitblijft.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257369,
-    "slug": "waarom-jongeren-en-koerden-de-turkse-verkiezingen-kunnen-gaan-bepalen",
-    "type": "article",
-    "title": "Waarom jongeren en Koerden de Turkse verkiezingen kunnen gaan bepalen",
-    "subtitle": null,
-    "published_at": "2023-04-02T05:00:05+02:00",
-    "updated_at": "2023-04-02T05:00:06+02:00",
-    "media_id": "33zxgf5a7vq2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6257369/waarom-jongeren-en-koerden-de-turkse-verkiezingen-kunnen-gaan-bepalen.html",
     "open_new_window": false,
     "partner": null
   }
