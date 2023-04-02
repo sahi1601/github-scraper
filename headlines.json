@@ -1,5 +1,51 @@
 [
   {
+    "id": 6257875,
+    "slug": "dit-vinden-jullie-van-de-toenemende-verkeersdrukte-op-de-weg-maak-het-ov-betaalbaar",
+    "type": "article",
+    "title": "Dit vinden jullie van de toenemende verkeersdrukte op de weg: 'Maak het OV betaalbaar'",
+    "subtitle": null,
+    "published_at": "2023-04-02T18:30:00+02:00",
+    "updated_at": "2023-04-02T18:30:01+02:00",
+    "media_id": "rrvxw18a95xd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6257875/dit-vinden-jullie-van-de-toenemende-verkeersdrukte-op-de-weg-maak-het-ov-betaalbaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6257894,
+    "slug": "benzema-leidt-real-madrid-met-hattrick-binnen-zeven-minuten-naar-ruime-zege",
+    "type": "article",
+    "title": "Benzema leidt Real Madrid met hattrick binnen zeven minuten naar ruime zege",
+    "subtitle": null,
+    "published_at": "2023-04-02T18:18:43+02:00",
+    "updated_at": "2023-04-02T18:24:56+02:00",
+    "media_id": "6txxjm9al6my",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6257894/benzema-leidt-real-madrid-met-hattrick-binnen-zeven-minuten-naar-ruime-zege.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257854,
     "slug": "free-lolita-hoe-leer-je-een-orka-uit-een-waterpark-weer-in-het-wild-te-leven",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Parachutist overleden door ongeval bij International Airport Teuge",
     "subtitle": null,
     "published_at": "2023-04-02T18:05:28+02:00",
-    "updated_at": "2023-04-02T18:05:31+02:00",
+    "updated_at": "2023-04-02T18:24:58+02:00",
     "media_id": "ifmx3bja009n",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Ondanks herstel prijzen kondigt OPEC+ verlaging olieproductie aan",
     "subtitle": null,
     "published_at": "2023-04-02T17:54:59+02:00",
-    "updated_at": "2023-04-02T17:55:00+02:00",
+    "updated_at": "2023-04-02T18:22:09+02:00",
     "media_id": "gmexv89aizmz",
     "duration": null,
     "canonical_section": {
@@ -93,12 +139,12 @@
   },
   {
     "id": 6257889,
-    "slug": "ongenaakbare-kopecky-is-opnieuw-de-sterkste-in-ronde-van-vlaanderen",
+    "slug": "kopecky-is-opnieuw-ongenaakbaar-in-ronde-van-vlaanderen-vollering-tweede",
     "type": "article",
-    "title": "Ongenaakbare Kopecky is opnieuw de sterkste in Ronde van Vlaanderen",
+    "title": "Kopecky is opnieuw ongenaakbaar in Ronde van Vlaanderen, Vollering tweede",
     "subtitle": null,
     "published_at": "2023-04-02T17:48:19+02:00",
-    "updated_at": "2023-04-02T18:11:55+02:00",
+    "updated_at": "2023-04-02T18:20:14+02:00",
     "media_id": "0d7xcp2adyr0",
     "duration": null,
     "canonical_section": {
@@ -110,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6257889/ongenaakbare-kopecky-is-opnieuw-de-sterkste-in-ronde-van-vlaanderen.html",
+    "url": "/wielrennen/6257889/kopecky-is-opnieuw-ongenaakbaar-in-ronde-van-vlaanderen-vollering-tweede.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6257876/snollebollekes-artiest-rob-kemps-en-vriendin-uit-elkaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257874,
-    "slug": "ontslagrecord-in-premier-league-ook-leicester-coach-rodgers-moet-vertrekken",
-    "type": "article",
-    "title": "Ontslagrecord in Premier League: ook Leicester-coach Rodgers moet vertrekken",
-    "subtitle": null,
-    "published_at": "2023-04-02T15:51:53+02:00",
-    "updated_at": "2023-04-02T17:08:13+02:00",
-    "media_id": "8uvx7d0azmxa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6257874/ontslagrecord-in-premier-league-ook-leicester-coach-rodgers-moet-vertrekken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257856,
-    "slug": "weekweerbericht-eindelijk-wat-meer-zon-en-stijgende-temperaturen",
-    "type": "article",
-    "title": "Weekweerbericht: Eindelijk wat meer zon en stijgende temperaturen",
-    "subtitle": null,
-    "published_at": "2023-04-02T15:35:38+02:00",
-    "updated_at": "2023-04-02T15:35:40+02:00",
-    "media_id": "m6dxtmiagmhb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6257856/weekweerbericht-eindelijk-wat-meer-zon-en-stijgende-temperaturen.html",
     "open_new_window": false,
     "partner": null
   }
