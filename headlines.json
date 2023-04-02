@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257827,
+    "slug": "twee-wereldrecords-in-een-week-zwemsensatie-mcintosh-piekt-ook-op-400-wissel",
+    "type": "article",
+    "title": "Twee wereldrecords in een week: zwemsensatie McIntosh piekt ook op 400 wissel",
+    "subtitle": null,
+    "published_at": "2023-04-02T08:18:14+02:00",
+    "updated_at": "2023-04-02T08:21:28+02:00",
+    "media_id": "5lbxvlrasquu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6257827/twee-wereldrecords-in-een-week-zwemsensatie-mcintosh-piekt-ook-op-400-wissel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257618,
     "slug": "stelling-er-moet-een-verbod-komen-op-de-e-sigaret",
     "type": "article",
@@ -24,13 +47,13 @@
   },
   {
     "id": 6257577,
-    "slug": "verstappen-leidt-comfortabel-in-gp-australie-de-vries-achteraan",
+    "slug": "verstappen-comfortabel-aan-de-leiding-in-gp-australie",
     "type": "article",
-    "title": "Verstappen leidt comfortabel in GP Australië, De Vries achteraan",
+    "title": "Verstappen comfortabel aan de leiding in GP Australië",
     "subtitle": "Liveblog",
     "published_at": "2023-04-02T06:47:17+02:00",
-    "updated_at": "2023-04-02T08:12:21+02:00",
-    "media_id": "193xca5amz3c",
+    "updated_at": "2023-04-02T08:20:47+02:00",
+    "media_id": "3w0xgbvakpfe",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6257577/verstappen-leidt-comfortabel-in-gp-australie-de-vries-achteraan.html",
+    "url": "/formule-1/6257577/verstappen-comfortabel-aan-de-leiding-in-gp-australie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6257814/the-big-bang-theory-actrice-kaley-cuoco-bevallen-van-dochtertje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257812,
-    "slug": "primeur-in-de-eredivisie-wedstrijden-onderbroken-vanwege-ramadan",
-    "type": "article",
-    "title": "Primeur in de Eredivisie: wedstrijden onderbroken vanwege ramadan",
-    "subtitle": null,
-    "published_at": "2023-04-01T22:37:38+02:00",
-    "updated_at": "2023-04-01T22:44:02+02:00",
-    "media_id": "6iyx0b9a3f9t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6257812/primeur-in-de-eredivisie-wedstrijden-onderbroken-vanwege-ramadan.html",
     "open_new_window": false,
     "partner": null
   }
