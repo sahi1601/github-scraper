@@ -1,5 +1,28 @@
 [
   {
+    "id": 6257912,
+    "slug": "chelsea-ontslaat-trainer-potter-na-zeven-teleurstellende-maanden",
+    "type": "article",
+    "title": "Chelsea ontslaat trainer Potter na zeven teleurstellende maanden",
+    "subtitle": null,
+    "published_at": "2023-04-02T21:10:15+02:00",
+    "updated_at": "2023-04-02T21:21:29+02:00",
+    "media_id": "2tnxl77ap04a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6257912/chelsea-ontslaat-trainer-potter-na-zeven-teleurstellende-maanden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257909,
     "slug": "medvedev-verovert-op-masters-toernooi-in-miami-vierde-titel-van-dit-jaar",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Bom gaat af in Russisch café, bekende blogger komt om",
     "subtitle": "Video",
     "published_at": "2023-04-02T20:37:47+02:00",
-    "updated_at": "2023-04-02T20:43:37+02:00",
+    "updated_at": "2023-04-02T21:16:03+02:00",
     "media_id": "4zwxfesa20tv",
     "duration": "0:36",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6257887/pogacar-schaart-zich-in-rijtje-met-merckx-en-bobet-dag-om-nooit-te-vergeten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257886,
-    "slug": "noa-lang-goud-waard-voor-club-brugge-goal-dallinga-levert-toulouse-niets-op",
-    "type": "article",
-    "title": "Noa Lang goud waard voor Club Brugge, goal Dallinga levert Toulouse niets op",
-    "subtitle": null,
-    "published_at": "2023-04-02T17:17:40+02:00",
-    "updated_at": "2023-04-02T20:44:56+02:00",
-    "media_id": "3wgxf2vad8u2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6257886/noa-lang-goud-waard-voor-club-brugge-goal-dallinga-levert-toulouse-niets-op.html",
     "open_new_window": false,
     "partner": null
   }
