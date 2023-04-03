@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258039,
+    "slug": "barcelona-eist-vertrek-voetbalbaas-tebas-wegens-vals-bewijs-in-omkopingszaak",
+    "type": "article",
+    "title": "Barcelona eist vertrek voetbalbaas Tebas wegens 'vals bewijs' in omkopingszaak",
+    "subtitle": null,
+    "published_at": "2023-04-03T18:42:45+02:00",
+    "updated_at": "2023-04-03T18:42:46+02:00",
+    "media_id": "3hcxlgcau0vp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6258039/barcelona-eist-vertrek-voetbalbaas-tebas-wegens-vals-bewijs-in-omkopingszaak.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258024,
     "slug": "dit-vinden-jullie-van-toetreding-finland-tot-navo-de-vrije-wereld-is-sterker-geworden",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Geniet ervan zolang het kan: het stralende weer duurt nog twee dagen",
     "subtitle": null,
     "published_at": "2023-04-03T18:28:45+02:00",
-    "updated_at": "2023-04-03T18:31:44+02:00",
+    "updated_at": "2023-04-03T18:41:56+02:00",
     "media_id": "wt5x6zea4ms3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6258006/eneco-biedt-weer-vaste-jaarcontracten-onder-prijsplafond-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6257994,
-    "slug": "daders-wildwestoverval-op-waardetransport-amsterdam-krijgen-tot-15-jaar-cel",
-    "type": "article",
-    "title": "Daders 'wildwestoverval' op waardetransport Amsterdam krijgen tot 15 jaar cel",
-    "subtitle": null,
-    "published_at": "2023-04-03T14:35:31+02:00",
-    "updated_at": "2023-04-03T15:05:05+02:00",
-    "media_id": "i5uxy0fahnqt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6257994/daders-wildwestoverval-op-waardetransport-amsterdam-krijgen-tot-15-jaar-cel.html",
     "open_new_window": false,
     "partner": null
   }
