@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258080,
+    "slug": "gijs-brouwer-laat-zich-opnieuw-gelden-in-geboorteplaats-houston-en-treft-nu-isner",
+    "type": "article",
+    "title": "Gijs Brouwer laat zich opnieuw gelden in geboorteplaats Houston en treft nu Isner",
+    "subtitle": null,
+    "published_at": "2023-04-04T07:15:17+02:00",
+    "updated_at": "2023-04-04T07:23:59+02:00",
+    "media_id": "kmgxyora9ma9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6258080/gijs-brouwer-laat-zich-opnieuw-gelden-in-geboorteplaats-houston-en-treft-nu-isner.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6257973,
     "slug": "stelling-economie-draaiende-houden-is-belangrijker-dan-natuur-van-stikstofschade-redden",
     "type": "article",
@@ -29,19 +52,19 @@
     "title": "Zeker een dode en negentien mensen naar ziekenhuis na treinongeluk bij Voorschoten",
     "subtitle": null,
     "published_at": "2023-04-04T06:54:39+02:00",
-    "updated_at": "2023-04-04T07:05:36+02:00",
+    "updated_at": "2023-04-04T07:24:15+02:00",
     "media_id": "w4vxzu3anazw",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 1771435,
+      "slug": "binnenland",
       "type": "default",
-      "name": "Algemeen",
+      "name": "Binnenland",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6258078/zeker-een-dode-en-negentien-mensen-naar-ziekenhuis-na-treinongeluk-bij-voorschoten.html",
+    "url": "/binnenland/6258078/zeker-een-dode-en-negentien-mensen-naar-ziekenhuis-na-treinongeluk-bij-voorschoten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Weerbericht: Lentezon kan winterse frisheid nog niet helemaal verdrijven",
     "subtitle": null,
     "published_at": "2023-04-04T06:45:27+02:00",
-    "updated_at": "2023-04-04T06:45:28+02:00",
+    "updated_at": "2023-04-04T07:18:24+02:00",
     "media_id": "e1sxaujaezd6",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6258077,
-    "slug": "travis-scott-schikt-met-geluidsman-die-hij-in-club-zou-hebben-geslagen",
+    "slug": "travis-scott-schikt-met-geluidsman-die-hij-zou-hebben-geslagen-in-club",
     "type": "article",
-    "title": "Travis Scott schikt met geluidsman die hij in club zou hebben geslagen",
+    "title": "Travis Scott schikt met geluidsman die hij zou hebben geslagen in club",
     "subtitle": null,
     "published_at": "2023-04-04T06:37:13+02:00",
-    "updated_at": "2023-04-04T06:37:14+02:00",
+    "updated_at": "2023-04-04T07:15:57+02:00",
     "media_id": "qhqxsiwa16b1",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6258077/travis-scott-schikt-met-geluidsman-die-hij-in-club-zou-hebben-geslagen.html",
+    "url": "/achterklap/6258077/travis-scott-schikt-met-geluidsman-die-hij-zou-hebben-geslagen-in-club.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Spakenburg pakt de jackpot dankzij bekersprookje: op naar Ibiza",
     "subtitle": null,
     "published_at": "2023-04-04T05:24:56+02:00",
-    "updated_at": "2023-04-04T06:42:45+02:00",
+    "updated_at": "2023-04-04T07:11:38+02:00",
     "media_id": "ia2xiwmaqqot",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6258003/netbeheerders-kabinet-moet-nu-beslissen-over-toekomst-van-zware-industrie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258065,
-    "slug": "zangeres-karsu-verliest-met-oma-zeventiende-familielid-door-aardbeving-turkije",
-    "type": "article",
-    "title": "Zangeres Karsu verliest met oma zeventiende familielid door aardbeving Turkije",
-    "subtitle": null,
-    "published_at": "2023-04-03T23:40:19+02:00",
-    "updated_at": "2023-04-03T23:41:54+02:00",
-    "media_id": "qrlxn97avemp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779210,
-      "slug": "aardbeving-syrie-en-turkije",
-      "type": "files",
-      "name": "Aardbeving Syrië en Turkije",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/aardbeving-syrie-en-turkije/6258065/zangeres-karsu-verliest-met-oma-zeventiende-familielid-door-aardbeving-turkije.html",
     "open_new_window": false,
     "partner": null
   }
