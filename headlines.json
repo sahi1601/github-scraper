@@ -1,12 +1,81 @@
 [
   {
+    "id": 6258135,
+    "slug": "opnieuw-verdachte-aangehouden-voor-betrokkenheid-bij-moord-op-peter-r-de-vries",
+    "type": "article",
+    "title": "Opnieuw verdachte aangehouden voor betrokkenheid bij moord op Peter R. de Vries",
+    "subtitle": null,
+    "published_at": "2023-04-04T13:23:03+02:00",
+    "updated_at": "2023-04-04T13:23:25+02:00",
+    "media_id": "a7xxdfaanvgq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778818,
+      "slug": "peter-r-de-vries",
+      "type": "default",
+      "name": "Peter R. de Vries",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/peter-r-de-vries/6258135/opnieuw-verdachte-aangehouden-voor-betrokkenheid-bij-moord-op-peter-r-de-vries.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258134,
+    "slug": "paniek-en-chaos-door-enorme-brand-op-kledingmarkt-in-bangladesh",
+    "type": "video",
+    "title": "Paniek en chaos door enorme brand op kledingmarkt in Bangladesh",
+    "subtitle": "Video",
+    "published_at": "2023-04-04T13:21:25+02:00",
+    "updated_at": "2023-04-04T13:21:26+02:00",
+    "media_id": "azrx3gra9i09",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6258134/paniek-en-chaos-door-enorme-brand-op-kledingmarkt-in-bangladesh.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258133,
+    "slug": "rkc-verdediger-hans-mulder-35-kondigt-einde-van-wonderlijke-loopbaan-aan",
+    "type": "article",
+    "title": "RKC-verdediger Hans Mulder (35) kondigt einde van wonderlijke loopbaan aan",
+    "subtitle": null,
+    "published_at": "2023-04-04T13:11:15+02:00",
+    "updated_at": "2023-04-04T13:21:08+02:00",
+    "media_id": "fkcxta9aqfax",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6258133/rkc-verdediger-hans-mulder-35-kondigt-einde-van-wonderlijke-loopbaan-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258130,
     "slug": "rutte-vraagt-vanwege-ziekte-debat-over-verkiezingsuitslag-te-verplaatsen",
     "type": "article",
     "title": "Rutte vraagt vanwege ziekte debat over verkiezingsuitslag te verplaatsen",
     "subtitle": null,
     "published_at": "2023-04-04T13:07:06+02:00",
-    "updated_at": "2023-04-04T13:09:21+02:00",
+    "updated_at": "2023-04-04T13:22:24+02:00",
     "media_id": "io1xjcmaihwp",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/economie/6258105/prijs-voor-een-liter-benzine-weer-boven-de-2-euro.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258090,
-    "slug": "kijk-hier-naar-de-persconferentie-over-het-treinongeval-in-voorschoten",
-    "type": "video",
-    "title": "Kijk hier naar de persconferentie over het treinongeval in Voorschoten",
-    "subtitle": "Livestream",
-    "published_at": "2023-04-04T10:14:01+02:00",
-    "updated_at": "2023-04-04T10:14:16+02:00",
-    "media_id": "tkyxiq2akczq",
-    "duration": "0:01",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6258090/kijk-hier-naar-de-persconferentie-over-het-treinongeval-in-voorschoten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258103,
-    "slug": "passagier-filmt-ontsnapping-na-treinongeval-in-voorschoten",
-    "type": "video",
-    "title": "Passagier filmt ontsnapping na treinongeval in Voorschoten",
-    "subtitle": "Video",
-    "published_at": "2023-04-04T10:11:10+02:00",
-    "updated_at": "2023-04-04T10:29:45+02:00",
-    "media_id": "4xrx8w9auane",
-    "duration": "0:52",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6258103/passagier-filmt-ontsnapping-na-treinongeval-in-voorschoten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258097,
-    "slug": "feyenoord-verlengt-met-hoofdsponsor-voor-vijfde-en-waarschijnlijk-laatste-seizoen",
-    "type": "article",
-    "title": "Feyenoord verlengt met hoofdsponsor voor vijfde en waarschijnlijk laatste seizoen",
-    "subtitle": null,
-    "published_at": "2023-04-04T09:57:03+02:00",
-    "updated_at": "2023-04-04T10:43:32+02:00",
-    "media_id": "umoxc0va810o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6258097/feyenoord-verlengt-met-hoofdsponsor-voor-vijfde-en-waarschijnlijk-laatste-seizoen.html",
     "open_new_window": false,
     "partner": null
   }
