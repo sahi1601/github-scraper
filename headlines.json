@@ -1,5 +1,51 @@
 [
   {
+    "id": 6258475,
+    "slug": "omikronvariant-corona-zorgt-voor-minder-langdurige-klachten-dan-voorganger",
+    "type": "article",
+    "title": "Omikronvariant corona zorgt voor minder langdurige klachten dan voorganger",
+    "subtitle": null,
+    "published_at": "2023-04-06T16:22:12+02:00",
+    "updated_at": "2023-04-06T16:22:24+02:00",
+    "media_id": "n4yx35wahlzl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6258475/omikronvariant-corona-zorgt-voor-minder-langdurige-klachten-dan-voorganger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258472,
+    "slug": "algemeen-directeur-pascal-van-wijk-vertrekt-definitief-bij-vitesse",
+    "type": "article",
+    "title": "Algemeen directeur Pascal van Wijk vertrekt definitief bij Vitesse",
+    "subtitle": null,
+    "published_at": "2023-04-06T16:21:27+02:00",
+    "updated_at": "2023-04-06T16:21:29+02:00",
+    "media_id": "jvjxhyqap5tg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6258472/algemeen-directeur-pascal-van-wijk-vertrekt-definitief-bij-vitesse.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258477,
     "slug": "macron-ontmoet-xi-jinping-tijdens-staatsbezoek-in-china",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "Kabinet belooft beterschap na debacle sms'jes Rutte: 'Alle zakelijke appjes bewaren'",
     "subtitle": null,
     "published_at": "2023-04-06T16:07:27+02:00",
-    "updated_at": "2023-04-06T16:11:56+02:00",
+    "updated_at": "2023-04-06T16:23:00+02:00",
     "media_id": "27rxrq1arpf6",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Star Wars en Indiana Jones-ontwerper Norman Reynolds (89) overleden",
     "subtitle": null,
     "published_at": "2023-04-06T15:26:04+02:00",
-    "updated_at": "2023-04-06T15:26:09+02:00",
+    "updated_at": "2023-04-06T16:22:40+02:00",
     "media_id": "xp7xdpjae8r9",
     "duration": null,
     "canonical_section": {
@@ -95,10 +141,10 @@
     "id": 6258466,
     "slug": "fvder-van-houwelingen-beboet-voor-nepfoto-waarop-ministers-hakenkruisvlag-hijsen",
     "type": "article",
-    "title": "FVD’er Van Houwelingen beboet voor nepfoto waarop ministers 'hakenkruisvlag hijsen'",
+    "title": "FVD'er Van Houwelingen beboet voor nepfoto waarop ministers 'hakenkruisvlag hijsen'",
     "subtitle": null,
     "published_at": "2023-04-06T15:16:38+02:00",
-    "updated_at": "2023-04-06T16:10:36+02:00",
+    "updated_at": "2023-04-06T16:15:46+02:00",
     "media_id": "w7rxsota5vls",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6258445/rotsblokken-vallen-op-indiase-snelweg-tijdens-lawine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258433,
-    "slug": "spelersvakbond-niet-verrast-door-incident-in-de-kuip-hier-kon-je-op-wachten",
-    "type": "article",
-    "title": "Spelersvakbond niet verrast door incident in De Kuip: 'Hier kon je op wachten'",
-    "subtitle": null,
-    "published_at": "2023-04-06T13:39:46+02:00",
-    "updated_at": "2023-04-06T13:39:48+02:00",
-    "media_id": "3gqxm1naf7wv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6258433/spelersvakbond-niet-verrast-door-incident-in-de-kuip-hier-kon-je-op-wachten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258440,
-    "slug": "treinverkeer-tussen-leiden-en-den-haag-ligt-zeker-nog-tot-18-april-plat",
-    "type": "article",
-    "title": "Treinverkeer tussen Leiden en Den Haag ligt zeker nog tot 18 april plat",
-    "subtitle": null,
-    "published_at": "2023-04-06T13:33:47+02:00",
-    "updated_at": "2023-04-06T13:33:48+02:00",
-    "media_id": "bcmx8xbazvgt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6258440/treinverkeer-tussen-leiden-en-den-haag-ligt-zeker-nog-tot-18-april-plat.html",
     "open_new_window": false,
     "partner": null
   }
