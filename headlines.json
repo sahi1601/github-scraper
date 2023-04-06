@@ -1,5 +1,51 @@
 [
   {
+    "id": 6258379,
+    "slug": "geen-staking-van-vuilnisophalers-meer-bonden-en-gemeenten-akkoord-met-cao",
+    "type": "article",
+    "title": "Geen staking van vuilnisophalers meer: bonden én gemeenten akkoord met cao",
+    "subtitle": null,
+    "published_at": "2023-04-06T08:36:44+02:00",
+    "updated_at": "2023-04-06T08:36:46+02:00",
+    "media_id": "azbx7tlaa92v",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6258379/geen-staking-van-vuilnisophalers-meer-bonden-en-gemeenten-akkoord-met-cao.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258380,
+    "slug": "ancelotti-looft-clasico-uitblinker-benzema-hij-kan-nog-een-gouden-bal-winnen",
+    "type": "article",
+    "title": "Ancelotti looft Clásico-uitblinker Benzema: 'Hij kan nóg een Gouden Bal winnen'",
+    "subtitle": null,
+    "published_at": "2023-04-06T08:30:45+02:00",
+    "updated_at": "2023-04-06T08:30:47+02:00",
+    "media_id": "3gsx9mcakchs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6258380/ancelotti-looft-clasico-uitblinker-benzema-hij-kan-nog-een-gouden-bal-winnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258377,
     "slug": "oekraiense-militairen-filmen-mislukte-russische-raketaanval",
     "type": "video",
@@ -121,7 +167,7 @@
     "title": "Coach Vincent Wevers mag maand na vrijspraak naar EK: 'Turnsters wilden het'",
     "subtitle": null,
     "published_at": "2023-04-06T06:52:53+02:00",
-    "updated_at": "2023-04-06T07:16:58+02:00",
+    "updated_at": "2023-04-06T08:29:52+02:00",
     "media_id": "idrxf17a8brw",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6258311/verkoop-nieuwbouwhuizen-eind-vorig-jaar-gehalveerd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258363,
-    "slug": "boze-klaassen-wilde-klassieker-niet-laten-staken-want-dan-hebben-ze-je",
-    "type": "article",
-    "title": "Boze Klaassen wilde Klassieker niet laten staken: 'Want dan hebben ze je'",
-    "subtitle": null,
-    "published_at": "2023-04-05T23:29:47+02:00",
-    "updated_at": "2023-04-06T07:18:44+02:00",
-    "media_id": "ka2xcv0ass50",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6258363/boze-klaassen-wilde-klassieker-niet-laten-staken-want-dan-hebben-ze-je.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258362,
-    "slug": "feyenoord-directeur-te-kloese-biedt-klaassen-excuses-aan-het-veld-is-heilig",
-    "type": "article",
-    "title": "Feyenoord-directeur Te Kloese biedt Klaassen excuses aan: 'Het veld is heilig'",
-    "subtitle": null,
-    "published_at": "2023-04-05T23:22:31+02:00",
-    "updated_at": "2023-04-06T08:18:46+02:00",
-    "media_id": "y0ix1etanx2f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6258362/feyenoord-directeur-te-kloese-biedt-klaassen-excuses-aan-het-veld-is-heilig.html",
     "open_new_window": false,
     "partner": null
   }
