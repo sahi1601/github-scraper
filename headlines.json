@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258535,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-04-07T05:16:32+02:00",
+    "updated_at": "2023-04-07T05:16:33+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6258535/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258274,
     "slug": "wees-marktplaats-fraude-voor-met-deze-tips-om-veilig-zaken-te-doen",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6258519,
-    "slug": "janssen-en-roord-staan-met-oranje-voor-ultieme-wk-test-tegen-hun-duitsland",
+    "slug": "janssen-en-roord-met-oranje-tegen-hun-duitsland-in-ultieme-wk-test",
     "type": "article",
-    "title": "Janssen en Roord staan met Oranje voor ultieme WK-test tegen 'hun' Duitsland",
+    "title": "Janssen en Roord met Oranje tegen 'hun' Duitsland in ultieme WK-test",
     "subtitle": "NU+",
     "published_at": "2023-04-07T05:10:31+02:00",
-    "updated_at": "2023-04-07T05:10:32+02:00",
+    "updated_at": "2023-04-07T05:23:29+02:00",
     "media_id": "n1kxcd1anvqa",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6258519/janssen-en-roord-staan-met-oranje-voor-ultieme-wk-test-tegen-hun-duitsland.html",
+    "url": "/voetbal/6258519/janssen-en-roord-met-oranje-tegen-hun-duitsland-in-ultieme-wk-test.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6258510/franse-jongen-van-veertien-aangeklaagd-voor-terrorisme-uit-naam-van-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258509,
-    "slug": "juventus-bestraft-voor-racisme-fans-bij-goal-lukaku-deel-stadion-een-duel-dicht",
-    "type": "article",
-    "title": "Juventus bestraft voor racisme fans bij goal Lukaku: deel stadion één duel dicht",
-    "subtitle": null,
-    "published_at": "2023-04-06T19:58:35+02:00",
-    "updated_at": "2023-04-06T22:28:53+02:00",
-    "media_id": "j82xfcqaovyw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6258509/juventus-bestraft-voor-racisme-fans-bij-goal-lukaku-deel-stadion-een-duel-dicht.html",
     "open_new_window": false,
     "partner": null
   }
