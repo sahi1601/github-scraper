@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258609,
+    "slug": "van-halst-blijft-als-rvc-lid-ajax-analist-maar-schuift-niet-meer-aan-bij-rondo",
+    "type": "article",
+    "title": "Van Halst blijft als rvc-lid Ajax analist, maar schuift niet meer aan bij Rondo",
+    "subtitle": null,
+    "published_at": "2023-04-07T15:20:52+02:00",
+    "updated_at": "2023-04-07T15:20:53+02:00",
+    "media_id": "h4pxlmcajeqz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6258609/van-halst-blijft-als-rvc-lid-ajax-analist-maar-schuift-niet-meer-aan-bij-rondo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258605,
     "slug": "star-wars-komt-met-drie-nieuwe-films-daisy-ridley-keert-terug-als-rey",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "De Engelse voetbalwet: hoe supportersgeweld daar wordt voorkomen",
     "subtitle": null,
     "published_at": "2023-04-07T15:03:05+02:00",
-    "updated_at": "2023-04-07T15:03:06+02:00",
+    "updated_at": "2023-04-07T15:16:54+02:00",
     "media_id": "ryuxnyaatooy",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6258565/dieronvriendelijk-of-leerzaam-praat-mee-over-dierentuinen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258579,
-    "slug": "politievakbond-over-enzo-knols-vlog-na-veel-te-hard-rijden-lekker-voorbeeld",
-    "type": "article",
-    "title": "Politievakbond over Enzo Knols vlog na veel te hard rijden: 'Lekker voorbeeld'",
-    "subtitle": null,
-    "published_at": "2023-04-07T12:11:36+02:00",
-    "updated_at": "2023-04-07T15:05:33+02:00",
-    "media_id": "megxy8farnr8",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6258579/politievakbond-over-enzo-knols-vlog-na-veel-te-hard-rijden-lekker-voorbeeld.html",
     "open_new_window": false,
     "partner": null
   }
