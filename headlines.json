@@ -1,12 +1,35 @@
 [
   {
+    "id": 6258773,
+    "slug": "van-nistelrooij-opgelucht-na-late-opleving-psv-voor-rust-waren-we-niet-scherp",
+    "type": "article",
+    "title": "Van Nistelrooij opgelucht na late opleving PSV: 'Voor rust waren we niet scherp'",
+    "subtitle": null,
+    "published_at": "2023-04-08T23:27:24+02:00",
+    "updated_at": "2023-04-08T23:30:16+02:00",
+    "media_id": "dbmxdzaaviy5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6258773/van-nistelrooij-opgelucht-na-late-opleving-psv-voor-rust-waren-we-niet-scherp.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258771,
     "slug": "massale-demonstraties-in-israel-sluiten-extra-gespannen-week-af",
     "type": "article",
     "title": "Massale demonstraties in Israël sluiten extra gespannen week af",
     "subtitle": null,
     "published_at": "2023-04-08T23:17:12+02:00",
-    "updated_at": "2023-04-08T23:17:14+02:00",
+    "updated_at": "2023-04-08T23:26:01+02:00",
     "media_id": "qd3xks8ak003",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "AZ verliest in Alkmaar ook van Sparta en blijft voor derde duel op rij zonder zege",
     "subtitle": null,
     "published_at": "2023-04-08T22:00:34+02:00",
-    "updated_at": "2023-04-08T22:24:29+02:00",
+    "updated_at": "2023-04-08T23:44:59+02:00",
     "media_id": "z8tx9s6axmfy",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6258738/dit-zeggen-jullie-over-meer-horeca-in-winkelstraten-kom-amper-nog-in-centrum.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258748,
-    "slug": "reacties-na-moeizame-winst-heerenveen-op-volendam",
-    "type": "article",
-    "title": "Reacties na moeizame winst Heerenveen op Volendam",
-    "subtitle": "Liveblog",
-    "published_at": "2023-04-08T18:20:21+02:00",
-    "updated_at": "2023-04-08T23:16:34+02:00",
-    "media_id": "7thxzssawgs0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6258748/reacties-na-moeizame-winst-heerenveen-op-volendam.html",
     "open_new_window": false,
     "partner": null
   }
