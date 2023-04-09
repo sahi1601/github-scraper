@@ -1,12 +1,35 @@
 [
   {
+    "id": 6258853,
+    "slug": "sprookje-gijs-brouwer-in-geboortestad-houston-eindigt-in-halve-finales",
+    "type": "article",
+    "title": "Sprookje Gijs Brouwer in geboortestad Houston eindigt in halve finales",
+    "subtitle": null,
+    "published_at": "2023-04-09T21:10:07+02:00",
+    "updated_at": "2023-04-09T21:17:10+02:00",
+    "media_id": "vw2x154aaajk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6258853/sprookje-gijs-brouwer-in-geboortestad-houston-eindigt-in-halve-finales.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258852,
     "slug": "ophef-in-engeland-over-elleboogstoot-grensrechter-aan-liverpool-back-robertson",
     "type": "article",
     "title": "Ophef in Engeland over elleboogstoot grensrechter aan Liverpool-back Robertson",
     "subtitle": null,
     "published_at": "2023-04-09T21:05:08+02:00",
-    "updated_at": "2023-04-09T21:05:10+02:00",
+    "updated_at": "2023-04-09T21:20:20+02:00",
     "media_id": "cm2xdajayouz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6258832/vier-doden-en-meerdere-gewonden-door-lawine-in-franse-alpen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258678,
-    "slug": "twaalf-seizoenen-boer-zoekt-vrouw-in-cijfers-en-kaarten",
-    "type": "article",
-    "title": "Twaalf seizoenen Boer zoekt Vrouw in cijfers en kaarten",
-    "subtitle": "Infographic",
-    "published_at": "2023-04-09T16:40:27+02:00",
-    "updated_at": "2023-04-09T17:03:00+02:00",
-    "media_id": "rjmx4h3aif22",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6258678/twaalf-seizoenen-boer-zoekt-vrouw-in-cijfers-en-kaarten.html",
     "open_new_window": false,
     "partner": null
   }
