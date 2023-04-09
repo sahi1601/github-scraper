@@ -1,5 +1,51 @@
 [
   {
+    "id": 6258793,
+    "slug": "haaland-zit-volgens-guardiola-op-hetzelfde-niveau-als-ronaldo-en-messi",
+    "type": "article",
+    "title": "Haaland zit volgens Guardiola op hetzelfde niveau als Ronaldo en Messi",
+    "subtitle": null,
+    "published_at": "2023-04-09T10:19:49+02:00",
+    "updated_at": "2023-04-09T10:19:51+02:00",
+    "media_id": "gxxxzg1aw325",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6258793/haaland-zit-volgens-guardiola-op-hetzelfde-niveau-als-ronaldo-en-messi.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6258792,
+    "slug": "musical-the-bodyguard-stilgelegd-wegens-vals-meezingende-vrouwen",
+    "type": "video",
+    "title": "Musical The Bodyguard stilgelegd wegens vals meezingende vrouwen",
+    "subtitle": "Video",
+    "published_at": "2023-04-09T10:16:38+02:00",
+    "updated_at": "2023-04-09T10:17:49+02:00",
+    "media_id": "jz5xrb9akel8",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6258792/musical-the-bodyguard-stilgelegd-wegens-vals-meezingende-vrouwen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258566,
     "slug": "beroemdheden-nemen-afscheid-van-botox-en-fillers-neem-geen-bilvergroting",
     "type": "article",
@@ -328,7 +374,7 @@
     "title": "Nieuwe truc in Parijs-Roubaix: je banden oppompen tijdens het fietsen",
     "subtitle": "Explainer",
     "published_at": "2023-04-09T05:58:15+02:00",
-    "updated_at": "2023-04-09T09:45:27+02:00",
+    "updated_at": "2023-04-09T10:18:25+02:00",
     "media_id": "q7lxazpaw3wv",
     "duration": "2:26",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech/6258171/studenten-bouwen-hun-dromen-in-delftse-dream-hall-magische-plek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258242,
-    "slug": "realitysoap-de-bevers-keert-terug-cameraploeg-heeft-sleutel-van-ons-huis",
-    "type": "article",
-    "title": "Realitysoap De Bevers keert terug: 'Cameraploeg heeft sleutel van ons huis'",
-    "subtitle": null,
-    "published_at": "2023-04-09T05:08:30+02:00",
-    "updated_at": "2023-04-09T10:15:22+02:00",
-    "media_id": "ugyxw4markhu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6258242/realitysoap-de-bevers-keert-terug-cameraploeg-heeft-sleutel-van-ons-huis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258425,
-    "slug": "in-parijs-roubaix-liggen-spektakel-en-chaos-altijd-op-de-loer",
-    "type": "article",
-    "title": "In Parijs-Roubaix liggen spektakel en chaos altijd op de loer",
-    "subtitle": "NU+",
-    "published_at": "2023-04-09T05:05:32+02:00",
-    "updated_at": "2023-04-09T05:13:35+02:00",
-    "media_id": "laqxzsra83jm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6258425/in-parijs-roubaix-liggen-spektakel-en-chaos-altijd-op-de-loer.html",
     "open_new_window": false,
     "partner": null
   }
