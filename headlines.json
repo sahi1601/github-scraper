@@ -1,5 +1,28 @@
 [
   {
+    "id": 6258911,
+    "slug": "jan-smit-over-afscheid-nick-simon-niet-verwacht-dat-het-zo-veel-met-me-zou-doen",
+    "type": "article",
+    "title": "Jan Smit over afscheid Nick & Simon: 'Niet verwacht dat het zo veel met me zou doen'",
+    "subtitle": null,
+    "published_at": "2023-04-10T14:29:16+02:00",
+    "updated_at": "2023-04-10T14:30:18+02:00",
+    "media_id": "pr4xtnka7jdx",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6258911/jan-smit-over-afscheid-nick-simon-niet-verwacht-dat-het-zo-veel-met-me-zou-doen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258901,
     "slug": "groot-lek-brengt-niet-alleen-vs-maar-ook-verdediging-oekraine-in-verlegenheid",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/opmerkelijk/6258881/bankovervalster-78-opnieuw-in-de-fout-ik-wilde-de-kassiere-niet-bang-maken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258879,
-    "slug": "zes-wandelaars-overleden-bij-lawine-in-franse-alpen",
-    "type": "video",
-    "title": "Zes wandelaars overleden bij lawine in Franse Alpen",
-    "subtitle": "Video",
-    "published_at": "2023-04-10T09:56:09+02:00",
-    "updated_at": "2023-04-10T11:36:21+02:00",
-    "media_id": "mp8x80oa7rqu",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6258879/zes-wandelaars-overleden-bij-lawine-in-franse-alpen.html",
     "open_new_window": false,
     "partner": null
   }
