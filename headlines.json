@@ -1,12 +1,35 @@
 [
   {
+    "id": 6258983,
+    "slug": "rus-filmt-reusachtige-aswolk-na-vulkaanuitbarsting",
+    "type": "video",
+    "title": "Rus filmt reusachtige aswolk na vulkaanuitbarsting",
+    "subtitle": "Video",
+    "published_at": "2023-04-11T10:41:13+02:00",
+    "updated_at": "2023-04-11T10:42:52+02:00",
+    "media_id": "yxyxkbaasuoz",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6258983/rus-filmt-reusachtige-aswolk-na-vulkaanuitbarsting.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258980,
     "slug": "kabinet-gaat-in-beroep-tegen-uitspraak-over-schiphol-krimp",
     "type": "article",
     "title": "Kabinet gaat in beroep tegen uitspraak over Schiphol-krimp",
     "subtitle": null,
     "published_at": "2023-04-11T10:18:15+02:00",
-    "updated_at": "2023-04-11T10:25:45+02:00",
+    "updated_at": "2023-04-11T10:36:08+02:00",
     "media_id": "jwrxfz9as2re",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Pete Philly & Perquisite geven in herfst reünieconcert in AFAS Live",
     "subtitle": null,
     "published_at": "2023-04-11T09:56:04+02:00",
-    "updated_at": "2023-04-11T09:56:06+02:00",
+    "updated_at": "2023-04-11T10:32:21+02:00",
     "media_id": "0hvxy3ra0m6o",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "De nieuwe Epke? Turner Loran de Munck vindt het vooral een mooi compliment",
     "subtitle": null,
     "published_at": "2023-04-11T05:13:02+02:00",
-    "updated_at": "2023-04-11T05:13:03+02:00",
+    "updated_at": "2023-04-11T10:31:37+02:00",
     "media_id": "fo7x971a2hur",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6258647/de-nieuwe-epke-turner-loran-de-munck-vindt-het-vooral-een-mooi-compliment.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258893,
-    "slug": "nederland-kan-portugal-deze-week-knock-out-slaan-op-coefficientenlijst",
-    "type": "article",
-    "title": "Nederland kan Portugal deze week knock-out slaan op coëfficiëntenlijst",
-    "subtitle": "NU+",
-    "published_at": "2023-04-11T05:11:23+02:00",
-    "updated_at": "2023-04-11T06:44:59+02:00",
-    "media_id": "aftxt5hasu43",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6258893/nederland-kan-portugal-deze-week-knock-out-slaan-op-coefficientenlijst.html",
     "open_new_window": false,
     "partner": null
   }
