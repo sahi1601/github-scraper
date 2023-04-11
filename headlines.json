@@ -1,12 +1,35 @@
 [
   {
+    "id": 6259066,
+    "slug": "kluivert-door-blessure-voorlopig-niet-beschikbaar-in-degradatiestrijd-valencia",
+    "type": "article",
+    "title": "Kluivert door blessure voorlopig niet beschikbaar in degradatiestrijd Valencia",
+    "subtitle": null,
+    "published_at": "2023-04-11T19:21:12+02:00",
+    "updated_at": "2023-04-11T19:21:14+02:00",
+    "media_id": "awbxhw2al9yc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6259066/kluivert-door-blessure-voorlopig-niet-beschikbaar-in-degradatiestrijd-valencia.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258993,
     "slug": "oranjevrouwen-houden-tegen-polen-vast-aan-duitse-formule-brugts-linksachter",
     "type": "article",
     "title": "Oranjevrouwen houden tegen Polen vast aan 'Duitse formule': Brugts linksachter",
     "subtitle": null,
     "published_at": "2023-04-11T18:55:57+02:00",
-    "updated_at": "2023-04-11T18:55:58+02:00",
+    "updated_at": "2023-04-11T19:19:23+02:00",
     "media_id": "6omxxtfa2zes",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6259062,
-    "slug": "clubicoon-van-polen-viert-zeventiende-jaar-bij-pec-zwolle-met-rondje-voor-alle-fans",
+    "slug": "clubicoon-van-polen-viert-zeventiende-jaar-bij-pec-zwolle-met-rondje-voor-de-fans",
     "type": "article",
-    "title": "Clubicoon Van Polen viert zeventiende jaar bij PEC Zwolle met rondje voor alle fans",
+    "title": "Clubicoon Van Polen viert zeventiende jaar bij PEC Zwolle met rondje voor de fans",
     "subtitle": null,
     "published_at": "2023-04-11T18:41:33+02:00",
-    "updated_at": "2023-04-11T19:09:18+02:00",
+    "updated_at": "2023-04-11T19:15:12+02:00",
     "media_id": "azoxfbla2moh",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6259062/clubicoon-van-polen-viert-zeventiende-jaar-bij-pec-zwolle-met-rondje-voor-alle-fans.html",
+    "url": "/voetbal/6259062/clubicoon-van-polen-viert-zeventiende-jaar-bij-pec-zwolle-met-rondje-voor-de-fans.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6259036/marquez-moet-ook-grand-prix-van-amerika-laten-schieten-na-val-in-openingsrace.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258141,
-    "slug": "veel-geld-voor-weinig-resultaat-lage-btw-tarief-onder-druk",
-    "type": "article",
-    "title": "Veel geld voor weinig resultaat: lage btw-tarief onder druk",
-    "subtitle": null,
-    "published_at": "2023-04-11T15:45:42+02:00",
-    "updated_at": "2023-04-11T15:45:43+02:00",
-    "media_id": "d77xiloag0bv",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6258141/veel-geld-voor-weinig-resultaat-lage-btw-tarief-onder-druk.html",
     "open_new_window": false,
     "partner": null
   }
