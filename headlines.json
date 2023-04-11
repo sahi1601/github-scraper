@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259027,
+    "slug": "ancelotti-neemt-het-op-voor-veelbesproken-valverde-een-bijzonder-mens",
+    "type": "article",
+    "title": "Ancelotti neemt het op voor veelbesproken Valverde: 'Een bijzonder mens'",
+    "subtitle": null,
+    "published_at": "2023-04-11T15:23:52+02:00",
+    "updated_at": "2023-04-11T15:23:53+02:00",
+    "media_id": "vozxhoval2b8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6259027/ancelotti-neemt-het-op-voor-veelbesproken-valverde-een-bijzonder-mens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6258574,
     "slug": "milieu-centraal-ongemakkelijke-waarheid-dat-we-moeten-consuminderen",
     "type": "article",
@@ -236,7 +259,7 @@
     "title": "NOS: Omstreden UvA-docent Buijs was toch 'niet beste duider' anti-lhbtiq+-geweld",
     "subtitle": null,
     "published_at": "2023-04-11T13:05:12+02:00",
-    "updated_at": "2023-04-11T14:38:31+02:00",
+    "updated_at": "2023-04-11T15:22:59+02:00",
     "media_id": "oqfxzegaov8s",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6258991/hackers-misbruiken-openbare-opladers-om-smartphones-te-hacken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6258987,
-    "slug": "ferry-de-haan-maakt-promotie-bij-sc-heerenveen-en-wordt-algemeen-directeur",
-    "type": "article",
-    "title": "Ferry de Haan maakt promotie bij sc Heerenveen en wordt algemeen directeur",
-    "subtitle": null,
-    "published_at": "2023-04-11T11:08:44+02:00",
-    "updated_at": "2023-04-11T11:08:45+02:00",
-    "media_id": "8btxtn9a6w5j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6258987/ferry-de-haan-maakt-promotie-bij-sc-heerenveen-en-wordt-algemeen-directeur.html",
     "open_new_window": false,
     "partner": null
   }
