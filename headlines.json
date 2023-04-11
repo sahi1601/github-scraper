@@ -1,13 +1,36 @@
 [
   {
+    "id": 6259075,
+    "slug": "turners-grijpen-felbegeerd-wk-ticket-en-zijn-stap-dichter-bij-olympische-droom",
+    "type": "article",
+    "title": "Turners grijpen felbegeerd WK-ticket en zijn stap dichter bij olympische droom",
+    "subtitle": null,
+    "published_at": "2023-04-11T20:41:04+02:00",
+    "updated_at": "2023-04-11T20:41:06+02:00",
+    "media_id": "1ucxto9aybs6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6259075/turners-grijpen-felbegeerd-wk-ticket-en-zijn-stap-dichter-bij-olympische-droom.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259064,
     "slug": "de-ligt-treft-doelpuntenmachine-haaland-in-kwartfinale-cl",
     "type": "article",
     "title": "De Ligt treft doelpuntenmachine Haaland in kwartfinale CL",
     "subtitle": "Liveblog",
     "published_at": "2023-04-11T20:01:39+02:00",
-    "updated_at": "2023-04-11T20:09:57+02:00",
-    "media_id": "u68x4tqajaxz",
+    "updated_at": "2023-04-11T20:37:20+02:00",
+    "media_id": "qbpxy39ay4ic",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -116,13 +139,13 @@
   },
   {
     "id": 6259068,
-    "slug": "oranjevrouwen-jagen-op-openingstreffer-in-oefenduel-met-polen",
+    "slug": "oranjevrouwen-op-achterstand-tegen-polen-beerensteyn-raakt-paal",
     "type": "article",
-    "title": "Oranjevrouwen jagen op openingstreffer in oefenduel met Polen",
+    "title": "Oranjevrouwen op achterstand tegen Polen, Beerensteyn raakt paal",
     "subtitle": "Liveblog",
     "published_at": "2023-04-11T19:24:39+02:00",
-    "updated_at": "2023-04-11T20:20:37+02:00",
-    "media_id": "vhhx694ajyhx",
+    "updated_at": "2023-04-11T20:39:46+02:00",
+    "media_id": "80hxw5garyfq",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6259068/oranjevrouwen-jagen-op-openingstreffer-in-oefenduel-met-polen.html",
+    "url": "/voetbal/6259068/oranjevrouwen-op-achterstand-tegen-polen-beerensteyn-raakt-paal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6259053/actievoerders-verstoren-toespraak-macron-in-den-haag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259049,
-    "slug": "lezers-over-bereikbaar-zijn-buiten-werktijd-moet-wel-wat-tegenover-staan",
-    "type": "article",
-    "title": "Lezers over bereikbaar zijn buiten werktijd: 'Moet wel wat tegenover staan'",
-    "subtitle": null,
-    "published_at": "2023-04-11T16:58:48+02:00",
-    "updated_at": "2023-04-11T17:35:44+02:00",
-    "media_id": "pz2xfgcaco2a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6259049/lezers-over-bereikbaar-zijn-buiten-werktijd-moet-wel-wat-tegenover-staan.html",
     "open_new_window": false,
     "partner": null
   }
