@@ -1,12 +1,35 @@
 [
   {
+    "id": 6259062,
+    "slug": "pec-icoon-van-polen-verlengt-contract-en-staat-voor-17e-seizoen-in-zwolle",
+    "type": "article",
+    "title": "PEC-icoon Van Polen verlengt contract en staat voor 17e seizoen in Zwolle",
+    "subtitle": null,
+    "published_at": "2023-04-11T18:41:33+02:00",
+    "updated_at": "2023-04-11T18:42:38+02:00",
+    "media_id": "azoxfbla2moh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6259062/pec-icoon-van-polen-verlengt-contract-en-staat-voor-17e-seizoen-in-zwolle.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259061,
     "slug": "djokovic-opent-gravelseizoen-met-zege-bij-terugkeer-na-maand-afwezigheid",
     "type": "article",
     "title": "Djokovic opent gravelseizoen met zege bij terugkeer na maand afwezigheid",
     "subtitle": null,
     "published_at": "2023-04-11T18:32:25+02:00",
-    "updated_at": "2023-04-11T18:32:26+02:00",
+    "updated_at": "2023-04-11T18:36:15+02:00",
     "media_id": "pstx1yia1ns4",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/auto/6259032/rijimpressie-aiways-u6.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259030,
-    "slug": "we-zijn-nog-niet-van-de-inflatie-af-ook-volgend-jaar-stijgen-de-prijzen",
-    "type": "article",
-    "title": "We zijn nog niet van de inflatie af, ook volgend jaar stijgen de prijzen",
-    "subtitle": null,
-    "published_at": "2023-04-11T15:37:54+02:00",
-    "updated_at": "2023-04-11T17:33:57+02:00",
-    "media_id": "t8ax75jaacrx",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6259030/we-zijn-nog-niet-van-de-inflatie-af-ook-volgend-jaar-stijgen-de-prijzen.html",
     "open_new_window": false,
     "partner": null
   }
