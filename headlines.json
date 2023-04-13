@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259243,
+    "slug": "voedingsmiddelen-brood-en-alcoholische-dranken-veel-duurder-in-maart",
+    "type": "article",
+    "title": "Voedingsmiddelen, brood en alcoholische dranken veel duurder in maart",
+    "subtitle": null,
+    "published_at": "2023-04-13T07:13:50+02:00",
+    "updated_at": "2023-04-13T07:13:52+02:00",
+    "media_id": "gj1xxd5aj1z4",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6259243/voedingsmiddelen-brood-en-alcoholische-dranken-veel-duurder-in-maart.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259174,
     "slug": "voor-de-wolf-is-in-nederland-geen-plek",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6259229/warner-bros-discovery-komt-in-2024-met-streamingdienst-max-naar-nederland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259228,
-    "slug": "warner-bros-kondigt-nieuwe-harry-potter-serie-en-spin-off-big-bang-theory-aan",
-    "type": "article",
-    "title": "Warner Bros. kondigt nieuwe Harry Potter-serie en spin-off Big Bang Theory aan",
-    "subtitle": null,
-    "published_at": "2023-04-12T20:59:43+02:00",
-    "updated_at": "2023-04-12T22:00:48+02:00",
-    "media_id": "8x5xqoya3c49",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6259228/warner-bros-kondigt-nieuwe-harry-potter-serie-en-spin-off-big-bang-theory-aan.html",
     "open_new_window": false,
     "partner": null
   }
