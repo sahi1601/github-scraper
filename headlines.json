@@ -1,5 +1,51 @@
 [
   {
+    "id": 6259300,
+    "slug": "rita-ora-en-oekraiense-oud-deelnemers-treden-op-tijdens-eurovisie-songfestival",
+    "type": "article",
+    "title": "Rita Ora en Oekraïense oud-deelnemers treden op tijdens Eurovisie Songfestival",
+    "subtitle": null,
+    "published_at": "2023-04-13T12:24:22+02:00",
+    "updated_at": "2023-04-13T12:24:23+02:00",
+    "media_id": "dvsxcffaoiiw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772282,
+      "slug": "songfestival",
+      "type": "default",
+      "name": "Songfestival",
+      "style": "nuuit",
+      "media_id": "4a9xjerag1rk",
+      "partner": null
+    },
+    "url": "/songfestival/6259300/rita-ora-en-oekraiense-oud-deelnemers-treden-op-tijdens-eurovisie-songfestival.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259299,
+    "slug": "eurokoers-stijgt-voor-het-eerst-in-een-jaar-boven-de-110-dollar",
+    "type": "article",
+    "title": "Eurokoers stijgt voor het eerst in een jaar boven de 1,10 dollar",
+    "subtitle": null,
+    "published_at": "2023-04-13T12:16:01+02:00",
+    "updated_at": "2023-04-13T12:16:02+02:00",
+    "media_id": "xf9xt9rab916",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6259299/eurokoers-stijgt-voor-het-eerst-in-een-jaar-boven-de-110-dollar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259293,
     "slug": "advies-raak-niet-zwanger-in-eerste-maanden-na-stoppen-met-pil",
     "type": "article",
@@ -121,7 +167,7 @@
     "title": "Van Rijthoven verwacht binnen vier tot zes weken terug te keren op tennisbaan",
     "subtitle": null,
     "published_at": "2023-04-13T11:28:18+02:00",
-    "updated_at": "2023-04-13T11:28:20+02:00",
+    "updated_at": "2023-04-13T12:14:33+02:00",
     "media_id": "cq9xo98a59w5",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech/6259275/zo-ziet-de-esa-ruimtemissie-naar-jupiter-eruit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259267,
-    "slug": "topman-van-totalenergies-waarschuwt-dat-gascrisis-in-europa-nog-niet-voorbij-is",
-    "type": "article",
-    "title": "Topman van TotalEnergies waarschuwt dat gascrisis in Europa nog niet voorbij is",
-    "subtitle": null,
-    "published_at": "2023-04-13T09:58:26+02:00",
-    "updated_at": "2023-04-13T11:40:37+02:00",
-    "media_id": "16vxb1layc6l",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6259267/topman-van-totalenergies-waarschuwt-dat-gascrisis-in-europa-nog-niet-voorbij-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259257,
-    "slug": "napoli-coach-spalletti-woest-op-arbitrage-welk-signaal-geef-je-aan-kinderen",
-    "type": "article",
-    "title": "Napoli-coach Spalletti woest op arbitrage: 'Welk signaal geef je aan kinderen?'",
-    "subtitle": null,
-    "published_at": "2023-04-13T09:42:28+02:00",
-    "updated_at": "2023-04-13T09:42:29+02:00",
-    "media_id": "nxixvrnazs2q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6259257/napoli-coach-spalletti-woest-op-arbitrage-welk-signaal-geef-je-aan-kinderen.html",
     "open_new_window": false,
     "partner": null
   }
