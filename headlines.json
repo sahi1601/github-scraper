@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259463,
+    "slug": "ziekenhuisopname-jamie-foxx-heeft-mogelijk-gevolgen-voor-nieuwe-netflix-film",
+    "type": "article",
+    "title": "Ziekenhuisopname Jamie Foxx heeft mogelijk gevolgen voor nieuwe Netflix-film",
+    "subtitle": null,
+    "published_at": "2023-04-14T12:13:20+02:00",
+    "updated_at": "2023-04-14T12:13:21+02:00",
+    "media_id": "vhexe9pajsjf",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6259463/ziekenhuisopname-jamie-foxx-heeft-mogelijk-gevolgen-voor-nieuwe-netflix-film.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259424,
     "slug": "werknemers-met-baas-over-de-grens-krijgen-soepelere-regels-voor-thuiswerken",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Prins Laurent kijkt niet naar documentaire over zichzelf: 'Ik ken mijn leven'",
     "subtitle": null,
     "published_at": "2023-04-14T11:51:48+02:00",
-    "updated_at": "2023-04-14T12:06:53+02:00",
+    "updated_at": "2023-04-14T12:20:59+02:00",
     "media_id": "8vmxqtpadao5",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6259336/industrie-stoot-veel-minder-co2-uit-door-hoge-gasprijs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259414,
-    "slug": "ten-hag-baalt-stevig-van-dramatische-slotfase-en-blessures-varane-en-martinez",
-    "type": "article",
-    "title": "Ten Hag baalt stevig van dramatische slotfase en blessures Varane en Martínez",
-    "subtitle": null,
-    "published_at": "2023-04-14T07:09:23+02:00",
-    "updated_at": "2023-04-14T07:49:56+02:00",
-    "media_id": "i7zxoieaemk5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6259414/ten-hag-baalt-stevig-van-dramatische-slotfase-en-blessures-varane-en-martinez.html",
     "open_new_window": false,
     "partner": null
   }
