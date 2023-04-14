@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259422,
+    "slug": "philips-terugroepactie-slaapapneu-apparaten-verloopt-te-traag",
+    "type": "article",
+    "title": "Philips' terugroepactie slaapapneu-apparaten verloopt te traag",
+    "subtitle": null,
+    "published_at": "2023-04-14T09:51:52+02:00",
+    "updated_at": "2023-04-14T09:51:54+02:00",
+    "media_id": "k14xxada60i8",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6259422/philips-terugroepactie-slaapapneu-apparaten-verloopt-te-traag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259423,
     "slug": "belgische-aanvaller-vanzeir-zes-duels-geschorst-in-vs-vanwege-racisme",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6259370,
-    "slug": "goudjakhals-vaker-in-nederland-maar-is-amper-te-zien-hoe-komt-dat",
+    "slug": "goudjakhals-vaker-in-ons-land-maar-je-ziet-hem-amper-hoe-kan-dat",
     "type": "video",
-    "title": "Goudjakhals vaker in Nederland, maar is amper te zien: hoe komt dat?",
+    "title": "Goudjakhals vaker in ons land, maar je ziet hem amper: hoe kan dat?",
     "subtitle": "Explainer",
     "published_at": "2023-04-14T09:07:26+02:00",
-    "updated_at": "2023-04-14T09:39:41+02:00",
+    "updated_at": "2023-04-14T09:51:57+02:00",
     "media_id": "vcax6o7axzx1",
     "duration": "2:49",
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6259370/goudjakhals-vaker-in-nederland-maar-is-amper-te-zien-hoe-komt-dat.html",
+    "url": "/binnenland/6259370/goudjakhals-vaker-in-ons-land-maar-je-ziet-hem-amper-hoe-kan-dat.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +420,7 @@
     "title": "Op zoek naar eerherstel zorgen Feyenoord-fans nu wél voor 'geweldige sfeer'",
     "subtitle": null,
     "published_at": "2023-04-14T05:11:49+02:00",
-    "updated_at": "2023-04-14T07:38:10+02:00",
+    "updated_at": "2023-04-14T10:10:58+02:00",
     "media_id": "u40xicja81xt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6259330/elektrische-vrachtwagen-maakt-opmars-maar-niemand-wil-rijden-op-waterstof.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259047,
-    "slug": "franse-raad-der-wijzen-moet-uitsluitsel-bieden-in-grimmig-pensioengevecht",
-    "type": "article",
-    "title": "Franse 'Raad der Wijzen' moet uitsluitsel bieden in grimmig pensioengevecht",
-    "subtitle": null,
-    "published_at": "2023-04-14T05:09:31+02:00",
-    "updated_at": "2023-04-14T06:25:53+02:00",
-    "media_id": "56rx91laqm9a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6259047/franse-raad-der-wijzen-moet-uitsluitsel-bieden-in-grimmig-pensioengevecht.html",
     "open_new_window": false,
     "partner": null
   }
