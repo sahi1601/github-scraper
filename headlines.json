@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259279,
+    "slug": "gezond-lunchen-in-de-bedrijfskantine-zo-doe-je-dat",
+    "type": "article",
+    "title": "Gezond lunchen in de bedrijfskantine? Zo doe je dat",
+    "subtitle": "NU+",
+    "published_at": "2023-04-16T20:31:35+02:00",
+    "updated_at": "2023-04-16T20:31:36+02:00",
+    "media_id": "or9xuzoa20dg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1146768,
+      "slug": "gezondheid",
+      "type": "default",
+      "name": "Gezondheid",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/gezondheid/6259279/gezond-lunchen-in-de-bedrijfskantine-zo-doe-je-dat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259724,
     "slug": "ambulance-staat-bij-spelersbus-fc-twente-op-snelweg",
     "type": "video",
@@ -259,7 +282,7 @@
     "title": "Antony leidt United en Ten Hag naar zege, koploper Arsenal verspeelt weer punten",
     "subtitle": null,
     "published_at": "2023-04-16T16:55:37+02:00",
-    "updated_at": "2023-04-16T20:02:17+02:00",
+    "updated_at": "2023-04-16T20:36:50+02:00",
     "media_id": "ukbxm6hamryl",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/vragenoproep/6259700/ben-jij-een-nederlander-in-soedan-deel-je-verhaal-met-nunl.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259703,
-    "slug": "nederlanders-in-soedan-moeten-langer-binnen-blijven-en-zuinig-zijn-met-voedsel",
-    "type": "article",
-    "title": "Nederlanders in Soedan moeten langer binnen blijven en zuinig zijn met voedsel",
-    "subtitle": null,
-    "published_at": "2023-04-16T15:21:50+02:00",
-    "updated_at": "2023-04-16T16:09:36+02:00",
-    "media_id": "56wx7b3a5gb3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6259703/nederlanders-in-soedan-moeten-langer-binnen-blijven-en-zuinig-zijn-met-voedsel.html",
     "open_new_window": false,
     "partner": null
   }
