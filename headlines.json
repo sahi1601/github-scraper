@@ -1,12 +1,35 @@
 [
   {
-    "id": 6259882,
-    "slug": "cabaretduo-lebbis-jansen-na-zeventien-jaar-weer-samen-op-tournee",
+    "id": 6259881,
+    "slug": "minister-wil-voetbalgeweld-veel-harder-aanpakken-en-ziet-engeland-als-voorbeeld",
     "type": "article",
-    "title": "Cabaretduo Lebbis & Jansen na zeventien jaar weer samen op tournee",
+    "title": "Minister wil voetbalgeweld veel harder aanpakken en ziet Engeland als voorbeeld",
+    "subtitle": null,
+    "published_at": "2023-04-17T23:13:18+02:00",
+    "updated_at": "2023-04-17T23:22:00+02:00",
+    "media_id": "btsxyq3abo7h",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6259881/minister-wil-voetbalgeweld-veel-harder-aanpakken-en-ziet-engeland-als-voorbeeld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259882,
+    "slug": "cabaretduo-lebbis-en-jansen-na-zeventien-jaar-weer-samen-op-tournee",
+    "type": "article",
+    "title": "Cabaretduo Lebbis en Jansen na zeventien jaar weer samen op tournee",
     "subtitle": null,
     "published_at": "2023-04-17T23:05:24+02:00",
-    "updated_at": "2023-04-17T23:05:38+02:00",
+    "updated_at": "2023-04-17T23:14:38+02:00",
     "media_id": "gznxr0aa8zgq",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/entertainment/6259882/cabaretduo-lebbis-jansen-na-zeventien-jaar-weer-samen-op-tournee.html",
+    "url": "/entertainment/6259882/cabaretduo-lebbis-en-jansen-na-zeventien-jaar-weer-samen-op-tournee.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "VN roept op tot staakt-het-vuren in Soedan, EU-ambassadeur thuis aangevallen",
     "subtitle": null,
     "published_at": "2023-04-17T20:56:36+02:00",
-    "updated_at": "2023-04-17T22:44:49+02:00",
+    "updated_at": "2023-04-17T23:20:49+02:00",
     "media_id": "t0axqj2axpaq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6259857/revelatie-wieffer-verlengt-bij-feyenoord-bijzonder-wat-ik-allemaal-meemaak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259855,
-    "slug": "duncan-laurence-heeft-vertrouwen-in-dion-en-mia-komt-goed-in-liverpool",
-    "type": "article",
-    "title": "Duncan Laurence heeft vertrouwen in Dion en Mia: 'Komt goed in Liverpool'",
-    "subtitle": null,
-    "published_at": "2023-04-17T18:35:08+02:00",
-    "updated_at": "2023-04-17T19:58:21+02:00",
-    "media_id": "dspxtwzap7wo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772282,
-      "slug": "songfestival",
-      "type": "default",
-      "name": "Songfestival",
-      "style": "nuuit",
-      "media_id": "4a9xjerag1rk",
-      "partner": null
-    },
-    "url": "/songfestival/6259855/duncan-laurence-heeft-vertrouwen-in-dion-en-mia-komt-goed-in-liverpool.html",
     "open_new_window": false,
     "partner": null
   }
