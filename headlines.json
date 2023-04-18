@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259884,
+    "slug": "loopfenomeen-brinkman-verrast-zichzelf-met-olympisch-ticket-het-was-erg-zwaar",
+    "type": "article",
+    "title": "Loopfenomeen Brinkman verrast zichzelf met olympisch ticket: 'Het was erg zwaar'",
+    "subtitle": null,
+    "published_at": "2023-04-18T06:31:27+02:00",
+    "updated_at": "2023-04-18T06:31:28+02:00",
+    "media_id": "0pcx2wra90n6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6259884/loopfenomeen-brinkman-verrast-zichzelf-met-olympisch-ticket-het-was-erg-zwaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259890,
     "slug": "mariette-hamer-zet-artiesten-in-voor-gesprek-over-grensoverschrijdend-gedrag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6259875/speler-fc-twente-die-zondag-onwel-werd-ontslagen-uit-ziekenhuis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259874,
-    "slug": "brandweer-sloopt-brandend-pand-in-zoetermeer-wegens-moeite-met-blussen",
-    "type": "article",
-    "title": "Brandweer sloopt brandend pand in Zoetermeer wegens moeite met blussen",
-    "subtitle": null,
-    "published_at": "2023-04-17T21:23:41+02:00",
-    "updated_at": "2023-04-18T00:06:13+02:00",
-    "media_id": "wucxzr0am0k1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6259874/brandweer-sloopt-brandend-pand-in-zoetermeer-wegens-moeite-met-blussen.html",
     "open_new_window": false,
     "partner": null
   }
