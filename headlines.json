@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259890,
+    "slug": "mariette-hamer-zet-artiesten-in-voor-gesprek-over-grensoverschrijdend-gedrag",
+    "type": "article",
+    "title": "Mariëtte Hamer zet artiesten in voor gesprek over grensoverschrijdend gedrag",
+    "subtitle": null,
+    "published_at": "2023-04-18T06:27:38+02:00",
+    "updated_at": "2023-04-18T06:27:39+02:00",
+    "media_id": "2nuxdqsaj9l6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6259890/mariette-hamer-zet-artiesten-in-voor-gesprek-over-grensoverschrijdend-gedrag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259861,
     "slug": "aantal-miljoenenwoningen-stijgt-naar-ruim-4-procent-van-alle-koophuizen",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Witte man aangeklaagd om neerschieten zwarte tiener in de VS",
     "subtitle": null,
     "published_at": "2023-04-18T05:43:47+02:00",
-    "updated_at": "2023-04-18T05:43:48+02:00",
+    "updated_at": "2023-04-18T06:22:32+02:00",
     "media_id": "91uxelxa9nhm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6259874/brandweer-sloopt-brandend-pand-in-zoetermeer-wegens-moeite-met-blussen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6259871,
-    "slug": "wk-snooker-verstoord-door-activist-die-oranje-poeder-op-tafel-gooit",
-    "type": "article",
-    "title": "WK snooker verstoord door activist die oranje poeder op tafel gooit",
-    "subtitle": null,
-    "published_at": "2023-04-17T21:14:35+02:00",
-    "updated_at": "2023-04-18T02:25:39+02:00",
-    "media_id": "xb3xt8iapjsn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6259871/wk-snooker-verstoord-door-activist-die-oranje-poeder-op-tafel-gooit.html",
     "open_new_window": false,
     "partner": null
   }
