@@ -1,5 +1,28 @@
 [
   {
+    "id": 6260160,
+    "slug": "giroud-verlengt-dag-na-hoofdrol-in-champions-league-aflopend-contract-bij-milan",
+    "type": "article",
+    "title": "Giroud verlengt dag na hoofdrol in Champions League aflopend contract bij Milan",
+    "subtitle": null,
+    "published_at": "2023-04-19T18:21:00+02:00",
+    "updated_at": "2023-04-19T18:21:02+02:00",
+    "media_id": "aboxj19ar2vw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6260160/giroud-verlengt-dag-na-hoofdrol-in-champions-league-aflopend-contract-bij-milan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260156,
     "slug": "israeliers-stoppen-op-snelweg-om-holocaust-te-herdenken",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6260123/geen-buitenbaan-maar-milanese-congreshal-is-schaatslocatie-tijdens-spelen-2026.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260130,
-    "slug": "pizzeria-in-bologna-serveert-pizza-van-krekelmeel",
-    "type": "video",
-    "title": "Pizzeria in Bologna serveert pizza van krekelmeel",
-    "subtitle": "Video",
-    "published_at": "2023-04-19T15:37:31+02:00",
-    "updated_at": "2023-04-19T15:37:33+02:00",
-    "media_id": "60ox4sfa5a2j",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6260130/pizzeria-in-bologna-serveert-pizza-van-krekelmeel.html",
     "open_new_window": false,
     "partner": null
   }
