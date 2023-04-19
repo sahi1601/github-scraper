@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259985,
+    "slug": "waarom-schrijft-nunl-ied-al-fitr-en-niet-eid-al-fitr-of-suikerfeest",
+    "type": "article",
+    "title": "Waarom schrijft NU.nl Ied-al-Fitr en niet Eid-al-Fitr (of Suikerfeest)?",
+    "subtitle": "Lezersvraag",
+    "published_at": "2023-04-19T15:19:58+02:00",
+    "updated_at": "2023-04-19T15:20:00+02:00",
+    "media_id": "8rwxmxxam667",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779003,
+      "slug": "gebaseerd-op-jullie-vragen",
+      "type": "default",
+      "name": "gebaseerd op jullie vragen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/gebaseerd-op-jullie-vragen/6259985/waarom-schrijft-nunl-ied-al-fitr-en-niet-eid-al-fitr-of-suikerfeest.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260119,
     "slug": "ing-verhoogt-spaarrente-naar-075-procent",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Staat schikt met patiënten die na prik tegen Mexicaanse griep narcolepsie kregen",
     "subtitle": null,
     "published_at": "2023-04-19T14:38:05+02:00",
-    "updated_at": "2023-04-19T15:09:52+02:00",
+    "updated_at": "2023-04-19T15:26:23+02:00",
     "media_id": "vm7xzk3aglm1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/marengo-proces/6260058/ridouan-taghi-doet-aangifte-tegen-staat-vanwege-plan-om-hem-uit-te-schakelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260088,
-    "slug": "raketbrandstof-zorgt-voor-bijzondere-luchtspiraal-boven-alaska",
-    "type": "video",
-    "title": "Raketbrandstof zorgt voor bijzondere luchtspiraal boven Alaska",
-    "subtitle": "Video",
-    "published_at": "2023-04-19T11:41:54+02:00",
-    "updated_at": "2023-04-19T11:41:55+02:00",
-    "media_id": "a1sxdogayfnu",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6260088/raketbrandstof-zorgt-voor-bijzondere-luchtspiraal-boven-alaska.html",
     "open_new_window": false,
     "partner": null
   }
