@@ -1,12 +1,35 @@
 [
   {
+    "id": 6260335,
+    "slug": "meerdink-schiet-az-naar-halve-finales-van-conference-league",
+    "type": "video",
+    "title": "Meerdink schiet AZ naar halve finales van Conference League",
+    "subtitle": "Video",
+    "published_at": "2023-04-20T22:20:49+02:00",
+    "updated_at": "2023-04-20T22:20:51+02:00",
+    "media_id": "4dvx0vjazcb4",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6260335/meerdink-schiet-az-naar-halve-finales-van-conference-league.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260333,
     "slug": "nick-schilder-kondigt-zijn-eerste-solotournee-aan",
     "type": "article",
     "title": "Nick Schilder kondigt zijn eerste solotournee aan",
     "subtitle": null,
     "published_at": "2023-04-20T22:01:51+02:00",
-    "updated_at": "2023-04-20T22:08:52+02:00",
+    "updated_at": "2023-04-20T22:13:56+02:00",
     "media_id": "wfexmowan5gr",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Acteur Alec Baldwin niet vervolgd voor dodelijk schietincident op filmset",
     "subtitle": null,
     "published_at": "2023-04-20T21:49:18+02:00",
-    "updated_at": "2023-04-20T22:08:32+02:00",
+    "updated_at": "2023-04-20T22:13:23+02:00",
     "media_id": "ei4x6cladm2e",
     "duration": null,
     "canonical_section": {
@@ -47,13 +70,13 @@
   },
   {
     "id": 6260331,
-    "slug": "van-den-bergh-klopt-wright-en-treft-mogelijk-van-gerwen-in-premier-league-ahoy",
+    "slug": "van-gerwen-al-na-een-wedstrijd-klaar-in-ahoy-door-verlies-tegen-aspinall",
     "type": "article",
-    "title": "Van den Bergh klopt Wright en treft mogelijk Van Gerwen in Premier League Ahoy",
+    "title": "Van Gerwen al na één wedstrijd klaar in Ahoy door verlies tegen Aspinall",
     "subtitle": null,
     "published_at": "2023-04-20T21:40:07+02:00",
-    "updated_at": "2023-04-20T21:40:08+02:00",
-    "media_id": "sb7xqbza1ysc",
+    "updated_at": "2023-04-20T22:20:57+02:00",
+    "media_id": "afbxj96a89mg",
     "duration": null,
     "canonical_section": {
       "id": 1777376,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/darts/6260331/van-den-bergh-klopt-wright-en-treft-mogelijk-van-gerwen-in-premier-league-ahoy.html",
+    "url": "/darts/6260331/van-gerwen-al-na-een-wedstrijd-klaar-in-ahoy-door-verlies-tegen-aspinall.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "AZ klopt Anderlecht na penalty's en is na 18 jaar weer halvefinalist in Europa",
     "subtitle": null,
     "published_at": "2023-04-20T21:33:36+02:00",
-    "updated_at": "2023-04-20T22:10:59+02:00",
+    "updated_at": "2023-04-20T22:21:01+02:00",
     "media_id": "wjlxa4eax0vq",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "'Uitgestorven' leeuw voor het eerst sinds 2004 gespot in nationaal park Tsjaad",
     "subtitle": null,
     "published_at": "2023-04-20T21:13:33+02:00",
-    "updated_at": "2023-04-20T22:01:46+02:00",
+    "updated_at": "2023-04-20T22:17:11+02:00",
     "media_id": "16kxk39ak6lg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6260310/juventus-gaat-met-succes-in-beroep-tegen-straf-en-maakt-reuzensprong-in-serie-a.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260302,
-    "slug": "vrouw-71-trapt-niet-in-babbeltruc-en-helpt-politie-amsterdam-oplichter-te-pakken",
-    "type": "article",
-    "title": "Vrouw (71) trapt niet in babbeltruc en helpt politie Amsterdam oplichter te pakken",
-    "subtitle": null,
-    "published_at": "2023-04-20T18:21:58+02:00",
-    "updated_at": "2023-04-20T22:02:39+02:00",
-    "media_id": "cgjxf4paznfc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6260302/vrouw-71-trapt-niet-in-babbeltruc-en-helpt-politie-amsterdam-oplichter-te-pakken.html",
     "open_new_window": false,
     "partner": null
   }
