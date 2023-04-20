@@ -1,12 +1,35 @@
 [
   {
-    "id": 6260310,
-    "slug": "juventus-gaat-met-succes-in-beroep-tegen-puntenstraf-en-staat-weer-in-top-serie-a",
+    "id": 6260303,
+    "slug": "derde-seizoen-van-lupin-vanaf-5-oktober-te-zien-op-netflix",
     "type": "article",
-    "title": "Juventus gaat met succes in beroep tegen puntenstraf en staat weer in top Serie A",
+    "title": "Derde seizoen van Lupin vanaf 5 oktober te zien op Netflix",
+    "subtitle": null,
+    "published_at": "2023-04-20T18:34:09+02:00",
+    "updated_at": "2023-04-20T18:34:15+02:00",
+    "media_id": "ujjxtu3abbd5",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6260303/derde-seizoen-van-lupin-vanaf-5-oktober-te-zien-op-netflix.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260310,
+    "slug": "juventus-gaat-met-succes-in-beroep-tegen-straf-en-maakt-reuzensprong-in-serie-a",
+    "type": "article",
+    "title": "Juventus gaat met succes in beroep tegen straf en maakt reuzensprong in Serie A",
     "subtitle": null,
     "published_at": "2023-04-20T18:28:13+02:00",
-    "updated_at": "2023-04-20T18:28:15+02:00",
+    "updated_at": "2023-04-20T18:39:29+02:00",
     "media_id": "t2vxncdaxw5j",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6260310/juventus-gaat-met-succes-in-beroep-tegen-puntenstraf-en-staat-weer-in-top-serie-a.html",
+    "url": "/voetbal/6260310/juventus-gaat-met-succes-in-beroep-tegen-straf-en-maakt-reuzensprong-in-serie-a.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,8 +75,8 @@
     "title": "AZ heeft comeback nodig voor eerste Europese halve finale sinds 2005",
     "subtitle": "Liveblog",
     "published_at": "2023-04-20T18:04:01+02:00",
-    "updated_at": "2023-04-20T18:30:21+02:00",
-    "media_id": "wfdxl53abxdl",
+    "updated_at": "2023-04-20T18:43:14+02:00",
+    "media_id": "mj2xa8la6e0n",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/songfestival/6260276/jan-smit-stapt-uit-songfestival-selectiecommissie-na-keuze-voor-mia-en-dion.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260275,
-    "slug": "nvwa-verbiedt-therapeutische-schommels-die-kinderen-kunnen-wurgen",
-    "type": "article",
-    "title": "NVWA verbiedt 'therapeutische schommels' die kinderen kunnen wurgen",
-    "subtitle": null,
-    "published_at": "2023-04-20T15:02:22+02:00",
-    "updated_at": "2023-04-20T15:02:24+02:00",
-    "media_id": "gb8x2pkaf6le",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6260275/nvwa-verbiedt-therapeutische-schommels-die-kinderen-kunnen-wurgen.html",
     "open_new_window": false,
     "partner": null
   }
