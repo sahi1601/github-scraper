@@ -1,12 +1,58 @@
 [
   {
+    "id": 6260310,
+    "slug": "juventus-gaat-met-succes-in-beroep-tegen-puntenstraf-en-staat-weer-in-top-serie-a",
+    "type": "article",
+    "title": "Juventus gaat met succes in beroep tegen puntenstraf en staat weer in top Serie A",
+    "subtitle": null,
+    "published_at": "2023-04-20T18:28:13+02:00",
+    "updated_at": "2023-04-20T18:28:15+02:00",
+    "media_id": "t2vxncdaxw5j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6260310/juventus-gaat-met-succes-in-beroep-tegen-puntenstraf-en-staat-weer-in-top-serie-a.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260302,
+    "slug": "vrouw-71-trapt-niet-in-babbeltruc-en-helpt-politie-oplichter-te-pakken",
+    "type": "article",
+    "title": "Vrouw (71) trapt niet in babbeltruc en helpt politie oplichter te pakken",
+    "subtitle": null,
+    "published_at": "2023-04-20T18:21:58+02:00",
+    "updated_at": "2023-04-20T18:21:59+02:00",
+    "media_id": "cgjxf4paznfc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6260302/vrouw-71-trapt-niet-in-babbeltruc-en-helpt-politie-oplichter-te-pakken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260305,
     "slug": "az-heeft-comeback-nodig-voor-eerste-europese-halve-finale-sinds-2005",
     "type": "article",
     "title": "AZ heeft comeback nodig voor eerste Europese halve finale sinds 2005",
     "subtitle": "Liveblog",
     "published_at": "2023-04-20T18:04:01+02:00",
-    "updated_at": "2023-04-20T18:04:03+02:00",
+    "updated_at": "2023-04-20T18:30:21+02:00",
     "media_id": "wfdxl53abxdl",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6260275/nvwa-verbiedt-therapeutische-schommels-die-kinderen-kunnen-wurgen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260268,
-    "slug": "politie-houdt-tweede-verdachte-aan-na-reeks-geweldsincidenten-in-purmerend",
-    "type": "article",
-    "title": "Politie houdt tweede verdachte aan na reeks geweldsincidenten in Purmerend",
-    "subtitle": null,
-    "published_at": "2023-04-20T14:44:45+02:00",
-    "updated_at": "2023-04-20T15:25:28+02:00",
-    "media_id": "wxxx2exahd9e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6260268/politie-houdt-tweede-verdachte-aan-na-reeks-geweldsincidenten-in-purmerend.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260262,
-    "slug": "ruim-miljoen-mensen-vroeg-in-eerste-kwartaal-hulp-vanwege-financiele-situatie",
-    "type": "article",
-    "title": "Ruim miljoen mensen vroeg in eerste kwartaal hulp vanwege financiële situatie",
-    "subtitle": null,
-    "published_at": "2023-04-20T14:16:05+02:00",
-    "updated_at": "2023-04-20T14:16:06+02:00",
-    "media_id": "zw9x6w5a2x0d",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6260262/ruim-miljoen-mensen-vroeg-in-eerste-kwartaal-hulp-vanwege-financiele-situatie.html",
     "open_new_window": false,
     "partner": null
   }
