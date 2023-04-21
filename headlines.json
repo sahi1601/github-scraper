@@ -1,12 +1,81 @@
 [
   {
+    "id": 6260356,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-04-21T05:18:56+02:00",
+    "updated_at": "2023-04-21T05:18:57+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6260356/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6259990,
+    "slug": "verkiezingsupdate-veel-keuze-voor-turkse-kiezer-maar-geen-gelijke-strijd",
+    "type": "article",
+    "title": "Verkiezingsupdate: Veel keuze voor Turkse kiezer, maar geen gelijke strijd",
+    "subtitle": "NU+",
+    "published_at": "2023-04-21T05:16:29+02:00",
+    "updated_at": "2023-04-21T05:16:30+02:00",
+    "media_id": "thtx30xax1dc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6259990/verkiezingsupdate-veel-keuze-voor-turkse-kiezer-maar-geen-gelijke-strijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260291,
+    "slug": "meeste-supers-en-winkels-laten-ied-al-fitr-links-liggen",
+    "type": "article",
+    "title": "Meeste supers en winkels laten Ied-al-Fitr links liggen",
+    "subtitle": null,
+    "published_at": "2023-04-21T05:15:44+02:00",
+    "updated_at": "2023-04-21T05:15:46+02:00",
+    "media_id": "12cx6nnapi30",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6260291/meeste-supers-en-winkels-laten-ied-al-fitr-links-liggen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260078,
     "slug": "bbb-in-alle-provincies-nog-aan-zet-d66-vooralsnog-nergens-aan-tafel",
     "type": "article",
     "title": "BBB in alle provincies nog aan zet, D66 vooralsnog nergens aan tafel",
     "subtitle": null,
     "published_at": "2023-04-21T05:13:35+02:00",
-    "updated_at": "2023-04-21T05:13:37+02:00",
+    "updated_at": "2023-04-21T05:17:30+02:00",
     "media_id": "4yyx7ctap2p9",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6260333/nick-schilder-kondigt-zijn-eerste-solotournee-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260332,
-    "slug": "acteur-alec-baldwin-niet-vervolgd-voor-dodelijk-schietincident-op-filmset",
-    "type": "article",
-    "title": "Acteur Alec Baldwin niet vervolgd voor dodelijk schietincident op filmset",
-    "subtitle": null,
-    "published_at": "2023-04-20T21:49:18+02:00",
-    "updated_at": "2023-04-20T23:11:20+02:00",
-    "media_id": "ei4x6cladm2e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6260332/acteur-alec-baldwin-niet-vervolgd-voor-dodelijk-schietincident-op-filmset.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260331,
-    "slug": "van-gerwen-is-al-na-een-duel-klaar-in-ahoy-en-verliest-koppositie-premier-league",
-    "type": "article",
-    "title": "Van Gerwen is al na één duel klaar in Ahoy en verliest koppositie Premier League",
-    "subtitle": null,
-    "published_at": "2023-04-20T21:40:07+02:00",
-    "updated_at": "2023-04-21T00:01:57+02:00",
-    "media_id": "xfqxgicafjgg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6260331/van-gerwen-is-al-na-een-duel-klaar-in-ahoy-en-verliest-koppositie-premier-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260317,
-    "slug": "az-klopt-anderlecht-na-penaltys-en-is-na-18-jaar-weer-halvefinalist-in-europa",
-    "type": "article",
-    "title": "AZ klopt Anderlecht na penalty's en is na 18 jaar weer halvefinalist in Europa",
-    "subtitle": null,
-    "published_at": "2023-04-20T21:33:36+02:00",
-    "updated_at": "2023-04-20T23:00:22+02:00",
-    "media_id": "wjlxa4eax0vq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260317/az-klopt-anderlecht-na-penaltys-en-is-na-18-jaar-weer-halvefinalist-in-europa.html",
     "open_new_window": false,
     "partner": null
   }
