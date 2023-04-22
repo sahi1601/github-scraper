@@ -1,5 +1,51 @@
 [
   {
+    "id": 6260487,
+    "slug": "dit-is-het-positieve-en-vrolijke-nieuws-van-deze-week",
+    "type": "article",
+    "title": "Dit is het positieve en vrolijke nieuws van deze week",
+    "subtitle": "Overzicht",
+    "published_at": "2023-04-22T12:01:44+02:00",
+    "updated_at": "2023-04-22T12:01:45+02:00",
+    "media_id": "43txsfpalk58",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6260487/dit-is-het-positieve-en-vrolijke-nieuws-van-deze-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260574,
+    "slug": "brandende-touringcar-zorgt-voor-dikke-rookwolken-boven-a2",
+    "type": "video",
+    "title": "Brandende touringcar zorgt voor dikke rookwolken boven A2",
+    "subtitle": "Video",
+    "published_at": "2023-04-22T11:45:42+02:00",
+    "updated_at": "2023-04-22T11:45:43+02:00",
+    "media_id": "nllxizeapphh",
+    "duration": "0:14",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6260574/brandende-touringcar-zorgt-voor-dikke-rookwolken-boven-a2.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260568,
     "slug": "touringcar-in-brand-op-a2-snelweg-tussen-utrecht-en-amsterdam-afgesloten",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6260527/hoofdredacteur-duits-tijdschrift-ontslagen-na-nepinterview-michael-schumacher.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260525,
-    "slug": "hooggerechtshof-vs-schort-verbod-op-abortuspil-blijft-beschikbaar",
-    "type": "article",
-    "title": "Hooggerechtshof VS schort verbod op: abortuspil blijft beschikbaar",
-    "subtitle": null,
-    "published_at": "2023-04-22T07:20:35+02:00",
-    "updated_at": "2023-04-22T09:02:51+02:00",
-    "media_id": "epoxsbtawm6o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6260525/hooggerechtshof-vs-schort-verbod-op-abortuspil-blijft-beschikbaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260443,
-    "slug": "hoe-jij-straks-gaat-betalen-voor-je-co2-uitstoot",
-    "type": "video",
-    "title": "Hoe jij straks gaat betalen voor je CO2-uitstoot",
-    "subtitle": "Video",
-    "published_at": "2023-04-22T06:26:03+02:00",
-    "updated_at": "2023-04-22T06:27:53+02:00",
-    "media_id": "wunxasyay1d6",
-    "duration": "1:37",
-    "canonical_section": {
-      "id": 1778967,
-      "slug": "uitleg",
-      "type": "default",
-      "name": "Het nieuws uitgelegd",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitleg/6260443/hoe-jij-straks-gaat-betalen-voor-je-co2-uitstoot.html",
     "open_new_window": false,
     "partner": null
   }
