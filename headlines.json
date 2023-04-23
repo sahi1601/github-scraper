@@ -1,5 +1,51 @@
 [
   {
+    "id": 6260725,
+    "slug": "koploper-napoli-wint-op-de-valreep-bij-juventus-en-heeft-landstitel-bijna-binnen",
+    "type": "article",
+    "title": "Koploper Napoli wint op de valreep bij Juventus en heeft landstitel bijna binnen",
+    "subtitle": null,
+    "published_at": "2023-04-23T22:45:29+02:00",
+    "updated_at": "2023-04-23T22:52:08+02:00",
+    "media_id": "9o6xyz7ahutq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6260725/koploper-napoli-wint-op-de-valreep-bij-juventus-en-heeft-landstitel-bijna-binnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260724,
+    "slug": "uitzending-uitvaart-koningin-elizabeth-winnaar-van-twee-baftas",
+    "type": "article",
+    "title": "Uitzending uitvaart koningin Elizabeth winnaar van twee BAFTA's",
+    "subtitle": null,
+    "published_at": "2023-04-23T22:44:11+02:00",
+    "updated_at": "2023-04-23T22:47:28+02:00",
+    "media_id": "6gbxi6wa4bqm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6260724/uitzending-uitvaart-koningin-elizabeth-winnaar-van-twee-baftas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260723,
     "slug": "frans-vliegtuig-evacueert-eerste-nederlanders-uit-soedan",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "Titelverdediger Van Gerwen loopt finale in Graz mis na oorwassing tegen Rock",
     "subtitle": null,
     "published_at": "2023-04-23T22:02:16+02:00",
-    "updated_at": "2023-04-23T22:36:39+02:00",
+    "updated_at": "2023-04-23T23:06:56+02:00",
     "media_id": "56fx2nfakg0c",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Brugge naar play-offs om titel na 7-0 en goal Lang, Becker matchwinner bij Union",
     "subtitle": null,
     "published_at": "2023-04-23T20:51:05+02:00",
-    "updated_at": "2023-04-23T22:19:36+02:00",
+    "updated_at": "2023-04-23T22:53:44+02:00",
     "media_id": "gtlxi0ga8oht",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6260702/de-jong-lyrisch-over-simons-na-ruime-zege-op-ajax-geweldig-hoe-hij-voetbalt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260700,
-    "slug": "duizenden-diersoorten-bedreigd-wanneer-is-een-soort-uitgestorven",
-    "type": "video",
-    "title": "Duizenden diersoorten bedreigd: wanneer is een soort uitgestorven?",
-    "subtitle": "Explainer ",
-    "published_at": "2023-04-23T17:04:20+02:00",
-    "updated_at": "2023-04-23T17:11:29+02:00",
-    "media_id": "szsxgcrawxjd",
-    "duration": "2:00",
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6260700/duizenden-diersoorten-bedreigd-wanneer-is-een-soort-uitgestorven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260699,
-    "slug": "van-der-mark-breekt-linkerbovenbeen-bij-zware-val-in-superbike-race-in-assen",
-    "type": "article",
-    "title": "Van der Mark breekt linkerbovenbeen bij zware val in Superbike-race in Assen",
-    "subtitle": null,
-    "published_at": "2023-04-23T16:57:24+02:00",
-    "updated_at": "2023-04-23T20:29:12+02:00",
-    "media_id": "jyaxcb9affgn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6260699/van-der-mark-breekt-linkerbovenbeen-bij-zware-val-in-superbike-race-in-assen.html",
     "open_new_window": false,
     "partner": null
   }
