@@ -1,5 +1,28 @@
 [
   {
+    "id": 6260648,
+    "slug": "schorsing-lukaku-voor-reactie-op-racisme-toch-geschrapt-dankzij-bondsvoorzitter",
+    "type": "article",
+    "title": "Schorsing Lukaku voor reactie op racisme toch geschrapt dankzij bondsvoorzitter",
+    "subtitle": null,
+    "published_at": "2023-04-23T09:15:45+02:00",
+    "updated_at": "2023-04-23T09:15:48+02:00",
+    "media_id": "kr1x1dlaw8lu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6260648/schorsing-lukaku-voor-reactie-op-racisme-toch-geschrapt-dankzij-bondsvoorzitter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260444,
     "slug": "we-hebben-er-een-w-bij-die-van-wat-nu",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Wat doet en verdient een meteoroloog?",
     "subtitle": null,
     "published_at": "2023-04-23T07:05:50+02:00",
-    "updated_at": "2023-04-23T07:05:51+02:00",
+    "updated_at": "2023-04-23T09:18:46+02:00",
     "media_id": "81jxcmoad0ai",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Amerikaans ambassadepersoneel ondanks gevechten geëvacueerd uit Soedan",
     "subtitle": null,
     "published_at": "2023-04-23T06:28:47+02:00",
-    "updated_at": "2023-04-23T07:45:23+02:00",
+    "updated_at": "2023-04-23T09:16:18+02:00",
     "media_id": "jpnx3klauaia",
     "duration": null,
     "canonical_section": {
@@ -392,12 +415,12 @@
   },
   {
     "id": 6260634,
-    "slug": "elf-gewonden-nadat-auto-inrijdt-op-menigte-in-noord-franse-kustplaats",
+    "slug": "elf-gewonden-doordat-auto-inrijdt-op-menigte-in-noord-franse-kustplaats",
     "type": "article",
-    "title": "Elf gewonden nadat auto inrijdt op menigte in Noord-Franse kustplaats",
+    "title": "Elf gewonden doordat auto inrijdt op menigte in Noord-Franse kustplaats",
     "subtitle": null,
     "published_at": "2023-04-22T21:33:04+02:00",
-    "updated_at": "2023-04-22T21:39:32+02:00",
+    "updated_at": "2023-04-23T09:16:34+02:00",
     "media_id": "t87x4d6abwvn",
     "duration": null,
     "canonical_section": {
@@ -409,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6260634/elf-gewonden-nadat-auto-inrijdt-op-menigte-in-noord-franse-kustplaats.html",
+    "url": "/buitenland/6260634/elf-gewonden-doordat-auto-inrijdt-op-menigte-in-noord-franse-kustplaats.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6260633/ajax-vrouwen-pakt-koppositie-door-zege-bij-fortuna-en-legt-druk-bij-fc-twente.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260631,
-    "slug": "ongeloof-bij-trainers-na-staken-fc-groningen-nec-een-halvegare-verpest-het",
-    "type": "article",
-    "title": "Ongeloof bij trainers na staken FC Groningen-NEC: 'Eén halvegare verpest het'",
-    "subtitle": null,
-    "published_at": "2023-04-22T21:22:49+02:00",
-    "updated_at": "2023-04-22T21:35:55+02:00",
-    "media_id": "bnrxisqa9zze",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260631/ongeloof-bij-trainers-na-staken-fc-groningen-nec-een-halvegare-verpest-het.html",
     "open_new_window": false,
     "partner": null
   }
