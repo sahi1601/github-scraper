@@ -1,12 +1,35 @@
 [
   {
+    "id": 6260837,
+    "slug": "knvb-stelt-dat-fc-twente-sparta-tijdelijk-had-moeten-worden-stilgelegd",
+    "type": "article",
+    "title": "KNVB stelt dat FC Twente-Sparta tijdelijk had moeten worden stilgelegd",
+    "subtitle": null,
+    "published_at": "2023-04-24T17:17:12+02:00",
+    "updated_at": "2023-04-24T17:17:13+02:00",
+    "media_id": "70ix6amad410",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6260837/knvb-stelt-dat-fc-twente-sparta-tijdelijk-had-moeten-worden-stilgelegd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260835,
     "slug": "racisme-tegen-lukaku-bestraft-171-juventus-fans-krijgen-stadionverbod",
     "type": "article",
     "title": "Racisme tegen Lukaku bestraft: 171 Juventus-fans krijgen stadionverbod",
     "subtitle": null,
     "published_at": "2023-04-24T17:11:51+02:00",
-    "updated_at": "2023-04-24T17:11:53+02:00",
+    "updated_at": "2023-04-24T17:16:32+02:00",
     "media_id": "cl7x5bfat6u7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6260804/almere-krijgt-laatste-kans-om-zelf-woningen-aan-te-wijzen-voor-statushouders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260802,
-    "slug": "tunesische-kustwacht-haalt-31-lichamen-van-verdronken-migranten-uit-het-water",
-    "type": "article",
-    "title": "Tunesische kustwacht haalt 31 lichamen van verdronken migranten uit het water",
-    "subtitle": null,
-    "published_at": "2023-04-24T14:12:48+02:00",
-    "updated_at": "2023-04-24T14:12:49+02:00",
-    "media_id": "mbmxavoach8b",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6260802/tunesische-kustwacht-haalt-31-lichamen-van-verdronken-migranten-uit-het-water.html",
     "open_new_window": false,
     "partner": null
   }
