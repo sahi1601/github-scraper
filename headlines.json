@@ -1,12 +1,58 @@
 [
   {
-    "id": 6260839,
-    "slug": "fox-news-neemt-afscheid-van-presentator-tucker-carlson",
+    "id": 6260842,
+    "slug": "dit-vinden-jullie-van-homeopathie-geldklopperij-en-onzinnig-duur",
     "type": "article",
-    "title": "Fox News neemt afscheid van presentator Tucker Carlson",
+    "title": "Dit vinden jullie van homeopathie: 'Geldklopperij en onzinnig duur'",
+    "subtitle": null,
+    "published_at": "2023-04-24T18:30:11+02:00",
+    "updated_at": "2023-04-24T18:30:12+02:00",
+    "media_id": "s07xpw9acuui",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6260842/dit-vinden-jullie-van-homeopathie-geldklopperij-en-onzinnig-duur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260846,
+    "slug": "scheidsrechter-higler-fluit-zondag-bekerfinale-tussen-ajax-en-psv",
+    "type": "article",
+    "title": "Scheidsrechter Higler fluit zondag bekerfinale tussen Ajax en PSV",
+    "subtitle": null,
+    "published_at": "2023-04-24T18:21:32+02:00",
+    "updated_at": "2023-04-24T18:21:34+02:00",
+    "media_id": "li2xqvaa5bkh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6260846/scheidsrechter-higler-fluit-zondag-bekerfinale-tussen-ajax-en-psv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6260839,
+    "slug": "tucker-carlson-stopt-per-direct-als-presentator-bij-fox-news",
+    "type": "article",
+    "title": "Tucker Carlson stopt per direct als presentator bij Fox News",
     "subtitle": null,
     "published_at": "2023-04-24T18:12:45+02:00",
-    "updated_at": "2023-04-24T18:16:04+02:00",
+    "updated_at": "2023-04-24T18:29:41+02:00",
     "media_id": "fhaxw1vare29",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6260839/fox-news-neemt-afscheid-van-presentator-tucker-carlson.html",
+    "url": "/media/6260839/tucker-carlson-stopt-per-direct-als-presentator-bij-fox-news.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6260810/boer-zoekt-vrouw-boerin-bertie-en-vriendin-rosita-gaan-trouwen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260811,
-    "slug": "rijimpressie-jeep-avenger",
-    "type": "video",
-    "title": "Rijimpressie: Jeep Avenger",
-    "subtitle": "Video",
-    "published_at": "2023-04-24T15:01:06+02:00",
-    "updated_at": "2023-04-24T15:01:07+02:00",
-    "media_id": "gpsx0hna9jpo",
-    "duration": "6:32",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6260811/rijimpressie-jeep-avenger.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6260809,
-    "slug": "zonen-arjen-robben-gaan-in-jeugdopleiding-fc-groningen-spelen",
-    "type": "article",
-    "title": "Zonen Arjen Robben gaan in jeugdopleiding FC Groningen spelen",
-    "subtitle": null,
-    "published_at": "2023-04-24T14:48:11+02:00",
-    "updated_at": "2023-04-24T16:00:04+02:00",
-    "media_id": "lxqxy94a99df",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6260809/zonen-arjen-robben-gaan-in-jeugdopleiding-fc-groningen-spelen.html",
     "open_new_window": false,
     "partner": null
   }
