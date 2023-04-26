@@ -1,5 +1,28 @@
 [
   {
+    "id": 6261040,
+    "slug": "schoten-in-rotterdamse-straat-waar-eerder-explosief-afging",
+    "type": "article",
+    "title": "Schoten in Rotterdamse straat waar eerder explosief afging",
+    "subtitle": null,
+    "published_at": "2023-04-26T08:22:41+02:00",
+    "updated_at": "2023-04-26T08:22:43+02:00",
+    "media_id": "f7rx4qqah5jr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6261040/schoten-in-rotterdamse-straat-waar-eerder-explosief-afging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261036,
     "slug": "zoekmachine-en-reclametak-van-google-staan-onder-druk-maar-omzet-stijgt-toch",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Spits Castellanos in illuster rijtje met vier goals tegen Real: 'Dit is een droom'",
     "subtitle": null,
     "published_at": "2023-04-26T08:04:56+02:00",
-    "updated_at": "2023-04-26T08:11:37+02:00",
+    "updated_at": "2023-04-26T08:24:19+02:00",
     "media_id": "74hxqvfaano2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6261021/sinisterra-en-vardy-belangrijk-in-degradatiekraker-villa-passeert-spurs-op-ranglijst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261022,
-    "slug": "bekijk-de-vier-goals-van-girona-spits-castellanos-tegen-real-madrid",
-    "type": "video",
-    "title": "Bekijk de vier goals van Girona-spits Castellanos tegen Real Madrid",
-    "subtitle": "Video",
-    "published_at": "2023-04-25T22:59:46+02:00",
-    "updated_at": "2023-04-25T22:59:47+02:00",
-    "media_id": "8r2x9ieaulkv",
-    "duration": "2:39",
-    "canonical_section": {
-      "id": 149,
-      "slug": "sport",
-      "type": "default",
-      "name": "Sport",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport/6261022/bekijk-de-vier-goals-van-girona-spits-castellanos-tegen-real-madrid.html",
     "open_new_window": false,
     "partner": null
   }
