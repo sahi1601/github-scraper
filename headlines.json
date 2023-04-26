@@ -1,5 +1,28 @@
 [
   {
+    "id": 6261195,
+    "slug": "teruggehaalde-syriegangers-kosten-overheid-miljoenen",
+    "type": "article",
+    "title": "Teruggehaalde Syriëgangers kosten overheid miljoenen",
+    "subtitle": null,
+    "published_at": "2023-04-26T21:41:28+02:00",
+    "updated_at": "2023-04-26T21:41:32+02:00",
+    "media_id": "o8ix637ab15z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6261195/teruggehaalde-syriegangers-kosten-overheid-miljoenen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261183,
     "slug": "duits-bedrijf-moet-ondanks-naakte-verhuurder-in-binnentuin-volle-mep-huur-betalen",
     "type": "article",
@@ -93,12 +116,12 @@
   },
   {
     "id": 6261187,
-    "slug": "de-bruyne-zet-city-al-vroeg-op-voorsprong-tegen-arsenal",
+    "slug": "city-domineert-voor-rust-cruciale-premier-league-topper-tegen-arsenal",
     "type": "article",
-    "title": "De Bruyne zet City al vroeg op voorsprong tegen Arsenal",
+    "title": "City domineert voor rust cruciale Premier League-topper tegen Arsenal",
     "subtitle": "Liveblog",
     "published_at": "2023-04-26T20:20:00+02:00",
-    "updated_at": "2023-04-26T21:15:45+02:00",
+    "updated_at": "2023-04-26T21:25:15+02:00",
     "media_id": "iaqxbngaerqx",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6261187/de-bruyne-zet-city-al-vroeg-op-voorsprong-tegen-arsenal.html",
+    "url": "/voetbal/6261187/city-domineert-voor-rust-cruciale-premier-league-topper-tegen-arsenal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6261161/gletsjers-verloren-in-10-jaar-hoeveelheid-ijs-ter-grootte-van-hoogste-europese-berg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261167,
-    "slug": "hoe-dit-stukje-zee-voor-spanningen-tussen-china-en-taiwan-zorgt",
-    "type": "video",
-    "title": "Hoe dit stukje zee voor spanningen tussen China en Taiwan zorgt",
-    "subtitle": "Explainer",
-    "published_at": "2023-04-26T17:29:51+02:00",
-    "updated_at": "2023-04-26T17:29:52+02:00",
-    "media_id": "stfxvqeayk5g",
-    "duration": "2:01",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6261167/hoe-dit-stukje-zee-voor-spanningen-tussen-china-en-taiwan-zorgt.html",
     "open_new_window": false,
     "partner": null
   }
