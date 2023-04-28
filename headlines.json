@@ -1,12 +1,35 @@
 [
   {
-    "id": 6261468,
-    "slug": "gestorven-keniaanse-sekteleden-die-zichzelf-uithongerden-zijn-vooral-kinderen",
+    "id": 6261461,
+    "slug": "pec-zwolle-doet-goede-zaken-in-titelrace-mvv-moet-feestje-uitstellen",
     "type": "article",
-    "title": "Gestorven Keniaanse sekteleden die zichzelf uithongerden zijn vooral kinderen",
+    "title": "PEC Zwolle doet goede zaken in titelrace, MVV moet feestje uitstellen",
+    "subtitle": null,
+    "published_at": "2023-04-28T22:15:32+02:00",
+    "updated_at": "2023-04-28T22:15:44+02:00",
+    "media_id": "3t7x55ya4rh9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6261461/pec-zwolle-doet-goede-zaken-in-titelrace-mvv-moet-feestje-uitstellen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261468,
+    "slug": "dode-keniaanse-sekteleden-die-zichzelf-uithongerden-zijn-vooral-kinderen",
+    "type": "article",
+    "title": "Dode Keniaanse sekteleden die zichzelf uithongerden zijn vooral kinderen",
     "subtitle": null,
     "published_at": "2023-04-28T22:00:36+02:00",
-    "updated_at": "2023-04-28T22:04:43+02:00",
+    "updated_at": "2023-04-28T22:11:20+02:00",
     "media_id": "mlxx8r2arty0",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6261468/gestorven-keniaanse-sekteleden-die-zichzelf-uithongerden-zijn-vooral-kinderen.html",
+    "url": "/buitenland/6261468/dode-keniaanse-sekteleden-die-zichzelf-uithongerden-zijn-vooral-kinderen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Heracles volgt voorbeeld van PEC en keert na één jaar terug in de Eredivisie",
     "subtitle": null,
     "published_at": "2023-04-28T21:53:20+02:00",
-    "updated_at": "2023-04-28T22:09:37+02:00",
+    "updated_at": "2023-04-28T22:14:33+02:00",
     "media_id": "ug7xoc7aa9wc",
     "duration": null,
     "canonical_section": {
@@ -236,8 +259,8 @@
     "title": "Reacties op promotie Heracles naar de Eredivisie",
     "subtitle": "Liveblog",
     "published_at": "2023-04-28T19:40:37+02:00",
-    "updated_at": "2023-04-28T21:56:05+02:00",
-    "media_id": "fi6xlrdavo6f",
+    "updated_at": "2023-04-28T22:13:30+02:00",
+    "media_id": "qm1xrerawuk4",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6261441/spaans-toptalent-ayuso-imponeert-met-dubbelslag-in-tijdrit-ronde-van-romandie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261443,
-    "slug": "transavia-schrapt-ook-vluchten-in-mei-en-juni-door-problemen-met-toestellen",
-    "type": "article",
-    "title": "Transavia schrapt ook vluchten in mei en juni door problemen met toestellen",
-    "subtitle": null,
-    "published_at": "2023-04-28T17:52:48+02:00",
-    "updated_at": "2023-04-28T18:46:16+02:00",
-    "media_id": "vnoxj99amxj9",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6261443/transavia-schrapt-ook-vluchten-in-mei-en-juni-door-problemen-met-toestellen.html",
     "open_new_window": false,
     "partner": null
   }
