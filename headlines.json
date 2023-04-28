@@ -1,5 +1,28 @@
 [
   {
+    "id": 6261373,
+    "slug": "ook-verbrand-door-de-zon-op-koude-koningsdag-dat-komt-hierdoor",
+    "type": "article",
+    "title": "Ook verbrand door de zon op 'koude' Koningsdag? Dat komt hierdoor",
+    "subtitle": null,
+    "published_at": "2023-04-28T12:17:57+02:00",
+    "updated_at": "2023-04-28T12:17:58+02:00",
+    "media_id": "xynxe23avfsj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6261373/ook-verbrand-door-de-zon-op-koude-koningsdag-dat-komt-hierdoor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261376,
     "slug": "bbc-voorzitter-sharp-treedt-af-na-kritisch-rapport-over-lening-aan-boris-johnson",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Griekspoor gaat door gekwetste enkel en geeft geblesseerd op in Madrid",
     "subtitle": null,
     "published_at": "2023-04-28T12:08:38+02:00",
-    "updated_at": "2023-04-28T12:08:39+02:00",
+    "updated_at": "2023-04-28T12:25:25+02:00",
     "media_id": "zgjx73kaptpf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6261347/twee-miljoen-tv-kijkers-zien-willem-alexander-koningsdag-vieren-in-rotterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261346,
-    "slug": "bekijk-de-trailer-van-de-nieuwe-the-hunger-games-film",
-    "type": "video",
-    "title": "Bekijk de trailer van de nieuwe The Hunger Games-film",
-    "subtitle": "Video",
-    "published_at": "2023-04-28T09:36:12+02:00",
-    "updated_at": "2023-04-28T09:58:23+02:00",
-    "media_id": "o5rxplzal335",
-    "duration": "2:40",
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6261346/bekijk-de-trailer-van-de-nieuwe-the-hunger-games-film.html",
     "open_new_window": false,
     "partner": null
   }
