@@ -1,5 +1,28 @@
 [
   {
+    "id": 6261324,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-04-28T05:17:21+02:00",
+    "updated_at": "2023-04-28T05:17:22+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6261324/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260936,
     "slug": "jessie-ware-liet-laptops-sneuvelen-bij-het-maken-van-nieuw-disco-album",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6260958,
-    "slug": "verkiezingsupdate-erdogan-richt-campagnepijlen-op-de-lhbtiq-gemeenschap",
+    "slug": "verkiezingsupdate-erdogan-richt-campagne-op-de-lhbtiq-gemeenschap",
     "type": "article",
-    "title": "Verkiezingsupdate: Erdogan richt campagnepijlen op de lhbtiq+-gemeenschap",
+    "title": "Verkiezingsupdate: Erdogan richt campagne op de lhbtiq+-gemeenschap",
     "subtitle": "NU+",
     "published_at": "2023-04-28T05:02:15+02:00",
-    "updated_at": "2023-04-28T05:09:13+02:00",
+    "updated_at": "2023-04-28T05:20:19+02:00",
     "media_id": "i8xxdgma9xt0",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6260958/verkiezingsupdate-erdogan-richt-campagnepijlen-op-de-lhbtiq-gemeenschap.html",
+    "url": "/buitenland/6260958/verkiezingsupdate-erdogan-richt-campagne-op-de-lhbtiq-gemeenschap.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,12 +231,12 @@
   },
   {
     "id": 6261319,
-    "slug": "koningsdag-zonder-grote-incidenten-verlopen-75000-mensen-zagen-koning-genieten",
+    "slug": "koningsdag-zonder-grote-incidenten-verlopen-75000-mensen-zagen-de-koning",
     "type": "article",
-    "title": "Koningsdag zonder grote incidenten verlopen, 75.000 mensen zagen koning genieten",
+    "title": "Koningsdag zonder grote incidenten verlopen, 75.000 mensen zagen de koning",
     "subtitle": null,
     "published_at": "2023-04-27T22:09:34+02:00",
-    "updated_at": "2023-04-28T05:09:35+02:00",
+    "updated_at": "2023-04-28T05:20:55+02:00",
     "media_id": "xegxkyzaw7sz",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": "05oxgs9attc1",
       "partner": null
     },
-    "url": "/koningsdag/6261319/koningsdag-zonder-grote-incidenten-verlopen-75000-mensen-zagen-koning-genieten.html",
+    "url": "/koningsdag/6261319/koningsdag-zonder-grote-incidenten-verlopen-75000-mensen-zagen-de-koning.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech-wetenschap/6261302/astronomen-zien-voor-het-eerst-hoe-een-kosmische-jet-aan-een-zwart-gat-ontsnapt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261304,
-    "slug": "halep-eist-duidelijkheid-over-dopingschorsing-hoelang-moet-ik-nog-wachten",
-    "type": "article",
-    "title": "Halep eist duidelijkheid over dopingschorsing: 'Hoelang moet ik nog wachten?'",
-    "subtitle": null,
-    "published_at": "2023-04-27T19:33:32+02:00",
-    "updated_at": "2023-04-27T20:06:52+02:00",
-    "media_id": "omyxjjwasqpl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6261304/halep-eist-duidelijkheid-over-dopingschorsing-hoelang-moet-ik-nog-wachten.html",
     "open_new_window": false,
     "partner": null
   }
