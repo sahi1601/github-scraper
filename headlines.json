@@ -1,5 +1,51 @@
 [
   {
+    "id": 6261481,
+    "slug": "weerbericht-zachte-voorjaarsdag-met-aangename-temperaturen-en-volop-zon",
+    "type": "article",
+    "title": "Weerbericht: Zachte voorjaarsdag met aangename temperaturen en volop zon",
+    "subtitle": null,
+    "published_at": "2023-04-29T05:44:03+02:00",
+    "updated_at": "2023-04-29T05:44:04+02:00",
+    "media_id": "pd6x28zau42f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6261481/weerbericht-zachte-voorjaarsdag-met-aangename-temperaturen-en-volop-zon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261480,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-04-29T05:25:47+02:00",
+    "updated_at": "2023-04-29T05:25:48+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6261480/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6259355,
     "slug": "na-maradona-worden-in-napels-nu-babys-naar-kvaratskhelia-vernoemd",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6261460/politie-roosendaal-gaat-controleren-op-wapens-na-recente-schietincidenten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261459,
-    "slug": "raketaanval-in-donetsk-kost-7-mensen-het-leven",
-    "type": "video",
-    "title": "Raketaanval in Donetsk kost 7 mensen het leven",
-    "subtitle": "Video",
-    "published_at": "2023-04-28T20:55:51+02:00",
-    "updated_at": "2023-04-28T21:18:40+02:00",
-    "media_id": "f4vxji9ay4jz",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6261459/raketaanval-in-donetsk-kost-7-mensen-het-leven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261458,
-    "slug": "zo-klinkt-de-nieuwe-versie-van-songfestivalliedje-van-mia-en-dion",
-    "type": "video",
-    "title": "Zo klinkt de 'nieuwe versie' van Songfestivalliedje van Mia en Dion",
-    "subtitle": "Video",
-    "published_at": "2023-04-28T20:10:00+02:00",
-    "updated_at": "2023-04-28T20:28:55+02:00",
-    "media_id": "puaxtbfamkup",
-    "duration": "0:59",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6261458/zo-klinkt-de-nieuwe-versie-van-songfestivalliedje-van-mia-en-dion.html",
     "open_new_window": false,
     "partner": null
   }
