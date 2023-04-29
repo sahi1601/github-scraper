@@ -1,5 +1,28 @@
 [
   {
+    "id": 6259355,
+    "slug": "na-maradona-worden-in-napels-nu-babys-naar-kvaratskhelia-vernoemd",
+    "type": "article",
+    "title": "Na Maradona worden in Napels nu baby's naar Kvaratskhelia vernoemd",
+    "subtitle": "NU+",
+    "published_at": "2023-04-29T05:17:24+02:00",
+    "updated_at": "2023-04-29T05:17:26+02:00",
+    "media_id": "1y3xdr0a75r4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6259355/na-maradona-worden-in-napels-nu-babys-naar-kvaratskhelia-vernoemd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261400,
     "slug": "hint-fernando-alonso-op-relatie-met-taylor-swift-laten-we-het-over-f1-hebben",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6261458/zo-klinkt-de-nieuwe-versie-van-songfestivalliedje-van-mia-en-dion.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261457,
-    "slug": "mia-en-dion-zingen-aangepast-songfestivallied-na-kritiek-op-optredens",
-    "type": "article",
-    "title": "Mia en Dion zingen aangepast Songfestivallied na kritiek op optredens",
-    "subtitle": null,
-    "published_at": "2023-04-28T20:00:33+02:00",
-    "updated_at": "2023-04-28T21:28:06+02:00",
-    "media_id": "8vbx56saxahu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772282,
-      "slug": "songfestival",
-      "type": "default",
-      "name": "Songfestival",
-      "style": "nuuit",
-      "media_id": "4a9xjerag1rk",
-      "partner": null
-    },
-    "url": "/songfestival/6261457/mia-en-dion-zingen-aangepast-songfestivallied-na-kritiek-op-optredens.html",
     "open_new_window": false,
     "partner": null
   }
