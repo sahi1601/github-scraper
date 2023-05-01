@@ -1,5 +1,51 @@
 [
   {
+    "id": 6261726,
+    "slug": "terugblik-perez-deed-niks-fout-en-won-verdiend-in-azerbeidzjan",
+    "type": "article",
+    "title": "Terugblik: 'Pérez deed niks fout en won verdiend in Azerbeidzjan'",
+    "subtitle": "NU+",
+    "published_at": "2023-05-01T13:19:16+02:00",
+    "updated_at": "2023-05-01T13:19:17+02:00",
+    "media_id": "538xeaxa8yh2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Azerbeidzjan",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6261726/terugblik-perez-deed-niks-fout-en-won-verdiend-in-azerbeidzjan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261749,
+    "slug": "amerikaanse-scholieren-gaan-in-tank-naar-schoolgala",
+    "type": "video",
+    "title": "Amerikaanse scholieren gaan in tank naar schoolgala",
+    "subtitle": "Video",
+    "published_at": "2023-05-01T13:10:28+02:00",
+    "updated_at": "2023-05-01T13:10:30+02:00",
+    "media_id": "7caxv96aifes",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6261749/amerikaanse-scholieren-gaan-in-tank-naar-schoolgala.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261747,
     "slug": "bijna-180000-appende-of-bellende-bestuurders-kregen-vorig-jaar-een-boete",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "De computer weet wat je ziet: hoe breinsignalen worden omgezet in beeld",
     "subtitle": "NU+",
     "published_at": "2023-05-01T12:45:05+02:00",
-    "updated_at": "2023-05-01T12:45:06+02:00",
+    "updated_at": "2023-05-01T13:19:57+02:00",
     "media_id": "rt5xfwoadzoe",
     "duration": null,
     "canonical_section": {
@@ -208,12 +254,12 @@
   },
   {
     "id": 6261733,
-    "slug": "zeven-nederlanders-aangehouden-bij-illegale-rave-in-belgie",
+    "slug": "zeven-nederlanders-opgepakt-voor-organiseren-illegale-rave-in-belgie",
     "type": "article",
-    "title": "Zeven Nederlanders aangehouden bij illegale rave in België",
+    "title": "Zeven Nederlanders opgepakt voor organiseren illegale rave in België",
     "subtitle": null,
     "published_at": "2023-05-01T12:07:40+02:00",
-    "updated_at": "2023-05-01T13:08:34+02:00",
+    "updated_at": "2023-05-01T13:22:33+02:00",
     "media_id": "ihcx1xda2abp",
     "duration": null,
     "canonical_section": {
@@ -225,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6261733/zeven-nederlanders-aangehouden-bij-illegale-rave-in-belgie.html",
+    "url": "/buitenland/6261733/zeven-nederlanders-opgepakt-voor-organiseren-illegale-rave-in-belgie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6261711/derde-amerikaanse-bank-in-korte-tijd-valt-om.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261707,
-    "slug": "feestgangers-druipen-af-na-illegale-raveparty-in-belgie",
-    "type": "video",
-    "title": "Feestgangers druipen af na illegale raveparty in België",
-    "subtitle": "Video",
-    "published_at": "2023-05-01T09:37:56+02:00",
-    "updated_at": "2023-05-01T10:11:32+02:00",
-    "media_id": "yvlxy39anf6r",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6261707/feestgangers-druipen-af-na-illegale-raveparty-in-belgie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261705,
-    "slug": "klopp-verdedigt-wangedrag-richting-arbitrage-deze-scheidsrechter-is-tegen-ons",
-    "type": "article",
-    "title": "Klopp verdedigt wangedrag richting arbitrage: 'Deze scheidsrechter is tegen ons'",
-    "subtitle": null,
-    "published_at": "2023-05-01T09:26:51+02:00",
-    "updated_at": "2023-05-01T10:04:57+02:00",
-    "media_id": "cr7x0c3abg76",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6261705/klopp-verdedigt-wangedrag-richting-arbitrage-deze-scheidsrechter-is-tegen-ons.html",
     "open_new_window": false,
     "partner": null
   }
