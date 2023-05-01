@@ -1,12 +1,35 @@
 [
   {
+    "id": 6261682,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-05-01T05:17:29+02:00",
+    "updated_at": "2023-05-01T05:17:31+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6261682/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261679,
     "slug": "na-diep-dal-is-bekritiseerde-drommel-bekerheld-van-psv-dit-voelt-als-revanche",
     "type": "article",
     "title": "Na diep dal is bekritiseerde Drommel bekerheld van PSV: 'Dit voelt als revanche'",
     "subtitle": null,
     "published_at": "2023-05-01T05:06:27+02:00",
-    "updated_at": "2023-05-01T05:12:03+02:00",
+    "updated_at": "2023-05-01T05:20:29+02:00",
     "media_id": "xnbxejaaw2nt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6260965/zo-ziet-de-europese-ticketverdeling-eruit-door-de-bekerwinst-van-psv.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261653,
-    "slug": "psv-verslaat-ajax-via-penaltys-en-wint-net-als-vorig-seizoen-knvb-beker",
-    "type": "article",
-    "title": "PSV verslaat Ajax via penalty's en wint net als vorig seizoen KNVB-beker",
-    "subtitle": null,
-    "published_at": "2023-04-30T20:54:46+02:00",
-    "updated_at": "2023-04-30T21:30:39+02:00",
-    "media_id": "2jnx5kya0nw2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6261653/psv-verslaat-ajax-via-penaltys-en-wint-net-als-vorig-seizoen-knvb-beker.html",
     "open_new_window": false,
     "partner": null
   }
