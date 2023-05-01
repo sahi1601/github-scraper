@@ -1,5 +1,28 @@
 [
   {
+    "id": 6261724,
+    "slug": "praat-mee-over-de-dag-van-de-arbeid",
+    "type": "article",
+    "title": "Praat mee over de Dag van de Arbeid",
+    "subtitle": null,
+    "published_at": "2023-05-01T12:40:17+02:00",
+    "updated_at": "2023-05-01T12:40:18+02:00",
+    "media_id": "xjnxsexatw7o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6261724/praat-mee-over-de-dag-van-de-arbeid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261737,
     "slug": "masterchef-australia-presentator-jock-zonfrillo-op-46-jarige-leeftijd-overleden",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Fans PSV en Ajax richten schade aan in De Kuip: kapotte toiletten en stoelen",
     "subtitle": null,
     "published_at": "2023-05-01T12:08:31+02:00",
-    "updated_at": "2023-05-01T12:08:33+02:00",
+    "updated_at": "2023-05-01T12:30:11+02:00",
     "media_id": "7nvx9niapkeu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6261700/spelers-psv-feesten-met-fans-na-bekerwinst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261696,
-    "slug": "verwarde-schutter-door-politie-neergeschoten-en-opgepakt-in-wijk-bij-duurstede",
-    "type": "article",
-    "title": "Verwarde schutter door politie neergeschoten en opgepakt in Wijk bij Duurstede",
-    "subtitle": null,
-    "published_at": "2023-05-01T08:20:26+02:00",
-    "updated_at": "2023-05-01T08:20:28+02:00",
-    "media_id": "o4tx1yyakto5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6261696/verwarde-schutter-door-politie-neergeschoten-en-opgepakt-in-wijk-bij-duurstede.html",
     "open_new_window": false,
     "partner": null
   }
