@@ -1,12 +1,35 @@
 [
   {
-    "id": 6261697,
-    "slug": "op-op-krijgt-een-nieuwe-betekenis-bij-albert-heijn",
+    "id": 6261696,
+    "slug": "verwarde-schutter-door-politie-neergeschoten-en-opgepakt-in-wijk-bij-duurstede",
     "type": "article",
-    "title": "Op = op krijgt een nieuwe betekenis bij Albert Heijn",
+    "title": "Verwarde schutter door politie neergeschoten en opgepakt in Wijk bij Duurstede",
+    "subtitle": null,
+    "published_at": "2023-05-01T08:20:26+02:00",
+    "updated_at": "2023-05-01T08:20:28+02:00",
+    "media_id": "o4tx1yyakto5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6261696/verwarde-schutter-door-politie-neergeschoten-en-opgepakt-in-wijk-bij-duurstede.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261697,
+    "slug": "op-op-krijgt-nieuwe-betekenis-bij-albert-heijn",
+    "type": "article",
+    "title": "Op = op krijgt nieuwe betekenis bij Albert Heijn",
     "subtitle": null,
     "published_at": "2023-05-01T08:16:21+02:00",
-    "updated_at": "2023-05-01T08:18:11+02:00",
+    "updated_at": "2023-05-01T08:29:19+02:00",
     "media_id": "husxos7apiit",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6261697/op-op-krijgt-een-nieuwe-betekenis-bij-albert-heijn.html",
+    "url": "/economie/6261697/op-op-krijgt-nieuwe-betekenis-bij-albert-heijn.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/de-boordradio/6261677/perez-wint-altijd-als-er-iets-is-met-verstappen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261674,
-    "slug": "van-nistelrooij-geniet-na-bekerwinst-van-twintigers-over-60-jaar-weten-ze-dit-nog",
-    "type": "article",
-    "title": "Van Nistelrooij geniet na bekerwinst van twintigers: 'Over 60 jaar weten ze dit nog'",
-    "subtitle": null,
-    "published_at": "2023-04-30T23:54:38+02:00",
-    "updated_at": "2023-05-01T06:16:39+02:00",
-    "media_id": "k1gx3faashsi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6261674/van-nistelrooij-geniet-na-bekerwinst-van-twintigers-over-60-jaar-weten-ze-dit-nog.html",
     "open_new_window": false,
     "partner": null
   }
