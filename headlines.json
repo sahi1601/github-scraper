@@ -1,12 +1,35 @@
 [
   {
+    "id": 6261683,
+    "slug": "weer-een-rotterdamse-straat-slachtoffer-van-explosie",
+    "type": "article",
+    "title": "Weer een Rotterdamse straat slachtoffer van explosie",
+    "subtitle": null,
+    "published_at": "2023-05-01T05:44:50+02:00",
+    "updated_at": "2023-05-01T05:44:52+02:00",
+    "media_id": "ln6x6d5azv7t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6261683/weer-een-rotterdamse-straat-slachtoffer-van-explosie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261681,
     "slug": "weerbericht-mei-start-met-zon-en-warmte-met-hier-en-daar-kans-op-regen",
     "type": "article",
     "title": "Weerbericht: Mei start met zon en warmte met hier en daar kans op regen",
     "subtitle": null,
     "published_at": "2023-05-01T05:24:37+02:00",
-    "updated_at": "2023-05-01T05:24:38+02:00",
+    "updated_at": "2023-05-01T06:03:08+02:00",
     "media_id": "gjcxi45anbpy",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "'Pérez wint altijd als er iets is met Verstappen'",
     "subtitle": "Podcast De Boordradio",
     "published_at": "2023-05-01T00:22:36+02:00",
-    "updated_at": "2023-05-01T00:22:38+02:00",
+    "updated_at": "2023-05-01T06:05:49+02:00",
     "media_id": "36tx2lgapggp",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Van Nistelrooij geniet na bekerwinst van twintigers: 'Over 60 jaar weten ze dit nog'",
     "subtitle": null,
     "published_at": "2023-04-30T23:54:38+02:00",
-    "updated_at": "2023-05-01T04:32:24+02:00",
+    "updated_at": "2023-05-01T06:16:39+02:00",
     "media_id": "k1gx3faashsi",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Selby schrijft snookergeschiedenis met eerste maximumbreak ooit in WK-finale",
     "subtitle": null,
     "published_at": "2023-04-30T23:50:12+02:00",
-    "updated_at": "2023-04-30T23:52:17+02:00",
+    "updated_at": "2023-05-01T06:09:44+02:00",
     "media_id": "v73xd2yarb12",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Ajax trainde niet op penalty's voor bekerfinale: 'Maar we hebben er geen spijt van'",
     "subtitle": null,
     "published_at": "2023-04-30T23:17:55+02:00",
-    "updated_at": "2023-05-01T01:07:05+02:00",
+    "updated_at": "2023-05-01T05:46:59+02:00",
     "media_id": "pkwx4g3af8gw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6261661/opnieuw-aanhouding-verricht-in-onderzoek-naar-explosies-in-rotterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261660,
-    "slug": "bijzonder-wolkendek-vormt-zich-boven-texas",
-    "type": "video",
-    "title": "Bijzonder wolkendek vormt zich boven Texas",
-    "subtitle": "Video",
-    "published_at": "2023-04-30T20:58:35+02:00",
-    "updated_at": "2023-04-30T20:58:36+02:00",
-    "media_id": "txixm38aeerb",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6261660/bijzonder-wolkendek-vormt-zich-boven-texas.html",
     "open_new_window": false,
     "partner": null
   }
