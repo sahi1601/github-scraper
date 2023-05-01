@@ -1,12 +1,35 @@
 [
   {
+    "id": 6261750,
+    "slug": "ondanks-krappe-arbeidsmarkt-nemen-machines-ons-werk-nog-niet-over",
+    "type": "article",
+    "title": "Ondanks krappe arbeidsmarkt nemen machines ons werk (nog) niet over",
+    "subtitle": null,
+    "published_at": "2023-05-01T13:24:37+02:00",
+    "updated_at": "2023-05-01T13:24:39+02:00",
+    "media_id": "rjexf5radsei",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6261750/ondanks-krappe-arbeidsmarkt-nemen-machines-ons-werk-nog-niet-over.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261726,
     "slug": "terugblik-perez-deed-niks-fout-en-won-verdiend-in-azerbeidzjan",
     "type": "article",
     "title": "Terugblik: 'Pérez deed niks fout en won verdiend in Azerbeidzjan'",
     "subtitle": "NU+",
     "published_at": "2023-05-01T13:19:16+02:00",
-    "updated_at": "2023-05-01T13:19:17+02:00",
+    "updated_at": "2023-05-01T13:40:32+02:00",
     "media_id": "538xeaxa8yh2",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Tientallen Roompot- en Landal-parken worden Summio's",
     "subtitle": null,
     "published_at": "2023-05-01T12:51:02+02:00",
-    "updated_at": "2023-05-01T12:56:00+02:00",
+    "updated_at": "2023-05-01T13:33:16+02:00",
     "media_id": "ftwxqgcaqm18",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "De computer weet wat je ziet: hoe breinsignalen worden omgezet in beeld",
     "subtitle": "NU+",
     "published_at": "2023-05-01T12:45:05+02:00",
-    "updated_at": "2023-05-01T13:19:57+02:00",
+    "updated_at": "2023-05-01T13:29:14+02:00",
     "media_id": "rt5xfwoadzoe",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Fans PSV en Ajax richten schade aan in De Kuip: kapotte toiletten en stoelen",
     "subtitle": null,
     "published_at": "2023-05-01T12:08:31+02:00",
-    "updated_at": "2023-05-01T12:30:11+02:00",
+    "updated_at": "2023-05-01T13:38:14+02:00",
     "media_id": "7nvx9niapkeu",
     "duration": null,
     "canonical_section": {
@@ -254,12 +277,12 @@
   },
   {
     "id": 6261733,
-    "slug": "zeven-nederlanders-opgepakt-voor-organiseren-illegale-rave-in-belgie",
+    "slug": "zeven-opgepakte-nederlanders-zitten-achter-illegale-rave-in-belgie",
     "type": "article",
-    "title": "Zeven Nederlanders opgepakt voor organiseren illegale rave in België",
+    "title": "Zeven opgepakte Nederlanders zitten achter illegale rave in België",
     "subtitle": null,
     "published_at": "2023-05-01T12:07:40+02:00",
-    "updated_at": "2023-05-01T13:22:33+02:00",
+    "updated_at": "2023-05-01T13:34:38+02:00",
     "media_id": "ihcx1xda2abp",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6261733/zeven-nederlanders-opgepakt-voor-organiseren-illegale-rave-in-belgie.html",
+    "url": "/buitenland/6261733/zeven-opgepakte-nederlanders-zitten-achter-illegale-rave-in-belgie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Vakbond FNV gaat nu zelf staken voor hoger loon",
     "subtitle": null,
     "published_at": "2023-05-01T11:19:25+02:00",
-    "updated_at": "2023-05-01T11:44:17+02:00",
+    "updated_at": "2023-05-01T13:44:12+02:00",
     "media_id": "5ifxguhaszb2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6261713/het-loopt-storm-bij-noodfonds-energie-aanvragen-kan-een-week-langer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261711,
-    "slug": "derde-amerikaanse-bank-in-korte-tijd-valt-om",
-    "type": "article",
-    "title": "Derde Amerikaanse bank in korte tijd valt om",
-    "subtitle": null,
-    "published_at": "2023-05-01T09:54:50+02:00",
-    "updated_at": "2023-05-01T12:26:11+02:00",
-    "media_id": "i08x6lxa7u77",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6261711/derde-amerikaanse-bank-in-korte-tijd-valt-om.html",
     "open_new_window": false,
     "partner": null
   }
