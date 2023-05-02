@@ -1,5 +1,28 @@
 [
   {
+    "id": 6261810,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-05-02T05:16:29+02:00",
+    "updated_at": "2023-05-02T05:16:30+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6261810/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6260844,
     "slug": "waarom-de-nederlandse-miep-gies-een-brits-accent-heeft-in-a-small-light",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6261793/student-eet-bananenkunstwerk-op-in-zuid-koreaans-museum.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261775,
-    "slug": "net-als-het-lenteweer-laten-ook-de-pollen-nog-een-tijdje-op-zich-wachten",
-    "type": "article",
-    "title": "Net als het lenteweer laten ook de pollen nog een tijdje op zich wachten",
-    "subtitle": null,
-    "published_at": "2023-05-01T19:06:25+02:00",
-    "updated_at": "2023-05-01T21:04:43+02:00",
-    "media_id": "etex61ca6evm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6261775/net-als-het-lenteweer-laten-ook-de-pollen-nog-een-tijdje-op-zich-wachten.html",
     "open_new_window": false,
     "partner": null
   }
