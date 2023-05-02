@@ -1,12 +1,35 @@
 [
   {
+    "id": 6261929,
+    "slug": "ritwinst-charlotte-kool-in-vuelta-rode-trui-valt-in-handen-van-marianne-vos",
+    "type": "article",
+    "title": "Ritwinst Charlotte Kool in Vuelta, rode trui valt in handen van Marianne Vos",
+    "subtitle": null,
+    "published_at": "2023-05-02T17:17:04+02:00",
+    "updated_at": "2023-05-02T17:23:53+02:00",
+    "media_id": "ae1xl4rae2qe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6261929/ritwinst-charlotte-kool-in-vuelta-rode-trui-valt-in-handen-van-marianne-vos.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261926,
     "slug": "landelijke-pinstoring-zorgt-voor-lange-rijen-in-supermarkten-en-andere-winkels",
     "type": "article",
     "title": "Landelijke pinstoring zorgt voor lange rijen in supermarkten en andere winkels",
     "subtitle": null,
     "published_at": "2023-05-02T17:00:12+02:00",
-    "updated_at": "2023-05-02T17:13:57+02:00",
+    "updated_at": "2023-05-02T17:24:34+02:00",
     "media_id": "xswx2g1ahffj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6261868/honderden-arrestaties-en-gewonden-na-protest-op-dag-van-de-arbeid-in-frankrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261881,
-    "slug": "oranjevrouwen-treffen-engeland-van-wiegman-in-groepsfase-nations-league",
-    "type": "article",
-    "title": "Oranjevrouwen treffen Engeland van Wiegman in groepsfase Nations League",
-    "subtitle": null,
-    "published_at": "2023-05-02T13:27:41+02:00",
-    "updated_at": "2023-05-02T16:48:14+02:00",
-    "media_id": "tu8xrq7alv79",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6261881/oranjevrouwen-treffen-engeland-van-wiegman-in-groepsfase-nations-league.html",
     "open_new_window": false,
     "partner": null
   }
