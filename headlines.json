@@ -1,5 +1,28 @@
 [
   {
+    "id": 6261938,
+    "slug": "grote-pinstoring-die-lange-rijen-in-winkels-veroorzaakte-is-voorbij",
+    "type": "article",
+    "title": "Grote pinstoring die lange rijen in winkels veroorzaakte is voorbij",
+    "subtitle": null,
+    "published_at": "2023-05-02T18:12:29+02:00",
+    "updated_at": "2023-05-02T18:12:30+02:00",
+    "media_id": "jvnx7xoa98wk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6261938/grote-pinstoring-die-lange-rijen-in-winkels-veroorzaakte-is-voorbij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261935,
     "slug": "wingsuiter-vliegt-door-beroemde-chinese-hemelpoort",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Ritwinst Charlotte Kool in Vuelta, rode trui valt in handen van Marianne Vos",
     "subtitle": null,
     "published_at": "2023-05-02T17:17:04+02:00",
-    "updated_at": "2023-05-02T17:31:21+02:00",
+    "updated_at": "2023-05-02T17:51:20+02:00",
     "media_id": "ae1xl4rae2qe",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Landelijke pinstoring zorgt voor lange rijen in supermarkten en andere winkels",
     "subtitle": null,
     "published_at": "2023-05-02T17:00:12+02:00",
-    "updated_at": "2023-05-02T17:41:16+02:00",
+    "updated_at": "2023-05-02T18:05:38+02:00",
     "media_id": "xswx2g1ahffj",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Rick Engelkes krijgt extra tijd om te reageren op terugbetaling coronasteun",
     "subtitle": null,
     "published_at": "2023-05-02T16:55:27+02:00",
-    "updated_at": "2023-05-02T17:13:45+02:00",
+    "updated_at": "2023-05-02T17:45:18+02:00",
     "media_id": "gxaxaa9az068",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6261899,
-    "slug": "bluesky-uitnodigingen-zijn-gewild-dit-weten-we-over-het-twitter-alternatief",
+    "slug": "dit-weten-we-over-platform-bluesky-van-twitter-oprichter-jack-dorsey",
     "type": "article",
-    "title": "Bluesky-uitnodigingen zijn gewild: dit weten we over het Twitter-alternatief",
+    "title": "Dit weten we over platform Bluesky van Twitter-oprichter Jack Dorsey",
     "subtitle": null,
     "published_at": "2023-05-02T16:38:14+02:00",
-    "updated_at": "2023-05-02T16:38:15+02:00",
+    "updated_at": "2023-05-02T17:45:53+02:00",
     "media_id": "rooxd39a0z5f",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6261899/bluesky-uitnodigingen-zijn-gewild-dit-weten-we-over-het-twitter-alternatief.html",
+    "url": "/tech/6261899/dit-weten-we-over-platform-bluesky-van-twitter-oprichter-jack-dorsey.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6261890/cher-en-alexander-edwards-na-paar-maanden-alweer-uit-elkaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261888,
-    "slug": "bij-illegale-raveparty-opgepakte-nederlanders-zijn-weer-vrijgelaten",
-    "type": "article",
-    "title": "Bij illegale raveparty opgepakte Nederlanders zijn weer vrijgelaten",
-    "subtitle": null,
-    "published_at": "2023-05-02T13:53:24+02:00",
-    "updated_at": "2023-05-02T14:10:55+02:00",
-    "media_id": "p5lxko5a7lse",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6261888/bij-illegale-raveparty-opgepakte-nederlanders-zijn-weer-vrijgelaten.html",
     "open_new_window": false,
     "partner": null
   }
