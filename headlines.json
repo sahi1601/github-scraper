@@ -1,5 +1,28 @@
 [
   {
+    "id": 6262098,
+    "slug": "piek-in-interesse-voor-pleegzorg-na-televisieprogramma-met-pleeggezin",
+    "type": "article",
+    "title": "Piek in interesse voor pleegzorg na televisieprogramma met pleeggezin",
+    "subtitle": null,
+    "published_at": "2023-05-03T19:24:48+02:00",
+    "updated_at": "2023-05-03T19:26:04+02:00",
+    "media_id": "krbxek7aliie",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6262098/piek-in-interesse-voor-pleegzorg-na-televisieprogramma-met-pleeggezin.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262100,
     "slug": "brit-beklimt-drie-bergen-met-koelkast-op-zijn-rug",
     "type": "video",
@@ -52,7 +75,7 @@
     "title": "Toch vangrail op knooppunt waar Sanne en Hebe om het leven kwamen",
     "subtitle": null,
     "published_at": "2023-05-03T19:17:57+02:00",
-    "updated_at": "2023-05-03T19:18:02+02:00",
+    "updated_at": "2023-05-03T19:39:31+02:00",
     "media_id": "sajxozea5bkj",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6262097,
-    "slug": "dna-van-vrouw-uit-steentijd-gevonden-op-20000-jaar-oud-sieraad",
+    "slug": "dna-van-vrouw-uit-steentijd-gevonden-op-twintigduizend-jaar-oud-sieraad",
     "type": "article",
-    "title": "DNA van vrouw uit Steentijd gevonden op 20.000 jaar oud sieraad",
+    "title": "DNA van vrouw uit steentijd gevonden op twintigduizend jaar oud sieraad",
     "subtitle": null,
     "published_at": "2023-05-03T19:16:01+02:00",
-    "updated_at": "2023-05-03T19:16:04+02:00",
+    "updated_at": "2023-05-03T19:33:52+02:00",
     "media_id": "1j5xq9ia0vvt",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wetenschap/6262097/dna-van-vrouw-uit-steentijd-gevonden-op-20000-jaar-oud-sieraad.html",
+    "url": "/wetenschap/6262097/dna-van-vrouw-uit-steentijd-gevonden-op-twintigduizend-jaar-oud-sieraad.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,12 +139,12 @@
   },
   {
     "id": 6262095,
-    "slug": "duitse-banken-gaan-lijm-inzetten-om-nederlandse-plofkraken-tegen-te-gaan",
+    "slug": "duitse-banken-gaan-lijm-gebruiken-om-nederlandse-plofkraken-tegen-te-gaan",
     "type": "article",
-    "title": "Duitse banken gaan lijm inzetten om 'Nederlandse' plofkraken tegen te gaan",
+    "title": "Duitse banken gaan lijm gebruiken om 'Nederlandse' plofkraken tegen te gaan",
     "subtitle": null,
     "published_at": "2023-05-03T19:06:58+02:00",
-    "updated_at": "2023-05-03T19:06:59+02:00",
+    "updated_at": "2023-05-03T19:26:46+02:00",
     "media_id": "x3pxz2na0v7q",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6262095/duitse-banken-gaan-lijm-inzetten-om-nederlandse-plofkraken-tegen-te-gaan.html",
+    "url": "/buitenland/6262095/duitse-banken-gaan-lijm-gebruiken-om-nederlandse-plofkraken-tegen-te-gaan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6262077/politie-fouilleert-preventief-in-rotterdamse-wijken-om-explosieven-te-vinden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262076,
-    "slug": "marianne-vos-verstevigt-vuelta-leiding-met-zege-in-snelste-worldtour-koers-ooit",
-    "type": "article",
-    "title": "Marianne Vos verstevigt Vuelta-leiding met zege in snelste WorldTour-koers ooit",
-    "subtitle": null,
-    "published_at": "2023-05-03T16:33:47+02:00",
-    "updated_at": "2023-05-03T17:11:36+02:00",
-    "media_id": "9vqxg9mav591",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6262076/marianne-vos-verstevigt-vuelta-leiding-met-zege-in-snelste-worldtour-koers-ooit.html",
     "open_new_window": false,
     "partner": null
   }
