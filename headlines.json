@@ -1,5 +1,51 @@
 [
   {
+    "id": 6262060,
+    "slug": "pinproblemen-in-winkels-werden-toch-door-betaaldienstverlener-veroorzaakt",
+    "type": "article",
+    "title": "Pinproblemen in winkels werden toch door betaaldienstverlener veroorzaakt",
+    "subtitle": null,
+    "published_at": "2023-05-03T15:14:23+02:00",
+    "updated_at": "2023-05-03T15:14:25+02:00",
+    "media_id": "n41x7xpaglz6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6262060/pinproblemen-in-winkels-werden-toch-door-betaaldienstverlener-veroorzaakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6262057,
+    "slug": "man-opgepakt-omdat-hij-bij-arsenal-chelsea-met-laserpen-op-mudryk-scheen",
+    "type": "article",
+    "title": "Man opgepakt omdat hij bij Arsenal-Chelsea met laserpen op Mudryk scheen",
+    "subtitle": null,
+    "published_at": "2023-05-03T15:08:46+02:00",
+    "updated_at": "2023-05-03T15:08:48+02:00",
+    "media_id": "9dpx4pcaph50",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6262057/man-opgepakt-omdat-hij-bij-arsenal-chelsea-met-laserpen-op-mudryk-scheen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262052,
     "slug": "michael-douglas-ontvangt-ereprijs-op-filmfestival-van-cannes",
     "type": "article",
@@ -238,7 +284,7 @@
     "published_at": "2023-05-03T12:27:11+02:00",
     "updated_at": "2023-05-03T12:40:35+02:00",
     "media_id": "o82xda4avhv3",
-    "duration": "0:36",
+    "duration": "0:39",
     "canonical_section": {
       "id": 1772431,
       "slug": "videos",
@@ -259,7 +305,7 @@
     "title": "4 en 5 mei: Dit kun je behalve een herdenking of festival bezoeken ook doen",
     "subtitle": null,
     "published_at": "2023-05-03T12:19:26+02:00",
-    "updated_at": "2023-05-03T14:03:23+02:00",
+    "updated_at": "2023-05-03T15:14:18+02:00",
     "media_id": "u44x7tjaetwg",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Jongen (14) opent vuur op Servische basisschool, zeker negen doden",
     "subtitle": null,
     "published_at": "2023-05-03T12:03:46+02:00",
-    "updated_at": "2023-05-03T13:17:33+02:00",
+    "updated_at": "2023-05-03T15:15:26+02:00",
     "media_id": "mk4xthca7y4w",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6262014/kevin-costner-gaat-scheiden-na-huwelijk-van-achttien-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262012,
-    "slug": "bijzondere-schaatsdeal-olympisch-kampioene-visser-gaat-bij-talentploeg-trainen",
-    "type": "article",
-    "title": "Bijzondere schaatsdeal: olympisch kampioene Visser gaat bij talentploeg trainen",
-    "subtitle": null,
-    "published_at": "2023-05-03T11:07:08+02:00",
-    "updated_at": "2023-05-03T12:10:38+02:00",
-    "media_id": "8j7xbnra3nlb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6262012/bijzondere-schaatsdeal-olympisch-kampioene-visser-gaat-bij-talentploeg-trainen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262005,
-    "slug": "132-aanhoudingen-bij-internationale-politieactie-tegen-italiaanse-maffia",
-    "type": "article",
-    "title": "132 aanhoudingen bij internationale politieactie tegen Italiaanse maffia",
-    "subtitle": null,
-    "published_at": "2023-05-03T11:05:09+02:00",
-    "updated_at": "2023-05-03T13:38:08+02:00",
-    "media_id": "zgixzkray4df",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6262005/132-aanhoudingen-bij-internationale-politieactie-tegen-italiaanse-maffia.html",
     "open_new_window": false,
     "partner": null
   }
