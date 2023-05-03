@@ -1,5 +1,28 @@
 [
   {
+    "id": 6261972,
+    "slug": "politie-gebruikte-vorig-jaar-opnieuw-meer-geweld",
+    "type": "article",
+    "title": "Politie gebruikte vorig jaar opnieuw meer geweld",
+    "subtitle": null,
+    "published_at": "2023-05-03T06:30:23+02:00",
+    "updated_at": "2023-05-03T06:40:08+02:00",
+    "media_id": "wvcxy6ka11zk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6261972/politie-gebruikte-vorig-jaar-opnieuw-meer-geweld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261898,
     "slug": "135-gemeenten-laten-rol-in-handel-geroofd-joods-vastgoed-onderzoeken",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6261960/chinees-wordt-30-meter-de-lucht-in-geslingerd-door-vlieger.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261959,
-    "slug": "nasa-brengt-in-beeld-hoe-ongelooflijk-groot-zwarte-gaten-kunnen-worden",
-    "type": "article",
-    "title": "NASA brengt in beeld hoe ongelooflijk groot zwarte gaten kunnen worden",
-    "subtitle": null,
-    "published_at": "2023-05-02T21:42:48+02:00",
-    "updated_at": "2023-05-02T23:24:54+02:00",
-    "media_id": "hzsx1dbaxw7n",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6261959/nasa-brengt-in-beeld-hoe-ongelooflijk-groot-zwarte-gaten-kunnen-worden.html",
     "open_new_window": false,
     "partner": null
   }
