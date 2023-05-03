@@ -1,12 +1,58 @@
 [
   {
+    "id": 6261784,
+    "slug": "sekswerkers-werden-in-jaar-tijd-15000-keer-gewaarschuwd-voor-gevaarlijke-klant",
+    "type": "article",
+    "title": "Sekswerkers werden in jaar tijd 15.000 keer gewaarschuwd voor gevaarlijke klant",
+    "subtitle": null,
+    "published_at": "2023-05-03T08:11:26+02:00",
+    "updated_at": "2023-05-03T08:11:27+02:00",
+    "media_id": "1hexdhkah9yp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6261784/sekswerkers-werden-in-jaar-tijd-15000-keer-gewaarschuwd-voor-gevaarlijke-klant.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6261976,
+    "slug": "op1-presentatoren-praten-kijker-bij-terwijl-gast-buiten-beeld-valt",
+    "type": "video",
+    "title": "Op1-presentatoren praten kijker bij terwijl gast buiten beeld valt",
+    "subtitle": "Video",
+    "published_at": "2023-05-03T07:48:40+02:00",
+    "updated_at": "2023-05-03T07:48:41+02:00",
+    "media_id": "nu2x4bsavyn4",
+    "duration": "0:57",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6261976/op1-presentatoren-praten-kijker-bij-terwijl-gast-buiten-beeld-valt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261975,
     "slug": "lichaam-vermiste-australier-mogelijk-gevonden-in-maag-van-krokodil",
     "type": "article",
     "title": "Lichaam vermiste Australiër mogelijk gevonden in maag van krokodil",
     "subtitle": null,
     "published_at": "2023-05-03T07:32:03+02:00",
-    "updated_at": "2023-05-03T07:32:04+02:00",
+    "updated_at": "2023-05-03T07:56:54+02:00",
     "media_id": "6shx5tzaj4ls",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Ook vorig jaar veel stakingen, maar er gingen minder mensen de straat op",
     "subtitle": null,
     "published_at": "2023-05-03T00:00:53+02:00",
-    "updated_at": "2023-05-03T07:24:57+02:00",
+    "updated_at": "2023-05-03T07:45:38+02:00",
     "media_id": "72hxh1pa1sre",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6261965/ryan-reynolds-voetbalclub-wrexham-onthaald-in-wales-na-promotie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261963,
-    "slug": "oranjekeeper-flekken-moet-vijf-keer-vissen-en-loopt-duitse-bekerfinale-mis",
-    "type": "article",
-    "title": "Oranjekeeper Flekken moet vijf keer vissen en loopt Duitse bekerfinale mis",
-    "subtitle": null,
-    "published_at": "2023-05-02T22:43:56+02:00",
-    "updated_at": "2023-05-02T22:55:21+02:00",
-    "media_id": "ey5xl0ual393",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6261963/oranjekeeper-flekken-moet-vijf-keer-vissen-en-loopt-duitse-bekerfinale-mis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261962,
-    "slug": "zo-groot-kan-een-zwart-gat-zijn",
-    "type": "video",
-    "title": "Zo groot kan een zwart gat zijn",
-    "subtitle": "Video",
-    "published_at": "2023-05-02T22:43:11+02:00",
-    "updated_at": "2023-05-02T22:43:12+02:00",
-    "media_id": "2dfxg9camoi9",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6261962/zo-groot-kan-een-zwart-gat-zijn.html",
     "open_new_window": false,
     "partner": null
   }
