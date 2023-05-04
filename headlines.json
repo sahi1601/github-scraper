@@ -1,5 +1,51 @@
 [
   {
+    "id": 6262146,
+    "slug": "opgepakte-verpleegkundige-verdacht-van-doden-van-zeker-twintig-patienten-in-assen",
+    "type": "article",
+    "title": "Opgepakte verpleegkundige verdacht van doden van zeker twintig patiënten in Assen",
+    "subtitle": null,
+    "published_at": "2023-05-04T13:31:23+02:00",
+    "updated_at": "2023-05-04T13:40:37+02:00",
+    "media_id": "0rix36yalq3w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6262146/opgepakte-verpleegkundige-verdacht-van-doden-van-zeker-twintig-patienten-in-assen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6262201,
+    "slug": "zelensky-ontmoet-rutte-op-catshuis",
+    "type": "video",
+    "title": "Zelensky ontmoet Rutte op Catshuis",
+    "subtitle": "Video",
+    "published_at": "2023-05-04T13:25:33+02:00",
+    "updated_at": "2023-05-04T13:25:34+02:00",
+    "media_id": "n42xwfjaj2px",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6262201/zelensky-ontmoet-rutte-op-catshuis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262190,
     "slug": "dochter-carrie-fisher-wil-familie-niet-bij-onthulling-ster-op-walk-of-fame",
     "type": "article",
@@ -259,7 +305,7 @@
     "title": "Omstreden Sanderink krijgt alvast opvolger tijdens schorsing bij Strukton",
     "subtitle": null,
     "published_at": "2023-05-04T11:29:23+02:00",
-    "updated_at": "2023-05-04T13:21:01+02:00",
+    "updated_at": "2023-05-04T13:28:20+02:00",
     "media_id": "556xqnxa9s0q",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Zelensky vraagt om steun voor NAVO-lidmaatschap Oekraïne en meer wapens",
     "subtitle": null,
     "published_at": "2023-05-04T10:03:00+02:00",
-    "updated_at": "2023-05-04T12:49:09+02:00",
+    "updated_at": "2023-05-04T13:39:08+02:00",
     "media_id": "okgx55oa7l2u",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/koningshuis/6261893/waarom-zit-charles-als-26e-koning-op-de-steen-van-het-lot.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262158,
-    "slug": "corona-slaat-opnieuw-toe-in-wielerpeloton-oud-ritwinnaar-gino-mader-mist-de-giro",
-    "type": "article",
-    "title": "Corona slaat opnieuw toe in wielerpeloton: oud-ritwinnaar Gino Mäder mist de Giro",
-    "subtitle": null,
-    "published_at": "2023-05-04T09:58:43+02:00",
-    "updated_at": "2023-05-04T10:00:34+02:00",
-    "media_id": "g4nx428a3qxc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6262158/corona-slaat-opnieuw-toe-in-wielerpeloton-oud-ritwinnaar-gino-mader-mist-de-giro.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262152,
-    "slug": "willem-alexander-over-rol-koningin-wilhelmina-in-oorlog-was-gewoon-niet-goed",
-    "type": "article",
-    "title": "Willem-Alexander over rol koningin Wilhelmina in oorlog: 'Was gewoon niet goed'",
-    "subtitle": null,
-    "published_at": "2023-05-04T09:44:51+02:00",
-    "updated_at": "2023-05-04T10:48:44+02:00",
-    "media_id": "0tnxbelarotz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6262152/willem-alexander-over-rol-koningin-wilhelmina-in-oorlog-was-gewoon-niet-goed.html",
     "open_new_window": false,
     "partner": null
   }
