@@ -1,5 +1,28 @@
 [
   {
+    "id": 6248787,
+    "slug": "coronapandemie-is-officieel-geen-wereldwijde-noodsituatie-meer",
+    "type": "article",
+    "title": "Coronapandemie is officieel geen wereldwijde noodsituatie meer",
+    "subtitle": null,
+    "published_at": "2023-05-05T15:24:26+02:00",
+    "updated_at": "2023-05-05T15:24:28+02:00",
+    "media_id": "t84xnipa24ej",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6248787/coronapandemie-is-officieel-geen-wereldwijde-noodsituatie-meer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262338,
     "slug": "kamperende-fans-en-verkleed-als-charles-de-sfeer-in-londen-voor-de-kroning",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Inez Weski geschorst als advocaat zolang onderzoek naar haar loopt",
     "subtitle": null,
     "published_at": "2023-05-05T14:48:25+02:00",
-    "updated_at": "2023-05-05T14:48:27+02:00",
+    "updated_at": "2023-05-05T15:20:38+02:00",
     "media_id": "xx8x4haam73i",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Bevrijdingsfestivals ontruimd of stilgelegd vanwege onweer",
     "subtitle": null,
     "published_at": "2023-05-05T14:44:31+02:00",
-    "updated_at": "2023-05-05T15:15:12+02:00",
+    "updated_at": "2023-05-05T15:20:12+02:00",
     "media_id": "4e7x9beam18l",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/over-nu/6262171/een-nunl-nieuwsredacteur-staat-constant-aan-je-belandt-in-een-hyperfocus.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262055,
-    "slug": "hoe-vier-jij-onze-vrijheid-praat-mee-over-bevrijdingsfestivals",
-    "type": "article",
-    "title": "Hoe vier jij onze vrijheid? Praat mee over bevrijdingsfestivals",
-    "subtitle": null,
-    "published_at": "2023-05-05T12:00:54+02:00",
-    "updated_at": "2023-05-05T12:00:55+02:00",
-    "media_id": "r7exzqxa7ht0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6262055/hoe-vier-jij-onze-vrijheid-praat-mee-over-bevrijdingsfestivals.html",
     "open_new_window": false,
     "partner": null
   }
