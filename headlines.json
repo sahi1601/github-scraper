@@ -1,12 +1,35 @@
 [
   {
+    "id": 6262305,
+    "slug": "ecb-verwacht-dat-inflatie-pas-in-2025-terugkeert-op-2-procent",
+    "type": "article",
+    "title": "ECB verwacht dat inflatie pas in 2025 terugkeert op 2 procent",
+    "subtitle": null,
+    "published_at": "2023-05-05T10:25:17+02:00",
+    "updated_at": "2023-05-05T10:25:43+02:00",
+    "media_id": "q5gx7yzab5dq",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6262305/ecb-verwacht-dat-inflatie-pas-in-2025-terugkeert-op-2-procent.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262301,
     "slug": "sander-schimmelpenninck-wordt-vader-ben-er-gewoon-aan-toe",
     "type": "article",
     "title": "Sander Schimmelpenninck wordt vader: 'Ben er gewoon aan toe'",
     "subtitle": null,
     "published_at": "2023-05-05T09:47:05+02:00",
-    "updated_at": "2023-05-05T10:10:49+02:00",
+    "updated_at": "2023-05-05T10:16:25+02:00",
     "media_id": "t2pxuxca8bf1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6262280/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6261874,
-    "slug": "weer-een-nieuw-album-van-ed-sheeran-hoe-blijft-hij-al-tien-jaar-zo-populair",
-    "type": "article",
-    "title": "Weer een nieuw album van Ed Sheeran: hoe blijft hij al tien jaar zo populair?",
-    "subtitle": null,
-    "published_at": "2023-05-05T05:06:11+02:00",
-    "updated_at": "2023-05-05T09:31:21+02:00",
-    "media_id": "1qdxo1xawgxc",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6261874/weer-een-nieuw-album-van-ed-sheeran-hoe-blijft-hij-al-tien-jaar-zo-populair.html",
     "open_new_window": false,
     "partner": null
   }
