@@ -1,5 +1,28 @@
 [
   {
+    "id": 6262301,
+    "slug": "sander-schimmelpenninck-wordt-vader-ben-er-gewoon-aan-toe",
+    "type": "article",
+    "title": "Sander Schimmelpenninck wordt vader: 'Ben er gewoon aan toe'",
+    "subtitle": null,
+    "published_at": "2023-05-05T09:47:05+02:00",
+    "updated_at": "2023-05-05T10:10:49+02:00",
+    "media_id": "t2pxuxca8bf1",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6262301/sander-schimmelpenninck-wordt-vader-ben-er-gewoon-aan-toe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262299,
     "slug": "bevrijdingsvuur-brandt-weer-in-wageningen",
     "type": "video",
@@ -213,7 +236,7 @@
     "title": "KLM in de rode cijfers ondanks vollere vliegtuigen",
     "subtitle": null,
     "published_at": "2023-05-05T07:30:50+02:00",
-    "updated_at": "2023-05-05T08:14:27+02:00",
+    "updated_at": "2023-05-05T10:12:18+02:00",
     "media_id": "bogxqw7adkto",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6261874/weer-een-nieuw-album-van-ed-sheeran-hoe-blijft-hij-al-tien-jaar-zo-populair.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262251,
-    "slug": "titanenstrijd-in-giro-ditalia-evenepoel-in-supervorm-tegen-goede-wijn-roglic",
-    "type": "article",
-    "title": "Titanenstrijd in Giro d'Italia: Evenepoel in supervorm tegen 'goede wijn' Roglic",
-    "subtitle": null,
-    "published_at": "2023-05-05T05:05:29+02:00",
-    "updated_at": "2023-05-05T05:05:30+02:00",
-    "media_id": "m7zxpvhawlqk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6262251/titanenstrijd-in-giro-ditalia-evenepoel-in-supervorm-tegen-goede-wijn-roglic.html",
     "open_new_window": false,
     "partner": null
   }
