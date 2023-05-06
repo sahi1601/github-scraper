@@ -1,5 +1,28 @@
 [
   {
+    "id": 6262486,
+    "slug": "de-mooiste-fotos-van-de-kroning-van-charles",
+    "type": "article",
+    "title": "De mooiste foto's van de kroning van Charles",
+    "subtitle": "In beeld",
+    "published_at": "2023-05-06T17:12:14+02:00",
+    "updated_at": "2023-05-06T17:15:44+02:00",
+    "media_id": "5p1xo3cakbb8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6262486/de-mooiste-fotos-van-de-kroning-van-charles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262354,
     "slug": "hoe-weten-we-of-er-een-recessie-aankomt",
     "type": "video",
@@ -121,7 +144,7 @@
     "title": "Afsluitdijk in beide richtingen weer open na storing",
     "subtitle": null,
     "published_at": "2023-05-06T16:31:59+02:00",
-    "updated_at": "2023-05-06T17:09:02+02:00",
+    "updated_at": "2023-05-06T17:11:55+02:00",
     "media_id": "15bx46za3bsh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6262460/onderzoek-naar-trillingen-rotterdamse-willemstoren-gaat-maandag-verder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262198,
-    "slug": "oude-man-krijgt-glimmende-hoed-herstelt-charles-interesse-in-monarchie",
-    "type": "article",
-    "title": "Oude man krijgt glimmende hoed: herstelt Charles interesse in monarchie?",
-    "subtitle": "NU+",
-    "published_at": "2023-05-06T12:16:34+02:00",
-    "updated_at": "2023-05-06T14:35:23+02:00",
-    "media_id": "jsex3cjau89u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6262198/oude-man-krijgt-glimmende-hoed-herstelt-charles-interesse-in-monarchie.html",
     "open_new_window": false,
     "partner": null
   }
