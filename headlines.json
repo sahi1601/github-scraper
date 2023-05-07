@@ -1,12 +1,35 @@
 [
   {
+    "id": 6262591,
+    "slug": "lezersreacties-op-mannenschaarste-in-kinderopvang-twee-duidelijke-oorzaken",
+    "type": "article",
+    "title": "Lezersreacties op mannenschaarste in kinderopvang: 'Twee duidelijke oorzaken'",
+    "subtitle": null,
+    "published_at": "2023-05-07T18:44:49+02:00",
+    "updated_at": "2023-05-07T18:44:50+02:00",
+    "media_id": "vzoxw91ayoyo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6262591/lezersreacties-op-mannenschaarste-in-kinderopvang-twee-duidelijke-oorzaken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262605,
     "slug": "vijf-aanhoudingen-na-drugsvondst-in-rotterdamse-waalhaven",
     "type": "article",
     "title": "Vijf aanhoudingen na drugsvondst in Rotterdamse Waalhaven",
     "subtitle": null,
     "published_at": "2023-05-07T18:37:42+02:00",
-    "updated_at": "2023-05-07T18:38:03+02:00",
+    "updated_at": "2023-05-07T18:54:51+02:00",
     "media_id": "ab0x7d0adchs",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6262610,
-    "slug": "feyenoord-blijft-nederig-ondanks-titelkoorts-dat-past-bij-onze-club",
+    "slug": "feyenoord-blijft-nederig-onder-titelkoorts-dat-past-bij-onze-club",
     "type": "article",
-    "title": "Feyenoord blijft nederig ondanks titelkoorts: 'Dat past bij onze club'",
+    "title": "Feyenoord blijft nederig onder titelkoorts: 'Dat past bij onze club'",
     "subtitle": null,
     "published_at": "2023-05-07T18:16:56+02:00",
-    "updated_at": "2023-05-07T18:16:57+02:00",
+    "updated_at": "2023-05-07T18:50:27+02:00",
     "media_id": "0oaxcxfa3dyn",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6262610/feyenoord-blijft-nederig-ondanks-titelkoorts-dat-past-bij-onze-club.html",
+    "url": "/voetbal/6262610/feyenoord-blijft-nederig-onder-titelkoorts-dat-past-bij-onze-club.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +374,7 @@
     "title": "Zinderende Vuelta-ontknoping: Van Vleuten houdt Vollering 9 tellen achter zich",
     "subtitle": null,
     "published_at": "2023-05-07T15:34:57+02:00",
-    "updated_at": "2023-05-07T16:14:23+02:00",
+    "updated_at": "2023-05-07T18:54:54+02:00",
     "media_id": "f23xxbfa44tc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6262584/juventus-klopt-atalanta-en-nadert-cl-ticket-boadu-belangrijk-voor-monaco.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262583,
-    "slug": "antisemitismebestrijder-noemt-oppakken-154-az-fans-belangrijk-signaal",
-    "type": "article",
-    "title": "Antisemitismebestrijder noemt oppakken 154 AZ-fans 'belangrijk signaal'",
-    "subtitle": null,
-    "published_at": "2023-05-07T14:29:38+02:00",
-    "updated_at": "2023-05-07T17:54:57+02:00",
-    "media_id": "3u0xa3ma5h9c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6262583/antisemitismebestrijder-noemt-oppakken-154-az-fans-belangrijk-signaal.html",
     "open_new_window": false,
     "partner": null
   }
