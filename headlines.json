@@ -1,5 +1,28 @@
 [
   {
+    "id": 6262538,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-05-07T05:25:47+02:00",
+    "updated_at": "2023-05-07T05:25:48+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6262538/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6261537,
     "slug": "judokas-keuren-wk-in-qatar-af-maar-een-statement-vinden-ze-iets-voor-de-bonden",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Verstappen heeft zege ondanks negende startplek nog niet uit hoofd gezet",
     "subtitle": "NU+",
     "published_at": "2023-05-07T05:03:24+02:00",
-    "updated_at": "2023-05-07T05:03:25+02:00",
+    "updated_at": "2023-05-07T05:32:15+02:00",
     "media_id": "08wxygva9uid",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/darts/6262511/van-gerwen-naar-achtste-finales-in-belgie-van-duijvenbode-klopt-van-barneveld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262512,
-    "slug": "flater-cillessen-kost-nec-belangrijk-punt-in-strijd-om-europese-tickets",
-    "type": "article",
-    "title": "Flater Cillessen kost NEC belangrijk punt in strijd om Europese tickets",
-    "subtitle": null,
-    "published_at": "2023-05-06T21:59:48+02:00",
-    "updated_at": "2023-05-06T22:30:40+02:00",
-    "media_id": "46hxu1aaii7t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6262512/flater-cillessen-kost-nec-belangrijk-punt-in-strijd-om-europese-tickets.html",
     "open_new_window": false,
     "partner": null
   }
