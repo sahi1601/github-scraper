@@ -1,12 +1,35 @@
 [
   {
+    "id": 6262784,
+    "slug": "burgemeester-kyiv-bezoekt-verwoeste-woning-na-droneaanval",
+    "type": "video",
+    "title": "Burgemeester Kyiv bezoekt verwoeste woning na droneaanval",
+    "subtitle": "Video",
+    "published_at": "2023-05-08T20:18:47+02:00",
+    "updated_at": "2023-05-08T20:18:48+02:00",
+    "media_id": "xuaxc94avzc7",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6262784/burgemeester-kyiv-bezoekt-verwoeste-woning-na-droneaanval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262783,
     "slug": "nog-geen-duidelijkheid-over-landbouwakkoord-boerenlobbygroep-wijst-tekst-af",
     "type": "article",
     "title": "Nog geen duidelijkheid over landbouwakkoord, boerenlobbygroep wijst tekst af",
     "subtitle": null,
     "published_at": "2023-05-08T20:07:42+02:00",
-    "updated_at": "2023-05-08T20:07:43+02:00",
+    "updated_at": "2023-05-08T20:18:56+02:00",
     "media_id": "ujyx8iwaummd",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Messi klopt Verstappen en wint Laureus Award als beste sportman van de wereld",
     "subtitle": null,
     "published_at": "2023-05-08T19:46:04+02:00",
-    "updated_at": "2023-05-08T19:57:22+02:00",
+    "updated_at": "2023-05-08T20:17:24+02:00",
     "media_id": "zdqxdnbap0db",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Antiracismeactivist Mitchell Esajas bezorgd om veiligheid na lintjesrel",
     "subtitle": null,
     "published_at": "2023-05-08T18:08:26+02:00",
-    "updated_at": "2023-05-08T19:39:04+02:00",
+    "updated_at": "2023-05-08T20:19:42+02:00",
     "media_id": "id0x59vac0no",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6262743/feyenoord-wordt-maandag-gehuldigd-op-coolsingel-als-club-zondag-landstitel-pakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262745,
-    "slug": "overleden-persoon-aangetroffen-in-vrieskist-in-landgraaf",
-    "type": "article",
-    "title": "Overleden persoon aangetroffen in vrieskist in Landgraaf",
-    "subtitle": null,
-    "published_at": "2023-05-08T16:13:38+02:00",
-    "updated_at": "2023-05-08T16:16:39+02:00",
-    "media_id": "7zrxaica2815",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6262745/overleden-persoon-aangetroffen-in-vrieskist-in-landgraaf.html",
     "open_new_window": false,
     "partner": null
   }
