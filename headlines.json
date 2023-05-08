@@ -1,12 +1,35 @@
 [
   {
+    "id": 6262664,
+    "slug": "wat-wil-jij-weten-over-het-eurovisie-songfestival-vraag-het-onze-verslaggever",
+    "type": "article",
+    "title": "Wat wil jij weten over het Eurovisie Songfestival? Vraag het onze verslaggever",
+    "subtitle": null,
+    "published_at": "2023-05-08T09:17:00+02:00",
+    "updated_at": "2023-05-08T09:17:01+02:00",
+    "media_id": "uh6xwlaahjfb",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6262664/wat-wil-jij-weten-over-het-eurovisie-songfestival-vraag-het-onze-verslaggever.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262666,
     "slug": "argentijnse-kraker-loopt-uit-op-massale-vechtpartij",
     "type": "video",
     "title": "Argentijnse kraker loopt uit op massale vechtpartij",
-    "subtitle": null,
+    "subtitle": "Video",
     "published_at": "2023-05-08T09:08:11+02:00",
-    "updated_at": "2023-05-08T09:08:11+02:00",
+    "updated_at": "2023-05-08T09:14:38+02:00",
     "media_id": "s9uxr67a37jz",
     "duration": "0:51",
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6262662,
-    "slug": "doden-en-gewonden-in-oekraine-bij-luchtaanvallen-op-vooravond-russische-feestdag",
+    "slug": "doden-in-oekraine-bij-luchtaanvallen-op-vooravond-russische-feestdag",
     "type": "article",
-    "title": "Doden en gewonden in Oekraïne bij luchtaanvallen op vooravond Russische feestdag",
+    "title": "Doden in Oekraïne bij luchtaanvallen op vooravond Russische feestdag",
     "subtitle": null,
     "published_at": "2023-05-08T09:05:31+02:00",
-    "updated_at": "2023-05-08T09:05:32+02:00",
+    "updated_at": "2023-05-08T09:13:15+02:00",
     "media_id": "qwgx9qoaj14i",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6262662/doden-en-gewonden-in-oekraine-bij-luchtaanvallen-op-vooravond-russische-feestdag.html",
+    "url": "/spanningen-oekraine/6262662/doden-in-oekraine-bij-luchtaanvallen-op-vooravond-russische-feestdag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Johan Nijenhuis verfilmt musical Blind Date",
     "subtitle": null,
     "published_at": "2023-05-08T09:04:16+02:00",
-    "updated_at": "2023-05-08T09:04:17+02:00",
+    "updated_at": "2023-05-08T09:22:41+02:00",
     "media_id": "jg2xoozals1i",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6262051/nederlandse-acteurs-in-wereldproducties-dankzij-audities-vanuit-huis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262174,
-    "slug": "supermarkten-zeggen-prijzen-te-verlagen-maar-dat-is-consumentenbedrog",
-    "type": "article",
-    "title": "Supermarkten zeggen prijzen te verlagen, maar dat is consumentenbedrog",
-    "subtitle": null,
-    "published_at": "2023-05-08T05:06:27+02:00",
-    "updated_at": "2023-05-08T05:06:40+02:00",
-    "media_id": "7btxhhnacbza",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6262174/supermarkten-zeggen-prijzen-te-verlagen-maar-dat-is-consumentenbedrog.html",
     "open_new_window": false,
     "partner": null
   }
