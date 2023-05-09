@@ -1,5 +1,28 @@
 [
   {
+    "id": 6262837,
+    "slug": "britten-zouden-in-strijd-tegen-wangedrag-minder-moeten-drinken-op-bedrijfsborrels",
+    "type": "article",
+    "title": "Britten zouden in strijd tegen wangedrag minder moeten drinken op bedrijfsborrels",
+    "subtitle": null,
+    "published_at": "2023-05-09T10:26:57+02:00",
+    "updated_at": "2023-05-09T10:26:58+02:00",
+    "media_id": "365x970ayeam",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6262837/britten-zouden-in-strijd-tegen-wangedrag-minder-moeten-drinken-op-bedrijfsborrels.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262828,
     "slug": "thirty-seconds-to-mars-brengt-na-vijf-jaar-weer-nieuwe-muziek-uit",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Weghorst houdt ondanks speculaties hoop op langer verblijf bij Manchester United",
     "subtitle": null,
     "published_at": "2023-05-09T09:37:55+02:00",
-    "updated_at": "2023-05-09T10:01:32+02:00",
+    "updated_at": "2023-05-09T10:26:43+02:00",
     "media_id": "bh5xvdeaxa1z",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/songfestival/6262800/nieuw-stemsysteem-songfestival-kost-nederland-mogelijk-de-finale.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262734,
-    "slug": "influencer-negin-mirsalehi-enige-nieuwe-vrouw-in-top-100-jonge-megarijken",
-    "type": "article",
-    "title": "Influencer Negin Mirsalehi enige nieuwe vrouw in top 100 jonge megarijken",
-    "subtitle": null,
-    "published_at": "2023-05-09T06:03:12+02:00",
-    "updated_at": "2023-05-09T10:11:11+02:00",
-    "media_id": "klexg4wageeu",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6262734/influencer-negin-mirsalehi-enige-nieuwe-vrouw-in-top-100-jonge-megarijken.html",
     "open_new_window": false,
     "partner": null
   }
