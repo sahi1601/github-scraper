@@ -1,5 +1,28 @@
 [
   {
+    "id": 6262808,
+    "slug": "advocaat-hekelt-beleidsbepalers-ado-spelers-willen-weten-waar-ze-aan-toe-zijn",
+    "type": "article",
+    "title": "Advocaat hekelt beleidsbepalers ADO: 'Spelers willen weten waar ze aan toe zijn'",
+    "subtitle": null,
+    "published_at": "2023-05-09T07:16:08+02:00",
+    "updated_at": "2023-05-09T07:20:08+02:00",
+    "media_id": "hg2x62ja6rwb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6262808/advocaat-hekelt-beleidsbepalers-ado-spelers-willen-weten-waar-ze-aan-toe-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262759,
     "slug": "lezersreacties-op-consumentenbedrog-supermarkten-slager-is-tegenwoordig-goedkoper",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6262734,
-    "slug": "negin-mirsalehi-en-roemie-hillenaar-mogen-zich-nu-rekenen-tot-megarijken",
+    "slug": "negin-mirsalehi-en-roemie-hillenaar-mogen-zich-nu-tot-megarijken-rekenen",
     "type": "article",
-    "title": "Negin Mirsalehi en Roemie Hillenaar mogen zich nu rekenen tot megarijken",
+    "title": "Negin Mirsalehi en Roemie Hillenaar mogen zich nu tot megarijken rekenen",
     "subtitle": null,
     "published_at": "2023-05-09T06:03:12+02:00",
-    "updated_at": "2023-05-09T06:03:14+02:00",
+    "updated_at": "2023-05-09T07:25:21+02:00",
     "media_id": "klexg4wageeu",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6262734/negin-mirsalehi-en-roemie-hillenaar-mogen-zich-nu-rekenen-tot-megarijken.html",
+    "url": "/economie/6262734/negin-mirsalehi-en-roemie-hillenaar-mogen-zich-nu-tot-megarijken-rekenen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Rijksrecherche waarschuwt: 'Ambtenaren omkopen is verdienmodel geworden'",
     "subtitle": null,
     "published_at": "2023-05-09T05:41:37+02:00",
-    "updated_at": "2023-05-09T05:41:38+02:00",
+    "updated_at": "2023-05-09T07:17:45+02:00",
     "media_id": "ucaxihhay88p",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6262792/pec-lijdt-dure-nederlaag-in-bloedstollende-titelstrijd-ado-nog-een-jaar-in-kkd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262793,
-    "slug": "restaurantmedewerker-leidt-mensen-naar-uitgang-tijdens-schietpartij-in-vs",
-    "type": "video",
-    "title": "Restaurantmedewerker leidt mensen naar uitgang tijdens schietpartij in VS",
-    "subtitle": "Video",
-    "published_at": "2023-05-08T21:52:04+02:00",
-    "updated_at": "2023-05-08T21:52:05+02:00",
-    "media_id": "u5kx5cjav4bo",
-    "duration": "0:37",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6262793/restaurantmedewerker-leidt-mensen-naar-uitgang-tijdens-schietpartij-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
