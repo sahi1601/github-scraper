@@ -1,5 +1,28 @@
 [
   {
+    "id": 6262962,
+    "slug": "roy-donders-heeft-zijn-plek-gevonden-dat-wil-ik-graag-met-het-publiek-delen",
+    "type": "article",
+    "title": "Roy Donders heeft zijn plek gevonden: 'Dat wil ik graag met het publiek delen'",
+    "subtitle": null,
+    "published_at": "2023-05-10T07:16:19+02:00",
+    "updated_at": "2023-05-10T07:16:21+02:00",
+    "media_id": "pwsxowaa3md7",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6262962/roy-donders-heeft-zijn-plek-gevonden-dat-wil-ik-graag-met-het-publiek-delen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6262961,
     "slug": "de-dijk-zanger-huub-van-der-lubbe-voor-het-eerst-te-zien-in-musical",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Stelling: Bindend studieadvies moet worden afgeschaft voor mentale gezondheid studenten",
     "subtitle": null,
     "published_at": "2023-05-10T06:55:56+02:00",
-    "updated_at": "2023-05-10T06:55:59+02:00",
+    "updated_at": "2023-05-10T07:19:00+02:00",
     "media_id": "nuixq0hakapd",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Weerbericht: Heel veel regen (en klap onweer) spoelt Songfestival-kater weg",
     "subtitle": null,
     "published_at": "2023-05-10T05:32:50+02:00",
-    "updated_at": "2023-05-10T05:32:52+02:00",
+    "updated_at": "2023-05-10T07:17:01+02:00",
     "media_id": "0h9xivca6beb",
     "duration": null,
     "canonical_section": {
@@ -300,12 +323,12 @@
   },
   {
     "id": 6262953,
-    "slug": "mia-en-dion-na-songfestival-uitval-waar-zal-ik-op-vakantie-gaan",
+    "slug": "mia-en-dion-na-einde-songfestival-avontuur-waar-zal-ik-op-vakantie-gaan",
     "type": "article",
-    "title": "Mia en Dion na Songfestival-uitval: 'Waar zal ik op vakantie gaan?'",
+    "title": "Mia en Dion na einde Songfestival-avontuur: 'Waar zal ik op vakantie gaan?'",
     "subtitle": null,
     "published_at": "2023-05-10T01:05:44+02:00",
-    "updated_at": "2023-05-10T01:10:48+02:00",
+    "updated_at": "2023-05-10T07:23:54+02:00",
     "media_id": "dvuxetca2n5h",
     "duration": null,
     "canonical_section": {
@@ -317,7 +340,7 @@
       "media_id": "4a9xjerag1rk",
       "partner": null
     },
-    "url": "/songfestival/6262953/mia-en-dion-na-songfestival-uitval-waar-zal-ik-op-vakantie-gaan.html",
+    "url": "/songfestival/6262953/mia-en-dion-na-einde-songfestival-avontuur-waar-zal-ik-op-vakantie-gaan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/songfestival/6262946/nederland-voor-het-eerst-sinds-2015-niet-naar-finale-eurovisie-songfestival.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6262942,
-    "slug": "ridouan-taghi-sprak-versluierd-en-in-codetaal-met-naasten-vanuit-gevangenis",
-    "type": "article",
-    "title": "Ridouan Taghi sprak 'versluierd' en in 'codetaal' met naasten vanuit gevangenis",
-    "subtitle": null,
-    "published_at": "2023-05-09T22:56:29+02:00",
-    "updated_at": "2023-05-10T07:10:37+02:00",
-    "media_id": "7owx4peao985",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778794,
-      "slug": "marengo-proces",
-      "type": "default",
-      "name": "Marengo-proces",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/marengo-proces/6262942/ridouan-taghi-sprak-versluierd-en-in-codetaal-met-naasten-vanuit-gevangenis.html",
     "open_new_window": false,
     "partner": null
   }
