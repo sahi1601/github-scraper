@@ -1,5 +1,28 @@
 [
   {
+    "id": 6263375,
+    "slug": "belgisch-talent-van-eetvelt-mag-weer-koersen-na-schorsing-voor-neusspraygebruik",
+    "type": "article",
+    "title": "Belgisch talent Van Eetvelt mag weer koersen na schorsing voor neusspraygebruik",
+    "subtitle": null,
+    "published_at": "2023-05-12T14:28:16+02:00",
+    "updated_at": "2023-05-12T14:29:50+02:00",
+    "media_id": "czxxn8faphtf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6263375/belgisch-talent-van-eetvelt-mag-weer-koersen-na-schorsing-voor-neusspraygebruik.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263369,
     "slug": "psg-heft-schorsing-messi-op-sterspeler-maakt-zaterdag-al-rentree",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Vollering neemt revanche met schitterende dubbelslag in eerste rit Baskenland",
     "subtitle": null,
     "published_at": "2023-05-12T13:57:26+02:00",
-    "updated_at": "2023-05-12T14:00:16+02:00",
+    "updated_at": "2023-05-12T14:40:06+02:00",
     "media_id": "n3rxhwfaexah",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Steenhuis naar halve finales WK judo, verrassende exit Europees kampioen Korrel",
     "subtitle": null,
     "published_at": "2023-05-12T12:41:35+02:00",
-    "updated_at": "2023-05-12T14:26:35+02:00",
+    "updated_at": "2023-05-12T14:30:03+02:00",
     "media_id": "bovxr31ax7ew",
     "duration": null,
     "canonical_section": {
@@ -300,12 +323,12 @@
   },
   {
     "id": 6263334,
-    "slug": "groep-met-evenepoel-en-roglic-bezig-aan-eerste-klim-in-bergrit",
+    "slug": "groep-met-evenepoel-en-roglic-nadert-finale-zware-bergetappe",
     "type": "article",
-    "title": "Groep met Evenepoel en Roglic bezig aan eerste klim in bergrit",
+    "title": "Groep met Evenepoel en Roglic nadert finale zware bergetappe",
     "subtitle": "Liveblog Giro",
     "published_at": "2023-05-12T12:05:31+02:00",
-    "updated_at": "2023-05-12T13:30:01+02:00",
+    "updated_at": "2023-05-12T14:32:03+02:00",
     "media_id": "xuvxfzuan6g1",
     "duration": null,
     "canonical_section": {
@@ -317,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6263334/groep-met-evenepoel-en-roglic-bezig-aan-eerste-klim-in-bergrit.html",
+    "url": "/wielrennen/6263334/groep-met-evenepoel-en-roglic-nadert-finale-zware-bergetappe.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6263318/beukema-zong-mee-met-clublied-west-ham-dit-is-mijn-favoriete-engelse-club.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263320,
-    "slug": "russen-vluchten-voor-oekraiens-leger-bij-bakhmut",
-    "type": "video",
-    "title": "Russen vluchten voor Oekraïens leger bij Bakhmut",
-    "subtitle": "Video",
-    "published_at": "2023-05-12T11:19:42+02:00",
-    "updated_at": "2023-05-12T11:19:44+02:00",
-    "media_id": "gtvxaz3a7gjm",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6263320/russen-vluchten-voor-oekraiens-leger-bij-bakhmut.html",
     "open_new_window": false,
     "partner": null
   }
