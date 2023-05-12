@@ -1,5 +1,51 @@
 [
   {
+    "id": 6263424,
+    "slug": "mediavrouw-linda-yaccarino-gaat-elon-musk-opvolgen-als-baas-van-twitter",
+    "type": "article",
+    "title": "Mediavrouw Linda Yaccarino gaat Elon Musk opvolgen als baas van Twitter",
+    "subtitle": null,
+    "published_at": "2023-05-12T18:26:02+02:00",
+    "updated_at": "2023-05-12T18:26:05+02:00",
+    "media_id": "40xx7fxa8rk5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6263424/mediavrouw-linda-yaccarino-gaat-elon-musk-opvolgen-als-baas-van-twitter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6263422,
+    "slug": "explosieven-verwoesten-huizen-in-gazastrook",
+    "type": "video",
+    "title": "Explosieven verwoesten huizen in Gazastrook",
+    "subtitle": "Video",
+    "published_at": "2023-05-12T18:16:40+02:00",
+    "updated_at": "2023-05-12T18:18:36+02:00",
+    "media_id": "jbsx55waxeqx",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6263422/explosieven-verwoesten-huizen-in-gazastrook.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263420,
     "slug": "witsel-34-stopt-na-130-interlands-als-international-van-belgie",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Italiaanse vluchter wint bergetappe Giro, Evenepoel en Roglic houden kruit droog",
     "subtitle": null,
     "published_at": "2023-05-12T17:48:16+02:00",
-    "updated_at": "2023-05-12T18:15:39+02:00",
+    "updated_at": "2023-05-12T18:18:19+02:00",
     "media_id": "7elxstqau274",
     "duration": null,
     "canonical_section": {
@@ -328,7 +374,7 @@
     "title": "Heitinga: 'Zolang ik niks hoor, ben ik de hoofdtrainer van Ajax'",
     "subtitle": null,
     "published_at": "2023-05-12T15:53:31+02:00",
-    "updated_at": "2023-05-12T17:45:24+02:00",
+    "updated_at": "2023-05-12T18:29:32+02:00",
     "media_id": "6gkxukoavka8",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/nu-formule-1/6263378/geruchten-over-de-vries-zeggen-alles-over-de-waan-van-de-dag-in-f1.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263321,
-    "slug": "vier-op-de-tien-woningcorporaties-leggen-rijkere-huurders-extra-huurverhoging-op",
-    "type": "article",
-    "title": "Vier op de tien woningcorporaties leggen rijkere huurders extra huurverhoging op",
-    "subtitle": null,
-    "published_at": "2023-05-12T15:24:12+02:00",
-    "updated_at": "2023-05-12T15:24:14+02:00",
-    "media_id": "fkyx7i1aa7cf",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6263321/vier-op-de-tien-woningcorporaties-leggen-rijkere-huurders-extra-huurverhoging-op.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263388,
-    "slug": "storing-bij-ing-is-voorbij-betalen-via-de-app-is-weer-mogelijk",
-    "type": "article",
-    "title": "Storing bij ING is voorbij: betalen via de app is weer mogelijk",
-    "subtitle": null,
-    "published_at": "2023-05-12T15:07:21+02:00",
-    "updated_at": "2023-05-12T15:27:23+02:00",
-    "media_id": "ph4xlnbac2p6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6263388/storing-bij-ing-is-voorbij-betalen-via-de-app-is-weer-mogelijk.html",
     "open_new_window": false,
     "partner": null
   }
