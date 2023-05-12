@@ -1,12 +1,35 @@
 [
   {
+    "id": 6263332,
+    "slug": "engelse-pers-verkiest-haaland-met-gigantische-voorsprong-tot-speler-van-het-jaar",
+    "type": "article",
+    "title": "Engelse pers verkiest Haaland met gigantische voorsprong tot speler van het jaar",
+    "subtitle": null,
+    "published_at": "2023-05-12T12:14:16+02:00",
+    "updated_at": "2023-05-12T12:14:18+02:00",
+    "media_id": "jobxm4ka8l26",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6263332/engelse-pers-verkiest-haaland-met-gigantische-voorsprong-tot-speler-van-het-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263312,
     "slug": "ridouan-taghi-wil-eigen-verdediging-voeren-in-marengo-proces-na-arrestatie-weski",
     "type": "article",
     "title": "Ridouan Taghi wil eigen verdediging voeren in Marengo-proces na arrestatie Weski",
     "subtitle": null,
     "published_at": "2023-05-12T12:11:40+02:00",
-    "updated_at": "2023-05-12T12:11:47+02:00",
+    "updated_at": "2023-05-12T12:24:07+02:00",
     "media_id": "58xxpliay60u",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Trein stopt voor gewonde parkiet die op voorruit zit",
     "subtitle": null,
     "published_at": "2023-05-12T11:15:44+02:00",
-    "updated_at": "2023-05-12T11:15:46+02:00",
+    "updated_at": "2023-05-12T12:17:33+02:00",
     "media_id": "pk1x3giam1qt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6263297/chaos-en-wanhoop-bij-zuidgrens-vs-na-aflopen-immigratieregel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263295,
-    "slug": "philips-treft-schikking-in-vs-vanwege-omkoping-in-china",
-    "type": "article",
-    "title": "Philips treft schikking in VS vanwege omkoping in China",
-    "subtitle": null,
-    "published_at": "2023-05-12T08:29:17+02:00",
-    "updated_at": "2023-05-12T08:48:31+02:00",
-    "media_id": "zifxm49ahhq0",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6263295/philips-treft-schikking-in-vs-vanwege-omkoping-in-china.html",
     "open_new_window": false,
     "partner": null
   }
