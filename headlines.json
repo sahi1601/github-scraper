@@ -1,13 +1,36 @@
 [
   {
+    "id": 6263552,
+    "slug": "zo-won-zweden-het-eurovisie-songfestival",
+    "type": "video",
+    "title": "Zo won Zweden het Eurovisie Songfestival",
+    "subtitle": "Video",
+    "published_at": "2023-05-14T01:26:06+02:00",
+    "updated_at": "2023-05-14T01:26:08+02:00",
+    "media_id": "46pxi99abn1y",
+    "duration": "0:55",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6263552/zo-won-zweden-het-eurovisie-songfestival.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263549,
     "slug": "loreen-wint-voor-zweden-eurovisie-songfestival-van-2023",
     "type": "article",
     "title": "Loreen wint voor Zweden Eurovisie Songfestival van 2023",
     "subtitle": null,
     "published_at": "2023-05-14T01:01:40+02:00",
-    "updated_at": "2023-05-14T01:22:44+02:00",
-    "media_id": "167xainaqqfg",
+    "updated_at": "2023-05-14T01:37:09+02:00",
+    "media_id": "dgoxfmjajf79",
     "duration": null,
     "canonical_section": {
       "id": 1772282,
@@ -328,7 +351,7 @@
     "title": "Zweden wint Eurovisie Songfestival 2023, Finland wordt tweede",
     "subtitle": "Liveblog",
     "published_at": "2023-05-13T19:52:58+02:00",
-    "updated_at": "2023-05-14T01:09:57+02:00",
+    "updated_at": "2023-05-14T01:37:29+02:00",
     "media_id": "89xxg1ba707z",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6263533/door-oranje-bekritiseerde-lahoz-krijgt-in-spanje-erehaag-om-naderend-afscheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263532,
-    "slug": "evenepoel-baalt-van-dom-foutje-bij-aanval-roglic-maar-geen-reden-tot-paniek",
-    "type": "article",
-    "title": "Evenepoel baalt van 'dom' foutje bij aanval Roglic: 'Maar geen reden tot paniek'",
-    "subtitle": null,
-    "published_at": "2023-05-13T19:02:25+02:00",
-    "updated_at": "2023-05-13T19:04:21+02:00",
-    "media_id": "jwexdbfapp87",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6263532/evenepoel-baalt-van-dom-foutje-bij-aanval-roglic-maar-geen-reden-tot-paniek.html",
     "open_new_window": false,
     "partner": null
   }
