@@ -1,5 +1,28 @@
 [
   {
+    "id": 6263558,
+    "slug": "weerbericht-moederdag-verloopt-zonnig-warm-en-vrijwel-overal-droog",
+    "type": "article",
+    "title": "Weerbericht: Moederdag verloopt zonnig, warm en vrijwel overal droog",
+    "subtitle": null,
+    "published_at": "2023-05-14T05:45:03+02:00",
+    "updated_at": "2023-05-14T06:14:23+02:00",
+    "media_id": "h5wxgxuaeub1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6263558/weerbericht-moederdag-verloopt-zonnig-warm-en-vrijwel-overal-droog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263557,
     "slug": "woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -93,12 +116,12 @@
   },
   {
     "id": 6259964,
-    "slug": "kampioenen-van-toen-over-het-feyenoord-van-nu-ze-zijn-psv-en-ajax-ver-voorbij",
+    "slug": "kampioenen-van-toen-over-feyenoord-van-nu-ze-zijn-psv-en-ajax-ver-voorbij",
     "type": "article",
-    "title": "Kampioenen van toen over het Feyenoord van nu: 'Ze zijn PSV en Ajax ver voorbij'",
+    "title": "Kampioenen van toen over Feyenoord van nu: 'Ze zijn PSV en Ajax ver voorbij'",
     "subtitle": null,
     "published_at": "2023-05-14T05:00:25+02:00",
-    "updated_at": "2023-05-14T05:00:27+02:00",
+    "updated_at": "2023-05-14T06:02:41+02:00",
     "media_id": "80rxhrvacuak",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6259964/kampioenen-van-toen-over-het-feyenoord-van-nu-ze-zijn-psv-en-ajax-ver-voorbij.html",
+    "url": "/voetbal/6259964/kampioenen-van-toen-over-feyenoord-van-nu-ze-zijn-psv-en-ajax-ver-voorbij.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6263541/islamitische-jihad-bevestigt-wapenstilstand-tussen-israel-en-palestijnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263542,
-    "slug": "oranje-international-brugts-verlaat-psv-en-kiest-voor-nieuwe-stap-in-loopbaan",
-    "type": "article",
-    "title": "Oranje-international Brugts verlaat PSV en kiest voor 'nieuwe stap' in loopbaan",
-    "subtitle": null,
-    "published_at": "2023-05-13T20:27:48+02:00",
-    "updated_at": "2023-05-13T20:37:39+02:00",
-    "media_id": "al5x3d9a1yvc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6263542/oranje-international-brugts-verlaat-psv-en-kiest-voor-nieuwe-stap-in-loopbaan.html",
     "open_new_window": false,
     "partner": null
   }
