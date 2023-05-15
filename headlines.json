@@ -1,12 +1,35 @@
 [
   {
+    "id": 6263610,
+    "slug": "op-bedevaart-naar-kampioen-feyenoord-zo-vaak-winnen-past-niet-bij-ons",
+    "type": "article",
+    "title": "Op bedevaart naar kampioen Feyenoord: 'Zo vaak winnen past niet bij ons'",
+    "subtitle": "NU+",
+    "published_at": "2023-05-15T05:13:28+02:00",
+    "updated_at": "2023-05-15T05:13:30+02:00",
+    "media_id": "ndwxbs0ao6ab",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773987,
+      "slug": "titel-feyenoord",
+      "type": "files",
+      "name": "Titel Feyenoord",
+      "style": "nusport",
+      "media_id": "ddoxexra9n3s",
+      "partner": null
+    },
+    "url": "/titel-feyenoord/6263610/op-bedevaart-naar-kampioen-feyenoord-zo-vaak-winnen-past-niet-bij-ons.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263365,
     "slug": "gemeenten-blijven-worstelen-met-energietoeslag-voor-studenten-hoe-zit-dat",
     "type": "article",
     "title": "Gemeenten blijven worstelen met energietoeslag voor studenten: hoe zit dat?",
     "subtitle": null,
     "published_at": "2023-05-15T05:03:08+02:00",
-    "updated_at": "2023-05-15T05:03:09+02:00",
+    "updated_at": "2023-05-15T05:24:49+02:00",
     "media_id": "h2kx5t6aoyhx",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Kökçü overwon problemen met hulp van Slot: 'Hij is meer dan een trainer'",
     "subtitle": null,
     "published_at": "2023-05-14T23:06:05+02:00",
-    "updated_at": "2023-05-15T00:41:18+02:00",
+    "updated_at": "2023-05-15T05:14:05+02:00",
     "media_id": "vs2x8s2asjay",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6263638/fc-groningen-ajax-wordt-dinsdagmiddag-voor-lege-tribunes-uitgespeeld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263627,
-    "slug": "lezers-over-gestaakt-groningen-ajax-dit-beleid-blijven-volhouden",
-    "type": "article",
-    "title": "Lezers over gestaakt Groningen-Ajax: 'Dit beleid blijven volhouden'",
-    "subtitle": null,
-    "published_at": "2023-05-14T20:03:18+02:00",
-    "updated_at": "2023-05-14T20:10:17+02:00",
-    "media_id": "v2txx26a5lcn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6263627/lezers-over-gestaakt-groningen-ajax-dit-beleid-blijven-volhouden.html",
     "open_new_window": false,
     "partner": null
   }
