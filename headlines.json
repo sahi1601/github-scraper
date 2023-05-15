@@ -1,5 +1,28 @@
 [
   {
+    "id": 6263808,
+    "slug": "kroatie-zet-leger-in-na-hevige-overstromingen",
+    "type": "video",
+    "title": "Kroatië zet leger in na hevige overstromingen",
+    "subtitle": "Video",
+    "published_at": "2023-05-15T20:20:51+02:00",
+    "updated_at": "2023-05-15T20:21:45+02:00",
+    "media_id": "raixxxva5psq",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6263808/kroatie-zet-leger-in-na-hevige-overstromingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263800,
     "slug": "roglic-let-op-ineos-na-exit-evenepoel-in-giro-gelukkig-is-er-geen-ploegentijdrit",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6263767/feyenoord-fans-steken-draak-met-koning-spandoek-bij-paleis-soestdijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263761,
-    "slug": "alcaraz-lijdt-tegen-qualifier-eerste-nederlaag-in-gravelseizoen-en-is-klaar-in-rome",
-    "type": "article",
-    "title": "Alcaraz lijdt tegen qualifier eerste nederlaag in gravelseizoen en is klaar in Rome",
-    "subtitle": null,
-    "published_at": "2023-05-15T16:13:04+02:00",
-    "updated_at": "2023-05-15T16:13:05+02:00",
-    "media_id": "aq7xed0aiscy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6263761/alcaraz-lijdt-tegen-qualifier-eerste-nederlaag-in-gravelseizoen-en-is-klaar-in-rome.html",
     "open_new_window": false,
     "partner": null
   }
