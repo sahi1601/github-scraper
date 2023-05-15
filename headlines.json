@@ -1,5 +1,28 @@
 [
   {
+    "id": 6263812,
+    "slug": "noorse-koning-harald-is-uit-het-ziekenhuis-ontslagen",
+    "type": "article",
+    "title": "Noorse koning Harald is uit het ziekenhuis ontslagen",
+    "subtitle": null,
+    "published_at": "2023-05-15T20:50:25+02:00",
+    "updated_at": "2023-05-15T20:57:54+02:00",
+    "media_id": "edax7p5a7yfi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6263812/noorse-koning-harald-is-uit-het-ziekenhuis-ontslagen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263810,
     "slug": "judoka-van-dijke-krijgt-speciale-prijs-voor-wegdragen-geblesseerde-opponent",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6263757/brussel-beslist-over-de-grootste-overname-ooit-in-de-game-industrie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263762,
-    "slug": "s-club-7-verder-als-s-club-na-overlijden-van-zanger-paul-cattermole",
-    "type": "article",
-    "title": "S Club 7 verder als S Club na overlijden van zanger Paul Cattermole",
-    "subtitle": null,
-    "published_at": "2023-05-15T16:22:11+02:00",
-    "updated_at": "2023-05-15T16:40:30+02:00",
-    "media_id": "63rx6f6axw1j",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6263762/s-club-7-verder-als-s-club-na-overlijden-van-zanger-paul-cattermole.html",
     "open_new_window": false,
     "partner": null
   }
