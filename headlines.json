@@ -1,5 +1,28 @@
 [
   {
+    "id": 6263977,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-05-17T05:16:19+02:00",
+    "updated_at": "2023-05-17T05:16:20+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6263977/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6263911,
     "slug": "dolend-ferrari-en-mercedes-hopen-op-updates-in-jacht-op-red-bull",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/gezondheid/6256525/waarom-je-ook-moet-smeren-als-het-kouder-is-lentezon-wint-aan-kracht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6263955,
-    "slug": "boze-djokovic-beticht-norrie-van-onsportief-gedrag-na-smash-op-lichaam",
-    "type": "article",
-    "title": "Boze Djokovic beticht Norrie van onsportief gedrag na smash op lichaam",
-    "subtitle": null,
-    "published_at": "2023-05-16T20:03:38+02:00",
-    "updated_at": "2023-05-16T21:16:51+02:00",
-    "media_id": "xwpx32aarsyg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6263955/boze-djokovic-beticht-norrie-van-onsportief-gedrag-na-smash-op-lichaam.html",
     "open_new_window": false,
     "partner": null
   }
