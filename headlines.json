@@ -1,12 +1,35 @@
 [
   {
+    "id": 6264282,
+    "slug": "mensen-zoenen-waarschijnlijk-al-zeker-duizend-jaar-langer-dan-gedacht",
+    "type": "article",
+    "title": "Mensen zoenen waarschijnlijk al zeker duizend jaar langer dan gedacht",
+    "subtitle": null,
+    "published_at": "2023-05-19T08:33:08+02:00",
+    "updated_at": "2023-05-19T08:36:46+02:00",
+    "media_id": "bbkx0ouaucgr",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6264282/mensen-zoenen-waarschijnlijk-al-zeker-duizend-jaar-langer-dan-gedacht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264281,
     "slug": "van-gerwen-gaat-ondanks-blessure-naar-play-offs-al-moet-ik-op-krukken-komen",
     "type": "article",
     "title": "Van Gerwen gaat ondanks blessure naar play-offs: 'Al moet ik op krukken komen'",
     "subtitle": null,
     "published_at": "2023-05-19T08:19:44+02:00",
-    "updated_at": "2023-05-19T08:19:46+02:00",
+    "updated_at": "2023-05-19T08:27:38+02:00",
     "media_id": "e3rxsb9aewif",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6264266/az-directeur-eenhoorn-stond-tussen-rellende-fans-maar-veel-kon-ik-niet-doen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264265,
-    "slug": "verwarring-over-lot-vermiste-kinderen-na-vliegtuigcrash-in-colombia",
-    "type": "article",
-    "title": "Verwarring over lot vermiste kinderen na vliegtuigcrash in Colombia",
-    "subtitle": null,
-    "published_at": "2023-05-18T23:57:13+02:00",
-    "updated_at": "2023-05-19T06:49:10+02:00",
-    "media_id": "gl8x89iaqalh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6264265/verwarring-over-lot-vermiste-kinderen-na-vliegtuigcrash-in-colombia.html",
     "open_new_window": false,
     "partner": null
   }
