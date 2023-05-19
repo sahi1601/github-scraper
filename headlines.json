@@ -1,5 +1,28 @@
 [
   {
+    "id": 6264356,
+    "slug": "nieuwe-musicalversie-van-shrek-volgend-jaar-op-nederlandse-planken",
+    "type": "article",
+    "title": "Nieuwe musicalversie van Shrek volgend jaar op Nederlandse planken",
+    "subtitle": null,
+    "published_at": "2023-05-19T14:28:45+02:00",
+    "updated_at": "2023-05-19T14:28:46+02:00",
+    "media_id": "7t0x0caa6hj4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6264356/nieuwe-musicalversie-van-shrek-volgend-jaar-op-nederlandse-planken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264354,
     "slug": "evenepoel-houdt-na-giro-opgave-vast-aan-plannen-geen-tour-en-vuelta",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Broer André Hazes haalt met lied uit naar Rachel: 'Hij werd leeggetrokken'",
     "subtitle": null,
     "published_at": "2023-05-19T13:47:53+02:00",
-    "updated_at": "2023-05-19T13:55:08+02:00",
+    "updated_at": "2023-05-19T14:43:13+02:00",
     "media_id": "cbjxcmia4vb2",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "ECB haalt alles uit de kast om inflatie eurozone terug te brengen tot 2 procent",
     "subtitle": null,
     "published_at": "2023-05-19T13:18:09+02:00",
-    "updated_at": "2023-05-19T13:18:10+02:00",
+    "updated_at": "2023-05-19T14:43:00+02:00",
     "media_id": "3urxkwpalx5w",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Bergrit in Giro d'Italia verder ingekort vanwege slechte weersomstandigheden",
     "subtitle": null,
     "published_at": "2023-05-19T10:58:19+02:00",
-    "updated_at": "2023-05-19T14:26:39+02:00",
+    "updated_at": "2023-05-19T14:36:44+02:00",
     "media_id": "qrfxotdavsu2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/opmerkelijk/6264314/jongen-en-meisje-krijgen-boete-voor-fotograferen-zonsopgang-op-schooldak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264312,
-    "slug": "aardverschuiving-verwoest-bergweg-in-noord-italie",
-    "type": "video",
-    "title": "Aardverschuiving verwoest bergweg in Noord-Italië",
-    "subtitle": "Video",
-    "published_at": "2023-05-19T10:11:06+02:00",
-    "updated_at": "2023-05-19T10:16:36+02:00",
-    "media_id": "3swxhi4a3q6c",
-    "duration": "0:37",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6264312/aardverschuiving-verwoest-bergweg-in-noord-italie.html",
     "open_new_window": false,
     "partner": null
   }
