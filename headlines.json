@@ -1,12 +1,35 @@
 [
   {
+    "id": 6264473,
+    "slug": "lezers-over-stelen-bij-zelfscankassas-dit-staat-vooruitgang-in-de-weg",
+    "type": "article",
+    "title": "Lezers over stelen bij zelfscankassa's: 'Dit staat vooruitgang in de weg'",
+    "subtitle": null,
+    "published_at": "2023-05-20T18:30:53+02:00",
+    "updated_at": "2023-05-20T18:30:56+02:00",
+    "media_id": "71axhi9a7cz6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6264473/lezers-over-stelen-bij-zelfscankassas-dit-staat-vooruitgang-in-de-weg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264484,
     "slug": "gevechtsvliegtuig-stort-neer-op-luchtbasis-zaragoza",
     "type": "video",
     "title": "Gevechtsvliegtuig stort neer op luchtbasis Zaragoza",
     "subtitle": "Video",
     "published_at": "2023-05-20T18:22:45+02:00",
-    "updated_at": "2023-05-20T18:22:45+02:00",
+    "updated_at": "2023-05-20T18:32:43+02:00",
     "media_id": "l84xi25anpin",
     "duration": "0:51",
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Hertha BSC en Boëtius degraderen uit Bundesliga door tegengoal in extra tijd",
     "subtitle": null,
     "published_at": "2023-05-20T17:35:23+02:00",
-    "updated_at": "2023-05-20T18:06:59+02:00",
+    "updated_at": "2023-05-20T18:33:47+02:00",
     "media_id": "40zx22baxjho",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Meisje (5) overleden door ongeluk met kampioenswagen voetbalteam Yerseke",
     "subtitle": null,
     "published_at": "2023-05-20T16:18:10+02:00",
-    "updated_at": "2023-05-20T18:23:15+02:00",
+    "updated_at": "2023-05-20T18:32:28+02:00",
     "media_id": "723xon5a16s1",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Ineens twintigduizend mensen in je weiland: grote illegale rave in Frans dorp",
     "subtitle": null,
     "published_at": "2023-05-20T12:34:41+02:00",
-    "updated_at": "2023-05-20T14:45:54+02:00",
+    "updated_at": "2023-05-20T18:33:06+02:00",
     "media_id": "x59xi1caoh7r",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6264460/locadia-zes-jaar-na-oproep-voor-oranje-voor-het-eerst-in-selectie-curacao.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264458,
-    "slug": "zelensky-aangekomen-voor-g7-top-in-hiroshima",
-    "type": "video",
-    "title": "Zelensky aangekomen voor G7-top in Hiroshima",
-    "subtitle": "Video",
-    "published_at": "2023-05-20T11:58:33+02:00",
-    "updated_at": "2023-05-20T11:58:35+02:00",
-    "media_id": "p1dxifra67wf",
-    "duration": "0:57",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6264458/zelensky-aangekomen-voor-g7-top-in-hiroshima.html",
     "open_new_window": false,
     "partner": null
   }
