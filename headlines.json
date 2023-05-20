@@ -1,12 +1,35 @@
 [
   {
+    "id": 6264425,
+    "slug": "waarom-het-droge-italie-vrijwel-niks-aan-deze-heftige-regenbuien-heeft",
+    "type": "video",
+    "title": "Waarom het droge Italië vrijwel niks aan deze heftige regenbuien heeft",
+    "subtitle": "Explainer",
+    "published_at": "2023-05-20T05:45:37+02:00",
+    "updated_at": "2023-05-20T05:45:38+02:00",
+    "media_id": "zi9xb3gaxh0m",
+    "duration": "2:14",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6264425/waarom-het-droge-italie-vrijwel-niks-aan-deze-heftige-regenbuien-heeft.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264431,
     "slug": "weerbericht-zonnige-dag-maar-door-de-wind-kan-het-fris-aanvoelen",
     "type": "article",
     "title": "Weerbericht: Zonnige dag, maar door de wind kan het fris aanvoelen",
     "subtitle": null,
     "published_at": "2023-05-20T05:43:01+02:00",
-    "updated_at": "2023-05-20T05:43:02+02:00",
+    "updated_at": "2023-05-20T05:54:01+02:00",
     "media_id": "ivsxvsoarxsr",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Achter de oorlog: 'Alle beetjes vooruitgang kosten mensenlevens'",
     "subtitle": "NU+",
     "published_at": "2023-05-20T05:07:06+02:00",
-    "updated_at": "2023-05-20T05:07:07+02:00",
+    "updated_at": "2023-05-20T06:05:30+02:00",
     "media_id": "h7jx0qyaagbo",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6264416/siem-de-jong-beleeft-droomafscheid-met-twee-goals-advocaat-zwaait-af-met-zege.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264413,
-    "slug": "heracles-kroont-zich-tot-kampioen-van-eerste-divisie-na-spannende-strijd-met-pec",
-    "type": "article",
-    "title": "Heracles kroont zich tot kampioen van Eerste Divisie na spannende strijd met PEC",
-    "subtitle": null,
-    "published_at": "2023-05-19T22:06:45+02:00",
-    "updated_at": "2023-05-19T23:01:43+02:00",
-    "media_id": "0poxjyoav8xk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6264413/heracles-kroont-zich-tot-kampioen-van-eerste-divisie-na-spannende-strijd-met-pec.html",
     "open_new_window": false,
     "partner": null
   }
