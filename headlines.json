@@ -1,12 +1,35 @@
 [
   {
+    "id": 6264470,
+    "slug": "van-gerwen-kent-met-snelle-exit-slechte-aanloop-naar-premier-league-ontknoping",
+    "type": "article",
+    "title": "Van Gerwen kent met snelle exit slechte aanloop naar Premier League-ontknoping",
+    "subtitle": null,
+    "published_at": "2023-05-20T15:13:49+02:00",
+    "updated_at": "2023-05-20T15:17:32+02:00",
+    "media_id": "k7oxwcwaah8t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6264470/van-gerwen-kent-met-snelle-exit-slechte-aanloop-naar-premier-league-ontknoping.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264469,
     "slug": "ancelotti-mag-na-gesprek-met-clubleiding-trainer-real-madrid-blijven",
     "type": "article",
     "title": "Ancelotti mag na gesprek met clubleiding trainer Real Madrid blijven",
     "subtitle": null,
     "published_at": "2023-05-20T15:03:57+02:00",
-    "updated_at": "2023-05-20T15:11:06+02:00",
+    "updated_at": "2023-05-20T15:14:16+02:00",
     "media_id": "dexxykpa8l0s",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6264439/kika-van-es-kondigt-afscheid-aan-maar-hoopt-nog-op-wk-met-oranjevrouwen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264305,
-    "slug": "stelling-om-geld-te-besparen-douche-ik-zo-koud-mogelijk",
-    "type": "article",
-    "title": "Stelling: Om geld te besparen douche ik zo koud mogelijk",
-    "subtitle": null,
-    "published_at": "2023-05-20T08:01:32+02:00",
-    "updated_at": "2023-05-20T08:01:34+02:00",
-    "media_id": "vn6xzsya6ndq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6264305/stelling-om-geld-te-besparen-douche-ik-zo-koud-mogelijk.html",
     "open_new_window": false,
     "partner": null
   }
