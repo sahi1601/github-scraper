@@ -1,13 +1,36 @@
 [
   {
+    "id": 6264554,
+    "slug": "weekweerbericht-een-kleine-temperatuurdip-maar-wel-mooi-lenteweer",
+    "type": "article",
+    "title": "Weekweerbericht: een kleine temperatuurdip, maar wel mooi lenteweer",
+    "subtitle": null,
+    "published_at": "2023-05-21T15:39:25+02:00",
+    "updated_at": "2023-05-21T15:39:27+02:00",
+    "media_id": "luexhsyar9dc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6264554/weekweerbericht-een-kleine-temperatuurdip-maar-wel-mooi-lenteweer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264553,
     "slug": "van-bommel-dreigt-met-antwerp-koppositie-kwijt-te-raken-door-verlies-in-brugge",
     "type": "article",
     "title": "Van Bommel dreigt met Antwerp koppositie kwijt te raken door verlies in Brugge",
     "subtitle": null,
     "published_at": "2023-05-21T15:22:55+02:00",
-    "updated_at": "2023-05-21T15:24:34+02:00",
-    "media_id": "5o9xd9aavlub",
+    "updated_at": "2023-05-21T15:39:20+02:00",
+    "media_id": "81bx22uato4e",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -300,13 +323,13 @@
   },
   {
     "id": 6264536,
-    "slug": "psv-door-achterstand-niet-zeker-van-tweede-plek-ajax-leidt-bij-rust-tegen-utrecht",
+    "slug": "utrecht-maakt-1-1-tegen-ajax-psv-ondanks-achterstand-virtueel-zeker-van-tweede-plek",
     "type": "article",
-    "title": "PSV door achterstand niet zeker van tweede plek, Ajax leidt bij rust tegen Utrecht",
+    "title": "Utrecht maakt 1-1 tegen Ajax, PSV ondanks achterstand virtueel zeker van tweede plek",
     "subtitle": "Liveblog",
     "published_at": "2023-05-21T12:00:31+02:00",
-    "updated_at": "2023-05-21T15:23:21+02:00",
-    "media_id": "ghlxq8raj4wl",
+    "updated_at": "2023-05-21T15:41:12+02:00",
+    "media_id": "yk0xaxba8fju",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -317,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6264536/psv-door-achterstand-niet-zeker-van-tweede-plek-ajax-leidt-bij-rust-tegen-utrecht.html",
+    "url": "/voetbal/6264536/utrecht-maakt-1-1-tegen-ajax-psv-ondanks-achterstand-virtueel-zeker-van-tweede-plek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6264518/city-krijgt-loon-naar-werken-met-nieuwe-titel-arsenal-dreef-ons-tot-het-uiterste.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264519,
-    "slug": "nudisten-wandelen-door-mexico-stad-voor-meer-body-positivity",
-    "type": "video",
-    "title": "Nudisten wandelen door Mexico-Stad voor meer body-positivity",
-    "subtitle": "Video",
-    "published_at": "2023-05-21T09:16:54+02:00",
-    "updated_at": "2023-05-21T09:16:55+02:00",
-    "media_id": "zb2xmneaxjff",
-    "duration": "0:37",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6264519/nudisten-wandelen-door-mexico-stad-voor-meer-body-positivity.html",
     "open_new_window": false,
     "partner": null
   }
