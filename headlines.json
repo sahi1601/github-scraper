@@ -1,12 +1,35 @@
 [
   {
+    "id": 6264559,
+    "slug": "feyenoord-helpt-excelsior-een-handje-en-veroordeelt-fc-emmen-tot-play-offs",
+    "type": "article",
+    "title": "Feyenoord helpt Excelsior een handje en veroordeelt FC Emmen tot play-offs",
+    "subtitle": null,
+    "published_at": "2023-05-21T16:24:20+02:00",
+    "updated_at": "2023-05-21T16:24:22+02:00",
+    "media_id": "31pxoz7anfyo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6264559/feyenoord-helpt-excelsior-een-handje-en-veroordeelt-fc-emmen-tot-play-offs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264555,
     "slug": "vollering-toont-ook-in-burgos-haar-klasse-door-eindzege-in-stijl-binnen-te-halen",
     "type": "article",
     "title": "Vollering toont ook in Burgos haar klasse door eindzege in stijl binnen te halen",
     "subtitle": null,
     "published_at": "2023-05-21T15:45:04+02:00",
-    "updated_at": "2023-05-21T15:56:28+02:00",
+    "updated_at": "2023-05-21T16:11:09+02:00",
     "media_id": "e5fx23safb6u",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Russen claimen inname Bakhmut, terwijl Oekraïne ontkent",
     "subtitle": "Overzicht",
     "published_at": "2023-05-21T15:05:55+02:00",
-    "updated_at": "2023-05-21T15:12:32+02:00",
+    "updated_at": "2023-05-21T16:24:17+02:00",
     "media_id": "pzfxg8aaaybi",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Nederlands vliegtuigje neergestort in bosrijk gebied Kroatië",
     "subtitle": null,
     "published_at": "2023-05-21T14:08:14+02:00",
-    "updated_at": "2023-05-21T16:10:32+02:00",
+    "updated_at": "2023-05-21T16:14:08+02:00",
     "media_id": "c3lxrtmav989",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/blog/6264373/geen-formule-1-bas-ging-toch-voor-andere-beelden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264532,
-    "slug": "tottenham-meldde-zich-nog-niet-voor-slot-wel-tevergeefs-voor-directeur-te-kloese",
-    "type": "article",
-    "title": "Tottenham meldde zich nog niet voor Slot, wel tevergeefs voor directeur Te Kloese",
-    "subtitle": null,
-    "published_at": "2023-05-21T10:35:08+02:00",
-    "updated_at": "2023-05-21T11:00:39+02:00",
-    "media_id": "cspxhdfa4ofn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6264532/tottenham-meldde-zich-nog-niet-voor-slot-wel-tevergeefs-voor-directeur-te-kloese.html",
     "open_new_window": false,
     "partner": null
   }
