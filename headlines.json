@@ -1,12 +1,35 @@
 [
   {
+    "id": 6264730,
+    "slug": "internationale-boksfederatie-schorst-nederlandse-bond-na-overstap",
+    "type": "article",
+    "title": "Internationale boksfederatie schorst Nederlandse bond na overstap",
+    "subtitle": null,
+    "published_at": "2023-05-22T22:14:29+02:00",
+    "updated_at": "2023-05-22T22:14:31+02:00",
+    "media_id": "bsnxf04avgga",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6264730/internationale-boksfederatie-schorst-nederlandse-bond-na-overstap.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264727,
     "slug": "fc-eindhoven-deelt-met-uitblinkende-reservekeeper-tik-uit-aan-almere-in-play-offs",
     "type": "article",
     "title": "FC Eindhoven deelt met uitblinkende reservekeeper tik uit aan Almere in play-offs",
     "subtitle": null,
     "published_at": "2023-05-22T21:58:38+02:00",
-    "updated_at": "2023-05-22T22:10:32+02:00",
+    "updated_at": "2023-05-22T22:17:21+02:00",
     "media_id": "0ikx3l1a6tqu",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Je kan binnenkort berichten in WhatsApp aanpassen, als je snel genoeg bent",
     "subtitle": null,
     "published_at": "2023-05-22T21:29:35+02:00",
-    "updated_at": "2023-05-22T21:41:06+02:00",
+    "updated_at": "2023-05-22T22:14:11+02:00",
     "media_id": "ywjxzrzaxe4y",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Drie Nederlandse bergbeklimmers omgekomen bij lawine in Zwitserse Alpen",
     "subtitle": null,
     "published_at": "2023-05-22T17:54:35+02:00",
-    "updated_at": "2023-05-22T20:21:10+02:00",
+    "updated_at": "2023-05-22T22:13:47+02:00",
     "media_id": "jkcxu93asy12",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6264694/kim-kardashian-schrijft-haar-vier-kinderen-bij-elke-verjaardag-een-brief.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264688,
-    "slug": "daling-huizenprijzen-toont-aan-dat-gekte-uit-woningmarkt-verdwijnt",
-    "type": "article",
-    "title": "Daling huizenprijzen toont aan dat gekte uit woningmarkt verdwijnt",
-    "subtitle": null,
-    "published_at": "2023-05-22T16:55:15+02:00",
-    "updated_at": "2023-05-22T16:56:33+02:00",
-    "media_id": "eczxgtqai376",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6264688/daling-huizenprijzen-toont-aan-dat-gekte-uit-woningmarkt-verdwijnt.html",
     "open_new_window": false,
     "partner": null
   }
