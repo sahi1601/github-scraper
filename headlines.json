@@ -1,12 +1,35 @@
 [
   {
+    "id": 6264681,
+    "slug": "vijf-van-de-zes-hoogste-privacyboetes-in-europa-zijn-voor-meta",
+    "type": "article",
+    "title": "Vijf van de zes hoogste privacyboetes in Europa zijn voor Meta",
+    "subtitle": null,
+    "published_at": "2023-05-22T16:12:37+02:00",
+    "updated_at": "2023-05-22T16:12:38+02:00",
+    "media_id": "15rx8mya4efy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6264681/vijf-van-de-zes-hoogste-privacyboetes-in-europa-zijn-voor-meta.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264680,
     "slug": "dinsdag-nieuwe-zoekactie-in-portugal-naar-vermiste-madeleine-mccann",
     "type": "article",
     "title": "Dinsdag nieuwe zoekactie in Portugal naar vermiste Madeleine McCann",
     "subtitle": null,
     "published_at": "2023-05-22T15:46:47+02:00",
-    "updated_at": "2023-05-22T16:10:56+02:00",
+    "updated_at": "2023-05-22T16:17:20+02:00",
     "media_id": "xgmxvq3ae5dh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6264650/tijdschema-gp-monaco-wanneer-komen-verstappen-en-de-vries-in-actie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264646,
-    "slug": "belarussische-journalist-die-uit-vliegtuig-werd-gehaald-zou-gratie-hebben-gekregen",
-    "type": "article",
-    "title": "Belarussische journalist die uit vliegtuig werd gehaald zou gratie hebben gekregen",
-    "subtitle": null,
-    "published_at": "2023-05-22T12:47:55+02:00",
-    "updated_at": "2023-05-22T14:21:28+02:00",
-    "media_id": "jjzxy27akjmc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6264646/belarussische-journalist-die-uit-vliegtuig-werd-gehaald-zou-gratie-hebben-gekregen.html",
     "open_new_window": false,
     "partner": null
   }
