@@ -1,5 +1,28 @@
 [
   {
+    "id": 6264735,
+    "slug": "russische-anti-poetingroepen-claimen-aanval-in-russische-grensregio-belgorod",
+    "type": "article",
+    "title": "Russische anti-Poetingroepen claimen aanval in Russische grensregio Belgorod",
+    "subtitle": null,
+    "published_at": "2023-05-22T23:49:32+02:00",
+    "updated_at": "2023-05-22T23:49:55+02:00",
+    "media_id": "gm7xogoaai8f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6264735/russische-anti-poetingroepen-claimen-aanval-in-russische-grensregio-belgorod.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264734,
     "slug": "leicester-heeft-zeven-jaar-na-landstitel-nog-een-duel-om-degradatie-te-voorkomen",
     "type": "article",
@@ -236,7 +259,7 @@
     "title": "Empoli maakt rampavond Juventus compleet, ook duur puntenverlies AS Roma",
     "subtitle": null,
     "published_at": "2023-05-22T20:53:01+02:00",
-    "updated_at": "2023-05-22T23:00:21+02:00",
+    "updated_at": "2023-05-22T23:50:23+02:00",
     "media_id": "ur1xrqdaayz6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6264709/mvv-kiest-voor-van-leeuwen-en-is-enige-club-met-vrouwelijke-algemeen-directeur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264703,
-    "slug": "siciliaanse-stad-catania-bedolven-onder-as-na-uitbarsting-etna",
-    "type": "video",
-    "title": "Siciliaanse stad Catania bedolven onder as na uitbarsting Etna",
-    "subtitle": "Video",
-    "published_at": "2023-05-22T18:27:00+02:00",
-    "updated_at": "2023-05-22T18:44:48+02:00",
-    "media_id": "26jx0t1ao4ec",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6264703/siciliaanse-stad-catania-bedolven-onder-as-na-uitbarsting-etna.html",
     "open_new_window": false,
     "partner": null
   }
