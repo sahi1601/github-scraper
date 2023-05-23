@@ -1,5 +1,28 @@
 [
   {
+    "id": 6264742,
+    "slug": "van-velzen-ziet-positieve-verandering-bij-nieuw-programma-na-the-voice",
+    "type": "article",
+    "title": "Van Velzen ziet positieve verandering bij nieuw programma na The Voice",
+    "subtitle": null,
+    "published_at": "2023-05-23T07:12:41+02:00",
+    "updated_at": "2023-05-23T07:12:43+02:00",
+    "media_id": "derxnqpa3hr6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6264742/van-velzen-ziet-positieve-verandering-bij-nieuw-programma-na-the-voice.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264626,
     "slug": "stelling-ik-gebruik-vakantiegeld-voor-iets-anders-dan-vakantie",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Nick Schilder went steeds meer aan muziek maken zonder Simon",
     "subtitle": null,
     "published_at": "2023-05-23T06:55:30+02:00",
-    "updated_at": "2023-05-23T07:08:55+02:00",
+    "updated_at": "2023-05-23T07:13:15+02:00",
     "media_id": "dd9x1hiaapdc",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "We kopen minder, maar door hoge prijzen zien winkeliers omzet toch stijgen",
     "subtitle": null,
     "published_at": "2023-05-23T05:09:14+02:00",
-    "updated_at": "2023-05-23T05:09:15+02:00",
+    "updated_at": "2023-05-23T07:15:09+02:00",
     "media_id": "oa3xgj6ap2eu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6264731/prins-william-en-mariniers-roeien-en-praten-over-mentale-gezondheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264730,
-    "slug": "internationale-boksfederatie-schorst-nederlandse-bond-na-overstap",
-    "type": "article",
-    "title": "Internationale boksfederatie schorst Nederlandse bond na overstap",
-    "subtitle": null,
-    "published_at": "2023-05-22T22:14:29+02:00",
-    "updated_at": "2023-05-22T22:24:17+02:00",
-    "media_id": "bsnxf04avgga",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6264730/internationale-boksfederatie-schorst-nederlandse-bond-na-overstap.html",
     "open_new_window": false,
     "partner": null
   }
