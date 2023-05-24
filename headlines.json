@@ -1,5 +1,28 @@
 [
   {
+    "id": 6265033,
+    "slug": "timelapse-toont-rokende-vulkaan-popocatepetl-in-mexico",
+    "type": "video",
+    "title": "Timelapse toont rokende vulkaan Popocatépetl in Mexico",
+    "subtitle": "Video",
+    "published_at": "2023-05-24T19:29:17+02:00",
+    "updated_at": "2023-05-24T19:29:19+02:00",
+    "media_id": "hxoxgyyafnhi",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6265033/timelapse-toont-rokende-vulkaan-popocatepetl-in-mexico.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6264948,
     "slug": "waarom-er-een-jaar-na-schietpartij-uvalde-nog-geen-strengere-wapenwet-in-vs-is",
     "type": "article",
@@ -259,7 +282,7 @@
     "title": "Eerste dwarslaesiepatiënt kan benen bewegen met hersenen dankzij implantaten",
     "subtitle": null,
     "published_at": "2023-05-24T17:20:02+02:00",
-    "updated_at": "2023-05-24T19:11:49+02:00",
+    "updated_at": "2023-05-24T19:29:19+02:00",
     "media_id": "8kzxol7acr1z",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6265000/drone-filmt-het-grootste-feyenoord-spandoek-ooit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6264994,
-    "slug": "psv-licht-plotseling-vertrek-van-nistelrooij-toe",
-    "type": "video",
-    "title": "PSV licht plotseling vertrek Van Nistelrooij toe",
-    "subtitle": "Livestream",
-    "published_at": "2023-05-24T15:55:39+02:00",
-    "updated_at": "2023-05-24T16:33:57+02:00",
-    "media_id": "oe1xaozauc53",
-    "duration": "0:01",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6264994/psv-licht-plotseling-vertrek-van-nistelrooij-toe.html",
     "open_new_window": false,
     "partner": null
   }
