@@ -1,5 +1,28 @@
 [
   {
+    "id": 6265603,
+    "slug": "fortuna-en-coach-velazquez-uit-elkaar-hij-heeft-ons-in-de-eredivisie-gehouden",
+    "type": "article",
+    "title": "Fortuna en coach Velázquez uit elkaar: 'Hij heeft ons in de Eredivisie gehouden'",
+    "subtitle": null,
+    "published_at": "2023-05-28T18:18:32+02:00",
+    "updated_at": "2023-05-28T18:18:33+02:00",
+    "media_id": "4v9x5tzaacgv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6265603/fortuna-en-coach-velazquez-uit-elkaar-hij-heeft-ons-in-de-eredivisie-gehouden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265602,
     "slug": "de-vries-bereikt-doel-door-uit-de-problemen-te-blijven-hier-op-voortborduren",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Boze Veerman bedreigd na vertrek Van Nistelrooij bij PSV: 'Wat een schijtwereld'",
     "subtitle": null,
     "published_at": "2023-05-28T18:00:33+02:00",
-    "updated_at": "2023-05-28T18:15:12+02:00",
+    "updated_at": "2023-05-28T18:27:49+02:00",
     "media_id": "yr2xhrha9f3x",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Verstappen na overtuigende zege in Monaco: 'Was een behoorlijk lastige race'",
     "subtitle": null,
     "published_at": "2023-05-28T17:22:23+02:00",
-    "updated_at": "2023-05-28T17:45:21+02:00",
+    "updated_at": "2023-05-28T18:27:10+02:00",
     "media_id": "u4mx3xcafm56",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6265581/psg-doelman-rico-ligt-op-intensive-care-na-ongeluk-met-paard.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265580,
-    "slug": "peloton-weer-compleet-in-laatste-kilometers-giro-ditalia",
-    "type": "article",
-    "title": "Peloton weer compleet in laatste kilometers Giro d'Italia",
-    "subtitle": "Liveblog",
-    "published_at": "2023-05-28T15:18:18+02:00",
-    "updated_at": "2023-05-28T18:16:41+02:00",
-    "media_id": "eomxwieav4lz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6265580/peloton-weer-compleet-in-laatste-kilometers-giro-ditalia.html",
     "open_new_window": false,
     "partner": null
   }
