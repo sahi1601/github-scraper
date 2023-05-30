@@ -1,5 +1,28 @@
 [
   {
+    "id": 6265773,
+    "slug": "rvc-voorzitter-eringa-we-wilden-graag-dat-van-der-sar-bij-ajax-zou-blijven",
+    "type": "article",
+    "title": "Rvc-voorzitter Eringa: 'We wilden graag dat Van der Sar bij Ajax zou blijven'",
+    "subtitle": null,
+    "published_at": "2023-05-30T10:18:19+02:00",
+    "updated_at": "2023-05-30T10:24:39+02:00",
+    "media_id": "clvxai3ax23p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6265773/rvc-voorzitter-eringa-we-wilden-graag-dat-van-der-sar-bij-ajax-zou-blijven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265767,
     "slug": "japan-mag-huwelijk-tussen-partners-van-hetzelfde-geslacht-niet-verbieden",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Sheriff bevrijdt beer op ingenieuze wijze uit auto in VS",
     "subtitle": "Video",
     "published_at": "2023-05-30T09:48:43+02:00",
-    "updated_at": "2023-05-30T09:50:00+02:00",
+    "updated_at": "2023-05-30T10:20:33+02:00",
     "media_id": "rfgxmnka67u3",
     "duration": "0:51",
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Algemeen directeur Van der Sar stapt op bij Ajax na rampzalig seizoen",
     "subtitle": null,
     "published_at": "2023-05-30T09:32:28+02:00",
-    "updated_at": "2023-05-30T10:15:27+02:00",
+    "updated_at": "2023-05-30T10:19:21+02:00",
     "media_id": "td8xt7pagggo",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Beelden tonen mogelijke droneaanval op Moskou",
     "subtitle": "Video",
     "published_at": "2023-05-30T08:43:13+02:00",
-    "updated_at": "2023-05-30T08:47:44+02:00",
+    "updated_at": "2023-05-30T10:21:02+02:00",
     "media_id": "j8ex8awa9m2e",
     "duration": "0:32",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6265739/weerbericht-een-bewolkte-dag-maar-de-zon-zal-snel-weer-doorbreken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265738,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-05-30T05:26:33+02:00",
-    "updated_at": "2023-05-30T05:26:34+02:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6265738/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
