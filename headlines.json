@@ -1,12 +1,35 @@
 [
   {
+    "id": 6265738,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-05-30T05:26:33+02:00",
+    "updated_at": "2023-05-30T05:26:34+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6265738/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265737,
     "slug": "verkiezingen-voor-nieuwe-eerste-kamer-van-start-bbb-wordt-de-grootste",
     "type": "article",
     "title": "Verkiezingen voor nieuwe Eerste Kamer van start, BBB wordt de grootste",
     "subtitle": null,
     "published_at": "2023-05-30T05:24:21+02:00",
-    "updated_at": "2023-05-30T05:25:02+02:00",
+    "updated_at": "2023-05-30T05:25:07+02:00",
     "media_id": "410xb9yalmc6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6265705/speelsters-ajax-spraken-met-directie-over-afblazen-huldiging-dit-was-niet-goed.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265608,
-    "slug": "ajax-legt-transfervrije-van-den-boomen-voor-vier-seizoenen-vast",
-    "type": "article",
-    "title": "Ajax legt transfervrije Van den Boomen voor vier seizoenen vast",
-    "subtitle": null,
-    "published_at": "2023-05-29T17:04:07+02:00",
-    "updated_at": "2023-05-29T23:09:26+02:00",
-    "media_id": "s1vxmngab5dv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6265608/ajax-legt-transfervrije-van-den-boomen-voor-vier-seizoenen-vast.html",
     "open_new_window": false,
     "partner": null
   }
