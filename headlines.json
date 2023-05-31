@@ -1,12 +1,35 @@
 [
   {
+    "id": 6265971,
+    "slug": "inflatie-daalt-verder-in-duitsland-en-frankrijk-maar-voedsel-blijft-duur",
+    "type": "article",
+    "title": "Inflatie daalt verder in Duitsland en Frankrijk, maar voedsel blijft duur",
+    "subtitle": null,
+    "published_at": "2023-05-31T15:19:08+02:00",
+    "updated_at": "2023-05-31T15:19:10+02:00",
+    "media_id": "ma9xjbaaposi",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6265971/inflatie-daalt-verder-in-duitsland-en-frankrijk-maar-voedsel-blijft-duur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265969,
     "slug": "ruiter-probeert-wolf-weg-te-jagen-in-drents-fries-natuurgebied",
     "type": "video",
     "title": "Ruiter probeert wolf weg te jagen in Drents-Fries natuurgebied",
     "subtitle": "Video",
     "published_at": "2023-05-31T14:51:36+02:00",
-    "updated_at": "2023-05-31T14:55:50+02:00",
+    "updated_at": "2023-05-31T15:24:54+02:00",
     "media_id": "9c9xvxda91qm",
     "duration": "0:40",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6265936/fc-twente-onderzoekt-of-ajacied-brobbey-racistisch-werd-bejegend-bij-spelersbus.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265929,
-    "slug": "salarissen-steeds-verder-omhoog-gemiddeld-7-procent-erbij-dit-jaar",
-    "type": "article",
-    "title": "Salarissen steeds verder omhoog; gemiddeld 7 procent erbij dit jaar",
-    "subtitle": null,
-    "published_at": "2023-05-31T11:37:27+02:00",
-    "updated_at": "2023-05-31T13:37:45+02:00",
-    "media_id": "dzkxmw0acclq",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6265929/salarissen-steeds-verder-omhoog-gemiddeld-7-procent-erbij-dit-jaar.html",
     "open_new_window": false,
     "partner": null
   }
