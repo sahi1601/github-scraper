@@ -1,5 +1,51 @@
 [
   {
+    "id": 6265884,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-05-31T05:30:18+02:00",
+    "updated_at": "2023-05-31T05:30:19+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6265884/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6265883,
+    "slug": "charles-manson-volgelinge-krijgt-na-52-jaar-cel-recht-op-vervroegde-vrijlating",
+    "type": "article",
+    "title": "Charles Manson-volgelinge krijgt na 52 jaar cel recht op vervroegde vrijlating",
+    "subtitle": null,
+    "published_at": "2023-05-31T05:27:56+02:00",
+    "updated_at": "2023-05-31T05:27:58+02:00",
+    "media_id": "gx8xzu0acxdu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6265883/charles-manson-volgelinge-krijgt-na-52-jaar-cel-recht-op-vervroegde-vrijlating.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265826,
     "slug": "mocro-maffia-acteur-robert-de-hoog-acteren-is-niet-altijd-dankbaar-werk",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/opmerkelijk/6265863/zelfgeknutselde-spoorwegovergang-ontregelt-goederenverkeer-op-duits-spoor.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265867,
-    "slug": "rummenigge-keert-drie-dagen-na-ontslag-opvolger-kahn-terug-bij-bayern",
-    "type": "article",
-    "title": "Rummenigge keert drie dagen na ontslag opvolger Kahn terug bij Bayern",
-    "subtitle": null,
-    "published_at": "2023-05-30T20:04:06+02:00",
-    "updated_at": "2023-05-30T20:10:50+02:00",
-    "media_id": "2bkx0zkao7y6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6265867/rummenigge-keert-drie-dagen-na-ontslag-opvolger-kahn-terug-bij-bayern.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265866,
-    "slug": "china-lanceert-eerste-chinese-burger-de-ruimte-in",
-    "type": "video",
-    "title": "China lanceert eerste Chinese burger de ruimte in",
-    "subtitle": "Video",
-    "published_at": "2023-05-30T19:53:58+02:00",
-    "updated_at": "2023-05-30T19:54:00+02:00",
-    "media_id": "uzwxzgtaxi7t",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6265866/china-lanceert-eerste-chinese-burger-de-ruimte-in.html",
     "open_new_window": false,
     "partner": null
   }
