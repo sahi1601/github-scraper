@@ -1,5 +1,51 @@
 [
   {
+    "id": 6265913,
+    "slug": "dj-immer-hansi-schiet-danseres-omver-met-confettibazooka",
+    "type": "video",
+    "title": "Dj Immer Hansi schiet danseres omver met confettibazooka",
+    "subtitle": "Video",
+    "published_at": "2023-05-31T10:17:12+02:00",
+    "updated_at": "2023-05-31T10:17:14+02:00",
+    "media_id": "qtrx2hwa0v8l",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6265913/dj-immer-hansi-schiet-danseres-omver-met-confettibazooka.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6265906,
+    "slug": "visum-prins-harry-in-het-geding-was-hij-wel-eerlijk-over-drugsverleden",
+    "type": "article",
+    "title": "Visum prins Harry in het geding: was hij wel eerlijk over drugsverleden?",
+    "subtitle": null,
+    "published_at": "2023-05-31T10:07:51+02:00",
+    "updated_at": "2023-05-31T10:07:52+02:00",
+    "media_id": "qxsxrd2axeu7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6265906/visum-prins-harry-in-het-geding-was-hij-wel-eerlijk-over-drugsverleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6265901,
     "slug": "rick-van-velthuysen-keert-terug-op-radio-veronica-voor-ochtendshow",
     "type": "article",
@@ -162,12 +208,12 @@
   },
   {
     "id": 6265894,
-    "slug": "al-pacino-83-en-zijn-vriendin-verwachten-een-kind",
+    "slug": "al-pacino-83-en-zijn-29-jarige-vriendin-verwachten-een-kind",
     "type": "article",
-    "title": "Al Pacino (83) en zijn vriendin verwachten een kind",
+    "title": "Al Pacino (83) en zijn 29-jarige vriendin verwachten een kind",
     "subtitle": null,
     "published_at": "2023-05-31T07:55:34+02:00",
-    "updated_at": "2023-05-31T08:10:28+02:00",
+    "updated_at": "2023-05-31T10:02:25+02:00",
     "media_id": "qj1xwzna9sdk",
     "duration": null,
     "canonical_section": {
@@ -179,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6265894/al-pacino-83-en-zijn-vriendin-verwachten-een-kind.html",
+    "url": "/achterklap/6265894/al-pacino-83-en-zijn-29-jarige-vriendin-verwachten-een-kind.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +420,7 @@
     "title": "Mocro Maffia-acteur Robert de Hoog: 'Acteren is niet altijd dankbaar werk'",
     "subtitle": null,
     "published_at": "2023-05-31T05:08:15+02:00",
-    "updated_at": "2023-05-31T05:08:17+02:00",
+    "updated_at": "2023-05-31T09:46:33+02:00",
     "media_id": "691xmzkanzhs",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6265805/ongeslagen-status-mourinho-of-sevilla-komt-ten-einde-speciale-strijd-in-el-finale.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265837,
-    "slug": "wat-betekent-erdogans-winst-voor-democratie-jullie-vragen-beantwoord",
-    "type": "article",
-    "title": "Wat betekent Erdogans winst voor democratie? Jullie vragen beantwoord",
-    "subtitle": "NU+",
-    "published_at": "2023-05-31T05:06:36+02:00",
-    "updated_at": "2023-05-31T08:40:59+02:00",
-    "media_id": "bqgxqy0a5300",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6265837/wat-betekent-erdogans-winst-voor-democratie-jullie-vragen-beantwoord.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265792,
-    "slug": "waarom-ajax-in-de-europa-league-finale-moet-juichen-voor-roma-en-mourinho",
-    "type": "article",
-    "title": "Waarom Ajax in de Europa League-finale moet juichen voor Roma en Mourinho",
-    "subtitle": null,
-    "published_at": "2023-05-31T05:05:45+02:00",
-    "updated_at": "2023-05-31T07:06:44+02:00",
-    "media_id": "ehxxj3cap6bf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6265792/waarom-ajax-in-de-europa-league-finale-moet-juichen-voor-roma-en-mourinho.html",
     "open_new_window": false,
     "partner": null
   }
