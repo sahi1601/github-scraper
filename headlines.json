@@ -1,12 +1,81 @@
 [
   {
-    "id": 6266124,
-    "slug": "duitsland-vervangt-bijna-half-miljoen-dwarsliggers-na-treinongeval-in-beieren",
+    "id": 6266132,
+    "slug": "verstappen-noemt-het-onwaarschijnlijk-dat-red-bull-dit-jaar-alle-grands-prix-wint",
     "type": "article",
-    "title": "Duitsland vervangt bijna half miljoen dwarsliggers na treinongeval in Beieren",
+    "title": "Verstappen noemt het onwaarschijnlijk dat Red Bull dit jaar alle Grands Prix wint",
+    "subtitle": null,
+    "published_at": "2023-06-01T15:26:21+02:00",
+    "updated_at": "2023-06-01T15:27:49+02:00",
+    "media_id": "yhqxixfal7o4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Spanje",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6266132/verstappen-noemt-het-onwaarschijnlijk-dat-red-bull-dit-jaar-alle-grands-prix-wint.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6266129,
+    "slug": "politie-na-amnesty-rapport-agenten-moeten-niet-te-snel-vragen-om-id-bewijs",
+    "type": "article",
+    "title": "Politie na Amnesty-rapport: Agenten moeten niet te snel vragen om ID-bewijs",
+    "subtitle": null,
+    "published_at": "2023-06-01T15:25:43+02:00",
+    "updated_at": "2023-06-01T15:25:45+02:00",
+    "media_id": "9mxx4bgaadtd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6266129/politie-na-amnesty-rapport-agenten-moeten-niet-te-snel-vragen-om-id-bewijs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6266112,
+    "slug": "melk-brood-en-eieren-nog-altijd-flink-duurder-maar-geen-reden-tot-paniek",
+    "type": "article",
+    "title": "Melk, brood en eieren nog altijd flink duurder, 'maar geen reden tot paniek'",
+    "subtitle": null,
+    "published_at": "2023-06-01T15:17:39+02:00",
+    "updated_at": "2023-06-01T15:21:06+02:00",
+    "media_id": "zywxbybaiist",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6266112/melk-brood-en-eieren-nog-altijd-flink-duurder-maar-geen-reden-tot-paniek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6266124,
+    "slug": "duitsland-vervangt-bijna-half-miljoen-dwarsliggers-na-treinongeluk-in-beieren",
+    "type": "article",
+    "title": "Duitsland vervangt bijna half miljoen dwarsliggers na treinongeluk in Beieren",
     "subtitle": null,
     "published_at": "2023-06-01T15:15:24+02:00",
-    "updated_at": "2023-06-01T15:15:25+02:00",
+    "updated_at": "2023-06-01T15:20:08+02:00",
     "media_id": "4d5xujjaw0w8",
     "duration": null,
     "canonical_section": {
@@ -18,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6266124/duitsland-vervangt-bijna-half-miljoen-dwarsliggers-na-treinongeval-in-beieren.html",
+    "url": "/buitenland/6266124/duitsland-vervangt-bijna-half-miljoen-dwarsliggers-na-treinongeluk-in-beieren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +121,7 @@
     "title": "Ajax gaat niet verder met John Heitinga als hoofdcoach",
     "subtitle": null,
     "published_at": "2023-06-01T15:11:24+02:00",
-    "updated_at": "2023-06-01T15:14:37+02:00",
+    "updated_at": "2023-06-01T15:25:15+02:00",
     "media_id": "yyfxl39avyqi",
     "duration": null,
     "canonical_section": {
@@ -75,7 +144,7 @@
     "title": "PSG zegt kampioensfeest af wegens zorgelijke toestand doelman Rico",
     "subtitle": null,
     "published_at": "2023-06-01T14:48:46+02:00",
-    "updated_at": "2023-06-01T14:55:28+02:00",
+    "updated_at": "2023-06-01T15:26:39+02:00",
     "media_id": "ovqxxzban6u9",
     "duration": null,
     "canonical_section": {
@@ -259,7 +328,7 @@
     "title": "PSG-coach bevestigt vertrek Messi: 'Was een voorrecht om met hem te werken'",
     "subtitle": null,
     "published_at": "2023-06-01T13:38:39+02:00",
-    "updated_at": "2023-06-01T14:53:24+02:00",
+    "updated_at": "2023-06-01T15:23:41+02:00",
     "media_id": "ae9xvsoax5ur",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/videos/6266100/boze-mourinho-scheldt-huid-van-scheidsrechter-vol-na-verloren-finale.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266096,
-    "slug": "voetballiefdeskoppel-harder-en-eriksson-verhuist-samen-van-chelsea-naar-bayern",
-    "type": "article",
-    "title": "Voetballiefdeskoppel Harder en Eriksson verhuist samen van Chelsea naar Bayern",
-    "subtitle": null,
-    "published_at": "2023-06-01T12:50:43+02:00",
-    "updated_at": "2023-06-01T15:16:48+02:00",
-    "media_id": "jhrx4ujajhy5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6266096/voetballiefdeskoppel-harder-en-eriksson-verhuist-samen-van-chelsea-naar-bayern.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266099,
-    "slug": "rapper-tupac-shakur-krijgt-postuum-een-ster-op-walk-of-fame",
-    "type": "article",
-    "title": "Rapper Tupac Shakur krijgt postuum een ster op Walk of Fame",
-    "subtitle": null,
-    "published_at": "2023-06-01T12:50:03+02:00",
-    "updated_at": "2023-06-01T12:50:08+02:00",
-    "media_id": "dgjxuuxaw0wt",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6266099/rapper-tupac-shakur-krijgt-postuum-een-ster-op-walk-of-fame.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266097,
-    "slug": "meer-scheepsbranden-door-stekkerautos-en-illegale-russische-boten",
-    "type": "article",
-    "title": "Meer scheepsbranden door stekkerauto's en illegale Russische boten",
-    "subtitle": null,
-    "published_at": "2023-06-01T12:35:12+02:00",
-    "updated_at": "2023-06-01T12:35:13+02:00",
-    "media_id": "sd6xgk3anlvl",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6266097/meer-scheepsbranden-door-stekkerautos-en-illegale-russische-boten.html",
     "open_new_window": false,
     "partner": null
   }
