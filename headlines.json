@@ -1,5 +1,28 @@
 [
   {
+    "id": 6266047,
+    "slug": "politie-schendt-recht-op-privacy-en-demonstratie-zegt-amnesty",
+    "type": "article",
+    "title": "Politie schendt recht op privacy en demonstratie, zegt Amnesty",
+    "subtitle": null,
+    "published_at": "2023-06-01T08:42:12+02:00",
+    "updated_at": "2023-06-01T08:42:14+02:00",
+    "media_id": "2bbxr8caa77z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6266047/politie-schendt-recht-op-privacy-en-demonstratie-zegt-amnesty.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266046,
     "slug": "djokovic-krijgt-van-tennisfederatie-geen-straf-voor-politieke-tekst-over-kosovo",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6265944/vooruitblik-f1-bandenvoordeel-red-bull-wordt-uitvergroot-in-barcelona.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6265991,
-    "slug": "onderzoek-naar-biecht-van-verpleegkundige-over-doden-patienten-is-lastig",
-    "type": "article",
-    "title": "Onderzoek naar biecht van verpleegkundige over doden patiënten is lastig",
-    "subtitle": null,
-    "published_at": "2023-06-01T05:07:56+02:00",
-    "updated_at": "2023-06-01T05:07:58+02:00",
-    "media_id": "vnexe4rarito",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6265991/onderzoek-naar-biecht-van-verpleegkundige-over-doden-patienten-is-lastig.html",
     "open_new_window": false,
     "partner": null
   }
