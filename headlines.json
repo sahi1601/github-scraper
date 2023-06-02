@@ -1,12 +1,35 @@
 [
   {
+    "id": 6265939,
+    "slug": "sza-geeft-twee-concerten-in-de-ziggo-dome-maar-wie-is-ze-eigenlijk",
+    "type": "article",
+    "title": "SZA geeft twee concerten in de Ziggo Dome, maar wie is ze eigenlijk?",
+    "subtitle": "NU+",
+    "published_at": "2023-06-02T05:14:44+02:00",
+    "updated_at": "2023-06-02T05:14:45+02:00",
+    "media_id": "5ufxt8taps1p",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6265939/sza-geeft-twee-concerten-in-de-ziggo-dome-maar-wie-is-ze-eigenlijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266098,
     "slug": "ombudsmannen-plannen-moeten-groningers-geen-nieuwe-problemen-bezorgen",
     "type": "article",
     "title": "Ombudsmannen: Plannen moeten Groningers geen nieuwe problemen bezorgen",
     "subtitle": null,
     "published_at": "2023-06-02T05:13:45+02:00",
-    "updated_at": "2023-06-02T05:13:46+02:00",
+    "updated_at": "2023-06-02T05:19:59+02:00",
     "media_id": "rb0xfnqau5pv",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Bill Cosby is opnieuw aangeklaagd voor seksueel misbruik",
     "subtitle": null,
     "published_at": "2023-06-02T00:19:25+02:00",
-    "updated_at": "2023-06-02T00:24:46+02:00",
+    "updated_at": "2023-06-02T05:18:05+02:00",
     "media_id": "8zqxirmat37s",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Opnieuw meer schone energie gebruikt vorig jaar",
     "subtitle": null,
     "published_at": "2023-06-02T00:07:43+02:00",
-    "updated_at": "2023-06-02T00:07:44+02:00",
+    "updated_at": "2023-06-02T05:17:10+02:00",
     "media_id": "74fx7iba0qc4",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Roma-fans belagen arbiter Taylor en gezin op vliegveld: 'Walgelijke beelden'",
     "subtitle": null,
     "published_at": "2023-06-01T23:42:52+02:00",
-    "updated_at": "2023-06-02T01:35:34+02:00",
+    "updated_at": "2023-06-02T05:19:10+02:00",
     "media_id": "mi4xqkoaygs3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/nujij/6266150/experts-over-rapport-amnesty-dit-wil-je-in-een-democratie-liever-niet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266144,
-    "slug": "hoe-een-rechter-bedrijfseigenaar-sanderink-buitenspel-kan-zetten",
-    "type": "article",
-    "title": "Hoe een rechter bedrijfseigenaar Sanderink buitenspel kan zetten",
-    "subtitle": "NU+",
-    "published_at": "2023-06-01T20:05:13+02:00",
-    "updated_at": "2023-06-01T22:02:33+02:00",
-    "media_id": "aq7xoc4a5l84",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6266144/hoe-een-rechter-bedrijfseigenaar-sanderink-buitenspel-kan-zetten.html",
     "open_new_window": false,
     "partner": null
   }
