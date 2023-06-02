@@ -1,5 +1,28 @@
 [
   {
+    "id": 6266332,
+    "slug": "tevreden-de-vries-hecht-geen-waarde-aan-vierde-plek-ik-koop-er-niets-voor",
+    "type": "article",
+    "title": "Tevreden De Vries hecht geen waarde aan vierde plek: 'Ik koop er niets voor'",
+    "subtitle": "NU+",
+    "published_at": "2023-06-02T19:17:32+02:00",
+    "updated_at": "2023-06-02T19:17:54+02:00",
+    "media_id": "q7vxzalay2w9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Spanje",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6266332/tevreden-de-vries-hecht-geen-waarde-aan-vierde-plek-ik-koop-er-niets-voor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266330,
     "slug": "oliebedrijf-bp-stopt-als-sponsor-van-british-museum-na-druk-van-klimaatacties",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Trein van Amsterdam naar Londen is volgend jaar maandenlang uit de running",
     "subtitle": null,
     "published_at": "2023-06-02T18:37:16+02:00",
-    "updated_at": "2023-06-02T18:37:17+02:00",
+    "updated_at": "2023-06-02T19:24:28+02:00",
     "media_id": "e1ox0dnakm9t",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6266292/flikken-maastricht-actrice-angela-schijf-kampte-tien-jaar-lang-met-eetstoornis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266288,
-    "slug": "almere-komt-net-op-tijd-met-plan-om-woningen-voor-statushouders-te-regelen",
-    "type": "article",
-    "title": "Almere komt net op tijd met plan om woningen voor statushouders te regelen",
-    "subtitle": null,
-    "published_at": "2023-06-02T15:57:15+02:00",
-    "updated_at": "2023-06-02T16:18:38+02:00",
-    "media_id": "2bpxn77avukp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6266288/almere-komt-net-op-tijd-met-plan-om-woningen-voor-statushouders-te-regelen.html",
     "open_new_window": false,
     "partner": null
   }
