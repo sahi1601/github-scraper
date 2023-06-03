@@ -1,5 +1,28 @@
 [
   {
+    "id": 6266362,
+    "slug": "weerbericht-zonnige-dag-als-start-van-een-zomers-weekend",
+    "type": "article",
+    "title": "Weerbericht: Zonnige dag als start van een zomers weekend",
+    "subtitle": null,
+    "published_at": "2023-06-03T06:18:42+02:00",
+    "updated_at": "2023-06-03T06:18:43+02:00",
+    "media_id": "0jvxnucallky",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6266362/weerbericht-zonnige-dag-als-start-van-een-zomers-weekend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266083,
     "slug": "spanje-is-chicane-kwijt-hoe-f1-autos-nu-anders-afgesteld-worden",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6266339/bol-in-topvorm-naar-fbk-games-superieure-zege-en-toptijd-op-400-meter-horden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266336,
-    "slug": "tientallen-doden-bij-treinonstporing-in-india",
-    "type": "video",
-    "title": "Tientallen doden bij treinonstporing in India",
-    "subtitle": "Video",
-    "published_at": "2023-06-02T19:50:02+02:00",
-    "updated_at": "2023-06-02T19:58:39+02:00",
-    "media_id": "mzjxxadafu6q",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6266336/tientallen-doden-bij-treinonstporing-in-india.html",
     "open_new_window": false,
     "partner": null
   }
