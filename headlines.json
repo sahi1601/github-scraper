@@ -1,12 +1,58 @@
 [
   {
-    "id": 6266523,
-    "slug": "herlings-boekt-ondanks-val-103e-gp-overwinning-in-letland",
+    "id": 6266532,
+    "slug": "tour-de-france-haalt-coronaprotocol-weer-van-stal-renners-in-bubbel",
     "type": "article",
-    "title": "Herlings boekt ondanks val 103e GP-overwinning in Letland",
+    "title": "Tour de France haalt coronaprotocol weer van stal: renners in 'bubbel'",
+    "subtitle": null,
+    "published_at": "2023-06-04T17:29:27+02:00",
+    "updated_at": "2023-06-04T17:29:28+02:00",
+    "media_id": "ihbxo57akmsd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6266532/tour-de-france-haalt-coronaprotocol-weer-van-stal-renners-in-bubbel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6266539,
+    "slug": "verstappen-geniet-van-rijden-met-dominante-red-bull-en-dat-zie-je-terug",
+    "type": "article",
+    "title": "Verstappen geniet van rijden met dominante Red Bull: 'En dat zie je terug'",
+    "subtitle": null,
+    "published_at": "2023-06-04T17:25:40+02:00",
+    "updated_at": "2023-06-04T17:25:41+02:00",
+    "media_id": "eo9xpdqamdhk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Spanje",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6266539/verstappen-geniet-van-rijden-met-dominante-red-bull-en-dat-zie-je-terug.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6266523,
+    "slug": "herlings-boekt-in-letland-ondanks-val-103e-gp-overwinning",
+    "type": "article",
+    "title": "Herlings boekt in Letland ondanks val 103e GP-overwinning",
     "subtitle": null,
     "published_at": "2023-06-04T17:20:45+02:00",
-    "updated_at": "2023-06-04T17:20:46+02:00",
+    "updated_at": "2023-06-04T17:35:10+02:00",
     "media_id": "dqxx5twadryy",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6266523/herlings-boekt-ondanks-val-103e-gp-overwinning-in-letland.html",
+    "url": "/sport-overig/6266523/herlings-boekt-in-letland-ondanks-val-103e-gp-overwinning.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Djokovic laat Nadal achter zich met zeventiende kwartfinaleplek op Roland Garros",
     "subtitle": null,
     "published_at": "2023-06-04T16:55:31+02:00",
-    "updated_at": "2023-06-04T17:13:27+02:00",
+    "updated_at": "2023-06-04T17:26:59+02:00",
     "media_id": "on4x30pawxin",
     "duration": null,
     "canonical_section": {
@@ -236,8 +282,8 @@
     "title": "Sparta en Utrecht gaan strijden om finaleplek play-offs tegen Twente",
     "subtitle": "Liveblog",
     "published_at": "2023-06-04T13:28:32+02:00",
-    "updated_at": "2023-06-04T16:54:32+02:00",
-    "media_id": "40kxy97agcio",
+    "updated_at": "2023-06-04T17:37:34+02:00",
+    "media_id": "jcixxytat6o2",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6266272/vandaag-wordt-het-kindertransport-herdacht-dit-gebeurde-er-in-1943.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266509,
-    "slug": "vier-jij-mee-of-niet-jouw-ding-praat-mee-over-pride",
-    "type": "article",
-    "title": "Vier jij mee of niet jouw ding? Praat mee over Pride",
-    "subtitle": null,
-    "published_at": "2023-06-04T12:00:23+02:00",
-    "updated_at": "2023-06-04T12:16:45+02:00",
-    "media_id": "tncx68xaxyri",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6266509/vier-jij-mee-of-niet-jouw-ding-praat-mee-over-pride.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266260,
-    "slug": "lezers-over-nieuw-pensioenstelsel-ben-100-procent-voor-aanpassingen",
-    "type": "article",
-    "title": "Lezers over nieuw pensioenstelsel: 'Ben 100 procent voor aanpassingen'",
-    "subtitle": null,
-    "published_at": "2023-06-04T11:59:34+02:00",
-    "updated_at": "2023-06-04T11:59:35+02:00",
-    "media_id": "xwlxpwsa4nhg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773185,
-      "slug": "nujij",
-      "type": "default",
-      "name": "Praat mee op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nujij/6266260/lezers-over-nieuw-pensioenstelsel-ben-100-procent-voor-aanpassingen.html",
     "open_new_window": false,
     "partner": null
   }
