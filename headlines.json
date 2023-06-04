@@ -1,5 +1,28 @@
 [
   {
+    "id": 6266554,
+    "slug": "woonwijk-in-oekraiense-stad-pidhorodne-in-puin-na-russische-luchtaanval",
+    "type": "video",
+    "title": "Woonwijk in Oekraïense stad Pidhorodne in puin na Russische luchtaanval",
+    "subtitle": "Video",
+    "published_at": "2023-06-04T19:14:44+02:00",
+    "updated_at": "2023-06-04T19:14:45+02:00",
+    "media_id": "atvx31ua97kh",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6266554/woonwijk-in-oekraiense-stad-pidhorodne-in-puin-na-russische-luchtaanval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266551,
     "slug": "vermeer-best-bezochte-tentoonstelling-van-het-rijksmuseum-ooit",
     "type": "article",
@@ -259,7 +282,7 @@
     "title": "Djokovic laat Nadal achter zich met zeventiende kwartfinaleplek op Roland Garros",
     "subtitle": null,
     "published_at": "2023-06-04T16:55:31+02:00",
-    "updated_at": "2023-06-04T19:04:36+02:00",
+    "updated_at": "2023-06-04T19:13:38+02:00",
     "media_id": "on4x30pawxin",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6266521/reacties-na-dominante-zege-verstappen-in-gp-spanje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266519,
-    "slug": "utrecht-vooralsnog-ongevaarlijk-tegen-sparta-in-jacht-op-cruciale-goal-in-play-offs",
-    "type": "article",
-    "title": "Utrecht vooralsnog ongevaarlijk tegen Sparta in jacht op cruciale goal in play-offs",
-    "subtitle": "Liveblog",
-    "published_at": "2023-06-04T13:28:32+02:00",
-    "updated_at": "2023-06-04T18:33:43+02:00",
-    "media_id": "8phxc3cavzzf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6266519/utrecht-vooralsnog-ongevaarlijk-tegen-sparta-in-jacht-op-cruciale-goal-in-play-offs.html",
     "open_new_window": false,
     "partner": null
   }
