@@ -1,5 +1,28 @@
 [
   {
+    "id": 6266644,
+    "slug": "politie-doet-extra-onderzoek-in-woning-verdachte-van-moord-op-gino-9",
+    "type": "article",
+    "title": "Politie doet extra onderzoek in woning verdachte van moord op Gino (9)",
+    "subtitle": null,
+    "published_at": "2023-06-05T11:15:05+02:00",
+    "updated_at": "2023-06-05T11:15:07+02:00",
+    "media_id": "90mx3tea5yud",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6266644/politie-doet-extra-onderzoek-in-woning-verdachte-van-moord-op-gino-9.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266647,
     "slug": "britten-scheuren-rond-op-grasmaaiers-tijdens-bijzondere-race",
     "type": "video",
@@ -231,12 +254,12 @@
   },
   {
     "id": 6266620,
-    "slug": "door-treinstoring-gedupeerde-fans-harry-styles-mogelijk-toch-naar-show",
+    "slug": "door-treinstoring-gedupeerde-fans-harry-styles-mogelijk-toch-naar-concert",
     "type": "article",
-    "title": "Door treinstoring gedupeerde fans Harry Styles mogelijk toch naar show",
+    "title": "Door treinstoring gedupeerde fans Harry Styles mogelijk toch naar concert",
     "subtitle": null,
     "published_at": "2023-06-05T09:43:28+02:00",
-    "updated_at": "2023-06-05T10:59:50+02:00",
+    "updated_at": "2023-06-05T11:17:04+02:00",
     "media_id": "fd3xk4aavzb5",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6266620/door-treinstoring-gedupeerde-fans-harry-styles-mogelijk-toch-naar-show.html",
+    "url": "/muziek/6266620/door-treinstoring-gedupeerde-fans-harry-styles-mogelijk-toch-naar-concert.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +397,7 @@
     "title": "Australische zat waarschijnlijk 20 jaar onterecht vast voor moord op eigen baby's",
     "subtitle": null,
     "published_at": "2023-06-05T09:07:03+02:00",
-    "updated_at": "2023-06-05T11:09:59+02:00",
+    "updated_at": "2023-06-05T11:15:18+02:00",
     "media_id": "45oxumiaozlh",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Hindostaanse vervangers van tot slaaf gemaakten elk jaar herdacht: zo zit dat",
     "subtitle": null,
     "published_at": "2023-06-05T09:05:58+02:00",
-    "updated_at": "2023-06-05T10:55:55+02:00",
+    "updated_at": "2023-06-05T11:23:36+02:00",
     "media_id": "ps3xcslazxnt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6266606/zlatan-ibrahimovic-neemt-afscheid-wat-zijn-jouw-herinneringen-aan-de-zweed.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266612,
-    "slug": "treinen-rond-amsterdam-rijden-weer-prorail-vindt-oplossing-voor-systeemprobleem",
-    "type": "article",
-    "title": "Treinen rond Amsterdam rijden weer, ProRail vindt oplossing voor systeemprobleem",
-    "subtitle": null,
-    "published_at": "2023-06-05T08:37:23+02:00",
-    "updated_at": "2023-06-05T11:07:29+02:00",
-    "media_id": "ja0x5l9ar4sp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6266612/treinen-rond-amsterdam-rijden-weer-prorail-vindt-oplossing-voor-systeemprobleem.html",
     "open_new_window": false,
     "partner": null
   }
