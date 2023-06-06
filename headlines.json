@@ -1,5 +1,28 @@
 [
   {
+    "id": 6266907,
+    "slug": "dit-engelse-kasteel-krijgt-een-schoonmaakbeurt",
+    "type": "video",
+    "title": "Dit Engelse kasteel krijgt een schoonmaakbeurt",
+    "subtitle": "Video",
+    "published_at": "2023-06-06T22:15:37+02:00",
+    "updated_at": "2023-06-06T22:15:39+02:00",
+    "media_id": "6r3xtkmacpkj",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6266907/dit-engelse-kasteel-krijgt-een-schoonmaakbeurt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266905,
     "slug": "oekrainers-waden-door-kletsnat-kherson-na-damdoorbraak",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Almere City klopt FC Emmen en is dicht bij historische promotie naar Eredivisie",
     "subtitle": null,
     "published_at": "2023-06-06T21:57:00+02:00",
-    "updated_at": "2023-06-06T21:57:02+02:00",
+    "updated_at": "2023-06-06T22:19:10+02:00",
     "media_id": "5jhxe2jag5ul",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6266895,
-    "slug": "reacties-na-2-0-winst-almere-op-emmen-in-heenduel-finale-play-offs",
+    "slug": "reacties-na-winst-almere-op-emmen-in-heenduel-finale-play-offs",
     "type": "article",
-    "title": "Reacties na 2-0-winst Almere op Emmen in heenduel finale play-offs",
+    "title": "Reacties na winst Almere op Emmen in heenduel finale play-offs",
     "subtitle": "Liveblog",
     "published_at": "2023-06-06T19:30:06+02:00",
-    "updated_at": "2023-06-06T21:59:13+02:00",
+    "updated_at": "2023-06-06T22:21:18+02:00",
     "media_id": "6wpxv3paayf3",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6266895/reacties-na-2-0-winst-almere-op-emmen-in-heenduel-finale-play-offs.html",
+    "url": "/voetbal/6266895/reacties-na-winst-almere-op-emmen-in-heenduel-finale-play-offs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6266883/pga-tour-en-european-tour-gaan-samenwerken-met-omstreden-saoedische-tour.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266886,
-    "slug": "rolstoeltennisster-diede-de-groot-boekt-op-roland-garros-honderdste-zege-op-rij",
-    "type": "article",
-    "title": "Rolstoeltennisster Diede de Groot boekt op Roland Garros honderdste zege op rij",
-    "subtitle": null,
-    "published_at": "2023-06-06T17:54:53+02:00",
-    "updated_at": "2023-06-06T17:54:54+02:00",
-    "media_id": "nwwxonxa7ykf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6266886/rolstoeltennisster-diede-de-groot-boekt-op-roland-garros-honderdste-zege-op-rij.html",
     "open_new_window": false,
     "partner": null
   }
