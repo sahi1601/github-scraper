@@ -1,5 +1,28 @@
 [
   {
+    "id": 6266879,
+    "slug": "politie-in-vs-achtervolgt-slingerende-auto-met-tienjarige-bestuurder",
+    "type": "video",
+    "title": "Politie in VS achtervolgt slingerende auto met tienjarige bestuurder",
+    "subtitle": "Video",
+    "published_at": "2023-06-06T17:15:57+02:00",
+    "updated_at": "2023-06-06T17:15:59+02:00",
+    "media_id": "kcdxtyqam4im",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6266879/politie-in-vs-achtervolgt-slingerende-auto-met-tienjarige-bestuurder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266877,
     "slug": "laporte-klopt-groenewegen-in-door-protestactie-onderbroken-rit-in-dauphine",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Koers cryptoplatform Coinbase keldert door strafzaak in de VS",
     "subtitle": null,
     "published_at": "2023-06-06T16:59:31+02:00",
-    "updated_at": "2023-06-06T16:59:33+02:00",
+    "updated_at": "2023-06-06T17:18:15+02:00",
     "media_id": "w79x1xia99b3",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6266873,
-    "slug": "dit-zijn-de-grootste-zorgen-na-het-doorbreken-van-de-dam-bij-kherson",
+    "slug": "dam-doorgebroken-bij-kherson-dit-zijn-de-drie-grootste-zorgen",
     "type": "video",
-    "title": "Dit zijn de grootste zorgen na het doorbreken van de dam bij Kherson",
+    "title": "Dam doorgebroken bij Kherson: dit zijn de drie grootste zorgen",
     "subtitle": "Explainer",
     "published_at": "2023-06-06T16:51:41+02:00",
-    "updated_at": "2023-06-06T16:52:47+02:00",
+    "updated_at": "2023-06-06T17:16:30+02:00",
     "media_id": "ttuxpx0adx2o",
     "duration": "2:17",
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6266873/dit-zijn-de-grootste-zorgen-na-het-doorbreken-van-de-dam-bij-kherson.html",
+    "url": "/algemeen/6266873/dam-doorgebroken-bij-kherson-dit-zijn-de-drie-grootste-zorgen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/koningshuis/6266831/prins-harry-in-zaak-tegen-pers-tabloids-luisterden-mijn-privegesprekken-af.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266835,
-    "slug": "man-steekt-hal-van-amerikaanse-gevangenis-in-brand",
-    "type": "video",
-    "title": "Man steekt hal van Amerikaanse gevangenis in brand",
-    "subtitle": "Video",
-    "published_at": "2023-06-06T13:32:33+02:00",
-    "updated_at": "2023-06-06T13:32:35+02:00",
-    "media_id": "gv0x18ha7s96",
-    "duration": "0:41",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6266835/man-steekt-hal-van-amerikaanse-gevangenis-in-brand.html",
     "open_new_window": false,
     "partner": null
   }
