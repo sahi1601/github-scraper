@@ -1,12 +1,35 @@
 [
   {
+    "id": 6266901,
+    "slug": "van-der-burg-wil-binnen-maand-overlooplocaties-om-ter-apel-te-ontlasten",
+    "type": "article",
+    "title": "Van der Burg wil binnen maand 'overlooplocaties' om Ter Apel te ontlasten",
+    "subtitle": null,
+    "published_at": "2023-06-06T21:15:12+02:00",
+    "updated_at": "2023-06-06T21:15:14+02:00",
+    "media_id": "616xev0av26o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6266901/van-der-burg-wil-binnen-maand-overlooplocaties-om-ter-apel-te-ontlasten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6266900,
     "slug": "het-is-mogelijk-al-te-laat-om-zomerijs-op-de-noordpool-te-redden",
     "type": "article",
     "title": "Het is mogelijk al te laat om zomerijs op de Noordpool te redden",
     "subtitle": null,
     "published_at": "2023-06-06T20:41:12+02:00",
-    "updated_at": "2023-06-06T20:41:13+02:00",
+    "updated_at": "2023-06-06T21:11:46+02:00",
     "media_id": "vbhxc8lafqn5",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Benzema volgt voorbeeld Ronaldo en tekent megacontract in Saoedi-Arabië",
     "subtitle": null,
     "published_at": "2023-06-06T20:19:14+02:00",
-    "updated_at": "2023-06-06T20:55:06+02:00",
+    "updated_at": "2023-06-06T21:19:09+02:00",
     "media_id": "wk0xj3vaa95v",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Noppert bewaart WK-aandenken op zolder: 'Maar zou wel terug in de tijd willen'",
     "subtitle": null,
     "published_at": "2023-06-06T17:45:47+02:00",
-    "updated_at": "2023-06-06T19:35:46+02:00",
+    "updated_at": "2023-06-06T21:13:20+02:00",
     "media_id": "n6ixo2ja51xj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6266877/laporte-wint-door-protest-onderbroken-rit-in-dauphine-groenewegen-teruggezet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6266874,
-    "slug": "koers-cryptoplatform-coinbase-keldert-door-strafzaak-in-de-vs",
-    "type": "article",
-    "title": "Koers cryptoplatform Coinbase keldert door strafzaak in de VS",
-    "subtitle": null,
-    "published_at": "2023-06-06T16:59:31+02:00",
-    "updated_at": "2023-06-06T17:18:15+02:00",
-    "media_id": "w79x1xia99b3",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6266874/koers-cryptoplatform-coinbase-keldert-door-strafzaak-in-de-vs.html",
     "open_new_window": false,
     "partner": null
   }
