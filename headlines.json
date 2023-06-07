@@ -1,5 +1,28 @@
 [
   {
+    "id": 6267046,
+    "slug": "europese-commissie-bedreigt-europarlementariers-die-natuurherstelwet-hekelen",
+    "type": "article",
+    "title": "Europese Commissie bedreigt Europarlementariërs die natuurherstelwet hekelen",
+    "subtitle": null,
+    "published_at": "2023-06-07T19:21:25+02:00",
+    "updated_at": "2023-06-07T19:21:27+02:00",
+    "media_id": "sklxrqlaga92",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6267046/europese-commissie-bedreigt-europarlementariers-die-natuurherstelwet-hekelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267045,
     "slug": "internationale-boksbond-gaat-olympische-erkenning-verliezen-om-russische-invloeden",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6267012/politie-bunschoten-controleert-vrachtverkeer-en-bedrijven-op-illegale-activiteiten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267001,
-    "slug": "rutte-botst-met-getergde-oppositie-in-groningendebat",
-    "type": "article",
-    "title": "Rutte botst met getergde oppositie in Groningendebat",
-    "subtitle": null,
-    "published_at": "2023-06-07T15:14:22+02:00",
-    "updated_at": "2023-06-07T16:35:40+02:00",
-    "media_id": "3lrxxdeajace",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6267001/rutte-botst-met-getergde-oppositie-in-groningendebat.html",
     "open_new_window": false,
     "partner": null
   }
