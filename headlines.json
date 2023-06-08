@@ -1,5 +1,28 @@
 [
   {
+    "id": 6267075,
+    "slug": "weerbericht-het-wordt-weer-lekker-zonnig-en-warm",
+    "type": "article",
+    "title": "Weerbericht: Het wordt weer lekker zonnig en warm",
+    "subtitle": null,
+    "published_at": "2023-06-08T06:20:28+02:00",
+    "updated_at": "2023-06-08T06:20:29+02:00",
+    "media_id": "949xugzacat8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6267075/weerbericht-het-wordt-weer-lekker-zonnig-en-warm.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267073,
     "slug": "opnieuw-twee-explosies-in-rotterdam-een-bewoner-raakte-lichtgewond",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6267056/reacties-na-conference-league-zege-west-ham-united.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267055,
-    "slug": "hawaiaanse-krater-verandert-in-lavameer-na-uitbarsting",
-    "type": "video",
-    "title": "Hawaïaanse krater verandert in ‘lavameer’ na uitbarsting",
-    "subtitle": "Video",
-    "published_at": "2023-06-07T20:07:00+02:00",
-    "updated_at": "2023-06-07T20:19:43+02:00",
-    "media_id": "ui0xz45a0lww",
-    "duration": "0:29",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6267055/hawaiaanse-krater-verandert-in-lavameer-na-uitbarsting.html",
     "open_new_window": false,
     "partner": null
   }
