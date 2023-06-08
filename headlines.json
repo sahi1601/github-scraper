@@ -1,5 +1,28 @@
 [
   {
+    "id": 6267194,
+    "slug": "eod-doet-gijzeling-na-bij-grote-oefening-op-utrecht-centraal",
+    "type": "video",
+    "title": "EOD doet gijzeling na bij grote oefening op Utrecht Centraal",
+    "subtitle": "Video",
+    "published_at": "2023-06-08T18:09:32+02:00",
+    "updated_at": "2023-06-08T18:09:34+02:00",
+    "media_id": "6syx30marpcy",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6267194/eod-doet-gijzeling-na-bij-grote-oefening-op-utrecht-centraal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267186,
     "slug": "kaag-graaiflatie-een-frame-dat-je-niet-zomaar-kunt-gebruiken",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Auto opladen op Terschelling dubbel zo duur als in Staphorst of Losser",
     "subtitle": null,
     "published_at": "2023-06-08T17:21:01+02:00",
-    "updated_at": "2023-06-08T17:21:03+02:00",
+    "updated_at": "2023-06-08T18:01:55+02:00",
     "media_id": "cdnx65ea1q76",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6267158/igone-de-jongh-ziet-kind-van-ex-thijs-romer-nog-steeds-als-haar-eigen-dochter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267160,
-    "slug": "joran-van-der-sloot-onder-bewaking-vervoerd-voor-uitlevering-aan-vs",
-    "type": "video",
-    "title": "Joran van der Sloot onder bewaking vervoerd voor uitlevering aan VS",
-    "subtitle": "Video",
-    "published_at": "2023-06-08T15:03:06+02:00",
-    "updated_at": "2023-06-08T15:03:07+02:00",
-    "media_id": "metxmhzah6x3",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6267160/joran-van-der-sloot-onder-bewaking-vervoerd-voor-uitlevering-aan-vs.html",
     "open_new_window": false,
     "partner": null
   }
