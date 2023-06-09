@@ -1,5 +1,51 @@
 [
   {
+    "id": 6267347,
+    "slug": "speurhond-oefent-in-zooparc-met-opsporen-van-bedreigd-dwergnijlpaard",
+    "type": "video",
+    "title": "Speurhond oefent in ZooParc met opsporen van bedreigd dwergnijlpaard",
+    "subtitle": "Video",
+    "published_at": "2023-06-09T17:08:31+02:00",
+    "updated_at": "2023-06-09T17:08:32+02:00",
+    "media_id": "03jxodcaz47f",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6267347/speurhond-oefent-in-zooparc-met-opsporen-van-bedreigd-dwergnijlpaard.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267336,
+    "slug": "duitse-vluchter-boekt-fraaie-zege-in-dauphine-speldenprik-vingegaard-tevergeefs",
+    "type": "article",
+    "title": "Duitse vluchter boekt fraaie zege in Dauphiné, speldenprik Vingegaard tevergeefs",
+    "subtitle": null,
+    "published_at": "2023-06-09T16:43:41+02:00",
+    "updated_at": "2023-06-09T17:06:48+02:00",
+    "media_id": "4v5xcaqam2rj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6267336/duitse-vluchter-boekt-fraaie-zege-in-dauphine-speldenprik-vingegaard-tevergeefs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267332,
     "slug": "ook-zuid-holland-biedt-excuses-aan-voor-slavernij-en-komt-met-informatieborden",
     "type": "article",
@@ -351,7 +397,7 @@
     "title": "Door explosies getroffen winkelcentrum in Arnhem wordt met camera's bewaakt",
     "subtitle": null,
     "published_at": "2023-06-09T13:37:18+02:00",
-    "updated_at": "2023-06-09T15:50:07+02:00",
+    "updated_at": "2023-06-09T16:54:07+02:00",
     "media_id": "i7jx9eyaew40",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland-en-buitenland/6267299/organisaties-stoppen-tijdelijk-met-voedselhulp-ethiopie-om-illegale-handel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267197,
-    "slug": "zo-werd-een-bescheiden-en-te-zware-servier-s-werelds-beste-basketballer",
-    "type": "article",
-    "title": "Zo werd een bescheiden en te zware Serviër 's werelds beste basketballer",
-    "subtitle": "NU+",
-    "published_at": "2023-06-09T13:05:47+02:00",
-    "updated_at": "2023-06-09T13:58:31+02:00",
-    "media_id": "mzvxxgeasthf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6267197/zo-werd-een-bescheiden-en-te-zware-servier-s-werelds-beste-basketballer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267293,
-    "slug": "eerste-zomerse-dag-is-gemeten-in-de-bilt-maar-was-nog-niet-eerder-zo-laat",
-    "type": "article",
-    "title": "Eerste zomerse dag is gemeten in De Bilt, maar was nog niet eerder zó laat",
-    "subtitle": null,
-    "published_at": "2023-06-09T12:54:39+02:00",
-    "updated_at": "2023-06-09T12:54:41+02:00",
-    "media_id": "0rlx1wkaumm3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6267293/eerste-zomerse-dag-is-gemeten-in-de-bilt-maar-was-nog-niet-eerder-zo-laat.html",
     "open_new_window": false,
     "partner": null
   }
