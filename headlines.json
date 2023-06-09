@@ -1,12 +1,35 @@
 [
   {
+    "id": 6267282,
+    "slug": "wel-of-niet-doen-praat-mee-over-een-korte-broek-op-kantoor",
+    "type": "article",
+    "title": "Wel of niet doen? Praat mee over een korte broek op kantoor",
+    "subtitle": null,
+    "published_at": "2023-06-09T12:08:47+02:00",
+    "updated_at": "2023-06-09T12:17:08+02:00",
+    "media_id": "lodx8u6aezyc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6267282/wel-of-niet-doen-praat-mee-over-een-korte-broek-op-kantoor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267286,
     "slug": "italiaans-schilderij-dat-in-1959-werd-gestolen-duikt-op-bij-zeeuwse-veiling",
     "type": "article",
     "title": "Italiaans schilderij dat in 1959 werd gestolen duikt op bij Zeeuwse veiling",
     "subtitle": null,
     "published_at": "2023-06-09T11:50:56+02:00",
-    "updated_at": "2023-06-09T11:50:58+02:00",
+    "updated_at": "2023-06-09T12:16:24+02:00",
     "media_id": "cs4xcykapuzb",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Buijs volgt Velázquez op bij Fortuna Sittard en keert terug in de Eredivisie",
     "subtitle": null,
     "published_at": "2023-06-09T11:47:48+02:00",
-    "updated_at": "2023-06-09T11:54:42+02:00",
+    "updated_at": "2023-06-09T12:22:41+02:00",
     "media_id": "cwlxkxwa8mcz",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6267280,
-    "slug": "steeds-meer-nederlanders-zien-energierekening-dalen",
+    "slug": "energierekening-daalt-voor-steeds-meer-nederlanders",
     "type": "article",
-    "title": "Steeds meer Nederlanders zien energierekening dalen",
+    "title": "Energierekening daalt voor steeds meer Nederlanders",
     "subtitle": null,
     "published_at": "2023-06-09T11:41:58+02:00",
-    "updated_at": "2023-06-09T12:00:48+02:00",
+    "updated_at": "2023-06-09T12:20:18+02:00",
     "media_id": "wlcxgtvah7rw",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6267280/steeds-meer-nederlanders-zien-energierekening-dalen.html",
+    "url": "/economie/6267280/energierekening-daalt-voor-steeds-meer-nederlanders.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +305,7 @@
     "title": "Kinderen niet meer in levensgevaar na steekpartij Frankrijk, dader psychisch onderzocht",
     "subtitle": null,
     "published_at": "2023-06-09T10:22:38+02:00",
-    "updated_at": "2023-06-09T12:01:47+02:00",
+    "updated_at": "2023-06-09T12:16:02+02:00",
     "media_id": "5ntx1f0ap4m2",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Limburg is 86 dagen na verkiezingen eerste provincie met coalitieakkoord",
     "subtitle": null,
     "published_at": "2023-06-09T09:42:24+02:00",
-    "updated_at": "2023-06-09T09:43:00+02:00",
+    "updated_at": "2023-06-09T12:13:37+02:00",
     "media_id": "wd1xp1ra6j6n",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport/6267250/gouden-bal-vol-stadion-en-vuurwerk-benzema-onthaald-in-saoedi-arabie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267247,
-    "slug": "haringvlietbrug-acht-weken-dicht-extra-reistijd-loopt-op-tot-meer-dan-een-uur",
-    "type": "article",
-    "title": "Haringvlietbrug acht weken dicht, extra reistijd loopt op tot meer dan een uur",
-    "subtitle": null,
-    "published_at": "2023-06-09T08:46:34+02:00",
-    "updated_at": "2023-06-09T11:27:55+02:00",
-    "media_id": "dsfxnr4ad4cm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6267247/haringvlietbrug-acht-weken-dicht-extra-reistijd-loopt-op-tot-meer-dan-een-uur.html",
     "open_new_window": false,
     "partner": null
   }
