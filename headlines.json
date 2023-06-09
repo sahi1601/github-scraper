@@ -1,5 +1,28 @@
 [
   {
+    "id": 6267183,
+    "slug": "waarom-oekraine-nog-tientallen-jaren-last-heeft-van-de-damramp",
+    "type": "video",
+    "title": "Waarom Oekraïne nog tientallen jaren last heeft van de damramp",
+    "subtitle": "Explainer",
+    "published_at": "2023-06-09T05:29:14+02:00",
+    "updated_at": "2023-06-09T05:29:16+02:00",
+    "media_id": "co9xy2zat1oz",
+    "duration": "2:20",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6267183/waarom-oekraine-nog-tientallen-jaren-last-heeft-van-de-damramp.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267237,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6266998,
-    "slug": "natuurtalent-alcaraz-wacht-titanenduel-met-djokovic-hij-kan-een-icoon-worden",
+    "slug": "natuurtalent-alcaraz-speelt-kraker-tegen-djokovic-kan-een-icoon-worden",
     "type": "article",
-    "title": "'Natuurtalent' Alcaraz wacht titanenduel met Djokovic: 'Hij kan een icoon worden'",
+    "title": "'Natuurtalent' Alcaraz speelt kraker tegen Djokovic: 'Kan een icoon worden'",
     "subtitle": "NU+",
     "published_at": "2023-06-09T05:03:47+02:00",
-    "updated_at": "2023-06-09T05:03:49+02:00",
+    "updated_at": "2023-06-09T05:34:13+02:00",
     "media_id": "w8qxno6ae2qo",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6266998/natuurtalent-alcaraz-wacht-titanenduel-met-djokovic-hij-kan-een-icoon-worden.html",
+    "url": "/tennis/6266998/natuurtalent-alcaraz-speelt-kraker-tegen-djokovic-kan-een-icoon-worden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6267218/ferrari-pakt-bij-terugkeer-na-vijftig-jaar-direct-pole-voor-24-uur-van-le-mans.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267217,
-    "slug": "olifant-in-burgers-zoo-geniet-van-verkoelend-bad",
-    "type": "video",
-    "title": "Olifant in Burgers' Zoo geniet van verkoelend bad",
-    "subtitle": "Video",
-    "published_at": "2023-06-08T20:54:55+02:00",
-    "updated_at": "2023-06-08T21:07:06+02:00",
-    "media_id": "14txl4za7b1w",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6267217/olifant-in-burgers-zoo-geniet-van-verkoelend-bad.html",
     "open_new_window": false,
     "partner": null
   }
