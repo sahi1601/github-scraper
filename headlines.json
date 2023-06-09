@@ -1,5 +1,28 @@
 [
   {
+    "id": 6267237,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-06-09T05:23:06+02:00",
+    "updated_at": "2023-06-09T05:23:07+02:00",
+    "media_id": "pynxtntartmr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6267237/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267172,
     "slug": "in-alle-bedrijfstakken-is-het-ziekteverzuim-gedaald",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Trump opnieuw aangeklaagd: nu voor opslag geheime documenten op landgoed",
     "subtitle": null,
     "published_at": "2023-06-09T02:42:57+02:00",
-    "updated_at": "2023-06-09T03:13:17+02:00",
+    "updated_at": "2023-06-09T05:20:45+02:00",
     "media_id": "63zx9e5azzns",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6267217/olifant-in-burgers-zoo-geniet-van-verkoelend-bad.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267216,
-    "slug": "andre-hazes-neemt-gevolgen-leerplichtzaak-om-verboden-vakantie-voor-lief",
-    "type": "article",
-    "title": "André Hazes neemt gevolgen leerplichtzaak om 'verboden' vakantie voor lief",
-    "subtitle": null,
-    "published_at": "2023-06-08T20:52:48+02:00",
-    "updated_at": "2023-06-09T00:49:09+02:00",
-    "media_id": "21mxggga5vqi",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6267216/andre-hazes-neemt-gevolgen-leerplichtzaak-om-verboden-vakantie-voor-lief.html",
     "open_new_window": false,
     "partner": null
   }
