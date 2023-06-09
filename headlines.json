@@ -1,5 +1,74 @@
 [
   {
+    "id": 6267352,
+    "slug": "franse-media-interviewen-man-die-dader-van-steekpartij-te-lijf-ging",
+    "type": "video",
+    "title": "Franse media interviewen man die dader van steekpartij te lijf ging",
+    "subtitle": "Video",
+    "published_at": "2023-06-09T17:23:31+02:00",
+    "updated_at": "2023-06-09T17:23:32+02:00",
+    "media_id": "pvhxfifajlk2",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6267352/franse-media-interviewen-man-die-dader-van-steekpartij-te-lijf-ging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267325,
+    "slug": "borstkankerbehandeling-kan-prettiger-en-goedkoper-met-minder-medicijn",
+    "type": "article",
+    "title": "Borstkankerbehandeling kan prettiger en goedkoper met minder medicijn",
+    "subtitle": null,
+    "published_at": "2023-06-09T17:14:16+02:00",
+    "updated_at": "2023-06-09T17:14:17+02:00",
+    "media_id": "9fyxbs6axpub",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6267325/borstkankerbehandeling-kan-prettiger-en-goedkoper-met-minder-medicijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267341,
+    "slug": "nederlands-slachtoffer-van-steekpartij-blijkt-meisje-gaat-de-goede-kant-op",
+    "type": "article",
+    "title": "Nederlands slachtoffer van steekpartij blijkt meisje: 'Gaat de goede kant op'",
+    "subtitle": null,
+    "published_at": "2023-06-09T17:13:57+02:00",
+    "updated_at": "2023-06-09T17:13:58+02:00",
+    "media_id": "zd0xamrave4q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6267341/nederlands-slachtoffer-van-steekpartij-blijkt-meisje-gaat-de-goede-kant-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267347,
     "slug": "speurhond-oefent-in-zooparc-met-opsporen-van-bedreigd-dwergnijlpaard",
     "type": "video",
@@ -167,7 +236,7 @@
     "title": "In Utrecht is het een jaar lang verboden om tabakswinkel te openen",
     "subtitle": null,
     "published_at": "2023-06-09T14:57:04+02:00",
-    "updated_at": "2023-06-09T15:46:26+02:00",
+    "updated_at": "2023-06-09T17:21:19+02:00",
     "media_id": "8zpxw7bapcva",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/economie/6267290/ns-personeel-moet-over-alle-vakantie-uren-onregelmatigheidstoeslag-krijgen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267302,
-    "slug": "door-explosies-getroffen-winkelcentrum-in-arnhem-wordt-met-cameras-bewaakt",
-    "type": "article",
-    "title": "Door explosies getroffen winkelcentrum in Arnhem wordt met camera's bewaakt",
-    "subtitle": null,
-    "published_at": "2023-06-09T13:37:18+02:00",
-    "updated_at": "2023-06-09T16:54:07+02:00",
-    "media_id": "i7jx9eyaew40",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6267302/door-explosies-getroffen-winkelcentrum-in-arnhem-wordt-met-cameras-bewaakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267298,
-    "slug": "snelle-verkocht-zonder-vergunning-concertkaarten-deventer-voor-het-blok-gezet",
-    "type": "article",
-    "title": "Snelle verkocht zonder vergunning concertkaarten, Deventer voor het blok gezet",
-    "subtitle": null,
-    "published_at": "2023-06-09T13:26:50+02:00",
-    "updated_at": "2023-06-09T15:53:12+02:00",
-    "media_id": "by9xlk0arkb9",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6267298/snelle-verkocht-zonder-vergunning-concertkaarten-deventer-voor-het-blok-gezet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267299,
-    "slug": "organisaties-stoppen-tijdelijk-met-voedselhulp-ethiopie-om-illegale-handel",
-    "type": "article",
-    "title": "Organisaties stoppen tijdelijk met voedselhulp Ethiopië om illegale handel",
-    "subtitle": null,
-    "published_at": "2023-06-09T13:23:27+02:00",
-    "updated_at": "2023-06-09T15:04:42+02:00",
-    "media_id": "h2hxp9gacgeb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779258,
-      "slug": "binnenland-en-buitenland",
-      "type": "default",
-      "name": "Binnen- en buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland-en-buitenland/6267299/organisaties-stoppen-tijdelijk-met-voedselhulp-ethiopie-om-illegale-handel.html",
     "open_new_window": false,
     "partner": null
   }
