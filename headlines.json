@@ -1,12 +1,35 @@
 [
   {
+    "id": 6267372,
+    "slug": "west-ham-united-moet-vrezen-voor-straf-uefa-onderzoekt-klaassen-incident",
+    "type": "article",
+    "title": "West Ham United moet vrezen voor straf: UEFA onderzoekt 'Klaassen-incident'",
+    "subtitle": null,
+    "published_at": "2023-06-09T19:18:55+02:00",
+    "updated_at": "2023-06-09T19:18:57+02:00",
+    "media_id": "d8lxtawaw1az",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6267372/west-ham-united-moet-vrezen-voor-straf-uefa-onderzoekt-klaassen-incident.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267342,
     "slug": "joran-van-der-sloot-ontkent-dat-hij-moeder-natalee-holloway-afperste",
     "type": "article",
     "title": "Joran van der Sloot ontkent dat hij moeder Natalee Holloway afperste",
     "subtitle": null,
     "published_at": "2023-06-09T19:06:56+02:00",
-    "updated_at": "2023-06-09T19:12:08+02:00",
+    "updated_at": "2023-06-09T19:14:12+02:00",
     "media_id": "is7xgkka9jqa",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Borstkankerbehandeling kan prettiger en goedkoper met minder medicijn",
     "subtitle": null,
     "published_at": "2023-06-09T17:14:16+02:00",
-    "updated_at": "2023-06-09T19:11:48+02:00",
+    "updated_at": "2023-06-09T19:23:43+02:00",
     "media_id": "9fyxbs6axpub",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland-en-buitenland/6267332/ook-zuid-holland-biedt-excuses-aan-voor-slavernij-en-komt-met-informatieborden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267333,
-    "slug": "eerste-lokale-tropische-dag-een-feit-305-graden-in-limburgs-arcen",
-    "type": "article",
-    "title": "Eerste lokale tropische dag een feit: 30,5 graden in Limburgs Arcen",
-    "subtitle": null,
-    "published_at": "2023-06-09T16:04:56+02:00",
-    "updated_at": "2023-06-09T19:09:03+02:00",
-    "media_id": "j46xfqmahx37",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6267333/eerste-lokale-tropische-dag-een-feit-305-graden-in-limburgs-arcen.html",
     "open_new_window": false,
     "partner": null
   }
