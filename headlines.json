@@ -29,7 +29,7 @@
     "title": "Guardiola roemt City-eigenaren: 'Bij veel clubs zou ik zijn ontslagen'",
     "subtitle": null,
     "published_at": "2023-06-11T08:03:13+02:00",
-    "updated_at": "2023-06-11T08:04:21+02:00",
+    "updated_at": "2023-06-11T08:19:16+02:00",
     "media_id": "kxqxjz0aprdv",
     "duration": null,
     "canonical_section": {
@@ -52,7 +52,7 @@
     "title": "Rook stijgt op uit spanningsstation Vlaardingen: 10.000 adressen zonder stroom",
     "subtitle": null,
     "published_at": "2023-06-11T07:39:09+02:00",
-    "updated_at": "2023-06-11T08:06:01+02:00",
+    "updated_at": "2023-06-11T08:25:02+02:00",
     "media_id": "79txe15asz6b",
     "duration": null,
     "canonical_section": {
@@ -65,29 +65,6 @@
       "partner": null
     },
     "url": "/binnenland/6267515/rook-stijgt-op-uit-spanningsstation-vlaardingen-10000-adressen-zonder-stroom.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267329,
-    "slug": "kyiv-steeds-vaker-aangevallen-zo-wordt-de-stad-beschermd",
-    "type": "video",
-    "title": "Kyiv steeds vaker aangevallen, zo wordt de stad beschermd",
-    "subtitle": "Explainer",
-    "published_at": "2023-06-11T06:23:26+02:00",
-    "updated_at": "2023-06-11T06:23:27+02:00",
-    "media_id": "425x2iza92oy",
-    "duration": "1:52",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6267329/kyiv-steeds-vaker-aangevallen-zo-wordt-de-stad-beschermd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -277,12 +254,12 @@
   },
   {
     "id": 6267484,
-    "slug": "de-reuzebadeend-in-de-haven-van-hong-kong-zwemt-weer-in-zijn-eentje",
+    "slug": "de-reuzebadeend-in-de-haven-van-hongkong-zwemt-weer-in-zijn-eentje",
     "type": "article",
-    "title": "De reuzebadeend in de haven van Hong Kong zwemt weer in zijn eentje",
+    "title": "De reuzebadeend in de haven van Hongkong zwemt weer in zijn eentje",
     "subtitle": null,
     "published_at": "2023-06-10T23:34:06+02:00",
-    "updated_at": "2023-06-10T23:34:07+02:00",
+    "updated_at": "2023-06-11T08:20:41+02:00",
     "media_id": "tlhxirpar7wq",
     "duration": null,
     "canonical_section": {
@@ -294,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6267484/de-reuzebadeend-in-de-haven-van-hong-kong-zwemt-weer-in-zijn-eentje.html",
+    "url": "/algemeen/6267484/de-reuzebadeend-in-de-haven-van-hongkong-zwemt-weer-in-zijn-eentje.html",
     "open_new_window": false,
     "partner": null
   },
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/tennis/6267502/medisch-wonder-muchova-voelt-zich-winnaar-ondanks-verloren-finale-in-parijs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267501,
+    "slug": "na-boris-johnson-stappen-nog-twee-britse-parlementsleden-op",
+    "type": "article",
+    "title": "Na Boris Johnson stappen nog twee Britse parlementsleden op",
+    "subtitle": null,
+    "published_at": "2023-06-10T20:28:05+02:00",
+    "updated_at": "2023-06-11T06:24:08+02:00",
+    "media_id": "4u0xsoia426e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6267501/na-boris-johnson-stappen-nog-twee-britse-parlementsleden-op.html",
     "open_new_window": false,
     "partner": null
   }
