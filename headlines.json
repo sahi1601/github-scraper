@@ -1,5 +1,74 @@
 [
   {
+    "id": 6267665,
+    "slug": "tijdschema-gp-canada-zo-laat-komen-verstappen-en-de-vries-in-actie",
+    "type": "article",
+    "title": "Tijdschema GP Canada: zo laat komen Verstappen en De Vries in actie",
+    "subtitle": null,
+    "published_at": "2023-06-12T14:49:12+02:00",
+    "updated_at": "2023-06-12T14:53:44+02:00",
+    "media_id": "ksxx55uahxhz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6267665/tijdschema-gp-canada-zo-laat-komen-verstappen-en-de-vries-in-actie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267672,
+    "slug": "nederland-daagt-syrie-voor-hoogste-vn-rechter-vanwege-martelingen",
+    "type": "article",
+    "title": "Nederland daagt Syrië voor hoogste VN-rechter vanwege martelingen",
+    "subtitle": null,
+    "published_at": "2023-06-12T14:48:50+02:00",
+    "updated_at": "2023-06-12T14:53:42+02:00",
+    "media_id": "5z6xplia8fyy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6267672/nederland-daagt-syrie-voor-hoogste-vn-rechter-vanwege-martelingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267668,
+    "slug": "van-aert-stapt-uit-de-tour-de-france-zodra-zijn-vrouw-bevalt-van-tweede-kind",
+    "type": "article",
+    "title": "Van Aert stapt uit de Tour de France zodra zijn vrouw bevalt van tweede kind",
+    "subtitle": null,
+    "published_at": "2023-06-12T14:32:24+02:00",
+    "updated_at": "2023-06-12T14:53:23+02:00",
+    "media_id": "htgx78hax6p3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6267668/van-aert-stapt-uit-de-tour-de-france-zodra-zijn-vrouw-bevalt-van-tweede-kind.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267633,
     "slug": "zo-gaat-het-met-de-kerncentrale-in-zaporizhzhia-na-de-damramp-in-oekraine",
     "type": "article",
@@ -259,7 +328,7 @@
     "title": "Vaker pauze of een tropenrooster helpt bij werken in de hitte",
     "subtitle": null,
     "published_at": "2023-06-12T11:05:39+02:00",
-    "updated_at": "2023-06-12T13:27:51+02:00",
+    "updated_at": "2023-06-12T14:47:01+02:00",
     "media_id": "znlxrbia6mhm",
     "duration": null,
     "canonical_section": {
@@ -328,7 +397,7 @@
     "title": "Italiaanse oud-premier Silvio Berlusconi overleden op 86-jarige leeftijd",
     "subtitle": null,
     "published_at": "2023-06-12T10:41:21+02:00",
-    "updated_at": "2023-06-12T14:26:29+02:00",
+    "updated_at": "2023-06-12T14:36:36+02:00",
     "media_id": "azpxh30a84sy",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/tech/6267625/groot-deel-van-reddit-op-zwart-door-massale-protesten-van-fora.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267626,
-    "slug": "nieuwe-beelden-tonen-teruggevonden-kinderen-in-colombia",
-    "type": "video",
-    "title": "Nieuwe beelden tonen teruggevonden kinderen in Colombia",
-    "subtitle": "Video",
-    "published_at": "2023-06-12T10:35:03+02:00",
-    "updated_at": "2023-06-12T11:02:46+02:00",
-    "media_id": "jbjx8lza6gc3",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6267626/nieuwe-beelden-tonen-teruggevonden-kinderen-in-colombia.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267623,
-    "slug": "bosz-begint-vol-ambitie-als-trainer-bij-psv-wil-oude-tijden-doen-herleven",
-    "type": "article",
-    "title": "Bosz begint vol ambitie als trainer bij PSV: 'Wil oude tijden doen herleven'",
-    "subtitle": null,
-    "published_at": "2023-06-12T10:26:03+02:00",
-    "updated_at": "2023-06-12T11:31:22+02:00",
-    "media_id": "wbhxxluaatqg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6267623/bosz-begint-vol-ambitie-als-trainer-bij-psv-wil-oude-tijden-doen-herleven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267613,
-    "slug": "ben-jij-boer-dan-horen-we-graag-van-jou",
-    "type": "article",
-    "title": "Ben jij boer? Dan horen we graag van jou",
-    "subtitle": "Oproep",
-    "published_at": "2023-06-12T10:08:05+02:00",
-    "updated_at": "2023-06-12T10:08:06+02:00",
-    "media_id": "emgxy5mar4a0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778778,
-      "slug": "stikstof",
-      "type": "default",
-      "name": "Stikstof",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stikstof/6267613/ben-jij-boer-dan-horen-we-graag-van-jou.html",
     "open_new_window": false,
     "partner": null
   }
