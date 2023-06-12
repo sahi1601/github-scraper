@@ -1,13 +1,36 @@
 [
   {
+    "id": 6267723,
+    "slug": "beer-wandelt-oceaan-uit-op-bomvol-strand-in-florida",
+    "type": "video",
+    "title": "Beer wandelt oceaan uit op bomvol strand in Florida",
+    "subtitle": "Video",
+    "published_at": "2023-06-12T19:20:15+02:00",
+    "updated_at": "2023-06-12T19:20:16+02:00",
+    "media_id": "m7nx6d7a7e4t",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6267723/beer-wandelt-oceaan-uit-op-bomvol-strand-in-florida.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267722,
     "slug": "italiaanse-nieuwspresentatoren-schieten-vol-om-dood-berlusconi",
     "type": "video",
     "title": "Italiaanse nieuwspresentatoren schieten vol om dood Berlusconi",
     "subtitle": null,
     "published_at": "2023-06-12T19:10:10+02:00",
-    "updated_at": "2023-06-12T19:11:09+02:00",
-    "media_id": "vtmx7ynaitpt",
+    "updated_at": "2023-06-12T19:15:39+02:00",
+    "media_id": "0w2xg8iac3ri",
     "duration": "0:56",
     "canonical_section": {
       "id": 1772431,
@@ -236,7 +259,7 @@
     "title": "Van Aert en Démare moeten sprintzege aan Girmay laten in Zwitserland",
     "subtitle": null,
     "published_at": "2023-06-12T17:17:20+02:00",
-    "updated_at": "2023-06-12T17:55:28+02:00",
+    "updated_at": "2023-06-12T19:12:19+02:00",
     "media_id": "mljxqxja4c1i",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6267689/nederlander-die-39-jaar-vastzit-in-vs-gaat-in-beroep-in-zaak-over-bnnvara-docu.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267686,
-    "slug": "grootste-bank-in-de-vs-betaalt-slachtoffers-jeffrey-epstein",
-    "type": "article",
-    "title": "Grootste bank in de VS betaalt slachtoffers Jeffrey Epstein",
-    "subtitle": null,
-    "published_at": "2023-06-12T16:04:21+02:00",
-    "updated_at": "2023-06-12T16:27:22+02:00",
-    "media_id": "1jxx0x1ay59p",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6267686/grootste-bank-in-de-vs-betaalt-slachtoffers-jeffrey-epstein.html",
     "open_new_window": false,
     "partner": null
   }
