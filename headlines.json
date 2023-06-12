@@ -1,12 +1,35 @@
 [
   {
-    "id": 6267590,
-    "slug": "weerbericht-weer-snikhete-en-mogelijk-tropische-start-van-de-week",
+    "id": 6267592,
+    "slug": "aantal-operationele-kernkoppen-gestegen-na-jarenlange-daling",
     "type": "article",
-    "title": "Weerbericht: Weer snikhete en mogelijk tropische start van de week",
+    "title": "Aantal operationele kernkoppen gestegen na jarenlange daling",
+    "subtitle": null,
+    "published_at": "2023-06-12T05:45:02+02:00",
+    "updated_at": "2023-06-12T05:45:03+02:00",
+    "media_id": "3c5xakja759s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6267592/aantal-operationele-kernkoppen-gestegen-na-jarenlange-daling.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6267590,
+    "slug": "weerbericht-ook-vandaag-is-de-airco-je-beste-vriend",
+    "type": "article",
+    "title": "Weerbericht: Ook vandaag is de airco je beste vriend",
     "subtitle": null,
     "published_at": "2023-06-12T05:22:59+02:00",
-    "updated_at": "2023-06-12T05:23:01+02:00",
+    "updated_at": "2023-06-12T06:13:53+02:00",
     "media_id": "oizxglgauhuo",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6267590/weerbericht-weer-snikhete-en-mogelijk-tropische-start-van-de-week.html",
+    "url": "/binnenland/6267590/weerbericht-ook-vandaag-is-de-airco-je-beste-vriend.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,12 +139,12 @@
   },
   {
     "id": 6267278,
-    "slug": "tanken-over-de-grens-weer-interessant-door-hogere-accijnzen",
+    "slug": "omrijden-voor-goedkope-benzine-loont-weer-door-hogere-accijns",
     "type": "article",
-    "title": "Tanken over de grens weer interessant door hogere accijnzen",
+    "title": "Omrijden voor goedkope benzine loont weer door hogere accijns",
     "subtitle": null,
     "published_at": "2023-06-12T05:01:03+02:00",
-    "updated_at": "2023-06-12T05:01:05+02:00",
+    "updated_at": "2023-06-12T06:15:01+02:00",
     "media_id": "kepxlfgano51",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6267278/tanken-over-de-grens-weer-interessant-door-hogere-accijnzen.html",
+    "url": "/economie/6267278/omrijden-voor-goedkope-benzine-loont-weer-door-hogere-accijns.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Atoomwaakhond na damramp bezorgd over koelwater Oekraïense kerncentrale",
     "subtitle": null,
     "published_at": "2023-06-11T23:56:49+02:00",
-    "updated_at": "2023-06-12T05:06:45+02:00",
+    "updated_at": "2023-06-12T06:07:55+02:00",
     "media_id": "dmmx3agaqpz3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6267456/almere-city-schrijft-geschiedenis-met-promotie-naar-eredivisie-emmen-degradeert.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267578,
-    "slug": "honderdduizenden-dode-vissen-spoelen-aan-in-vs",
-    "type": "video",
-    "title": "Honderdduizenden dode vissen spoelen aan in VS",
-    "subtitle": "Video",
-    "published_at": "2023-06-11T19:53:01+02:00",
-    "updated_at": "2023-06-11T20:20:08+02:00",
-    "media_id": "6pcxscxajrjx",
-    "duration": "0:24",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6267578/honderdduizenden-dode-vissen-spoelen-aan-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
