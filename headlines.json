@@ -1,5 +1,28 @@
 [
   {
+    "id": 6267776,
+    "slug": "beatles-demo-van-john-lennon-krijgt-officiele-release-dankzij-ai",
+    "type": "article",
+    "title": "Beatles-demo van John Lennon krijgt officiële release dankzij AI",
+    "subtitle": null,
+    "published_at": "2023-06-13T10:26:26+02:00",
+    "updated_at": "2023-06-13T10:26:27+02:00",
+    "media_id": "sypx527aytg9",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6267776/beatles-demo-van-john-lennon-krijgt-officiele-release-dankzij-ai.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267771,
     "slug": "vrouw-in-ecuador-blijkt-tijdens-eigen-begrafenis-nog-te-leven",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6267761,
-    "slug": "zwemmer-in-nood-overleden-in-vinkeveense-plassen",
+    "slug": "zwemmer-in-nood-overleden-in-vinkeveense-plassen-tweede-naar-ziekenhuis",
     "type": "article",
-    "title": "Zwemmer in nood overleden in Vinkeveense Plassen",
+    "title": "Zwemmer in nood overleden in Vinkeveense Plassen, tweede naar ziekenhuis",
     "subtitle": null,
     "published_at": "2023-06-13T09:18:28+02:00",
-    "updated_at": "2023-06-13T09:19:33+02:00",
+    "updated_at": "2023-06-13T10:18:05+02:00",
     "media_id": "yovxgd8a0kvn",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6267761/zwemmer-in-nood-overleden-in-vinkeveense-plassen.html",
+    "url": "/binnenland/6267761/zwemmer-in-nood-overleden-in-vinkeveense-plassen-tweede-naar-ziekenhuis.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Acteur Treat Williams (71) om het leven gekomen bij motorongeluk",
     "subtitle": null,
     "published_at": "2023-06-13T06:29:43+02:00",
-    "updated_at": "2023-06-13T07:28:32+02:00",
+    "updated_at": "2023-06-13T10:24:21+02:00",
     "media_id": "wqjxqi8a4gcx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6267631/we-moeten-zuiniger-omgaan-met-ons-watergebruik-en-dit-is-waarom.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267688,
-    "slug": "minister-van-der-wal-hoopt-op-vertrouwen-van-de-boer-het-is-oke-als-je-stopt",
-    "type": "article",
-    "title": "Minister Van der Wal hoopt op vertrouwen van de boer: 'Het is oké als je stopt'",
-    "subtitle": null,
-    "published_at": "2023-06-13T04:59:28+02:00",
-    "updated_at": "2023-06-13T05:00:47+02:00",
-    "media_id": "et4xl9ea7vp5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6267688/minister-van-der-wal-hoopt-op-vertrouwen-van-de-boer-het-is-oke-als-je-stopt.html",
     "open_new_window": false,
     "partner": null
   }
