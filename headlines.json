@@ -1,12 +1,35 @@
 [
   {
+    "id": 6267757,
+    "slug": "kunststof-presentatrice-jellie-brouwer-59-is-ongeneeslijk-ziek",
+    "type": "article",
+    "title": "Kunststof-presentatrice Jellie Brouwer (59) is ongeneeslijk ziek",
+    "subtitle": null,
+    "published_at": "2023-06-13T08:35:37+02:00",
+    "updated_at": "2023-06-13T08:40:29+02:00",
+    "media_id": "j9qxb7la8vdh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6267757/kunststof-presentatrice-jellie-brouwer-59-is-ongeneeslijk-ziek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267756,
     "slug": "black-panther-acteur-tenoch-huerta-door-ex-beschuldigd-van-aanranding",
     "type": "article",
     "title": "Black Panther-acteur Tenoch Huerta door ex beschuldigd van aanranding",
     "subtitle": null,
     "published_at": "2023-06-13T08:23:34+02:00",
-    "updated_at": "2023-06-13T08:23:35+02:00",
+    "updated_at": "2023-06-13T08:37:52+02:00",
     "media_id": "zk8xf7oa9gt9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6267736/hockeyers-nemen-revanche-voor-zeperd-door-australie-nu-wel-te-verslaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267735,
-    "slug": "brand-legt-500-vierkante-meter-gelders-bos-in-as",
-    "type": "video",
-    "title": "Brand legt 500 vierkante meter Gelders bos in as",
-    "subtitle": "Video",
-    "published_at": "2023-06-12T21:10:00+02:00",
-    "updated_at": "2023-06-12T21:10:57+02:00",
-    "media_id": "xpfx7riaar20",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6267735/brand-legt-500-vierkante-meter-gelders-bos-in-as.html",
     "open_new_window": false,
     "partner": null
   }
