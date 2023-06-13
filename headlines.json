@@ -1,5 +1,28 @@
 [
   {
+    "id": 6267751,
+    "slug": "acteur-treat-williams-71-om-het-leven-gekomen-bij-motorongeluk",
+    "type": "article",
+    "title": "Acteur Treat Williams (71) om het leven gekomen bij motorongeluk",
+    "subtitle": null,
+    "published_at": "2023-06-13T06:29:43+02:00",
+    "updated_at": "2023-06-13T06:29:44+02:00",
+    "media_id": "wqjxqi8a4gcx",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6267751/acteur-treat-williams-71-om-het-leven-gekomen-bij-motorongeluk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267750,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -190,7 +213,7 @@
     "title": "Grote natuurbrand Purmerbos is uit, schade nog onbekend",
     "subtitle": null,
     "published_at": "2023-06-12T23:18:52+02:00",
-    "updated_at": "2023-06-13T05:22:31+02:00",
+    "updated_at": "2023-06-13T06:35:09+02:00",
     "media_id": "f8vxi01atyc4",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6267543/venus-williams-maakt-veel-los-in-rosmalen-hebben-een-legende-gestrikt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267729,
-    "slug": "selectie-almere-city-gehuldigd-na-historische-promotie",
-    "type": "article",
-    "title": "Selectie Almere City gehuldigd na historische promotie",
-    "subtitle": "In beeld",
-    "published_at": "2023-06-12T19:49:13+02:00",
-    "updated_at": "2023-06-12T21:59:00+02:00",
-    "media_id": "01txou4a664a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6267729/selectie-almere-city-gehuldigd-na-historische-promotie.html",
     "open_new_window": false,
     "partner": null
   }
