@@ -1,12 +1,58 @@
 [
   {
+    "id": 6268014,
+    "slug": "kinderbijslag-komende-kwartalen-een-beetje-lager",
+    "type": "article",
+    "title": "Kinderbijslag komende kwartalen een beetje lager",
+    "subtitle": null,
+    "published_at": "2023-06-14T18:55:32+02:00",
+    "updated_at": "2023-06-14T18:55:34+02:00",
+    "media_id": "ogqxkvoa7xzo",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6268014/kinderbijslag-komende-kwartalen-een-beetje-lager.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268015,
+    "slug": "grootste-vogelgriepepidemie-sinds-2003-effectieve-bestrijding-ervan-in-gevaar",
+    "type": "article",
+    "title": "Grootste vogelgriepepidemie sinds 2003, effectieve bestrijding ervan in gevaar",
+    "subtitle": null,
+    "published_at": "2023-06-14T18:47:10+02:00",
+    "updated_at": "2023-06-14T19:02:22+02:00",
+    "media_id": "rjvxzuiaenwv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6268015/grootste-vogelgriepepidemie-sinds-2003-effectieve-bestrijding-ervan-in-gevaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268009,
     "slug": "zo-nam-italie-afscheid-van-oud-premier-berlusconi",
     "type": "video",
     "title": "Zo nam Italië afscheid van oud-premier Berlusconi",
     "subtitle": "Video",
     "published_at": "2023-06-14T18:33:36+02:00",
-    "updated_at": "2023-06-14T18:33:37+02:00",
+    "updated_at": "2023-06-14T18:36:00+02:00",
     "media_id": "a4yxlj3a966l",
     "duration": "0:45",
     "canonical_section": {
@@ -24,12 +70,12 @@
   },
   {
     "id": 6268008,
-    "slug": "eerste-kamer-voorzitter-bruijn-door-zijn-ambtenaren-beschuldigd-van-wangedrag",
+    "slug": "eerste-kamer-voorzittter-bruijn-door-meerdere-medewerkers-beschuldigd-van-wangedrag",
     "type": "article",
-    "title": "Eerste Kamer-voorzitter Bruijn door zijn ambtenaren beschuldigd van wangedrag",
+    "title": "Eerste Kamer-voorzittter Bruijn door meerdere medewerkers beschuldigd van wangedrag",
     "subtitle": null,
     "published_at": "2023-06-14T18:24:47+02:00",
-    "updated_at": "2023-06-14T18:34:12+02:00",
+    "updated_at": "2023-06-14T18:51:36+02:00",
     "media_id": "u7kxeoyavscw",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6268008/eerste-kamer-voorzitter-bruijn-door-zijn-ambtenaren-beschuldigd-van-wangedrag.html",
+    "url": "/politiek/6268008/eerste-kamer-voorzittter-bruijn-door-meerdere-medewerkers-beschuldigd-van-wangedrag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Italië neemt afscheid van Silvio Berlusconi tijdens staatsbegrafenis",
     "subtitle": "In beeld",
     "published_at": "2023-06-14T18:20:45+02:00",
-    "updated_at": "2023-06-14T18:20:47+02:00",
+    "updated_at": "2023-06-14T18:40:07+02:00",
     "media_id": "vjtxpe8apjz2",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Voorstanders Europese natuurwet hekelen 'mythes', stemming geen gelopen race",
     "subtitle": null,
     "published_at": "2023-06-14T17:13:01+02:00",
-    "updated_at": "2023-06-14T17:20:04+02:00",
+    "updated_at": "2023-06-14T18:38:36+02:00",
     "media_id": "jx6x18oaqo8a",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "10 hectare aan bosbrand, maar nauwelijks schade: wat is 'pluisbrand'?",
     "subtitle": "Explainer",
     "published_at": "2023-06-14T17:04:22+02:00",
-    "updated_at": "2023-06-14T17:04:24+02:00",
+    "updated_at": "2023-06-14T18:52:41+02:00",
     "media_id": "769xamdaaviq",
     "duration": "1:59",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6267987/groenewegen-toont-tour-vorm-met-ritzege-in-slovenie-jakobsen-tweede-in-belgie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267985,
-    "slug": "piek-in-graspollenseizoen-leidt-in-een-week-tot-verdubbeling-van-huisartsbezoek",
-    "type": "article",
-    "title": "Piek in graspollenseizoen leidt in één week tot verdubbeling van huisartsbezoek",
-    "subtitle": null,
-    "published_at": "2023-06-14T16:27:14+02:00",
-    "updated_at": "2023-06-14T17:22:06+02:00",
-    "media_id": "csyx9i5ayye9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6267985/piek-in-graspollenseizoen-leidt-in-een-week-tot-verdubbeling-van-huisartsbezoek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267981,
-    "slug": "jong-oranje-beleeft-met-gelijkspel-tegen-japan-matige-generale-repetitie-voor-ek",
-    "type": "article",
-    "title": "Jong Oranje beleeft met gelijkspel tegen Japan matige generale repetitie voor EK",
-    "subtitle": null,
-    "published_at": "2023-06-14T16:25:26+02:00",
-    "updated_at": "2023-06-14T18:06:53+02:00",
-    "media_id": "xarxma0aki6t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6267981/jong-oranje-beleeft-met-gelijkspel-tegen-japan-matige-generale-repetitie-voor-ek.html",
     "open_new_window": false,
     "partner": null
   }
