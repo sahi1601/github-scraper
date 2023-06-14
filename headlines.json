@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268022,
+    "slug": "wk-vrouwen-na-akkoord-ebu-en-fifa-in-bijna-heel-europa-te-zien",
+    "type": "article",
+    "title": "WK vrouwen na akkoord EBU en FIFA in bijna heel Europa te zien",
+    "subtitle": null,
+    "published_at": "2023-06-14T20:20:38+02:00",
+    "updated_at": "2023-06-14T20:22:44+02:00",
+    "media_id": "4iixrjnatj4e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6268022/wk-vrouwen-na-akkoord-ebu-en-fifa-in-bijna-heel-europa-te-zien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6267998,
     "slug": "de-gasprijs-schiet-ineens-weer-omhoog-wat-is-er-aan-de-hand",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Oranje maakt zich klaar voor halve finale Nations League tegen Kroatië",
     "subtitle": "Liveblog",
     "published_at": "2023-06-14T19:45:16+02:00",
-    "updated_at": "2023-06-14T20:16:59+02:00",
+    "updated_at": "2023-06-14T20:21:11+02:00",
     "media_id": "lv2xxfza4u19",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Oranje met Geertruida, Wieffer en Koopmeiners in halve finale tegen Kroatië",
     "subtitle": null,
     "published_at": "2023-06-14T19:31:26+02:00",
-    "updated_at": "2023-06-14T20:07:47+02:00",
+    "updated_at": "2023-06-14T20:20:47+02:00",
     "media_id": "3m2xox8anhgu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6267986/10-hectare-aan-bosbrand-maar-nauwelijks-schade-wat-is-pluisbrand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6267994,
-    "slug": "waarom-18-geen-logische-grens-voor-volwassenheid-is",
-    "type": "video",
-    "title": "Waarom 18 geen logische grens voor volwassenheid is",
-    "subtitle": "Video",
-    "published_at": "2023-06-14T17:02:04+02:00",
-    "updated_at": "2023-06-14T17:28:16+02:00",
-    "media_id": "a53xoooayo5o",
-    "duration": "5:55",
-    "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
-      "type": "default",
-      "name": "Tech & Wetenschap",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech-wetenschap/6267994/waarom-18-geen-logische-grens-voor-volwassenheid-is.html",
     "open_new_window": false,
     "partner": null
   }
