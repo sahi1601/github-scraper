@@ -1,12 +1,35 @@
 [
   {
+    "id": 6268175,
+    "slug": "rookwolken-hangen-boven-brandende-appartementen-in-apeldoorn",
+    "type": "video",
+    "title": "Rookwolken hangen boven brandende appartementen in Apeldoorn",
+    "subtitle": "Video",
+    "published_at": "2023-06-15T19:23:54+02:00",
+    "updated_at": "2023-06-15T19:23:56+02:00",
+    "media_id": "yfwxddtazvsf",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6268175/rookwolken-hangen-boven-brandende-appartementen-in-apeldoorn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268174,
     "slug": "danjuma-keert-na-162-premier-league-minuten-voor-spurs-terug-bij-villarreal",
     "type": "article",
     "title": "Danjuma keert na 162 Premier League-minuten voor Spurs terug bij Villarreal",
     "subtitle": null,
     "published_at": "2023-06-15T19:21:12+02:00",
-    "updated_at": "2023-06-15T19:21:14+02:00",
+    "updated_at": "2023-06-15T19:28:10+02:00",
     "media_id": "bcvxpovao7l1",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "KLM Groep wil overlast rond Schiphol verminderen met nieuwe vloot",
     "subtitle": null,
     "published_at": "2023-06-15T19:07:40+02:00",
-    "updated_at": "2023-06-15T19:07:42+02:00",
+    "updated_at": "2023-06-15T19:37:11+02:00",
     "media_id": "oqaxy46au5df",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Vijfjarig kind in Rome omgekomen bij botsing met YouTubers in Lamborghini",
     "subtitle": null,
     "published_at": "2023-06-15T19:07:36+02:00",
-    "updated_at": "2023-06-15T19:16:53+02:00",
+    "updated_at": "2023-06-15T19:23:24+02:00",
     "media_id": "ohvxcbraaawz",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Internationale boksbond vecht besluit IOC om olympische status in te trekken aan",
     "subtitle": null,
     "published_at": "2023-06-15T19:05:49+02:00",
-    "updated_at": "2023-06-15T19:05:50+02:00",
+    "updated_at": "2023-06-15T19:45:21+02:00",
     "media_id": "5aix3usas711",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6268173,
-    "slug": "strijd-bij-autofabriek-nedcar-is-voorbij-nu-vakbondsleden-akkoord-gaan",
+    "slug": "strijd-bij-autofabriek-nedcar-is-voorbij-nu-vakbondsleden-instemmen-met-voorstel",
     "type": "article",
-    "title": "Strijd bij autofabriek Nedcar is voorbij nu vakbondsleden akkoord gaan",
+    "title": "Strijd bij autofabriek Nedcar is voorbij nu vakbondsleden instemmen met voorstel",
     "subtitle": null,
     "published_at": "2023-06-15T19:02:02+02:00",
-    "updated_at": "2023-06-15T19:04:47+02:00",
+    "updated_at": "2023-06-15T19:39:09+02:00",
     "media_id": "51txu9fardbg",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6268173/strijd-bij-autofabriek-nedcar-is-voorbij-nu-vakbondsleden-akkoord-gaan.html",
+    "url": "/economie/6268173/strijd-bij-autofabriek-nedcar-is-voorbij-nu-vakbondsleden-instemmen-met-voorstel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6268098/stelling-voor-racisme-veroordeelde-agenten-mogen-niet-meer-bij-de-politie-werken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268141,
-    "slug": "azarkan-van-feyenoord-naar-utrecht-na-twee-goede-jaren-als-excelsior-huurling",
-    "type": "article",
-    "title": "Azarkan van Feyenoord naar Utrecht na twee goede jaren als Excelsior-huurling",
-    "subtitle": null,
-    "published_at": "2023-06-15T16:58:54+02:00",
-    "updated_at": "2023-06-15T17:22:28+02:00",
-    "media_id": "5orxyyzaj4lt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6268141/azarkan-van-feyenoord-naar-utrecht-na-twee-goede-jaren-als-excelsior-huurling.html",
     "open_new_window": false,
     "partner": null
   }
