@@ -1,12 +1,35 @@
 [
   {
+    "id": 6268049,
+    "slug": "mondkapjesplicht-en-avondklok-tweede-kamer-debatteert-over-corona-aanpak",
+    "type": "article",
+    "title": "Mondkapjesplicht en avondklok: Tweede Kamer debatteert over corona-aanpak",
+    "subtitle": null,
+    "published_at": "2023-06-15T07:14:31+02:00",
+    "updated_at": "2023-06-15T07:18:57+02:00",
+    "media_id": "2zmxshday7p3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6268049/mondkapjesplicht-en-avondklok-tweede-kamer-debatteert-over-corona-aanpak.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268046,
     "slug": "partijen-zetten-cruciale-stappen-tijdens-nachtelijk-overleg-over-landbouwakkoord",
     "type": "article",
     "title": "Partijen zetten 'cruciale stappen' tijdens nachtelijk overleg over landbouwakkoord",
     "subtitle": null,
     "published_at": "2023-06-15T07:09:34+02:00",
-    "updated_at": "2023-06-15T07:09:35+02:00",
+    "updated_at": "2023-06-15T07:17:48+02:00",
     "media_id": "4yqx7f1a4kjv",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Vooruitblik F1: 'Pérez zit als teamgenoot van Verstappen in lastige positie'",
     "subtitle": "NU+",
     "published_at": "2023-06-15T07:06:45+02:00",
-    "updated_at": "2023-06-15T07:11:08+02:00",
+    "updated_at": "2023-06-15T07:15:28+02:00",
     "media_id": "iihxwpxaqluh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6268031/mancini-denkt-dat-succes-van-italiaanse-clubs-zal-doorklinken-in-nations-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268032,
-    "slug": "nederlander-breekt-record-en-maakt-61-parachutesprongen-op-een-dag",
-    "type": "video",
-    "title": "Nederlander breekt record en maakt 61 parachutesprongen op één dag",
-    "subtitle": "Video",
-    "published_at": "2023-06-14T22:41:53+02:00",
-    "updated_at": "2023-06-14T22:41:54+02:00",
-    "media_id": "yspxk7aaubc7",
-    "duration": "0:55",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6268032/nederlander-breekt-record-en-maakt-61-parachutesprongen-op-een-dag.html",
     "open_new_window": false,
     "partner": null
   }
