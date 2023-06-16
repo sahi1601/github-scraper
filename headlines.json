@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268218,
+    "slug": "ronde-van-zwitserland-schrapt-beklimmingen-om-neergestorte-rotsmassa",
+    "type": "article",
+    "title": "Ronde van Zwitserland schrapt beklimmingen om neergestorte rotsmassa",
+    "subtitle": null,
+    "published_at": "2023-06-16T08:18:11+02:00",
+    "updated_at": "2023-06-16T08:18:12+02:00",
+    "media_id": "u8vxx0dazvp0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6268218/ronde-van-zwitserland-schrapt-beklimmingen-om-neergestorte-rotsmassa.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268216,
     "slug": "omwonenden-tata-steel-opnieuw-naar-de-rechter-voor-schonere-lucht",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6268215,
-    "slug": "ronnie-flex-zat-vorig-jaar-in-een-afkickkamp-vanwege-wietverslaving",
+    "slug": "ronnie-flex-zat-in-een-afkickkamp-vanwege-wietverslaving",
     "type": "article",
-    "title": "Ronnie Flex zat vorig jaar in een afkickkamp vanwege wietverslaving",
+    "title": "Ronnie Flex zat in een afkickkamp vanwege wietverslaving",
     "subtitle": null,
     "published_at": "2023-06-16T07:49:33+02:00",
-    "updated_at": "2023-06-16T07:49:35+02:00",
+    "updated_at": "2023-06-16T08:25:09+02:00",
     "media_id": "0ppxfk3a2xh6",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6268215/ronnie-flex-zat-vorig-jaar-in-een-afkickkamp-vanwege-wietverslaving.html",
+    "url": "/achterklap/6268215/ronnie-flex-zat-in-een-afkickkamp-vanwege-wietverslaving.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Lift en roltrap maanden defect op stations door vandalisme: ProRail neemt actie",
     "subtitle": null,
     "published_at": "2023-06-16T07:32:08+02:00",
-    "updated_at": "2023-06-16T08:11:32+02:00",
+    "updated_at": "2023-06-16T08:19:45+02:00",
     "media_id": "2toxaf0a23dy",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6268135/aftappen-van-de-zon-hoeveelheid-stroom-uit-zonlicht-bijna-met-helft-toegenomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268197,
-    "slug": "analyse-ouderwets-formule-1-fenomeen-past-niet-bij-wat-de-sport-wil-zijn",
-    "type": "article",
-    "title": "Analyse: Ouderwets Formule 1-fenomeen past niet bij wat de sport wil zijn",
-    "subtitle": "NU+",
-    "published_at": "2023-06-15T23:24:01+02:00",
-    "updated_at": "2023-06-15T23:25:47+02:00",
-    "media_id": "810xsrwa5zkw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6268197/analyse-ouderwets-formule-1-fenomeen-past-niet-bij-wat-de-sport-wil-zijn.html",
     "open_new_window": false,
     "partner": null
   }
