@@ -1,12 +1,35 @@
 [
   {
+    "id": 6268274,
+    "slug": "nog-steeds-gesteggel-tussen-gemeente-en-coa-over-asielhotel-tubbergen",
+    "type": "article",
+    "title": "Nog steeds gesteggel tussen gemeente en COA over asielhotel Tubbergen",
+    "subtitle": null,
+    "published_at": "2023-06-16T13:08:38+02:00",
+    "updated_at": "2023-06-16T13:08:40+02:00",
+    "media_id": "p13xz3jacxqk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6268274/nog-steeds-gesteggel-tussen-gemeente-en-coa-over-asielhotel-tubbergen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268264,
     "slug": "wielrenner-gino-mader-26-overleden-na-valpartij-in-ronde-van-zwitserland",
     "type": "article",
     "title": "Wielrenner Gino Mäder (26) overleden na valpartij in Ronde van Zwitserland",
     "subtitle": null,
     "published_at": "2023-06-16T12:30:22+02:00",
-    "updated_at": "2023-06-16T12:56:54+02:00",
+    "updated_at": "2023-06-16T13:15:30+02:00",
     "media_id": "obsxmjga7g8j",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6268224/archeologen-vinden-drieduizend-jaar-oude-mummie-in-peru.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268221,
-    "slug": "paus-franciscus-verlaat-negen-dagen-na-buikoperatie-het-ziekenhuis",
-    "type": "article",
-    "title": "Paus Franciscus verlaat negen dagen na buikoperatie het ziekenhuis",
-    "subtitle": null,
-    "published_at": "2023-06-16T08:58:44+02:00",
-    "updated_at": "2023-06-16T12:28:58+02:00",
-    "media_id": "pckxq38anxeq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6268221/paus-franciscus-verlaat-negen-dagen-na-buikoperatie-het-ziekenhuis.html",
     "open_new_window": false,
     "partner": null
   }
