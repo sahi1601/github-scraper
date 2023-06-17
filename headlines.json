@@ -1,12 +1,35 @@
 [
   {
+    "id": 6268475,
+    "slug": "griekspoor-nog-een-overwinning-verwijderd-van-toernooizege-in-rosmalen",
+    "type": "article",
+    "title": "Griekspoor nog één overwinning verwijderd van toernooizege in Rosmalen",
+    "subtitle": null,
+    "published_at": "2023-06-17T18:27:16+02:00",
+    "updated_at": "2023-06-17T18:39:56+02:00",
+    "media_id": "ozyxbk1azj2d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6268475/griekspoor-nog-een-overwinning-verwijderd-van-toernooizege-in-rosmalen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268473,
     "slug": "servische-brug-stort-in-door-hevige-regenval",
     "type": "video",
     "title": "Servische brug stort in door hevige regenval",
     "subtitle": "Video",
     "published_at": "2023-06-17T18:21:47+02:00",
-    "updated_at": "2023-06-17T18:21:48+02:00",
+    "updated_at": "2023-06-17T18:24:44+02:00",
     "media_id": "afvx962a1h3a",
     "duration": "0:35",
     "canonical_section": {
@@ -24,13 +47,13 @@
   },
   {
     "id": 6268471,
-    "slug": "coureurs-staan-voor-natte-derde-training-in-montreal",
+    "slug": "coureurs-zoeken-naar-grip-in-kletsnatte-training-montreal",
     "type": "article",
-    "title": "Coureurs staan voor natte derde training in Montreal",
+    "title": "Coureurs zoeken naar grip in kletsnatte training Montreal",
     "subtitle": "Liveblog",
     "published_at": "2023-06-17T18:17:58+02:00",
-    "updated_at": "2023-06-17T18:17:59+02:00",
-    "media_id": "ykpx7w5abudm",
+    "updated_at": "2023-06-17T18:43:21+02:00",
+    "media_id": "xmtx8njab23l",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6268471/coureurs-staan-voor-natte-derde-training-in-montreal.html",
+    "url": "/formule-1/6268471/coureurs-zoeken-naar-grip-in-kletsnatte-training-montreal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6268441/negende-zomerse-dag-op-rij-betekent-weer-een-record-langste-reeks-ooit-in-juni.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268439,
-    "slug": "grote-staking-dreigt-bij-pakketbezorger-ups-in-verenigde-staten",
-    "type": "article",
-    "title": "Grote staking dreigt bij pakketbezorger UPS in Verenigde Staten",
-    "subtitle": null,
-    "published_at": "2023-06-17T13:14:25+02:00",
-    "updated_at": "2023-06-17T14:49:27+02:00",
-    "media_id": "21ixvfiako2x",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6268439/grote-staking-dreigt-bij-pakketbezorger-ups-in-verenigde-staten.html",
     "open_new_window": false,
     "partner": null
   }
