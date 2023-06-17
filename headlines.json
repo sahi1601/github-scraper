@@ -1,12 +1,58 @@
 [
   {
-    "id": 6268413,
-    "slug": "zwangere-yvonne-coldeweijer-vreet-alles-en-bedankt-voor-felicitaties",
+    "id": 6268400,
+    "slug": "stelling-vaste-energiecontracten-zijn-niet-meer-van-deze-tijd",
     "type": "article",
-    "title": "Zwangere Yvonne Coldeweijer 'vreet alles' en bedankt voor felicitaties",
+    "title": "Stelling: Vaste energiecontracten zijn niet meer van deze tijd",
+    "subtitle": null,
+    "published_at": "2023-06-17T11:14:50+02:00",
+    "updated_at": "2023-06-17T11:22:52+02:00",
+    "media_id": "icpxj5aa0lxx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6268400/stelling-vaste-energiecontracten-zijn-niet-meer-van-deze-tijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268336,
+    "slug": "dit-was-het-positieve-en-vrolijke-nieuws-van-deze-week",
+    "type": "article",
+    "title": "Dit was het positieve en vrolijke nieuws van deze week",
+    "subtitle": "Overzicht",
+    "published_at": "2023-06-17T11:11:04+02:00",
+    "updated_at": "2023-06-17T11:11:40+02:00",
+    "media_id": "x0ox1p5adypp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779220,
+      "slug": "goed-nieuws",
+      "type": "default",
+      "name": "Goed nieuws",
+      "style": "nuoverig",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/goed-nieuws/6268336/dit-was-het-positieve-en-vrolijke-nieuws-van-deze-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268413,
+    "slug": "zwangere-yvonne-coldeweijer-vreet-alles-en-bedankt-volgers-voor-felicitaties",
+    "type": "article",
+    "title": "Zwangere Yvonne Coldeweijer 'vreet alles' en bedankt volgers voor felicitaties",
     "subtitle": null,
     "published_at": "2023-06-17T10:17:17+02:00",
-    "updated_at": "2023-06-17T10:17:24+02:00",
+    "updated_at": "2023-06-17T11:16:06+02:00",
     "media_id": "k3nx0voag8ph",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6268413/zwangere-yvonne-coldeweijer-vreet-alles-en-bedankt-voor-felicitaties.html",
+    "url": "/achterklap/6268413/zwangere-yvonne-coldeweijer-vreet-alles-en-bedankt-volgers-voor-felicitaties.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6268383/weerbericht-zomers-warm-met-volop-zon-in-de-middag-lichte-sluierbewolking.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268295,
-    "slug": "wagner-baas-heeft-lak-aan-nieuwe-russische-eis-dit-speelt-er",
-    "type": "video",
-    "title": "Wagner-baas heeft lak aan nieuwe Russische eis: dit speelt er",
-    "subtitle": "Explainer",
-    "published_at": "2023-06-17T05:34:10+02:00",
-    "updated_at": "2023-06-17T07:46:20+02:00",
-    "media_id": "lc9xl4ua9o06",
-    "duration": "2:28",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6268295/wagner-baas-heeft-lak-aan-nieuwe-russische-eis-dit-speelt-er.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268382,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-06-17T05:24:03+02:00",
-    "updated_at": "2023-06-17T05:24:05+02:00",
-    "media_id": "pynxtntartmr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6268382/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
