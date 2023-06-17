@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268386,
+    "slug": "eerste-persoon-die-diagnose-autisme-kreeg-overleden-op-89-jarige-leeftijd",
+    "type": "article",
+    "title": "Eerste persoon die diagnose autisme kreeg overleden op 89-jarige leeftijd",
+    "subtitle": null,
+    "published_at": "2023-06-17T07:22:36+02:00",
+    "updated_at": "2023-06-17T07:22:38+02:00",
+    "media_id": "94ux1k1anc3w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6268386/eerste-persoon-die-diagnose-autisme-kreeg-overleden-op-89-jarige-leeftijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268385,
     "slug": "drukte-op-spoor-amsterdam-verwacht-door-concerten-beyonce-en-onderhoud",
     "type": "article",
@@ -29,19 +52,19 @@
     "title": "Overblijfselen nieuwe dinosaurussoort ontdekt in Chili",
     "subtitle": null,
     "published_at": "2023-06-17T06:44:43+02:00",
-    "updated_at": "2023-06-17T07:02:57+02:00",
+    "updated_at": "2023-06-17T07:12:28+02:00",
     "media_id": "az1xwcbakn0k",
     "duration": null,
     "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
+      "id": 1779219,
+      "slug": "tech-wetenschap",
       "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
+      "name": "Tech & Wetenschap",
+      "style": "nutech",
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6268384/overblijfselen-nieuwe-dinosaurussoort-ontdekt-in-chili.html",
+    "url": "/tech-wetenschap/6268384/overblijfselen-nieuwe-dinosaurussoort-ontdekt-in-chili.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6268370/grammy-awards-niet-voor-muziek-die-door-kunstmatige-intelligentie-gemaakt-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268369,
-    "slug": "griekspoor-ziet-kansen-op-gras-run-van-tim-vorig-jaar-heeft-mijn-ogen-geopend",
-    "type": "article",
-    "title": "Griekspoor ziet kansen op gras: 'Run van Tim vorig jaar heeft mijn ogen geopend'",
-    "subtitle": null,
-    "published_at": "2023-06-16T21:52:49+02:00",
-    "updated_at": "2023-06-16T22:05:18+02:00",
-    "media_id": "c4mxeq6a7tsx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6268369/griekspoor-ziet-kansen-op-gras-run-van-tim-vorig-jaar-heeft-mijn-ogen-geopend.html",
     "open_new_window": false,
     "partner": null
   }
