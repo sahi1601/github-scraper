@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268539,
+    "slug": "tientallen-naakte-fietsers-protesteren-in-brussel",
+    "type": "video",
+    "title": "Tientallen naakte fietsers protesteren in Brussel",
+    "subtitle": "Video",
+    "published_at": "2023-06-18T12:49:11+02:00",
+    "updated_at": "2023-06-18T12:49:55+02:00",
+    "media_id": "l9pxruzanci2",
+    "duration": "0:52",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6268539/tientallen-naakte-fietsers-protesteren-in-brussel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268537,
     "slug": "bekijk-de-startopstelling-voor-de-grand-prix-van-canada",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Lezers over droogte: 'Douchen met een emmer is een goed idee'",
     "subtitle": null,
     "published_at": "2023-06-18T12:19:20+02:00",
-    "updated_at": "2023-06-18T12:19:21+02:00",
+    "updated_at": "2023-06-18T12:50:36+02:00",
     "media_id": "rmwxewbaa0h2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6268514/na-curacao-loopt-ook-suriname-deelname-aan-hoofdtoernooi-gold-cup-mis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268513,
-    "slug": "burna-boy-verdrietig-dat-concert-gelredome-niet-doorging-omdat-hij-er-niet-was",
-    "type": "article",
-    "title": "Burna Boy 'verdrietig' dat concert Gelredome niet doorging omdat hij er niet was",
-    "subtitle": null,
-    "published_at": "2023-06-18T08:13:07+02:00",
-    "updated_at": "2023-06-18T11:58:53+02:00",
-    "media_id": "hh4xhdva2ps1",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6268513/burna-boy-verdrietig-dat-concert-gelredome-niet-doorging-omdat-hij-er-niet-was.html",
     "open_new_window": false,
     "partner": null
   }
