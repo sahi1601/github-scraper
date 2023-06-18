@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268581,
+    "slug": "griekspoor-verovert-titel-in-rosmalen-in-zinderende-finale",
+    "type": "article",
+    "title": "Griekspoor verovert titel in Rosmalen in zinderende finale",
+    "subtitle": null,
+    "published_at": "2023-06-18T20:31:35+02:00",
+    "updated_at": "2023-06-18T20:32:08+02:00",
+    "media_id": "x6cx0w1ajb94",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6268581/griekspoor-verovert-titel-in-rosmalen-in-zinderende-finale.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268586,
     "slug": "huybrechts-en-van-den-bergh-blijven-zonder-titel-met-belgie-na-rumoerig-toernooi",
     "type": "article",
@@ -139,12 +162,12 @@
   },
   {
     "id": 6268576,
-    "slug": "verstappen-leidt-in-canada-crash-russell-veroorzaakt-safetycar",
+    "slug": "verstappen-rijdt-na-safetycar-direct-weg-van-concurrentie-in-canada",
     "type": "article",
-    "title": "Verstappen leidt in Canada, crash Russell veroorzaakt safetycar",
+    "title": "Verstappen rijdt na safetycar direct weg van concurrentie in Canada",
     "subtitle": "Liveblog",
     "published_at": "2023-06-18T19:08:19+02:00",
-    "updated_at": "2023-06-18T20:20:11+02:00",
+    "updated_at": "2023-06-18T20:30:09+02:00",
     "media_id": "r1axvota185c",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6268576/verstappen-leidt-in-canada-crash-russell-veroorzaakt-safetycar.html",
+    "url": "/formule-1/6268576/verstappen-rijdt-na-safetycar-direct-weg-van-concurrentie-in-canada.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6268563/zwak-oranje-verliest-troostfinale-van-italie-en-eindigt-nations-league-in-mineur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268562,
-    "slug": "vlammen-slaan-uit-dak-bij-grote-woningbrand-arnhem",
-    "type": "video",
-    "title": "Vlammen slaan uit dak bij grote woningbrand Arnhem",
-    "subtitle": "Video",
-    "published_at": "2023-06-18T16:41:31+02:00",
-    "updated_at": "2023-06-18T16:45:30+02:00",
-    "media_id": "of1xcm7a6z9w",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6268562/vlammen-slaan-uit-dak-bij-grote-woningbrand-arnhem.html",
     "open_new_window": false,
     "partner": null
   }
