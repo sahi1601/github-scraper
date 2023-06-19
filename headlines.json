@@ -1,35 +1,58 @@
 [
   {
-    "id": 6268706,
-    "slug": "eerherstel-voor-schrijver-en-verzetsheld-anton-de-kom-excuses-aan-nabestaanden",
+    "id": 6268704,
+    "slug": "shell-en-eneco-leveren-eerste-stroom-van-nieuw-windpark-op-zee",
     "type": "article",
-    "title": "Eerherstel voor schrijver en verzetsheld Anton de Kom, excuses aan nabestaanden",
+    "title": "Shell en Eneco leveren eerste stroom van nieuw windpark op zee",
+    "subtitle": null,
+    "published_at": "2023-06-19T16:14:36+02:00",
+    "updated_at": "2023-06-19T16:14:38+02:00",
+    "media_id": "v5jxairag96a",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6268704/shell-en-eneco-leveren-eerste-stroom-van-nieuw-windpark-op-zee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268706,
+    "slug": "eerherstel-voor-schrijver-en-verzetsheld-anton-de-kom-excuses-aan-familie",
+    "type": "article",
+    "title": "Eerherstel voor schrijver en verzetsheld Anton de Kom, excuses aan familie",
     "subtitle": null,
     "published_at": "2023-06-19T16:09:02+02:00",
-    "updated_at": "2023-06-19T16:09:16+02:00",
+    "updated_at": "2023-06-19T16:18:57+02:00",
     "media_id": "6ovxmo4ah1s6",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 1771435,
+      "slug": "binnenland",
       "type": "default",
-      "name": "Algemeen",
+      "name": "Binnenland",
       "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6268706/eerherstel-voor-schrijver-en-verzetsheld-anton-de-kom-excuses-aan-nabestaanden.html",
+    "url": "/binnenland/6268706/eerherstel-voor-schrijver-en-verzetsheld-anton-de-kom-excuses-aan-familie.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6268702,
-    "slug": "minister-helder-inkoop-van-mondkapjes-tijdens-coronacrisis-was-puinhoop",
+    "slug": "zorgminister-helder-inkoop-van-mondkapjes-tijdens-coronacrisis-was-puinhoop",
     "type": "article",
-    "title": "Minister Helder: inkoop van mondkapjes tijdens coronacrisis was puinhoop",
+    "title": "Zorgminister Helder: inkoop van mondkapjes tijdens coronacrisis was puinhoop",
     "subtitle": null,
     "published_at": "2023-06-19T16:07:06+02:00",
-    "updated_at": "2023-06-19T16:09:14+02:00",
+    "updated_at": "2023-06-19T16:14:45+02:00",
     "media_id": "1npx4o5agqpy",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6268702/minister-helder-inkoop-van-mondkapjes-tijdens-coronacrisis-was-puinhoop.html",
+    "url": "/politiek/6268702/zorgminister-helder-inkoop-van-mondkapjes-tijdens-coronacrisis-was-puinhoop.html",
     "open_new_window": false,
     "partner": null
   },
@@ -162,12 +185,12 @@
   },
   {
     "id": 6268690,
-    "slug": "zitting-in-marengo-proces-over-verdediging-ridouan-taghi-levert-niets-op",
+    "slug": "zitting-over-wie-ridouan-taghi-moet-verdedigen-in-marengo-proces-levert-niets-op",
     "type": "article",
-    "title": "Zitting in Marengo-proces over verdediging Ridouan Taghi levert niets op",
+    "title": "Zitting over wie Ridouan Taghi moet verdedigen in Marengo-proces levert niets op",
     "subtitle": null,
     "published_at": "2023-06-19T15:34:22+02:00",
-    "updated_at": "2023-06-19T15:41:26+02:00",
+    "updated_at": "2023-06-19T16:17:54+02:00",
     "media_id": "vslxwk6a6jrg",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/marengo-proces/6268690/zitting-in-marengo-proces-over-verdediging-ridouan-taghi-levert-niets-op.html",
+    "url": "/marengo-proces/6268690/zitting-over-wie-ridouan-taghi-moet-verdedigen-in-marengo-proces-levert-niets-op.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6268674/morrende-clubs-staken-strijd-oranje-begint-vrijwel-compleet-aan-wk-voorbereiding.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268673,
-    "slug": "vier-van-acht-huizen-na-brand-arnhem-gesloopt-andere-volgen-mogelijk-nog",
-    "type": "article",
-    "title": "Vier van acht huizen na brand Arnhem gesloopt, andere volgen mogelijk nog",
-    "subtitle": null,
-    "published_at": "2023-06-19T13:31:27+02:00",
-    "updated_at": "2023-06-19T13:38:48+02:00",
-    "media_id": "heqxioraiuzo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6268673/vier-van-acht-huizen-na-brand-arnhem-gesloopt-andere-volgen-mogelijk-nog.html",
     "open_new_window": false,
     "partner": null
   }
