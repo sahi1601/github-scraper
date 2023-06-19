@@ -1,5 +1,51 @@
 [
   {
+    "id": 6268605,
+    "slug": "griekspoor-bekroont-opmars-met-nieuwe-status-maar-ik-heb-grotere-doelen",
+    "type": "article",
+    "title": "Griekspoor bekroont opmars met nieuwe status: 'Maar ik heb grotere doelen'",
+    "subtitle": null,
+    "published_at": "2023-06-19T07:20:39+02:00",
+    "updated_at": "2023-06-19T07:20:40+02:00",
+    "media_id": "bvzxxshau2tx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6268605/griekspoor-bekroont-opmars-met-nieuwe-status-maar-ik-heb-grotere-doelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268618,
+    "slug": "ongekende-prijzenregen-voor-rodri-weet-niet-waar-ik-de-kracht-vandaan-haalde",
+    "type": "article",
+    "title": "Ongekende prijzenregen voor Rodri: 'Weet niet waar ik de kracht vandaan haalde'",
+    "subtitle": null,
+    "published_at": "2023-06-19T07:17:02+02:00",
+    "updated_at": "2023-06-19T07:17:33+02:00",
+    "media_id": "kwpxaasa0weo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6268618/ongekende-prijzenregen-voor-rodri-weet-niet-waar-ik-de-kracht-vandaan-haalde.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268555,
     "slug": "stelling-wat-mij-betreft-hoeft-het-in-nederland-nooit-boven-de-30-graden-te-zijn",
     "type": "article",
@@ -374,7 +420,7 @@
     "title": "Analyse: Oranje kon nu nog falen, maar in september is dat problematisch",
     "subtitle": "NU+",
     "published_at": "2023-06-19T04:55:06+02:00",
-    "updated_at": "2023-06-19T06:35:45+02:00",
+    "updated_at": "2023-06-19T07:15:44+02:00",
     "media_id": "cunxj3watgcc",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6268607/verstappen-had-het-lastiger-dan-het-eruit-zag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268606,
-    "slug": "hoe-albon-in-de-slechtste-auto-de-drs-trein-achter-zich-hield",
-    "type": "video",
-    "title": "Hoe Albon in de slechtste auto de 'DRS-trein' achter zich hield",
-    "subtitle": "Explainer",
-    "published_at": "2023-06-19T03:45:41+02:00",
-    "updated_at": "2023-06-19T06:54:58+02:00",
-    "media_id": "se1xdjja7eco",
-    "duration": "1:30",
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Canada",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6268606/hoe-albon-in-de-slechtste-auto-de-drs-trein-achter-zich-hield.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268598,
-    "slug": "spanje-verslaat-kroatie-via-penaltys-en-grijpt-eindzege-in-nations-league",
-    "type": "article",
-    "title": "Spanje verslaat Kroatië via penalty's en grijpt eindzege in Nations League",
-    "subtitle": null,
-    "published_at": "2023-06-18T23:29:56+02:00",
-    "updated_at": "2023-06-19T06:46:27+02:00",
-    "media_id": "o2px5msar9st",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6268598/spanje-verslaat-kroatie-via-penaltys-en-grijpt-eindzege-in-nations-league.html",
     "open_new_window": false,
     "partner": null
   }
