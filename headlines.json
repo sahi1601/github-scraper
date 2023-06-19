@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268693,
+    "slug": "verdachten-van-overvallen-op-rene-van-der-gijp-en-nikkie-de-jager-langer-vast",
+    "type": "article",
+    "title": "Verdachten van overvallen op René van der Gijp en Nikkie de Jager langer vast",
+    "subtitle": null,
+    "published_at": "2023-06-19T15:20:35+02:00",
+    "updated_at": "2023-06-19T15:20:36+02:00",
+    "media_id": "d0oxegzak3m7",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6268693/verdachten-van-overvallen-op-rene-van-der-gijp-en-nikkie-de-jager-langer-vast.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268689,
     "slug": "bebe-rexha-breekt-optreden-af-nadat-ze-telefoon-in-gezicht-gegooid-krijgt",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6268656/spits-joselu-33-voltooit-succesjaar-met-terugkeer-naar-real-madrid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268649,
-    "slug": "courtois-verlaat-trainingskamp-belgie-uit-onvrede-over-uitspraak-bondscoach",
-    "type": "article",
-    "title": "Courtois verlaat trainingskamp België uit onvrede over uitspraak bondscoach",
-    "subtitle": null,
-    "published_at": "2023-06-19T11:10:54+02:00",
-    "updated_at": "2023-06-19T14:12:14+02:00",
-    "media_id": "f75x90ya9eqa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6268649/courtois-verlaat-trainingskamp-belgie-uit-onvrede-over-uitspraak-bondscoach.html",
     "open_new_window": false,
     "partner": null
   }
