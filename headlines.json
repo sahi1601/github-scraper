@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268664,
+    "slug": "amsterdams-studentencorps-krijgt-ook-dit-jaar-geen-geld-van-onderwijsinstellingen",
+    "type": "article",
+    "title": "Amsterdams studentencorps krijgt ook dit jaar geen geld van onderwijsinstellingen",
+    "subtitle": null,
+    "published_at": "2023-06-19T12:29:40+02:00",
+    "updated_at": "2023-06-19T12:29:41+02:00",
+    "media_id": "9paxn9aajdul",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6268664/amsterdams-studentencorps-krijgt-ook-dit-jaar-geen-geld-van-onderwijsinstellingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268658,
     "slug": "kpn-koopt-glasvezelnetwerk-dat-investeerder-voor-t-mobile-heeft-aangelegd",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Nederlandse economie koelt flink af, inflatie blijft hardnekkig probleem",
     "subtitle": null,
     "published_at": "2023-06-19T12:03:37+02:00",
-    "updated_at": "2023-06-19T12:18:45+02:00",
+    "updated_at": "2023-06-19T12:33:16+02:00",
     "media_id": "0tzx7o0amoqf",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Spits Joselu (33) voltooit succesjaar met terugkeer naar Real Madrid",
     "subtitle": null,
     "published_at": "2023-06-19T11:55:44+02:00",
-    "updated_at": "2023-06-19T11:55:46+02:00",
+    "updated_at": "2023-06-19T12:32:43+02:00",
     "media_id": "ybvx0dyanbzx",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Courtois verlaat trainingskamp België uit onvrede over uitspraak bondscoach",
     "subtitle": null,
     "published_at": "2023-06-19T11:10:54+02:00",
-    "updated_at": "2023-06-19T11:48:31+02:00",
+    "updated_at": "2023-06-19T12:35:38+02:00",
     "media_id": "f75x90ya9eqa",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Nederland telt ruim 500.000 laadpunten, waarvan de meeste aan huis",
     "subtitle": null,
     "published_at": "2023-06-19T10:05:10+02:00",
-    "updated_at": "2023-06-19T11:03:41+02:00",
+    "updated_at": "2023-06-19T12:39:11+02:00",
     "media_id": "hykxeitaihkw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6268620/modric-37-zwijgt-over-interlandtoekomst-heb-de-beslissing-al-wel-genomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268605,
-    "slug": "griekspoor-bekroont-opmars-met-nieuwe-status-maar-ik-heb-grotere-doelen",
-    "type": "article",
-    "title": "Griekspoor bekroont opmars met nieuwe status: 'Maar ik heb grotere doelen'",
-    "subtitle": null,
-    "published_at": "2023-06-19T07:20:39+02:00",
-    "updated_at": "2023-06-19T09:21:35+02:00",
-    "media_id": "bvzxxshau2tx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6268605/griekspoor-bekroont-opmars-met-nieuwe-status-maar-ik-heb-grotere-doelen.html",
     "open_new_window": false,
     "partner": null
   }
