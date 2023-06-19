@@ -1,12 +1,35 @@
 [
   {
+    "id": 6268760,
+    "slug": "courtois-spreekt-subjectief-verhaal-van-bondscoach-tegen-heb-niets-geeist",
+    "type": "article",
+    "title": "Courtois spreekt 'subjectief verhaal' van bondscoach tegen: 'Heb niets geëist'",
+    "subtitle": null,
+    "published_at": "2023-06-19T23:22:19+02:00",
+    "updated_at": "2023-06-19T23:31:24+02:00",
+    "media_id": "mvgxa6aa0ss9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6268760/courtois-spreekt-subjectief-verhaal-van-bondscoach-tegen-heb-niets-geeist.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268761,
     "slug": "britse-parlement-doet-opgestapte-johnson-alsnog-in-de-ban-om-partygate",
     "type": "article",
     "title": "Britse parlement doet opgestapte Johnson alsnog in de ban om 'partygate'",
     "subtitle": null,
     "published_at": "2023-06-19T23:21:02+02:00",
-    "updated_at": "2023-06-19T23:21:04+02:00",
+    "updated_at": "2023-06-19T23:25:41+02:00",
     "media_id": "9ruxu73a9757",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6268283/overzicht-het-oefenprogramma-van-de-achttien-eredivisie-clubs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268732,
-    "slug": "ajax-oefent-in-voorbereiding-tegen-borussia-dortmund-van-haller-en-malen",
-    "type": "article",
-    "title": "Ajax oefent in voorbereiding tegen Borussia Dortmund van Haller en Malen",
-    "subtitle": null,
-    "published_at": "2023-06-19T18:38:30+02:00",
-    "updated_at": "2023-06-19T19:11:04+02:00",
-    "media_id": "439xhtoabkxm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6268732/ajax-oefent-in-voorbereiding-tegen-borussia-dortmund-van-haller-en-malen.html",
     "open_new_window": false,
     "partner": null
   }
