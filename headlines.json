@@ -1,12 +1,35 @@
 [
   {
+    "id": 6268622,
+    "slug": "italie-voorkomt-chinese-controle-over-formule-1-bandenleverancier-pirelli",
+    "type": "article",
+    "title": "Italië voorkomt Chinese controle over Formule 1-bandenleverancier Pirelli",
+    "subtitle": null,
+    "published_at": "2023-06-19T08:27:22+02:00",
+    "updated_at": "2023-06-19T08:27:25+02:00",
+    "media_id": "eoox8udabgcw",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6268622/italie-voorkomt-chinese-controle-over-formule-1-bandenleverancier-pirelli.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268623,
     "slug": "lange-frans-en-baas-b-herenigd-op-het-podium-voelde-goud-en-vertrouwd",
     "type": "article",
     "title": "Lange Frans en Baas B herenigd op het podium: 'Voelde goud en vertrouwd'",
     "subtitle": null,
     "published_at": "2023-06-19T08:17:38+02:00",
-    "updated_at": "2023-06-19T08:17:39+02:00",
+    "updated_at": "2023-06-19T08:29:03+02:00",
     "media_id": "oydxymeak2a4",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Russische oppositieleider Navalny kan in nieuwe zaak 30 jaar cel krijgen",
     "subtitle": null,
     "published_at": "2023-06-19T06:53:29+02:00",
-    "updated_at": "2023-06-19T08:03:04+02:00",
+    "updated_at": "2023-06-19T08:23:50+02:00",
     "media_id": "htbxmybaih4u",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Horner en Marko hadden het doel om één race te winnen met Red Bull Racing",
     "subtitle": "NU+",
     "published_at": "2023-06-19T05:42:24+02:00",
-    "updated_at": "2023-06-19T08:18:03+02:00",
+    "updated_at": "2023-06-19T08:26:48+02:00",
     "media_id": "ukaxh1va0r7n",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6268305/nederlandse-banken-openen-meer-loketten-om-mensen-te-helpen-met-bankzaken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268599,
-    "slug": "analyse-oranje-kon-nu-nog-falen-maar-in-september-is-dat-problematisch",
-    "type": "article",
-    "title": "Analyse: Oranje kon nu nog falen, maar in september is dat problematisch",
-    "subtitle": "NU+",
-    "published_at": "2023-06-19T04:55:06+02:00",
-    "updated_at": "2023-06-19T07:49:03+02:00",
-    "media_id": "cunxj3watgcc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6268599/analyse-oranje-kon-nu-nog-falen-maar-in-september-is-dat-problematisch.html",
     "open_new_window": false,
     "partner": null
   }
