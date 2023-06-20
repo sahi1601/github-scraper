@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268779,
+    "slug": "zo-ziet-de-vermiste-onderzeeer-eruit-die-onderweg-was-naar-titanic",
+    "type": "video",
+    "title": "Zo ziet de vermiste onderzeeër eruit die onderweg was naar Titanic",
+    "subtitle": "Video",
+    "published_at": "2023-06-20T08:21:55+02:00",
+    "updated_at": "2023-06-20T08:21:56+02:00",
+    "media_id": "g9mxw6laitj4",
+    "duration": "1:04",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6268779/zo-ziet-de-vermiste-onderzeeer-eruit-die-onderweg-was-naar-titanic.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268776,
     "slug": "bebe-rexha-heeft-hechting-en-blauw-oog-nadat-ze-telefoon-tegen-haar-hoofd-kreeg",
     "type": "article",
@@ -236,7 +259,7 @@
     "title": "Grote Oekraïense steden opnieuw doelwit van Russische luchtaanvallen",
     "subtitle": null,
     "published_at": "2023-06-20T05:40:41+02:00",
-    "updated_at": "2023-06-20T06:14:33+02:00",
+    "updated_at": "2023-06-20T08:18:40+02:00",
     "media_id": "pdtxjxbanidd",
     "duration": null,
     "canonical_section": {
@@ -371,10 +394,10 @@
     "id": 6268680,
     "slug": "veel-winkeliers-vrezen-kopje-onder-te-gaan-door-stijgende-kosten",
     "type": "article",
-    "title": "Veel winkeliers vrezen kopje onder te gaan door stijgende kosten",
+    "title": "Veel winkeliers vrezen kopje-onder te gaan door stijgende kosten",
     "subtitle": null,
     "published_at": "2023-06-20T05:01:35+02:00",
-    "updated_at": "2023-06-20T08:16:16+02:00",
+    "updated_at": "2023-06-20T08:19:44+02:00",
     "media_id": "v0gxrrwa8rgt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6268695/kolen-zorgen-voor-record-goederenvervoer-op-het-spoor.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268760,
-    "slug": "courtois-spreekt-subjectief-verhaal-van-bondscoach-tegen-heb-niets-geeist",
-    "type": "article",
-    "title": "Courtois spreekt 'subjectief verhaal' van bondscoach tegen: 'Heb niets geëist'",
-    "subtitle": null,
-    "published_at": "2023-06-19T23:22:19+02:00",
-    "updated_at": "2023-06-19T23:31:24+02:00",
-    "media_id": "mvgxa6aa0ss9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6268760/courtois-spreekt-subjectief-verhaal-van-bondscoach-tegen-heb-niets-geeist.html",
     "open_new_window": false,
     "partner": null
   }
