@@ -1,5 +1,28 @@
 [
   {
+    "id": 6268765,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-06-20T05:15:53+02:00",
+    "updated_at": "2023-06-20T05:15:54+02:00",
+    "media_id": "pynxtntartmr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6268765/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268763,
     "slug": "zo-kan-jong-oranje-via-het-ek-na-zestien-jaar-weer-de-olympische-spelen-halen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6268751/autos-botsen-met-kudde-op-a4-twaalf-schapen-dood-en-een-automobilist-gewond.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268750,
-    "slug": "hockeyers-kunnen-na-drie-zeges-op-rij-niet-overtuigen-en-winnen-niet-van-spanje",
-    "type": "article",
-    "title": "Hockeyers kunnen na drie zeges op rij niet overtuigen en winnen niet van Spanje",
-    "subtitle": null,
-    "published_at": "2023-06-19T21:02:34+02:00",
-    "updated_at": "2023-06-19T21:43:23+02:00",
-    "media_id": "lp1xlheaqnxg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6268750/hockeyers-kunnen-na-drie-zeges-op-rij-niet-overtuigen-en-winnen-niet-van-spanje.html",
     "open_new_window": false,
     "partner": null
   }
