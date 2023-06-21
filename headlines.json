@@ -1,5 +1,28 @@
 [
   {
+    "id": 6269066,
+    "slug": "rammstein-krijgt-van-groningen-ontheffing-om-meer-geluid-te-produceren",
+    "type": "article",
+    "title": "Rammstein krijgt van Groningen ontheffing om meer geluid te produceren",
+    "subtitle": null,
+    "published_at": "2023-06-21T21:27:27+02:00",
+    "updated_at": "2023-06-21T21:27:29+02:00",
+    "media_id": "s59x6dba4g0t",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6269066/rammstein-krijgt-van-groningen-ontheffing-om-meer-geluid-te-produceren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269038,
     "slug": "dit-weten-we-nu-over-het-dodelijke-steekincident-in-de-haagse-supermarkt",
     "type": "article",
@@ -259,7 +282,7 @@
     "title": "Bijna dertig gewonden bij grote gasexplosie in binnenstad Parijs",
     "subtitle": null,
     "published_at": "2023-06-21T18:28:43+02:00",
-    "updated_at": "2023-06-21T21:20:52+02:00",
+    "updated_at": "2023-06-21T21:39:48+02:00",
     "media_id": "9evx9peaj4p5",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6269039/reacties-na-gelijkspel-jong-oranje-tegen-belgie-in-eerste-ek-wedstrijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269037,
-    "slug": "herlings-is-langer-uitgeschakeld-en-moet-derde-wereldtitel-uit-zijn-hoofd-zetten",
-    "type": "article",
-    "title": "Herlings is langer uitgeschakeld en moet derde wereldtitel uit zijn hoofd zetten",
-    "subtitle": null,
-    "published_at": "2023-06-21T17:18:43+02:00",
-    "updated_at": "2023-06-21T17:50:13+02:00",
-    "media_id": "vtrx4pga0imk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6269037/herlings-is-langer-uitgeschakeld-en-moet-derde-wereldtitel-uit-zijn-hoofd-zetten.html",
     "open_new_window": false,
     "partner": null
   }
