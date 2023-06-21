@@ -1,5 +1,51 @@
 [
   {
+    "id": 6269000,
+    "slug": "bnnvara-stopt-met-talkshow-op1-vanwege-verschil-van-inzicht",
+    "type": "article",
+    "title": "BNNVARA stopt met talkshow Op1 vanwege 'verschil van inzicht'",
+    "subtitle": null,
+    "published_at": "2023-06-21T14:34:16+02:00",
+    "updated_at": "2023-06-21T14:54:53+02:00",
+    "media_id": "dfnx0o7arhxy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6269000/bnnvara-stopt-met-talkshow-op1-vanwege-verschil-van-inzicht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6268994,
+    "slug": "donderdag-weer-stortbuien-in-het-zuiden-maar-geen-watersnood-zoals-in-2021",
+    "type": "article",
+    "title": "Donderdag weer stortbuien in het zuiden, maar geen watersnood zoals in 2021",
+    "subtitle": null,
+    "published_at": "2023-06-21T14:33:44+02:00",
+    "updated_at": "2023-06-21T14:51:18+02:00",
+    "media_id": "q89x3bgax33q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6268994/donderdag-weer-stortbuien-in-het-zuiden-maar-geen-watersnood-zoals-in-2021.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6268988,
     "slug": "orka-beukt-zeilboot-van-nederlander-in-noorwegen-eerste-melding-uit-dat-gebied",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Geen druk op Pérez bij Red Bull: 'Hij overleeft al twee jaar naast Verstappen'",
     "subtitle": null,
     "published_at": "2023-06-21T13:50:39+02:00",
-    "updated_at": "2023-06-21T13:53:35+02:00",
+    "updated_at": "2023-06-21T14:45:21+02:00",
     "media_id": "ad5x7hwamnfe",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Landbouwakkoord definitief van tafel, kabinet kondigt zelf maatregelen aan",
     "subtitle": null,
     "published_at": "2023-06-21T12:04:08+02:00",
-    "updated_at": "2023-06-21T14:24:55+02:00",
+    "updated_at": "2023-06-21T14:39:35+02:00",
     "media_id": "8lixveoac3s1",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6268919/snoeihard-rapport-laat-weinig-heel-van-kabinetsplan-voor-bijna-gratis-kinderopvang.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268971,
-    "slug": "china-reageert-op-dictatoruitspraak-van-biden-over-xi-absurd",
-    "type": "video",
-    "title": "China reageert op 'dictatoruitspraak' van Biden over Xi: 'Absurd'",
-    "subtitle": "Video",
-    "published_at": "2023-06-21T11:53:37+02:00",
-    "updated_at": "2023-06-21T11:53:53+02:00",
-    "media_id": "vvgxbtga8cna",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6268971/china-reageert-op-dictatoruitspraak-van-biden-over-xi-absurd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268966,
-    "slug": "gemeente-tiel-vindt-bij-opgravingen-vierduizend-jaar-oud-heiligdom-voor-de-zon",
-    "type": "article",
-    "title": "Gemeente Tiel vindt bij opgravingen vierduizend jaar oud heiligdom voor de zon",
-    "subtitle": null,
-    "published_at": "2023-06-21T11:53:30+02:00",
-    "updated_at": "2023-06-21T13:04:21+02:00",
-    "media_id": "hjzxv8ia8jzs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6268966/gemeente-tiel-vindt-bij-opgravingen-vierduizend-jaar-oud-heiligdom-voor-de-zon.html",
     "open_new_window": false,
     "partner": null
   }
