@@ -1,12 +1,35 @@
 [
   {
-    "id": 6269136,
-    "slug": "flinke-winststijging-eneco-komt-niet-door-hoge-prijzen-voor-klanten",
+    "id": 6269145,
+    "slug": "nec-raakt-deze-zomer-met-smaakmaker-tannane-al-veertiende-speler-kwijt",
     "type": "article",
-    "title": "Flinke winststijging Eneco komt niet door hoge prijzen voor klanten",
+    "title": "NEC raakt deze zomer met smaakmaker Tannane al veertiende speler kwijt",
+    "subtitle": null,
+    "published_at": "2023-06-22T13:09:24+02:00",
+    "updated_at": "2023-06-22T13:13:24+02:00",
+    "media_id": "cruxlz0a2l1t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6269145/nec-raakt-deze-zomer-met-smaakmaker-tannane-al-veertiende-speler-kwijt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269136,
+    "slug": "flinke-winststijging-komt-volgens-eneco-niet-door-hoge-prijzen-voor-klanten",
+    "type": "article",
+    "title": "Flinke winststijging komt volgens Eneco niet door hoge prijzen voor klanten",
     "subtitle": null,
     "published_at": "2023-06-22T12:58:36+02:00",
-    "updated_at": "2023-06-22T12:58:37+02:00",
+    "updated_at": "2023-06-22T13:23:22+02:00",
     "media_id": "wmbxc8qams5a",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6269136/flinke-winststijging-eneco-komt-niet-door-hoge-prijzen-voor-klanten.html",
+    "url": "/economie/6269136/flinke-winststijging-komt-volgens-eneco-niet-door-hoge-prijzen-voor-klanten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Lage en middeninkomens krijgen mogelijk meer kans op een koophuis",
     "subtitle": null,
     "published_at": "2023-06-22T12:50:22+02:00",
-    "updated_at": "2023-06-22T12:54:21+02:00",
+    "updated_at": "2023-06-22T13:23:03+02:00",
     "media_id": "9cmxgqjar9yx",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Code oranje in Limburg wegens zware regenval, waarschuwing voor wateroverlast",
     "subtitle": null,
     "published_at": "2023-06-22T11:50:42+02:00",
-    "updated_at": "2023-06-22T13:07:50+02:00",
+    "updated_at": "2023-06-22T13:18:09+02:00",
     "media_id": "pekxio5aa8cm",
     "duration": null,
     "canonical_section": {
@@ -346,12 +369,12 @@
   },
   {
     "id": 6269114,
-    "slug": "zoektocht-naar-onderzeeer-nadert-cruciale-fase-laatste-hoop-verdwijnt-langzaam",
+    "slug": "zoektocht-naar-onderzeeer-in-cruciale-fase-laatste-hoop-lijkt-verloren",
     "type": "article",
-    "title": "Zoektocht naar onderzeeër nadert cruciale fase, laatste hoop verdwijnt langzaam",
+    "title": "Zoektocht naar onderzeeër in cruciale fase, laatste hoop lijkt verloren",
     "subtitle": null,
     "published_at": "2023-06-22T10:14:41+02:00",
-    "updated_at": "2023-06-22T13:08:07+02:00",
+    "updated_at": "2023-06-22T13:15:05+02:00",
     "media_id": "cn2x6i8ao4tf",
     "duration": null,
     "canonical_section": {
@@ -363,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6269114/zoektocht-naar-onderzeeer-nadert-cruciale-fase-laatste-hoop-verdwijnt-langzaam.html",
+    "url": "/buitenland/6269114/zoektocht-naar-onderzeeer-in-cruciale-fase-laatste-hoop-lijkt-verloren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +420,7 @@
     "title": "Bitcoinkoers komt voor het eerst in twee maanden boven 30.000 dollar uit",
     "subtitle": null,
     "published_at": "2023-06-22T10:04:36+02:00",
-    "updated_at": "2023-06-22T12:21:55+02:00",
+    "updated_at": "2023-06-22T13:17:27+02:00",
     "media_id": "ashx6yja8qfs",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6269105/parkeerplaats-staat-in-lichterlaaie-na-explosie-bedrijfswagen-in-wateringen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269101,
-    "slug": "parijse-hulpdiensten-zoeken-vandaag-verder-naar-een-vermiste-na-explosie",
-    "type": "article",
-    "title": "Parijse hulpdiensten zoeken vandaag verder naar één vermiste na explosie",
-    "subtitle": null,
-    "published_at": "2023-06-22T09:55:36+02:00",
-    "updated_at": "2023-06-22T11:29:11+02:00",
-    "media_id": "db3xk61alqnd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6269101/parijse-hulpdiensten-zoeken-vandaag-verder-naar-een-vermiste-na-explosie.html",
     "open_new_window": false,
     "partner": null
   }
