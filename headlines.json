@@ -1,5 +1,28 @@
 [
   {
+    "id": 6269241,
+    "slug": "andre-rieu-gaat-bij-paus-franciscus-langs",
+    "type": "article",
+    "title": "André Rieu gaat bij paus Franciscus langs",
+    "subtitle": null,
+    "published_at": "2023-06-22T22:48:43+02:00",
+    "updated_at": "2023-06-22T22:53:49+02:00",
+    "media_id": "h9jx7z1ae2it",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6269241/andre-rieu-gaat-bij-paus-franciscus-langs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269240,
     "slug": "amerikaanse-kustwacht-brokstukken-onderzeeer-wijzen-op-implosie",
     "type": "video",
@@ -52,8 +75,8 @@
     "title": "Griekspoor neemt in thriller revanche op Hurkacz en zet zegereeks voort in Halle",
     "subtitle": null,
     "published_at": "2023-06-22T21:49:00+02:00",
-    "updated_at": "2023-06-22T22:37:50+02:00",
-    "media_id": "1mhxntiaa76e",
+    "updated_at": "2023-06-22T22:49:33+02:00",
+    "media_id": "ql9xd07aa5by",
     "duration": null,
     "canonical_section": {
       "id": 1772432,
@@ -98,7 +121,7 @@
     "title": "Kustwacht VS denkt dat opvarenden van onderzeeër zijn overleden na implosie",
     "subtitle": null,
     "published_at": "2023-06-22T20:52:17+02:00",
-    "updated_at": "2023-06-22T22:38:10+02:00",
+    "updated_at": "2023-06-22T23:03:24+02:00",
     "media_id": "f5yx2ytajx3h",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6269203/steun-voor-plan-om-eisen-te-stellen-aan-huizenverkoop-tot-355000-euro-onzeker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269198,
-    "slug": "waarom-er-geen-bak-met-geld-klaarstaat-voor-de-philips-nazaten",
-    "type": "video",
-    "title": "Waarom er geen bak met geld klaarstaat voor de Philips-nazaten",
-    "subtitle": "Video",
-    "published_at": "2023-06-22T17:00:22+02:00",
-    "updated_at": "2023-06-22T18:57:37+02:00",
-    "media_id": "fjfxi1garw3q",
-    "duration": "18:12",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6269198/waarom-er-geen-bak-met-geld-klaarstaat-voor-de-philips-nazaten.html",
     "open_new_window": false,
     "partner": null
   }
