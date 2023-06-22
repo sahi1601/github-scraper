@@ -1,5 +1,28 @@
 [
   {
+    "id": 6269090,
+    "slug": "maarten-van-rossem-brengt-ter-ere-van-verjaardag-boek-over-zijn-leven-uit",
+    "type": "article",
+    "title": "Maarten van Rossem brengt ter ere van verjaardag boek over zijn leven uit",
+    "subtitle": null,
+    "published_at": "2023-06-22T09:18:27+02:00",
+    "updated_at": "2023-06-22T09:18:28+02:00",
+    "media_id": "qmaxtweawz7q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6269090/maarten-van-rossem-brengt-ter-ere-van-verjaardag-boek-over-zijn-leven-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269088,
     "slug": "jeroen-krabbe-79-wil-leven-uitbeelden-in-acht-schilderijen-80-is-een-moment",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Belangrijke brug die Oekraïense vasteland met de Krim verbindt beschadigd",
     "subtitle": null,
     "published_at": "2023-06-22T08:44:49+02:00",
-    "updated_at": "2023-06-22T08:44:51+02:00",
+    "updated_at": "2023-06-22T09:16:06+02:00",
     "media_id": "2psxay6ax6l7",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "BNNVARA stopt met Op1 vanwege conflict en onveilige werksfeer",
     "subtitle": null,
     "published_at": "2023-06-22T06:47:48+02:00",
-    "updated_at": "2023-06-22T09:06:49+02:00",
+    "updated_at": "2023-06-22T09:14:54+02:00",
     "media_id": "qcax85lamwsv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6269071/man-die-wordt-verdacht-van-lekken-pentagon-documenten-zegt-onschuldig-te-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6268965,
-    "slug": "prijzen-van-koopwoningen-blijven-dalen",
-    "type": "article",
-    "title": "Prijzen van koopwoningen blijven dalen",
-    "subtitle": null,
-    "published_at": "2023-06-22T00:01:04+02:00",
-    "updated_at": "2023-06-22T05:03:45+02:00",
-    "media_id": "i0lxsjfaggog",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6268965/prijzen-van-koopwoningen-blijven-dalen.html",
     "open_new_window": false,
     "partner": null
   }
