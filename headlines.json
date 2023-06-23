@@ -1,5 +1,28 @@
 [
   {
+    "id": 6269306,
+    "slug": "pvdaer-vos-wil-voorzittershamer-senaat-bbb-steunt-in-opspraak-gekomen-vvder",
+    "type": "article",
+    "title": "PvdA'er Vos wil voorzittershamer senaat, BBB steunt in opspraak gekomen VVD'er",
+    "subtitle": null,
+    "published_at": "2023-06-23T13:14:18+02:00",
+    "updated_at": "2023-06-23T13:14:20+02:00",
+    "media_id": "fxzxdzma1j6q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6269306/pvdaer-vos-wil-voorzittershamer-senaat-bbb-steunt-in-opspraak-gekomen-vvder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269302,
     "slug": "philips-erkent-fout-bij-melding-van-overlijden-gebruiker-apneuapparaat",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6269274/wat-wil-jij-nog-weten-over-het-onderzeeerdrama.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269271,
-    "slug": "groenewegen-moet-jayco-alula-etappezeges-bezorgen-in-tour-de-france",
-    "type": "article",
-    "title": "Groenewegen moet Jayco AlUla etappezeges bezorgen in Tour de France",
-    "subtitle": null,
-    "published_at": "2023-06-23T10:01:30+02:00",
-    "updated_at": "2023-06-23T10:56:45+02:00",
-    "media_id": "ap5x1v9az492",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6269271/groenewegen-moet-jayco-alula-etappezeges-bezorgen-in-tour-de-france.html",
     "open_new_window": false,
     "partner": null
   }
