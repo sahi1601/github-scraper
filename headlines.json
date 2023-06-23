@@ -1,5 +1,28 @@
 [
   {
+    "id": 6269401,
+    "slug": "uefa-sluit-osasuna-uit-voor-europees-voetbal-om-oud-matchfixingschandaal",
+    "type": "article",
+    "title": "UEFA sluit Osasuna uit voor Europees voetbal om oud matchfixingschandaal",
+    "subtitle": null,
+    "published_at": "2023-06-23T19:16:44+02:00",
+    "updated_at": "2023-06-23T19:21:17+02:00",
+    "media_id": "k89xy9nazd2p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6269401/uefa-sluit-osasuna-uit-voor-europees-voetbal-om-oud-matchfixingschandaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269400,
     "slug": "pasgeboren-tijgerwelpjes-drinken-bij-hun-moeder-in-friese-dierentuin",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6269364/vijlbrief-over-gaswinning-groningen-waakvlam-gaat-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269357,
-    "slug": "kabinet-komt-in-september-met-eigen-plan-voor-de-landbouwsector",
-    "type": "article",
-    "title": "Kabinet komt in september met eigen plan voor de landbouwsector",
-    "subtitle": null,
-    "published_at": "2023-06-23T15:50:38+02:00",
-    "updated_at": "2023-06-23T18:41:40+02:00",
-    "media_id": "g9bx21xa3kc3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6269357/kabinet-komt-in-september-met-eigen-plan-voor-de-landbouwsector.html",
     "open_new_window": false,
     "partner": null
   }
