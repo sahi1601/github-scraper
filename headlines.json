@@ -1,5 +1,51 @@
 [
   {
+    "id": 6269175,
+    "slug": "stelling-ik-luister-niet-naar-muziek-van-een-artiest-die-is-veroordeeld-vanwege-seksueel-geweld",
+    "type": "article",
+    "title": "Stelling: Ik luister niet naar muziek van een artiest die is veroordeeld vanwege seksueel geweld",
+    "subtitle": null,
+    "published_at": "2023-06-23T08:29:28+02:00",
+    "updated_at": "2023-06-23T08:29:29+02:00",
+    "media_id": "sbkxvt2aqhf6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6269175/stelling-ik-luister-niet-naar-muziek-van-een-artiest-die-is-veroordeeld-vanwege-seksueel-geweld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269260,
+    "slug": "nocnsf-gaat-oekraiense-sporters-helpen-en-stelt-trainingslocaties-beschikbaar",
+    "type": "article",
+    "title": "NOC*NSF gaat Oekraïense sporters helpen en stelt trainingslocaties beschikbaar",
+    "subtitle": null,
+    "published_at": "2023-06-23T08:26:34+02:00",
+    "updated_at": "2023-06-23T08:26:36+02:00",
+    "media_id": "b8txtw0awsr7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6269260/nocnsf-gaat-oekraiense-sporters-helpen-en-stelt-trainingslocaties-beschikbaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269259,
     "slug": "we-houden-gemiddeld-iets-meer-geld-over-door-loonstijging-en-gewerkte-uren",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Komend weekend rijden er bijna geen treinen van en naar Rotterdam",
     "subtitle": null,
     "published_at": "2023-06-23T07:48:06+02:00",
-    "updated_at": "2023-06-23T07:56:42+02:00",
+    "updated_at": "2023-06-23T08:31:07+02:00",
     "media_id": "13gxqy9aqxmw",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Nacht vol explosies en luchtaanvallen in heel Oekraïne",
     "subtitle": null,
     "published_at": "2023-06-23T06:47:14+02:00",
-    "updated_at": "2023-06-23T07:31:38+02:00",
+    "updated_at": "2023-06-23T08:30:49+02:00",
     "media_id": "1i9xb0qatn53",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6269239/orkas-vallen-zeilboot-van-nederlands-team-aan-tijdens-ocean-race.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269244,
-    "slug": "belgisch-oud-international-demol-op-57-jarige-leeftijd-overleden",
-    "type": "article",
-    "title": "Belgisch oud-international Demol op 57-jarige leeftijd overleden",
-    "subtitle": null,
-    "published_at": "2023-06-22T23:34:26+02:00",
-    "updated_at": "2023-06-23T07:40:49+02:00",
-    "media_id": "ghwxj6makyox",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6269244/belgisch-oud-international-demol-op-57-jarige-leeftijd-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269241,
-    "slug": "andre-rieu-gaat-bij-paus-franciscus-langs",
-    "type": "article",
-    "title": "André Rieu gaat bij paus Franciscus langs",
-    "subtitle": null,
-    "published_at": "2023-06-22T22:48:43+02:00",
-    "updated_at": "2023-06-22T22:53:49+02:00",
-    "media_id": "h9jx7z1ae2it",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6269241/andre-rieu-gaat-bij-paus-franciscus-langs.html",
     "open_new_window": false,
     "partner": null
   }
