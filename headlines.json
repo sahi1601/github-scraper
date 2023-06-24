@@ -1,5 +1,28 @@
 [
   {
+    "id": 6269438,
+    "slug": "energieconcerns-zien-nog-tientallen-jaren-vraag-naar-aardgas",
+    "type": "article",
+    "title": "Energieconcerns zien nog tientallen jaren vraag naar aardgas",
+    "subtitle": null,
+    "published_at": "2023-06-24T10:08:58+02:00",
+    "updated_at": "2023-06-24T10:08:59+02:00",
+    "media_id": "si6x3lqa2uwm",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6269438/energieconcerns-zien-nog-tientallen-jaren-vraag-naar-aardgas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269430,
     "slug": "wagner-opstand-is-mes-in-de-rug-volgens-poetin",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Wagner Group omsingelt Russisch militair hoofdkwartier",
     "subtitle": "Video",
     "published_at": "2023-06-24T08:12:06+02:00",
-    "updated_at": "2023-06-24T08:12:07+02:00",
+    "updated_at": "2023-06-24T10:06:27+02:00",
     "media_id": "yguxg81aj7s4",
     "duration": "0:58",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6269406/amerikaan-filmt-ontstaan-van-dubbele-tornado.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269404,
-    "slug": "zegereeks-griekspoor-ten-einde-door-nederlaag-tegen-rublev-in-halle",
-    "type": "article",
-    "title": "Zegereeks Griekspoor ten einde door nederlaag tegen Rublev in Halle",
-    "subtitle": null,
-    "published_at": "2023-06-23T20:03:56+02:00",
-    "updated_at": "2023-06-23T20:45:18+02:00",
-    "media_id": "7plx0csatkkz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6269404/zegereeks-griekspoor-ten-einde-door-nederlaag-tegen-rublev-in-halle.html",
     "open_new_window": false,
     "partner": null
   }
