@@ -1,5 +1,28 @@
 [
   {
+    "id": 6269495,
+    "slug": "russen-breken-snelweg-open-om-wagner-groep-te-vertragen",
+    "type": "video",
+    "title": "Russen breken snelweg open om Wagner-groep te vertragen",
+    "subtitle": "Video",
+    "published_at": "2023-06-24T19:16:35+02:00",
+    "updated_at": "2023-06-24T19:19:02+02:00",
+    "media_id": "ty5xkrfacxo3",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6269495/russen-breken-snelweg-open-om-wagner-groep-te-vertragen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269491,
     "slug": "belgische-kogelstootster-offert-zich-op-en-loopt-in-slakkengang-100-horden-op-ek",
     "type": "article",
@@ -70,13 +93,13 @@
   },
   {
     "id": 6269486,
-    "slug": "jong-oranje-jaagt-op-gelijkmaker-tegen-portugal-in-ek-duel",
+    "slug": "tijd-dringt-voor-jong-oranje-tegen-portugal-in-tweede-ek-duel",
     "type": "article",
-    "title": "Jong Oranje jaagt op gelijkmaker tegen Portugal in EK-duel",
+    "title": "Tijd dringt voor Jong Oranje tegen Portugal in tweede EK-duel",
     "subtitle": "Liveblog",
     "published_at": "2023-06-24T17:16:02+02:00",
-    "updated_at": "2023-06-24T19:05:31+02:00",
-    "media_id": "k5sxrkua7eqo",
+    "updated_at": "2023-06-24T19:19:24+02:00",
+    "media_id": "oqbx5vfa6a0g",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6269486/jong-oranje-jaagt-op-gelijkmaker-tegen-portugal-in-ek-duel.html",
+    "url": "/voetbal/6269486/tijd-dringt-voor-jong-oranje-tegen-portugal-in-tweede-ek-duel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -185,12 +208,12 @@
   },
   {
     "id": 6269478,
-    "slug": "hockeysters-dankzij-ruime-zege-dicht-bij-eindzege-pro-league",
+    "slug": "hockeysters-dicht-bij-eindzege-pro-league-hockeyers-niet-langs-duitsland",
     "type": "article",
-    "title": "Hockeysters dankzij ruime zege dicht bij eindzege Pro League",
+    "title": "Hockeysters dicht bij eindzege Pro League, hockeyers niet langs Duitsland",
     "subtitle": null,
     "published_at": "2023-06-24T16:43:44+02:00",
-    "updated_at": "2023-06-24T19:11:57+02:00",
+    "updated_at": "2023-06-24T19:20:13+02:00",
     "media_id": "z1kx0jha4zvs",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6269478/hockeysters-dankzij-ruime-zege-dicht-bij-eindzege-pro-league.html",
+    "url": "/sport-overig/6269478/hockeysters-dicht-bij-eindzege-pro-league-hockeyers-niet-langs-duitsland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6269459/makers-het-gouden-uur-en-rampvlucht-werken-aan-serie-over-evacuatie-kaboel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269456,
-    "slug": "gigantische-zwerm-bijen-plaagt-voetgangers-in-praag",
-    "type": "video",
-    "title": "Gigantische zwerm bijen plaagt voetgangers in Praag",
-    "subtitle": "Video",
-    "published_at": "2023-06-24T12:59:15+02:00",
-    "updated_at": "2023-06-24T12:59:16+02:00",
-    "media_id": "2fcxedma3nj1",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6269456/gigantische-zwerm-bijen-plaagt-voetgangers-in-praag.html",
     "open_new_window": false,
     "partner": null
   }
