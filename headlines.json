@@ -1,5 +1,28 @@
 [
   {
+    "id": 6269015,
+    "slug": "groot-risico-op-natuurbranden-door-het-hele-land-dit-gaan-we-vaker-zien",
+    "type": "article",
+    "title": "Groot risico op natuurbranden door het hele land: ‘Dit gaan we vaker zien’",
+    "subtitle": null,
+    "published_at": "2023-06-24T20:19:45+02:00",
+    "updated_at": "2023-06-24T20:20:04+02:00",
+    "media_id": "7zmxyvvacw0q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6269015/groot-risico-op-natuurbranden-door-het-hele-land-dit-gaan-we-vaker-zien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269343,
     "slug": "milieuactivisten-protesteren-in-het-hart-van-tata-steel-ziek-van-deze-fabriek",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Wagner-baas stemt in met de-escalatie en stopt opmars richting Moskou",
     "subtitle": null,
     "published_at": "2023-06-24T19:41:03+02:00",
-    "updated_at": "2023-06-24T20:15:54+02:00",
+    "updated_at": "2023-06-24T20:23:25+02:00",
     "media_id": "pt5x48ha277w",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Belgische kogelstootster offert zich op en loopt in slakkengang 100 horden op EK",
     "subtitle": null,
     "published_at": "2023-06-24T18:20:17+02:00",
-    "updated_at": "2023-06-24T19:04:47+02:00",
+    "updated_at": "2023-06-24T20:23:38+02:00",
     "media_id": "vn5xu6vabmv3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6269468/russen-filmen-explosies-en-beschietingen-in-voronezh.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269466,
-    "slug": "klimaatactivisten-in-rode-pakken-lopen-in-mars-naar-tata-steel-terrein",
-    "type": "video",
-    "title": "Klimaatactivisten in rode pakken lopen in mars naar Tata Steel-terrein",
-    "subtitle": "Video",
-    "published_at": "2023-06-24T14:43:07+02:00",
-    "updated_at": "2023-06-24T14:43:08+02:00",
-    "media_id": "sqsxgjwafnln",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6269466/klimaatactivisten-in-rode-pakken-lopen-in-mars-naar-tata-steel-terrein.html",
     "open_new_window": false,
     "partner": null
   }
