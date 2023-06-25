@@ -1,12 +1,35 @@
 [
   {
+    "id": 6269581,
+    "slug": "griekse-premier-lijkt-tweede-verkiezingsronde-te-winnen",
+    "type": "article",
+    "title": "Griekse premier lijkt tweede verkiezingsronde te winnen",
+    "subtitle": null,
+    "published_at": "2023-06-25T20:26:12+02:00",
+    "updated_at": "2023-06-25T20:26:14+02:00",
+    "media_id": "hqdx98raqf5r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6269581/griekse-premier-lijkt-tweede-verkiezingsronde-te-winnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269578,
     "slug": "ook-chelsea-verdediger-koulibaly-kiest-voor-het-grote-geld-in-saoedi-arabie",
     "type": "article",
     "title": "Ook Chelsea-verdediger Koulibaly kiest voor het grote geld in Saoedi-Arabië",
     "subtitle": null,
     "published_at": "2023-06-25T20:08:02+02:00",
-    "updated_at": "2023-06-25T20:14:42+02:00",
+    "updated_at": "2023-06-25T20:23:08+02:00",
     "media_id": "m4mx25dajgx0",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Alexia wordt achttien: meer plechtigheden, maar eerst een groot feest",
     "subtitle": null,
     "published_at": "2023-06-25T20:07:52+02:00",
-    "updated_at": "2023-06-25T20:07:53+02:00",
+    "updated_at": "2023-06-25T20:19:54+02:00",
     "media_id": "32hx4rkax271",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6269553/poels-zit-in-definitieve-selectie-bahrain-victorious-en-rijdt-tiende-tour-de-france.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269551,
-    "slug": "weekweerbericht-hollands-weer-met-zon-wolken-en-iets-lagere-temperaturen",
-    "type": "article",
-    "title": "Weekweerbericht: Hollands weer met zon, wolken en iets lagere temperaturen",
-    "subtitle": null,
-    "published_at": "2023-06-25T15:42:49+02:00",
-    "updated_at": "2023-06-25T16:03:50+02:00",
-    "media_id": "m1mxq13am2q4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6269551/weekweerbericht-hollands-weer-met-zon-wolken-en-iets-lagere-temperaturen.html",
     "open_new_window": false,
     "partner": null
   }
