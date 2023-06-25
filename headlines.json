@@ -1,5 +1,28 @@
 [
   {
+    "id": 6269509,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-06-25T05:22:25+02:00",
+    "updated_at": "2023-06-25T05:22:26+02:00",
+    "media_id": "pynxtntartmr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6269509/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269157,
     "slug": "je-ex-vervangen-en-brand-creeren-dit-kan-allemaal-met-ai-in-photoshop",
     "type": "article",
@@ -50,9 +73,9 @@
     "slug": "dit-verandert-er-op-1-juli-allemaal-voor-je-portemonnee",
     "type": "article",
     "title": "Dit verandert er op 1 juli allemaal voor je portemonnee",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-06-25T05:04:46+02:00",
-    "updated_at": "2023-06-25T05:04:47+02:00",
+    "updated_at": "2023-06-25T05:19:56+02:00",
     "media_id": "ji1xuuaaz10h",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6269497/luiten-slaat-bijna-tweede-hole-in-one-in-munchen-en-grijpt-leiding-huizing-tweede.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269495,
-    "slug": "russen-breken-snelweg-moskou-open-wagner-stopt-opmars",
-    "type": "video",
-    "title": "Russen breken snelweg Moskou open, Wagner stopt opmars",
-    "subtitle": "Video",
-    "published_at": "2023-06-24T19:16:35+02:00",
-    "updated_at": "2023-06-24T21:17:09+02:00",
-    "media_id": "ty5xkrfacxo3",
-    "duration": "0:42",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6269495/russen-breken-snelweg-moskou-open-wagner-stopt-opmars.html",
     "open_new_window": false,
     "partner": null
   }
