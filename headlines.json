@@ -1,12 +1,35 @@
 [
   {
-    "id": 6269521,
-    "slug": "grieken-opnieuw-naar-de-stembus-premier-op-meerderheid-in-tweede-ronde",
+    "id": 6269523,
+    "slug": "lichaam-gevonden-in-bergen-waar-britse-acteur-julian-sands-verdween",
     "type": "article",
-    "title": "Grieken opnieuw naar de stembus, premier op meerderheid in tweede ronde",
+    "title": "Lichaam gevonden in bergen waar Britse acteur Julian Sands verdween",
+    "subtitle": null,
+    "published_at": "2023-06-25T10:24:38+02:00",
+    "updated_at": "2023-06-25T10:24:39+02:00",
+    "media_id": "71lxy83al8vy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778994,
+      "slug": "media-en-cultuur",
+      "type": "default",
+      "name": "Entertainment",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media-en-cultuur/6269523/lichaam-gevonden-in-bergen-waar-britse-acteur-julian-sands-verdween.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269521,
+    "slug": "grieken-opnieuw-naar-de-stembus-premier-hoopt-op-meerderheid-in-tweede-ronde",
+    "type": "article",
+    "title": "Grieken opnieuw naar de stembus, premier hoopt op meerderheid in tweede ronde",
     "subtitle": null,
     "published_at": "2023-06-25T09:50:39+02:00",
-    "updated_at": "2023-06-25T09:59:47+02:00",
+    "updated_at": "2023-06-25T10:18:55+02:00",
     "media_id": "xbtxo28avz70",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6269521/grieken-opnieuw-naar-de-stembus-premier-op-meerderheid-in-tweede-ronde.html",
+    "url": "/buitenland/6269521/grieken-opnieuw-naar-de-stembus-premier-hoopt-op-meerderheid-in-tweede-ronde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Zesvoudig wereldkampioen Márquez door gebroken rib niet van start in TT Assen",
     "subtitle": null,
     "published_at": "2023-06-25T09:43:22+02:00",
-    "updated_at": "2023-06-25T10:12:21+02:00",
+    "updated_at": "2023-06-25T10:21:44+02:00",
     "media_id": "5c1xn3pa8d4a",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Maarten van der Weijden voltooit Elfstedentriatlon en haalt 3,7 miljoen euro op",
     "subtitle": null,
     "published_at": "2023-06-25T09:27:03+02:00",
-    "updated_at": "2023-06-25T10:16:31+02:00",
+    "updated_at": "2023-06-25T10:18:40+02:00",
     "media_id": "4mkx55caf9cc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6269506/deurloo-luistert-rentree-als-turner-ondanks-val-op-met-bronzen-medaille-bij-nk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269505,
-    "slug": "wagner-baas-prigozhin-maakt-terugtrekking-troepen-bekend",
-    "type": "video",
-    "title": "Wagner-baas Prigozhin maakt terugtrekking troepen bekend",
-    "subtitle": null,
-    "published_at": "2023-06-24T22:26:48+02:00",
-    "updated_at": "2023-06-24T22:26:49+02:00",
-    "media_id": "0xhxln9alqe2",
-    "duration": "1:20",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6269505/wagner-baas-prigozhin-maakt-terugtrekking-troepen-bekend.html",
     "open_new_window": false,
     "partner": null
   }
