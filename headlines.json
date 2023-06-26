@@ -1,12 +1,35 @@
 [
   {
-    "id": 6269626,
-    "slug": "jumbo-visma-gaat-met-supersterke-selectie-rond-vingegaard-voor-nieuwe-tour-zege",
+    "id": 6269625,
+    "slug": "feyenoord-gaat-weer-samenwerken-met-fc-dordrecht-en-verhuurt-bosschaart",
     "type": "article",
-    "title": "Jumbo-Visma gaat met 'supersterke selectie' rond Vingegaard voor nieuwe Tour-zege",
+    "title": "Feyenoord gaat weer samenwerken met FC Dordrecht en verhuurt Bosschaart",
+    "subtitle": null,
+    "published_at": "2023-06-26T10:24:03+02:00",
+    "updated_at": "2023-06-26T10:24:04+02:00",
+    "media_id": "odkxzd7ay86c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6269625/feyenoord-gaat-weer-samenwerken-met-fc-dordrecht-en-verhuurt-bosschaart.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269626,
+    "slug": "jumbo-visma-gaat-met-supersterke-ploeg-rond-vingegaard-weer-voor-tour-zege",
+    "type": "article",
+    "title": "Jumbo-Visma gaat met 'supersterke ploeg' rond Vingegaard weer voor Tour-zege",
     "subtitle": null,
     "published_at": "2023-06-26T10:21:38+02:00",
-    "updated_at": "2023-06-26T10:21:39+02:00",
+    "updated_at": "2023-06-26T10:44:12+02:00",
     "media_id": "yscxs04aal53",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6269626/jumbo-visma-gaat-met-supersterke-selectie-rond-vingegaard-voor-nieuwe-tour-zege.html",
+    "url": "/wielrennen/6269626/jumbo-visma-gaat-met-supersterke-ploeg-rond-vingegaard-weer-voor-tour-zege.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "FC Barcelona neemt aanvoerder Gündogan transfervrij over van Manchester City",
     "subtitle": null,
     "published_at": "2023-06-26T10:02:22+02:00",
-    "updated_at": "2023-06-26T10:18:10+02:00",
+    "updated_at": "2023-06-26T10:32:13+02:00",
     "media_id": "a88xxf3ahz97",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Commentator Sierd de Vos niet bestraft voor 'grap' over 'knipoog-Kroaat'",
     "subtitle": null,
     "published_at": "2023-06-26T09:42:48+02:00",
-    "updated_at": "2023-06-26T10:05:47+02:00",
+    "updated_at": "2023-06-26T10:25:19+02:00",
     "media_id": "jthx1tmalbbv",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "John van den Heuvel wint Italiaanse ereprijs voor journalistiek",
     "subtitle": null,
     "published_at": "2023-06-26T07:13:13+02:00",
-    "updated_at": "2023-06-26T07:29:50+02:00",
+    "updated_at": "2023-06-26T10:23:40+02:00",
     "media_id": "o3cxbr2amivg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6269593/afd-wint-voor-het-eerst-regionale-verkiezing-in-duitsland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269202,
-    "slug": "jongere-wil-vrijheid-in-vakantiewerk-elke-dag-een-ander-baantje",
-    "type": "article",
-    "title": "Jongere wil vrijheid in vakantiewerk: elke dag een ander baantje",
-    "subtitle": null,
-    "published_at": "2023-06-26T06:03:22+02:00",
-    "updated_at": "2023-06-26T06:24:27+02:00",
-    "media_id": "bzrxp7xa5qzv",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6269202/jongere-wil-vrijheid-in-vakantiewerk-elke-dag-een-ander-baantje.html",
     "open_new_window": false,
     "partner": null
   }
