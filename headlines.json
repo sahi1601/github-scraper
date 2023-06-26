@@ -1,12 +1,58 @@
 [
   {
-    "id": 6269593,
-    "slug": "voor-het-eerst-wint-in-duitsland-politicus-van-rechtse-afd-regionale-verkieziing",
+    "id": 6269391,
+    "slug": "jarige-alexia-groeide-beschermd-op-maar-dit-mochten-we-wel-zien",
+    "type": "video",
+    "title": "Jarige Alexia groeide beschermd op, maar dit mochten we wél zien",
+    "subtitle": "Video",
+    "published_at": "2023-06-26T06:44:44+02:00",
+    "updated_at": "2023-06-26T06:44:45+02:00",
+    "media_id": "kxxxcv0a81ih",
+    "duration": "2:30",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6269391/jarige-alexia-groeide-beschermd-op-maar-dit-mochten-we-wel-zien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269594,
+    "slug": "nederland-daalt-16-plekken-op-ranglijst-naleving-kinderrechten-we-schieten-tekort",
     "type": "article",
-    "title": "Voor het eerst wint in Duitsland politicus van rechtse AFD regionale verkieziing",
+    "title": "Nederland daalt 16 plekken op ranglijst naleving kinderrechten: 'we schieten tekort'",
+    "subtitle": null,
+    "published_at": "2023-06-26T06:38:40+02:00",
+    "updated_at": "2023-06-26T06:44:05+02:00",
+    "media_id": "c02xrrxasvfx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6269594/nederland-daalt-16-plekken-op-ranglijst-naleving-kinderrechten-we-schieten-tekort.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269593,
+    "slug": "afd-wint-voor-het-eerst-regionale-verkiezing-in-duitsland",
+    "type": "article",
+    "title": "AfD wint voor het eerst regionale verkiezing  in Duitsland",
     "subtitle": null,
     "published_at": "2023-06-26T06:23:06+02:00",
-    "updated_at": "2023-06-26T06:25:51+02:00",
+    "updated_at": "2023-06-26T06:39:53+02:00",
     "media_id": "7bixvfyazd8a",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6269593/voor-het-eerst-wint-in-duitsland-politicus-van-rechtse-afd-regionale-verkieziing.html",
+    "url": "/buitenland/6269593/afd-wint-voor-het-eerst-regionale-verkiezing-in-duitsland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +236,7 @@
     "title": "Isaac B., belangrijke handlanger van gezochte Jos L., opgepakt in Turkije",
     "subtitle": null,
     "published_at": "2023-06-25T23:27:53+02:00",
-    "updated_at": "2023-06-26T06:18:32+02:00",
+    "updated_at": "2023-06-26T06:34:20+02:00",
     "media_id": "si0xm6nalyf3",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6267861/kylie-minogue-scoort-grootste-hit-in-ruim-tien-jaar-ze-blijft-terugkomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269576,
-    "slug": "recordaantal-zomerse-junidagen-gemeten-in-limburg",
-    "type": "article",
-    "title": "Recordaantal zomerse junidagen gemeten in Limburg",
-    "subtitle": null,
-    "published_at": "2023-06-25T19:11:06+02:00",
-    "updated_at": "2023-06-25T19:24:54+02:00",
-    "media_id": "zxhxh5fa9xx5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6269576/recordaantal-zomerse-junidagen-gemeten-in-limburg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269575,
-    "slug": "golfer-luiten-geeft-voorsprong-weg-en-grijpt-net-naast-eerste-titel-sinds-2018",
-    "type": "article",
-    "title": "Golfer Luiten geeft voorsprong weg en grijpt net naast eerste titel sinds 2018",
-    "subtitle": null,
-    "published_at": "2023-06-25T18:51:28+02:00",
-    "updated_at": "2023-06-25T19:11:26+02:00",
-    "media_id": "r5yxy3wa0lrz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6269575/golfer-luiten-geeft-voorsprong-weg-en-grijpt-net-naast-eerste-titel-sinds-2018.html",
     "open_new_window": false,
     "partner": null
   }
