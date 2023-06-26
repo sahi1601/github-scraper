@@ -1,12 +1,35 @@
 [
   {
+    "id": 6269597,
+    "slug": "kourtney-kardashian-en-travis-barker-verwachten-een-zoon",
+    "type": "article",
+    "title": "Kourtney Kardashian en Travis Barker verwachten een zoon",
+    "subtitle": null,
+    "published_at": "2023-06-26T07:25:34+02:00",
+    "updated_at": "2023-06-26T07:25:35+02:00",
+    "media_id": "dhsx6fka5hxj",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6269597/kourtney-kardashian-en-travis-barker-verwachten-een-zoon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269596,
     "slug": "john-van-den-heuvel-wint-italiaanse-ereprijs-voor-journalistiek",
     "type": "article",
     "title": "John van den Heuvel wint Italiaanse ereprijs voor journalistiek",
     "subtitle": null,
     "published_at": "2023-06-26T07:13:13+02:00",
-    "updated_at": "2023-06-26T07:13:14+02:00",
+    "updated_at": "2023-06-26T07:22:49+02:00",
     "media_id": "o3cxbr2amivg",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6269594,
-    "slug": "nederland-daalt-16-plekken-op-ranglijst-naleving-kinderrechten-we-schieten-tekort",
+    "slug": "nederland-daalt-zestien-plekken-op-ranglijst-kinderrechten-we-schieten-tekort",
     "type": "article",
-    "title": "Nederland daalt 16 plekken op ranglijst naleving kinderrechten: 'We schieten tekort'",
+    "title": "Nederland daalt zestien plekken op ranglijst kinderrechten: 'We schieten tekort'",
     "subtitle": null,
     "published_at": "2023-06-26T06:38:40+02:00",
-    "updated_at": "2023-06-26T06:59:17+02:00",
+    "updated_at": "2023-06-26T07:19:55+02:00",
     "media_id": "c02xrrxasvfx",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6269594/nederland-daalt-16-plekken-op-ranglijst-naleving-kinderrechten-we-schieten-tekort.html",
+    "url": "/binnenland/6269594/nederland-daalt-zestien-plekken-op-ranglijst-kinderrechten-we-schieten-tekort.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Duizenden Noord-Koreanen de straat op met anti-Amerikaanse leuzen",
     "subtitle": null,
     "published_at": "2023-06-26T05:42:58+02:00",
-    "updated_at": "2023-06-26T05:42:59+02:00",
+    "updated_at": "2023-06-26T07:25:31+02:00",
     "media_id": "wiyx4r4aghi5",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Veel kinderen zijn te zwaar, maar dat los je niet (alleen) op met minder eten",
     "subtitle": null,
     "published_at": "2023-06-26T05:25:01+02:00",
-    "updated_at": "2023-06-26T05:25:03+02:00",
+    "updated_at": "2023-06-26T07:23:53+02:00",
     "media_id": "1omxh32aky8c",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Griekse premier wint nieuwe verkiezingsronde en haalt meerderheid in parlement",
     "subtitle": null,
     "published_at": "2023-06-25T21:46:21+02:00",
-    "updated_at": "2023-06-26T05:29:02+02:00",
+    "updated_at": "2023-06-26T07:28:20+02:00",
     "media_id": "m0bxsmoaobx7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6269581/griekse-premier-lijkt-tweede-verkiezingsronde-te-winnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269578,
-    "slug": "ook-chelsea-verdediger-koulibaly-kiest-voor-het-grote-geld-in-saoedi-arabie",
-    "type": "article",
-    "title": "Ook Chelsea-verdediger Koulibaly kiest voor het grote geld in Saoedi-Arabië",
-    "subtitle": null,
-    "published_at": "2023-06-25T20:08:02+02:00",
-    "updated_at": "2023-06-25T20:23:08+02:00",
-    "media_id": "m4mx25dajgx0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6269578/ook-chelsea-verdediger-koulibaly-kiest-voor-het-grote-geld-in-saoedi-arabie.html",
     "open_new_window": false,
     "partner": null
   }
