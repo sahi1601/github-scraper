@@ -1,12 +1,35 @@
 [
   {
-    "id": 6269202,
-    "slug": "jongere-steekt-in-vakantie-handen-uit-de-mouwen-als-bezorger-of-schoonmaker",
+    "id": 6269593,
+    "slug": "voor-het-eerst-wint-in-duitsland-politicus-van-rechtse-afd-regionale-verkieziing",
     "type": "article",
-    "title": "Jongere steekt in vakantie handen uit de mouwen als bezorger of schoonmaker",
+    "title": "Voor het eerst wint in Duitsland politicus van rechtse AFD regionale verkieziing",
+    "subtitle": null,
+    "published_at": "2023-06-26T06:23:06+02:00",
+    "updated_at": "2023-06-26T06:25:51+02:00",
+    "media_id": "7bixvfyazd8a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6269593/voor-het-eerst-wint-in-duitsland-politicus-van-rechtse-afd-regionale-verkieziing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269202,
+    "slug": "jongere-wil-vrijheid-in-vakantiewerk-elke-dag-een-ander-baantje",
+    "type": "article",
+    "title": "Jongere wil vrijheid in vakantiewerk: elke dag een ander baantje",
     "subtitle": null,
     "published_at": "2023-06-26T06:03:22+02:00",
-    "updated_at": "2023-06-26T06:03:23+02:00",
+    "updated_at": "2023-06-26T06:24:27+02:00",
     "media_id": "bzrxp7xa5qzv",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6269202/jongere-steekt-in-vakantie-handen-uit-de-mouwen-als-bezorger-of-schoonmaker.html",
+    "url": "/economie/6269202/jongere-wil-vrijheid-in-vakantiewerk-elke-dag-een-ander-baantje.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Weerbericht: Minder warm en zelfs wat buien met onweer",
     "subtitle": null,
     "published_at": "2023-06-26T06:02:38+02:00",
-    "updated_at": "2023-06-26T06:16:44+02:00",
+    "updated_at": "2023-06-26T06:28:09+02:00",
     "media_id": "ed2x920apvue",
     "duration": null,
     "canonical_section": {
@@ -73,9 +96,9 @@
     "slug": "hoe-verpleegkundige-theodoor-v-na-biecht-over-doden-patienten-vrijkwam",
     "type": "article",
     "title": "Hoe verpleegkundige Theodoor V. na biecht over doden patiënten vrijkwam",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-06-26T05:26:47+02:00",
-    "updated_at": "2023-06-26T06:03:48+02:00",
+    "updated_at": "2023-06-26T06:24:49+02:00",
     "media_id": "vnexe4rarito",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Kylie Minogue scoort grootste hit in ruim tien jaar: 'Ze blijft terugkomen'",
     "subtitle": "NU+",
     "published_at": "2023-06-25T19:15:49+02:00",
-    "updated_at": "2023-06-25T19:21:31+02:00",
+    "updated_at": "2023-06-26T06:29:13+02:00",
     "media_id": "301x9ifax22i",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6269575/golfer-luiten-geeft-voorsprong-weg-en-grijpt-net-naast-eerste-titel-sinds-2018.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269574,
-    "slug": "van-baarle-en-jumbo-visma-zijn-van-der-poel-de-baas-je-moet-soms-slim-zijn",
-    "type": "article",
-    "title": "Van Baarle en Jumbo-Visma zijn Van der Poel de baas: 'Je moet soms slim zijn'",
-    "subtitle": null,
-    "published_at": "2023-06-25T18:47:19+02:00",
-    "updated_at": "2023-06-25T19:39:00+02:00",
-    "media_id": "by5xfsiaeh7j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6269574/van-baarle-en-jumbo-visma-zijn-van-der-poel-de-baas-je-moet-soms-slim-zijn.html",
     "open_new_window": false,
     "partner": null
   }
