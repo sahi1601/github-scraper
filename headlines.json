@@ -1,5 +1,51 @@
 [
   {
+    "id": 6269713,
+    "slug": "prigozhin-verklaart-opstand-was-nodig-om-vernietiging-wagner-te-voorkomen",
+    "type": "article",
+    "title": "Prigozhin verklaart opstand: 'Was nodig om vernietiging Wagner te voorkomen'",
+    "subtitle": null,
+    "published_at": "2023-06-26T17:19:28+02:00",
+    "updated_at": "2023-06-26T17:21:43+02:00",
+    "media_id": "tecxmzbaegx9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6269713/prigozhin-verklaart-opstand-was-nodig-om-vernietiging-wagner-te-voorkomen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269711,
+    "slug": "overtollige-zonnestroom-wordt-minder-waard-voor-klanten-bij-vattenfall",
+    "type": "article",
+    "title": "Overtollige zonnestroom wordt minder waard voor klanten bij Vattenfall",
+    "subtitle": null,
+    "published_at": "2023-06-26T17:14:46+02:00",
+    "updated_at": "2023-06-26T17:14:48+02:00",
+    "media_id": "t6wxsmvaff05",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6269711/overtollige-zonnestroom-wordt-minder-waard-voor-klanten-bij-vattenfall.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269707,
     "slug": "lenen-rood-staan-en-kopen-op-krediet-wordt-mogelijk-duurder",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Rekenkamer: Onzeker of EU klimaatdoelen gaat halen, meer transparantie nodig",
     "subtitle": null,
     "published_at": "2023-06-26T17:00:51+02:00",
-    "updated_at": "2023-06-26T17:00:52+02:00",
+    "updated_at": "2023-06-26T17:15:53+02:00",
     "media_id": "umfxtoia09mf",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6269660/drukte-in-asielopvang-ook-terug-te-zien-in-aantal-incidenten-en-misdrijven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269675,
-    "slug": "roger-federer-grapt-na-vangbal-kate-middleton-mag-dat-wel",
-    "type": "video",
-    "title": "Roger Federer grapt na vangbal Kate Middleton: 'Mag dat wel?'",
-    "subtitle": "Video",
-    "published_at": "2023-06-26T14:43:07+02:00",
-    "updated_at": "2023-06-26T14:43:08+02:00",
-    "media_id": "ecyxfkuaa6qh",
-    "duration": "0:49",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6269675/roger-federer-grapt-na-vangbal-kate-middleton-mag-dat-wel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269655,
-    "slug": "bijna-gepensioneerde-elton-john-trekt-miljoenenpubliek-met-glastonbury-show",
-    "type": "article",
-    "title": "Bijna gepensioneerde Elton John trekt miljoenenpubliek met Glastonbury-show",
-    "subtitle": null,
-    "published_at": "2023-06-26T14:39:05+02:00",
-    "updated_at": "2023-06-26T14:59:59+02:00",
-    "media_id": "k7nxbwgaz76z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6269655/bijna-gepensioneerde-elton-john-trekt-miljoenenpubliek-met-glastonbury-show.html",
     "open_new_window": false,
     "partner": null
   }
