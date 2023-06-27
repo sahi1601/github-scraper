@@ -1,12 +1,35 @@
 [
   {
+    "id": 6269764,
+    "slug": "dick-schreuder-vertrekt-verrassend-bij-pec-zwolle-op-dag-van-eerste-training",
+    "type": "article",
+    "title": "Dick Schreuder vertrekt verrassend bij PEC Zwolle op dag van eerste training",
+    "subtitle": null,
+    "published_at": "2023-06-27T09:16:59+02:00",
+    "updated_at": "2023-06-27T09:25:18+02:00",
+    "media_id": "7x9xr3sawoe4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6269764/dick-schreuder-vertrekt-verrassend-bij-pec-zwolle-op-dag-van-eerste-training.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269763,
     "slug": "argentinie-stelt-voor-dodenvluchten-gebruikt-vliegtuig-tentoon",
     "type": "video",
     "title": "Argentinië stelt voor dodenvluchten gebruikt vliegtuig tentoon",
     "subtitle": "Video",
     "published_at": "2023-06-27T09:13:53+02:00",
-    "updated_at": "2023-06-27T09:13:54+02:00",
+    "updated_at": "2023-06-27T09:14:33+02:00",
     "media_id": "xbmxwchartgn",
     "duration": "0:51",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6269673/mensen-met-een-beperking-vallen-nog-steeds-buiten-de-boot-op-de-arbeidsmarkt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269749,
-    "slug": "actrice-angela-bassett-krijgt-oscar-voor-haar-oeuvre",
-    "type": "article",
-    "title": "Actrice Angela Bassett krijgt Oscar voor haar oeuvre",
-    "subtitle": null,
-    "published_at": "2023-06-26T23:50:09+02:00",
-    "updated_at": "2023-06-27T06:08:59+02:00",
-    "media_id": "wuuxc5aaxzz5",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6269749/actrice-angela-bassett-krijgt-oscar-voor-haar-oeuvre.html",
     "open_new_window": false,
     "partner": null
   }
