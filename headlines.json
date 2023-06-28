@@ -1,5 +1,28 @@
 [
   {
+    "id": 6270034,
+    "slug": "blusvliegtuigen-voorkomen-dat-tientallen-woningen-worden-verwoest-in-vs",
+    "type": "video",
+    "title": "Blusvliegtuigen voorkomen dat tientallen woningen worden verwoest in VS",
+    "subtitle": "Video",
+    "published_at": "2023-06-28T18:49:17+02:00",
+    "updated_at": "2023-06-28T18:51:10+02:00",
+    "media_id": "xuvx8bnald13",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6270034/blusvliegtuigen-voorkomen-dat-tientallen-woningen-worden-verwoest-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270032,
     "slug": "uefa-bepaalt-locaties-europese-finales-en-hakt-knoop-door-over-wk-kwalificatie",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Brokstukken onderzeeër Titan voor onderzoek aangekomen op vasteland Canada",
     "subtitle": null,
     "published_at": "2023-06-28T18:40:41+02:00",
-    "updated_at": "2023-06-28T18:40:42+02:00",
+    "updated_at": "2023-06-28T18:55:52+02:00",
     "media_id": "3jaxsycae8qi",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6270031,
-    "slug": "ook-chelsea-doelman-mendy-zwicht-voor-oliedollars-en-vertrekt-naar-saoedi-arabie",
+    "slug": "ook-chelsea-keeper-mendy-kiest-voor-oliedollars-en-vertrekt-naar-saoedi-arabie",
     "type": "article",
-    "title": "Ook Chelsea-doelman Mendy zwicht voor oliedollars en vertrekt naar Saoedi-Arabië",
+    "title": "Ook Chelsea-keeper Mendy kiest voor oliedollars en vertrekt naar Saoedi-Arabië",
     "subtitle": null,
     "published_at": "2023-06-28T18:38:39+02:00",
-    "updated_at": "2023-06-28T18:38:40+02:00",
+    "updated_at": "2023-06-28T19:01:03+02:00",
     "media_id": "r1nxhmuarotc",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6270031/ook-chelsea-doelman-mendy-zwicht-voor-oliedollars-en-vertrekt-naar-saoedi-arabie.html",
+    "url": "/voetbal/6270031/ook-chelsea-keeper-mendy-kiest-voor-oliedollars-en-vertrekt-naar-saoedi-arabie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6270003/amerikaan-blijkt-enige-passagier-in-vliegtuig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269995,
-    "slug": "13-jarige-australische-schrijft-geschiedenis-met-skateboardtruc",
-    "type": "video",
-    "title": "13-jarige Australische schrijft geschiedenis met skateboardtruc",
-    "subtitle": "Video",
-    "published_at": "2023-06-28T14:53:36+02:00",
-    "updated_at": "2023-06-28T14:53:38+02:00",
-    "media_id": "d1wxzoka93c0",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6269995/13-jarige-australische-schrijft-geschiedenis-met-skateboardtruc.html",
     "open_new_window": false,
     "partner": null
   }
