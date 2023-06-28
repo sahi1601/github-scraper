@@ -1,12 +1,35 @@
 [
   {
+    "id": 6269937,
+    "slug": "grote-rookwolken-trekken-over-rotterdam-door-brand-in-houtopslag",
+    "type": "video",
+    "title": "Grote rookwolken trekken over Rotterdam door brand in houtopslag",
+    "subtitle": "Video",
+    "published_at": "2023-06-28T09:41:55+02:00",
+    "updated_at": "2023-06-28T09:41:56+02:00",
+    "media_id": "a6fxul7a4w3p",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6269937/grote-rookwolken-trekken-over-rotterdam-door-brand-in-houtopslag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269933,
     "slug": "ajax-en-feyenoord-treffen-elkaar-komend-seizoen-al-in-zesde-speelronde",
     "type": "article",
     "title": "Ajax en Feyenoord treffen elkaar komend seizoen al in zesde speelronde",
     "subtitle": null,
     "published_at": "2023-06-28T09:17:36+02:00",
-    "updated_at": "2023-06-28T09:17:37+02:00",
+    "updated_at": "2023-06-28T09:37:04+02:00",
     "media_id": "d4dx8p5atttm",
     "duration": null,
     "canonical_section": {
@@ -98,8 +121,8 @@
     "title": "Grote brand in Rotterdam, NL Alert vanwege dikke rookwolken boven de stad",
     "subtitle": null,
     "published_at": "2023-06-28T08:28:33+02:00",
-    "updated_at": "2023-06-28T08:45:06+02:00",
-    "media_id": "26qxskta02zo",
+    "updated_at": "2023-06-28T09:35:17+02:00",
+    "media_id": "3y8xwd5a5ohh",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6269911/npo-roept-omroepen-op-om-met-plannen-voor-jazz-en-wereldmuziek-te-komen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269910,
-    "slug": "weinig-misstanden-rond-islamitisch-offerfeest-waarom-dan-toch-strikt-toezicht",
-    "type": "article",
-    "title": "Weinig misstanden rond islamitisch Offerfeest, waarom dan toch 'strikt toezicht'?",
-    "subtitle": null,
-    "published_at": "2023-06-28T05:46:39+02:00",
-    "updated_at": "2023-06-28T09:23:02+02:00",
-    "media_id": "332xlosaef07",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6269910/weinig-misstanden-rond-islamitisch-offerfeest-waarom-dan-toch-strikt-toezicht.html",
     "open_new_window": false,
     "partner": null
   }
