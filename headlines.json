@@ -1,12 +1,35 @@
 [
   {
+    "id": 6269862,
+    "slug": "nog-steeds-verstijft-ze-van-angst-inna-vertelt-over-haar-leven-in-kyiv",
+    "type": "video",
+    "title": "Nog steeds verstijft ze van angst: Inna vertelt over haar leven in Kyiv",
+    "subtitle": "Explainer",
+    "published_at": "2023-06-28T06:36:56+02:00",
+    "updated_at": "2023-06-28T06:36:57+02:00",
+    "media_id": "pvvxeeja9l96",
+    "duration": "2:06",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6269862/nog-steeds-verstijft-ze-van-angst-inna-vertelt-over-haar-leven-in-kyiv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6269847,
     "slug": "schatkist-krijgt-flinke-knauw-van-accijnsverlaging-op-brandstof",
     "type": "article",
     "title": "Schatkist krijgt flinke knauw van accijnsverlaging op brandstof",
     "subtitle": null,
     "published_at": "2023-06-28T06:13:45+02:00",
-    "updated_at": "2023-06-28T06:13:46+02:00",
+    "updated_at": "2023-06-28T06:33:33+02:00",
     "media_id": "lpdx4h3afvaz",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Nederlandse familiefilm Knor is inmiddels aan 28 landen verkocht",
     "subtitle": null,
     "published_at": "2023-06-28T06:04:50+02:00",
-    "updated_at": "2023-06-28T06:04:51+02:00",
+    "updated_at": "2023-06-28T06:38:17+02:00",
     "media_id": "timx9ola04bk",
     "duration": null,
     "canonical_section": {
@@ -98,8 +121,8 @@
     "title": "Matthijs van de Sande Bakhuyzen krijgt hoofdrol in Viaplay-serie Billy The Kid",
     "subtitle": null,
     "published_at": "2023-06-28T05:53:48+02:00",
-    "updated_at": "2023-06-28T06:30:47+02:00",
-    "media_id": "gvzxkn9akexw",
+    "updated_at": "2023-06-28T06:37:40+02:00",
+    "media_id": "s2oxsg5a1fl3",
     "duration": null,
     "canonical_section": {
       "id": 1771675,
@@ -121,7 +144,7 @@
     "title": "NPO roept omroepen op om met plannen voor jazz en wereldmuziek te komen",
     "subtitle": null,
     "published_at": "2023-06-28T05:50:47+02:00",
-    "updated_at": "2023-06-28T05:50:49+02:00",
+    "updated_at": "2023-06-28T06:36:22+02:00",
     "media_id": "2odxrr2akb0d",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6269889/meeste-schuilkelders-in-oekraine-blijken-niet-geschikt-om-in-te-schuilen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6269900,
-    "slug": "hond-rent-het-veld-op-tijdens-ek-duel-jong-oranje",
-    "type": "video",
-    "title": "Hond rent het veld op tijdens EK-duel Jong Oranje",
-    "subtitle": "Video",
-    "published_at": "2023-06-27T21:31:16+02:00",
-    "updated_at": "2023-06-27T21:31:17+02:00",
-    "media_id": "3s0xysnaihec",
-    "duration": "0:28",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6269900/hond-rent-het-veld-op-tijdens-ek-duel-jong-oranje.html",
     "open_new_window": false,
     "partner": null
   }
