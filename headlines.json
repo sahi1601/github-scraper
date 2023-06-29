@@ -1,12 +1,35 @@
 [
   {
-    "id": 6270078,
-    "slug": "vooruitblik-f1-de-vries-kan-moeilijke-situatie-maar-op-een-manier-omkeren",
+    "id": 6270101,
+    "slug": "vorig-jaar-minder-pakketjes-verstuurd-maar-nog-wel-veel-meer-dan-voor-corona",
     "type": "article",
-    "title": "Vooruitblik F1: 'De Vries kan moeilijke situatie maar op één manier omkeren'",
+    "title": "Vorig jaar minder pakketjes verstuurd, maar nog wel veel meer dan voor corona",
+    "subtitle": null,
+    "published_at": "2023-06-29T10:33:24+02:00",
+    "updated_at": "2023-06-29T10:39:08+02:00",
+    "media_id": "fwexrexa6eo8",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6270101/vorig-jaar-minder-pakketjes-verstuurd-maar-nog-wel-veel-meer-dan-voor-corona.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270078,
+    "slug": "vooruitblik-f1-de-vries-kan-situatie-maar-op-een-manier-omkeren",
+    "type": "article",
+    "title": "Vooruitblik F1: 'De Vries kan situatie maar op één manier omkeren'",
     "subtitle": "NU+",
     "published_at": "2023-06-29T10:32:19+02:00",
-    "updated_at": "2023-06-29T10:32:20+02:00",
+    "updated_at": "2023-06-29T10:44:38+02:00",
     "media_id": "xufxvwxakssm",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport/6270078/vooruitblik-f1-de-vries-kan-moeilijke-situatie-maar-op-een-manier-omkeren.html",
+    "url": "/sport/6270078/vooruitblik-f1-de-vries-kan-situatie-maar-op-een-manier-omkeren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Geblesseerde Miedema sluit even aan bij Oranje tijdens WK-voorbereiding",
     "subtitle": null,
     "published_at": "2023-06-29T09:08:48+02:00",
-    "updated_at": "2023-06-29T09:38:50+02:00",
+    "updated_at": "2023-06-29T10:39:02+02:00",
     "media_id": "c3kxczwa76n5",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Trekkers niet welkom in Den Haag, boeren willen actievoeren bij Kamergebouw",
     "subtitle": null,
     "published_at": "2023-06-29T08:15:19+02:00",
-    "updated_at": "2023-06-29T10:11:51+02:00",
+    "updated_at": "2023-06-29T10:45:26+02:00",
     "media_id": "ji3x9dkaxdw9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6270070/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270069,
-    "slug": "weerbericht-vooral-veel-bewolking-mogelijk-met-regen",
-    "type": "article",
-    "title": "Weerbericht: Vooral veel bewolking, mogelijk met regen",
-    "subtitle": null,
-    "published_at": "2023-06-29T06:34:23+02:00",
-    "updated_at": "2023-06-29T07:09:16+02:00",
-    "media_id": "103x2xdaijd1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6270069/weerbericht-vooral-veel-bewolking-mogelijk-met-regen.html",
     "open_new_window": false,
     "partner": null
   }
