@@ -1,12 +1,58 @@
 [
   {
+    "id": 6270129,
+    "slug": "dierenpark-amersfoort-toont-nieuw-luiaardjong-van-europas-topkoppel",
+    "type": "video",
+    "title": "DierenPark Amersfoort toont nieuw luiaardjong van Europa’s 'topkoppel'",
+    "subtitle": "Video",
+    "published_at": "2023-06-29T12:30:52+02:00",
+    "updated_at": "2023-06-29T12:30:54+02:00",
+    "media_id": "4daxnlza2uql",
+    "duration": "0:33",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6270129/dierenpark-amersfoort-toont-nieuw-luiaardjong-van-europas-topkoppel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270124,
+    "slug": "jumbo-visma-neemt-multitalent-van-empel-verrassend-mee-naar-giro-donne",
+    "type": "article",
+    "title": "Jumbo-Visma neemt multitalent Van Empel verrassend mee naar Giro Donne",
+    "subtitle": null,
+    "published_at": "2023-06-29T12:21:52+02:00",
+    "updated_at": "2023-06-29T12:22:46+02:00",
+    "media_id": "1wrxvznamxup",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6270124/jumbo-visma-neemt-multitalent-van-empel-verrassend-mee-naar-giro-donne.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270122,
     "slug": "brits-hof-verbiedt-omstreden-plan-om-asielzoekers-naar-rwanda-te-sturen",
     "type": "article",
     "title": "Brits hof verbiedt omstreden plan om asielzoekers naar Rwanda te sturen",
     "subtitle": null,
     "published_at": "2023-06-29T12:15:35+02:00",
-    "updated_at": "2023-06-29T12:15:37+02:00",
+    "updated_at": "2023-06-29T12:30:41+02:00",
     "media_id": "usrxb83a0d7f",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "'De Vries moet gaan opvallen om in F1 te blijven'",
     "subtitle": "Podcast De Boordradio",
     "published_at": "2023-06-29T12:12:13+02:00",
-    "updated_at": "2023-06-29T12:15:25+02:00",
+    "updated_at": "2023-06-29T12:17:43+02:00",
     "media_id": "36tx2lgapggp",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Zwemvedette Ledecky voor het eerst in 9 jaar verslagen op 200 vrij in eigen land",
     "subtitle": null,
     "published_at": "2023-06-29T11:37:31+02:00",
-    "updated_at": "2023-06-29T11:45:33+02:00",
+    "updated_at": "2023-06-29T12:22:30+02:00",
     "media_id": "dg3xwocavy0s",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Ook Rabobank gooit spaarrente voor vierde keer dit jaar omhoog",
     "subtitle": null,
     "published_at": "2023-06-29T10:23:39+02:00",
-    "updated_at": "2023-06-29T12:17:15+02:00",
+    "updated_at": "2023-06-29T12:17:40+02:00",
     "media_id": "6wwxu0aafuf4",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/vragenoproep/6270090/ben-jij-docent-en-wil-je-wat-delen-over-het-lerarentekort-wij-zoeken-jou.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270091,
-    "slug": "korte-tijd-minder-treinen-door-storing-bij-station-zaandam-treinverkeer-hervat",
-    "type": "article",
-    "title": "Korte tijd minder treinen door storing bij station Zaandam, treinverkeer hervat",
-    "subtitle": null,
-    "published_at": "2023-06-29T09:39:51+02:00",
-    "updated_at": "2023-06-29T11:34:10+02:00",
-    "media_id": "fn5xrpjafuod",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6270091/korte-tijd-minder-treinen-door-storing-bij-station-zaandam-treinverkeer-hervat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270086,
-    "slug": "begrafenis-elizabeth-en-kroning-charles-maken-brits-koningshuis-duurder",
-    "type": "article",
-    "title": "Begrafenis Elizabeth en kroning Charles maken Brits koningshuis duurder",
-    "subtitle": null,
-    "published_at": "2023-06-29T09:39:36+02:00",
-    "updated_at": "2023-06-29T09:39:37+02:00",
-    "media_id": "6dux846a3yiz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6270086/begrafenis-elizabeth-en-kroning-charles-maken-brits-koningshuis-duurder.html",
     "open_new_window": false,
     "partner": null
   }
