@@ -1,5 +1,51 @@
 [
   {
+    "id": 6270070,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-06-29T06:35:01+02:00",
+    "updated_at": "2023-06-29T06:45:41+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6270070/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270069,
+    "slug": "weerbericht-vooral-veel-bewolking-mogelijk-met-regen",
+    "type": "article",
+    "title": "Weerbericht: Vooral veel bewolking, mogelijk met regen",
+    "subtitle": null,
+    "published_at": "2023-06-29T06:34:23+02:00",
+    "updated_at": "2023-06-29T06:34:24+02:00",
+    "media_id": "103x2xdaijd1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6270069/weerbericht-vooral-veel-bewolking-mogelijk-met-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270068,
     "slug": "dit-is-de-winnaar-van-de-tweede-editie-van-het-perfecte-plaatje-op-reis",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Opnieuw rellen in Frankrijk nadat politie zeventienjarige jongen doodschoot",
     "subtitle": null,
     "published_at": "2023-06-29T06:04:55+02:00",
-    "updated_at": "2023-06-29T06:10:17+02:00",
+    "updated_at": "2023-06-29T06:45:18+02:00",
     "media_id": "zpax9bgawakr",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Vermoedelijk menselijke resten gevonden tussen brokstukken onderzeeër Titan",
     "subtitle": null,
     "published_at": "2023-06-29T00:38:55+02:00",
-    "updated_at": "2023-06-29T05:22:04+02:00",
+    "updated_at": "2023-06-29T06:45:23+02:00",
     "media_id": "l4sxh0eaqk2d",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6270053/stille-tocht-in-den-haag-voor-doodgestoken-medewerkster-supermarkt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270051,
-    "slug": "arsenal-breekt-bijna-eigen-transferrecord-voor-havertz-maddison-naar-tottenham",
-    "type": "article",
-    "title": "Arsenal breekt bijna eigen transferrecord voor Havertz, Maddison naar Tottenham",
-    "subtitle": null,
-    "published_at": "2023-06-28T21:15:02+02:00",
-    "updated_at": "2023-06-28T22:22:25+02:00",
-    "media_id": "n5ax8vvaw66t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6270051/arsenal-breekt-bijna-eigen-transferrecord-voor-havertz-maddison-naar-tottenham.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270048,
-    "slug": "na-jong-oranje-ook-titelverdediger-jong-duitsland-roemloos-uitgeschakeld-op-ek",
-    "type": "article",
-    "title": "Na Jong Oranje ook titelverdediger Jong Duitsland roemloos uitgeschakeld op EK",
-    "subtitle": null,
-    "published_at": "2023-06-28T20:20:36+02:00",
-    "updated_at": "2023-06-28T20:41:17+02:00",
-    "media_id": "rv2xi1uauv8o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6270048/na-jong-oranje-ook-titelverdediger-jong-duitsland-roemloos-uitgeschakeld-op-ek.html",
     "open_new_window": false,
     "partner": null
   }
