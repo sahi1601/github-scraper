@@ -1,12 +1,35 @@
 [
   {
-    "id": 6270366,
-    "slug": "verstappen-baalt-ondanks-pole-van-track-limits-in-spielberg-het-was-overleven",
+    "id": 6270368,
+    "slug": "rechters-bevriezen-bolsonaros-mogelijke-herverkiezingsdromen-voor-acht-jaar",
     "type": "article",
-    "title": "Verstappen baalt ondanks pole van track limits in Spielberg: 'Het was overleven'",
+    "title": "Rechters bevriezen Bolsonaro's mogelijke herverkiezingsdromen voor acht jaar",
+    "subtitle": null,
+    "published_at": "2023-06-30T18:41:02+02:00",
+    "updated_at": "2023-06-30T18:41:03+02:00",
+    "media_id": "va0xrbdamm33",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6270368/rechters-bevriezen-bolsonaros-mogelijke-herverkiezingsdromen-voor-acht-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270366,
+    "slug": "verstappen-baalt-ondanks-pole-van-tracklimits-in-spielberg-het-was-overleven",
+    "type": "article",
+    "title": "Verstappen baalt ondanks pole van tracklimits in Spielberg: 'Het was overleven'",
     "subtitle": null,
     "published_at": "2023-06-30T18:28:27+02:00",
-    "updated_at": "2023-06-30T18:30:55+02:00",
+    "updated_at": "2023-06-30T18:41:26+02:00",
     "media_id": "jhwxpraa1m51",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6270366/verstappen-baalt-ondanks-pole-van-track-limits-in-spielberg-het-was-overleven.html",
+    "url": "/formule-1/6270366/verstappen-baalt-ondanks-pole-van-tracklimits-in-spielberg-het-was-overleven.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Oscarwinnaar Alan Arkin op 89-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-06-30T16:35:04+02:00",
-    "updated_at": "2023-06-30T16:41:59+02:00",
+    "updated_at": "2023-06-30T18:34:32+02:00",
     "media_id": "aw5xff3a7ruj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6270163/armere-stellen-met-kinderen-komen-honderden-euros-per-maand-tekort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270331,
-    "slug": "nieuw-orgaan-moet-wielrennen-veiliger-maken-de-sport-wordt-steeds-gevaarlijker",
-    "type": "article",
-    "title": "Nieuw orgaan moet wielrennen veiliger maken: 'De sport wordt steeds gevaarlijker'",
-    "subtitle": null,
-    "published_at": "2023-06-30T15:48:44+02:00",
-    "updated_at": "2023-06-30T18:03:11+02:00",
-    "media_id": "1q4x8y7af03t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6270331/nieuw-orgaan-moet-wielrennen-veiliger-maken-de-sport-wordt-steeds-gevaarlijker.html",
     "open_new_window": false,
     "partner": null
   }
