@@ -1,5 +1,51 @@
 [
   {
+    "id": 6270241,
+    "slug": "wat-wil-je-weten-over-nunl-vraag-het-onze-hoofdredactie",
+    "type": "article",
+    "title": "Wat wil je weten over NU.nl? Vraag het onze hoofdredactie",
+    "subtitle": "Over NU",
+    "published_at": "2023-06-30T09:17:28+02:00",
+    "updated_at": "2023-06-30T09:17:29+02:00",
+    "media_id": "ffoxgnranjmy",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6270241/wat-wil-je-weten-over-nunl-vraag-het-onze-hoofdredactie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270243,
+    "slug": "ns-topman-roept-ministeries-op-geweld-tegen-personeel-tegen-te-gaan",
+    "type": "article",
+    "title": "NS-topman roept ministeries op geweld tegen personeel tegen te gaan",
+    "subtitle": null,
+    "published_at": "2023-06-30T09:15:19+02:00",
+    "updated_at": "2023-06-30T09:15:20+02:00",
+    "media_id": "cnfxxg7ar9c7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6270243/ns-topman-roept-ministeries-op-geweld-tegen-personeel-tegen-te-gaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270242,
     "slug": "we-houden-in-de-winkel-steeds-vaker-de-hand-op-de-knip",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6270182/drukte-bij-benzinepomp-we-tanken-nog-gauw-voordat-de-prijzen-zaterdag-stijgen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270228,
-    "slug": "fc-barcelona-beweert-dat-het-vorig-jaar-100-miljoen-euro-weigerde-voor-de-jong",
-    "type": "article",
-    "title": "FC Barcelona beweert dat het vorig jaar 100 miljoen euro weigerde voor De Jong",
-    "subtitle": null,
-    "published_at": "2023-06-30T00:23:47+02:00",
-    "updated_at": "2023-06-30T06:48:11+02:00",
-    "media_id": "x3xxlu5a2mk4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6270228/fc-barcelona-beweert-dat-het-vorig-jaar-100-miljoen-euro-weigerde-voor-de-jong.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270227,
-    "slug": "schokgolven-gemeten-van-twee-zwarte-gaten-die-ver-in-de-ruimte-op-elkaar-botsen",
-    "type": "article",
-    "title": "Schokgolven gemeten van twee zwarte gaten die ver in de ruimte op elkaar botsen",
-    "subtitle": null,
-    "published_at": "2023-06-29T23:53:52+02:00",
-    "updated_at": "2023-06-30T06:25:59+02:00",
-    "media_id": "x5kx4gbavutl",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6270227/schokgolven-gemeten-van-twee-zwarte-gaten-die-ver-in-de-ruimte-op-elkaar-botsen.html",
     "open_new_window": false,
     "partner": null
   }
