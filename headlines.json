@@ -1,5 +1,28 @@
 [
   {
+    "id": 6270242,
+    "slug": "we-houden-in-de-winkel-steeds-vaker-de-hand-op-de-knip",
+    "type": "article",
+    "title": "We houden in de winkel steeds vaker de hand op de knip",
+    "subtitle": null,
+    "published_at": "2023-06-30T08:23:06+02:00",
+    "updated_at": "2023-06-30T08:24:44+02:00",
+    "media_id": "dgoxny7a4jbm",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6270242/we-houden-in-de-winkel-steeds-vaker-de-hand-op-de-knip.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270238,
     "slug": "kerken-belijden-vrijdag-schuld-over-hun-rol-tijdens-slavernij",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6270227/schokgolven-gemeten-van-twee-zwarte-gaten-die-ver-in-de-ruimte-op-elkaar-botsen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270225,
-    "slug": "coalitie-gemeente-den-haag-gevallen-door-discussie-over-oppositieleider-de-mos",
-    "type": "article",
-    "title": "Coalitie gemeente Den Haag gevallen door discussie over oppositieleider De Mos",
-    "subtitle": null,
-    "published_at": "2023-06-29T22:34:02+02:00",
-    "updated_at": "2023-06-30T06:21:26+02:00",
-    "media_id": "lj8xlhsa13nu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6270225/coalitie-gemeente-den-haag-gevallen-door-discussie-over-oppositieleider-de-mos.html",
     "open_new_window": false,
     "partner": null
   }
