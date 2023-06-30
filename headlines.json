@@ -1,5 +1,97 @@
 [
   {
+    "id": 6270233,
+    "slug": "prijzen-stijgen-in-juni-minder-hard-door-goedkopere-energie",
+    "type": "article",
+    "title": "Prijzen stijgen in juni minder hard door goedkopere energie",
+    "subtitle": null,
+    "published_at": "2023-06-30T06:39:01+02:00",
+    "updated_at": "2023-06-30T06:39:02+02:00",
+    "media_id": "i0oxe70au3vq",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6270233/prijzen-stijgen-in-juni-minder-hard-door-goedkopere-energie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6269659,
+    "slug": "hoe-het-heilige-vuur-doofde-in-wielervedette-peter-sagan",
+    "type": "article",
+    "title": "Hoe het heilige vuur doofde in wielervedette Peter Sagan",
+    "subtitle": "NU+",
+    "published_at": "2023-06-30T06:34:48+02:00",
+    "updated_at": "2023-06-30T06:34:49+02:00",
+    "media_id": "cebx87fake5j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6269659/hoe-het-heilige-vuur-doofde-in-wielervedette-peter-sagan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270171,
+    "slug": "f1-test-in-oostenrijk-eigen-koolstofarme-energiecentrale-zo-werkt-het",
+    "type": "video",
+    "title": "F1 test in Oostenrijk eigen koolstofarme energiecentrale: zo werkt het",
+    "subtitle": "Explainer",
+    "published_at": "2023-06-30T06:32:13+02:00",
+    "updated_at": "2023-06-30T06:32:14+02:00",
+    "media_id": "zb2xxfbaedp6",
+    "duration": "2:14",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Oostenrijk",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6270171/f1-test-in-oostenrijk-eigen-koolstofarme-energiecentrale-zo-werkt-het.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270203,
+    "slug": "verstappen-adviseert-nyck-de-vries-ga-vooral-niets-forceren",
+    "type": "article",
+    "title": "Verstappen adviseert Nyck de Vries: 'Ga vooral niets forceren'",
+    "subtitle": null,
+    "published_at": "2023-06-30T06:31:56+02:00",
+    "updated_at": "2023-06-30T06:31:57+02:00",
+    "media_id": "y0vxy4nayf91",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Oostenrijk",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6270203/verstappen-adviseert-nyck-de-vries-ga-vooral-niets-forceren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270232,
     "slug": "weerbericht-een-aangename-voorjaarsdag-maar-dan-midden-in-de-zomer",
     "type": "article",
@@ -98,7 +190,7 @@
     "title": "Welke Oranjevrouwen gaan naar het WK? 'Spanning erger dan bij eindexamen'",
     "subtitle": null,
     "published_at": "2023-06-30T05:07:06+02:00",
-    "updated_at": "2023-06-30T05:07:07+02:00",
+    "updated_at": "2023-06-30T06:35:18+02:00",
     "media_id": "x6ixldha9jl4",
     "duration": null,
     "canonical_section": {
@@ -162,12 +254,12 @@
   },
   {
     "id": 6270228,
-    "slug": "barcelona-weigerde-100-miljoen-voor-de-jong-enkele-spelers-zijn-niet-te-koop",
+    "slug": "fc-barcelona-beweert-dat-het-vorig-jaar-100-miljoen-weigerde-voor-de-jong",
     "type": "article",
-    "title": "Barcelona weigerde 100 miljoen voor De Jong: 'Enkele spelers zijn niet te koop'",
+    "title": "FC Barcelona beweert dat het vorig jaar 100 miljoen weigerde voor De Jong",
     "subtitle": null,
     "published_at": "2023-06-30T00:23:47+02:00",
-    "updated_at": "2023-06-30T06:28:36+02:00",
+    "updated_at": "2023-06-30T06:39:33+02:00",
     "media_id": "x3xxlu5a2mk4",
     "duration": null,
     "canonical_section": {
@@ -179,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6270228/barcelona-weigerde-100-miljoen-voor-de-jong-enkele-spelers-zijn-niet-te-koop.html",
+    "url": "/voetbal/6270228/fc-barcelona-beweert-dat-het-vorig-jaar-100-miljoen-weigerde-voor-de-jong.html",
     "open_new_window": false,
     "partner": null
   },
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/opmerkelijk/6270217/politie-rukt-uit-voor-gecamoufleerde-mensen-met-wapens-blijkt-militaire-oefening.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270215,
-    "slug": "handtas-kleiner-dan-zandkorrel-geveild-voor-bijna-64000-dollar",
-    "type": "article",
-    "title": "Handtas kleiner dan zandkorrel geveild voor bijna 64.000 dollar",
-    "subtitle": null,
-    "published_at": "2023-06-29T20:57:11+02:00",
-    "updated_at": "2023-06-29T21:48:10+02:00",
-    "media_id": "tllx53haqs0m",
-    "duration": null,
-    "canonical_section": {
-      "id": 937692,
-      "slug": "opmerkelijk",
-      "type": "default",
-      "name": "Opmerkelijk",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/opmerkelijk/6270215/handtas-kleiner-dan-zandkorrel-geveild-voor-bijna-64000-dollar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270214,
-    "slug": "modric-aangeklaagd-wegens-valse-verklaring-in-corruptiezaak",
-    "type": "article",
-    "title": "Modric aangeklaagd wegens valse verklaring in corruptiezaak",
-    "subtitle": null,
-    "published_at": "2023-06-29T20:31:28+02:00",
-    "updated_at": "2023-06-29T20:46:38+02:00",
-    "media_id": "g4oxz9pajkqt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6270214/modric-aangeklaagd-wegens-valse-verklaring-in-corruptiezaak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270213,
-    "slug": "oranjevrouwen-verbaasd-over-stenen-en-glas-op-het-veld-te-gek-voor-woorden",
-    "type": "article",
-    "title": "Oranjevrouwen verbaasd over stenen en glas op het veld: 'Te gek voor woorden'",
-    "subtitle": null,
-    "published_at": "2023-06-29T20:30:15+02:00",
-    "updated_at": "2023-06-29T22:36:58+02:00",
-    "media_id": "bt7xgi9a26ui",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6270213/oranjevrouwen-verbaasd-over-stenen-en-glas-op-het-veld-te-gek-voor-woorden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270212,
-    "slug": "van-der-poel-en-andere-tour-renners-presenteren-zich-in-bilbao",
-    "type": "article",
-    "title": "Van der Poel en andere Tour-renners presenteren zich in Bilbao",
-    "subtitle": "In beeld",
-    "published_at": "2023-06-29T20:19:05+02:00",
-    "updated_at": "2023-06-29T21:52:09+02:00",
-    "media_id": "hujxj49anhr9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6270212/van-der-poel-en-andere-tour-renners-presenteren-zich-in-bilbao.html",
     "open_new_window": false,
     "partner": null
   }
