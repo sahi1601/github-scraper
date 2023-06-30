@@ -1,5 +1,51 @@
 [
   {
+    "id": 6270245,
+    "slug": "ook-rellen-in-brussel-na-dood-franse-tiener",
+    "type": "video",
+    "title": "Ook rellen in Brussel na dood Franse tiener",
+    "subtitle": "Video",
+    "published_at": "2023-06-30T09:36:33+02:00",
+    "updated_at": "2023-06-30T09:44:49+02:00",
+    "media_id": "s8nxa05a0k5g",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6270245/ook-rellen-in-brussel-na-dood-franse-tiener.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270244,
+    "slug": "knor-draait-al-een-jaar-in-de-bioscoop-waar-zie-je-dat-nog-in-deze-tijden",
+    "type": "article",
+    "title": "Knor draait al een jaar in de bioscoop: 'Waar zie je dat nog in deze tijden?'",
+    "subtitle": null,
+    "published_at": "2023-06-30T09:27:07+02:00",
+    "updated_at": "2023-06-30T09:27:09+02:00",
+    "media_id": "timx9ola04bk",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6270244/knor-draait-al-een-jaar-in-de-bioscoop-waar-zie-je-dat-nog-in-deze-tijden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270241,
     "slug": "wat-wil-je-weten-over-nunl-vraag-het-onze-hoofdredactie",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "We houden in de winkel steeds vaker de hand op de knip",
     "subtitle": null,
     "published_at": "2023-06-30T08:23:06+02:00",
-    "updated_at": "2023-06-30T08:24:44+02:00",
+    "updated_at": "2023-06-30T09:30:51+02:00",
     "media_id": "dgoxny7a4jbm",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Goedkopere energie zet een rem op de prijsstijging in juni",
     "subtitle": null,
     "published_at": "2023-06-30T06:39:01+02:00",
-    "updated_at": "2023-06-30T09:04:20+02:00",
+    "updated_at": "2023-06-30T09:31:28+02:00",
     "media_id": "mhixn89ais0d",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6270229/welke-oranjevrouwen-gaan-naar-het-wk-spanning-erger-dan-bij-eindexamen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270219,
-    "slug": "van-vleuten-verbaasd-over-extreme-motivatie-in-afscheidsjaar-bijna-hilarisch",
-    "type": "article",
-    "title": "Van Vleuten verbaasd over extreme motivatie in afscheidsjaar: 'Bijna hilarisch'",
-    "subtitle": null,
-    "published_at": "2023-06-30T05:06:12+02:00",
-    "updated_at": "2023-06-30T08:37:46+02:00",
-    "media_id": "zwtxtczathdo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6270219/van-vleuten-verbaasd-over-extreme-motivatie-in-afscheidsjaar-bijna-hilarisch.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270182,
-    "slug": "drukte-bij-benzinepomp-we-tanken-nog-gauw-voordat-de-prijzen-zaterdag-stijgen",
-    "type": "article",
-    "title": "Drukte bij benzinepomp: we tanken nog gauw voordat de prijzen zaterdag stijgen",
-    "subtitle": null,
-    "published_at": "2023-06-30T05:05:12+02:00",
-    "updated_at": "2023-06-30T08:05:11+02:00",
-    "media_id": "jy8xjgaapc9i",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6270182/drukte-bij-benzinepomp-we-tanken-nog-gauw-voordat-de-prijzen-zaterdag-stijgen.html",
     "open_new_window": false,
     "partner": null
   }
