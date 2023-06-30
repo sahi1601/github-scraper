@@ -1,12 +1,35 @@
 [
   {
+    "id": 6270255,
+    "slug": "nicki-minaj-stelt-release-album-uit-vanwege-spannend-nieuws",
+    "type": "article",
+    "title": "Nicki Minaj stelt release album uit vanwege 'spannend nieuws'",
+    "subtitle": null,
+    "published_at": "2023-06-30T10:20:38+02:00",
+    "updated_at": "2023-06-30T10:20:39+02:00",
+    "media_id": "ve9x4sjass9v",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6270255/nicki-minaj-stelt-release-album-uit-vanwege-spannend-nieuws.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270254,
     "slug": "ajax-ziet-komend-seizoen-geen-plek-voor-baas-en-laat-hem-een-jaar-rijpen-bij-nec",
     "type": "article",
     "title": "Ajax ziet komend seizoen geen plek voor Baas en laat hem een jaar rijpen bij NEC",
     "subtitle": null,
     "published_at": "2023-06-30T10:15:15+02:00",
-    "updated_at": "2023-06-30T10:15:58+02:00",
+    "updated_at": "2023-06-30T10:23:35+02:00",
     "media_id": "t87x9csa3ds7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6270231/opnieuw-honderden-aanhoudingen-bij-derde-onrustige-nacht-in-frankrijk-op-rij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270230,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-06-30T05:18:37+02:00",
-    "updated_at": "2023-06-30T06:05:13+02:00",
-    "media_id": "5orxtf5awygy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6270230/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
