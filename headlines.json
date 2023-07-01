@@ -1,5 +1,28 @@
 [
   {
+    "id": 6270424,
+    "slug": "prominent-sp-kamerlid-renske-leijten-verlaat-na-17-jaar-tweede-kamer",
+    "type": "article",
+    "title": "Prominent SP-Kamerlid Renske Leijten verlaat na 17 jaar Tweede Kamer",
+    "subtitle": null,
+    "published_at": "2023-07-01T12:37:37+02:00",
+    "updated_at": "2023-07-01T12:38:43+02:00",
+    "media_id": "n3uxucqa90ht",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6270424/prominent-sp-kamerlid-renske-leijten-verlaat-na-17-jaar-tweede-kamer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270421,
     "slug": "poldervaart-is-voldoende-hersteld-en-wordt-assistent-van-buijs-bij-fortuna-sittard",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Gewilde Marcus Thuram kiest voor Serie A en treedt in voetsporen van vader Lilian",
     "subtitle": null,
     "published_at": "2023-07-01T12:00:54+02:00",
-    "updated_at": "2023-07-01T12:30:12+02:00",
+    "updated_at": "2023-07-01T12:32:59+02:00",
     "media_id": "f9qxkzcahrec",
     "duration": null,
     "canonical_section": {
@@ -70,13 +93,13 @@
   },
   {
     "id": 6270415,
-    "slug": "de-vries-en-verstappen-bezig-aan-sprintkwalificatie-hamilton-al-klaar",
+    "slug": "verstappen-strijdt-om-pole-voor-sprintrace-de-vries-veertiende",
     "type": "article",
-    "title": "De Vries en Verstappen bezig aan sprintkwalificatie, Hamilton al klaar",
+    "title": "Verstappen strijdt om pole voor sprintrace, De Vries veertiende",
     "subtitle": "Liveblog",
     "published_at": "2023-07-01T11:35:37+02:00",
-    "updated_at": "2023-07-01T12:21:59+02:00",
-    "media_id": "4hexakpaap2l",
+    "updated_at": "2023-07-01T12:31:12+02:00",
+    "media_id": "soaxbt1atf4y",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6270415/de-vries-en-verstappen-bezig-aan-sprintkwalificatie-hamilton-al-klaar.html",
+    "url": "/formule-1/6270415/verstappen-strijdt-om-pole-voor-sprintrace-de-vries-veertiende.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6270395/tiener-wiens-dood-door-politiekogel-leidde-tot-rellen-in-frankrijk-vandaag-begraven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270394,
-    "slug": "weerbericht-juli-begint-grijs-regenachtig-en-minder-warm-dan-gebruikelijk",
-    "type": "article",
-    "title": "Weerbericht: Juli begint grijs, regenachtig en minder warm dan gebruikelijk",
-    "subtitle": null,
-    "published_at": "2023-07-01T05:44:06+02:00",
-    "updated_at": "2023-07-01T08:55:44+02:00",
-    "media_id": "m1oxdu3af5bf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6270394/weerbericht-juli-begint-grijs-regenachtig-en-minder-warm-dan-gebruikelijk.html",
     "open_new_window": false,
     "partner": null
   }
