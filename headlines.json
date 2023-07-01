@@ -1,12 +1,35 @@
 [
   {
+    "id": 6270474,
+    "slug": "norris-verklaart-terugval-in-openingsronde-sprintrace-auto-wilde-even-niet",
+    "type": "article",
+    "title": "Norris verklaart terugval in openingsronde sprintrace: 'Auto wilde even niet'",
+    "subtitle": null,
+    "published_at": "2023-07-01T18:27:09+02:00",
+    "updated_at": "2023-07-01T18:27:11+02:00",
+    "media_id": "y1ixw84ai1d4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Oostenrijk",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6270474/norris-verklaart-terugval-in-openingsronde-sprintrace-auto-wilde-even-niet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270469,
     "slug": "hockeyers-houden-zicht-op-eindzege-pro-league-na-ruime-overwinning-op-belgie",
     "type": "article",
     "title": "Hockeyers houden zicht op eindzege Pro League na ruime overwinning op België",
     "subtitle": null,
     "published_at": "2023-07-01T18:18:10+02:00",
-    "updated_at": "2023-07-01T18:18:11+02:00",
+    "updated_at": "2023-07-01T18:31:00+02:00",
     "media_id": "zcax398a55jk",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Adam Yates genoot van broederstrijd om zege en geel: 'Ik spreek hem elke dag'",
     "subtitle": null,
     "published_at": "2023-07-01T17:55:34+02:00",
-    "updated_at": "2023-07-01T17:55:35+02:00",
+    "updated_at": "2023-07-01T18:22:36+02:00",
     "media_id": "odwxtm8azudd",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Podiumkandidaat Enric Mas moet direct opgeven in Tour na valpartij in afdaling",
     "subtitle": null,
     "published_at": "2023-07-01T17:06:24+02:00",
-    "updated_at": "2023-07-01T18:04:25+02:00",
+    "updated_at": "2023-07-01T18:27:53+02:00",
     "media_id": "6g6xdsqac8l2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6270452/president-macron-annuleert-staatsbezoek-duitsland-om-onlusten-in-frankrijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270450,
-    "slug": "van-vleuten-grijpt-direct-de-macht-in-giro-donne-en-bereikt-bijzondere-mijlpaal",
-    "type": "article",
-    "title": "Van Vleuten grijpt direct de macht in Giro Donne en bereikt bijzondere mijlpaal",
-    "subtitle": null,
-    "published_at": "2023-07-01T14:43:01+02:00",
-    "updated_at": "2023-07-01T17:23:52+02:00",
-    "media_id": "mx0xuvwaa0l9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6270450/van-vleuten-grijpt-direct-de-macht-in-giro-donne-en-bereikt-bijzondere-mijlpaal.html",
     "open_new_window": false,
     "partner": null
   }
