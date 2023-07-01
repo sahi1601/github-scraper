@@ -1,12 +1,58 @@
 [
   {
+    "id": 6270450,
+    "slug": "van-vleuten-grijpt-direct-de-macht-in-giro-donne-en-bereikt-bijzondere-mijlpaal",
+    "type": "article",
+    "title": "Van Vleuten grijpt direct de macht in Giro Donne en bereikt bijzondere mijlpaal",
+    "subtitle": null,
+    "published_at": "2023-07-01T14:43:01+02:00",
+    "updated_at": "2023-07-01T14:47:28+02:00",
+    "media_id": "mx0xuvwaa0l9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6270450/van-vleuten-grijpt-direct-de-macht-in-giro-donne-en-bereikt-bijzondere-mijlpaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270258,
+    "slug": "koning-willem-alexander-biedt-excuses-aan-voor-het-slavernijverleden",
+    "type": "article",
+    "title": "Koning Willem-Alexander biedt excuses aan voor het slavernijverleden",
+    "subtitle": null,
+    "published_at": "2023-07-01T14:38:16+02:00",
+    "updated_at": "2023-07-01T14:45:11+02:00",
+    "media_id": "u7qx8gaarpo5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6270258/koning-willem-alexander-biedt-excuses-aan-voor-het-slavernijverleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270445,
     "slug": "autosportwereld-rouwt-om-dood-racetalent-van-t-hoff-hij-jaagde-zijn-droom-na",
     "type": "article",
     "title": "Autosportwereld rouwt om dood racetalent Van 't Hoff: 'Hij jaagde zijn droom na'",
     "subtitle": null,
     "published_at": "2023-07-01T13:53:06+02:00",
-    "updated_at": "2023-07-01T14:29:08+02:00",
+    "updated_at": "2023-07-01T14:34:55+02:00",
     "media_id": "kydxbm7aykbe",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Verstappen pakt in Oostenrijk ook pole voor sprintrace, De Vries veertiende",
     "subtitle": null,
     "published_at": "2023-07-01T12:46:23+02:00",
-    "updated_at": "2023-07-01T14:29:00+02:00",
+    "updated_at": "2023-07-01T14:33:04+02:00",
     "media_id": "e1zxwtva3e39",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6270303/voor-hen-is-het-slavernijverleden-springlevend-je-bent-je-eigen-familie-kwijt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270404,
-    "slug": "voormalig-frieslandcampina-baas-begint-als-nieuwe-topman-bij-unilever",
-    "type": "article",
-    "title": "Voormalig FrieslandCampina-baas begint als nieuwe topman bij Unilever",
-    "subtitle": null,
-    "published_at": "2023-07-01T08:42:35+02:00",
-    "updated_at": "2023-07-01T09:08:35+02:00",
-    "media_id": "ofrxmbfayt0o",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6270404/voormalig-frieslandcampina-baas-begint-als-nieuwe-topman-bij-unilever.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270288,
-    "slug": "stelling-ketikoti-moet-ook-in-nederland-een-officiele-feestdag-worden",
-    "type": "article",
-    "title": "Stelling: Ketikoti moet ook in Nederland een officiële feestdag worden",
-    "subtitle": null,
-    "published_at": "2023-07-01T08:36:40+02:00",
-    "updated_at": "2023-07-01T08:36:46+02:00",
-    "media_id": "hh0xz4lah5nm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6270288/stelling-ketikoti-moet-ook-in-nederland-een-officiele-feestdag-worden.html",
     "open_new_window": false,
     "partner": null
   }
