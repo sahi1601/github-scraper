@@ -1,12 +1,35 @@
 [
   {
+    "id": 6270657,
+    "slug": "kampeerders-vluchten-voor-naderende-tornado-in-canada",
+    "type": "video",
+    "title": "Kampeerders vluchten voor naderende tornado in Canada",
+    "subtitle": "Video",
+    "published_at": "2023-07-03T13:16:52+02:00",
+    "updated_at": "2023-07-03T13:16:53+02:00",
+    "media_id": "2uvx2jzanc0l",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6270657/kampeerders-vluchten-voor-naderende-tornado-in-canada.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270653,
-    "slug": "ook-leraren-in-mbo-krijgen-flinke-loonsverhoging-tot-12-procent",
+    "slug": "ook-leraren-in-het-mbo-krijgen-flinke-loonsverhoging-tot-12-procent",
     "type": "article",
-    "title": "Ook leraren in mbo krijgen flinke loonsverhoging tot 12 procent",
+    "title": "Ook leraren in het mbo krijgen flinke loonsverhoging tot 12 procent",
     "subtitle": null,
     "published_at": "2023-07-03T13:09:52+02:00",
-    "updated_at": "2023-07-03T13:09:54+02:00",
+    "updated_at": "2023-07-03T13:18:32+02:00",
     "media_id": "5vox6qga69vx",
     "duration": null,
     "canonical_section": {
@@ -18,18 +41,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6270653/ook-leraren-in-mbo-krijgen-flinke-loonsverhoging-tot-12-procent.html",
+    "url": "/economie/6270653/ook-leraren-in-het-mbo-krijgen-flinke-loonsverhoging-tot-12-procent.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6269469,
-    "slug": "newcastle-haalt-tonali-voor-80-miljoen-euro-en-breekt-meerdere-transferrecords",
+    "slug": "newcastle-haalt-met-tonali-voor-64-miljoen-euro-duurste-italiaanse-speler-ooit",
     "type": "article",
-    "title": "Newcastle haalt Tonali voor 80 miljoen euro en breekt meerdere transferrecords",
+    "title": "Newcastle haalt met Tonali voor 64 miljoen euro duurste Italiaanse speler ooit",
     "subtitle": null,
     "published_at": "2023-07-03T13:04:14+02:00",
-    "updated_at": "2023-07-03T13:10:17+02:00",
+    "updated_at": "2023-07-03T13:23:56+02:00",
     "media_id": "qcrxkroadawv",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6269469/newcastle-haalt-tonali-voor-80-miljoen-euro-en-breekt-meerdere-transferrecords.html",
+    "url": "/voetbal/6269469/newcastle-haalt-met-tonali-voor-64-miljoen-euro-duurste-italiaanse-speler-ooit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -231,13 +254,13 @@
   },
   {
     "id": 6270626,
-    "slug": "jakobsen-aast-op-ritzege-in-vlakke-etappe-na-baskisch-klimgeweld",
+    "slug": "bolletjestruidrager-powless-rijdt-direct-na-start-weg-van-peloton",
     "type": "article",
-    "title": "Jakobsen aast op ritzege in vlakke etappe na Baskisch klimgeweld",
+    "title": "Bolletjestruidrager Powless rijdt direct na start weg van peloton",
     "subtitle": "Liveblog",
     "published_at": "2023-07-03T12:02:10+02:00",
-    "updated_at": "2023-07-03T12:42:03+02:00",
-    "media_id": "eh9x4bqaupv2",
+    "updated_at": "2023-07-03T13:18:47+02:00",
+    "media_id": "rfrxhoqafcmr",
     "duration": null,
     "canonical_section": {
       "id": 1772173,
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6270626/jakobsen-aast-op-ritzege-in-vlakke-etappe-na-baskisch-klimgeweld.html",
+    "url": "/tour-de-france/6270626/bolletjestruidrager-powless-rijdt-direct-na-start-weg-van-peloton.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Middelbare school in Zwolle ontruimd wegens ernstige dreiging",
     "subtitle": null,
     "published_at": "2023-07-03T11:38:57+02:00",
-    "updated_at": "2023-07-03T12:34:20+02:00",
+    "updated_at": "2023-07-03T13:21:11+02:00",
     "media_id": "3isx0exafpv9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6270623/zeehond-netty-heeft-mogelijk-ernstige-ontsteking-aan-rechtervoorflipper.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270624,
-    "slug": "nederlands-frisdrankbedrijf-in-deense-handen-na-verkoop-door-heineken",
-    "type": "article",
-    "title": "Nederlands frisdrankbedrijf in Deense handen na verkoop door Heineken",
-    "subtitle": null,
-    "published_at": "2023-07-03T11:06:44+02:00",
-    "updated_at": "2023-07-03T11:06:53+02:00",
-    "media_id": "62bxbemasfod",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6270624/nederlands-frisdrankbedrijf-in-deense-handen-na-verkoop-door-heineken.html",
     "open_new_window": false,
     "partner": null
   }
