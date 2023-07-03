@@ -1,5 +1,28 @@
 [
   {
+    "id": 6270701,
+    "slug": "tonys-chocolonely-komt-in-handen-van-belgische-bierfamilie",
+    "type": "article",
+    "title": "Tony's Chocolonely komt in handen van Belgische bierfamilie",
+    "subtitle": null,
+    "published_at": "2023-07-03T17:25:10+02:00",
+    "updated_at": "2023-07-03T17:25:11+02:00",
+    "media_id": "p1gx4sjazehx",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6270701/tonys-chocolonely-komt-in-handen-van-belgische-bierfamilie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270681,
     "slug": "coronacorrectie-voorbij-we-boeken-weer-minder-vakantiereizen-voor-de-zomer",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6270669/coalitieakkoord-in-overijssel-tussen-bbb-vvd-groenlinks-pvda-en-sgp.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270671,
-    "slug": "amerikaan-filmt-grote-scheur-in-steunpilaar-van-werkende-achtbaan",
-    "type": "video",
-    "title": "Amerikaan filmt grote scheur in steunpilaar van werkende achtbaan",
-    "subtitle": "Video",
-    "published_at": "2023-07-03T14:13:13+02:00",
-    "updated_at": "2023-07-03T15:43:01+02:00",
-    "media_id": "womxmewa01ry",
-    "duration": "0:30",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6270671/amerikaan-filmt-grote-scheur-in-steunpilaar-van-werkende-achtbaan.html",
     "open_new_window": false,
     "partner": null
   }
