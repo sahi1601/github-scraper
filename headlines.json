@@ -1,5 +1,28 @@
 [
   {
+    "id": 6270732,
+    "slug": "minister-dijkgraaf-verbiedt-scholen-om-leerlingen-uit-de-kast-te-dwingen",
+    "type": "article",
+    "title": "Minister Dijkgraaf verbiedt scholen om leerlingen uit de kast te dwingen",
+    "subtitle": null,
+    "published_at": "2023-07-03T23:45:28+02:00",
+    "updated_at": "2023-07-03T23:45:30+02:00",
+    "media_id": "mhhxeloamukp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6270732/minister-dijkgraaf-verbiedt-scholen-om-leerlingen-uit-de-kast-te-dwingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270730,
     "slug": "haagse-gemeenteraad-stelt-voormalig-minister-arie-slob-aan-als-verkenner",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6270707/brandweer-bevrijdt-mannen-uit-defecte-hoogwerker-in-hengelo.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270706,
-    "slug": "negatieve-stroomprijs-gaf-eigenaren-van-zonnepanelen-dit-weekend-een-kater",
-    "type": "article",
-    "title": "Negatieve stroomprijs gaf eigenaren van zonnepanelen dit weekend een kater",
-    "subtitle": null,
-    "published_at": "2023-07-03T17:56:20+02:00",
-    "updated_at": "2023-07-03T18:55:13+02:00",
-    "media_id": "c0ix6l2awgru",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6270706/negatieve-stroomprijs-gaf-eigenaren-van-zonnepanelen-dit-weekend-een-kater.html",
     "open_new_window": false,
     "partner": null
   }
