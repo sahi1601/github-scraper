@@ -1,12 +1,35 @@
 [
   {
-    "id": 6270601,
-    "slug": "tino-martin-vertelt-voor-het-eerst-over-drankgebruik-tijdens-optredens",
+    "id": 6270602,
+    "slug": "tesla-verkoopt-recordaantal-autos-voor-lagere-prijzen",
     "type": "article",
-    "title": "Tino Martin vertelt voor het eerst over drankgebruik tijdens optredens",
+    "title": "Tesla verkoopt recordaantal auto's voor lagere prijzen",
+    "subtitle": null,
+    "published_at": "2023-07-03T09:29:15+02:00",
+    "updated_at": "2023-07-03T09:29:16+02:00",
+    "media_id": "d3oxqd6ap255",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6270602/tesla-verkoopt-recordaantal-autos-voor-lagere-prijzen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6270601,
+    "slug": "tino-martin-over-drankgebruik-tijdens-optredens-mag-eigenlijk-niet-gebeuren",
+    "type": "article",
+    "title": "Tino Martin over drankgebruik tijdens optredens: 'Mag eigenlijk niet gebeuren'",
     "subtitle": null,
     "published_at": "2023-07-03T09:23:22+02:00",
-    "updated_at": "2023-07-03T09:23:23+02:00",
+    "updated_at": "2023-07-03T09:41:46+02:00",
     "media_id": "lb5x270apl5x",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6270601/tino-martin-vertelt-voor-het-eerst-over-drankgebruik-tijdens-optredens.html",
+    "url": "/achterklap/6270601/tino-martin-over-drankgebruik-tijdens-optredens-mag-eigenlijk-niet-gebeuren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Bosz heeft technische staf PSV rond met komst van assistent Schaars",
     "subtitle": null,
     "published_at": "2023-07-03T09:22:59+02:00",
-    "updated_at": "2023-07-03T09:23:00+02:00",
+    "updated_at": "2023-07-03T09:42:32+02:00",
     "media_id": "xoxx0z0a2i47",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Komt Saoedisch voetbal met Ronaldo hier op tv? 'We onderschatten de Eredivisie'",
     "subtitle": null,
     "published_at": "2023-07-03T09:02:26+02:00",
-    "updated_at": "2023-07-03T09:02:28+02:00",
+    "updated_at": "2023-07-03T09:27:22+02:00",
     "media_id": "cboxdu9ag41s",
     "duration": null,
     "canonical_section": {
@@ -325,10 +348,10 @@
     "id": 6270568,
     "slug": "rutte-naar-servie-en-kosovo-om-oplopende-spanningen-wat-speelt-er",
     "type": "article",
-    "title": "Rutte naar Servië en Kosovo om oplopende spanningen, wat speelt er?",
+    "title": "Rutte naar Servië en Kosovo om oplopende spanningen: wat speelt er?",
     "subtitle": "NU+",
     "published_at": "2023-07-03T06:37:57+02:00",
-    "updated_at": "2023-07-03T08:04:48+02:00",
+    "updated_at": "2023-07-03T09:38:51+02:00",
     "media_id": "d7bxzkzavo6f",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6270510/achter-de-oorlog-inwoners-kramatorsk-zijn-kapot-van-zoveelste-tragedie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270543,
-    "slug": "wielrennen-is-heilig-in-het-baskenland-zeker-als-de-tour-langskomt",
-    "type": "article",
-    "title": "Wielrennen is heilig in het Baskenland, zeker als de Tour langskomt",
-    "subtitle": "NU+",
-    "published_at": "2023-07-03T05:02:45+02:00",
-    "updated_at": "2023-07-03T09:16:52+02:00",
-    "media_id": "t7uxxhdada3l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6270543/wielrennen-is-heilig-in-het-baskenland-zeker-als-de-tour-langskomt.html",
     "open_new_window": false,
     "partner": null
   }
