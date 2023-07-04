@@ -1,12 +1,35 @@
 [
   {
+    "id": 6270864,
+    "slug": "voetbalcoach-vera-pauw-in-2018-bedreigd-door-staflid-schiet-kogel-door-je-hoofd",
+    "type": "article",
+    "title": "Voetbalcoach Vera Pauw in 2018 bedreigd door staflid: 'Schiet kogel door je hoofd'",
+    "subtitle": null,
+    "published_at": "2023-07-04T21:01:27+02:00",
+    "updated_at": "2023-07-04T21:10:27+02:00",
+    "media_id": "c48x2ghazwdt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6270864/voetbalcoach-vera-pauw-in-2018-bedreigd-door-staflid-schiet-kogel-door-je-hoofd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270860,
     "slug": "sigaretten-kunnen-tot-wel-vijftien-keer-schadelijker-zijn-dan-eerder-bekend-was",
     "type": "article",
     "title": "Sigaretten kunnen tot wel vijftien keer schadelijker zijn dan eerder bekend was",
     "subtitle": null,
     "published_at": "2023-07-04T20:09:54+02:00",
-    "updated_at": "2023-07-04T20:26:57+02:00",
+    "updated_at": "2023-07-04T21:10:49+02:00",
     "media_id": "h37x3snazdo8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6270831/jullie-suggesties-voor-studentenwelzijn-focus-juist-op-motivatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270827,
-    "slug": "aanslag-in-tel-aviv-na-grootste-israelische-aanval-in-decennia-dit-speelt-er",
-    "type": "article",
-    "title": "Aanslag in Tel Aviv na grootste Israëlische aanval in decennia: dit speelt er",
-    "subtitle": null,
-    "published_at": "2023-07-04T16:48:31+02:00",
-    "updated_at": "2023-07-04T20:27:50+02:00",
-    "media_id": "vwwx081a7yzb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6270827/aanslag-in-tel-aviv-na-grootste-israelische-aanval-in-decennia-dit-speelt-er.html",
     "open_new_window": false,
     "partner": null
   }
