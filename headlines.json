@@ -1,5 +1,28 @@
 [
   {
+    "id": 6270741,
+    "slug": "palestijnen-ontvluchten-kamp-in-jenin-na-israelische-aanvallen",
+    "type": "video",
+    "title": "Palestijnen ontvluchten kamp in Jenin na Israëlische aanvallen",
+    "subtitle": "Video",
+    "published_at": "2023-07-04T08:28:35+02:00",
+    "updated_at": "2023-07-04T08:28:37+02:00",
+    "media_id": "ggmx3p9a278r",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6270741/palestijnen-ontvluchten-kamp-in-jenin-na-israelische-aanvallen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270740,
     "slug": "tijdschema-gp-groot-brittannie-zo-laat-komen-verstappen-en-de-vries-in-actie",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "3.000 mensen ontvluchten vluchtelingenkamp Westelijke Jordaanoever na aanval",
     "subtitle": null,
     "published_at": "2023-07-04T06:01:31+02:00",
-    "updated_at": "2023-07-04T06:20:23+02:00",
+    "updated_at": "2023-07-04T08:36:37+02:00",
     "media_id": "sknxgnaa9p9s",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6270725/kleinzoon-van-acteur-robert-de-niro-op-negentienjarige-leeftijd-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270724,
-    "slug": "kus-aan-k3-zangeres-julia-zorgt-voor-hilariteit-tijdens-show-in-gent",
-    "type": "video",
-    "title": "Kus aan K3-zangeres Julia zorgt voor hilariteit tijdens show in Gent",
-    "subtitle": "Video",
-    "published_at": "2023-07-03T21:23:40+02:00",
-    "updated_at": "2023-07-03T21:23:41+02:00",
-    "media_id": "etdxbzna95s1",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6270724/kus-aan-k3-zangeres-julia-zorgt-voor-hilariteit-tijdens-show-in-gent.html",
     "open_new_window": false,
     "partner": null
   }
