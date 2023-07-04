@@ -1,12 +1,35 @@
 [
   {
+    "id": 6270866,
+    "slug": "belgische-koning-albert-mag-woensdag-het-ziekenhuis-verlaten",
+    "type": "article",
+    "title": "Belgische koning Albert mag woensdag het ziekenhuis verlaten",
+    "subtitle": null,
+    "published_at": "2023-07-04T21:14:17+02:00",
+    "updated_at": "2023-07-04T21:22:44+02:00",
+    "media_id": "fcvxftgaktnj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6270866/belgische-koning-albert-mag-woensdag-het-ziekenhuis-verlaten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270864,
     "slug": "voetbalcoach-vera-pauw-in-2018-bedreigd-door-staflid-schiet-kogel-door-je-hoofd",
     "type": "article",
     "title": "Voetbalcoach Vera Pauw in 2018 bedreigd door staflid: 'Schiet kogel door je hoofd'",
     "subtitle": null,
     "published_at": "2023-07-04T21:01:27+02:00",
-    "updated_at": "2023-07-04T21:10:27+02:00",
+    "updated_at": "2023-07-04T21:15:33+02:00",
     "media_id": "c48x2ghazwdt",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Jakobsen heeft serieuze schaafwonden na val: 'Philipsen raakte Fabio's wiel'",
     "subtitle": null,
     "published_at": "2023-07-04T19:14:31+02:00",
-    "updated_at": "2023-07-04T19:18:32+02:00",
+    "updated_at": "2023-07-04T21:20:44+02:00",
     "media_id": "ehzxs76a78it",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Duo Philipsen-Van der Poel slaat weer toe: 'Mathieu als lead-out is een voorrecht'",
     "subtitle": null,
     "published_at": "2023-07-04T18:58:04+02:00",
-    "updated_at": "2023-07-04T20:04:27+02:00",
+    "updated_at": "2023-07-04T21:21:43+02:00",
     "media_id": "iujxejjavzev",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Chaos in Tour: Jakobsen onderuit in finale vol valpartijen, Philipsen wint weer",
     "subtitle": null,
     "published_at": "2023-07-04T17:50:05+02:00",
-    "updated_at": "2023-07-04T19:15:47+02:00",
+    "updated_at": "2023-07-04T21:21:10+02:00",
     "media_id": "cpwx8q9an3gd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland-en-buitenland/6270829/taakstraf-voor-oud-medewerker-hogeschool-die-15-jaar-lang-toetsen-doorverkocht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270831,
-    "slug": "jullie-suggesties-voor-studentenwelzijn-focus-juist-op-motivatie",
-    "type": "article",
-    "title": "Jullie suggesties voor studentenwelzijn: 'Focus juist op motivatie'",
-    "subtitle": "NU+",
-    "published_at": "2023-07-04T17:06:07+02:00",
-    "updated_at": "2023-07-04T17:09:12+02:00",
-    "media_id": "tbixnvjay6r8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6270831/jullie-suggesties-voor-studentenwelzijn-focus-juist-op-motivatie.html",
     "open_new_window": false,
     "partner": null
   }
