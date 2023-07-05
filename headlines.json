@@ -1,12 +1,35 @@
 [
   {
+    "id": 6270964,
+    "slug": "coronamondkapjes-leverden-net-zo-veel-vervuiling-op-als-19000-autos-in-een-jaar",
+    "type": "article",
+    "title": "Coronamondkapjes leverden net zo veel vervuiling op als 19.000 auto's in een jaar",
+    "subtitle": null,
+    "published_at": "2023-07-05T12:40:16+02:00",
+    "updated_at": "2023-07-05T12:40:17+02:00",
+    "media_id": "lw6x4csayhsf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6270964/coronamondkapjes-leverden-net-zo-veel-vervuiling-op-als-19000-autos-in-een-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270962,
     "slug": "tv-en-radiozenders-passen-programmering-aan-voor-nieuws-over-storm-poly",
     "type": "article",
     "title": "Tv- en radiozenders passen programmering aan voor nieuws over storm Poly",
     "subtitle": null,
     "published_at": "2023-07-05T12:21:15+02:00",
-    "updated_at": "2023-07-05T12:21:17+02:00",
+    "updated_at": "2023-07-05T12:40:11+02:00",
     "media_id": "z5rxm9fak5lq",
     "duration": null,
     "canonical_section": {
@@ -208,12 +231,12 @@
   },
   {
     "id": 6270935,
-    "slug": "ns-betaalt-de-door-storm-poly-gedupeerde-reizigers-wel-terug-maar-arriva-niet",
+    "slug": "door-storm-poly-gedupeerde-treinreizigers-krijgen-geld-terug-van-ns-en-arriva",
     "type": "article",
-    "title": "NS betaalt de door storm Poly gedupeerde reizigers wel terug, maar Arriva niet",
+    "title": "Door storm Poly gedupeerde treinreizigers krijgen geld terug van NS en Arriva",
     "subtitle": null,
     "published_at": "2023-07-05T11:25:21+02:00",
-    "updated_at": "2023-07-05T12:05:27+02:00",
+    "updated_at": "2023-07-05T12:36:14+02:00",
     "media_id": "epbx2lvajaig",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/storm-eunice/6270935/ns-betaalt-de-door-storm-poly-gedupeerde-reizigers-wel-terug-maar-arriva-niet.html",
+    "url": "/storm-eunice/6270935/door-storm-poly-gedupeerde-treinreizigers-krijgen-geld-terug-van-ns-en-arriva.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Storm Poly eist eerste leven: vrouw in Haarlem overleden door boom op auto",
     "subtitle": null,
     "published_at": "2023-07-05T11:09:48+02:00",
-    "updated_at": "2023-07-05T12:23:37+02:00",
+    "updated_at": "2023-07-05T12:43:14+02:00",
     "media_id": "q2yxm79alsv7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6270926/fc-barcelona-haalt-na-gundogan-ook-spaans-international-inigo-martinez-binnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270914,
-    "slug": "storm-poly-raast-over-nederland-en-laat-een-flinke-ravage-achter",
-    "type": "article",
-    "title": "Storm Poly raast over Nederland en laat een flinke ravage achter",
-    "subtitle": "In beeld",
-    "published_at": "2023-07-05T10:22:13+02:00",
-    "updated_at": "2023-07-05T11:46:34+02:00",
-    "media_id": "9qlxvzmaujyn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6270914/storm-poly-raast-over-nederland-en-laat-een-flinke-ravage-achter.html",
     "open_new_window": false,
     "partner": null
   }
