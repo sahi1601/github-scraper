@@ -1,5 +1,28 @@
 [
   {
+    "id": 6271115,
+    "slug": "wagner-baas-prigozhin-is-volgens-belarussische-president-terug-naar-rusland",
+    "type": "article",
+    "title": "Wagner-baas Prigozhin is volgens Belarussische president terug naar Rusland",
+    "subtitle": null,
+    "published_at": "2023-07-06T10:33:58+02:00",
+    "updated_at": "2023-07-06T10:33:59+02:00",
+    "media_id": "bmuxhbian0kf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6271115/wagner-baas-prigozhin-is-volgens-belarussische-president-terug-naar-rusland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271107,
     "slug": "drone-filmt-ravage-na-dodelijke-raketaanval-op-oekraiense-stad",
     "type": "video",
@@ -351,7 +374,7 @@
     "title": "Ex Peter Gillis sluit deal met Talpa: Nicol Kremers geschrapt uit Massa is Kassa",
     "subtitle": null,
     "published_at": "2023-07-06T06:02:48+02:00",
-    "updated_at": "2023-07-06T07:39:20+02:00",
+    "updated_at": "2023-07-06T10:26:20+02:00",
     "media_id": "qqjxjdba7pcs",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6270620/politiemedewerker-die-informatie-over-lil-kleine-lekte-krijgt-vandaag-straf-te-horen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270975,
-    "slug": "verstappen-vindt-het-oneerlijk-om-circuit-spa-de-schuld-te-geven-van-fatale-crash",
-    "type": "article",
-    "title": "Verstappen vindt het oneerlijk om circuit Spa de schuld te geven van fatale crash",
-    "subtitle": null,
-    "published_at": "2023-07-06T05:17:43+02:00",
-    "updated_at": "2023-07-06T10:00:46+02:00",
-    "media_id": "o3mx10jalg4o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6270975/verstappen-vindt-het-oneerlijk-om-circuit-spa-de-schuld-te-geven-van-fatale-crash.html",
     "open_new_window": false,
     "partner": null
   }
