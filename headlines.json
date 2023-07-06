@@ -1,12 +1,81 @@
 [
   {
+    "id": 6271176,
+    "slug": "psg-haalt-real-madrid-aanvaller-en-inter-verdediger-skriniar-transfervrij-binnen",
+    "type": "article",
+    "title": "PSG haalt Real Madrid-aanvaller en Inter-verdediger Skriniar transfervrij binnen",
+    "subtitle": null,
+    "published_at": "2023-07-06T14:49:18+02:00",
+    "updated_at": "2023-07-06T14:55:11+02:00",
+    "media_id": "a74xxjga11x2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6271176/psg-haalt-real-madrid-aanvaller-en-inter-verdediger-skriniar-transfervrij-binnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271172,
+    "slug": "crisissfeer-in-kabinet-rutte-voert-druk-over-asieldeal-op",
+    "type": "article",
+    "title": "Crisissfeer in kabinet: Rutte voert druk over asieldeal op",
+    "subtitle": null,
+    "published_at": "2023-07-06T14:47:31+02:00",
+    "updated_at": "2023-07-06T14:47:46+02:00",
+    "media_id": "6vcxoyhaeefe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6271172/crisissfeer-in-kabinet-rutte-voert-druk-over-asieldeal-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271171,
+    "slug": "huis-stort-volledig-in-rivier-na-overstromingen-in-china",
+    "type": "video",
+    "title": "Huis stort volledig in rivier na overstromingen in China",
+    "subtitle": "Video",
+    "published_at": "2023-07-06T14:38:36+02:00",
+    "updated_at": "2023-07-06T14:57:21+02:00",
+    "media_id": "9xsxkc3am5gy",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6271171/huis-stort-volledig-in-rivier-na-overstromingen-in-china.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271166,
     "slug": "ado-den-haag-ziet-cultspits-verheydt-naar-turkse-tweedeklasser-vertrekken",
     "type": "article",
     "title": "ADO Den Haag ziet cultspits Verheydt naar Turkse tweedeklasser vertrekken",
     "subtitle": null,
     "published_at": "2023-07-06T14:31:21+02:00",
-    "updated_at": "2023-07-06T14:31:24+02:00",
+    "updated_at": "2023-07-06T14:35:35+02:00",
     "media_id": "exwxl2uaxb7d",
     "duration": null,
     "canonical_section": {
@@ -93,12 +162,12 @@
   },
   {
     "id": 6271159,
-    "slug": "de-vries-zag-al-na-een-paar-races-in-dat-hij-beter-niets-over-zichzelf-kon-lezen",
+    "slug": "nyck-de-vries-zag-al-na-een-paar-races-in-dat-hij-beter-niets-over-zichzelf-kon-lezen",
     "type": "article",
-    "title": "De Vries zag al na een paar races in dat hij beter niets over zichzelf kon lezen",
+    "title": "Nyck de Vries zag al na een paar races in dat hij beter niets over zichzelf kon lezen",
     "subtitle": null,
     "published_at": "2023-07-06T14:15:40+02:00",
-    "updated_at": "2023-07-06T14:15:41+02:00",
+    "updated_at": "2023-07-06T14:51:45+02:00",
     "media_id": "k5jxs1ra2lus",
     "duration": null,
     "canonical_section": {
@@ -110,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6271159/de-vries-zag-al-na-een-paar-races-in-dat-hij-beter-niets-over-zichzelf-kon-lezen.html",
+    "url": "/formule-1/6271159/nyck-de-vries-zag-al-na-een-paar-races-in-dat-hij-beter-niets-over-zichzelf-kon-lezen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +259,7 @@
     "title": "Vlees zonder dierenleed stap dichterbij: consumenten gaan kweekvlees proeven",
     "subtitle": null,
     "published_at": "2023-07-06T13:51:07+02:00",
-    "updated_at": "2023-07-06T13:51:09+02:00",
+    "updated_at": "2023-07-06T14:34:40+02:00",
     "media_id": "wk4xz4gaog4t",
     "duration": null,
     "canonical_section": {
@@ -328,7 +397,7 @@
     "title": "Oranje-international Roord verruilt CL-finalist Wolfsburg voor Manchester City",
     "subtitle": null,
     "published_at": "2023-07-06T12:57:17+02:00",
-    "updated_at": "2023-07-06T13:58:26+02:00",
+    "updated_at": "2023-07-06T14:59:14+02:00",
     "media_id": "7mcx505aff9x",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6271139/scherpen-verkast-naar-sturm-graz-en-gaat-voorronde-champions-league-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271141,
-    "slug": "van-der-poel-en-van-aert-in-grote-kopgroep-in-zware-pyreneeenrit",
-    "type": "article",
-    "title": "Van der Poel en Van Aert in grote kopgroep in zware Pyreneeënrit",
-    "subtitle": "Liveblog",
-    "published_at": "2023-07-06T12:22:10+02:00",
-    "updated_at": "2023-07-06T14:32:45+02:00",
-    "media_id": "68ax70sa2m61",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6271141/van-der-poel-en-van-aert-in-grote-kopgroep-in-zware-pyreneeenrit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271136,
-    "slug": "brandweer-heeft-handen-vol-aan-kitten-onder-auto-in-maastricht",
-    "type": "video",
-    "title": "Brandweer heeft handen vol aan kitten onder auto in Maastricht",
-    "subtitle": "Video",
-    "published_at": "2023-07-06T12:03:29+02:00",
-    "updated_at": "2023-07-06T12:03:31+02:00",
-    "media_id": "v7wxq3halhv3",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6271136/brandweer-heeft-handen-vol-aan-kitten-onder-auto-in-maastricht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271127,
-    "slug": "fc-twente-neemt-huurling-ugalde-na-sterke-maanden-definitief-over-van-lommel",
-    "type": "article",
-    "title": "FC Twente neemt huurling Ugalde na sterke maanden definitief over van Lommel",
-    "subtitle": null,
-    "published_at": "2023-07-06T11:52:17+02:00",
-    "updated_at": "2023-07-06T11:52:18+02:00",
-    "media_id": "sc6xusxarwry",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6271127/fc-twente-neemt-huurling-ugalde-na-sterke-maanden-definitief-over-van-lommel.html",
     "open_new_window": false,
     "partner": null
   }
