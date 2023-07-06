@@ -1,13 +1,36 @@
 [
   {
+    "id": 6271191,
+    "slug": "onderscheid-maken-tussen-vluchtelingen-dreigt-nu-coalitie-te-splijten",
+    "type": "article",
+    "title": "Onderscheid maken tussen vluchtelingen dreigt nu coalitie te splijten",
+    "subtitle": null,
+    "published_at": "2023-07-06T18:14:22+02:00",
+    "updated_at": "2023-07-06T18:14:24+02:00",
+    "media_id": "huoxcswat8nt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6271191/onderscheid-maken-tussen-vluchtelingen-dreigt-nu-coalitie-te-splijten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6270202,
     "slug": "vooruitblik-etappe-7-tour-de-france-van-der-poel-en-philipsen-slijpen-de-messen",
     "type": "article",
     "title": "Vooruitblik etappe 7 Tour de France: Van der Poel en Philipsen slijpen de messen",
     "subtitle": null,
     "published_at": "2023-07-06T17:38:39+02:00",
-    "updated_at": "2023-07-06T17:38:48+02:00",
-    "media_id": "kj9x65ra4oaw",
+    "updated_at": "2023-07-06T18:05:28+02:00",
+    "media_id": "f67x2rzaueul",
     "duration": null,
     "canonical_section": {
       "id": 1772173,
@@ -29,7 +52,7 @@
     "title": "Kabinet wil zonnepanelen niet meer in weilanden, maar wél op parkeerplaatsen",
     "subtitle": null,
     "published_at": "2023-07-06T17:25:05+02:00",
-    "updated_at": "2023-07-06T17:25:07+02:00",
+    "updated_at": "2023-07-06T18:13:34+02:00",
     "media_id": "0xpxmjbakj9w",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6271209,
-    "slug": "pogacar-zet-tour-weer-op-zijn-kop-met-revanche-op-nieuwe-geletruidrager-vingegaard",
+    "slug": "pogacar-zet-tour-weer-op-zijn-kop-met-revanche-op-nieuwe-leider-vingegaard",
     "type": "article",
-    "title": "Pogacar zet Tour wéér op zijn kop met revanche op nieuwe geletruidrager Vingegaard",
+    "title": "Pogacar zet Tour wéér op zijn kop met revanche op nieuwe leider Vingegaard",
     "subtitle": null,
     "published_at": "2023-07-06T17:21:55+02:00",
-    "updated_at": "2023-07-06T17:43:44+02:00",
+    "updated_at": "2023-07-06T18:02:38+02:00",
     "media_id": "ns7xxfhaicfy",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6271209/pogacar-zet-tour-weer-op-zijn-kop-met-revanche-op-nieuwe-geletruidrager-vingegaard.html",
+    "url": "/tour-de-france/6271209/pogacar-zet-tour-weer-op-zijn-kop-met-revanche-op-nieuwe-leider-vingegaard.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Verstappen tegen nieuwe F1-regels voor 2026: 'Niet goed voor de sport'",
     "subtitle": null,
     "published_at": "2023-07-06T17:19:58+02:00",
-    "updated_at": "2023-07-06T17:23:02+02:00",
+    "updated_at": "2023-07-06T17:59:41+02:00",
     "media_id": "846xvhiajoxe",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Van de Zandschulp wint eindelijk weer en gaat na vijfsetter door op Wimbledon",
     "subtitle": null,
     "published_at": "2023-07-06T16:12:48+02:00",
-    "updated_at": "2023-07-06T16:49:25+02:00",
+    "updated_at": "2023-07-06T18:12:58+02:00",
     "media_id": "uyixh57a2unz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6271187/noor-traeen-rijdt-tour-met-breukje-in-elleboog-ik-heb-vrij-veel-pijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271135,
-    "slug": "vooruitblik-f1-sluit-niet-uit-dat-red-bull-alle-races-wint-dit-jaar",
-    "type": "article",
-    "title": "Vooruitblik F1: 'Sluit niet uit dat Red Bull alle races wint dit jaar'",
-    "subtitle": "NU+",
-    "published_at": "2023-07-06T15:24:08+02:00",
-    "updated_at": "2023-07-06T15:48:05+02:00",
-    "media_id": "tn7x8faa8z5f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Groot-Brittannië",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6271135/vooruitblik-f1-sluit-niet-uit-dat-red-bull-alle-races-wint-dit-jaar.html",
     "open_new_window": false,
     "partner": null
   }
