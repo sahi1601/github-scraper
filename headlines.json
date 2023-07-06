@@ -1,12 +1,35 @@
 [
   {
+    "id": 6271116,
+    "slug": "alexia-behaalt-diploma-op-middelbare-school-in-wales",
+    "type": "article",
+    "title": "Alexia behaalt diploma op middelbare school in Wales",
+    "subtitle": null,
+    "published_at": "2023-07-06T10:37:19+02:00",
+    "updated_at": "2023-07-06T10:44:19+02:00",
+    "media_id": "qw8xa7wa32en",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6271116/alexia-behaalt-diploma-op-middelbare-school-in-wales.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271115,
     "slug": "wagner-baas-prigozhin-is-volgens-belarussische-president-terug-naar-rusland",
     "type": "article",
     "title": "Wagner-baas Prigozhin is volgens Belarussische president terug naar Rusland",
     "subtitle": null,
     "published_at": "2023-07-06T10:33:58+02:00",
-    "updated_at": "2023-07-06T10:33:59+02:00",
+    "updated_at": "2023-07-06T10:38:34+02:00",
     "media_id": "bmuxhbian0kf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6271076/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6270620,
-    "slug": "politiemedewerker-die-informatie-over-lil-kleine-lekte-krijgt-vandaag-straf-te-horen",
-    "type": "article",
-    "title": "Politiemedewerker die informatie over Lil Kleine lekte krijgt vandaag straf te horen",
-    "subtitle": null,
-    "published_at": "2023-07-06T05:18:33+02:00",
-    "updated_at": "2023-07-06T05:18:34+02:00",
-    "media_id": "krmxou4ams1w",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6270620/politiemedewerker-die-informatie-over-lil-kleine-lekte-krijgt-vandaag-straf-te-horen.html",
     "open_new_window": false,
     "partner": null
   }
