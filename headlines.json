@@ -1,12 +1,35 @@
 [
   {
+    "id": 6271261,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-07-07T05:49:01+02:00",
+    "updated_at": "2023-07-07T05:49:02+02:00",
+    "media_id": "5orxtf5awygy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6271261/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271260,
     "slug": "musical-les-miserables-passeert-250000-kaarten-cast-verrast-met-award",
     "type": "article",
     "title": "Musical Les Misérables passeert 250.000 kaarten, cast verrast met award",
     "subtitle": null,
     "published_at": "2023-07-07T05:44:32+02:00",
-    "updated_at": "2023-07-07T05:44:34+02:00",
+    "updated_at": "2023-07-07T05:46:29+02:00",
     "media_id": "rytx6hqal1fq",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6271255,
-    "slug": "nog-geen-akkoord-over-migratie-kabinet-praat-vrijdag-verder",
+    "slug": "nog-geen-akkoord-bereikt-over-migratie-kabinet-praat-vrijdag-verder",
     "type": "article",
-    "title": "Nog geen akkoord over migratie, kabinet praat vrijdag verder",
+    "title": "Nog geen akkoord bereikt over migratie, kabinet praat vrijdag verder",
     "subtitle": null,
     "published_at": "2023-07-07T01:45:19+02:00",
-    "updated_at": "2023-07-07T02:44:10+02:00",
+    "updated_at": "2023-07-07T05:58:35+02:00",
     "media_id": "4yfxeiean55u",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6271255/nog-geen-akkoord-over-migratie-kabinet-praat-vrijdag-verder.html",
+    "url": "/politiek/6271255/nog-geen-akkoord-bereikt-over-migratie-kabinet-praat-vrijdag-verder.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6271243/van-de-zandschulp-wint-eindelijk-weer-eens-vond-tennis-niet-altijd-even-leuk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271241,
-    "slug": "britney-spears-doet-aangifte-tegen-beveiliger-van-basketballer-wembanyama",
-    "type": "article",
-    "title": "Britney Spears doet aangifte tegen beveiliger van basketballer Wembanyama",
-    "subtitle": null,
-    "published_at": "2023-07-06T20:07:54+02:00",
-    "updated_at": "2023-07-06T20:34:55+02:00",
-    "media_id": "ardx02naaqb4",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6271241/britney-spears-doet-aangifte-tegen-beveiliger-van-basketballer-wembanyama.html",
     "open_new_window": false,
     "partner": null
   }
