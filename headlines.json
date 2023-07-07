@@ -1,5 +1,28 @@
 [
   {
+    "id": 6271343,
+    "slug": "warmtebeelden-tonen-fatale-brand-op-vrachtschip-in-vs",
+    "type": "video",
+    "title": "Warmtebeelden tonen fatale brand op vrachtschip in VS",
+    "subtitle": "Video",
+    "published_at": "2023-07-07T13:13:31+02:00",
+    "updated_at": "2023-07-07T13:13:33+02:00",
+    "media_id": "4vvxz4maysnp",
+    "duration": "0:47",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6271343/warmtebeelden-tonen-fatale-brand-op-vrachtschip-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271312,
     "slug": "waarom-turkije-ondanks-de-vele-ruzies-zo-belangrijk-is-voor-de-navo",
     "type": "article",
@@ -231,12 +254,12 @@
   },
   {
     "id": 6271163,
-    "slug": "reddit-en-twitter-vragen-appontwikkelaars-nu-om-geld-voor-toegang",
+    "slug": "reddit-en-twitter-zoeken-nieuwe-inkomsten-zoveel-mogelijk-winst-maken",
     "type": "article",
-    "title": "Reddit en Twitter vragen appontwikkelaars nu om geld voor toegang",
+    "title": "Reddit en Twitter zoeken nieuwe inkomsten: 'Zoveel mogelijk winst maken'",
     "subtitle": "NU+",
     "published_at": "2023-07-07T11:59:02+02:00",
-    "updated_at": "2023-07-07T12:16:10+02:00",
+    "updated_at": "2023-07-07T13:15:42+02:00",
     "media_id": "lsbxy8bao56m",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6271163/reddit-en-twitter-vragen-appontwikkelaars-nu-om-geld-voor-toegang.html",
+    "url": "/tech/6271163/reddit-en-twitter-zoeken-nieuwe-inkomsten-zoveel-mogelijk-winst-maken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "SLAM! en Sublime van de FM na veiling, DPG Media komt met nieuwe zender",
     "subtitle": null,
     "published_at": "2023-07-07T11:20:41+02:00",
-    "updated_at": "2023-07-07T13:09:24+02:00",
+    "updated_at": "2023-07-07T13:14:02+02:00",
     "media_id": "0tvx3wkayh0j",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6271305/schiphol-koopt-negentien-tilrobots-in-na-ferme-tik-op-vingers-van-inspectie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271307,
-    "slug": "klassiekerspecialist-vanmarcke-stopt-vanwege-hartproblemen-met-wielrennen",
-    "type": "article",
-    "title": "Klassiekerspecialist Vanmarcke stopt vanwege hartproblemen met wielrennen",
-    "subtitle": null,
-    "published_at": "2023-07-07T10:51:59+02:00",
-    "updated_at": "2023-07-07T11:50:45+02:00",
-    "media_id": "yf6x9iqa8xkd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6271307/klassiekerspecialist-vanmarcke-stopt-vanwege-hartproblemen-met-wielrennen.html",
     "open_new_window": false,
     "partner": null
   }
