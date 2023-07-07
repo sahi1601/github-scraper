@@ -1,12 +1,35 @@
 [
   {
+    "id": 6271463,
+    "slug": "het-zoveelste-struikelblok-wordt-kabinet-rutte-iv-nu-fataal",
+    "type": "article",
+    "title": "Het zoveelste struikelblok wordt kabinet-Rutte IV nu fataal",
+    "subtitle": null,
+    "published_at": "2023-07-07T23:45:26+02:00",
+    "updated_at": "2023-07-07T23:45:27+02:00",
+    "media_id": "mmexwhradfsp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779274,
+      "slug": "val-kabinet",
+      "type": "default",
+      "name": "Val kabinet",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/val-kabinet/6271463/het-zoveelste-struikelblok-wordt-kabinet-rutte-iv-nu-fataal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271470,
     "slug": "groenewegen-beleeft-nog-geen-gelukkige-tour-moest-paar-keer-remmen-in-sprint",
     "type": "article",
     "title": "Groenewegen beleeft nog geen gelukkige Tour: 'Moest paar keer remmen in sprint'",
     "subtitle": null,
     "published_at": "2023-07-07T23:35:51+02:00",
-    "updated_at": "2023-07-07T23:35:52+02:00",
+    "updated_at": "2023-07-08T00:00:53+02:00",
     "media_id": "jb0xh15axor6",
     "duration": null,
     "canonical_section": {
@@ -52,8 +75,8 @@
     "title": "Rutte: Steun Oekraïne, afhandeling toeslagenschandaal en Groningen gaan door",
     "subtitle": null,
     "published_at": "2023-07-07T23:22:36+02:00",
-    "updated_at": "2023-07-07T23:22:38+02:00",
-    "media_id": "8gdxk6sabhzd",
+    "updated_at": "2023-07-08T00:05:47+02:00",
+    "media_id": "igcx709axf08",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -93,12 +116,12 @@
   },
   {
     "id": 6271467,
-    "slug": "bekijk-hier-de-persconferentie-over-de-val-van-kabinet-rutte-iv-terug",
+    "slug": "kijk-hier-de-persconferentie-over-de-val-van-kabinet-rutte-iv-terug",
     "type": "video",
-    "title": "Bekijk hier de persconferentie over de val van kabinet-Rutte IV terug",
+    "title": "Kijk hier de persconferentie over de val van kabinet-Rutte IV terug",
     "subtitle": "Video",
     "published_at": "2023-07-07T22:36:14+02:00",
-    "updated_at": "2023-07-07T23:27:44+02:00",
+    "updated_at": "2023-07-07T23:46:57+02:00",
     "media_id": "cyix6b5a16ja",
     "duration": "0:01",
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/val-kabinet/6271467/bekijk-hier-de-persconferentie-over-de-val-van-kabinet-rutte-iv-terug.html",
+    "url": "/val-kabinet/6271467/kijk-hier-de-persconferentie-over-de-val-van-kabinet-rutte-iv-terug.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6271441/voormalig-ajax-fenomeen-kasper-dolberg-tekent-bij-anderlecht-na-matig-seizoen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271440,
-    "slug": "verstappen-zet-blakende-vorm-voort-op-silverstone-williams-opvallend-sterk",
-    "type": "article",
-    "title": "Verstappen zet blakende vorm voort op Silverstone, Williams opvallend sterk",
-    "subtitle": "NU+",
-    "published_at": "2023-07-07T19:54:37+02:00",
-    "updated_at": "2023-07-07T20:15:13+02:00",
-    "media_id": "oasxkduav5ep",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6271440/verstappen-zet-blakende-vorm-voort-op-silverstone-williams-opvallend-sterk.html",
     "open_new_window": false,
     "partner": null
   }
