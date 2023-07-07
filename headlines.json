@@ -1,5 +1,28 @@
 [
   {
+    "id": 6271290,
+    "slug": "schiphol-moet-aantal-vluchten-toch-met-bijna-een-tiende-terugschroeven",
+    "type": "article",
+    "title": "Schiphol moet aantal vluchten tóch met bijna een tiende terugschroeven",
+    "subtitle": null,
+    "published_at": "2023-07-07T10:37:27+02:00",
+    "updated_at": "2023-07-07T10:45:02+02:00",
+    "media_id": "d5pxht7auwit",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6271290/schiphol-moet-aantal-vluchten-toch-met-bijna-een-tiende-terugschroeven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271297,
     "slug": "man-opgepakt-na-antisemitische-projecties-op-gebouw-in-capelle-aan-den-ijssel",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Marengo-proces loopt forse vertraging op: uitspraak 20 oktober niet haalbaar",
     "subtitle": null,
     "published_at": "2023-07-07T10:09:48+02:00",
-    "updated_at": "2023-07-07T10:26:53+02:00",
+    "updated_at": "2023-07-07T10:34:57+02:00",
     "media_id": "fnuxdy9almzi",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "PSV bereikt akkoord met Club Brugge en haalt Noa Lang terug naar Eredivisie",
     "subtitle": null,
     "published_at": "2023-07-07T10:03:43+02:00",
-    "updated_at": "2023-07-07T10:29:35+02:00",
+    "updated_at": "2023-07-07T10:40:34+02:00",
     "media_id": "tkkxm1ya4i6i",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6271132/stelling-ik-hoef-dit-jaar-niet-naar-het-buitenland-op-vakantie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271263,
-    "slug": "zeker-zes-doden-en-tientallen-gewonden-door-brand-in-verzorgingshuis-in-milaan",
-    "type": "article",
-    "title": "Zeker zes doden en tientallen gewonden door brand in verzorgingshuis in Milaan",
-    "subtitle": null,
-    "published_at": "2023-07-07T06:51:44+02:00",
-    "updated_at": "2023-07-07T10:02:01+02:00",
-    "media_id": "ow9xy71aoy0p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6271263/zeker-zes-doden-en-tientallen-gewonden-door-brand-in-verzorgingshuis-in-milaan.html",
     "open_new_window": false,
     "partner": null
   }
