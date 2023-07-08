@@ -1,5 +1,51 @@
 [
   {
+    "id": 6271523,
+    "slug": "de-vrij-verlengt-week-na-aflopen-contract-alsnog-bij-internazionale",
+    "type": "article",
+    "title": "De Vrij verlengt week na aflopen contract alsnog bij Internazionale",
+    "subtitle": null,
+    "published_at": "2023-07-08T13:41:35+02:00",
+    "updated_at": "2023-07-08T13:41:36+02:00",
+    "media_id": "gd9x525av097",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6271523/de-vrij-verlengt-week-na-aflopen-contract-alsnog-bij-internazionale.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271521,
+    "slug": "verstappen-klokt-mede-door-regen-achtste-tijd-in-laatste-vrije-training-silverstone",
+    "type": "article",
+    "title": "Verstappen klokt mede door regen achtste tijd in laatste vrije training Silverstone",
+    "subtitle": null,
+    "published_at": "2023-07-08T13:35:48+02:00",
+    "updated_at": "2023-07-08T13:40:42+02:00",
+    "media_id": "ap6xjm2a1rja",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Groot-Brittannië",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6271521/verstappen-klokt-mede-door-regen-achtste-tijd-in-laatste-vrije-training-silverstone.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271515,
     "slug": "tesla-domineert-op-duitse-elektrische-automarkt",
     "type": "article",
@@ -29,8 +75,8 @@
     "title": "Paul Rabbering krijgt tweede kind",
     "subtitle": null,
     "published_at": "2023-07-08T13:01:18+02:00",
-    "updated_at": "2023-07-08T13:01:20+02:00",
-    "media_id": "rynxo4lafyd1",
+    "updated_at": "2023-07-08T13:29:08+02:00",
+    "media_id": "jcyxq31aif7m",
     "duration": null,
     "canonical_section": {
       "id": 125,
@@ -70,12 +116,12 @@
   },
   {
     "id": 6271509,
-    "slug": "van-der-sar-blijft-op-intensive-care-liggen-situatie-stabiel-maar-zorgwekkend",
+    "slug": "van-der-sar-blijft-op-intensive-care-situatie-stabiel-maar-zorgwekkend",
     "type": "article",
-    "title": "Van der Sar blijft op intensive care liggen, situatie stabiel maar zorgwekkend",
+    "title": "Van der Sar blijft op intensive care, situatie stabiel maar zorgwekkend",
     "subtitle": null,
     "published_at": "2023-07-08T12:56:44+02:00",
-    "updated_at": "2023-07-08T13:11:58+02:00",
+    "updated_at": "2023-07-08T13:28:34+02:00",
     "media_id": "g5wxthmadj5m",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6271509/van-der-sar-blijft-op-intensive-care-liggen-situatie-stabiel-maar-zorgwekkend.html",
+    "url": "/voetbal/6271509/van-der-sar-blijft-op-intensive-care-situatie-stabiel-maar-zorgwekkend.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,13 +254,13 @@
   },
   {
     "id": 6271501,
-    "slug": "verstappen-doet-het-rustig-aan-in-training-op-silverstone-veel-regenval",
+    "slug": "lastige-weersomstandigheden-tijdens-tweede-dag-op-silverstone",
     "type": "article",
-    "title": "Verstappen doet het rustig aan in training op Silverstone, veel regenval",
+    "title": "Lastige weersomstandigheden tijdens tweede dag op Silverstone",
     "subtitle": "Liveblog",
     "published_at": "2023-07-08T12:03:13+02:00",
-    "updated_at": "2023-07-08T13:02:19+02:00",
-    "media_id": "oesx478al2wb",
+    "updated_at": "2023-07-08T13:37:53+02:00",
+    "media_id": "onbxf1bao8wt",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -225,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6271501/verstappen-doet-het-rustig-aan-in-training-op-silverstone-veel-regenval.html",
+    "url": "/formule-1/6271501/lastige-weersomstandigheden-tijdens-tweede-dag-op-silverstone.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +328,7 @@
     "title": "John van den Heuvel had anders willen berichten over aanhouding zoon Halsema",
     "subtitle": null,
     "published_at": "2023-07-08T11:34:11+02:00",
-    "updated_at": "2023-07-08T11:46:56+02:00",
+    "updated_at": "2023-07-08T13:16:34+02:00",
     "media_id": "z4sxgvuabmfc",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/gezondheid/6271170/dit-is-het-verschil-tussen-zonnebrandcremes-en-hier-moet-je-op-letten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271485,
-    "slug": "djokovic-bereikt-mijlpaal-op-wimbledon-ik-kan-versnellen-wanneer-het-moet",
-    "type": "article",
-    "title": "Djokovic bereikt mijlpaal op Wimbledon: 'Ik kan versnellen wanneer het moet'",
-    "subtitle": null,
-    "published_at": "2023-07-08T09:42:04+02:00",
-    "updated_at": "2023-07-08T10:07:27+02:00",
-    "media_id": "hv5xiemag0c1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6271485/djokovic-bereikt-mijlpaal-op-wimbledon-ik-kan-versnellen-wanneer-het-moet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271487,
-    "slug": "miljoenen-kijkers-voor-journaals-rondom-val-van-kabinet-rutte-iv",
-    "type": "article",
-    "title": "Miljoenen kijkers voor journaals rondom val van kabinet-Rutte IV",
-    "subtitle": null,
-    "published_at": "2023-07-08T09:29:39+02:00",
-    "updated_at": "2023-07-08T12:12:34+02:00",
-    "media_id": "6yjx2iiaaga1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6271487/miljoenen-kijkers-voor-journaals-rondom-val-van-kabinet-rutte-iv.html",
     "open_new_window": false,
     "partner": null
   }
