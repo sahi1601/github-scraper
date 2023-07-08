@@ -1,5 +1,28 @@
 [
   {
+    "id": 6271489,
+    "slug": "in-het-kort-het-kabinet-is-gevallen-dit-weten-we-nu",
+    "type": "article",
+    "title": "In het kort: het kabinet is gevallen, dit weten we nu",
+    "subtitle": null,
+    "published_at": "2023-07-08T10:34:23+02:00",
+    "updated_at": "2023-07-08T10:35:15+02:00",
+    "media_id": "zxgx7ioabeew",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779274,
+      "slug": "val-kabinet",
+      "type": "default",
+      "name": "Val kabinet",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/val-kabinet/6271489/in-het-kort-het-kabinet-is-gevallen-dit-weten-we-nu.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271377,
     "slug": "een-kabinet-dat-valt-is-in-den-haag-veel-meer-regel-dan-uitzondering",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6271109/we-hoeven-niet-meer-maanden-te-wachten-op-een-warmtepomp-fiets-of-auto.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271474,
-    "slug": "rutte-iv-moest-het-vertrouwen-terugwinnen-maar-dat-bleek-kansloos",
-    "type": "article",
-    "title": "Rutte IV moest het vertrouwen terugwinnen, maar dat bleek kansloos",
-    "subtitle": "NU+",
-    "published_at": "2023-07-08T05:00:15+02:00",
-    "updated_at": "2023-07-08T09:09:58+02:00",
-    "media_id": "aquxx3hak6tc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779274,
-      "slug": "val-kabinet",
-      "type": "default",
-      "name": "Val kabinet",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/val-kabinet/6271474/rutte-iv-moest-het-vertrouwen-terugwinnen-maar-dat-bleek-kansloos.html",
     "open_new_window": false,
     "partner": null
   }
