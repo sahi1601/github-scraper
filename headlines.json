@@ -1,13 +1,36 @@
 [
   {
+    "id": 6271616,
+    "slug": "emotionele-tour-rit-voor-van-der-poel-in-geboorteplaats-van-opa",
+    "type": "article",
+    "title": "Emotionele Tour-rit voor Van der Poel in geboorteplaats van opa",
+    "subtitle": "In beeld",
+    "published_at": "2023-07-09T13:38:27+02:00",
+    "updated_at": "2023-07-09T13:42:56+02:00",
+    "media_id": "t5sxiwlabias",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6271616/emotionele-tour-rit-voor-van-der-poel-in-geboorteplaats-van-opa.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271593,
     "slug": "groenlinks-en-pvda-willen-een-programma-en-een-leider-bij-nieuwe-verkiezingen",
     "type": "article",
     "title": "GroenLinks en PvdA willen één programma en één leider bij nieuwe verkiezingen",
     "subtitle": null,
     "published_at": "2023-07-09T13:18:25+02:00",
-    "updated_at": "2023-07-09T13:20:44+02:00",
-    "media_id": "i45x1ssayobc",
+    "updated_at": "2023-07-09T13:42:23+02:00",
+    "media_id": "uuhxoolakmwe",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -139,13 +162,13 @@
   },
   {
     "id": 6271590,
-    "slug": "van-der-poel-rijdt-met-speciale-fiets-in-tour-om-opa-poulidor-te-eren",
+    "slug": "tourkaravaan-begint-daags-voor-rustdag-aan-bergetappe-met-listige-slotklim",
     "type": "article",
-    "title": "Van der Poel rijdt met speciale fiets in Tour om opa Poulidor te eren",
+    "title": "Tourkaravaan begint daags voor rustdag aan bergetappe met listige slotklim",
     "subtitle": "Liveblog",
     "published_at": "2023-07-09T12:26:14+02:00",
-    "updated_at": "2023-07-09T12:39:20+02:00",
-    "media_id": "g14xgwnapiqb",
+    "updated_at": "2023-07-09T13:40:14+02:00",
+    "media_id": "fevxbe6al1qn",
     "duration": null,
     "canonical_section": {
       "id": 1772173,
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6271590/van-der-poel-rijdt-met-speciale-fiets-in-tour-om-opa-poulidor-te-eren.html",
+    "url": "/tour-de-france/6271590/tourkaravaan-begint-daags-voor-rustdag-aan-bergetappe-met-listige-slotklim.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal-2023/6271589/na-wereldreis-traint-uitgeteld-oranje-gelijk-op-tapijt-in-sydney-hoor-geen-gezeur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271513,
-    "slug": "we-testen-met-een-robot-maar-wij-doen-het-werk",
-    "type": "article",
-    "title": "We testen met een robot, maar wij doen het werk",
-    "subtitle": "Van de hoofdredactie",
-    "published_at": "2023-07-09T09:01:06+02:00",
-    "updated_at": "2023-07-09T09:01:08+02:00",
-    "media_id": "hisxvdka4jy5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772069,
-      "slug": "blog",
-      "type": "default",
-      "name": "Van de hoofdredactie",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/blog/6271513/we-testen-met-een-robot-maar-wij-doen-het-werk.html",
     "open_new_window": false,
     "partner": null
   }
