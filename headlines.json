@@ -1,5 +1,28 @@
 [
   {
+    "id": 6271700,
+    "slug": "jamie-foxx-voor-het-eerst-in-openbaar-verschenen-na-ziekenhuisopname",
+    "type": "article",
+    "title": "Jamie Foxx voor het eerst in openbaar verschenen na ziekenhuisopname",
+    "subtitle": null,
+    "published_at": "2023-07-10T08:41:50+02:00",
+    "updated_at": "2023-07-10T08:41:52+02:00",
+    "media_id": "fhuxt66afuat",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6271700/jamie-foxx-voor-het-eerst-in-openbaar-verschenen-na-ziekenhuisopname.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271698,
     "slug": "belarussische-azarenka-begrijpt-niet-waarom-wimbledon-publiek-haar-uitjouwde",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6271679/topsprinter-fabio-jakobsen-vertrekt-na-dit-seizoen-bij-soudal-quick-step.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271678,
-    "slug": "zangeres-en-presentatrice-monique-smit-in-verwachting-van-een-meisje",
-    "type": "article",
-    "title": "Zangeres en presentatrice Monique Smit in verwachting van een meisje",
-    "subtitle": null,
-    "published_at": "2023-07-09T23:34:12+02:00",
-    "updated_at": "2023-07-10T06:12:54+02:00",
-    "media_id": "dygxjyva1fje",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6271678/zangeres-en-presentatrice-monique-smit-in-verwachting-van-een-meisje.html",
     "open_new_window": false,
     "partner": null
   }
