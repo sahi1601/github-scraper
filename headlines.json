@@ -1,12 +1,35 @@
 [
   {
+    "id": 6271716,
+    "slug": "rutte-komende-verkiezingen-niet-meer-beschikbaar-als-vvd-leider-en-verlaat-politiek",
+    "type": "article",
+    "title": "Rutte komende verkiezingen niet meer beschikbaar als VVD-leider en verlaat politiek",
+    "subtitle": null,
+    "published_at": "2023-07-10T10:21:55+02:00",
+    "updated_at": "2023-07-10T10:32:30+02:00",
+    "media_id": "xrrxq9taph3m",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6271716/rutte-komende-verkiezingen-niet-meer-beschikbaar-als-vvd-leider-en-verlaat-politiek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271713,
-    "slug": "tweede-kamer-debatteert-met-rutte-over-val-kabinet",
+    "slug": "rutte-geeft-verklaring-over-val-kabinet-kamerdebat-volgt-later",
     "type": "video",
-    "title": "Tweede Kamer debatteert met Rutte over val kabinet",
+    "title": "Rutte geeft verklaring over val kabinet, Kamerdebat volgt later",
     "subtitle": "Livestream",
     "published_at": "2023-07-10T10:14:03+02:00",
-    "updated_at": "2023-07-10T10:14:48+02:00",
+    "updated_at": "2023-07-10T10:28:40+02:00",
     "media_id": "m9xx1hcaxmnh",
     "duration": "0:01",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6271713/tweede-kamer-debatteert-met-rutte-over-val-kabinet.html",
+    "url": "/politiek/6271713/rutte-geeft-verklaring-over-val-kabinet-kamerdebat-volgt-later.html",
     "open_new_window": false,
     "partner": null
   },
@@ -47,12 +70,12 @@
   },
   {
     "id": 6271674,
-    "slug": "lees-hier-mee-met-verklaring-rutte-en-kamerdebat-over-val-kabinet",
+    "slug": "lees-hier-alles-over-vertrek-rutte-en-kamerdebat-over-val-kabinet",
     "type": "article",
-    "title": "Lees hier mee met verklaring Rutte en Kamerdebat over val kabinet",
+    "title": "Lees hier alles over vertrek Rutte en Kamerdebat over val kabinet",
     "subtitle": "Liveblog",
     "published_at": "2023-07-10T09:47:08+02:00",
-    "updated_at": "2023-07-10T10:16:06+02:00",
+    "updated_at": "2023-07-10T10:31:26+02:00",
     "media_id": "6l2xldia0c55",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6271674/lees-hier-mee-met-verklaring-rutte-en-kamerdebat-over-val-kabinet.html",
+    "url": "/politiek/6271674/lees-hier-alles-over-vertrek-rutte-en-kamerdebat-over-val-kabinet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6271316/veel-bedrijven-nog-steeds-niet-in-staat-om-hoge-werkdruk-aan-te-pakken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271630,
-    "slug": "deel-oppositie-wil-van-rutte-af-vvd-leider-wacht-moeilijk-debat",
-    "type": "article",
-    "title": "Deel oppositie wil van Rutte af, VVD-leider wacht moeilijk debat",
-    "subtitle": null,
-    "published_at": "2023-07-10T05:06:25+02:00",
-    "updated_at": "2023-07-10T06:47:46+02:00",
-    "media_id": "harx4d9a5nwf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6271630/deel-oppositie-wil-van-rutte-af-vvd-leider-wacht-moeilijk-debat.html",
     "open_new_window": false,
     "partner": null
   }
