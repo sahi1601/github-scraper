@@ -1,12 +1,35 @@
 [
   {
-    "id": 6271902,
-    "slug": "journalist-wil-aangifte-doen-tegen-vvd-woordvoerder-wegens-wegslaan-microfoon",
+    "id": 6271903,
+    "slug": "ongekende-hittegolf-in-italie-maar-in-nederland-merken-we-er-weinig-van",
     "type": "article",
-    "title": "Journalist wil aangifte doen tegen VVD-woordvoerder wegens wegslaan microfoon",
+    "title": "'Ongekende' hittegolf in Italië, maar in Nederland merken we er weinig van",
+    "subtitle": null,
+    "published_at": "2023-07-11T13:12:03+02:00",
+    "updated_at": "2023-07-11T13:18:54+02:00",
+    "media_id": "j2exwjeablb6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6271903/ongekende-hittegolf-in-italie-maar-in-nederland-merken-we-er-weinig-van.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271902,
+    "slug": "journalist-wil-aangifte-doen-tegen-vvd-woordvoerder-wegens-weggooien-microfoon",
+    "type": "article",
+    "title": "Journalist wil aangifte doen tegen VVD-woordvoerder wegens weggooien microfoon",
     "subtitle": null,
     "published_at": "2023-07-11T13:03:06+02:00",
-    "updated_at": "2023-07-11T13:03:08+02:00",
+    "updated_at": "2023-07-11T13:19:50+02:00",
     "media_id": "um5xs32atgh6",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6271902/journalist-wil-aangifte-doen-tegen-vvd-woordvoerder-wegens-wegslaan-microfoon.html",
+    "url": "/media/6271902/journalist-wil-aangifte-doen-tegen-vvd-woordvoerder-wegens-weggooien-microfoon.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Inspectie: Droogijs en zware kratten zijn riskant voor boodschappenbezorger",
     "subtitle": null,
     "published_at": "2023-07-11T12:24:40+02:00",
-    "updated_at": "2023-07-11T12:24:41+02:00",
+    "updated_at": "2023-07-11T13:12:42+02:00",
     "media_id": "sxnxiz0apjyj",
     "duration": null,
     "canonical_section": {
@@ -369,12 +392,12 @@
   },
   {
     "id": 6271380,
-    "slug": "zwicht-tennis-ook-voor-saoedische-poen-voor-ons-vrouwen-is-het-lastiger",
+    "slug": "tennis-lijkt-ook-te-zwichten-voor-het-grote-geld-uit-saoedi-arabie",
     "type": "article",
-    "title": "Zwicht tennis ook voor Saoedische poen? 'Voor ons vrouwen is het lastiger'",
+    "title": "Tennis lijkt ook te zwichten voor het grote geld uit Saoedi-Arabië",
     "subtitle": "NU+",
     "published_at": "2023-07-11T11:11:33+02:00",
-    "updated_at": "2023-07-11T11:29:04+02:00",
+    "updated_at": "2023-07-11T13:14:04+02:00",
     "media_id": "badxen4akbk8",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6271380/zwicht-tennis-ook-voor-saoedische-poen-voor-ons-vrouwen-is-het-lastiger.html",
+    "url": "/sport-overig/6271380/tennis-lijkt-ook-te-zwichten-voor-het-grote-geld-uit-saoedi-arabie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6271876/vrachtwagen-rijdt-huis-binnen-in-belgie-dode-zwaargewonde-en-huizen-in-brand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271875,
-    "slug": "we-zijn-te-afhankelijk-van-chinese-grondstoffen-voor-schone-energie",
-    "type": "article",
-    "title": "We zijn te afhankelijk van Chinese grondstoffen voor schone energie",
-    "subtitle": null,
-    "published_at": "2023-07-11T10:49:44+02:00",
-    "updated_at": "2023-07-11T12:13:12+02:00",
-    "media_id": "k2vxfohalvf1",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6271875/we-zijn-te-afhankelijk-van-chinese-grondstoffen-voor-schone-energie.html",
     "open_new_window": false,
     "partner": null
   }
