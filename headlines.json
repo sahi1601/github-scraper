@@ -1,5 +1,51 @@
 [
   {
+    "id": 6271329,
+    "slug": "vooruitblik-etappe-11-tour-de-france-heeft-ploeg-van-der-poel-nog-kameraden",
+    "type": "article",
+    "title": "Vooruitblik etappe 11 Tour de France: Heeft ploeg Van der Poel nog kameraden?",
+    "subtitle": null,
+    "published_at": "2023-07-11T17:18:39+02:00",
+    "updated_at": "2023-07-11T17:25:03+02:00",
+    "media_id": "t0qxex8aj7mf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6271329/vooruitblik-etappe-11-tour-de-france-heeft-ploeg-van-der-poel-nog-kameraden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6271946,
+    "slug": "vluchter-bilbao-bezorgt-ploeg-overleden-mader-emotionele-ritzege-in-tour",
+    "type": "article",
+    "title": "Vluchter Bilbao bezorgt ploeg overleden Mäder emotionele ritzege in Tour",
+    "subtitle": null,
+    "published_at": "2023-07-11T17:14:41+02:00",
+    "updated_at": "2023-07-11T17:24:32+02:00",
+    "media_id": "ibyxmtwafzfd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6271946/vluchter-bilbao-bezorgt-ploeg-overleden-mader-emotionele-ritzege-in-tour.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271944,
     "slug": "de-tien-races-van-nyck-de-vries-voor-alphatauri",
     "type": "article",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6271941,
-    "slug": "knalroze-japans-containerschip-voor-het-eerst-rotterdamse-haven-aan",
+    "slug": "knalroze-japans-containerschip-voor-het-eerst-in-rotterdamse-haven",
     "type": "video",
-    "title": "Knalroze Japans containerschip voor het eerst Rotterdamse haven aan",
+    "title": "Knalroze Japans containerschip voor het eerst in Rotterdamse haven",
     "subtitle": "Video",
     "published_at": "2023-07-11T16:41:37+02:00",
-    "updated_at": "2023-07-11T17:01:11+02:00",
+    "updated_at": "2023-07-11T17:20:26+02:00",
     "media_id": "549xyr6a9ivo",
     "duration": "0:51",
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6271941/knalroze-japans-containerschip-voor-het-eerst-rotterdamse-haven-aan.html",
+    "url": "/videos/6271941/knalroze-japans-containerschip-voor-het-eerst-in-rotterdamse-haven.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +167,7 @@
     "title": "Nyck de Vries al na tien Formule 1-races weggestuurd bij AlphaTauri",
     "subtitle": null,
     "published_at": "2023-07-11T15:50:39+02:00",
-    "updated_at": "2023-07-11T17:09:44+02:00",
+    "updated_at": "2023-07-11T17:16:01+02:00",
     "media_id": "0fnxjvjajuee",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6271904/gevangenisstraf-megafraudeur-elizabeth-holmes-met-twee-jaar-ingekort.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271903,
-    "slug": "ongekende-hittegolf-in-italie-maar-in-nederland-merken-we-er-weinig-van",
-    "type": "article",
-    "title": "Ongekende hittegolf in Italië, maar in Nederland merken we er weinig van",
-    "subtitle": null,
-    "published_at": "2023-07-11T13:12:03+02:00",
-    "updated_at": "2023-07-11T14:02:08+02:00",
-    "media_id": "j2exwjeablb6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6271903/ongekende-hittegolf-in-italie-maar-in-nederland-merken-we-er-weinig-van.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271902,
-    "slug": "journalist-wil-aangifte-doen-tegen-vvd-perschef-wegens-weggooien-microfoon",
-    "type": "article",
-    "title": "Journalist wil aangifte doen tegen VVD-perschef wegens weggooien microfoon",
-    "subtitle": null,
-    "published_at": "2023-07-11T13:03:06+02:00",
-    "updated_at": "2023-07-11T16:44:03+02:00",
-    "media_id": "um5xs32atgh6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6271902/journalist-wil-aangifte-doen-tegen-vvd-perschef-wegens-weggooien-microfoon.html",
     "open_new_window": false,
     "partner": null
   }
