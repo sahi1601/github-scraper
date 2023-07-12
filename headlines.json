@@ -1,5 +1,28 @@
 [
   {
+    "id": 6271939,
+    "slug": "erdogan-lijkt-poetin-drie-klappen-uit-te-delen-dit-speelt-er",
+    "type": "video",
+    "title": "Erdogan lijkt Poetin drie klappen uit te delen: dit speelt er",
+    "subtitle": "Explainer",
+    "published_at": "2023-07-12T06:34:13+02:00",
+    "updated_at": "2023-07-12T06:34:14+02:00",
+    "media_id": "f64xohbaqk9f",
+    "duration": "2:29",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6271939/erdogan-lijkt-poetin-drie-klappen-uit-te-delen-dit-speelt-er.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272003,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -167,7 +190,7 @@
     "title": "Ongewenst verspreiden van persoonlijke gegevens van een ander wordt strafbaar",
     "subtitle": null,
     "published_at": "2023-07-11T23:59:26+02:00",
-    "updated_at": "2023-07-12T05:40:19+02:00",
+    "updated_at": "2023-07-12T06:30:19+02:00",
     "media_id": "ugrxqivarc3i",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6271986/djokovic-blijft-ongenaakbaar-op-wimbledon-en-plaatst-zich-voor-halve-finales.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271932,
-    "slug": "meer-bekend-over-melanomen-huidkankervorm-is-dodelijker-voor-zwarte-mannen",
-    "type": "article",
-    "title": "Meer bekend over melanomen: huidkankervorm is dodelijker voor zwarte mannen",
-    "subtitle": null,
-    "published_at": "2023-07-11T20:45:44+02:00",
-    "updated_at": "2023-07-12T05:06:55+02:00",
-    "media_id": "jqox91paq7cz",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6271932/meer-bekend-over-melanomen-huidkankervorm-is-dodelijker-voor-zwarte-mannen.html",
     "open_new_window": false,
     "partner": null
   }
