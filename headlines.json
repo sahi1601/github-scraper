@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272002,
+    "slug": "yesilgoz-wil-rutte-wel-opvolgen-als-vvd-leider-en-stelt-zich-kandidaat",
+    "type": "article",
+    "title": "Yesilgöz wil Rutte wél opvolgen als VVD-leider en stelt zich kandidaat",
+    "subtitle": null,
+    "published_at": "2023-07-12T05:27:26+02:00",
+    "updated_at": "2023-07-12T05:36:34+02:00",
+    "media_id": "5upxc6iaon9l",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6272002/yesilgoz-wil-rutte-wel-opvolgen-als-vvd-leider-en-stelt-zich-kandidaat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6271907,
     "slug": "hollywoodsterren-vrezen-overbodig-te-worden-door-kunstmatige-intelligentie",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6271984/britse-premier-bedankt-rutte-op-navo-top-in-vilnius.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6271981,
-    "slug": "kolkende-rivieren-en-ondergelopen-straten-na-zware-regenval-in-vs",
-    "type": "video",
-    "title": "Kolkende rivieren en ondergelopen straten na zware regenval in VS",
-    "subtitle": "Video",
-    "published_at": "2023-07-11T20:20:08+02:00",
-    "updated_at": "2023-07-11T20:20:09+02:00",
-    "media_id": "r5sxi8mailtm",
-    "duration": "0:49",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6271981/kolkende-rivieren-en-ondergelopen-straten-na-zware-regenval-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
