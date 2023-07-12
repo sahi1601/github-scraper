@@ -1,12 +1,58 @@
 [
   {
+    "id": 6272120,
+    "slug": "in-opspraak-geraakte-bbc-journalist-is-nieuwslezer-huw-edwards",
+    "type": "article",
+    "title": "In opspraak geraakte BBC-journalist is nieuwslezer Huw Edwards",
+    "subtitle": null,
+    "published_at": "2023-07-12T19:20:21+02:00",
+    "updated_at": "2023-07-12T19:25:46+02:00",
+    "media_id": "ah9xkgba8qkk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6272120/in-opspraak-geraakte-bbc-journalist-is-nieuwslezer-huw-edwards.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272119,
+    "slug": "groenewegen-geloofde-heilig-in-zege-maar-er-kwam-een-groene-gast-overheen",
+    "type": "article",
+    "title": "Groenewegen geloofde heilig in zege: 'Maar er kwam een groene gast overheen'",
+    "subtitle": null,
+    "published_at": "2023-07-12T19:13:36+02:00",
+    "updated_at": "2023-07-12T19:19:59+02:00",
+    "media_id": "6zrx36yadsax",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6272119/groenewegen-geloofde-heilig-in-zege-maar-er-kwam-een-groene-gast-overheen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272118,
     "slug": "medvedev-maakt-in-kwartfinales-eind-aan-wimbledon-sprookje-eubanks",
     "type": "article",
     "title": "Medvedev maakt in kwartfinales eind aan Wimbledon-sprookje Eubanks",
     "subtitle": null,
     "published_at": "2023-07-12T19:08:05+02:00",
-    "updated_at": "2023-07-12T19:12:18+02:00",
+    "updated_at": "2023-07-12T19:22:55+02:00",
     "media_id": "0bdx9ona88me",
     "duration": null,
     "canonical_section": {
@@ -70,12 +116,12 @@
   },
   {
     "id": 6272115,
-    "slug": "fietsenbedrijf-vanmoof-krijgt-uitstel-van-betaling",
+    "slug": "fel-bekritiseerd-fietsenbedrijf-vanmoof-krijgt-uitstel-van-betaling",
     "type": "article",
-    "title": "Fietsenbedrijf VanMoof krijgt uitstel van betaling",
+    "title": "Fel bekritiseerd fietsenbedrijf VanMoof krijgt uitstel van betaling",
     "subtitle": null,
     "published_at": "2023-07-12T18:40:25+02:00",
-    "updated_at": "2023-07-12T19:08:35+02:00",
+    "updated_at": "2023-07-12T19:22:28+02:00",
     "media_id": "14px9tma1ox3",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6272115/fietsenbedrijf-vanmoof-krijgt-uitstel-van-betaling.html",
+    "url": "/economie/6272115/fel-bekritiseerd-fietsenbedrijf-vanmoof-krijgt-uitstel-van-betaling.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +305,7 @@
     "title": "Superieure Philipsen verslaat Groenewegen en boekt vierde sprintzege in Tour",
     "subtitle": null,
     "published_at": "2023-07-12T17:33:41+02:00",
-    "updated_at": "2023-07-12T19:06:19+02:00",
+    "updated_at": "2023-07-12T19:19:34+02:00",
     "media_id": "g0fx21aambnq",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Om het zicht te verbeteren, wil de F1 deze spatborden installeren",
     "subtitle": "Explainer",
     "published_at": "2023-07-12T17:12:31+02:00",
-    "updated_at": "2023-07-12T18:06:33+02:00",
+    "updated_at": "2023-07-12T19:13:18+02:00",
     "media_id": "poexwuxarbxf",
     "duration": "1:28",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6272071/praat-mee-wie-past-er-op-jouw-huis-tijdens-je-vakantie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272055,
-    "slug": "hoe-de-rem-op-verpleeghuiszorg-de-woningmarkt-nog-verder-verstopt",
-    "type": "article",
-    "title": "Hoe de rem op verpleeghuiszorg de woningmarkt nog verder verstopt",
-    "subtitle": "NU+",
-    "published_at": "2023-07-12T16:58:54+02:00",
-    "updated_at": "2023-07-12T17:43:58+02:00",
-    "media_id": "zxfxipvawm3u",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6272055/hoe-de-rem-op-verpleeghuiszorg-de-woningmarkt-nog-verder-verstopt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272095,
-    "slug": "kevin-spacey-ontkent-aanranding-maar-geeft-onhandige-versierpogingen-toe",
-    "type": "article",
-    "title": "Kevin Spacey ontkent aanranding, maar geeft 'onhandige versierpogingen' toe",
-    "subtitle": null,
-    "published_at": "2023-07-12T16:44:35+02:00",
-    "updated_at": "2023-07-12T17:10:52+02:00",
-    "media_id": "624xqfoaisoe",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6272095/kevin-spacey-ontkent-aanranding-maar-geeft-onhandige-versierpogingen-toe.html",
     "open_new_window": false,
     "partner": null
   }
