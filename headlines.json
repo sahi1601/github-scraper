@@ -1,12 +1,35 @@
 [
   {
-    "id": 6272284,
-    "slug": "d66-fractievoorzitter-paternotte-stelt-zich-niet-kandidaat-voor-verkiezingen",
+    "id": 6272288,
+    "slug": "juventus-stapt-uit-omstreden-super-league-real-madrid-en-barca-blijven-over",
     "type": "article",
-    "title": "D66-fractievoorzitter Paternotte stelt zich niet kandidaat voor verkiezingen",
+    "title": "Juventus stapt uit omstreden Super League, Real Madrid en Barça blijven over",
+    "subtitle": null,
+    "published_at": "2023-07-13T22:17:21+02:00",
+    "updated_at": "2023-07-13T22:21:25+02:00",
+    "media_id": "at3x90vaphop",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6272288/juventus-stapt-uit-omstreden-super-league-real-madrid-en-barca-blijven-over.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272284,
+    "slug": "fractievoorzitter-paternotte-wil-kaag-niet-opvolgen-als-lijsttrekker-d66",
+    "type": "article",
+    "title": "Fractievoorzitter Paternotte wil Kaag niet opvolgen als lijsttrekker D66",
     "subtitle": null,
     "published_at": "2023-07-13T22:10:17+02:00",
-    "updated_at": "2023-07-13T22:13:25+02:00",
+    "updated_at": "2023-07-13T22:24:23+02:00",
     "media_id": "gu4xgc9af5u6",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6272284/d66-fractievoorzitter-paternotte-stelt-zich-niet-kandidaat-voor-verkiezingen.html",
+    "url": "/politiek/6272284/fractievoorzitter-paternotte-wil-kaag-niet-opvolgen-als-lijsttrekker-d66.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6272262/koolhof-bereikt-met-brit-skupski-voor-het-eerst-dubbelfinale-wimbledon.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272260,
-    "slug": "afsluitdijk-weer-open-voor-verkeer-na-storing-aan-sluis",
-    "type": "article",
-    "title": "Afsluitdijk weer open voor verkeer na storing aan sluis",
-    "subtitle": null,
-    "published_at": "2023-07-13T17:27:54+02:00",
-    "updated_at": "2023-07-13T19:42:22+02:00",
-    "media_id": "qazxcrlayuq0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6272260/afsluitdijk-weer-open-voor-verkeer-na-storing-aan-sluis.html",
     "open_new_window": false,
     "partner": null
   }
