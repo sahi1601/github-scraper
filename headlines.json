@@ -6,7 +6,7 @@
     "title": "Aantal asielaanvragen tot nu toe even groot als vorig jaar, onzekerheid over najaar",
     "subtitle": null,
     "published_at": "2023-07-13T09:10:31+02:00",
-    "updated_at": "2023-07-13T09:11:37+02:00",
+    "updated_at": "2023-07-13T09:13:50+02:00",
     "media_id": "rbjxvvfasyvn",
     "duration": null,
     "canonical_section": {
@@ -52,7 +52,7 @@
     "title": "BBC-presentator Huw Edwards beschuldigd van wangedrag: dit is er aan de hand",
     "subtitle": null,
     "published_at": "2023-07-13T08:58:13+02:00",
-    "updated_at": "2023-07-13T08:58:15+02:00",
+    "updated_at": "2023-07-13T09:20:38+02:00",
     "media_id": "knmxlr6at2nw",
     "duration": null,
     "canonical_section": {
@@ -116,12 +116,12 @@
   },
   {
     "id": 6272147,
-    "slug": "kyiv-voor-derde-nacht-op-rij-aangevallen-door-russische-drones",
+    "slug": "rusland-zet-reeks-luchtaanvallen-door-kyiv-voor-derde-nacht-op-rij-bestookt",
     "type": "article",
-    "title": "Kyiv voor derde nacht op rij aangevallen door Russische drones",
+    "title": "Rusland zet reeks luchtaanvallen door: Kyiv voor derde nacht op rij bestookt",
     "subtitle": null,
     "published_at": "2023-07-13T08:34:04+02:00",
-    "updated_at": "2023-07-13T08:58:48+02:00",
+    "updated_at": "2023-07-13T09:17:28+02:00",
     "media_id": "k1xxod6ajwo9",
     "duration": null,
     "canonical_section": {
@@ -133,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6272147/kyiv-voor-derde-nacht-op-rij-aangevallen-door-russische-drones.html",
+    "url": "/spanningen-oekraine/6272147/rusland-zet-reeks-luchtaanvallen-door-kyiv-voor-derde-nacht-op-rij-bestookt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +305,7 @@
     "title": "Svitolina en Sluiter laten Oekraïne en Wimbledon versteld staan: 'Beter dan ooit'",
     "subtitle": "NU+",
     "published_at": "2023-07-13T05:15:08+02:00",
-    "updated_at": "2023-07-13T08:24:31+02:00",
+    "updated_at": "2023-07-13T09:19:11+02:00",
     "media_id": "031xletasequ",
     "duration": null,
     "canonical_section": {
@@ -443,19 +443,19 @@
     "title": "Medische chatbot van Google slaagt voor examen geneeskunde",
     "subtitle": null,
     "published_at": "2023-07-12T23:57:28+02:00",
-    "updated_at": "2023-07-13T08:38:57+02:00",
+    "updated_at": "2023-07-13T09:16:19+02:00",
     "media_id": "absxfacahl9t",
     "duration": null,
     "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
+      "id": 1779219,
+      "slug": "tech-wetenschap",
       "type": "default",
-      "name": "Tech",
+      "name": "Tech & Wetenschap",
       "style": "nutech",
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6272136/medische-chatbot-van-google-slaagt-voor-examen-geneeskunde.html",
+    "url": "/tech-wetenschap/6272136/medische-chatbot-van-google-slaagt-voor-examen-geneeskunde.html",
     "open_new_window": false,
     "partner": null
   }
