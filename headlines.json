@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272286,
+    "slug": "froome-krijgt-ervan-langs-van-ploegeigenaar-we-krijgen-geen-waar-voor-ons-geld",
+    "type": "article",
+    "title": "Froome krijgt ervan langs van ploegeigenaar: 'We krijgen geen waar voor ons geld'",
+    "subtitle": null,
+    "published_at": "2023-07-13T23:20:04+02:00",
+    "updated_at": "2023-07-13T23:20:05+02:00",
+    "media_id": "za8xy8sa72pj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6272286/froome-krijgt-ervan-langs-van-ploegeigenaar-we-krijgen-geen-waar-voor-ons-geld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272290,
     "slug": "twee-agenten-en-twee-verdachten-gewond-na-politieachtervolging-op-a12",
     "type": "article",
@@ -305,7 +328,7 @@
     "title": "Biden wil gevangenenruil met in Rusland opgepakte Amerikaanse journalist",
     "subtitle": null,
     "published_at": "2023-07-13T19:21:55+02:00",
-    "updated_at": "2023-07-13T19:21:56+02:00",
+    "updated_at": "2023-07-13T23:17:49+02:00",
     "media_id": "iwqx141a9iky",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6271334/vooruitblik-etappe-13-tour-de-france-twee-koersen-voor-de-prijs-van-een.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272266,
-    "slug": "nu-ook-kaag-stopt-komt-er-een-heel-andere-dynamiek-in-de-campagne",
-    "type": "video",
-    "title": "Nu ook Kaag stopt komt er een heel andere dynamiek in de campagne",
-    "subtitle": "Explainer",
-    "published_at": "2023-07-13T17:43:08+02:00",
-    "updated_at": "2023-07-13T17:48:13+02:00",
-    "media_id": "wllxxp7ae6wu",
-    "duration": "2:25",
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6272266/nu-ook-kaag-stopt-komt-er-een-heel-andere-dynamiek-in-de-campagne.html",
     "open_new_window": false,
     "partner": null
   }
