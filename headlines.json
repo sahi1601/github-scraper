@@ -1,12 +1,35 @@
 [
   {
-    "id": 6272251,
-    "slug": "feit-of-fabel-voelen-zomers-in-zuid-europa-echt-minder-warm-aan-dan-hier",
+    "id": 6272191,
+    "slug": "hollywood-zet-zich-schrap-na-schrijvers-gaan-ook-acteurs-staken",
     "type": "article",
-    "title": "Feit of fabel: voelen zomers in Zuid-Europa echt minder warm aan dan hier?",
+    "title": "Hollywood zet zich schrap: na schrijvers gaan ook acteurs staken",
+    "subtitle": null,
+    "published_at": "2023-07-13T21:18:49+02:00",
+    "updated_at": "2023-07-13T21:18:54+02:00",
+    "media_id": "205xb6laazrp",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6272191/hollywood-zet-zich-schrap-na-schrijvers-gaan-ook-acteurs-staken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272251,
+    "slug": "feit-of-fabel-voelen-zomers-in-zuid-europa-minder-warm-aan-dan-hier",
+    "type": "article",
+    "title": "Feit of fabel: voelen zomers in Zuid-Europa minder warm aan dan hier?",
     "subtitle": "NU+",
     "published_at": "2023-07-13T21:05:11+02:00",
-    "updated_at": "2023-07-13T21:05:13+02:00",
+    "updated_at": "2023-07-13T21:15:10+02:00",
     "media_id": "znlxq8racysh",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6272251/feit-of-fabel-voelen-zomers-in-zuid-europa-echt-minder-warm-aan-dan-hier.html",
+    "url": "/buitenland/6272251/feit-of-fabel-voelen-zomers-in-zuid-europa-minder-warm-aan-dan-hier.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Ajax grijpt mis: Sepp van den Berg blijft op huurbasis actief in Bundesliga",
     "subtitle": null,
     "published_at": "2023-07-13T20:11:23+02:00",
-    "updated_at": "2023-07-13T20:40:50+02:00",
+    "updated_at": "2023-07-13T21:07:44+02:00",
     "media_id": "schxjhaag9qc",
     "duration": null,
     "canonical_section": {
@@ -116,12 +139,12 @@
   },
   {
     "id": 6272069,
-    "slug": "john-s-hoort-straf-dit-ging-vooraf-aan-dodelijke-schietpartij-op-zorgboerderij",
+    "slug": "john-s-hoort-straf-dit-ging-vooraf-aan-dodelijke-schietpartij-zorgboerderij",
     "type": "article",
-    "title": "John S. hoort straf: dit ging vooraf aan dodelijke schietpartij op zorgboerderij",
-    "subtitle": null,
+    "title": "John S. hoort straf: dit ging vooraf aan dodelijke schietpartij zorgboerderij",
+    "subtitle": "NU+",
     "published_at": "2023-07-13T20:00:09+02:00",
-    "updated_at": "2023-07-13T20:52:44+02:00",
+    "updated_at": "2023-07-13T21:20:30+02:00",
     "media_id": "lmjxba9ak85k",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6272069/john-s-hoort-straf-dit-ging-vooraf-aan-dodelijke-schietpartij-op-zorgboerderij.html",
+    "url": "/binnenland/6272069/john-s-hoort-straf-dit-ging-vooraf-aan-dodelijke-schietpartij-zorgboerderij.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6272238/van-der-poel-kleurt-zinderende-tour-etappe-maar-moet-zege-aan-izagirre-laten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272237,
-    "slug": "controleer-jij-altijd-op-teken-praat-mee-over-lyme-en-tekenbeten",
-    "type": "article",
-    "title": "Controleer jij altijd op teken? Praat mee over lyme en tekenbeten",
-    "subtitle": null,
-    "published_at": "2023-07-13T17:01:01+02:00",
-    "updated_at": "2023-07-13T17:01:03+02:00",
-    "media_id": "humxy4ja40m7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6272237/controleer-jij-altijd-op-teken-praat-mee-over-lyme-en-tekenbeten.html",
     "open_new_window": false,
     "partner": null
   }
