@@ -1,12 +1,35 @@
 [
   {
+    "id": 6272287,
+    "slug": "15000-berlijners-geevacueerd-vanwege-bom-uit-tweede-wereldoorlog",
+    "type": "article",
+    "title": "15.000 Berlijners geëvacueerd vanwege bom uit Tweede Wereldoorlog",
+    "subtitle": null,
+    "published_at": "2023-07-13T21:27:05+02:00",
+    "updated_at": "2023-07-13T21:36:33+02:00",
+    "media_id": "f0xxxi1a8ksa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6272287/15000-berlijners-geevacueerd-vanwege-bom-uit-tweede-wereldoorlog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272191,
     "slug": "hollywood-zet-zich-schrap-na-schrijvers-gaan-ook-acteurs-staken",
     "type": "article",
     "title": "Hollywood zet zich schrap: na schrijvers gaan ook acteurs staken",
     "subtitle": null,
     "published_at": "2023-07-13T21:18:49+02:00",
-    "updated_at": "2023-07-13T21:18:54+02:00",
+    "updated_at": "2023-07-13T21:37:35+02:00",
     "media_id": "205xb6laazrp",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6272259/lizzy-van-der-ligt-ontving-haatberichten-over-aanval-op-straat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272238,
-    "slug": "van-der-poel-kleurt-zinderende-tour-etappe-maar-moet-zege-aan-izagirre-laten",
-    "type": "article",
-    "title": "Van der Poel kleurt zinderende Tour-etappe, maar moet zege aan Izagirre laten",
-    "subtitle": null,
-    "published_at": "2023-07-13T17:18:38+02:00",
-    "updated_at": "2023-07-13T20:55:59+02:00",
-    "media_id": "klxx202akdyp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6272238/van-der-poel-kleurt-zinderende-tour-etappe-maar-moet-zege-aan-izagirre-laten.html",
     "open_new_window": false,
     "partner": null
   }
