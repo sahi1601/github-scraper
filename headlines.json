@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272344,
+    "slug": "rechter-veroordeelt-john-s-tot-levenslang-voor-zorgboerderijmoorden",
+    "type": "video",
+    "title": "Rechter veroordeelt John S. tot levenslang voor zorgboerderijmoorden",
+    "subtitle": "Video",
+    "published_at": "2023-07-14T11:49:33+02:00",
+    "updated_at": "2023-07-14T11:49:34+02:00",
+    "media_id": "r2hxbomaewek",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6272344/rechter-veroordeelt-john-s-tot-levenslang-voor-zorgboerderijmoorden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272214,
     "slug": "onrust-in-distributiecentra-van-jumbo-vanwege-hoge-werkdruk",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Nieuwe advocaten Ridouan Taghi vragen om 9 maanden uitstel in Marengo-proces",
     "subtitle": null,
     "published_at": "2023-07-14T11:25:56+02:00",
-    "updated_at": "2023-07-14T11:39:49+02:00",
+    "updated_at": "2023-07-14T12:08:04+02:00",
     "media_id": "u61x8l0anm3y",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "John S. krijgt levenslang voor dodelijke schietpartij op zorgboerderij Alblasserdam",
     "subtitle": null,
     "published_at": "2023-07-14T11:12:17+02:00",
-    "updated_at": "2023-07-14T11:42:44+02:00",
+    "updated_at": "2023-07-14T11:58:44+02:00",
     "media_id": "n3axt0waj8h5",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Twee zwaargewonden bij steekpartij in Leiden, dader gevlucht",
     "subtitle": null,
     "published_at": "2023-07-14T10:52:44+02:00",
-    "updated_at": "2023-07-14T11:40:56+02:00",
+    "updated_at": "2023-07-14T12:10:04+02:00",
     "media_id": "yd9xztmam5cr",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Tweede Kamerverkiezingen zijn op woensdag 22 november",
     "subtitle": null,
     "published_at": "2023-07-14T10:12:02+02:00",
-    "updated_at": "2023-07-14T11:06:34+02:00",
+    "updated_at": "2023-07-14T11:49:44+02:00",
     "media_id": "hb7x97fakmst",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Irritatie over variabele terugleververgoeding bij vaste energiecontracten",
     "subtitle": null,
     "published_at": "2023-07-14T09:15:29+02:00",
-    "updated_at": "2023-07-14T10:02:36+02:00",
+    "updated_at": "2023-07-14T12:10:40+02:00",
     "media_id": "95xxt8ea5hdt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6272303/acteurs-vertellen-waarom-ze-staken-we-verdienen-niet-allemaal-miljoenen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272304,
-    "slug": "lewis-capaldi-verrast-publiek-ondanks-aangekondigde-werkpauze",
-    "type": "video",
-    "title": "Lewis Capaldi verrast publiek ondanks aangekondigde werkpauze",
-    "subtitle": "Video",
-    "published_at": "2023-07-14T07:53:04+02:00",
-    "updated_at": "2023-07-14T08:23:21+02:00",
-    "media_id": "iqbxb60aygs3",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6272304/lewis-capaldi-verrast-publiek-ondanks-aangekondigde-werkpauze.html",
     "open_new_window": false,
     "partner": null
   }
