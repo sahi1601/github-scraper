@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272411,
+    "slug": "spanning-in-tour-neemt-verder-toe-pogacar-nadert-vingegaard-tot-op-9-seconden",
+    "type": "article",
+    "title": "Spanning in Tour neemt verder toe: Pogacar nadert Vingegaard tot op 9 seconden",
+    "subtitle": null,
+    "published_at": "2023-07-14T17:17:51+02:00",
+    "updated_at": "2023-07-14T17:18:53+02:00",
+    "media_id": "lzix40xawzls",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6272411/spanning-in-tour-neemt-verder-toe-pogacar-nadert-vingegaard-tot-op-9-seconden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272380,
     "slug": "weekendweerbericht-broeierig-en-buiig-weekend-sluit-af-met-veel-wind",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Man opgepakt in verband met dodelijke steekpartij in Leiden",
     "subtitle": null,
     "published_at": "2023-07-14T17:08:21+02:00",
-    "updated_at": "2023-07-14T17:08:23+02:00",
+    "updated_at": "2023-07-14T17:21:19+02:00",
     "media_id": "y28xbexar9ev",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6272399,
-    "slug": "advocaat-marengo-verdachte-wil-kroongetuige-horen-over-verdwijnen-hugo-charles",
+    "slug": "marengo-advocaat-wil-kroongetuige-horen-over-verdwijnen-hugo-charles",
     "type": "article",
-    "title": "Advocaat Marengo-verdachte wil kroongetuige horen over verdwijnen Hugo Charles",
+    "title": "Marengo-advocaat  wil kroongetuige horen over verdwijnen Hugo Charles",
     "subtitle": null,
     "published_at": "2023-07-14T16:59:26+02:00",
-    "updated_at": "2023-07-14T17:12:43+02:00",
+    "updated_at": "2023-07-14T17:16:29+02:00",
     "media_id": "usixoa0ap02d",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/marengo-proces/6272399/advocaat-marengo-verdachte-wil-kroongetuige-horen-over-verdwijnen-hugo-charles.html",
+    "url": "/marengo-proces/6272399/marengo-advocaat-wil-kroongetuige-horen-over-verdwijnen-hugo-charles.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Honderden KPMG-medewerkers speelden vals om verplichte trainingen te halen",
     "subtitle": null,
     "published_at": "2023-07-14T16:31:24+02:00",
-    "updated_at": "2023-07-14T17:13:58+02:00",
+    "updated_at": "2023-07-14T17:16:35+02:00",
     "media_id": "m6qxlbfa6neg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6272371/uci-past-regels-weer-aan-geen-transgender-personen-in-vrouwenwedstrijden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272369,
-    "slug": "nederlander-maakt-spectaculaire-dronebeelden-van-vulkaanuitbarsting",
-    "type": "video",
-    "title": "Nederlander maakt spectaculaire dronebeelden van vulkaanuitbarsting",
-    "subtitle": "Video",
-    "published_at": "2023-07-14T14:36:43+02:00",
-    "updated_at": "2023-07-14T14:38:24+02:00",
-    "media_id": "367xv1qaeb63",
-    "duration": "0:37",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6272369/nederlander-maakt-spectaculaire-dronebeelden-van-vulkaanuitbarsting.html",
     "open_new_window": false,
     "partner": null
   }
