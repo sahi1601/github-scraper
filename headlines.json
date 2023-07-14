@@ -1,12 +1,35 @@
 [
   {
+    "id": 6272310,
+    "slug": "model-karlie-kloss-verwelkomt-tweede-kind",
+    "type": "article",
+    "title": "Model Karlie Kloss verwelkomt tweede kind",
+    "subtitle": null,
+    "published_at": "2023-07-14T09:11:26+02:00",
+    "updated_at": "2023-07-14T09:11:27+02:00",
+    "media_id": "rt7xegwagelo",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6272310/model-karlie-kloss-verwelkomt-tweede-kind.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272307,
     "slug": "dolly-parton-77-denkt-niet-aan-pensioen-wil-dood-neervallen-op-het-podium",
     "type": "article",
     "title": "Dolly Parton (77) denkt niet aan pensioen: 'Wil dood neervallen op het podium'",
     "subtitle": null,
     "published_at": "2023-07-14T08:40:18+02:00",
-    "updated_at": "2023-07-14T08:40:19+02:00",
+    "updated_at": "2023-07-14T08:46:39+02:00",
     "media_id": "b9bx1t1ac2oh",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Elektrische auto minder in trek door onduidelijkheid over nieuwe regels",
     "subtitle": null,
     "published_at": "2023-07-14T08:28:28+02:00",
-    "updated_at": "2023-07-14T08:35:17+02:00",
+    "updated_at": "2023-07-14T09:09:44+02:00",
     "media_id": "gdtxvzqaem8t",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Acteurs vertellen waarom ze staken: 'We verdienen niet allemaal miljoenen'",
     "subtitle": null,
     "published_at": "2023-07-14T08:24:48+02:00",
-    "updated_at": "2023-07-14T08:38:58+02:00",
+    "updated_at": "2023-07-14T08:47:07+02:00",
     "media_id": "1glx6l3abtax",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Merel van Dongen zegt sorry na rel: 'Wilde niet de spot drijven met de haka'",
     "subtitle": null,
     "published_at": "2023-07-14T07:37:59+02:00",
-    "updated_at": "2023-07-14T08:30:03+02:00",
+    "updated_at": "2023-07-14T09:00:39+02:00",
     "media_id": "c77xmwtayu2q",
     "duration": null,
     "canonical_section": {
@@ -351,8 +374,8 @@
     "title": "Rob Jetten wil Kaag opvolgen als lijsttrekker van D66: 'Nu ben ik er klaar voor'",
     "subtitle": null,
     "published_at": "2023-07-14T04:20:59+02:00",
-    "updated_at": "2023-07-14T07:16:24+02:00",
-    "media_id": "oouxn1zap948",
+    "updated_at": "2023-07-14T09:04:10+02:00",
+    "media_id": "i2wxl5waugja",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6272292/as-monaco-aanvaller-ben-yedder-beschuldigd-van-verkrachting.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272286,
-    "slug": "froome-krijgt-ervan-langs-van-ploegeigenaar-we-krijgen-geen-waar-voor-ons-geld",
-    "type": "article",
-    "title": "Froome krijgt ervan langs van ploegeigenaar: 'We krijgen geen waar voor ons geld'",
-    "subtitle": null,
-    "published_at": "2023-07-13T23:20:04+02:00",
-    "updated_at": "2023-07-13T23:24:47+02:00",
-    "media_id": "za8xy8sa72pj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6272286/froome-krijgt-ervan-langs-van-ploegeigenaar-we-krijgen-geen-waar-voor-ons-geld.html",
     "open_new_window": false,
     "partner": null
   }
