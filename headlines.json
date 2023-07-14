@@ -1,12 +1,35 @@
 [
   {
+    "id": 6272304,
+    "slug": "lewis-capaldi-verrast-publiek-tijdens-optreden-van-the-vamps",
+    "type": "video",
+    "title": "Lewis Capaldi verrast publiek tijdens optreden van The Vamps",
+    "subtitle": "Video",
+    "published_at": "2023-07-14T07:53:04+02:00",
+    "updated_at": "2023-07-14T07:53:05+02:00",
+    "media_id": "iqbxb60aygs3",
+    "duration": "0:47",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6272304/lewis-capaldi-verrast-publiek-tijdens-optreden-van-the-vamps.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272302,
-    "slug": "merel-van-dongen-zegt-sorry-na-hakarel-wilde-niet-de-spot-drijven-met-de-haka",
+    "slug": "merel-van-dongen-zegt-sorry-na-hakarel-wilde-er-niet-de-spot-mee-drijven",
     "type": "article",
-    "title": "Merel van Dongen zegt sorry na 'hakarel': 'Wilde niet de spot drijven met de haka'",
+    "title": "Merel van Dongen zegt sorry na 'hakarel': 'Wilde er niet de spot mee drijven'",
     "subtitle": null,
     "published_at": "2023-07-14T07:37:59+02:00",
-    "updated_at": "2023-07-14T07:38:47+02:00",
+    "updated_at": "2023-07-14T08:11:57+02:00",
     "media_id": "c77xmwtayu2q",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wk-voetbal-2023/6272302/merel-van-dongen-zegt-sorry-na-hakarel-wilde-niet-de-spot-drijven-met-de-haka.html",
+    "url": "/wk-voetbal-2023/6272302/merel-van-dongen-zegt-sorry-na-hakarel-wilde-er-niet-de-spot-mee-drijven.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Lars van den Berg rijdt Tour in Franse ploeg: 'Zóveel gejuich voor Pinot'",
     "subtitle": "NU+",
     "published_at": "2023-07-14T05:10:29+02:00",
-    "updated_at": "2023-07-14T06:58:01+02:00",
+    "updated_at": "2023-07-14T07:58:14+02:00",
     "media_id": "j77xexfas6mb",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6272284/fractievoorzitter-paternotte-wil-kaag-niet-opvolgen-als-lijsttrekker-d66.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272287,
-    "slug": "15000-berlijners-geevacueerd-vanwege-bom-uit-tweede-wereldoorlog",
-    "type": "article",
-    "title": "15.000 Berlijners geëvacueerd vanwege bom uit Tweede Wereldoorlog",
-    "subtitle": null,
-    "published_at": "2023-07-13T21:27:05+02:00",
-    "updated_at": "2023-07-13T21:51:30+02:00",
-    "media_id": "f0xxxi1a8ksa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6272287/15000-berlijners-geevacueerd-vanwege-bom-uit-tweede-wereldoorlog.html",
     "open_new_window": false,
     "partner": null
   }
