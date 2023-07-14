@@ -1,5 +1,51 @@
 [
   {
+    "id": 6272432,
+    "slug": "minimaal-tijdverlies-op-grand-colombier-voelt-bijna-als-winst-voor-vingegaard",
+    "type": "article",
+    "title": "Minimaal tijdverlies op Grand Colombier voelt bijna als winst voor Vingegaard",
+    "subtitle": null,
+    "published_at": "2023-07-14T20:22:55+02:00",
+    "updated_at": "2023-07-14T20:28:09+02:00",
+    "media_id": "i9yxl1la3yai",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6272432/minimaal-tijdverlies-op-grand-colombier-voelt-bijna-als-winst-voor-vingegaard.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272431,
+    "slug": "italiaanse-probleemberen-mogen-van-rechter-tot-december-in-leven-blijven",
+    "type": "article",
+    "title": "Italiaanse 'probleemberen' mogen van rechter tot december in leven blijven",
+    "subtitle": null,
+    "published_at": "2023-07-14T20:20:17+02:00",
+    "updated_at": "2023-07-14T20:24:35+02:00",
+    "media_id": "nlwxtnza74e6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6272431/italiaanse-probleemberen-mogen-van-rechter-tot-december-in-leven-blijven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272370,
     "slug": "acteurs-oppenheimer-leggen-werk-neer-net-als-nunl-ze-gaat-interviewen",
     "type": "article",
@@ -282,7 +328,7 @@
     "title": "Memphis steunt vrijgesproken Mendy: 'Hoe krijgt hij zijn carrière terug?'",
     "subtitle": null,
     "published_at": "2023-07-14T17:27:50+02:00",
-    "updated_at": "2023-07-14T20:13:53+02:00",
+    "updated_at": "2023-07-14T20:18:33+02:00",
     "media_id": "oqlx7w0aw0hd",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Wimbledon krijgt droomfinale: Djokovic en Alcaraz gaan strijden om titel",
     "subtitle": null,
     "published_at": "2023-07-14T17:27:27+02:00",
-    "updated_at": "2023-07-14T20:14:11+02:00",
+    "updated_at": "2023-07-14T20:20:55+02:00",
     "media_id": "d36xpqxapkij",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/marengo-proces/6272399/marengo-advocaat-wil-kroongetuige-horen-over-verdwijnen-hugo-charles.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272382,
-    "slug": "bnnvara-stopt-en-onderzoek-naar-onveilige-werksfeer-wat-speelt-er-bij-op1",
-    "type": "article",
-    "title": "BNNVARA stopt en onderzoek naar onveilige werksfeer: wat speelt er bij Op1?",
-    "subtitle": "NU+",
-    "published_at": "2023-07-14T16:49:38+02:00",
-    "updated_at": "2023-07-14T19:59:30+02:00",
-    "media_id": "mdixozwaica8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6272382/bnnvara-stopt-en-onderzoek-naar-onveilige-werksfeer-wat-speelt-er-bij-op1.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272404,
-    "slug": "sprinter-ewan-stapt-vlak-voor-beklimming-colombier-af-in-tour-de-france",
-    "type": "article",
-    "title": "Sprinter Ewan stapt vlak voor beklimming Colombier af in Tour de France",
-    "subtitle": null,
-    "published_at": "2023-07-14T16:48:21+02:00",
-    "updated_at": "2023-07-14T16:51:09+02:00",
-    "media_id": "aodxmy8ahhi8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6272404/sprinter-ewan-stapt-vlak-voor-beklimming-colombier-af-in-tour-de-france.html",
     "open_new_window": false,
     "partner": null
   }
