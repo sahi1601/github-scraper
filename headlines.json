@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272296,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-07-14T05:25:30+02:00",
+    "updated_at": "2023-07-14T05:25:31+02:00",
+    "media_id": "ngsxpv6ahbiv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6272296/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272283,
     "slug": "pogacar-wil-vandaag-gele-trui-vingegaard-aanvallen-jumbo-visma-is-er-klaar-voor",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6272279/vanmoof-in-de-problemen-klanten-voor-een-dichte-deur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272187,
-    "slug": "tori-spelling-ging-van-luxeleven-naar-financiele-zorgen-mijn-eisen-zijn-hoog",
-    "type": "article",
-    "title": "Tori Spelling ging van luxeleven naar financiële zorgen: 'Mijn eisen zijn hoog'",
-    "subtitle": "NU+",
-    "published_at": "2023-07-13T20:00:37+02:00",
-    "updated_at": "2023-07-13T20:00:38+02:00",
-    "media_id": "b7zx3kca2qeb",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6272187/tori-spelling-ging-van-luxeleven-naar-financiele-zorgen-mijn-eisen-zijn-hoog.html",
     "open_new_window": false,
     "partner": null
   }
