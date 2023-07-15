@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272456,
+    "slug": "sp-bestuur-draagt-lilian-marijnissen-opnieuw-voor-als-lijsttrekker",
+    "type": "article",
+    "title": "SP-bestuur draagt Lilian Marijnissen opnieuw voor als lijsttrekker",
+    "subtitle": null,
+    "published_at": "2023-07-15T08:31:35+02:00",
+    "updated_at": "2023-07-15T08:31:36+02:00",
+    "media_id": "ngbxscmacdzj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6272456/sp-bestuur-draagt-lilian-marijnissen-opnieuw-voor-als-lijsttrekker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272454,
     "slug": "van-rouwendaal-naast-wk-podium-op-10-kilometer-nog-geen-olympisch-ticket",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6272453,
-    "slug": "vuurwerkpijlen-schieten-uit-eiffeltoren-op-franse-feestdag",
+    "slug": "vuurpijlen-schieten-uit-eiffeltoren-op-franse-feestdag",
     "type": "video",
-    "title": "Vuurwerkpijlen schieten uit Eiffeltoren op Franse feestdag",
+    "title": "Vuurpijlen schieten uit Eiffeltoren op Franse feestdag",
     "subtitle": "Video",
     "published_at": "2023-07-15T07:48:37+02:00",
-    "updated_at": "2023-07-15T07:48:38+02:00",
+    "updated_at": "2023-07-15T08:26:43+02:00",
     "media_id": "t3jxz9ra89nw",
     "duration": "0:55",
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6272453/vuurwerkpijlen-schieten-uit-eiffeltoren-op-franse-feestdag.html",
+    "url": "/buitenland/6272453/vuurpijlen-schieten-uit-eiffeltoren-op-franse-feestdag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -70,12 +93,12 @@
   },
   {
     "id": 6272452,
-    "slug": "nederlandse-fiscalist-van-de-sterren-in-vs-aangeklaagd",
+    "slug": "nederlandse-fiscalist-van-de-sterren-aangeklaagd-in-vs",
     "type": "article",
-    "title": "Nederlandse 'fiscalist van de sterren' in VS aangeklaagd",
+    "title": "Nederlandse 'fiscalist van de sterren' aangeklaagd in VS",
     "subtitle": null,
     "published_at": "2023-07-15T07:22:55+02:00",
-    "updated_at": "2023-07-15T07:22:57+02:00",
+    "updated_at": "2023-07-15T08:19:12+02:00",
     "media_id": "3jgxh11a6z2b",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6272452/nederlandse-fiscalist-van-de-sterren-in-vs-aangeklaagd.html",
+    "url": "/economie/6272452/nederlandse-fiscalist-van-de-sterren-aangeklaagd-in-vs.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Waarom Vingegaard uitkijkt naar de Alpen: 'Zijn emmer energie blijft voller'",
     "subtitle": "NU+",
     "published_at": "2023-07-15T05:04:18+02:00",
-    "updated_at": "2023-07-15T08:07:04+02:00",
+    "updated_at": "2023-07-15T08:28:47+02:00",
     "media_id": "9zexwyoa3c4j",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Lotto Dstny-baas haalt uit naar Ewan: 'Als je zo opgeeft, is dit geen sport voor je'",
     "subtitle": null,
     "published_at": "2023-07-14T23:50:48+02:00",
-    "updated_at": "2023-07-14T23:50:49+02:00",
+    "updated_at": "2023-07-15T08:30:46+02:00",
     "media_id": "o21xcqga42p4",
     "duration": null,
     "canonical_section": {
@@ -277,12 +300,12 @@
   },
   {
     "id": 6272445,
-    "slug": "mogelijk-meerdere-gewonden-bij-ernstige-steekpartij-in-arnhem",
+    "slug": "mogelijk-meerdere-gewonden-bij-ernstig-steekincident-in-arnhem",
     "type": "article",
-    "title": "Mogelijk meerdere gewonden bij ernstige steekpartij in Arnhem",
+    "title": "Mogelijk meerdere gewonden bij ernstig steekincident in Arnhem",
     "subtitle": null,
     "published_at": "2023-07-14T23:36:21+02:00",
-    "updated_at": "2023-07-15T00:48:12+02:00",
+    "updated_at": "2023-07-15T08:23:12+02:00",
     "media_id": "ychxdn9axzfd",
     "duration": null,
     "canonical_section": {
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6272445/mogelijk-meerdere-gewonden-bij-ernstige-steekpartij-in-arnhem.html",
+    "url": "/binnenland/6272445/mogelijk-meerdere-gewonden-bij-ernstig-steekincident-in-arnhem.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6272438/het-bittere-kruid-schrijfster-marga-minco-op-103-jarige-leeftijd-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272339,
-    "slug": "droomhuwelijk-met-ajax-ten-einde-tadic-overlegt-geweldige-statistieken",
-    "type": "article",
-    "title": "Droomhuwelijk met Ajax ten einde: Tadic overlegt geweldige statistieken",
-    "subtitle": null,
-    "published_at": "2023-07-14T21:38:08+02:00",
-    "updated_at": "2023-07-14T22:50:27+02:00",
-    "media_id": "yi9xon7anw8r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6272339/droomhuwelijk-met-ajax-ten-einde-tadic-overlegt-geweldige-statistieken.html",
     "open_new_window": false,
     "partner": null
   }
