@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272509,
+    "slug": "van-het-gouden-ei-tot-het-bittere-kruid-praat-mee-over-leeslijsten-en-literatuur",
+    "type": "article",
+    "title": "Van Het gouden ei tot Het bittere kruid: praat mee over leeslijsten en literatuur",
+    "subtitle": null,
+    "published_at": "2023-07-15T15:18:52+02:00",
+    "updated_at": "2023-07-15T15:18:54+02:00",
+    "media_id": "wonxv74af6n8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6272509/van-het-gouden-ei-tot-het-bittere-kruid-praat-mee-over-leeslijsten-en-literatuur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272522,
     "slug": "grote-bosbrand-teistert-la-palma",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6272498/kelly-rowland-over-verklappen-geslacht-beyonces-baby-ergste-moment-ooit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272497,
-    "slug": "met-tadic-zijn-alle-ajacieden-van-de-stuntavond-in-madrid-vertrokken",
-    "type": "article",
-    "title": "Met Tadic zijn alle Ajacieden van de stuntavond in Madrid vertrokken",
-    "subtitle": "NU+",
-    "published_at": "2023-07-15T12:11:16+02:00",
-    "updated_at": "2023-07-15T13:14:31+02:00",
-    "media_id": "slqx7gpa7t01",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6272497/met-tadic-zijn-alle-ajacieden-van-de-stuntavond-in-madrid-vertrokken.html",
     "open_new_window": false,
     "partner": null
   }
