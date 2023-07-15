@@ -1,12 +1,35 @@
 [
   {
+    "id": 6272548,
+    "slug": "vingegaard-koos-eigen-tempo-op-loodzware-slotklim-ik-wilde-niet-ontploffen",
+    "type": "article",
+    "title": "Vingegaard koos eigen tempo op loodzware slotklim: 'Ik wilde niet ontploffen'",
+    "subtitle": null,
+    "published_at": "2023-07-15T19:11:23+02:00",
+    "updated_at": "2023-07-15T19:22:09+02:00",
+    "media_id": "y4ix8ciam5y8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6272548/vingegaard-koos-eigen-tempo-op-loodzware-slotklim-ik-wilde-niet-ontploffen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272542,
     "slug": "pogacar-mild-na-incident-met-motoren-heeft-resultaat-niet-bepaald",
     "type": "article",
     "title": "Pogacar mild na incident met motoren: 'Heeft resultaat niet bepaald'",
     "subtitle": null,
     "published_at": "2023-07-15T18:59:35+02:00",
-    "updated_at": "2023-07-15T19:06:43+02:00",
+    "updated_at": "2023-07-15T19:17:15+02:00",
     "media_id": "8n2xtq8abdqq",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6272543,
-    "slug": "koolhof-grijpt-dubbeltitel-en-voegt-zich-op-wimbledon-in-schaars-rijtje-landgenoten",
+    "slug": "koolhof-grijpt-dubbeltitel-op-wimbledon-en-voegt-zich-in-schaars-rijtje-landgenoten",
     "type": "article",
-    "title": "Koolhof grijpt dubbeltitel en voegt zich op Wimbledon in schaars rijtje landgenoten",
+    "title": "Koolhof grijpt dubbeltitel op Wimbledon en voegt zich in schaars rijtje landgenoten",
     "subtitle": null,
     "published_at": "2023-07-15T18:43:23+02:00",
-    "updated_at": "2023-07-15T19:03:48+02:00",
+    "updated_at": "2023-07-15T19:11:58+02:00",
     "media_id": "xkexca6awfgj",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6272543/koolhof-grijpt-dubbeltitel-en-voegt-zich-op-wimbledon-in-schaars-rijtje-landgenoten.html",
+    "url": "/tennis/6272543/koolhof-grijpt-dubbeltitel-op-wimbledon-en-voegt-zich-in-schaars-rijtje-landgenoten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "In India brengt virtuele nieuwslezeres Lisa het nieuws, maar zij is niet de enige",
     "subtitle": null,
     "published_at": "2023-07-15T16:47:52+02:00",
-    "updated_at": "2023-07-15T18:55:19+02:00",
+    "updated_at": "2023-07-15T19:17:52+02:00",
     "media_id": "3y0x9sbalp0n",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6272518/rolstoeltennisster-de-groot-wint-opnieuw-wimbledon-en-nadert-record-vergeer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272516,
-    "slug": "zeker-500-mensen-geevacueerd-vanwege-bosbrand-op-spaans-eiland-la-palma",
-    "type": "article",
-    "title": "Zeker 500 mensen geëvacueerd vanwege bosbrand op Spaans eiland La Palma",
-    "subtitle": null,
-    "published_at": "2023-07-15T14:28:53+02:00",
-    "updated_at": "2023-07-15T15:09:56+02:00",
-    "media_id": "91pxmfnaynah",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6272516/zeker-500-mensen-geevacueerd-vanwege-bosbrand-op-spaans-eiland-la-palma.html",
     "open_new_window": false,
     "partner": null
   }
