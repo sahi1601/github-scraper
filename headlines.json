@@ -1,12 +1,58 @@
 [
   {
-    "id": 6272482,
-    "slug": "hittegolven-drijven-suikerprijs-op-is-nu-dubbele-van-vorig-jaar",
+    "id": 6272494,
+    "slug": "schiphol-ziet-geen-lange-rijen-bij-security-in-druk-vakantieweekend",
     "type": "article",
-    "title": "Hittegolven drijven suikerprijs op, is nu dubbele van vorig jaar",
+    "title": "Schiphol ziet geen lange rijen bij security in druk vakantieweekend",
+    "subtitle": null,
+    "published_at": "2023-07-15T11:44:29+02:00",
+    "updated_at": "2023-07-15T11:44:30+02:00",
+    "media_id": "1twx4jla9sqi",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6272494/schiphol-ziet-geen-lange-rijen-bij-security-in-druk-vakantieweekend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272490,
+    "slug": "zuid-koreanen-schuiven-water-uit-winkel-tijdens-overstroming",
+    "type": "video",
+    "title": "Zuid-Koreanen schuiven water uit winkel tijdens overstroming",
+    "subtitle": "Video",
+    "published_at": "2023-07-15T11:29:09+02:00",
+    "updated_at": "2023-07-15T11:29:11+02:00",
+    "media_id": "fw3xiguayqmw",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6272490/zuid-koreanen-schuiven-water-uit-winkel-tijdens-overstroming.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272482,
+    "slug": "hittegolven-verdubbelen-suikerprijs-zoete-snacks-worden-mogelijk-ook-duurder",
+    "type": "article",
+    "title": "Hittegolven verdubbelen suikerprijs, zoete snacks worden mogelijk ook duurder",
     "subtitle": null,
     "published_at": "2023-07-15T11:05:20+02:00",
-    "updated_at": "2023-07-15T11:05:21+02:00",
+    "updated_at": "2023-07-15T11:29:50+02:00",
     "media_id": "tipxkwba46um",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6272482/hittegolven-drijven-suikerprijs-op-is-nu-dubbele-van-vorig-jaar.html",
+    "url": "/economie/6272482/hittegolven-verdubbelen-suikerprijs-zoete-snacks-worden-mogelijk-ook-duurder.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6272340/wat-doet-en-verdient-een-zonnepanelenmonteur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272441,
-    "slug": "wat-er-is-bereikt-op-de-navo-top-het-is-een-springlevende-alliantie",
-    "type": "article",
-    "title": "Wat er is bereikt op de NAVO-top: 'Het is een springlevende alliantie'",
-    "subtitle": "NU+",
-    "published_at": "2023-07-15T05:00:45+02:00",
-    "updated_at": "2023-07-15T05:00:47+02:00",
-    "media_id": "8iexrluakzwq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6272441/wat-er-is-bereikt-op-de-navo-top-het-is-een-springlevende-alliantie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272446,
-    "slug": "lotto-dstny-baas-haalt-uit-naar-ewan-als-je-zo-opgeeft-is-dit-geen-sport-voor-je",
-    "type": "article",
-    "title": "Lotto Dstny-baas haalt uit naar Ewan: 'Als je zo opgeeft, is dit geen sport voor je'",
-    "subtitle": null,
-    "published_at": "2023-07-14T23:50:48+02:00",
-    "updated_at": "2023-07-15T11:02:25+02:00",
-    "media_id": "o21xcqga42p4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6272446/lotto-dstny-baas-haalt-uit-naar-ewan-als-je-zo-opgeeft-is-dit-geen-sport-voor-je.html",
     "open_new_window": false,
     "partner": null
   }
