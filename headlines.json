@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272590,
+    "slug": "bosbrand-op-spaans-eiland-la-palma-breidt-uit-ruim-4000-mensen-geevacueerd",
+    "type": "article",
+    "title": "Bosbrand op Spaans eiland La Palma breidt uit: ruim 4.000 mensen geëvacueerd",
+    "subtitle": null,
+    "published_at": "2023-07-16T12:15:25+02:00",
+    "updated_at": "2023-07-16T12:28:22+02:00",
+    "media_id": "huhx6j5a63u7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6272590/bosbrand-op-spaans-eiland-la-palma-breidt-uit-ruim-4000-mensen-geevacueerd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272415,
     "slug": "dit-was-het-positieve-en-vrolijke-nieuws-van-deze-week",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6272096/extreme-hitte-in-zuid-europa-zorgt-na-de-zomer-ook-voor-ellende.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272565,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-07-16T05:24:24+02:00",
-    "updated_at": "2023-07-16T05:24:25+02:00",
-    "media_id": "ngsxpv6ahbiv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6272565/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
