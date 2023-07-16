@@ -1,12 +1,35 @@
 [
   {
+    "id": 6272658,
+    "slug": "titelverdediger-van-gerwen-direct-uitgeschakeld-op-world-matchplay",
+    "type": "article",
+    "title": "Titelverdediger Van Gerwen direct uitgeschakeld op World Matchplay",
+    "subtitle": null,
+    "published_at": "2023-07-16T23:28:25+02:00",
+    "updated_at": "2023-07-16T23:40:00+02:00",
+    "media_id": "e0sx0ifanex6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6272658/titelverdediger-van-gerwen-direct-uitgeschakeld-op-world-matchplay.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272656,
     "slug": "geveilde-autos-holleeder-en-dino-s-leveren-bijna-30000-euro-op-voor-goed-doel",
     "type": "article",
     "title": "Geveilde auto's Holleeder en Dino S. leveren bijna 30.000 euro op voor goed doel",
     "subtitle": null,
     "published_at": "2023-07-16T23:22:45+02:00",
-    "updated_at": "2023-07-16T23:22:47+02:00",
+    "updated_at": "2023-07-16T23:37:51+02:00",
     "media_id": "w0ix5z3a1vfu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tour-de-france/6272156/vooruitblik-etappe-16-tour-de-france-slechts-een-tijdrit-maar-met-een-dilemma.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272631,
-    "slug": "europese-unie-en-tunesie-sluiten-migratiedeal-rutte-spreekt-van-ware-mijlpaal",
-    "type": "article",
-    "title": "Europese Unie en Tunesië sluiten migratiedeal, Rutte spreekt van 'ware mijlpaal'",
-    "subtitle": null,
-    "published_at": "2023-07-16T18:22:45+02:00",
-    "updated_at": "2023-07-16T22:34:02+02:00",
-    "media_id": "fkrx2xna3m50",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6272631/europese-unie-en-tunesie-sluiten-migratiedeal-rutte-spreekt-van-ware-mijlpaal.html",
     "open_new_window": false,
     "partner": null
   }
