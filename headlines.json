@@ -1,5 +1,51 @@
 [
   {
+    "id": 6272705,
+    "slug": "bosbrand-op-spaans-eiland-la-palma-mogelijk-veroorzaakt-door-feest",
+    "type": "article",
+    "title": "Bosbrand op Spaans eiland La Palma mogelijk veroorzaakt door feest",
+    "subtitle": null,
+    "published_at": "2023-07-17T11:51:52+02:00",
+    "updated_at": "2023-07-17T11:58:09+02:00",
+    "media_id": "g7yxem5a7ppd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6272705/bosbrand-op-spaans-eiland-la-palma-mogelijk-veroorzaakt-door-feest.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272710,
+    "slug": "vierdaagse-zet-safetycar-in-om-te-enthousiaste-snelwandelaars-te-beteugelen",
+    "type": "article",
+    "title": "Vierdaagse zet 'safetycar' in om te enthousiaste snelwandelaars te beteugelen",
+    "subtitle": null,
+    "published_at": "2023-07-17T11:44:29+02:00",
+    "updated_at": "2023-07-17T12:13:36+02:00",
+    "media_id": "96dxx9la1mi7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6272710/vierdaagse-zet-safetycar-in-om-te-enthousiaste-snelwandelaars-te-beteugelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272708,
     "slug": "steeds-meer-warmtepompen-voor-woningen-verkocht",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Royals en een gapende Brad Pitt: sterren spotten op Wimbledon",
     "subtitle": "In beeld",
     "published_at": "2023-07-17T11:17:14+02:00",
-    "updated_at": "2023-07-17T11:18:33+02:00",
+    "updated_at": "2023-07-17T11:59:36+02:00",
     "media_id": "it5xpocaslys",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6272675/tomtom-verkoopt-meer-navigatiesystemen-door-toegenomen-autoverkoop.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272674,
-    "slug": "recensieoverzicht-coldplay-energieke-chris-martin-lijkt-frontman-van-twee-bands",
-    "type": "article",
-    "title": "Recensieoverzicht Coldplay: Energieke Chris Martin lijkt frontman van twee bands",
-    "subtitle": null,
-    "published_at": "2023-07-17T08:04:12+02:00",
-    "updated_at": "2023-07-17T08:14:40+02:00",
-    "media_id": "tpwxwceac74j",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6272674/recensieoverzicht-coldplay-energieke-chris-martin-lijkt-frontman-van-twee-bands.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272669,
-    "slug": "spanje-maakt-na-van-dongen-ook-excuses-voor-nadoen-haka-nog-veel-te-leren",
-    "type": "article",
-    "title": "Spanje maakt na Van Dongen ook excuses voor nadoen haka: 'Nog veel te leren'",
-    "subtitle": null,
-    "published_at": "2023-07-17T07:46:04+02:00",
-    "updated_at": "2023-07-17T07:49:33+02:00",
-    "media_id": "yexxireaba90",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6272669/spanje-maakt-na-van-dongen-ook-excuses-voor-nadoen-haka-nog-veel-te-leren.html",
     "open_new_window": false,
     "partner": null
   }
