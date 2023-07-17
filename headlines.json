@@ -1,5 +1,28 @@
 [
   {
+    "id": 6272762,
+    "slug": "jumbo-visma-geeft-stevig-signaal-af-met-aangifte-tegen-fan-die-val-veroorzaakte",
+    "type": "article",
+    "title": "Jumbo-Visma geeft 'stevig signaal' af met aangifte tegen fan die val veroorzaakte",
+    "subtitle": null,
+    "published_at": "2023-07-17T16:23:17+02:00",
+    "updated_at": "2023-07-17T16:23:18+02:00",
+    "media_id": "4fwxt5aazxwn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6272762/jumbo-visma-geeft-stevig-signaal-af-met-aangifte-tegen-fan-die-val-veroorzaakte.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272760,
     "slug": "zorgen-over-zeer-ongewenste-vertraging-in-vergroeningsplan-tata-steel",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6272710/vierdaagse-zet-safetycar-in-om-te-enthousiaste-snelwandelaars-te-beteugelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272708,
-    "slug": "steeds-meer-warmtepompen-voor-woningen-verkocht",
-    "type": "article",
-    "title": "Steeds meer warmtepompen voor woningen verkocht",
-    "subtitle": null,
-    "published_at": "2023-07-17T11:35:35+02:00",
-    "updated_at": "2023-07-17T11:35:37+02:00",
-    "media_id": "u9lxiegagt3z",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6272708/steeds-meer-warmtepompen-voor-woningen-verkocht.html",
     "open_new_window": false,
     "partner": null
   }
