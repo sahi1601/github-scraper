@@ -1,5 +1,51 @@
 [
   {
+    "id": 6272707,
+    "slug": "taylor-swift-scoort-met-oude-albums-waarom-ze-speak-now-weer-opneemt",
+    "type": "article",
+    "title": "Taylor Swift scoort met oude albums, waarom ze Speak Now weer opneemt",
+    "subtitle": "NU+",
+    "published_at": "2023-07-18T12:25:28+02:00",
+    "updated_at": "2023-07-18T12:25:52+02:00",
+    "media_id": "63xxrlaac3cm",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6272707/taylor-swift-scoort-met-oude-albums-waarom-ze-speak-now-weer-opneemt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272856,
+    "slug": "stelling-de-oranjevrouwen-moeten-evenveel-prijzengeld-krijgen-als-de-mannen",
+    "type": "article",
+    "title": "Stelling: De Oranjevrouwen moeten evenveel prijzengeld krijgen als de mannen",
+    "subtitle": null,
+    "published_at": "2023-07-18T12:20:16+02:00",
+    "updated_at": "2023-07-18T12:20:31+02:00",
+    "media_id": "r3pxfopaghhg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6272856/stelling-de-oranjevrouwen-moeten-evenveel-prijzengeld-krijgen-als-de-mannen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272865,
     "slug": "dierenorganisatie-peta-boos-op-makers-gladiator-2-om-gebruik-van-echte-dieren",
     "type": "article",
@@ -144,7 +190,7 @@
     "title": "Krimbrug dag na dodelijke aanval weer open voor autoverkeer",
     "subtitle": null,
     "published_at": "2023-07-18T11:44:11+02:00",
-    "updated_at": "2023-07-18T11:47:04+02:00",
+    "updated_at": "2023-07-18T12:28:05+02:00",
     "media_id": "kgwx0fmavx9e",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Kritiek op zeer korte tv-registratie Tour-zege Poels: 'Geef winnaars meer aandacht'",
     "subtitle": null,
     "published_at": "2023-07-18T10:23:06+02:00",
-    "updated_at": "2023-07-18T11:21:52+02:00",
+    "updated_at": "2023-07-18T12:30:13+02:00",
     "media_id": "e3lxksxagq61",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6272832/big-bazar-moet-vestigingen-sluiten-door-huurachterstanden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272836,
-    "slug": "matt-damon-sprak-met-vrouw-af-dat-hij-werkpauze-alleen-onderbrak-voor-nolan",
-    "type": "article",
-    "title": "Matt Damon sprak met vrouw af dat hij werkpauze alleen onderbrak voor Nolan",
-    "subtitle": null,
-    "published_at": "2023-07-18T09:57:47+02:00",
-    "updated_at": "2023-07-18T09:57:48+02:00",
-    "media_id": "9bexzv5a0css",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6272836/matt-damon-sprak-met-vrouw-af-dat-hij-werkpauze-alleen-onderbrak-voor-nolan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272834,
-    "slug": "psv-vrouwen-kiest-na-tegenvallend-seizoen-voor-ten-berge-als-nieuwe-trainer",
-    "type": "article",
-    "title": "PSV Vrouwen kiest na tegenvallend seizoen voor Ten Berge als nieuwe trainer",
-    "subtitle": null,
-    "published_at": "2023-07-18T09:46:37+02:00",
-    "updated_at": "2023-07-18T09:47:11+02:00",
-    "media_id": "focxh5pal3w7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6272834/psv-vrouwen-kiest-na-tegenvallend-seizoen-voor-ten-berge-als-nieuwe-trainer.html",
     "open_new_window": false,
     "partner": null
   }
