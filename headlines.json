@@ -1,12 +1,35 @@
 [
   {
+    "id": 6272930,
+    "slug": "vingegaard-deelt-dreun-uit-in-tour-was-mijn-beste-tijdrit-ooit",
+    "type": "article",
+    "title": "Vingegaard deelt dreun uit in Tour: 'Was mijn beste tijdrit ooit'",
+    "subtitle": null,
+    "published_at": "2023-07-18T18:30:32+02:00",
+    "updated_at": "2023-07-18T18:31:40+02:00",
+    "media_id": "zwgxrrcas5ae",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6272930/vingegaard-deelt-dreun-uit-in-tour-was-mijn-beste-tijdrit-ooit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272929,
     "slug": "messi-traint-voor-het-eerst-mee-met-inter-miami",
     "type": "video",
     "title": "Messi traint voor het eerst mee met Inter Miami",
     "subtitle": "Video",
     "published_at": "2023-07-18T18:15:10+02:00",
-    "updated_at": "2023-07-18T18:15:12+02:00",
+    "updated_at": "2023-07-18T18:19:17+02:00",
     "media_id": "by7x0jcamxfd",
     "duration": "0:30",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6272896/wandelaars-druppelen-binnen-op-eerste-vierdaagse-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272893,
-    "slug": "lidberg-ruilt-go-ahead-in-voor-utrecht-halilovic-bij-fortuna-terug-in-eredivisie",
-    "type": "article",
-    "title": "Lidberg ruilt Go Ahead in voor Utrecht, Halilovic bij Fortuna terug in Eredivisie",
-    "subtitle": null,
-    "published_at": "2023-07-18T14:36:15+02:00",
-    "updated_at": "2023-07-18T15:29:37+02:00",
-    "media_id": "rb2x5t2an9p4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6272893/lidberg-ruilt-go-ahead-in-voor-utrecht-halilovic-bij-fortuna-terug-in-eredivisie.html",
     "open_new_window": false,
     "partner": null
   }
