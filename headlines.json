@@ -1,5 +1,51 @@
 [
   {
+    "id": 6272982,
+    "slug": "bayern-munchen-wint-met-27-0-bij-start-van-voorbereiding-op-nieuw-seizoen",
+    "type": "article",
+    "title": "Bayern München wint met 27-0 bij start van voorbereiding op nieuw seizoen",
+    "subtitle": null,
+    "published_at": "2023-07-19T09:39:44+02:00",
+    "updated_at": "2023-07-19T09:41:16+02:00",
+    "media_id": "o2vxwcoavnoe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6272982/bayern-munchen-wint-met-27-0-bij-start-van-voorbereiding-op-nieuw-seizoen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6272977,
+    "slug": "fc-barcelona-haalt-romeu-terug-middenvelder-kan-borst-opnieuw-natmaken",
+    "type": "article",
+    "title": "FC Barcelona haalt Romeu terug: middenvelder kan borst opnieuw natmaken",
+    "subtitle": null,
+    "published_at": "2023-07-19T09:25:26+02:00",
+    "updated_at": "2023-07-19T09:25:27+02:00",
+    "media_id": "gwoxytjafezb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6272977/fc-barcelona-haalt-romeu-terug-middenvelder-kan-borst-opnieuw-natmaken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6272973,
     "slug": "deelscooterbedrijf-felyx-mag-zich-niet-meer-duurzaam-en-schoon-noemen",
     "type": "article",
@@ -351,7 +397,7 @@
     "title": "Barbie-film veroorzaakt nu al een hype: waarom is de film zo populair?",
     "subtitle": "NU+",
     "published_at": "2023-07-19T05:16:54+02:00",
-    "updated_at": "2023-07-19T09:19:04+02:00",
+    "updated_at": "2023-07-19T09:26:08+02:00",
     "media_id": "9i6x4hoadhyc",
     "duration": null,
     "canonical_section": {
@@ -397,7 +443,7 @@
     "title": "Nederlanders in snikheet Italië: 'Je wilt warmte, anders ga je niet'",
     "subtitle": "NU+",
     "published_at": "2023-07-19T05:13:17+02:00",
-    "updated_at": "2023-07-19T05:13:18+02:00",
+    "updated_at": "2023-07-19T09:39:17+02:00",
     "media_id": "dnex7ztaz1gs",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6272873/nederlanders-in-snikheet-italie-je-wilt-warmte-anders-ga-je-niet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272752,
-    "slug": "natuurherstel-boerenland-komt-met-uitgeklede-wet-voorlopig-geen-stap-dichterbij",
-    "type": "article",
-    "title": "Natuurherstel boerenland komt met uitgeklede wet voorlopig geen stap dichterbij",
-    "subtitle": null,
-    "published_at": "2023-07-19T05:11:27+02:00",
-    "updated_at": "2023-07-19T06:59:39+02:00",
-    "media_id": "l0zx3lvat5ib",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6272752/natuurherstel-boerenland-komt-met-uitgeklede-wet-voorlopig-geen-stap-dichterbij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6272959,
-    "slug": "klaver-wordt-geen-lijsttrekker-groenlinks-pvda-combinatie-blijft-wel-in-de-politiek",
-    "type": "article",
-    "title": "Klaver wordt geen lijsttrekker GroenLinks-PvdA-combinatie, blijft wel in de politiek",
-    "subtitle": null,
-    "published_at": "2023-07-19T04:37:14+02:00",
-    "updated_at": "2023-07-19T08:23:46+02:00",
-    "media_id": "n1dxhnia4hw5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779275,
-      "slug": "tweede-kamerverkiezingen-2023",
-      "type": "files",
-      "name": "Tweede Kamerverkiezingen 2023",
-      "style": "nu",
-      "media_id": "vh7x4xray27h",
-      "partner": null
-    },
-    "url": "/tweede-kamerverkiezingen-2023/6272959/klaver-wordt-geen-lijsttrekker-groenlinks-pvda-combinatie-blijft-wel-in-de-politiek.html",
     "open_new_window": false,
     "partner": null
   }
