@@ -1,12 +1,35 @@
 [
   {
+    "id": 6273418,
+    "slug": "luiten-zeker-van-finaleweekend-in-door-klimaatactie-ontsierde-brits-open",
+    "type": "article",
+    "title": "Luiten zeker van finaleweekend in door klimaatactie ontsierde Brits Open",
+    "subtitle": null,
+    "published_at": "2023-07-21T22:17:08+02:00",
+    "updated_at": "2023-07-21T22:21:44+02:00",
+    "media_id": "hhvxwpva12g9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6273418/luiten-zeker-van-finaleweekend-in-door-klimaatactie-ontsierde-brits-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273416,
     "slug": "ajax-introduceert-nieuwe-functie-om-contacten-met-huurlingen-te-onderhouden",
     "type": "article",
     "title": "Ajax introduceert nieuwe functie om contacten met huurlingen te onderhouden",
     "subtitle": null,
     "published_at": "2023-07-21T22:02:25+02:00",
-    "updated_at": "2023-07-21T22:04:38+02:00",
+    "updated_at": "2023-07-21T22:21:39+02:00",
     "media_id": "kwjxxcpappqj",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Kipyegon verpulvert wereldrecord van Sifan Hassan op Engelse mijl",
     "subtitle": null,
     "published_at": "2023-07-21T20:55:04+02:00",
-    "updated_at": "2023-07-21T21:35:42+02:00",
+    "updated_at": "2023-07-21T22:17:54+02:00",
     "media_id": "9bfx2c8ayakr",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6273386/rusland-klaagt-mh17-veroordeelde-girkin-aan-voor-aanzetten-tot-extremisme.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273380,
-    "slug": "ing-en-rabobank-verhogen-spaarrente-in-augustus-opnieuw",
-    "type": "article",
-    "title": "ING en Rabobank verhogen spaarrente in augustus opnieuw",
-    "subtitle": null,
-    "published_at": "2023-07-21T17:25:32+02:00",
-    "updated_at": "2023-07-21T18:12:40+02:00",
-    "media_id": "b9xx8rwaj3ll",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6273380/ing-en-rabobank-verhogen-spaarrente-in-augustus-opnieuw.html",
     "open_new_window": false,
     "partner": null
   }
