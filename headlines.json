@@ -1,12 +1,35 @@
 [
   {
-    "id": 6273298,
-    "slug": "minister-kuipers-mag-van-rechter-kinderhartcentra-leiden-en-utrecht-sluiten",
+    "id": 6273316,
+    "slug": "eerbeekse-papierfabriek-uit-1657-moet-sluiten-door-finse-bezuinigingen",
     "type": "article",
-    "title": "Minister Kuipers mag van rechter kinderhartcentra Leiden en Utrecht sluiten",
+    "title": "Eerbeekse papierfabriek uit 1657 moet sluiten door Finse bezuinigingen",
+    "subtitle": null,
+    "published_at": "2023-07-21T11:22:57+02:00",
+    "updated_at": "2023-07-21T11:22:58+02:00",
+    "media_id": "m1wxbwlacnzf",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6273316/eerbeekse-papierfabriek-uit-1657-moet-sluiten-door-finse-bezuinigingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273298,
+    "slug": "minister-kuipers-mag-van-rechter-voorlopig-kinderhartcentra-leiden-en-utrecht-sluiten",
+    "type": "article",
+    "title": "Minister Kuipers mag van rechter voorlopig  kinderhartcentra Leiden en Utrecht sluiten",
     "subtitle": null,
     "published_at": "2023-07-21T11:10:10+02:00",
-    "updated_at": "2023-07-21T11:11:44+02:00",
+    "updated_at": "2023-07-21T11:21:23+02:00",
     "media_id": "f85xrjia11hu",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6273298/minister-kuipers-mag-van-rechter-kinderhartcentra-leiden-en-utrecht-sluiten.html",
+    "url": "/binnenland/6273298/minister-kuipers-mag-van-rechter-voorlopig-kinderhartcentra-leiden-en-utrecht-sluiten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,12 +139,12 @@
   },
   {
     "id": 6273307,
-    "slug": "donnarumma-en-vriendin-mishandeld-en-onder-schot-gehouden-bij-gewelddadige-overval",
+    "slug": "psg-doelman-donnarumma-en-vriendin-thuis-mishandeld-bij-gewapende-overval",
     "type": "article",
-    "title": "Donnarumma en vriendin mishandeld en onder schot gehouden bij gewelddadige overval",
+    "title": "PSG-doelman Donnarumma en vriendin thuis mishandeld bij gewapende overval",
     "subtitle": null,
     "published_at": "2023-07-21T10:26:50+02:00",
-    "updated_at": "2023-07-21T11:05:12+02:00",
+    "updated_at": "2023-07-21T11:15:23+02:00",
     "media_id": "v51xl91atmt1",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6273307/donnarumma-en-vriendin-mishandeld-en-onder-schot-gehouden-bij-gewelddadige-overval.html",
+    "url": "/voetbal/6273307/psg-doelman-donnarumma-en-vriendin-thuis-mishandeld-bij-gewapende-overval.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6273194/stelling-zes-weken-aaneengesloten-schoolvakantie-is-achterhaald.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273283,
-    "slug": "acteur-sean-bean-sterft-voor-25e-keer-in-rol-fans-zijn-er-klaar-mee",
-    "type": "article",
-    "title": "Acteur Sean Bean sterft voor 25e keer in rol, fans zijn er klaar mee",
-    "subtitle": null,
-    "published_at": "2023-07-21T06:57:35+02:00",
-    "updated_at": "2023-07-21T07:47:26+02:00",
-    "media_id": "eruxf9pawlgv",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6273283/acteur-sean-bean-sterft-voor-25e-keer-in-rol-fans-zijn-er-klaar-mee.html",
     "open_new_window": false,
     "partner": null
   }
