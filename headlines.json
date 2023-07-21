@@ -1,12 +1,58 @@
 [
   {
+    "id": 6273382,
+    "slug": "tony-bennett-bleef-altijd-zichzelf-en-was-daardoor-bij-alle-generaties-geliefd",
+    "type": "article",
+    "title": "Tony Bennett bleef altijd zichzelf, en was daardoor bij alle generaties geliefd",
+    "subtitle": "NU+",
+    "published_at": "2023-07-21T18:04:24+02:00",
+    "updated_at": "2023-07-21T18:04:25+02:00",
+    "media_id": "h2pxluwaou01",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6273382/tony-bennett-bleef-altijd-zichzelf-en-was-daardoor-bij-alle-generaties-geliefd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273387,
+    "slug": "verstappen-in-middenmoot-bij-tweede-training-gp-hongarije-leclerc-snelste",
+    "type": "article",
+    "title": "Verstappen in middenmoot bij tweede training GP Hongarije, Leclerc snelste",
+    "subtitle": null,
+    "published_at": "2023-07-21T18:00:57+02:00",
+    "updated_at": "2023-07-21T18:14:26+02:00",
+    "media_id": "xp0xja1a6frm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Grand Prix Hongarije",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6273387/verstappen-in-middenmoot-bij-tweede-training-gp-hongarije-leclerc-snelste.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273386,
     "slug": "rusland-klaagt-mh17-veroordeelde-girkin-aan-voor-aanzetten-tot-extremisme",
     "type": "article",
     "title": "Rusland klaagt MH17-veroordeelde Girkin aan voor aanzetten tot extremisme",
     "subtitle": null,
     "published_at": "2023-07-21T17:42:46+02:00",
-    "updated_at": "2023-07-21T17:42:47+02:00",
+    "updated_at": "2023-07-21T18:11:55+02:00",
     "media_id": "l00x778at360",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "ING en Rabobank verhogen spaarrente in augustus opnieuw",
     "subtitle": null,
     "published_at": "2023-07-21T17:25:32+02:00",
-    "updated_at": "2023-07-21T17:36:56+02:00",
+    "updated_at": "2023-07-21T18:12:40+02:00",
     "media_id": "b9xx8rwaj3ll",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Zinderende ontknoping in Tour-rit: Mohoric klopt Asgreen met banddikte verschil",
     "subtitle": null,
     "published_at": "2023-07-21T17:09:45+02:00",
-    "updated_at": "2023-07-21T17:39:15+02:00",
+    "updated_at": "2023-07-21T17:56:07+02:00",
     "media_id": "envx3jva6cc3",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Bezoeker Zwarte Cross zwaargewond na val van attractie",
     "subtitle": null,
     "published_at": "2023-07-21T16:49:52+02:00",
-    "updated_at": "2023-07-21T17:43:06+02:00",
+    "updated_at": "2023-07-21T17:54:12+02:00",
     "media_id": "82oxvzga8ofx",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6273348/zanger-tony-bennett-overleden-op-96-jarige-leeftijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273344,
-    "slug": "haags-gratis-festival-parkpop-stopt-definitief-wegens-explosief-stijgende-kosten",
-    "type": "article",
-    "title": "Haags gratis festival Parkpop stopt definitief wegens 'explosief' stijgende kosten",
-    "subtitle": null,
-    "published_at": "2023-07-21T14:28:25+02:00",
-    "updated_at": "2023-07-21T14:28:26+02:00",
-    "media_id": "1kvxsjcakhry",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6273344/haags-gratis-festival-parkpop-stopt-definitief-wegens-explosief-stijgende-kosten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273346,
-    "slug": "om-in-hoger-beroep-tegen-levenslang-voor-schutter-zorgboerderij-alblasserdam",
-    "type": "article",
-    "title": "OM in hoger beroep tegen levenslang voor schutter zorgboerderij Alblasserdam",
-    "subtitle": null,
-    "published_at": "2023-07-21T14:22:54+02:00",
-    "updated_at": "2023-07-21T14:45:30+02:00",
-    "media_id": "ijpxh8la0ucw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6273346/om-in-hoger-beroep-tegen-levenslang-voor-schutter-zorgboerderij-alblasserdam.html",
     "open_new_window": false,
     "partner": null
   }
