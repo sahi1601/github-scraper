@@ -1,13 +1,36 @@
 [
   {
+    "id": 6273516,
+    "slug": "pogacar-klopt-vingegaard-in-strijd-om-ritwinst-en-sluit-tour-met-lichtpuntje-af",
+    "type": "article",
+    "title": "Pogacar klopt Vingegaard in strijd om ritwinst en sluit Tour met lichtpuntje af",
+    "subtitle": null,
+    "published_at": "2023-07-22T17:22:49+02:00",
+    "updated_at": "2023-07-22T17:22:56+02:00",
+    "media_id": "31ex44qa9syl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6273516/pogacar-klopt-vingegaard-in-strijd-om-ritwinst-en-sluit-tour-met-lichtpuntje-af.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273519,
     "slug": "hamilton-verrast-verstappen-in-boedapest-met-eerste-poleposition-sinds-2021",
     "type": "article",
     "title": "Hamilton verrast Verstappen in Boedapest met eerste poleposition sinds 2021",
     "subtitle": null,
     "published_at": "2023-07-22T17:04:49+02:00",
-    "updated_at": "2023-07-22T17:12:05+02:00",
-    "media_id": "rzixpmwayg49",
+    "updated_at": "2023-07-22T17:18:41+02:00",
+    "media_id": "15mxleya7o25",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -52,7 +75,7 @@
     "title": "Franse spelersvakbond overweegt rechtszaak tegen PSG door situatie Mbappé",
     "subtitle": null,
     "published_at": "2023-07-22T17:02:46+02:00",
-    "updated_at": "2023-07-22T17:08:42+02:00",
+    "updated_at": "2023-07-22T17:21:09+02:00",
     "media_id": "zvqxi3ja8m3a",
     "duration": null,
     "canonical_section": {
@@ -415,13 +438,13 @@
   },
   {
     "id": 6273472,
-    "slug": "vingegaard-en-pogacar-azen-op-ritwinst-in-finale-van-tour-bergrit",
+    "slug": "reacties-op-fraaie-ritzege-pogacar-in-tour-de-france",
     "type": "article",
-    "title": "Vingegaard en Pogacar azen op ritwinst in finale van Tour-bergrit",
+    "title": "Reacties op fraaie ritzege Pogacar in Tour de France",
     "subtitle": "Liveblog",
     "published_at": "2023-07-22T12:19:24+02:00",
-    "updated_at": "2023-07-22T17:04:22+02:00",
-    "media_id": "gq1x9rjaiipm",
+    "updated_at": "2023-07-22T17:23:37+02:00",
+    "media_id": "pfsxoygalbel",
     "duration": null,
     "canonical_section": {
       "id": 1772173,
@@ -432,30 +455,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6273472/vingegaard-en-pogacar-azen-op-ritwinst-in-finale-van-tour-bergrit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273485,
-    "slug": "reacties-op-zenuwslopende-kwalificatie-in-hongarije-met-pole-hamilton",
-    "type": "article",
-    "title": "Reacties op zenuwslopende kwalificatie in Hongarije, met pole Hamilton",
-    "subtitle": "Liveblog",
-    "published_at": "2023-07-22T12:06:47+02:00",
-    "updated_at": "2023-07-22T17:05:31+02:00",
-    "media_id": "vaoxtmqayoy1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Grand Prix Hongarije",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6273485/reacties-op-zenuwslopende-kwalificatie-in-hongarije-met-pole-hamilton.html",
+    "url": "/tour-de-france/6273472/reacties-op-fraaie-ritzege-pogacar-in-tour-de-france.html",
     "open_new_window": false,
     "partner": null
   }
