@@ -1,5 +1,28 @@
 [
   {
+    "id": 6273436,
+    "slug": "ema-keurt-nieuw-vaccin-tegen-rs-virus-goed-keerpunt-in-bestrijding-virus",
+    "type": "article",
+    "title": "EMA keurt nieuw vaccin tegen RS-virus goed: 'Keerpunt in bestrijding virus'",
+    "subtitle": null,
+    "published_at": "2023-07-22T08:36:00+02:00",
+    "updated_at": "2023-07-22T08:38:12+02:00",
+    "media_id": "x5sxpjdaayky",
+    "duration": null,
+    "canonical_section": {
+      "id": 1146768,
+      "slug": "gezondheid",
+      "type": "default",
+      "name": "Gezondheid",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/gezondheid/6273436/ema-keurt-nieuw-vaccin-tegen-rs-virus-goed-keerpunt-in-bestrijding-virus.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273434,
     "slug": "oranje-laat-veldsaga-achter-zich-voor-duel-met-portugal-er-is-genoeg-over-gezegd",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Messi beleeft met winnende goal uit vrije trap droomdebuut voor Inter Miami",
     "subtitle": null,
     "published_at": "2023-07-22T07:52:15+02:00",
-    "updated_at": "2023-07-22T08:09:04+02:00",
+    "updated_at": "2023-07-22T08:38:21+02:00",
     "media_id": "9epxhica5nkg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6273419/paris-saint-germain-laat-gewaarschuwde-mbappe-buiten-selectie-voor-oefentrip.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273383,
-    "slug": "studenten-maken-pak-waarin-dwarslaesiepatient-kan-lopen-zonder-hulp",
-    "type": "article",
-    "title": "Studenten maken pak waarin dwarslaesiepatiënt kan lopen zonder hulp",
-    "subtitle": null,
-    "published_at": "2023-07-21T22:26:23+02:00",
-    "updated_at": "2023-07-21T22:26:25+02:00",
-    "media_id": "19axqwhax4bv",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6273383/studenten-maken-pak-waarin-dwarslaesiepatient-kan-lopen-zonder-hulp.html",
     "open_new_window": false,
     "partner": null
   }
