@@ -1,5 +1,51 @@
 [
   {
+    "id": 6273620,
+    "slug": "belg-meeus-zorgt-voor-sensatie-op-champs-elysees-vandaag-klopte-alles",
+    "type": "article",
+    "title": "Belg Meeus zorgt voor sensatie op Champs-Élysées: 'Vandaag klopte alles'",
+    "subtitle": null,
+    "published_at": "2023-07-23T20:22:03+02:00",
+    "updated_at": "2023-07-23T20:22:05+02:00",
+    "media_id": "ie7xlhpaxhit",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772173,
+      "slug": "tour-de-france",
+      "type": "default",
+      "name": "Tour de France",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tour-de-france/6273620/belg-meeus-zorgt-voor-sensatie-op-champs-elysees-vandaag-klopte-alles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273618,
+    "slug": "van-bommel-verovert-na-beker-en-landstitel-ook-belgische-supercup-met-royal-antwerp",
+    "type": "article",
+    "title": "Van Bommel verovert na beker en landstitel ook Belgische Supercup met Royal Antwerp",
+    "subtitle": null,
+    "published_at": "2023-07-23T20:12:35+02:00",
+    "updated_at": "2023-07-23T20:12:36+02:00",
+    "media_id": "dbjxl06ano2q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6273618/van-bommel-verovert-na-beker-en-landstitel-ook-belgische-supercup-met-royal-antwerp.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273613,
     "slug": "verstappen-en-red-bull-schrijven-historie-dagen-als-deze-zijn-zeldzaam",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Was het schadeherstel van Pérez? Vijf conclusies na de GP van Hongarije",
     "subtitle": "NU+",
     "published_at": "2023-07-23T19:24:04+02:00",
-    "updated_at": "2023-07-23T19:25:45+02:00",
+    "updated_at": "2023-07-23T20:21:05+02:00",
     "media_id": "kz5xvvdal0bm",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6273587/weekweerbericht-vaker-paraplu-dan-zonnebrand-in-normaal-zo-warme-periode.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273595,
-    "slug": "vlaamse-journalist-en-nieuwslezer-martine-tanghe-67-overleden",
-    "type": "article",
-    "title": "Vlaamse journalist en nieuwslezer Martine Tanghe (67) overleden",
-    "subtitle": null,
-    "published_at": "2023-07-23T15:09:54+02:00",
-    "updated_at": "2023-07-23T15:41:07+02:00",
-    "media_id": "iq6xi29akw67",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6273595/vlaamse-journalist-en-nieuwslezer-martine-tanghe-67-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273593,
-    "slug": "nederlandse-transgender-vrouw-van-leuven-verliest-bij-world-matchplay-debuut",
-    "type": "article",
-    "title": "Nederlandse transgender vrouw Van Leuven verliest bij World Matchplay-debuut",
-    "subtitle": null,
-    "published_at": "2023-07-23T15:05:05+02:00",
-    "updated_at": "2023-07-23T15:56:06+02:00",
-    "media_id": "ymexxtwaqzzk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6273593/nederlandse-transgender-vrouw-van-leuven-verliest-bij-world-matchplay-debuut.html",
     "open_new_window": false,
     "partner": null
   }
