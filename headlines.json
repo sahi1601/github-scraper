@@ -1,12 +1,35 @@
 [
   {
+    "id": 6273624,
+    "slug": "ontketende-aspinall-volgt-van-gerwen-op-als-world-matchplay-winnaar",
+    "type": "article",
+    "title": "Ontketende Aspinall volgt Van Gerwen op als World Matchplay-winnaar",
+    "subtitle": null,
+    "published_at": "2023-07-23T22:31:58+02:00",
+    "updated_at": "2023-07-23T22:36:00+02:00",
+    "media_id": "rk0xb3aaahg9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6273624/ontketende-aspinall-volgt-van-gerwen-op-als-world-matchplay-winnaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273622,
     "slug": "vingegaard-denkt-al-aan-derde-tour-zege-ik-hoop-volgend-jaar-terug-te-keren",
     "type": "article",
     "title": "Vingegaard denkt al aan derde Tour-zege: 'Ik hoop volgend jaar terug te keren'",
     "subtitle": null,
     "published_at": "2023-07-23T21:37:03+02:00",
-    "updated_at": "2023-07-23T22:11:22+02:00",
+    "updated_at": "2023-07-23T22:26:06+02:00",
     "media_id": "ifrxafjartc8",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Van Bommel verovert na beker en landstitel ook Belgische supercup met Antwerp",
     "subtitle": null,
     "published_at": "2023-07-23T20:12:35+02:00",
-    "updated_at": "2023-07-23T21:41:41+02:00",
+    "updated_at": "2023-07-23T22:26:40+02:00",
     "media_id": "flgxzviapj39",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6273600/van-de-zandschulp-heeft-weer-blessure-en-laat-toernooi-in-hamburg-schieten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273577,
-    "slug": "reacties-na-verrassende-zege-meeus-op-champs-elysees",
-    "type": "article",
-    "title": "Reacties na verrassende zege Meeus op Champs-Élysées",
-    "subtitle": "Liveblog",
-    "published_at": "2023-07-23T15:58:07+02:00",
-    "updated_at": "2023-07-23T20:37:36+02:00",
-    "media_id": "s6lxexaabydg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772173,
-      "slug": "tour-de-france",
-      "type": "default",
-      "name": "Tour de France",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tour-de-france/6273577/reacties-na-verrassende-zege-meeus-op-champs-elysees.html",
     "open_new_window": false,
     "partner": null
   }
