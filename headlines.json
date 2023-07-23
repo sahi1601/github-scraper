@@ -1,5 +1,28 @@
 [
   {
+    "id": 6273610,
+    "slug": "norris-vernielt-per-ongeluk-verstappens-beker-ter-waarde-van-40000-euro",
+    "type": "article",
+    "title": "Norris vernielt per ongeluk Verstappens beker ter waarde van 40.000 euro",
+    "subtitle": null,
+    "published_at": "2023-07-23T18:19:52+02:00",
+    "updated_at": "2023-07-23T18:22:57+02:00",
+    "media_id": "1pyxolha39hs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Grand Prix Hongarije",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6273610/norris-vernielt-per-ongeluk-verstappens-beker-ter-waarde-van-40000-euro.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273608,
     "slug": "man-na-aanhouding-overleden-in-politiebureau-apeldoorn",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6273590/nederlandse-zwemsters-kunnen-met-zesde-plaats-niet-stunten-op-4x100-meter-vrij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273589,
-    "slug": "frankrijk-stelt-zwaar-teleur-op-wk-met-gelijkspel-tegen-laagvlieger-jamaica",
-    "type": "article",
-    "title": "Frankrijk stelt zwaar teleur op WK met gelijkspel tegen laagvlieger Jamaica",
-    "subtitle": null,
-    "published_at": "2023-07-23T14:03:55+02:00",
-    "updated_at": "2023-07-23T14:40:03+02:00",
-    "media_id": "q3qxjeiaq3zk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6273589/frankrijk-stelt-zwaar-teleur-op-wk-met-gelijkspel-tegen-laagvlieger-jamaica.html",
     "open_new_window": false,
     "partner": null
   }
