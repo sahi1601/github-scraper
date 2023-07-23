@@ -1,12 +1,35 @@
 [
   {
+    "id": 6273538,
+    "slug": "oranje-begint-in-verwachte-5-3-2-opstelling-aan-eerste-wk-duel-met-portugal",
+    "type": "article",
+    "title": "Oranje begint in verwachte 5-3-2-opstelling aan eerste WK-duel met Portugal",
+    "subtitle": null,
+    "published_at": "2023-07-23T08:16:57+02:00",
+    "updated_at": "2023-07-23T08:16:59+02:00",
+    "media_id": "z5kx9o7aacta",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779272,
+      "slug": "wk-voetbal-2023",
+      "type": "default",
+      "name": "WK voetbal 2023",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wk-voetbal-2023/6273538/oranje-begint-in-verwachte-5-3-2-opstelling-aan-eerste-wk-duel-met-portugal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273506,
     "slug": "stelling-oranje-wordt-wereldkampioen-in-australie-en-nieuw-zeeland",
     "type": "article",
     "title": "Stelling: Oranje wordt wereldkampioen in Australië en Nieuw-Zeeland",
     "subtitle": null,
     "published_at": "2023-07-23T08:14:01+02:00",
-    "updated_at": "2023-07-23T08:14:02+02:00",
+    "updated_at": "2023-07-23T08:25:48+02:00",
     "media_id": "14cxgwrawi8t",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Nederlandse zwemsters als derde naar WK-finale op 4x100 meter vrij",
     "subtitle": null,
     "published_at": "2023-07-23T08:11:17+02:00",
-    "updated_at": "2023-07-23T08:15:36+02:00",
+    "updated_at": "2023-07-23T08:27:33+02:00",
     "media_id": "96kxt8fa2mef",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "'Explosieve mix' leidt tot code rood voor bosbranden in dertien Griekse gebieden",
     "subtitle": null,
     "published_at": "2023-07-23T07:57:13+02:00",
-    "updated_at": "2023-07-23T08:11:44+02:00",
+    "updated_at": "2023-07-23T08:26:36+02:00",
     "media_id": "jn6xwjfaumy3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6273536/medewerker-tomorrowland-kwam-om-het-leven-door-drugsgebruik.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273537,
-    "slug": "az-vangt-vertrek-reijnders-op-met-komst-portugees-jeugdinternational-dantas",
-    "type": "article",
-    "title": "AZ vangt vertrek Reijnders op met komst Portugees jeugdinternational Dantas",
-    "subtitle": null,
-    "published_at": "2023-07-22T20:40:41+02:00",
-    "updated_at": "2023-07-22T20:49:59+02:00",
-    "media_id": "vy3xwgdatuqu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6273537/az-vangt-vertrek-reijnders-op-met-komst-portugees-jeugdinternational-dantas.html",
     "open_new_window": false,
     "partner": null
   }
