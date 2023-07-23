@@ -1,12 +1,35 @@
 [
   {
+    "id": 6273608,
+    "slug": "man-na-aanhouding-overleden-in-politiebureau-apeldoorn",
+    "type": "article",
+    "title": "Man na aanhouding overleden in politiebureau Apeldoorn",
+    "subtitle": null,
+    "published_at": "2023-07-23T18:13:20+02:00",
+    "updated_at": "2023-07-23T18:13:22+02:00",
+    "media_id": "bn9xpy4ar89x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6273608/man-na-aanhouding-overleden-in-politiebureau-apeldoorn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273606,
     "slug": "joost-luiten-verprutst-slotronde-en-eindigt-in-achterhoede-brits-open",
     "type": "article",
     "title": "Joost Luiten verprutst slotronde en eindigt in achterhoede Brits Open",
     "subtitle": null,
     "published_at": "2023-07-23T17:34:35+02:00",
-    "updated_at": "2023-07-23T17:34:36+02:00",
+    "updated_at": "2023-07-23T17:47:22+02:00",
     "media_id": "bxnxplfa10f6",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Bol snelt op haar droomlocatie naar derde tijd ooit: 'Dit stadion is echt bizar'",
     "subtitle": null,
     "published_at": "2023-07-23T17:28:51+02:00",
-    "updated_at": "2023-07-23T17:28:52+02:00",
+    "updated_at": "2023-07-23T17:56:17+02:00",
     "media_id": "kqtxwoea7p2g",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Verstappen verschalkt Hamilton bij start en wint in Boedapest zevende race op rij",
     "subtitle": null,
     "published_at": "2023-07-23T16:41:55+02:00",
-    "updated_at": "2023-07-23T17:33:51+02:00",
+    "updated_at": "2023-07-23T17:57:41+02:00",
     "media_id": "cznx8woabv2p",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Van de Zandschulp heeft wéér blessure en laat toernooi in Hamburg schieten",
     "subtitle": null,
     "published_at": "2023-07-23T16:27:33+02:00",
-    "updated_at": "2023-07-23T16:34:46+02:00",
+    "updated_at": "2023-07-23T17:57:03+02:00",
     "media_id": "dy3xlv0aq2xy",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6273577,
-    "slug": "jumbo-visma-renners-klinken-de-glazen-in-champagnerit-naar-parijs",
+    "slug": "tourkaravaan-rijdt-stapvoets-naar-parijs-in-champagnerit",
     "type": "article",
-    "title": "Jumbo-Visma-renners klinken de glazen in champagnerit naar Parijs",
+    "title": "Tourkaravaan rijdt stapvoets naar Parijs in champagnerit",
     "subtitle": "Liveblog",
     "published_at": "2023-07-23T15:58:07+02:00",
-    "updated_at": "2023-07-23T17:32:58+02:00",
+    "updated_at": "2023-07-23T17:47:23+02:00",
     "media_id": "hoixv96akqfm",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tour-de-france/6273577/jumbo-visma-renners-klinken-de-glazen-in-champagnerit-naar-parijs.html",
+    "url": "/tour-de-france/6273577/tourkaravaan-rijdt-stapvoets-naar-parijs-in-champagnerit.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6273589/frankrijk-stelt-zwaar-teleur-op-wk-met-gelijkspel-tegen-laagvlieger-jamaica.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273586,
-    "slug": "wie-is-christopher-nolan-het-brein-achter-de-succesfilm-oppenheimer",
-    "type": "article",
-    "title": "Wie is Christopher Nolan, het brein achter de succesfilm Oppenheimer?",
-    "subtitle": "NU+",
-    "published_at": "2023-07-23T14:01:56+02:00",
-    "updated_at": "2023-07-23T14:49:18+02:00",
-    "media_id": "2pyxq7eayuhz",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6273586/wie-is-christopher-nolan-het-brein-achter-de-succesfilm-oppenheimer.html",
     "open_new_window": false,
     "partner": null
   }
