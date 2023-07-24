@@ -1,5 +1,74 @@
 [
   {
+    "id": 6273719,
+    "slug": "van-twitter-naar-x-bijzonder-maar-musk-is-wel-vaker-bijzonder",
+    "type": "article",
+    "title": "Van Twitter naar X: 'Bijzonder, maar Musk is wel vaker bijzonder'",
+    "subtitle": null,
+    "published_at": "2023-07-24T20:42:31+02:00",
+    "updated_at": "2023-07-24T20:42:32+02:00",
+    "media_id": "hbsxrd9a6nmu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6273719/van-twitter-naar-x-bijzonder-maar-musk-is-wel-vaker-bijzonder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273752,
+    "slug": "pathe-beleeft-recordweekend-door-succes-van-barbenheimer",
+    "type": "article",
+    "title": "Pathé beleeft recordweekend door succes van 'Barbenheimer'",
+    "subtitle": null,
+    "published_at": "2023-07-24T20:40:44+02:00",
+    "updated_at": "2023-07-24T20:42:27+02:00",
+    "media_id": "gjbxvuvaw93z",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6273752/pathe-beleeft-recordweekend-door-succes-van-barbenheimer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273751,
+    "slug": "az-strikt-met-verdediger-penetra-nog-een-portugees-jeugdinternational",
+    "type": "article",
+    "title": "AZ strikt met verdediger Penetra nóg een Portugees jeugdinternational",
+    "subtitle": null,
+    "published_at": "2023-07-24T20:35:44+02:00",
+    "updated_at": "2023-07-24T20:37:21+02:00",
+    "media_id": "ixjxp20amxgo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6273751/az-strikt-met-verdediger-penetra-nog-een-portugees-jeugdinternational.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273750,
     "slug": "noodweer-teistert-italie-en-zwitserland-windvlagen-van-217-kmu",
     "type": "video",
@@ -208,13 +277,13 @@
   },
   {
     "id": 6273739,
-    "slug": "ook-denk-fractievoorzitter-farid-azarkan-en-sylvana-simons-bij1-kondigen-afscheid-aan",
+    "slug": "ook-denk-fractievoorzitter-farid-azarkan-en-sylvana-simons-bij1-verlaten-politiek",
     "type": "article",
-    "title": "Ook DENK-fractievoorzitter Farid Azarkan en Sylvana Simons (BIJ1) kondigen afscheid aan",
+    "title": "Ook DENK-fractievoorzitter Farid Azarkan en Sylvana Simons (BIJ1) verlaten politiek",
     "subtitle": null,
     "published_at": "2023-07-24T18:59:20+02:00",
-    "updated_at": "2023-07-24T20:27:17+02:00",
-    "media_id": "v66xlkza1a1u",
+    "updated_at": "2023-07-24T20:45:13+02:00",
+    "media_id": "cpwxwt1acfj3",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -225,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6273739/ook-denk-fractievoorzitter-farid-azarkan-en-sylvana-simons-bij1-kondigen-afscheid-aan.html",
+    "url": "/politiek/6273739/ook-denk-fractievoorzitter-farid-azarkan-en-sylvana-simons-bij1-verlaten-politiek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6273725/kamminga-sluit-rotjaar-af-met-wk-zilver-hij-heeft-echt-heel-diep-gezeten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273721,
-    "slug": "leeuwin-in-berlijn-lijkt-inderdaad-een-zwijn-uitwerpselen-zijn-van-vegetarier",
-    "type": "article",
-    "title": "'Leeuwin' in Berlijn lijkt inderdaad een zwijn: uitwerpselen zijn van vegetariër",
-    "subtitle": null,
-    "published_at": "2023-07-24T17:14:59+02:00",
-    "updated_at": "2023-07-24T18:29:54+02:00",
-    "media_id": "wgtxp6sat8ak",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6273721/leeuwin-in-berlijn-lijkt-inderdaad-een-zwijn-uitwerpselen-zijn-van-vegetarier.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273691,
-    "slug": "duizenden-nederlanders-strijden-samen-voor-plek-op-reddit-kunstwerk",
-    "type": "article",
-    "title": "Duizenden Nederlanders strijden samen voor plek op Reddit-kunstwerk",
-    "subtitle": "NU+",
-    "published_at": "2023-07-24T17:03:16+02:00",
-    "updated_at": "2023-07-24T18:41:58+02:00",
-    "media_id": "fqixln0a8yco",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6273691/duizenden-nederlanders-strijden-samen-voor-plek-op-reddit-kunstwerk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273722,
-    "slug": "spaanse-politie-arresteert-mensensmokkelaars-tijdens-inval",
-    "type": "video",
-    "title": "Spaanse politie arresteert mensensmokkelaars tijdens inval",
-    "subtitle": "Video",
-    "published_at": "2023-07-24T16:41:57+02:00",
-    "updated_at": "2023-07-24T18:32:17+02:00",
-    "media_id": "0mux3wda8qvr",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6273722/spaanse-politie-arresteert-mensensmokkelaars-tijdens-inval.html",
     "open_new_window": false,
     "partner": null
   }
