@@ -1,5 +1,28 @@
 [
   {
+    "id": 6273682,
+    "slug": "psv-begint-jacht-op-champions-league-ticket-met-tweeluik-tegen-sturm-graz",
+    "type": "article",
+    "title": "PSV begint jacht op Champions League-ticket met tweeluik tegen Sturm Graz",
+    "subtitle": null,
+    "published_at": "2023-07-24T12:16:11+02:00",
+    "updated_at": "2023-07-24T12:25:24+02:00",
+    "media_id": "luyxv9ta4wmi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6273682/psv-begint-jacht-op-champions-league-ticket-met-tweeluik-tegen-sturm-graz.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273687,
     "slug": "code-geel-in-deel-van-het-land-vanwege-onweersbuien-met-kans-op-flinke-hagel",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6273644/terrasje-of-efteling-zit-er-voor-antoon-niet-meer-in-door-fans-haast-onmogelijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273643,
-    "slug": "oranje-opgelucht-na-stroeve-wk-start-maakt-me-geen-zak-uit-hoe-we-winnen",
-    "type": "article",
-    "title": "Oranje opgelucht na stroeve WK-start: 'Maakt me geen zak uit hoe we winnen'",
-    "subtitle": null,
-    "published_at": "2023-07-24T08:08:02+02:00",
-    "updated_at": "2023-07-24T08:37:34+02:00",
-    "media_id": "6yex7cnacpsj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779272,
-      "slug": "wk-voetbal-2023",
-      "type": "default",
-      "name": "WK voetbal 2023",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-voetbal-2023/6273643/oranje-opgelucht-na-stroeve-wk-start-maakt-me-geen-zak-uit-hoe-we-winnen.html",
     "open_new_window": false,
     "partner": null
   }
