@@ -1,5 +1,28 @@
 [
   {
+    "id": 6273721,
+    "slug": "ook-uitwerpselen-wijzen-erop-dat-leeuwin-in-berlijn-een-wild-zwijn-was",
+    "type": "article",
+    "title": "Ook uitwerpselen wijzen erop dat 'leeuwin' in Berlijn een wild zwijn was",
+    "subtitle": null,
+    "published_at": "2023-07-24T17:14:59+02:00",
+    "updated_at": "2023-07-24T17:17:04+02:00",
+    "media_id": "wgtxp6sat8ak",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6273721/ook-uitwerpselen-wijzen-erop-dat-leeuwin-in-berlijn-een-wild-zwijn-was.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273691,
     "slug": "anne-frank-en-peter-r-de-vries-prijken-op-reddit-kunstwerk-rplace",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6273693/zeldzame-ontknoping-op-wk-zwemmen-kamminga-deelt-zilver-met-twee-anderen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273692,
-    "slug": "rus-filmt-schade-aan-kantoorgebouwen-in-moskou-na-droneaanval",
-    "type": "video",
-    "title": "Rus filmt schade aan kantoorgebouwen in Moskou na droneaanval",
-    "subtitle": "Video",
-    "published_at": "2023-07-24T13:16:13+02:00",
-    "updated_at": "2023-07-24T13:39:38+02:00",
-    "media_id": "kczxl9zaxp1p",
-    "duration": "0:53",
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6273692/rus-filmt-schade-aan-kantoorgebouwen-in-moskou-na-droneaanval.html",
     "open_new_window": false,
     "partner": null
   }
