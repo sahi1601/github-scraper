@@ -1,13 +1,82 @@
 [
   {
+    "id": 6273798,
+    "slug": "thijs-romer-geeft-toe-dat-hij-meisjes-tips-gaf-over-masturbatie",
+    "type": "article",
+    "title": "Thijs Römer geeft toe dat hij meisjes tips gaf over masturbatie",
+    "subtitle": null,
+    "published_at": "2023-07-25T11:34:51+02:00",
+    "updated_at": "2023-07-25T11:42:24+02:00",
+    "media_id": "afnxh55a6z4a",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6273798/thijs-romer-geeft-toe-dat-hij-meisjes-tips-gaf-over-masturbatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273806,
+    "slug": "strandgangers-filmen-haai-voor-zuid-franse-kust",
+    "type": "video",
+    "title": "Strandgangers filmen haai voor Zuid-Franse kust",
+    "subtitle": "Video",
+    "published_at": "2023-07-25T11:34:39+02:00",
+    "updated_at": "2023-07-25T11:34:40+02:00",
+    "media_id": "7i4xqnlamiqv",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6273806/strandgangers-filmen-haai-voor-zuid-franse-kust.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6273805,
+    "slug": "revalidatie-renster-pieters-gaat-nog-niet-zoals-gehoopt-zorgen-over-mentale-situatie",
+    "type": "article",
+    "title": "Revalidatie renster Pieters gaat nog niet zoals gehoopt: zorgen over mentale situatie",
+    "subtitle": null,
+    "published_at": "2023-07-25T11:26:43+02:00",
+    "updated_at": "2023-07-25T11:42:35+02:00",
+    "media_id": "zw2xouhamtht",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6273805/revalidatie-renster-pieters-gaat-nog-niet-zoals-gehoopt-zorgen-over-mentale-situatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6273803,
     "slug": "al-bijna-een-tiende-van-rhodos-in-vlammen-opgegaan-door-dagenlange-branden",
     "type": "article",
     "title": "Al bijna een tiende van Rhodos in vlammen opgegaan door dagenlange branden",
     "subtitle": null,
     "published_at": "2023-07-25T11:05:58+02:00",
-    "updated_at": "2023-07-25T11:06:00+02:00",
-    "media_id": "240xaifax3c5",
+    "updated_at": "2023-07-25T11:24:03+02:00",
+    "media_id": "vzbxfe8ajiyn",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -70,12 +139,12 @@
   },
   {
     "id": 6273800,
-    "slug": "sterspeler-hegerberg-zingt-noors-volkslied-mee-maar-haakt-alsnog-af-voor-wk-duel",
+    "slug": "sterspeelster-hegerberg-haakt-na-zingen-noors-volkslied-alsnog-af-voor-wk-duel",
     "type": "article",
-    "title": "Sterspeler Hegerberg zingt Noors volkslied mee, maar haakt alsnog af voor WK-duel",
+    "title": "Sterspeelster Hegerberg haakt na zingen Noors volkslied alsnog af voor WK-duel",
     "subtitle": null,
     "published_at": "2023-07-25T10:35:09+02:00",
-    "updated_at": "2023-07-25T10:54:14+02:00",
+    "updated_at": "2023-07-25T11:38:50+02:00",
     "media_id": "shax70lan344",
     "duration": null,
     "canonical_section": {
@@ -87,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wk-voetbal-2023/6273800/sterspeler-hegerberg-zingt-noors-volkslied-mee-maar-haakt-alsnog-af-voor-wk-duel.html",
+    "url": "/wk-voetbal-2023/6273800/sterspeelster-hegerberg-haakt-na-zingen-noors-volkslied-alsnog-af-voor-wk-duel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/tech/6273768/mogelijk-grootste-nederlandse-gebruiker-opgepakt-in-wereldwijde-cybercrimezaak.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273697,
-    "slug": "pruimen-tomaten-en-courgettes-wat-pluk-jij-in-je-tuin-praat-mee",
-    "type": "article",
-    "title": "Pruimen, tomaten en courgettes: wat pluk jij in je tuin? Praat mee",
-    "subtitle": null,
-    "published_at": "2023-07-25T07:06:51+02:00",
-    "updated_at": "2023-07-25T07:06:52+02:00",
-    "media_id": "qsoxe57auxbr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6273697/pruimen-tomaten-en-courgettes-wat-pluk-jij-in-je-tuin-praat-mee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273707,
-    "slug": "huidige-hitte-in-zuid-europa-praktisch-onmogelijk-zonder-klimaatverandering",
-    "type": "article",
-    "title": "Huidige hitte in Zuid-Europa praktisch onmogelijk zonder klimaatverandering",
-    "subtitle": null,
-    "published_at": "2023-07-25T07:00:03+02:00",
-    "updated_at": "2023-07-25T09:42:53+02:00",
-    "media_id": "z47xe3eaqsrd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6273707/huidige-hitte-in-zuid-europa-praktisch-onmogelijk-zonder-klimaatverandering.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6273767,
-    "slug": "nrc-haalt-ruslandcorrespondent-wegens-onveiligheid-terug-naar-nederland",
-    "type": "article",
-    "title": "NRC haalt Ruslandcorrespondent wegens onveiligheid terug naar Nederland",
-    "subtitle": null,
-    "published_at": "2023-07-25T06:49:41+02:00",
-    "updated_at": "2023-07-25T09:06:22+02:00",
-    "media_id": "rz1xm1uayw0q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6273767/nrc-haalt-ruslandcorrespondent-wegens-onveiligheid-terug-naar-nederland.html",
     "open_new_window": false,
     "partner": null
   }
