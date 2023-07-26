@@ -1,12 +1,35 @@
 [
   {
+    "id": 6274042,
+    "slug": "sinead-oconnor-was-geen-normale-popster-en-wilde-dat-ook-nooit-zijn",
+    "type": "article",
+    "title": "Sinéad O'Connor was geen 'normale popster' en wilde dat ook nooit zijn",
+    "subtitle": null,
+    "published_at": "2023-07-26T23:09:05+02:00",
+    "updated_at": "2023-07-26T23:09:06+02:00",
+    "media_id": "0kgxk9oahtit",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6274042/sinead-oconnor-was-geen-normale-popster-en-wilde-dat-ook-nooit-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274044,
     "slug": "wereld-rouwt-om-overlijden-sinead-oconnor-een-uniek-muzikaal-talent",
     "type": "article",
     "title": "Wereld rouwt om overlijden Sinéad O'Connor: 'Een uniek muzikaal talent'",
     "subtitle": null,
     "published_at": "2023-07-26T23:06:43+02:00",
-    "updated_at": "2023-07-26T23:06:44+02:00",
+    "updated_at": "2023-07-26T23:08:22+02:00",
     "media_id": "of7x05ra3855",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Oud-Eredivisie-sterren Tadic en Szymanski grijpen direct hoofdrol bij Fenerbahçe",
     "subtitle": null,
     "published_at": "2023-07-26T23:03:39+02:00",
-    "updated_at": "2023-07-26T23:06:44+02:00",
+    "updated_at": "2023-07-26T23:08:50+02:00",
     "media_id": "d3txk3zaqs9c",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Spanje tast in duister na verkiezingen, ogen zijn gericht op gevreesde separatisten",
     "subtitle": null,
     "published_at": "2023-07-26T21:27:55+02:00",
-    "updated_at": "2023-07-26T22:06:06+02:00",
+    "updated_at": "2023-07-26T23:22:35+02:00",
     "media_id": "lpbxgi2agc45",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Rico Verhoeven over Badr Hari: 'Onze energie matcht, daarom clashen we lekker'",
     "subtitle": null,
     "published_at": "2023-07-26T19:00:50+02:00",
-    "updated_at": "2023-07-26T22:34:50+02:00",
+    "updated_at": "2023-07-26T23:12:01+02:00",
     "media_id": "70fxbw6ag6nm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6273871/rico-verhoeven-over-badr-hari-onze-energie-matcht-daarom-clashen-we-lekker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274023,
-    "slug": "kastelijn-dankt-ploegmaat-bij-droomzege-denk-dat-sommigen-me-irritant-vonden",
-    "type": "article",
-    "title": "Kastelijn dankt ploegmaat bij droomzege: 'Denk dat sommigen me irritant vonden'",
-    "subtitle": null,
-    "published_at": "2023-07-26T18:40:45+02:00",
-    "updated_at": "2023-07-26T18:52:02+02:00",
-    "media_id": "d3ixx45ageuc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6274023/kastelijn-dankt-ploegmaat-bij-droomzege-denk-dat-sommigen-me-irritant-vonden.html",
     "open_new_window": false,
     "partner": null
   }
