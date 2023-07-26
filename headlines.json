@@ -1,12 +1,35 @@
 [
   {
+    "id": 6273832,
+    "slug": "superster-mbappe-plots-paria-bij-psg-een-megatransfer-lijkt-aanstaande",
+    "type": "article",
+    "title": "Superster Mbappé plots paria bij PSG: een megatransfer lijkt aanstaande",
+    "subtitle": "NU+",
+    "published_at": "2023-07-26T20:45:06+02:00",
+    "updated_at": "2023-07-26T20:45:08+02:00",
+    "media_id": "i9qxjlaaabou",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6273832/superster-mbappe-plots-paria-bij-psg-een-megatransfer-lijkt-aanstaande.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274032,
     "slug": "arantxa-rus-in-de-vorm-van-haar-leven-kwartfinaleplek-op-wta-toernooi-hamburg",
     "type": "article",
     "title": "Arantxa Rus in de vorm van haar leven: kwartfinaleplek op WTA-toernooi Hamburg",
     "subtitle": null,
     "published_at": "2023-07-26T20:36:41+02:00",
-    "updated_at": "2023-07-26T20:42:50+02:00",
+    "updated_at": "2023-07-26T20:59:40+02:00",
     "media_id": "quvxw1taxhb0",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6274038,
-    "slug": "zeker-200-nederlanders-in-noord-italie-zaterdag-in-bussen-terug-na-noodweer",
+    "slug": "200-nederlanders-in-noord-italie-gaan-zaterdag-in-bussen-naar-huis-na-noodweer",
     "type": "article",
-    "title": "Zeker 200 Nederlanders in Noord-Italië zaterdag in bussen terug na noodweer",
+    "title": "200 Nederlanders in Noord-Italië gaan zaterdag in bussen naar huis na noodweer",
     "subtitle": null,
     "published_at": "2023-07-26T20:33:05+02:00",
-    "updated_at": "2023-07-26T20:39:31+02:00",
+    "updated_at": "2023-07-26T20:49:43+02:00",
     "media_id": "kqmx4lcajnkh",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6274038/zeker-200-nederlanders-in-noord-italie-zaterdag-in-bussen-terug-na-noodweer.html",
+    "url": "/buitenland/6274038/200-nederlanders-in-noord-italie-gaan-zaterdag-in-bussen-naar-huis-na-noodweer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Zangeres Sinéad O'Connor op 56-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-07-26T19:59:55+02:00",
-    "updated_at": "2023-07-26T20:41:36+02:00",
+    "updated_at": "2023-07-26T20:56:35+02:00",
     "media_id": "dqsxzb0am7ia",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6274005/mick-jagger-is-tachtig-jaar-geworden-artiest-womanizer-en-ridder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274012,
-    "slug": "wat-als-het-brandende-schip-bij-ameland-zinkt",
-    "type": "video",
-    "title": "Wat als het brandende schip bij Ameland zinkt?",
-    "subtitle": "Explainer",
-    "published_at": "2023-07-26T17:16:17+02:00",
-    "updated_at": "2023-07-26T17:43:53+02:00",
-    "media_id": "y88xbekad46y",
-    "duration": "2:12",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6274012/wat-als-het-brandende-schip-bij-ameland-zinkt.html",
     "open_new_window": false,
     "partner": null
   }
