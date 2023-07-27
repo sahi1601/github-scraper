@@ -1,5 +1,51 @@
 [
   {
+    "id": 6274093,
+    "slug": "herman-van-der-zandt-verruilt-na-ruim-20-jaar-nos-voor-kro-ncrv",
+    "type": "article",
+    "title": "Herman van der Zandt verruilt na ruim 20 jaar NOS voor KRO-NCRV",
+    "subtitle": null,
+    "published_at": "2023-07-27T10:07:17+02:00",
+    "updated_at": "2023-07-27T10:11:12+02:00",
+    "media_id": "5b1x8vdahpkz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6274093/herman-van-der-zandt-verruilt-na-ruim-20-jaar-nos-voor-kro-ncrv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274087,
+    "slug": "omzet-stijgt-bij-facebook-moederbedrijf-maar-met-de-metaverse-schiet-het-niet-op",
+    "type": "article",
+    "title": "Omzet stijgt bij Facebook-moederbedrijf, maar met de Metaverse schiet het niet op",
+    "subtitle": null,
+    "published_at": "2023-07-27T09:47:53+02:00",
+    "updated_at": "2023-07-27T09:47:54+02:00",
+    "media_id": "a9txo30ahjsg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6274087/omzet-stijgt-bij-facebook-moederbedrijf-maar-met-de-metaverse-schiet-het-niet-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274081,
     "slug": "archeologen-vinden-resten-van-keizer-neros-theater-in-rome",
     "type": "video",
@@ -52,7 +98,7 @@
     "title": "Oekraïne zet 'hoofdaanval' in en lijkt enkele Russische linies te breken",
     "subtitle": null,
     "published_at": "2023-07-27T09:02:54+02:00",
-    "updated_at": "2023-07-27T09:32:18+02:00",
+    "updated_at": "2023-07-27T10:01:25+02:00",
     "media_id": "ihkxkleal0qg",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Militairen plegen staatsgreep in Niger, sluiten grenzen en voeren avondklok in",
     "subtitle": null,
     "published_at": "2023-07-27T07:34:01+02:00",
-    "updated_at": "2023-07-27T09:39:56+02:00",
+    "updated_at": "2023-07-27T09:44:21+02:00",
     "media_id": "fk1xycuawk9h",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal-2023/6274063/het-voetbalgevecht-tussen-oranje-en-vs-op-het-wk-in-tien-fotos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274062,
-    "slug": "nederlands-model-lara-stone-is-voor-tweede-keer-moeder-geworden",
-    "type": "article",
-    "title": "Nederlands model Lara Stone is voor tweede keer moeder geworden",
-    "subtitle": null,
-    "published_at": "2023-07-27T06:25:45+02:00",
-    "updated_at": "2023-07-27T07:42:53+02:00",
-    "media_id": "7qoxj0ean7c9",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6274062/nederlands-model-lara-stone-is-voor-tweede-keer-moeder-geworden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274061,
-    "slug": "schouten-overtuigt-en-gaat-op-wk-als-snelste-naar-halve-finales-200-meter-school",
-    "type": "article",
-    "title": "Schouten overtuigt en gaat op WK als snelste naar halve finales 200 meter school",
-    "subtitle": null,
-    "published_at": "2023-07-27T06:19:16+02:00",
-    "updated_at": "2023-07-27T07:57:44+02:00",
-    "media_id": "n2yxujbaptyg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6274061/schouten-overtuigt-en-gaat-op-wk-als-snelste-naar-halve-finales-200-meter-school.html",
     "open_new_window": false,
     "partner": null
   }
