@@ -1,5 +1,51 @@
 [
   {
+    "id": 6274123,
+    "slug": "steenbergen-als-topfavoriete-naar-wk-finale-100-meter-vrije-slag",
+    "type": "article",
+    "title": "Steenbergen als topfavoriete naar WK-finale 100 meter vrije slag",
+    "subtitle": null,
+    "published_at": "2023-07-27T13:39:35+02:00",
+    "updated_at": "2023-07-27T13:39:36+02:00",
+    "media_id": "2w5xk06axqm0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6274123/steenbergen-als-topfavoriete-naar-wk-finale-100-meter-vrije-slag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274121,
+    "slug": "peloton-maakt-zich-zonder-zieke-wiebes-op-voor-overgangsrit-tour",
+    "type": "article",
+    "title": "Peloton maakt zich zonder zieke Wiebes op voor overgangsrit Tour",
+    "subtitle": "Liveblog",
+    "published_at": "2023-07-27T13:37:59+02:00",
+    "updated_at": "2023-07-27T13:41:29+02:00",
+    "media_id": "k6nxdziawsar",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6274121/peloton-maakt-zich-zonder-zieke-wiebes-op-voor-overgangsrit-tour.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274117,
     "slug": "prins-harry-in-2024-of-2025-voor-de-rechter-maar-niet-vanwege-telefoonhack",
     "type": "article",
@@ -75,7 +121,7 @@
     "title": "Mannen die om het leven kwamen bij Frans kano-ongeluk komen uit Zuid-Holland",
     "subtitle": null,
     "published_at": "2023-07-27T12:55:33+02:00",
-    "updated_at": "2023-07-27T12:55:35+02:00",
+    "updated_at": "2023-07-27T13:36:22+02:00",
     "media_id": "ao7xjeoamike",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Sinéad O'Connor maakte hit van Prince-lied, maar vrienden werden ze niet",
     "subtitle": "NU+",
     "published_at": "2023-07-27T12:44:56+02:00",
-    "updated_at": "2023-07-27T13:13:01+02:00",
+    "updated_at": "2023-07-27T13:34:31+02:00",
     "media_id": "s1oxq85ajzd6",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6274097/demonstranten-gaan-de-straat-op-tegen-staatsgreep-in-niger.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274094,
-    "slug": "ministerie-vernietigde-dossiers-over-adoptie-jarenlang-op-verkeerde-manier",
-    "type": "article",
-    "title": "Ministerie vernietigde dossiers over adoptie jarenlang op verkeerde manier",
-    "subtitle": null,
-    "published_at": "2023-07-27T10:45:24+02:00",
-    "updated_at": "2023-07-27T10:45:25+02:00",
-    "media_id": "287x2kwamolx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6274094/ministerie-vernietigde-dossiers-over-adoptie-jarenlang-op-verkeerde-manier.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274091,
-    "slug": "lymfeklierkanker-ontdekt-bij-borussia-monchengladbach-verdediger-lainer",
-    "type": "article",
-    "title": "Lymfeklierkanker ontdekt bij Borussia Mönchengladbach-verdediger Lainer",
-    "subtitle": null,
-    "published_at": "2023-07-27T10:28:07+02:00",
-    "updated_at": "2023-07-27T10:28:09+02:00",
-    "media_id": "vagxj1naesbc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6274091/lymfeklierkanker-ontdekt-bij-borussia-monchengladbach-verdediger-lainer.html",
     "open_new_window": false,
     "partner": null
   }
