@@ -1,5 +1,28 @@
 [
   {
+    "id": 6274346,
+    "slug": "seedo-volgt-dafne-schippers-op-als-nederlands-kampioen-op-100-meter",
+    "type": "article",
+    "title": "Seedo volgt Dafne Schippers op als Nederlands kampioen op 100 meter",
+    "subtitle": null,
+    "published_at": "2023-07-28T21:28:56+02:00",
+    "updated_at": "2023-07-28T21:36:50+02:00",
+    "media_id": "ozxxmavag98d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6274346/seedo-volgt-dafne-schippers-op-als-nederlands-kampioen-op-100-meter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274344,
     "slug": "stengs-vindt-het-vervelend-dat-zwager-kooij-feyenoord-niet-meer-mag-fluiten",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6274315/noord-korea-toont-wapenarsenaal-tijdens-viering-wapenstilstand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274313,
-    "slug": "nederlandse-sprinters-opnieuw-gefopt-in-tour-norsgaard-blijft-peloton-nipt-voor",
-    "type": "article",
-    "title": "Nederlandse sprinters opnieuw gefopt in Tour: Norsgaard blijft peloton nipt voor",
-    "subtitle": null,
-    "published_at": "2023-07-28T17:38:29+02:00",
-    "updated_at": "2023-07-28T21:03:53+02:00",
-    "media_id": "pvjx4h5at4sx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6274313/nederlandse-sprinters-opnieuw-gefopt-in-tour-norsgaard-blijft-peloton-nipt-voor.html",
     "open_new_window": false,
     "partner": null
   }
