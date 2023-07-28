@@ -1,5 +1,28 @@
 [
   {
+    "id": 6274185,
+    "slug": "me-grijpt-in-bij-rellen-rond-wedstrijd-fc-twente-gewonden-en-10-arrestaties",
+    "type": "article",
+    "title": "ME grijpt in bij rellen rond wedstrijd FC Twente: gewonden en 10 arrestaties",
+    "subtitle": null,
+    "published_at": "2023-07-28T05:39:09+02:00",
+    "updated_at": "2023-07-28T05:39:11+02:00",
+    "media_id": "25exfzyaltqb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6274185/me-grijpt-in-bij-rellen-rond-wedstrijd-fc-twente-gewonden-en-10-arrestaties.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274138,
     "slug": "oud-international-mendes-da-silva-hoort-of-hij-cel-in-moet-voor-drugshandel",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6274169/verenigde-naties-stoppen-humanitair-werk-in-niger-na-staatsgreep.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274168,
-    "slug": "reacties-na-minieme-zege-fc-twente-rellen-na-afloop",
-    "type": "article",
-    "title": "Reacties na minieme zege FC Twente, rellen na afloop",
-    "subtitle": "Liveblog",
-    "published_at": "2023-07-27T19:43:26+02:00",
-    "updated_at": "2023-07-27T22:34:51+02:00",
-    "media_id": "4zdxeuuatdaj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6274168/reacties-na-minieme-zege-fc-twente-rellen-na-afloop.html",
     "open_new_window": false,
     "partner": null
   }
