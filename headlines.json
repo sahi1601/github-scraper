@@ -1,5 +1,28 @@
 [
   {
+    "id": 6274324,
+    "slug": "verstappen-veruit-snelste-in-kwalificatie-gp-belgie-maar-leclerc-begint-van-pole",
+    "type": "article",
+    "title": "Verstappen veruit snelste in kwalificatie GP België, maar Leclerc begint van pole",
+    "subtitle": null,
+    "published_at": "2023-07-28T18:21:27+02:00",
+    "updated_at": "2023-07-28T18:26:50+02:00",
+    "media_id": "pd5xfduajzbj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP België",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6274324/verstappen-veruit-snelste-in-kwalificatie-gp-belgie-maar-leclerc-begint-van-pole.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274318,
     "slug": "floortje-dessing-hersteld-van-tropisch-virus-dat-ze-opliep-op-bali",
     "type": "article",
@@ -346,12 +369,12 @@
   },
   {
     "id": 6274290,
-    "slug": "bitcoinbeurs-cryptocom-krijgt-registratie-bij-de-nederlandse-bank",
+    "slug": "bitcoinbeurs-cryptocom-mag-legaal-in-nederland-aan-de-slag",
     "type": "article",
-    "title": "Bitcoinbeurs Crypto.com krijgt registratie bij De Nederlandse Bank",
+    "title": "Bitcoinbeurs Crypto.com mag legaal in Nederland aan de slag",
     "subtitle": null,
     "published_at": "2023-07-28T15:44:58+02:00",
-    "updated_at": "2023-07-28T15:45:00+02:00",
+    "updated_at": "2023-07-28T18:27:50+02:00",
     "media_id": "ih8xktua3r15",
     "duration": null,
     "canonical_section": {
@@ -363,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6274290/bitcoinbeurs-cryptocom-krijgt-registratie-bij-de-nederlandse-bank.html",
+    "url": "/tech/6274290/bitcoinbeurs-cryptocom-mag-legaal-in-nederland-aan-de-slag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6274288/leegloop-bij-alpine-gaat-door-teambaas-szafnauer-en-twee-directeuren-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274286,
-    "slug": "alle-667-griekse-natuurbranden-van-de-afgelopen-twee-weken-nu-onder-controle",
-    "type": "article",
-    "title": "Alle 667 Griekse natuurbranden van de afgelopen twee weken nu onder controle",
-    "subtitle": null,
-    "published_at": "2023-07-28T15:12:16+02:00",
-    "updated_at": "2023-07-28T17:39:50+02:00",
-    "media_id": "y6oxtedaaq5s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6274286/alle-667-griekse-natuurbranden-van-de-afgelopen-twee-weken-nu-onder-controle.html",
     "open_new_window": false,
     "partner": null
   }
