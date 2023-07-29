@@ -1,12 +1,58 @@
 [
   {
+    "id": 6274467,
+    "slug": "arantxa-rus-draagt-titel-na-droomweek-in-hamburg-op-aan-overleden-vader",
+    "type": "article",
+    "title": "Arantxa Rus draagt titel na droomweek in Hamburg op aan overleden vader",
+    "subtitle": null,
+    "published_at": "2023-07-29T22:20:32+02:00",
+    "updated_at": "2023-07-29T22:20:33+02:00",
+    "media_id": "xrwxnwdab9iq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6274467/arantxa-rus-draagt-titel-na-droomweek-in-hamburg-op-aan-overleden-vader.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274466,
+    "slug": "fc-twente-laat-fans-ondanks-rellen-naar-stockholm-gaan-voor-duel-met-hammarby",
+    "type": "article",
+    "title": "FC Twente laat fans ondanks rellen naar Stockholm gaan voor duel met Hammarby",
+    "subtitle": null,
+    "published_at": "2023-07-29T22:14:22+02:00",
+    "updated_at": "2023-07-29T22:21:54+02:00",
+    "media_id": "3syxuvbapsex",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6274466/fc-twente-laat-fans-ondanks-rellen-naar-stockholm-gaan-voor-duel-met-hammarby.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274464,
     "slug": "hamilton-ziet-botsing-met-perez-als-race-incident-en-haalt-quote-van-senna-aan",
     "type": "article",
     "title": "Hamilton ziet botsing met Pérez als race-incident en haalt quote van Senna aan",
     "subtitle": null,
     "published_at": "2023-07-29T21:49:41+02:00",
-    "updated_at": "2023-07-29T22:11:52+02:00",
+    "updated_at": "2023-07-29T22:16:58+02:00",
     "media_id": "n5wxdlna5icm",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6274443/zomercarnaval-van-start-met-parade-in-centrum-rotterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274432,
-    "slug": "de-indrukwekkendste-fotos-van-het-extreme-weer-dat-landen-teistert",
-    "type": "article",
-    "title": "De indrukwekkendste foto's van het extreme weer dat landen teistert",
-    "subtitle": "In beeld",
-    "published_at": "2023-07-29T16:40:09+02:00",
-    "updated_at": "2023-07-29T18:03:38+02:00",
-    "media_id": "6ftxtrlatiud",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6274432/de-indrukwekkendste-fotos-van-het-extreme-weer-dat-landen-teistert.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274439,
-    "slug": "evenepoel-wint-ondanks-opmerkelijke-valpartij-zijn-derde-clasica-san-sebastian",
-    "type": "article",
-    "title": "Evenepoel wint ondanks opmerkelijke valpartij zijn derde Clásica San Sebastián",
-    "subtitle": null,
-    "published_at": "2023-07-29T16:39:48+02:00",
-    "updated_at": "2023-07-29T17:58:23+02:00",
-    "media_id": "s3vxs3eacevl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6274439/evenepoel-wint-ondanks-opmerkelijke-valpartij-zijn-derde-clasica-san-sebastian.html",
     "open_new_window": false,
     "partner": null
   }
