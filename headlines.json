@@ -1,5 +1,28 @@
 [
   {
+    "id": 6274609,
+    "slug": "talkshow-nadia-keert-terug-maar-wordt-teruggebracht-tot-een-dag-per-week",
+    "type": "article",
+    "title": "Talkshow Nadia keert terug, maar wordt teruggebracht tot één dag per week",
+    "subtitle": null,
+    "published_at": "2023-07-31T11:16:42+02:00",
+    "updated_at": "2023-07-31T11:22:41+02:00",
+    "media_id": "nojxbm6aujqv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6274609/talkshow-nadia-keert-terug-maar-wordt-teruggebracht-tot-een-dag-per-week.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274606,
     "slug": "sd-worx-verdient-met-afstand-meeste-geld-in-tour-twee-ploegen-krijgen-niks",
     "type": "article",
@@ -305,7 +328,7 @@
     "title": "Oranjescout vloog zelfs naar Nepal om grote onbekende Vietnam voor WK te zien",
     "subtitle": null,
     "published_at": "2023-07-31T08:49:11+02:00",
-    "updated_at": "2023-07-31T10:29:20+02:00",
+    "updated_at": "2023-07-31T11:21:54+02:00",
     "media_id": "60jxnwyarpcv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal-2023/6274567/oranje-gaat-voor-groepswinst-dat-fans-s-nachts-moeten-kijken-is-dan-maar-zo.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274578,
-    "slug": "energie-wordt-opnieuw-goedkoper-maar-de-boodschappen-nog-niet",
-    "type": "article",
-    "title": "Energie wordt opnieuw goedkoper, maar de boodschappen nog niet",
-    "subtitle": null,
-    "published_at": "2023-07-31T07:40:44+02:00",
-    "updated_at": "2023-07-31T09:52:11+02:00",
-    "media_id": "ctcx703ar3ec",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6274578/energie-wordt-opnieuw-goedkoper-maar-de-boodschappen-nog-niet.html",
     "open_new_window": false,
     "partner": null
   }
