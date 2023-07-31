@@ -1,12 +1,35 @@
 [
   {
-    "id": 6274655,
-    "slug": "nieuwe-details-over-de-beul-van-twente-in-crimeserie-van-avrotros",
+    "id": 6274658,
+    "slug": "door-berlage-ontworpen-tuinen-vallen-in-de-smaak-herten-vreten-ze-alweer-kaal",
     "type": "article",
-    "title": "Nieuwe details over 'De Beul van Twente' in crimeserie van AVROTROS",
+    "title": "Door Berlage ontworpen tuinen vallen in de smaak: herten vreten ze alwéér kaal",
+    "subtitle": null,
+    "published_at": "2023-07-31T15:48:59+02:00",
+    "updated_at": "2023-07-31T15:49:00+02:00",
+    "media_id": "096xod0a8ypk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6274658/door-berlage-ontworpen-tuinen-vallen-in-de-smaak-herten-vreten-ze-alweer-kaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274655,
+    "slug": "avrotros-maakt-crimeserie-over-veroordeelde-misdadiger-de-beul-van-twente",
+    "type": "article",
+    "title": "AVROTROS maakt crimeserie over veroordeelde misdadiger 'De Beul van Twente'",
     "subtitle": null,
     "published_at": "2023-07-31T15:29:01+02:00",
-    "updated_at": "2023-07-31T15:34:17+02:00",
+    "updated_at": "2023-07-31T16:04:26+02:00",
     "media_id": "y1qx40saer1c",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6274655/nieuwe-details-over-de-beul-van-twente-in-crimeserie-van-avrotros.html",
+    "url": "/media/6274655/avrotros-maakt-crimeserie-over-veroordeelde-misdadiger-de-beul-van-twente.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Australië schakelt olympisch kampioen Canada uit en houdt WK-droom levend",
     "subtitle": null,
     "published_at": "2023-07-31T14:07:33+02:00",
-    "updated_at": "2023-07-31T15:18:54+02:00",
+    "updated_at": "2023-07-31T15:53:49+02:00",
     "media_id": "59gxgsuayvkf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6274622/facebook-moet-data-delen-van-anoniem-profiel-dat-nederlander-verdacht-maakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274621,
-    "slug": "economie-in-landen-met-de-euro-groeit-weer",
-    "type": "article",
-    "title": "Economie in landen met de euro groeit weer",
-    "subtitle": null,
-    "published_at": "2023-07-31T12:23:24+02:00",
-    "updated_at": "2023-07-31T13:09:01+02:00",
-    "media_id": "efaxdkxalsv7",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6274621/economie-in-landen-met-de-euro-groeit-weer.html",
     "open_new_window": false,
     "partner": null
   }
