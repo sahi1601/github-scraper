@@ -1,13 +1,59 @@
 [
   {
+    "id": 6274580,
+    "slug": "supermarkten-draaien-fors-meer-omzet",
+    "type": "article",
+    "title": "Supermarkten draaien fors meer omzet",
+    "subtitle": null,
+    "published_at": "2023-07-31T08:27:43+02:00",
+    "updated_at": "2023-07-31T08:27:45+02:00",
+    "media_id": "4j0xfewawyki",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6274580/supermarkten-draaien-fors-meer-omzet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274579,
+    "slug": "zeker-drie-nieuwe-aanvragen-voor-koranverbrandingen-in-zweden",
+    "type": "article",
+    "title": "Zeker drie nieuwe aanvragen voor koranverbrandingen in Zweden",
+    "subtitle": null,
+    "published_at": "2023-07-31T08:17:41+02:00",
+    "updated_at": "2023-07-31T08:17:55+02:00",
+    "media_id": "k23xz23ao5um",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6274579/zeker-drie-nieuwe-aanvragen-voor-koranverbrandingen-in-zweden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274567,
     "slug": "oranje-gaat-voor-groepswinst-dat-fans-s-nachts-moeten-kijken-is-dan-maar-zo",
     "type": "article",
     "title": "Oranje gaat voor groepswinst: 'Dat fans 's nachts moeten kijken, is dan maar zo'",
     "subtitle": null,
     "published_at": "2023-07-31T08:02:07+02:00",
-    "updated_at": "2023-07-31T08:13:19+02:00",
-    "media_id": "ynmxoaua2lu3",
+    "updated_at": "2023-07-31T08:20:38+02:00",
+    "media_id": "uhnx6yra3zxg",
     "duration": null,
     "canonical_section": {
       "id": 1779272,
@@ -259,7 +305,7 @@
     "title": "Zo win je De slimste mens: 'Bekeek NU.nl door de ogen van vragenmakers'",
     "subtitle": "NU+",
     "published_at": "2023-07-31T05:01:40+02:00",
-    "updated_at": "2023-07-31T06:51:01+02:00",
+    "updated_at": "2023-07-31T08:18:30+02:00",
     "media_id": "qwixxara2y5y",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6274557/tientallen-ontsnapte-geiten-overrompelen-buurt-in-californie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274556,
-    "slug": "denemarken-wil-maatregelen-tegen-beledigende-protestacties",
-    "type": "article",
-    "title": "Denemarken wil maatregelen tegen beledigende protestacties",
-    "subtitle": null,
-    "published_at": "2023-07-30T21:22:59+02:00",
-    "updated_at": "2023-07-31T08:12:11+02:00",
-    "media_id": "mphxmtjaz2do",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6274556/denemarken-wil-maatregelen-tegen-beledigende-protestacties.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274552,
-    "slug": "weer-trofee-van-verstappen-gesneuveld-ditmaal-door-toedoen-van-eigen-team",
-    "type": "article",
-    "title": "Wéér trofee van Verstappen gesneuveld, ditmaal door toedoen van eigen team",
-    "subtitle": null,
-    "published_at": "2023-07-30T20:28:50+02:00",
-    "updated_at": "2023-07-31T06:04:00+02:00",
-    "media_id": "eraxyhwa8pb1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP België",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6274552/weer-trofee-van-verstappen-gesneuveld-ditmaal-door-toedoen-van-eigen-team.html",
     "open_new_window": false,
     "partner": null
   }
