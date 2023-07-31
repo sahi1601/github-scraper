@@ -1,5 +1,51 @@
 [
   {
+    "id": 6274581,
+    "slug": "dinsdag-code-geel-in-groot-deel-van-het-land-wegens-onweersbuien",
+    "type": "article",
+    "title": "Dinsdag code geel in groot deel van het land wegens onweersbuien",
+    "subtitle": null,
+    "published_at": "2023-07-31T08:56:04+02:00",
+    "updated_at": "2023-07-31T08:56:05+02:00",
+    "media_id": "xx4xsotaqabe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6274581/dinsdag-code-geel-in-groot-deel-van-het-land-wegens-onweersbuien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274566,
+    "slug": "oranjescout-vloog-zelfs-naar-nepal-om-grote-onbekende-vietnam-voor-wk-te-zien",
+    "type": "article",
+    "title": "Oranjescout vloog zelfs naar Nepal om grote onbekende Vietnam voor WK te zien",
+    "subtitle": null,
+    "published_at": "2023-07-31T08:49:11+02:00",
+    "updated_at": "2023-07-31T09:03:54+02:00",
+    "media_id": "60jxnwyarpcv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779272,
+      "slug": "wk-voetbal-2023",
+      "type": "default",
+      "name": "WK voetbal 2023",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wk-voetbal-2023/6274566/oranjescout-vloog-zelfs-naar-nepal-om-grote-onbekende-vietnam-voor-wk-te-zien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274582,
     "slug": "flikkerend-x-logo-op-twitter-kantoor-maakt-omwonenden-gek",
     "type": "video",
@@ -75,7 +121,7 @@
     "title": "Zeker drie nieuwe aanvragen voor koranverbrandingen in Zweden",
     "subtitle": null,
     "published_at": "2023-07-31T08:17:41+02:00",
-    "updated_at": "2023-07-31T08:17:55+02:00",
+    "updated_at": "2023-07-31T08:53:12+02:00",
     "media_id": "k23xz23ao5um",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Oranje gaat voor groepswinst: 'Dat fans 's nachts moeten kijken, is dan maar zo'",
     "subtitle": null,
     "published_at": "2023-07-31T08:02:07+02:00",
-    "updated_at": "2023-07-31T08:39:42+02:00",
+    "updated_at": "2023-07-31T08:58:04+02:00",
     "media_id": "uhnx6yra3zxg",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6274568/verstappen-moest-zijn-hoofd-erbij-houden-hij-zat-gp-te-stangen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274562,
-    "slug": "paris-hilton-maakt-uitglijder-op-podium-van-tomorrowland",
-    "type": "video",
-    "title": "Paris Hilton maakt uitglijder op podium van Tomorrowland",
-    "subtitle": "Video",
-    "published_at": "2023-07-30T22:46:54+02:00",
-    "updated_at": "2023-07-30T22:46:56+02:00",
-    "media_id": "fzmx24dakysb",
-    "duration": "0:31",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6274562/paris-hilton-maakt-uitglijder-op-podium-van-tomorrowland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274559,
-    "slug": "engineer-vindt-verstappen-veel-te-hard-gaan",
-    "type": "audio",
-    "title": "'Engineer vindt Verstappen veel te hard gaan'",
-    "subtitle": "Podcast De Boordradio",
-    "published_at": "2023-07-30T22:09:21+02:00",
-    "updated_at": "2023-07-30T22:12:57+02:00",
-    "media_id": "36tx2lgapggp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1776659,
-      "slug": "de-boordradio",
-      "type": "default",
-      "name": "De Boordradio",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/de-boordradio/6274559/engineer-vindt-verstappen-veel-te-hard-gaan.html",
     "open_new_window": false,
     "partner": null
   }
