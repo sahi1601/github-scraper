@@ -1,5 +1,74 @@
 [
   {
+    "id": 6274763,
+    "slug": "fbi-gebruikte-zonder-het-zelf-te-weten-verboden-israelische-spionagesoftware",
+    "type": "article",
+    "title": "FBI gebruikte zonder het zelf te weten verboden Israëlische spionagesoftware",
+    "subtitle": null,
+    "published_at": "2023-08-01T12:13:06+02:00",
+    "updated_at": "2023-08-01T12:13:07+02:00",
+    "media_id": "aapxbn5aquvt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6274763/fbi-gebruikte-zonder-het-zelf-te-weten-verboden-israelische-spionagesoftware.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274764,
+    "slug": "chinese-regering-moedigt-burgers-aan-om-verdachte-personen-te-verklikken",
+    "type": "article",
+    "title": "Chinese regering moedigt burgers aan om 'verdachte personen' te verklikken",
+    "subtitle": null,
+    "published_at": "2023-08-01T12:08:59+02:00",
+    "updated_at": "2023-08-01T12:13:28+02:00",
+    "media_id": "rfxx3e1a56h1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6274764/chinese-regering-moedigt-burgers-aan-om-verdachte-personen-te-verklikken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274758,
+    "slug": "oliebedrijven-profiteren-minder-van-impact-oekraine-oorlog-op-brandstofprijzen",
+    "type": "article",
+    "title": "Oliebedrijven profiteren minder van impact Oekraïne-oorlog op brandstofprijzen",
+    "subtitle": null,
+    "published_at": "2023-08-01T11:42:13+02:00",
+    "updated_at": "2023-08-01T11:42:14+02:00",
+    "media_id": "ccexhz3aqu1w",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6274758/oliebedrijven-profiteren-minder-van-impact-oekraine-oorlog-op-brandstofprijzen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6274755,
     "slug": "europese-landen-starten-evacuaties-uit-niger-maar-nederland-wacht-nog-af",
     "type": "article",
@@ -47,12 +116,12 @@
   },
   {
     "id": 6274754,
-    "slug": "ook-pvdaer-henk-nijboer-niet-verder-als-kamerlid-zorgen-over-gl-samenwerking",
+    "slug": "ervaren-nijboer-pvda-stopt-als-kamerlid-wegens-zorgen-over-gl-samenwerking",
     "type": "article",
-    "title": "Ook PvdA'er Henk Nijboer niet verder als Kamerlid: zorgen over GL-samenwerking",
+    "title": "Ervaren Nijboer (PvdA) stopt als Kamerlid wegens zorgen over GL-samenwerking",
     "subtitle": null,
     "published_at": "2023-08-01T11:10:30+02:00",
-    "updated_at": "2023-08-01T11:10:31+02:00",
+    "updated_at": "2023-08-01T12:10:19+02:00",
     "media_id": "b69xizna9997",
     "duration": null,
     "canonical_section": {
@@ -64,7 +133,7 @@
       "media_id": "vh7x4xray27h",
       "partner": null
     },
-    "url": "/tweede-kamerverkiezingen-2023/6274754/ook-pvdaer-henk-nijboer-niet-verder-als-kamerlid-zorgen-over-gl-samenwerking.html",
+    "url": "/tweede-kamerverkiezingen-2023/6274754/ervaren-nijboer-pvda-stopt-als-kamerlid-wegens-zorgen-over-gl-samenwerking.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +144,7 @@
     "title": "Chinese dierentuin houdt poot stijf: 'Onze beer is echt'",
     "subtitle": "Video",
     "published_at": "2023-08-01T11:09:40+02:00",
-    "updated_at": "2023-08-01T11:34:13+02:00",
+    "updated_at": "2023-08-01T11:43:11+02:00",
     "media_id": "42ixu5xaze4z",
     "duration": "0:36",
     "canonical_section": {
@@ -98,8 +167,8 @@
     "title": "Titelhouder VS ontsnapt tegen Portugal en gaat net als Oranje door op WK",
     "subtitle": null,
     "published_at": "2023-08-01T10:58:41+02:00",
-    "updated_at": "2023-08-01T11:35:41+02:00",
-    "media_id": "f9yxqasa6rpa",
+    "updated_at": "2023-08-01T11:52:21+02:00",
+    "media_id": "qmdxitjafjme",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -121,8 +190,8 @@
     "title": "Oranje bereikt als groepswinnaar achtste finales WK na monsterzege op Vietnam",
     "subtitle": null,
     "published_at": "2023-08-01T10:56:57+02:00",
-    "updated_at": "2023-08-01T11:35:17+02:00",
-    "media_id": "vkvxenhaxsjq",
+    "updated_at": "2023-08-01T11:39:40+02:00",
+    "media_id": "orvxgg1a9mzk",
     "duration": null,
     "canonical_section": {
       "id": 1779272,
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/media/6274727/de-slimste-mens-begint-nieuw-seizoen-met-ruim-23-miljoen-kijkers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274725,
-    "slug": "zangeres-tori-kelly-weer-thuis-na-ic-opname-vanwege-bloedstolsels",
-    "type": "article",
-    "title": "Zangeres Tori Kelly weer thuis na ic-opname vanwege bloedstolsels",
-    "subtitle": null,
-    "published_at": "2023-08-01T08:57:38+02:00",
-    "updated_at": "2023-08-01T09:04:28+02:00",
-    "media_id": "ax3xx82as7ys",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6274725/zangeres-tori-kelly-weer-thuis-na-ic-opname-vanwege-bloedstolsels.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274724,
-    "slug": "gooide-jij-je-vakantieplannen-om-vanwege-het-slechte-weer-dan-zoeken-we-jou",
-    "type": "article",
-    "title": "Gooide jij je vakantieplannen om vanwege het slechte weer? Dan zoeken we jou",
-    "subtitle": null,
-    "published_at": "2023-08-01T08:45:21+02:00",
-    "updated_at": "2023-08-01T08:45:23+02:00",
-    "media_id": "tsbxcuaarly0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779137,
-      "slug": "vragenoproep",
-      "type": "default",
-      "name": "vragenoproep",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/vragenoproep/6274724/gooide-jij-je-vakantieplannen-om-vanwege-het-slechte-weer-dan-zoeken-we-jou.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274728,
-    "slug": "thuisbezorgd-koeriers-vervoeren-naast-een-snelle-hap-nu-ook-bodylotion",
-    "type": "article",
-    "title": "Thuisbezorgd-koeriers vervoeren naast een snelle hap nu ook bodylotion",
-    "subtitle": null,
-    "published_at": "2023-08-01T08:42:24+02:00",
-    "updated_at": "2023-08-01T08:49:41+02:00",
-    "media_id": "qztxlb5auf0n",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6274728/thuisbezorgd-koeriers-vervoeren-naast-een-snelle-hap-nu-ook-bodylotion.html",
     "open_new_window": false,
     "partner": null
   }
