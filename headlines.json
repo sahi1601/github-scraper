@@ -1,5 +1,28 @@
 [
   {
+    "id": 6275023,
+    "slug": "lufthansa-ziet-vraag-naar-vliegtickets-fors-toenemen",
+    "type": "article",
+    "title": "Lufthansa ziet vraag naar vliegtickets fors toenemen",
+    "subtitle": null,
+    "published_at": "2023-08-03T08:52:09+02:00",
+    "updated_at": "2023-08-03T08:52:11+02:00",
+    "media_id": "07lx4mmaftk0",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6275023/lufthansa-ziet-vraag-naar-vliegtickets-fors-toenemen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275022,
     "slug": "mislukte-panenka-van-memphis-in-oefenduel-atletico-nkunku-valt-uit-bij-chelsea",
     "type": "article",
@@ -167,7 +190,7 @@
     "title": "Oranje blijft in de Nederlandse nacht spelen: FIFA gaat tijden niet aanpassen",
     "subtitle": null,
     "published_at": "2023-08-03T07:28:40+02:00",
-    "updated_at": "2023-08-03T07:40:41+02:00",
+    "updated_at": "2023-08-03T08:44:48+02:00",
     "media_id": "c7rxinqal3c8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6275002/vrachtschip-wordt-waarschijnlijk-vanochtend-naar-groningse-eemshaven-gesleept.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275001,
-    "slug": "griekspoor-viert-rentree-na-wimbledon-sof-met-zege-in-tweede-ronde-washington",
-    "type": "article",
-    "title": "Griekspoor viert rentree na Wimbledon-sof met zege in tweede ronde Washington",
-    "subtitle": null,
-    "published_at": "2023-08-03T00:06:53+02:00",
-    "updated_at": "2023-08-03T08:03:07+02:00",
-    "media_id": "2ccxjqma5mdj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6275001/griekspoor-viert-rentree-na-wimbledon-sof-met-zege-in-tweede-ronde-washington.html",
     "open_new_window": false,
     "partner": null
   }
