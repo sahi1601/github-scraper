@@ -1,12 +1,58 @@
 [
   {
-    "id": 6275006,
-    "slug": "zanger-placebo-aangeklaagd-door-italiaanse-premier-na-uitspraken-op-festival",
+    "id": 6275010,
+    "slug": "uitkeringsinstantie-uwv-wist-al-drie-jaar-dat-het-de-privacy-van-mensen-schond",
     "type": "article",
-    "title": "Zanger Placebo aangeklaagd door Italiaanse premier na uitspraken op festival",
+    "title": "Uitkeringsinstantie UWV wist al drie jaar dat het de privacy van mensen schond",
+    "subtitle": null,
+    "published_at": "2023-08-03T07:04:40+02:00",
+    "updated_at": "2023-08-03T07:07:02+02:00",
+    "media_id": "5cwxbm6agyat",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6275010/uitkeringsinstantie-uwv-wist-al-drie-jaar-dat-het-de-privacy-van-mensen-schond.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6274907,
+    "slug": "stelling-ik-sta-komend-weekend-s-nachts-op-voor-oranje-zuid-afrika",
+    "type": "article",
+    "title": "Stelling: Ik sta komend weekend 's nachts op voor Oranje-Zuid-Afrika",
+    "subtitle": null,
+    "published_at": "2023-08-03T07:04:01+02:00",
+    "updated_at": "2023-08-03T07:04:02+02:00",
+    "media_id": "7vrxjidazywf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6274907/stelling-ik-sta-komend-weekend-s-nachts-op-voor-oranje-zuid-afrika.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275006,
+    "slug": "placebo-zanger-aangeklaagd-door-italiaanse-premier-na-uitspraken-op-festival",
+    "type": "article",
+    "title": "Placebo-zanger aangeklaagd door Italiaanse premier na uitspraken op festival",
     "subtitle": null,
     "published_at": "2023-08-03T06:44:36+02:00",
-    "updated_at": "2023-08-03T06:44:37+02:00",
+    "updated_at": "2023-08-03T06:49:16+02:00",
     "media_id": "g10xgyvaguro",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6275006/zanger-placebo-aangeklaagd-door-italiaanse-premier-na-uitspraken-op-festival.html",
+    "url": "/muziek/6275006/placebo-zanger-aangeklaagd-door-italiaanse-premier-na-uitspraken-op-festival.html",
     "open_new_window": false,
     "partner": null
   },
@@ -139,12 +185,12 @@
   },
   {
     "id": 6275002,
-    "slug": "vrachtschip-wordt-naar-verwachting-donderdagochtend-naar-eemshaven-gesleept",
+    "slug": "vrachtschip-wordt-waarschijnlijk-vanochtend-naar-groningse-eemshaven-gesleept",
     "type": "article",
-    "title": "Vrachtschip wordt naar verwachting donderdagochtend naar Eemshaven gesleept",
+    "title": "Vrachtschip wordt waarschijnlijk vanochtend naar Groningse Eemshaven gesleept",
     "subtitle": null,
     "published_at": "2023-08-03T00:30:02+02:00",
-    "updated_at": "2023-08-03T00:30:03+02:00",
+    "updated_at": "2023-08-03T07:05:47+02:00",
     "media_id": "7o4xs4sa6ri6",
     "duration": null,
     "canonical_section": {
@@ -156,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6275002/vrachtschip-wordt-naar-verwachting-donderdagochtend-naar-eemshaven-gesleept.html",
+    "url": "/binnenland/6275002/vrachtschip-wordt-waarschijnlijk-vanochtend-naar-groningse-eemshaven-gesleept.html",
     "open_new_window": false,
     "partner": null
   },
@@ -369,12 +415,12 @@
   },
   {
     "id": 6274991,
-    "slug": "bijna-alle-nederlanders-die-hulp-vroegen-zijn-uit-niger-geevacueerd-ambassade-gesloten",
+    "slug": "bijna-alle-nederlanders-die-hulp-wilden-uit-niger-geevacueerd-ambassade-dicht",
     "type": "article",
-    "title": "Bijna alle Nederlanders die hulp vroegen zijn uit Niger geëvacueerd, ambassade gesloten",
+    "title": "Bijna alle Nederlanders die hulp wilden uit Niger geëvacueerd, ambassade dicht",
     "subtitle": null,
     "published_at": "2023-08-02T21:34:32+02:00",
-    "updated_at": "2023-08-02T22:21:30+02:00",
+    "updated_at": "2023-08-03T06:48:52+02:00",
     "media_id": "5qgxhema8vem",
     "duration": null,
     "canonical_section": {
@@ -386,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6274991/bijna-alle-nederlanders-die-hulp-vroegen-zijn-uit-niger-geevacueerd-ambassade-gesloten.html",
+    "url": "/buitenland/6274991/bijna-alle-nederlanders-die-hulp-wilden-uit-niger-geevacueerd-ambassade-dicht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6274990/vechtende-stieren-botsen-tegen-motorrijder-in-india.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274626,
-    "slug": "vollering-kimmann-en-multitalent-van-der-poel-in-actie-dit-is-het-super-wk",
-    "type": "article",
-    "title": "Vollering, Kimmann en multitalent Van der Poel in actie: dit is het 'Super WK'",
-    "subtitle": null,
-    "published_at": "2023-08-02T21:20:37+02:00",
-    "updated_at": "2023-08-02T21:33:54+02:00",
-    "media_id": "jzsx3yuaq0uc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6274626/vollering-kimmann-en-multitalent-van-der-poel-in-actie-dit-is-het-super-wk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6274986,
-    "slug": "kolossale-walvis-die-miljoenen-jaren-terug-leefde-was-mogelijk-zwaarste-dier-ooit",
-    "type": "article",
-    "title": "Kolossale walvis die miljoenen jaren terug leefde was mogelijk zwaarste dier ooit",
-    "subtitle": null,
-    "published_at": "2023-08-02T20:29:55+02:00",
-    "updated_at": "2023-08-02T21:02:51+02:00",
-    "media_id": "e1exjs5a8wur",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6274986/kolossale-walvis-die-miljoenen-jaren-terug-leefde-was-mogelijk-zwaarste-dier-ooit.html",
     "open_new_window": false,
     "partner": null
   }
