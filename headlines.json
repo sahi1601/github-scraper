@@ -1,5 +1,28 @@
 [
   {
+    "id": 6275717,
+    "slug": "frankrijk-maakt-met-overtuigende-zege-einde-aan-verrassend-wk-debuut-marokko",
+    "type": "article",
+    "title": "Frankrijk maakt met overtuigende zege einde aan verrassend WK-debuut Marokko",
+    "subtitle": null,
+    "published_at": "2023-08-08T14:53:21+02:00",
+    "updated_at": "2023-08-08T15:12:51+02:00",
+    "media_id": "6a9x4xla0ouw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779272,
+      "slug": "wk-voetbal-2023",
+      "type": "default",
+      "name": "WK voetbal 2023",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wk-voetbal-2023/6275717/frankrijk-maakt-met-overtuigende-zege-einde-aan-verrassend-wk-debuut-marokko.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275716,
     "slug": "overstromingen-zetten-bekend-zweeds-skioord-onder-water",
     "type": "video",
@@ -185,12 +208,12 @@
   },
   {
     "id": 6275253,
-    "slug": "tottenham-hotspur-tast-diep-in-de-buidel-en-heeft-van-de-ven-binnen",
+    "slug": "nederlandse-verdediger-van-de-ven-maakt-droomtransfer-naar-tottenham-hotspur",
     "type": "article",
-    "title": "Tottenham Hotspur tast diep in de buidel en heeft Van de Ven binnen",
+    "title": "Nederlandse verdediger Van de Ven maakt droomtransfer naar Tottenham Hotspur",
     "subtitle": null,
     "published_at": "2023-08-08T13:00:14+02:00",
-    "updated_at": "2023-08-08T13:23:05+02:00",
+    "updated_at": "2023-08-08T15:13:04+02:00",
     "media_id": "0smxryiaor8r",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6275253/tottenham-hotspur-tast-diep-in-de-buidel-en-heeft-van-de-ven-binnen.html",
+    "url": "/voetbal/6275253/nederlandse-verdediger-van-de-ven-maakt-droomtransfer-naar-tottenham-hotspur.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Wiegman neemt het met Engeland op tegen Colombia in kwartfinales WK",
     "subtitle": null,
     "published_at": "2023-08-08T11:57:19+02:00",
-    "updated_at": "2023-08-08T13:45:51+02:00",
+    "updated_at": "2023-08-08T14:56:10+02:00",
     "media_id": "pc2xr2na1y0t",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Rondreizende Friends-tentoonstelling komend najaar te bezoeken in Amsterdam",
     "subtitle": null,
     "published_at": "2023-08-08T11:06:02+02:00",
-    "updated_at": "2023-08-08T11:06:05+02:00",
+    "updated_at": "2023-08-08T15:07:52+02:00",
     "media_id": "skvx2tcalou0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6275683/rondreizende-friends-tentoonstelling-komend-najaar-te-bezoeken-in-amsterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275676,
-    "slug": "evacuaties-en-aardverschuivingen-door-noodweer-in-scandinavie",
-    "type": "article",
-    "title": "Evacuaties en aardverschuivingen door noodweer in Scandinavië",
-    "subtitle": null,
-    "published_at": "2023-08-08T10:55:27+02:00",
-    "updated_at": "2023-08-08T14:06:45+02:00",
-    "media_id": "d5ex8xfa08gy",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6275676/evacuaties-en-aardverschuivingen-door-noodweer-in-scandinavie.html",
     "open_new_window": false,
     "partner": null
   }
