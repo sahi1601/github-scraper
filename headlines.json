@@ -1,5 +1,28 @@
 [
   {
+    "id": 6275920,
+    "slug": "rangers-zet-eerste-stap-naar-weerzien-met-psv-dankzij-zege-op-servette",
+    "type": "article",
+    "title": "Rangers zet eerste stap naar weerzien met PSV dankzij zege op Servette",
+    "subtitle": null,
+    "published_at": "2023-08-09T23:17:16+02:00",
+    "updated_at": "2023-08-09T23:18:24+02:00",
+    "media_id": "1ikxcfdabumk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6275920/rangers-zet-eerste-stap-naar-weerzien-met-psv-dankzij-zege-op-servette.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275919,
     "slug": "ongekend-felle-natuurbranden-op-hawai-eisen-al-zeker-zes-slachtoffers",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6275886/historische-wereldtitel-gloort-voor-vetter-door-afzegging-meerkampicoon-thiam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275890,
-    "slug": "sinds-vertrek-bolsonaro-gaat-het-een-stuk-beter-met-de-amazone",
-    "type": "video",
-    "title": "Sinds vertrek Bolsonaro gaat het een stuk beter met de Amazone",
-    "subtitle": "Explainer",
-    "published_at": "2023-08-09T18:10:34+02:00",
-    "updated_at": "2023-08-09T21:43:10+02:00",
-    "media_id": "33qx8ana9tax",
-    "duration": "1:59",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6275890/sinds-vertrek-bolsonaro-gaat-het-een-stuk-beter-met-de-amazone.html",
     "open_new_window": false,
     "partner": null
   }
