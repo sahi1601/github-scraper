@@ -1,13 +1,105 @@
 [
   {
+    "id": 6276050,
+    "slug": "coaches-kluivert-en-van-den-brom-zetten-nieuwe-stap-naar-europees-ticket",
+    "type": "article",
+    "title": "Coaches Kluivert en Van den Brom zetten nieuwe stap naar Europees ticket",
+    "subtitle": null,
+    "published_at": "2023-08-10T22:11:16+02:00",
+    "updated_at": "2023-08-10T22:11:17+02:00",
+    "media_id": "2flxryqasuji",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276050/coaches-kluivert-en-van-den-brom-zetten-nieuwe-stap-naar-europees-ticket.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276048,
+    "slug": "fc-twente-verslaat-riga-en-is-dicht-bij-tweeluik-met-fenerbahce",
+    "type": "article",
+    "title": "FC Twente verslaat Riga en is dicht bij tweeluik met Fenerbahçe",
+    "subtitle": null,
+    "published_at": "2023-08-10T21:53:35+02:00",
+    "updated_at": "2023-08-10T22:05:01+02:00",
+    "media_id": "pocxm84a38d2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276048/fc-twente-verslaat-riga-en-is-dicht-bij-tweeluik-met-fenerbahce.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276023,
+    "slug": "duitsland-komt-met-meer-hulp-oekraine-met-veilige-vaarroute",
+    "type": "article",
+    "title": "Duitsland komt met meer hulp, Oekraïne met 'veilige' vaarroute",
+    "subtitle": "Overzicht",
+    "published_at": "2023-08-10T21:51:44+02:00",
+    "updated_at": "2023-08-10T21:52:21+02:00",
+    "media_id": "axbxuspaw3lr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6276023/duitsland-komt-met-meer-hulp-oekraine-met-veilige-vaarroute.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276047,
+    "slug": "fysieke-malheur-blijft-kyrgios-achtervolgen-australier-ontbreekt-ook-op-us-open",
+    "type": "article",
+    "title": "Fysieke malheur blijft Kyrgios achtervolgen: Australiër ontbreekt óók op US Open",
+    "subtitle": null,
+    "published_at": "2023-08-10T21:50:26+02:00",
+    "updated_at": "2023-08-10T22:02:59+02:00",
+    "media_id": "ttmxn4ma1sd8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6276047/fysieke-malheur-blijft-kyrgios-achtervolgen-australier-ontbreekt-ook-op-us-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276046,
     "slug": "cda-voorzitter-hans-huibers-treedt-af-na-interne-kritiek-op-functioneren",
     "type": "article",
     "title": "CDA-voorzitter Hans Huibers treedt af na interne kritiek op functioneren",
     "subtitle": null,
     "published_at": "2023-08-10T21:40:02+02:00",
-    "updated_at": "2023-08-10T21:43:07+02:00",
-    "media_id": "aqbx0fna027a",
+    "updated_at": "2023-08-10T22:04:57+02:00",
+    "media_id": "ugoxhvnasrzv",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -29,7 +121,7 @@
     "title": "Twee mensen onwel door mogelijk drugslab in Amsterdam, woningen ontruimd",
     "subtitle": null,
     "published_at": "2023-08-10T21:18:13+02:00",
-    "updated_at": "2023-08-10T21:28:19+02:00",
+    "updated_at": "2023-08-10T21:57:01+02:00",
     "media_id": "2hdxob4aifuc",
     "duration": null,
     "canonical_section": {
@@ -277,12 +369,12 @@
   },
   {
     "id": 6276030,
-    "slug": "fc-twente-op-comfortabele-voorsprong-tegen-riga-fc",
+    "slug": "reacties-na-europese-zeges-fc-twente-en-az",
     "type": "article",
-    "title": "FC Twente op comfortabele voorsprong tegen Riga FC",
+    "title": "Reacties na Europese zeges FC Twente en AZ",
     "subtitle": "Liveblog",
     "published_at": "2023-08-10T18:20:46+02:00",
-    "updated_at": "2023-08-10T21:44:04+02:00",
+    "updated_at": "2023-08-10T21:54:59+02:00",
     "media_id": "4x0xoz3a21vq",
     "duration": null,
     "canonical_section": {
@@ -294,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6276030/fc-twente-op-comfortabele-voorsprong-tegen-riga-fc.html",
+    "url": "/voetbal/6276030/reacties-na-europese-zeges-fc-twente-en-az.html",
     "open_new_window": false,
     "partner": null
   },
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6275868/feyenoord-haalt-oude-bekende-nieuwkoop-terug-naar-de-kuip.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276013,
-    "slug": "zeldzame-bijrol-nederlandse-vrouwen-bij-wk-tijdrit-wereldtitel-voor-dygert",
-    "type": "article",
-    "title": "Zeldzame bijrol Nederlandse vrouwen bij WK tijdrit, wereldtitel voor Dygert",
-    "subtitle": null,
-    "published_at": "2023-08-10T17:33:34+02:00",
-    "updated_at": "2023-08-10T19:15:49+02:00",
-    "media_id": "o59x6ynastgo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6276013/zeldzame-bijrol-nederlandse-vrouwen-bij-wk-tijdrit-wereldtitel-voor-dygert.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275975,
-    "slug": "mboer-vindt-weg-naar-introductieweek-niet-tijd-nodig-om-ze-erbij-te-betrekken",
-    "type": "article",
-    "title": "Mbo'er vindt weg naar introductieweek niet: 'Tijd nodig om ze erbij te betrekken'",
-    "subtitle": null,
-    "published_at": "2023-08-10T17:02:18+02:00",
-    "updated_at": "2023-08-10T19:00:44+02:00",
-    "media_id": "n3nxorhab9c6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6275975/mboer-vindt-weg-naar-introductieweek-niet-tijd-nodig-om-ze-erbij-te-betrekken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276018,
-    "slug": "waarom-de-vs-extra-troepen-en-f-16s-naar-de-perzische-golf-stuurt",
-    "type": "video",
-    "title": "Waarom de VS extra troepen en F-16’s naar de Perzische Golf stuurt",
-    "subtitle": "Explainer",
-    "published_at": "2023-08-10T17:00:24+02:00",
-    "updated_at": "2023-08-10T17:31:48+02:00",
-    "media_id": "6kqxt55a2l50",
-    "duration": "2:03",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6276018/waarom-de-vs-extra-troepen-en-f-16s-naar-de-perzische-golf-stuurt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275998,
-    "slug": "het-wordt-weer-iets-warmer-dit-is-wat-een-weersverandering-met-je-doet",
-    "type": "article",
-    "title": "Het wordt weer iets warmer: dit is wat een weersverandering met je doet",
-    "subtitle": "NU+",
-    "published_at": "2023-08-10T16:56:27+02:00",
-    "updated_at": "2023-08-10T17:25:10+02:00",
-    "media_id": "b78x891a5we6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779221,
-      "slug": "nuplus",
-      "type": "default",
-      "name": "NUplus",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nuplus/6275998/het-wordt-weer-iets-warmer-dit-is-wat-een-weersverandering-met-je-doet.html",
     "open_new_window": false,
     "partner": null
   }
