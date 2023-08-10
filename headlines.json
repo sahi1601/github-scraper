@@ -1,12 +1,35 @@
 [
   {
+    "id": 6276046,
+    "slug": "cda-voorzitter-hans-huibers-treedt-af-na-interne-kritiek-op-functioneren",
+    "type": "article",
+    "title": "CDA-voorzitter Hans Huibers treedt af na interne kritiek op functioneren",
+    "subtitle": null,
+    "published_at": "2023-08-10T21:40:02+02:00",
+    "updated_at": "2023-08-10T21:43:07+02:00",
+    "media_id": "aqbx0fna027a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6276046/cda-voorzitter-hans-huibers-treedt-af-na-interne-kritiek-op-functioneren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276044,
     "slug": "twee-mensen-onwel-door-mogelijk-drugslab-in-amsterdam-woningen-ontruimd",
     "type": "article",
     "title": "Twee mensen onwel door mogelijk drugslab in Amsterdam, woningen ontruimd",
     "subtitle": null,
     "published_at": "2023-08-10T21:18:13+02:00",
-    "updated_at": "2023-08-10T21:18:14+02:00",
+    "updated_at": "2023-08-10T21:28:19+02:00",
     "media_id": "2hdxob4aifuc",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "AZ worstelt zich dankzij invaller Mihailovic naar moeizame zege in Andorra",
     "subtitle": null,
     "published_at": "2023-08-10T20:56:27+02:00",
-    "updated_at": "2023-08-10T21:22:12+02:00",
+    "updated_at": "2023-08-10T21:37:47+02:00",
     "media_id": "uc4xnf0a0j9r",
     "duration": null,
     "canonical_section": {
@@ -119,9 +142,9 @@
     "slug": "volop-extreem-weer-is-het-tij-te-keren-of-moeten-we-er-maar-aan-wennen",
     "type": "article",
     "title": "Volop extreem weer: is het tij te keren of moeten we er maar aan wennen?",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-08-10T20:01:27+02:00",
-    "updated_at": "2023-08-10T20:19:08+02:00",
+    "updated_at": "2023-08-10T21:43:49+02:00",
     "media_id": "l08xhi5at4l0",
     "duration": null,
     "canonical_section": {
@@ -254,12 +277,12 @@
   },
   {
     "id": 6276030,
-    "slug": "fc-twente-jaagt-voor-eigen-publiek-op-meer-goals-tegen-riga-fc",
+    "slug": "fc-twente-op-comfortabele-voorsprong-tegen-riga-fc",
     "type": "article",
-    "title": "FC Twente jaagt voor eigen publiek op meer goals tegen Riga FC",
+    "title": "FC Twente op comfortabele voorsprong tegen Riga FC",
     "subtitle": "Liveblog",
     "published_at": "2023-08-10T18:20:46+02:00",
-    "updated_at": "2023-08-10T21:13:44+02:00",
+    "updated_at": "2023-08-10T21:44:04+02:00",
     "media_id": "4x0xoz3a21vq",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6276030/fc-twente-jaagt-voor-eigen-publiek-op-meer-goals-tegen-riga-fc.html",
+    "url": "/voetbal/6276030/fc-twente-op-comfortabele-voorsprong-tegen-riga-fc.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/nuplus/6275998/het-wordt-weer-iets-warmer-dit-is-wat-een-weersverandering-met-je-doet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276014,
-    "slug": "domper-voor-wiegman-topscorer-na-veelbesproken-rood-pas-in-finale-inzetbaar",
-    "type": "article",
-    "title": "Domper voor Wiegman: topscorer na veelbesproken rood pas in finale inzetbaar",
-    "subtitle": null,
-    "published_at": "2023-08-10T16:12:15+02:00",
-    "updated_at": "2023-08-10T16:12:17+02:00",
-    "media_id": "2ryxxmdaqi4f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779272,
-      "slug": "wk-voetbal-2023",
-      "type": "default",
-      "name": "WK voetbal 2023",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-voetbal-2023/6276014/domper-voor-wiegman-topscorer-na-veelbesproken-rood-pas-in-finale-inzetbaar.html",
     "open_new_window": false,
     "partner": null
   }
