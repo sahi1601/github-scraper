@@ -1,28 +1,5 @@
 [
   {
-    "id": 6276050,
-    "slug": "coaches-kluivert-en-van-den-brom-zetten-nieuwe-stap-naar-europees-ticket",
-    "type": "article",
-    "title": "Coaches Kluivert en Van den Brom zetten nieuwe stap naar Europees ticket",
-    "subtitle": null,
-    "published_at": "2023-08-10T22:11:16+02:00",
-    "updated_at": "2023-08-10T22:11:17+02:00",
-    "media_id": "2flxryqasuji",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6276050/coaches-kluivert-en-van-den-brom-zetten-nieuwe-stap-naar-europees-ticket.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6276048,
     "slug": "fc-twente-verslaat-riga-en-is-dicht-bij-tweeluik-met-fenerbahce",
     "type": "article",
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/voetbal/6275868/feyenoord-haalt-oude-bekende-nieuwkoop-terug-naar-de-kuip.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276013,
+    "slug": "zeldzame-bijrol-nederlandse-vrouwen-bij-wk-tijdrit-wereldtitel-voor-dygert",
+    "type": "article",
+    "title": "Zeldzame bijrol Nederlandse vrouwen bij WK tijdrit, wereldtitel voor Dygert",
+    "subtitle": null,
+    "published_at": "2023-08-10T17:33:34+02:00",
+    "updated_at": "2023-08-10T19:15:49+02:00",
+    "media_id": "o59x6ynastgo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6276013/zeldzame-bijrol-nederlandse-vrouwen-bij-wk-tijdrit-wereldtitel-voor-dygert.html",
     "open_new_window": false,
     "partner": null
   }
