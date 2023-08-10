@@ -1,5 +1,51 @@
 [
   {
+    "id": 6275938,
+    "slug": "industrie-in-mineur-nu-productie-al-zes-maanden-op-rij-krimpt",
+    "type": "article",
+    "title": "Industrie in mineur nu productie al zes maanden op rij krimpt",
+    "subtitle": null,
+    "published_at": "2023-08-10T07:25:14+02:00",
+    "updated_at": "2023-08-10T07:25:15+02:00",
+    "media_id": "v5pxttgakdq4",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6275938/industrie-in-mineur-nu-productie-al-zes-maanden-op-rij-krimpt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6275936,
+    "slug": "verkeer-wordt-steeds-onveilger-meer-mensen-de-weg-op-zonder-geldig-rijbewijs",
+    "type": "article",
+    "title": "Verkeer wordt steeds onveilger: meer mensen de weg op zonder geldig rijbewijs",
+    "subtitle": null,
+    "published_at": "2023-08-10T07:12:54+02:00",
+    "updated_at": "2023-08-10T07:12:55+02:00",
+    "media_id": "gcvxahza2k6a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6275936/verkeer-wordt-steeds-onveilger-meer-mensen-de-weg-op-zonder-geldig-rijbewijs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275887,
     "slug": "stelling-als-er-dit-weekend-vallende-sterren-te-zien-zijn-ga-ik-naar-buiten",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Beerensteyn geeft trap na aan uitgeschakeld VS: 'Wat ik dacht? Yes, doei!'",
     "subtitle": null,
     "published_at": "2023-08-10T06:42:41+02:00",
-    "updated_at": "2023-08-10T06:45:24+02:00",
+    "updated_at": "2023-08-10T07:14:24+02:00",
     "media_id": "qzsxrvia0yjo",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Jonker wint harten na jaren als pispaal: 'WK als genoegdoening? Nee hoor'",
     "subtitle": "NU+",
     "published_at": "2023-08-10T05:50:04+02:00",
-    "updated_at": "2023-08-10T06:46:18+02:00",
+    "updated_at": "2023-08-10T07:10:34+02:00",
     "media_id": "nfex4xvan4ca",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Van Dongen traint niet met Oranje en lijkt kwartfinale tegen Spanje te missen",
     "subtitle": null,
     "published_at": "2023-08-10T05:20:19+02:00",
-    "updated_at": "2023-08-10T05:24:07+02:00",
+    "updated_at": "2023-08-10T07:15:10+02:00",
     "media_id": "z7dxxyjaqd8n",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6275920/rangers-zet-eerste-stap-naar-weerzien-met-psv-dankzij-zege-op-servette.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275919,
-    "slug": "ongekend-felle-natuurbranden-op-hawai-eisen-al-zeker-zes-slachtoffers",
-    "type": "article",
-    "title": "'Ongekend' felle natuurbranden op Hawaï eisen al zeker zes slachtoffers",
-    "subtitle": null,
-    "published_at": "2023-08-09T23:04:15+02:00",
-    "updated_at": "2023-08-09T23:09:46+02:00",
-    "media_id": "vrrx1osacc36",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6275919/ongekend-felle-natuurbranden-op-hawai-eisen-al-zeker-zes-slachtoffers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275917,
-    "slug": "the-band-muzikant-robbie-robertson-overleden-op-tachtigjarige-leeftijd",
-    "type": "article",
-    "title": "The Band-muzikant Robbie Robertson overleden op tachtigjarige leeftijd",
-    "subtitle": null,
-    "published_at": "2023-08-09T22:39:38+02:00",
-    "updated_at": "2023-08-10T06:42:29+02:00",
-    "media_id": "xirxw4iafail",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6275917/the-band-muzikant-robbie-robertson-overleden-op-tachtigjarige-leeftijd.html",
     "open_new_window": false,
     "partner": null
   }
