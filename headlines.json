@@ -1,12 +1,35 @@
 [
   {
+    "id": 6275570,
+    "slug": "alvarez-rondt-transfer-naar-west-ham-af-ajax-kan-ruim-41-miljoen-verdienen",
+    "type": "article",
+    "title": "Álvarez rondt transfer naar West Ham af: Ajax kan ruim 41 miljoen verdienen",
+    "subtitle": null,
+    "published_at": "2023-08-10T13:10:02+02:00",
+    "updated_at": "2023-08-10T13:20:56+02:00",
+    "media_id": "ik9xhgkalyg3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6275570/alvarez-rondt-transfer-naar-west-ham-af-ajax-kan-ruim-41-miljoen-verdienen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6275987,
     "slug": "zinkgat-van-6-meter-breed-verstoort-verkeer-in-belgische-stad",
     "type": "video",
     "title": "Zinkgat van 6 meter breed verstoort verkeer in Belgische stad",
     "subtitle": "Video",
     "published_at": "2023-08-10T13:03:52+02:00",
-    "updated_at": "2023-08-10T13:03:54+02:00",
+    "updated_at": "2023-08-10T13:11:41+02:00",
     "media_id": "130xezpa8fyp",
     "duration": "0:42",
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Bij Oranjeopponent Spanje lopen de speelsters op eieren na opstand tegen coach",
     "subtitle": null,
     "published_at": "2023-08-10T12:15:59+02:00",
-    "updated_at": "2023-08-10T12:27:11+02:00",
+    "updated_at": "2023-08-10T13:21:45+02:00",
     "media_id": "oujxauvaakic",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6275961/festival-tuckerville-van-ilse-delange-stopt-na-komende-editie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275960,
-    "slug": "uitgebrande-autos-kunnen-niet-van-vrachtschip-in-eemshaven-worden-gehaald",
-    "type": "article",
-    "title": "Uitgebrande auto's kunnen niet van vrachtschip in Eemshaven worden gehaald",
-    "subtitle": null,
-    "published_at": "2023-08-10T10:39:37+02:00",
-    "updated_at": "2023-08-10T12:21:03+02:00",
-    "media_id": "zfixc08a3ux2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6275960/uitgebrande-autos-kunnen-niet-van-vrachtschip-in-eemshaven-worden-gehaald.html",
     "open_new_window": false,
     "partner": null
   }
