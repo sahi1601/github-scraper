@@ -1,5 +1,51 @@
 [
   {
+    "id": 6276076,
+    "slug": "oppenheimer-grootste-succes-van-regisseur-christopher-nolan-in-nederland",
+    "type": "article",
+    "title": "Oppenheimer grootste succes van regisseur Christopher Nolan in Nederland",
+    "subtitle": null,
+    "published_at": "2023-08-11T09:13:49+02:00",
+    "updated_at": "2023-08-11T09:16:05+02:00",
+    "media_id": "bnix26oa65jw",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6276076/oppenheimer-grootste-succes-van-regisseur-christopher-nolan-in-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6276078,
+    "slug": "de-volksbank-krijgt-boete-omdat-ze-niet-genoeg-doet-tegen-witwassen",
+    "type": "article",
+    "title": "De Volksbank krijgt boete omdat ze niet genoeg doet tegen witwassen",
+    "subtitle": null,
+    "published_at": "2023-08-11T09:12:14+02:00",
+    "updated_at": "2023-08-11T09:18:06+02:00",
+    "media_id": "dqcxtmlarda9",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6276078/de-volksbank-krijgt-boete-omdat-ze-niet-genoeg-doet-tegen-witwassen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276069,
     "slug": "geweldsgolf-in-rotterdam-houdt-aan-met-schietpartij-steekincident-en-explosie",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Enorme brand bij Albert Heijn in Haarlem, hele supermarkt gaat in vlammen op",
     "subtitle": null,
     "published_at": "2023-08-11T09:04:46+02:00",
-    "updated_at": "2023-08-11T09:07:33+02:00",
+    "updated_at": "2023-08-11T09:18:59+02:00",
     "media_id": "w3axxe0anqz2",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6276061/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276060,
-    "slug": "dodental-door-natuurbrand-in-toeristische-stad-in-hawai-blijft-oplopen",
-    "type": "article",
-    "title": "Dodental door natuurbrand in toeristische stad in Hawaï blijft oplopen",
-    "subtitle": null,
-    "published_at": "2023-08-11T05:20:01+02:00",
-    "updated_at": "2023-08-11T08:55:02+02:00",
-    "media_id": "fvfxc4va5l39",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6276060/dodental-door-natuurbrand-in-toeristische-stad-in-hawai-blijft-oplopen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275880,
-    "slug": "jullie-vragen-beantwoord-waar-in-europa-is-weinig-kans-op-noodweer",
-    "type": "article",
-    "title": "Jullie vragen beantwoord: 'Waar in Europa is weinig kans op noodweer?'",
-    "subtitle": "NU+",
-    "published_at": "2023-08-11T05:02:04+02:00",
-    "updated_at": "2023-08-11T07:01:56+02:00",
-    "media_id": "f1fxms1amh5v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779135,
-      "slug": "vragenuur",
-      "type": "default",
-      "name": "Q&A's",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/vragenuur/6275880/jullie-vragen-beantwoord-waar-in-europa-is-weinig-kans-op-noodweer.html",
     "open_new_window": false,
     "partner": null
   }
