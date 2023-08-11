@@ -1,12 +1,35 @@
 [
   {
+    "id": 6276075,
+    "slug": "toptransfer-nadert-voltooiing-kane-wordt-vrijdag-medisch-gekeurd-door-bayern",
+    "type": "article",
+    "title": "Toptransfer nadert voltooiing: Kane wordt vrijdag medisch gekeurd door Bayern",
+    "subtitle": null,
+    "published_at": "2023-08-11T08:29:52+02:00",
+    "updated_at": "2023-08-11T08:29:53+02:00",
+    "media_id": "ayaxsk5aueob",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276075/toptransfer-nadert-voltooiing-kane-wordt-vrijdag-medisch-gekeurd-door-bayern.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276072,
     "slug": "taylor-swift-geeft-chauffeurs-bij-tour-allemaal-bonus-van-ruim-90000-euro",
     "type": "article",
     "title": "Taylor Swift geeft chauffeurs bij tour allemaal bonus van ruim 90.000 euro",
     "subtitle": null,
     "published_at": "2023-08-11T08:23:22+02:00",
-    "updated_at": "2023-08-11T08:23:23+02:00",
+    "updated_at": "2023-08-11T08:42:33+02:00",
     "media_id": "cohxd3ra1krw",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Oranje strandt in kwartfinales WK na meeslepend gevecht met Spanje",
     "subtitle": null,
     "published_at": "2023-08-11T05:44:16+02:00",
-    "updated_at": "2023-08-11T08:01:51+02:00",
+    "updated_at": "2023-08-11T08:31:02+02:00",
     "media_id": "gnrxwoda8jf9",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Vlak voor kwartfinale Spanje-Nederland lichte aardbeving gevoeld in stadion",
     "subtitle": null,
     "published_at": "2023-08-11T02:40:11+02:00",
-    "updated_at": "2023-08-11T08:24:40+02:00",
+    "updated_at": "2023-08-11T08:43:48+02:00",
     "media_id": "t38xp23aj89w",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal-2023/6276059/vlak-voor-kwartfinale-spanje-nederland-lichte-aardbeving-gevoeld-in-stadion.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276056,
-    "slug": "egurrola-vervangt-geschorste-van-de-donk-bij-oranje-in-kwartfinale-tegen-spanje",
-    "type": "article",
-    "title": "Egurrola vervangt geschorste Van de Donk bij Oranje in kwartfinale tegen Spanje",
-    "subtitle": null,
-    "published_at": "2023-08-11T01:47:05+02:00",
-    "updated_at": "2023-08-11T07:59:41+02:00",
-    "media_id": "5pfxe62asnc0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779272,
-      "slug": "wk-voetbal-2023",
-      "type": "default",
-      "name": "WK voetbal 2023",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wk-voetbal-2023/6276056/egurrola-vervangt-geschorste-van-de-donk-bij-oranje-in-kwartfinale-tegen-spanje.html",
     "open_new_window": false,
     "partner": null
   }
