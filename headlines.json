@@ -1,13 +1,36 @@
 [
   {
+    "id": 6276063,
+    "slug": "weerbericht-haal-de-zonnebrand-weer-uit-de-kast-want-het-wordt-zomers",
+    "type": "article",
+    "title": "Weerbericht: Haal de zonnebrand weer uit de kast want het wordt zomers",
+    "subtitle": null,
+    "published_at": "2023-08-11T05:44:50+02:00",
+    "updated_at": "2023-08-11T05:44:51+02:00",
+    "media_id": "ojtxip1a60nx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6276063/weerbericht-haal-de-zonnebrand-weer-uit-de-kast-want-het-wordt-zomers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276058,
     "slug": "oranje-strandt-in-kwartfinales-wk-na-meeslepend-gevecht-met-spanje",
     "type": "article",
     "title": "Oranje strandt in kwartfinales WK na meeslepend gevecht met Spanje",
     "subtitle": null,
     "published_at": "2023-08-11T05:44:16+02:00",
-    "updated_at": "2023-08-11T05:44:22+02:00",
-    "media_id": "3u2xeu8are74",
+    "updated_at": "2023-08-11T05:58:39+02:00",
+    "media_id": "bprxy3ra0v7o",
     "duration": null,
     "canonical_section": {
       "id": 1779272,
@@ -167,7 +190,7 @@
     "title": "Vlak voor kwartfinale Spanje-Nederland lichte aardbeving gevoeld in stadion",
     "subtitle": null,
     "published_at": "2023-08-11T02:40:11+02:00",
-    "updated_at": "2023-08-11T03:00:00+02:00",
+    "updated_at": "2023-08-11T05:47:44+02:00",
     "media_id": "t38xp23aj89w",
     "duration": null,
     "canonical_section": {
@@ -213,8 +236,8 @@
     "title": "Reacties op de uitschakeling van Oranje in de kwartfinales van het WK",
     "subtitle": "Liveblog",
     "published_at": "2023-08-11T01:42:55+02:00",
-    "updated_at": "2023-08-11T05:44:24+02:00",
-    "media_id": "3u2xeu8are74",
+    "updated_at": "2023-08-11T05:48:46+02:00",
+    "media_id": "ishxnqual2ch",
     "duration": null,
     "canonical_section": {
       "id": 1779272,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6276047/fysieke-malheur-blijft-kyrgios-achtervolgen-australier-ontbreekt-ook-op-us-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276046,
-    "slug": "cda-voorzitter-hans-huibers-treedt-af-na-interne-kritiek-op-functioneren",
-    "type": "article",
-    "title": "CDA-voorzitter Hans Huibers treedt af na interne kritiek op functioneren",
-    "subtitle": null,
-    "published_at": "2023-08-10T21:40:02+02:00",
-    "updated_at": "2023-08-10T22:15:28+02:00",
-    "media_id": "ugoxhvnasrzv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6276046/cda-voorzitter-hans-huibers-treedt-af-na-interne-kritiek-op-functioneren.html",
     "open_new_window": false,
     "partner": null
   }
