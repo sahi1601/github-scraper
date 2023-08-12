@@ -1,5 +1,28 @@
 [
   {
+    "id": 6276306,
+    "slug": "stank-in-tiel-komt-door-stof-die-aardgas-zijn-kenmerkende-geur-geeft",
+    "type": "article",
+    "title": "Stank in Tiel komt door stof die aardgas zijn kenmerkende geur geeft",
+    "subtitle": null,
+    "published_at": "2023-08-12T18:18:18+02:00",
+    "updated_at": "2023-08-12T18:18:19+02:00",
+    "media_id": "qccxrr6a4jsn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6276306/stank-in-tiel-komt-door-stof-die-aardgas-zijn-kenmerkende-geur-geeft.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276303,
     "slug": "wiegman-kijkt-uit-naar-intense-wk-clash-tussen-engeland-en-gastland-australie",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Van der Poel boos op zichzelf na domme fout: 'Euforie van zondag nu deels weg'",
     "subtitle": null,
     "published_at": "2023-08-12T17:40:42+02:00",
-    "updated_at": "2023-08-12T18:15:24+02:00",
+    "updated_at": "2023-08-12T18:25:32+02:00",
     "media_id": "r9gxjfaaxrzo",
     "duration": null,
     "canonical_section": {
@@ -213,8 +236,8 @@
     "title": "Vertessen vergroot voorsprong PSV tegen FC Utrecht",
     "subtitle": "Liveblog",
     "published_at": "2023-08-12T15:52:09+02:00",
-    "updated_at": "2023-08-12T18:10:53+02:00",
-    "media_id": "vsnxzbsabq38",
+    "updated_at": "2023-08-12T18:16:02+02:00",
+    "media_id": "ocsx4yoavh4i",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6276277/weerrecord-in-marokko-voor-eerste-keer-in-geschiedenis-meer-dan-50-graden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276275,
-    "slug": "pieterse-grijpt-knap-brons-tijdens-frans-feestje-op-wk-mountainbike",
-    "type": "article",
-    "title": "Pieterse grijpt knap brons tijdens Frans feestje op WK mountainbike",
-    "subtitle": null,
-    "published_at": "2023-08-12T14:01:02+02:00",
-    "updated_at": "2023-08-12T17:36:08+02:00",
-    "media_id": "l0jx6vbaud4e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6276275/pieterse-grijpt-knap-brons-tijdens-frans-feestje-op-wk-mountainbike.html",
     "open_new_window": false,
     "partner": null
   }
