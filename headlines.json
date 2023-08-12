@@ -1,12 +1,35 @@
 [
   {
+    "id": 6276252,
+    "slug": "man-40-aangehouden-nadat-hij-twee-kinderen-met-nepwapens-bedreigde",
+    "type": "article",
+    "title": "Man (40) aangehouden nadat hij twee kinderen met nepwapens bedreigde",
+    "subtitle": null,
+    "published_at": "2023-08-12T11:37:30+02:00",
+    "updated_at": "2023-08-12T11:37:31+02:00",
+    "media_id": "iarxa5sakwoj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6276252/man-40-aangehouden-nadat-hij-twee-kinderen-met-nepwapens-bedreigde.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276247,
     "slug": "dolfijn-zwemt-door-lichtgevende-algen-in-florida",
     "type": "video",
     "title": "Dolfijn zwemt door lichtgevende algen in Florida",
     "subtitle": "Video",
     "published_at": "2023-08-12T11:22:09+02:00",
-    "updated_at": "2023-08-12T11:22:09+02:00",
+    "updated_at": "2023-08-12T11:24:54+02:00",
     "media_id": "t2uxp0pav9hm",
     "duration": "0:52",
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Acteur Channing Tatum is aan het schilderen geslagen en deelt resultaat",
     "subtitle": null,
     "published_at": "2023-08-12T11:18:58+02:00",
-    "updated_at": "2023-08-12T11:18:59+02:00",
+    "updated_at": "2023-08-12T11:24:32+02:00",
     "media_id": "bbbx3ora1dli",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Britse strandgangers ontsnappen nipt als klif instort",
     "subtitle": "Video",
     "published_at": "2023-08-12T10:18:44+02:00",
-    "updated_at": "2023-08-12T10:40:34+02:00",
+    "updated_at": "2023-08-12T11:25:17+02:00",
     "media_id": "oq8x21santol",
     "duration": "0:33",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal-2023/6276219/ook-na-knap-herstelwerk-van-jonker-was-oranje-te-licht-voor-strijd-om-titel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276217,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-08-12T05:20:44+02:00",
-    "updated_at": "2023-08-12T05:20:45+02:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6276217/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
