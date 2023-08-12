@@ -1,12 +1,35 @@
 [
   {
+    "id": 6276285,
+    "slug": "timber-verlaat-geblesseerd-het-veld-bij-competitiedebuut-voor-arsenal",
+    "type": "article",
+    "title": "Timber verlaat geblesseerd het veld bij competitiedebuut voor Arsenal",
+    "subtitle": null,
+    "published_at": "2023-08-12T15:21:22+02:00",
+    "updated_at": "2023-08-12T15:21:23+02:00",
+    "media_id": "rcbxt4la4xm5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276285/timber-verlaat-geblesseerd-het-veld-bij-competitiedebuut-voor-arsenal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276283,
     "slug": "na-regen-staat-er-weer-tropische-hitte-voor-de-deur-meer-dan-30-graden",
     "type": "article",
     "title": "Na regen staat er weer tropische hitte voor de deur: méér dan 30 graden",
     "subtitle": null,
     "published_at": "2023-08-12T15:01:36+02:00",
-    "updated_at": "2023-08-12T15:01:37+02:00",
+    "updated_at": "2023-08-12T15:11:24+02:00",
     "media_id": "nxnxx9yaiglm",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Antoon worstelt met succes: 'Ik was liever een 21-jarige zonder carrière'",
     "subtitle": null,
     "published_at": "2023-08-12T13:32:59+02:00",
-    "updated_at": "2023-08-12T14:42:08+02:00",
+    "updated_at": "2023-08-12T15:22:12+02:00",
     "media_id": "a9bxvllahkru",
     "duration": null,
     "canonical_section": {
@@ -392,12 +415,12 @@
   },
   {
     "id": 6275981,
-    "slug": "aachboun-na-chantage-john-de-mol-ook-vervolgd-voor-smaad-tegen-advocaat-diekstra",
+    "slug": "aachboun-na-chantage-john-de-mol-ook-vervolgd-voor-smaad-advocaat-diekstra",
     "type": "article",
-    "title": "Aachboun na chantage John de Mol ook vervolgd voor smaad tegen advocaat Diekstra",
+    "title": "Aachboun na chantage John de Mol ook vervolgd voor smaad advocaat Diekstra",
     "subtitle": null,
     "published_at": "2023-08-12T11:49:57+02:00",
-    "updated_at": "2023-08-12T14:29:45+02:00",
+    "updated_at": "2023-08-12T15:14:51+02:00",
     "media_id": "ku7x3k1av6bp",
     "duration": null,
     "canonical_section": {
@@ -409,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6275981/aachboun-na-chantage-john-de-mol-ook-vervolgd-voor-smaad-tegen-advocaat-diekstra.html",
+    "url": "/binnenland/6275981/aachboun-na-chantage-john-de-mol-ook-vervolgd-voor-smaad-advocaat-diekstra.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6276255/zoon-robin-williams-herdenkt-vader-op-sterfdag-deze-dagen-zijn-altijd-moeilijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276252,
-    "slug": "zuid-hollander-aangehouden-omdat-hij-twee-kinderen-met-nepwapen-bedreigde",
-    "type": "article",
-    "title": "Zuid-Hollander aangehouden omdat hij twee kinderen met nepwapen bedreigde",
-    "subtitle": null,
-    "published_at": "2023-08-12T11:37:30+02:00",
-    "updated_at": "2023-08-12T11:51:53+02:00",
-    "media_id": "iarxa5sakwoj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6276252/zuid-hollander-aangehouden-omdat-hij-twee-kinderen-met-nepwapen-bedreigde.html",
     "open_new_window": false,
     "partner": null
   }
