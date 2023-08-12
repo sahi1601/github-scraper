@@ -1,5 +1,28 @@
 [
   {
+    "id": 6276224,
+    "slug": "scorende-messi-blijft-met-inter-miami-in-race-voor-eerste-prijs-in-clubhistorie",
+    "type": "article",
+    "title": "Scorende Messi blijft met Inter Miami in race voor eerste prijs in clubhistorie",
+    "subtitle": null,
+    "published_at": "2023-08-12T08:16:20+02:00",
+    "updated_at": "2023-08-12T08:16:22+02:00",
+    "media_id": "cqqx8ffahvhp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276224/scorende-messi-blijft-met-inter-miami-in-race-voor-eerste-prijs-in-clubhistorie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276223,
     "slug": "ftx-oprichter-bankman-fried-opnieuw-in-de-boeien-geslagen",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Waarschuwingssirenes werden niet geactiveerd toen brand op Maui begon",
     "subtitle": null,
     "published_at": "2023-08-12T07:09:19+02:00",
-    "updated_at": "2023-08-12T07:15:34+02:00",
+    "updated_at": "2023-08-12T08:16:46+02:00",
     "media_id": "mwsxl2ua6qsm",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6276178,
-    "slug": "waar-worden-de-droneaanvallen-in-rusland-gepleegd",
+    "slug": "hier-wordt-rusland-op-eigen-gebied-geraakt-door-droneaanvallen",
     "type": "video",
-    "title": "Waar worden de droneaanvallen in Rusland gepleegd?",
+    "title": "Hier wordt Rusland op eigen gebied geraakt door droneaanvallen",
     "subtitle": "Explainer",
     "published_at": "2023-08-12T06:46:38+02:00",
-    "updated_at": "2023-08-12T06:46:40+02:00",
+    "updated_at": "2023-08-12T08:23:37+02:00",
     "media_id": "r5rxhc8a1c68",
     "duration": "1:33",
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6276178/waar-worden-de-droneaanvallen-in-rusland-gepleegd.html",
+    "url": "/spanningen-oekraine/6276178/hier-wordt-rusland-op-eigen-gebied-geraakt-door-droneaanvallen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Weerbericht: Eerst nog buien, daarna een mooie zomerdag met veel zon",
     "subtitle": null,
     "published_at": "2023-08-12T05:57:46+02:00",
-    "updated_at": "2023-08-12T06:07:08+02:00",
+    "updated_at": "2023-08-12T08:21:04+02:00",
     "media_id": "l3oxu0faaz1o",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6276211/vincent-janssen-leidt-antwerp-en-van-bommel-met-hattrick-naar-klinkende-zege.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276210,
-    "slug": "ajax-verkoopt-daramy-voor-minimaal-12-miljoen-euro-aan-stade-de-reims",
-    "type": "article",
-    "title": "Ajax verkoopt Daramy voor minimaal 12 miljoen euro aan Stade de Reims",
-    "subtitle": null,
-    "published_at": "2023-08-11T22:36:55+02:00",
-    "updated_at": "2023-08-11T23:25:38+02:00",
-    "media_id": "z2mxcxna3lza",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6276210/ajax-verkoopt-daramy-voor-minimaal-12-miljoen-euro-aan-stade-de-reims.html",
     "open_new_window": false,
     "partner": null
   }
