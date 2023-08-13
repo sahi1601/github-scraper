@@ -1,13 +1,36 @@
 [
   {
+    "id": 6276387,
+    "slug": "van-de-ven-beleeft-met-eigen-goal-ongelukkig-debuut-bij-puntenverlies-spurs",
+    "type": "article",
+    "title": "Van de Ven beleeft met eigen goal ongelukkig debuut bij puntenverlies Spurs",
+    "subtitle": null,
+    "published_at": "2023-08-13T17:08:22+02:00",
+    "updated_at": "2023-08-13T17:10:08+02:00",
+    "media_id": "fmhxagparoyc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6276387/van-de-ven-beleeft-met-eigen-goal-ongelukkig-debuut-bij-puntenverlies-spurs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276386,
     "slug": "valse-start-voor-feyenoord-landskampioen-na-snelle-rode-kaart-niet-langs-fortuna",
     "type": "article",
     "title": "Valse start voor Feyenoord: landskampioen na snelle rode kaart niet langs Fortuna",
     "subtitle": null,
     "published_at": "2023-08-13T16:30:22+02:00",
-    "updated_at": "2023-08-13T16:36:47+02:00",
-    "media_id": "e16x26la06pl",
+    "updated_at": "2023-08-13T17:00:50+02:00",
+    "media_id": "u32x3vtavjdo",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6276366/zonnig-weer-zorgt-eindelijk-voor-zomerdrukte-bij-pretparken-en-strandtenten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6275993,
-    "slug": "kunstenaar-achter-obama-portret-streetart-hoort-in-publieke-ruimte-thuis",
-    "type": "article",
-    "title": "Kunstenaar achter Obama-portret: 'Streetart hoort in publieke ruimte thuis'",
-    "subtitle": "NU+",
-    "published_at": "2023-08-13T13:10:51+02:00",
-    "updated_at": "2023-08-13T13:22:18+02:00",
-    "media_id": "etaxr6mazy0t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6275993/kunstenaar-achter-obama-portret-streetart-hoort-in-publieke-ruimte-thuis.html",
     "open_new_window": false,
     "partner": null
   }
