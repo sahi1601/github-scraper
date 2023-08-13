@@ -1,5 +1,28 @@
 [
   {
+    "id": 6276334,
+    "slug": "zelensky-in-videoboodschap-nederlanders-bedankt",
+    "type": "video",
+    "title": "Zelensky in videoboodschap: 'Nederlanders bedankt!'",
+    "subtitle": "Video",
+    "published_at": "2023-08-13T08:17:15+02:00",
+    "updated_at": "2023-08-13T08:22:29+02:00",
+    "media_id": "acgxsryacr9p",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6276334/zelensky-in-videoboodschap-nederlanders-bedankt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276284,
     "slug": "stelling-ik-vertrouw-meer-op-een-relatief-onbekende-lijsttrekker-dan-op-een-bekend-gezicht",
     "type": "article",
@@ -236,7 +259,7 @@
     "title": "In South Holland (niet Zuid-Holland) mag voor het eerst alcohol verkocht worden",
     "subtitle": null,
     "published_at": "2023-08-13T01:19:20+02:00",
-    "updated_at": "2023-08-13T08:06:10+02:00",
+    "updated_at": "2023-08-13T08:21:50+02:00",
     "media_id": "3lix2epag1yf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6276318/renee-soutendijk-wint-prijs-voor-beste-acteerprestatie-op-filmfestival-locarno.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276317,
-    "slug": "sparta-begint-met-winst-bij-promovendus-pec-eenvoudige-zege-heerenveen",
-    "type": "article",
-    "title": "Sparta begint met winst bij promovendus PEC, eenvoudige zege Heerenveen",
-    "subtitle": null,
-    "published_at": "2023-08-12T20:50:13+02:00",
-    "updated_at": "2023-08-12T23:14:35+02:00",
-    "media_id": "qnfx2ugaaai5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6276317/sparta-begint-met-winst-bij-promovendus-pec-eenvoudige-zege-heerenveen.html",
     "open_new_window": false,
     "partner": null
   }
