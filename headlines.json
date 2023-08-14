@@ -1,5 +1,28 @@
 [
   {
+    "id": 6276540,
+    "slug": "russische-roebel-daalt-en-daalt-russische-bommenwerpers-onderschept",
+    "type": "article",
+    "title": "Russische roebel daalt en daalt, Russische bommenwerpers onderschept",
+    "subtitle": null,
+    "published_at": "2023-08-14T22:13:33+02:00",
+    "updated_at": "2023-08-14T22:14:46+02:00",
+    "media_id": "7ayxpboax7um",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6276540/russische-roebel-daalt-en-daalt-russische-bommenwerpers-onderschept.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276539,
     "slug": "jong-psv-opent-seizoen-met-debutant-tillman-en-minieme-zege-op-telstar",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6276510/zweedse-bondscoach-loopt-per-ongeluk-bezemkast-in-na-persconferentie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276505,
-    "slug": "ook-britten-onderscheppen-russische-bommenwerpers-richting-navo-luchtruim",
-    "type": "article",
-    "title": "Ook Britten onderscheppen Russische bommenwerpers richting NAVO-luchtruim",
-    "subtitle": null,
-    "published_at": "2023-08-14T17:57:22+02:00",
-    "updated_at": "2023-08-14T18:01:43+02:00",
-    "media_id": "nzlx1y2ake7h",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6276505/ook-britten-onderscheppen-russische-bommenwerpers-richting-navo-luchtruim.html",
     "open_new_window": false,
     "partner": null
   }
