@@ -1,12 +1,35 @@
 [
   {
+    "id": 6276630,
+    "slug": "voormalige-team-sky-arts-freeman-4-jaar-geschorst-voor-overtreden-dopingregels",
+    "type": "article",
+    "title": "Voormalige Team Sky-arts Freeman 4 jaar geschorst voor overtreden dopingregels",
+    "subtitle": null,
+    "published_at": "2023-08-15T16:13:54+02:00",
+    "updated_at": "2023-08-15T16:13:56+02:00",
+    "media_id": "cgixyh5am9sx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6276630/voormalige-team-sky-arts-freeman-4-jaar-geschorst-voor-overtreden-dopingregels.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276627,
     "slug": "dronebeelden-tonen-zuid-franse-camping-in-as-na-bosbrand",
     "type": "video",
     "title": "Dronebeelden tonen Zuid-Franse camping in as na bosbrand",
     "subtitle": "Video",
     "published_at": "2023-08-15T15:54:10+02:00",
-    "updated_at": "2023-08-15T16:05:17+02:00",
+    "updated_at": "2023-08-15T16:24:08+02:00",
     "media_id": "jhaxkflaqlcr",
     "duration": "0:45",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal-2023/6276595/spaanse-voetbalsters-vol-emotie-na-historische-dag-dit-team-kan-alles-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276594,
-    "slug": "verstappen-presenteert-speciale-helm-voor-gp-van-zandvoort",
-    "type": "video",
-    "title": "Verstappen presenteert speciale helm voor GP van Zandvoort",
-    "subtitle": "Video",
-    "published_at": "2023-08-15T12:45:56+02:00",
-    "updated_at": "2023-08-15T12:45:57+02:00",
-    "media_id": "el3xagpaful7",
-    "duration": "0:51",
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6276594/verstappen-presenteert-speciale-helm-voor-gp-van-zandvoort.html",
     "open_new_window": false,
     "partner": null
   }
