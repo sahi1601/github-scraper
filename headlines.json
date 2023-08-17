@@ -1,5 +1,28 @@
 [
   {
+    "id": 6276873,
+    "slug": "verkeer-rond-festivalterrein-lowlands-staat-donderdagochtend-al-vast",
+    "type": "article",
+    "title": "Verkeer rond festivalterrein Lowlands staat donderdagochtend al vast",
+    "subtitle": null,
+    "published_at": "2023-08-17T11:17:12+02:00",
+    "updated_at": "2023-08-17T11:17:13+02:00",
+    "media_id": "tmexmeua9sf2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6276873/verkeer-rond-festivalterrein-lowlands-staat-donderdagochtend-al-vast.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276866,
     "slug": "wat-wil-jij-weten-over-kosten-en-baten-van-zonnepanelen-stel-je-vragen",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Slachtoffers steekpartij Italië komen uit Amsterdam en Harderwijk, dader nog zoek",
     "subtitle": null,
     "published_at": "2023-08-17T11:02:16+02:00",
-    "updated_at": "2023-08-17T11:02:17+02:00",
+    "updated_at": "2023-08-17T11:13:50+02:00",
     "media_id": "3exxs8aakazu",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Twee Nederlanders (12 en 19) omgekomen bij ongeluk net over Duitse grens",
     "subtitle": null,
     "published_at": "2023-08-17T10:46:57+02:00",
-    "updated_at": "2023-08-17T11:06:19+02:00",
+    "updated_at": "2023-08-17T11:11:39+02:00",
     "media_id": "rv9x550aqlyq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6276833/zorgen-over-toenemende-armoede-als-steunmaatregelen-in-2024-stoppen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276837,
-    "slug": "meeste-beleggers-op-tijd-vertrokken-bij-cryptoplatform-binance",
-    "type": "article",
-    "title": "Meeste beleggers op tijd vertrokken bij cryptoplatform Binance",
-    "subtitle": null,
-    "published_at": "2023-08-17T07:51:30+02:00",
-    "updated_at": "2023-08-17T08:03:53+02:00",
-    "media_id": "vk3xax8an152",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6276837/meeste-beleggers-op-tijd-vertrokken-bij-cryptoplatform-binance.html",
     "open_new_window": false,
     "partner": null
   }
