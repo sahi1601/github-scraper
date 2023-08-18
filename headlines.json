@@ -1,5 +1,28 @@
 [
   {
+    "id": 6277036,
+    "slug": "pvda-fractievoorzitter-attje-kuiken-vertrekt-na-16-jaar-uit-tweede-kamer",
+    "type": "article",
+    "title": "PvdA-fractievoorzitter Attje Kuiken vertrekt na 16 jaar uit Tweede Kamer",
+    "subtitle": null,
+    "published_at": "2023-08-18T12:26:41+02:00",
+    "updated_at": "2023-08-18T12:26:49+02:00",
+    "media_id": "4uvx9yjaeuo5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6277036/pvda-fractievoorzitter-attje-kuiken-vertrekt-na-16-jaar-uit-tweede-kamer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277029,
     "slug": "goede-doelen-weigeren-donatie-lowlands-persvrijheid-is-belangrijker",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Na pijnlijke dag daalt de beurskoers van Adyen nog verder",
     "subtitle": null,
     "published_at": "2023-08-18T11:49:09+02:00",
-    "updated_at": "2023-08-18T12:01:38+02:00",
+    "updated_at": "2023-08-18T12:23:48+02:00",
     "media_id": "shcxnd6a9gw0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6276985/rechter-wil-dat-waakhond-afm-dubieuze-grondhandel-aan-banden-legt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6276950,
-    "slug": "de-metamorfose-van-zeilsters-de-geus-en-lammerts-10-kilo-zwaarder",
-    "type": "article",
-    "title": "De metamorfose van zeilsters De Geus en Lammerts: '10 kilo zwaarder'",
-    "subtitle": "NU+",
-    "published_at": "2023-08-18T07:56:12+02:00",
-    "updated_at": "2023-08-18T08:11:40+02:00",
-    "media_id": "38ox9h6aiysc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6276950/de-metamorfose-van-zeilsters-de-geus-en-lammerts-10-kilo-zwaarder.html",
     "open_new_window": false,
     "partner": null
   }
