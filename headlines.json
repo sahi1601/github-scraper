@@ -1,12 +1,35 @@
 [
   {
+    "id": 6277253,
+    "slug": "psv-heeft-met-dest-eerste-defensieve-aanwinst-binnen-na-deal-met-barcelona",
+    "type": "article",
+    "title": "PSV heeft met Dest eerste defensieve aanwinst binnen na deal met Barcelona",
+    "subtitle": null,
+    "published_at": "2023-08-20T11:15:02+02:00",
+    "updated_at": "2023-08-20T11:19:44+02:00",
+    "media_id": "8qlxpxma7koo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6277253/psv-heeft-met-dest-eerste-defensieve-aanwinst-binnen-na-deal-met-barcelona.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277249,
     "slug": "acteur-ron-cephas-jones-van-hitserie-this-is-us-op-66-jarige-leeftijd-overleden",
     "type": "article",
     "title": "Acteur Ron Cephas Jones (van hitserie This Is Us) op 66-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-08-20T10:27:43+02:00",
-    "updated_at": "2023-08-20T10:30:59+02:00",
+    "updated_at": "2023-08-20T11:14:00+02:00",
     "media_id": "jw2xk84aksy0",
     "duration": null,
     "canonical_section": {
@@ -52,8 +75,8 @@
     "title": "Wiegman en Engeland tellen af naar WK-finale tegen Spanje",
     "subtitle": "Liveblog",
     "published_at": "2023-08-20T10:12:27+02:00",
-    "updated_at": "2023-08-20T10:16:30+02:00",
-    "media_id": "iayxzwya6j8p",
+    "updated_at": "2023-08-20T11:17:30+02:00",
+    "media_id": "bfzxdx5aclv4",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/nuplus/6276925/dit-kun-je-doen-als-je-kind-de-overstap-maakt-naar-de-middelbare-school.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277223,
-    "slug": "ecuador-kiest-nieuwe-president-na-weken-van-onrust-moorden-en-schietpartijen",
-    "type": "article",
-    "title": "Ecuador kiest nieuwe president na weken van onrust, moorden en schietpartijen",
-    "subtitle": null,
-    "published_at": "2023-08-20T05:01:37+02:00",
-    "updated_at": "2023-08-20T10:09:43+02:00",
-    "media_id": "us1xk9rarj0g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6277223/ecuador-kiest-nieuwe-president-na-weken-van-onrust-moorden-en-schietpartijen.html",
     "open_new_window": false,
     "partner": null
   }
