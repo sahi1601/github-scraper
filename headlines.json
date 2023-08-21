@@ -1,12 +1,58 @@
 [
   {
+    "id": 6277397,
+    "slug": "man-wiens-leven-is-verfilmd-in-the-blind-side-blijkt-wel-op-de-hoogte-van-curatele",
+    "type": "article",
+    "title": "Man wiens leven is verfilmd in The Blind Side blijkt wel op de hoogte van curatele",
+    "subtitle": null,
+    "published_at": "2023-08-21T15:36:35+02:00",
+    "updated_at": "2023-08-21T15:41:57+02:00",
+    "media_id": "z0pxb0ga7dhg",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6277397/man-wiens-leven-is-verfilmd-in-the-blind-side-blijkt-wel-op-de-hoogte-van-curatele.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6277402,
+    "slug": "lichaam-gevonden-in-zoektocht-naar-vermiste-bezoeker-festival-decibel",
+    "type": "article",
+    "title": "Lichaam gevonden in zoektocht naar vermiste bezoeker festival Decibel",
+    "subtitle": null,
+    "published_at": "2023-08-21T15:33:57+02:00",
+    "updated_at": "2023-08-21T15:41:24+02:00",
+    "media_id": "6s7xt55auuyg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6277402/lichaam-gevonden-in-zoektocht-naar-vermiste-bezoeker-festival-decibel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277395,
     "slug": "fatbikes-worden-om-de-haverklap-gestolen-anwb-stopt-met-verzekeren",
     "type": "article",
     "title": "Fatbikes worden om de haverklap gestolen, ANWB stopt met verzekeren",
     "subtitle": null,
     "published_at": "2023-08-21T15:10:00+02:00",
-    "updated_at": "2023-08-21T15:10:02+02:00",
+    "updated_at": "2023-08-21T15:27:34+02:00",
     "media_id": "yq3xyy9amwl9",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Griekenland gaat weer gebukt onder branden, Tenerife heeft ergste achter de rug",
     "subtitle": null,
     "published_at": "2023-08-21T14:58:38+02:00",
-    "updated_at": "2023-08-21T15:01:10+02:00",
+    "updated_at": "2023-08-21T15:30:20+02:00",
     "media_id": "w1tx47iapn15",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6277352/cruiseschip-disney-dream-legt-aan-in-rotterdam-tijdens-para-ek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277348,
-    "slug": "duncan-laurence-in-zweden-getrouwd-met-jordan-garfield",
-    "type": "article",
-    "title": "Duncan Laurence in Zweden getrouwd met Jordan Garfield",
-    "subtitle": null,
-    "published_at": "2023-08-21T10:21:59+02:00",
-    "updated_at": "2023-08-21T10:59:07+02:00",
-    "media_id": "k08x5ujaeg39",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6277348/duncan-laurence-in-zweden-getrouwd-met-jordan-garfield.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277350,
-    "slug": "psv-presenteert-dest-en-neemt-hem-mee-naar-glasgow-ook-noa-lang-in-selectie",
-    "type": "article",
-    "title": "PSV presenteert Dest en neemt hem mee naar Glasgow, ook Noa Lang in selectie",
-    "subtitle": null,
-    "published_at": "2023-08-21T10:20:11+02:00",
-    "updated_at": "2023-08-21T10:30:51+02:00",
-    "media_id": "izixftmamdcw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6277350/psv-presenteert-dest-en-neemt-hem-mee-naar-glasgow-ook-noa-lang-in-selectie.html",
     "open_new_window": false,
     "partner": null
   }
