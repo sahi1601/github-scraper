@@ -1,5 +1,28 @@
 [
   {
+    "id": 6277364,
+    "slug": "groep-losgebroken-koeien-graast-op-eindhovense-parkeerplaats",
+    "type": "video",
+    "title": "Groep losgebroken koeien 'graast' op Eindhovense parkeerplaats",
+    "subtitle": "Video",
+    "published_at": "2023-08-21T11:14:16+02:00",
+    "updated_at": "2023-08-21T11:14:18+02:00",
+    "media_id": "mllx8iha5oga",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6277364/groep-losgebroken-koeien-graast-op-eindhovense-parkeerplaats.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277357,
     "slug": "opnieuw-zoektocht-naar-mythisch-monster-nessie-in-schots-loch-ness",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Gasprijs flink gestegen door dreigende stakingen in Australië",
     "subtitle": null,
     "published_at": "2023-08-21T10:13:25+02:00",
-    "updated_at": "2023-08-21T11:11:08+02:00",
+    "updated_at": "2023-08-21T11:20:54+02:00",
     "media_id": "zn7xbmjacaz4",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Wendy van Dijk weer thuis na ziekenhuisopname",
     "subtitle": null,
     "published_at": "2023-08-21T09:32:26+02:00",
-    "updated_at": "2023-08-21T09:32:27+02:00",
+    "updated_at": "2023-08-21T11:17:12+02:00",
     "media_id": "21fxb7kaaem1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6277056/politieke-partijen-moeten-hun-programma-verplicht-laten-doorrekenen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277322,
-    "slug": "actrice-tori-spelling-opgenomen-in-het-ziekenhuis",
-    "type": "article",
-    "title": "Actrice Tori Spelling opgenomen in het ziekenhuis",
-    "subtitle": null,
-    "published_at": "2023-08-21T07:08:22+02:00",
-    "updated_at": "2023-08-21T07:31:20+02:00",
-    "media_id": "i44xyhta2gri",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6277322/actrice-tori-spelling-opgenomen-in-het-ziekenhuis.html",
     "open_new_window": false,
     "partner": null
   }
