@@ -1,5 +1,28 @@
 [
   {
+    "id": 6277401,
+    "slug": "dagprogramma-wk-atletiek-hassan-wil-revanche-medaillekans-van-klinken",
+    "type": "article",
+    "title": "Dagprogramma WK atletiek: Hassan wil revanche, medaillekans Van Klinken",
+    "subtitle": null,
+    "published_at": "2023-08-22T00:08:34+02:00",
+    "updated_at": "2023-08-22T00:08:35+02:00",
+    "media_id": "sbvxskxag1d5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6277401/dagprogramma-wk-atletiek-hassan-wil-revanche-medaillekans-van-klinken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277443,
     "slug": "aanhoudende-hittegolf-leidt-tot-code-rood-in-deel-van-frankrijk",
     "type": "article",
@@ -280,9 +303,9 @@
     "slug": "wat-wil-omtzigt-focus-op-bestuurscultuur-en-bestaanszekerheid",
     "type": "article",
     "title": "Wat wil Omtzigt? Focus op bestuurscultuur en bestaanszekerheid",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-08-21T19:44:18+02:00",
-    "updated_at": "2023-08-22T00:02:11+02:00",
+    "updated_at": "2023-08-22T00:09:53+02:00",
     "media_id": "74kxmjlad5rl",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6277424/tropische-storm-hilary-teistert-death-valley-en-zuid-californie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277347,
-    "slug": "psv-wacht-totaal-vernieuwd-en-nederlands-rangers-in-jacht-op-revanche",
-    "type": "article",
-    "title": "PSV wacht totaal vernieuwd en 'Nederlands' Rangers in jacht op revanche",
-    "subtitle": "NU+",
-    "published_at": "2023-08-21T17:58:18+02:00",
-    "updated_at": "2023-08-21T20:25:18+02:00",
-    "media_id": "087xzztaiqnq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6277347/psv-wacht-totaal-vernieuwd-en-nederlands-rangers-in-jacht-op-revanche.html",
     "open_new_window": false,
     "partner": null
   }
