@@ -1,5 +1,28 @@
 [
   {
+    "id": 6277319,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-08-21T05:15:43+02:00",
+    "updated_at": "2023-08-21T05:15:44+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6277319/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6276993,
     "slug": "thijs-romer-weer-aan-het-werk-producenten-willen-er-weinig-over-kwijt",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6277294/britse-winkels-lokken-politie-met-gratis-koffie-om-diefstal-tegen-te-gaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277287,
-    "slug": "vetter-pakt-met-brons-op-meerkamp-eerste-nederlandse-medaille-op-wk-atletiek",
-    "type": "article",
-    "title": "Vetter pakt met brons op meerkamp eerste Nederlandse medaille op WK atletiek",
-    "subtitle": null,
-    "published_at": "2023-08-20T18:16:21+02:00",
-    "updated_at": "2023-08-20T21:00:54+02:00",
-    "media_id": "qevxl0zaa23e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6277287/vetter-pakt-met-brons-op-meerkamp-eerste-nederlandse-medaille-op-wk-atletiek.html",
     "open_new_window": false,
     "partner": null
   }
