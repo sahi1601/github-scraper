@@ -1,12 +1,35 @@
 [
   {
+    "id": 6277603,
+    "slug": "sifan-hassan-noemt-brons-op-1500-meter-mooier-dan-goud-op-andere-afstanden",
+    "type": "article",
+    "title": "Sifan Hassan noemt brons op 1.500 meter mooier dan goud op andere afstanden",
+    "subtitle": null,
+    "published_at": "2023-08-22T23:11:15+02:00",
+    "updated_at": "2023-08-22T23:23:46+02:00",
+    "media_id": "mo3xjhjaw1aw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6277603/sifan-hassan-noemt-brons-op-1500-meter-mooier-dan-goud-op-andere-afstanden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277602,
     "slug": "eiting-verliest-arbitragezaak-tegen-fc-volendam-op-alle-punten",
     "type": "article",
     "title": "Eiting verliest arbitragezaak tegen FC Volendam op alle punten",
     "subtitle": null,
     "published_at": "2023-08-22T23:07:18+02:00",
-    "updated_at": "2023-08-22T23:07:20+02:00",
+    "updated_at": "2023-08-22T23:18:19+02:00",
     "media_id": "64oxysfagu68",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "PSV speelt in spektakelstuk gelijk tegen Rangers in play-offs Champions League",
     "subtitle": null,
     "published_at": "2023-08-22T22:54:22+02:00",
-    "updated_at": "2023-08-22T23:05:50+02:00",
+    "updated_at": "2023-08-22T23:17:18+02:00",
     "media_id": "5o4xa1fadms0",
     "duration": null,
     "canonical_section": {
@@ -167,8 +190,8 @@
     "title": "Sifan Hassan verovert drie dagen na val WK-brons op 1.500 meter",
     "subtitle": null,
     "published_at": "2023-08-22T21:40:41+02:00",
-    "updated_at": "2023-08-22T22:44:30+02:00",
-    "media_id": "tnuxv9vasojm",
+    "updated_at": "2023-08-22T23:23:13+02:00",
+    "media_id": "u51xoiyah4yc",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6277576/discuswerpster-van-klinken-naast-wk-podium-bonevacia-mist-finale-400-meter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277578,
-    "slug": "airen-mylene-en-taeke-taekema-zijn-getrouwd",
-    "type": "article",
-    "title": "Airen Mylene en Taeke Taekema zijn getrouwd",
-    "subtitle": null,
-    "published_at": "2023-08-22T19:02:03+02:00",
-    "updated_at": "2023-08-22T19:03:37+02:00",
-    "media_id": "twrx22ua65m7",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6277578/airen-mylene-en-taeke-taekema-zijn-getrouwd.html",
     "open_new_window": false,
     "partner": null
   }
