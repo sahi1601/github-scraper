@@ -1,5 +1,28 @@
 [
   {
+    "id": 6277605,
+    "slug": "griekspoor-ziet-tegenstander-opgeven-bij-openingspartij-in-winston-salem",
+    "type": "article",
+    "title": "Griekspoor ziet tegenstander opgeven bij openingspartij in Winston-Salem",
+    "subtitle": null,
+    "published_at": "2023-08-22T23:39:33+02:00",
+    "updated_at": "2023-08-22T23:41:04+02:00",
+    "media_id": "3irxy0aag44i",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6277605/griekspoor-ziet-tegenstander-opgeven-bij-openingspartij-in-winston-salem.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277603,
     "slug": "sifan-hassan-noemt-brons-op-1500-meter-mooier-dan-goud-op-andere-afstanden",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Eiting verliest arbitragezaak tegen FC Volendam op alle punten",
     "subtitle": null,
     "published_at": "2023-08-22T23:07:18+02:00",
-    "updated_at": "2023-08-22T23:18:19+02:00",
+    "updated_at": "2023-08-22T23:31:51+02:00",
     "media_id": "64oxysfagu68",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "PSV speelt in spektakelstuk gelijk tegen Rangers in play-offs Champions League",
     "subtitle": null,
     "published_at": "2023-08-22T22:54:22+02:00",
-    "updated_at": "2023-08-22T23:17:18+02:00",
+    "updated_at": "2023-08-22T23:27:58+02:00",
     "media_id": "5o4xa1fadms0",
     "duration": null,
     "canonical_section": {
@@ -369,12 +392,12 @@
   },
   {
     "id": 6277583,
-    "slug": "reacties-na-spectaculair-gelijkspel-psv-tegen-rangers",
+    "slug": "lees-alles-terug-over-spectaculair-gelijkspel-psv-tegen-rangers",
     "type": "article",
-    "title": "Reacties na spectaculair gelijkspel PSV tegen Rangers",
+    "title": "Lees alles terug over spectaculair gelijkspel PSV tegen Rangers",
     "subtitle": "Liveblog",
     "published_at": "2023-08-22T19:58:52+02:00",
-    "updated_at": "2023-08-22T22:57:40+02:00",
+    "updated_at": "2023-08-22T23:42:38+02:00",
     "media_id": "co7xs8aa2wx5",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6277583/reacties-na-spectaculair-gelijkspel-psv-tegen-rangers.html",
+    "url": "/voetbal/6277583/lees-alles-terug-over-spectaculair-gelijkspel-psv-tegen-rangers.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6277580/essent-verlaagt-prijzen-voor-stroom-en-gas-maar-roept-op-tot-zuinigheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277576,
-    "slug": "discuswerpster-van-klinken-naast-wk-podium-bonevacia-mist-finale-400-meter",
-    "type": "article",
-    "title": "Discuswerpster Van Klinken naast WK-podium, Bonevacia mist finale 400 meter",
-    "subtitle": null,
-    "published_at": "2023-08-22T19:06:33+02:00",
-    "updated_at": "2023-08-22T22:05:10+02:00",
-    "media_id": "vdkx775a0em1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6277576/discuswerpster-van-klinken-naast-wk-podium-bonevacia-mist-finale-400-meter.html",
     "open_new_window": false,
     "partner": null
   }
