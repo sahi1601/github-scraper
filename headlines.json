@@ -1,12 +1,35 @@
 [
   {
+    "id": 6277765,
+    "slug": "voormalig-trump-advocaat-rudy-giuliani-meldt-zich-bij-gevangenis",
+    "type": "article",
+    "title": "Voormalig Trump-advocaat Rudy Giuliani meldt zich bij gevangenis",
+    "subtitle": null,
+    "published_at": "2023-08-23T23:11:13+02:00",
+    "updated_at": "2023-08-23T23:16:16+02:00",
+    "media_id": "n59xkm2ah7ni",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6277765/voormalig-trump-advocaat-rudy-giuliani-meldt-zich-bij-gevangenis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277759,
     "slug": "vilhena-verliest-met-panathinaikos-in-play-offs-cl-galatasaray-wint-op-de-valreep",
     "type": "article",
     "title": "Vilhena verliest met Panathinaikos in play-offs CL, Galatasaray wint op de valreep",
     "subtitle": null,
     "published_at": "2023-08-23T23:05:22+02:00",
-    "updated_at": "2023-08-23T23:07:27+02:00",
+    "updated_at": "2023-08-23T23:12:40+02:00",
     "media_id": "uufx81aahpn9",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Aan Wagner gelinkte Telegram-groep meldt dood van leider Prigozhin",
     "subtitle": null,
     "published_at": "2023-08-23T22:34:29+02:00",
-    "updated_at": "2023-08-23T23:03:51+02:00",
+    "updated_at": "2023-08-23T23:17:52+02:00",
     "media_id": "piqxcg2au3jd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6277740/wiebes-bezorgt-uttrup-ludwig-flink-baalmoment-met-sprintzege-in-noorwegen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277739,
-    "slug": "wagner-baas-prigozhin-op-passagierslijst-van-neergestort-vliegtuig-geen-overlevenden",
-    "type": "article",
-    "title": "Wagner-baas Prigozhin op passagierslijst van neergestort vliegtuig, geen overlevenden",
-    "subtitle": null,
-    "published_at": "2023-08-23T19:14:00+02:00",
-    "updated_at": "2023-08-23T22:38:17+02:00",
-    "media_id": "gz6xh4damc25",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6277739/wagner-baas-prigozhin-op-passagierslijst-van-neergestort-vliegtuig-geen-overlevenden.html",
     "open_new_window": false,
     "partner": null
   }
