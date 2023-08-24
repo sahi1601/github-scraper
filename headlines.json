@@ -1,5 +1,51 @@
 [
   {
+    "id": 6277797,
+    "slug": "ervaren-duo-magnussen-en-hulkenberg-ook-in-2024-in-actie-voor-haas",
+    "type": "article",
+    "title": "Ervaren duo Magnussen en Hülkenberg ook in 2024 in actie voor Haas",
+    "subtitle": null,
+    "published_at": "2023-08-24T10:23:43+02:00",
+    "updated_at": "2023-08-24T10:23:44+02:00",
+    "media_id": "eq8x0zuamow9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Nederland",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6277797/ervaren-duo-magnussen-en-hulkenberg-ook-in-2024-in-actie-voor-haas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6277794,
+    "slug": "belgisch-wielertalent-tijl-de-decker-in-coma-na-zwaar-trainingsongeval",
+    "type": "article",
+    "title": "Belgisch wielertalent Tijl De Decker in coma na zwaar trainingsongeval",
+    "subtitle": null,
+    "published_at": "2023-08-24T10:14:40+02:00",
+    "updated_at": "2023-08-24T10:14:41+02:00",
+    "media_id": "aeyxfola4d6q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6277794/belgisch-wielertalent-tijl-de-decker-in-coma-na-zwaar-trainingsongeval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277791,
     "slug": "kim-feenstra-en-soundos-el-ahmadi-in-nieuw-seizoen-vier-handen-op-een-buik",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Gasprijs onderuit: daling van tientallen procenten in enkele dagen",
     "subtitle": null,
     "published_at": "2023-08-24T10:06:06+02:00",
-    "updated_at": "2023-08-24T10:11:11+02:00",
+    "updated_at": "2023-08-24T10:15:13+02:00",
     "media_id": "y3yxp5ya88ot",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6277714/dagprogramma-wk-atletiek-femke-bol-kan-vierde-nederlander-met-goud-worden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277768,
-    "slug": "dit-weten-we-nu-over-de-vliegtuigcrash-en-dood-van-wagner-baas-prigozhin",
-    "type": "article",
-    "title": "Dit weten we nu over de vliegtuigcrash en dood van Wagner-baas Prigozhin",
-    "subtitle": null,
-    "published_at": "2023-08-24T06:04:39+02:00",
-    "updated_at": "2023-08-24T10:01:39+02:00",
-    "media_id": "ao0x01cakx0u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6277768/dit-weten-we-nu-over-de-vliegtuigcrash-en-dood-van-wagner-baas-prigozhin.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277666,
-    "slug": "dit-keer-wordt-voorgeleiding-trump-anders-in-georgia-is-iedereen-gelijk",
-    "type": "article",
-    "title": "Dit keer wordt voorgeleiding Trump anders: 'In Georgia is iedereen gelijk'",
-    "subtitle": "NU+",
-    "published_at": "2023-08-24T05:30:16+02:00",
-    "updated_at": "2023-08-24T06:28:52+02:00",
-    "media_id": "sfoxesyawfks",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6277666/dit-keer-wordt-voorgeleiding-trump-anders-in-georgia-is-iedereen-gelijk.html",
     "open_new_window": false,
     "partner": null
   }
