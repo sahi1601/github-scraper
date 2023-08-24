@@ -1,5 +1,28 @@
 [
   {
+    "id": 6277927,
+    "slug": "poetin-prigozhin-heeft-ernstige-fouten-gemaakt-in-zijn-leven",
+    "type": "video",
+    "title": "Poetin: 'Prigozhin heeft ernstige fouten gemaakt in zijn leven'",
+    "subtitle": "Video",
+    "published_at": "2023-08-24T20:17:04+02:00",
+    "updated_at": "2023-08-24T20:25:15+02:00",
+    "media_id": "rwwxwu4a2tzn",
+    "duration": "1:10",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6277927/poetin-prigozhin-heeft-ernstige-fouten-gemaakt-in-zijn-leven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6277795,
     "slug": "waarom-je-niet-naar-diabetesmedicijnen-moet-grijpen-om-af-te-vallen",
     "type": "article",
@@ -185,13 +208,13 @@
   },
   {
     "id": 6277912,
-    "slug": "ajax-jaagt-met-berghuis-taylor-en-kudus-op-openingsgoal-in-bulgarije",
+    "slug": "ajax-snel-op-rozen-in-bulgarije-twente-in-de-problemen-bij-fenerbahce",
     "type": "article",
-    "title": "Ajax jaagt met Berghuis, Taylor en Kudus op openingsgoal in Bulgarije",
+    "title": "Ajax snel op rozen in Bulgarije, Twente in de problemen bij Fenerbahçe",
     "subtitle": "Liveblog",
     "published_at": "2023-08-24T18:37:30+02:00",
-    "updated_at": "2023-08-24T20:10:50+02:00",
-    "media_id": "7rrxvppaezgm",
+    "updated_at": "2023-08-24T20:24:58+02:00",
+    "media_id": "ae2xwh0ahupi",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6277912/ajax-jaagt-met-berghuis-taylor-en-kudus-op-openingsgoal-in-bulgarije.html",
+    "url": "/voetbal/6277912/ajax-snel-op-rozen-in-bulgarije-twente-in-de-problemen-bij-fenerbahce.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Poetin bevestigt dat Wagner-baas Prigozhin is omgekomen bij vliegtuigcrash",
     "subtitle": null,
     "published_at": "2023-08-24T18:05:09+02:00",
-    "updated_at": "2023-08-24T20:15:03+02:00",
+    "updated_at": "2023-08-24T20:25:48+02:00",
     "media_id": "5amxg47atabz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6277892/na-nederland-en-denemarken-gaan-ook-de-noren-f-16s-leveren-aan-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277821,
-    "slug": "gaat-wagner-zich-tegen-poetin-keren-jullie-vragen-beantwoord",
-    "type": "article",
-    "title": "Gaat Wagner zich tegen Poetin keren? Jullie vragen beantwoord",
-    "subtitle": null,
-    "published_at": "2023-08-24T17:22:18+02:00",
-    "updated_at": "2023-08-24T20:02:58+02:00",
-    "media_id": "deqx8jxafxq0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779135,
-      "slug": "vragenuur",
-      "type": "default",
-      "name": "Q&A's",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/vragenuur/6277821/gaat-wagner-zich-tegen-poetin-keren-jullie-vragen-beantwoord.html",
     "open_new_window": false,
     "partner": null
   }
