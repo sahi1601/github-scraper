@@ -1,12 +1,58 @@
 [
   {
+    "id": 6278060,
+    "slug": "norris-verrassend-sneller-dan-verstappen-in-tweede-vrije-training-gp-nederland",
+    "type": "article",
+    "title": "Norris verrassend sneller dan Verstappen in tweede vrije training GP Nederland",
+    "subtitle": null,
+    "published_at": "2023-08-25T17:00:53+02:00",
+    "updated_at": "2023-08-25T17:00:54+02:00",
+    "media_id": "ai9xsxha1z3z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Nederland",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6278060/norris-verrassend-sneller-dan-verstappen-in-tweede-vrije-training-gp-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278063,
+    "slug": "mike-teunissen-boekt-imposante-zege-in-beladen-koninginnenrit-renewi-tour",
+    "type": "article",
+    "title": "Mike Teunissen boekt imposante zege in beladen koninginnenrit Renewi Tour",
+    "subtitle": null,
+    "published_at": "2023-08-25T16:49:30+02:00",
+    "updated_at": "2023-08-25T16:52:43+02:00",
+    "media_id": "lf5x086ai6ae",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6278063/mike-teunissen-boekt-imposante-zege-in-beladen-koninginnenrit-renewi-tour.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278056,
     "slug": "na-ema-keurt-ook-europese-commissie-nieuw-vaccin-tegen-rs-virus-goed",
     "type": "article",
     "title": "Na EMA keurt ook Europese Commissie nieuw vaccin tegen RS-virus goed",
     "subtitle": null,
     "published_at": "2023-08-25T16:39:19+02:00",
-    "updated_at": "2023-08-25T16:39:23+02:00",
+    "updated_at": "2023-08-25T16:47:25+02:00",
     "media_id": "ew7xb8ya0gwt",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Geschokte reacties na opmerkelijke speech bondsvoorzitter Rubiales: 'Het is over'",
     "subtitle": null,
     "published_at": "2023-08-25T16:24:55+02:00",
-    "updated_at": "2023-08-25T16:42:58+02:00",
+    "updated_at": "2023-08-25T16:47:32+02:00",
     "media_id": "9x7xdaraninx",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6278016/wiegman-kan-na-wk-zilver-opnieuw-uefa-coach-van-het-jaar-worden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278010,
-    "slug": "little-huilt-van-blijdschap-na-zilver-achter-bol-maar-natuurlijk-wil-ik-meer",
-    "type": "article",
-    "title": "Little huilt van blijdschap na zilver achter Bol: 'Maar natuurlijk wil ik meer'",
-    "subtitle": null,
-    "published_at": "2023-08-25T12:33:08+02:00",
-    "updated_at": "2023-08-25T12:49:16+02:00",
-    "media_id": "1y3x318atgqa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6278010/little-huilt-van-blijdschap-na-zilver-achter-bol-maar-natuurlijk-wil-ik-meer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6277958,
-    "slug": "spaanse-bondsvoorzitter-wil-blijven-ondanks-wangedrag-op-wk-vecht-tot-het-einde",
-    "type": "article",
-    "title": "Spaanse bondsvoorzitter wil blijven ondanks wangedrag op WK: 'Vecht tot het einde'",
-    "subtitle": null,
-    "published_at": "2023-08-25T12:31:53+02:00",
-    "updated_at": "2023-08-25T16:42:43+02:00",
-    "media_id": "49fx264au7yw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6277958/spaanse-bondsvoorzitter-wil-blijven-ondanks-wangedrag-op-wk-vecht-tot-het-einde.html",
     "open_new_window": false,
     "partner": null
   }
