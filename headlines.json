@@ -1,5 +1,51 @@
 [
   {
+    "id": 6278050,
+    "slug": "geschokte-reacties-na-opmerkelijke-speech-bondsvoorzitter-rubiales-het-is-voorbij",
+    "type": "article",
+    "title": "Geschokte reacties na opmerkelijke speech bondsvoorzitter Rubiales: 'Het is voorbij'",
+    "subtitle": null,
+    "published_at": "2023-08-25T16:24:55+02:00",
+    "updated_at": "2023-08-25T16:24:55+02:00",
+    "media_id": "9x7xdaraninx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6278050/geschokte-reacties-na-opmerkelijke-speech-bondsvoorzitter-rubiales-het-is-voorbij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278049,
+    "slug": "alleen-medische-keuring-scheidt-ivanusec-van-feyenoord-maar-dat-komt-goed",
+    "type": "article",
+    "title": "Alleen medische keuring scheidt Ivanusec van Feyenoord: 'Maar dat komt goed'",
+    "subtitle": null,
+    "published_at": "2023-08-25T16:12:52+02:00",
+    "updated_at": "2023-08-25T16:23:10+02:00",
+    "media_id": "23jx2wxachna",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6278049/alleen-medische-keuring-scheidt-ivanusec-van-feyenoord-maar-dat-komt-goed.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278059,
     "slug": "gesprongen-waterleiding-in-india-spuwt-water-zo-hoog-als-flatgebouw",
     "type": "video",
@@ -213,7 +259,7 @@
     "title": "Schiphol wil investeren in vernieuwing van luchthaven en personeel",
     "subtitle": null,
     "published_at": "2023-08-25T13:59:57+02:00",
-    "updated_at": "2023-08-25T13:59:58+02:00",
+    "updated_at": "2023-08-25T16:16:39+02:00",
     "media_id": "jbaxkhia0ith",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Van Hooijdonk blijft analyticus bij ESPN, maar niet rondom wedstrijden van Ajax",
     "subtitle": null,
     "published_at": "2023-08-25T13:51:19+02:00",
-    "updated_at": "2023-08-25T15:38:34+02:00",
+    "updated_at": "2023-08-25T16:15:23+02:00",
     "media_id": "usvxs1laezvk",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6278012/bliksem-en-regen-zorgen-voor-hinder-op-het-spoor-en-de-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278011,
-    "slug": "acteurskoppel-pete-davidson-en-chase-sui-wonders-beeindigt-relatie",
-    "type": "article",
-    "title": "Acteurskoppel Pete Davidson en Chase Sui Wonders beëindigt relatie",
-    "subtitle": null,
-    "published_at": "2023-08-25T12:24:48+02:00",
-    "updated_at": "2023-08-25T12:25:28+02:00",
-    "media_id": "saext9tah6jb",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6278011/acteurskoppel-pete-davidson-en-chase-sui-wonders-beeindigt-relatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278001,
-    "slug": "duncan-laurence-brengt-uitgesteld-album-op-22-september-uit",
-    "type": "article",
-    "title": "Duncan Laurence brengt uitgesteld album op 22 september uit",
-    "subtitle": null,
-    "published_at": "2023-08-25T12:10:20+02:00",
-    "updated_at": "2023-08-25T12:10:21+02:00",
-    "media_id": "wu1x9u0akj5s",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6278001/duncan-laurence-brengt-uitgesteld-album-op-22-september-uit.html",
     "open_new_window": false,
     "partner": null
   }
