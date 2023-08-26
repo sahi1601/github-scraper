@@ -1,28 +1,5 @@
 [
   {
-    "id": 6278178,
-    "slug": "bp-topman-vraag-naar-olie-en-gas-houdt-nog-tientallen-jaren-aan",
-    "type": "article",
-    "title": "BP-topman: vraag naar olie en gas houdt nog tientallen jaren aan",
-    "subtitle": null,
-    "published_at": "2023-08-26T11:38:14+02:00",
-    "updated_at": "2023-08-26T11:38:15+02:00",
-    "media_id": "9atxu0oaucdx",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6278178/bp-topman-vraag-naar-olie-en-gas-houdt-nog-tientallen-jaren-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6278173,
     "slug": "moederbeer-rent-achter-russische-toeristen-aan",
     "type": "video",
@@ -75,7 +52,7 @@
     "title": "British Museum mist 2.000 objecten, deel teruggevonden na ontslag medewerker",
     "subtitle": null,
     "published_at": "2023-08-26T11:16:16+02:00",
-    "updated_at": "2023-08-26T11:37:07+02:00",
+    "updated_at": "2023-08-26T11:35:42+02:00",
     "media_id": "kwhxkpyaku09",
     "duration": null,
     "canonical_section": {
@@ -116,13 +93,13 @@
   },
   {
     "id": 6278154,
-    "slug": "magnussen-zorgt-met-crash-voor-rode-vlag-in-nat-zandvoort",
+    "slug": "coureurs-begonnen-aan-kletsnatte-derde-training-in-zandvoort",
     "type": "article",
-    "title": "Magnussen zorgt met crash voor rode vlag in nat Zandvoort",
+    "title": "Coureurs begonnen aan kletsnatte derde training in Zandvoort",
     "subtitle": "Liveblog",
     "published_at": "2023-08-26T10:31:18+02:00",
-    "updated_at": "2023-08-26T11:43:25+02:00",
-    "media_id": "do3xkefanyhm",
+    "updated_at": "2023-08-26T11:31:05+02:00",
+    "media_id": "mddxg7vaz8nv",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -133,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6278154/magnussen-zorgt-met-crash-voor-rode-vlag-in-nat-zandvoort.html",
+    "url": "/formule-1/6278154/coureurs-begonnen-aan-kletsnatte-derde-training-in-zandvoort.html",
     "open_new_window": false,
     "partner": null
   },
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/binnenland/6278126/treinen-tussen-heerlen-en-valkenburg-rijden-weer-dassen-krijgen-nieuwe-burcht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278125,
+    "slug": "weerbericht-zon-wolken-af-en-toe-een-bui-en-iets-lagere-temperaturen",
+    "type": "article",
+    "title": "Weerbericht: Zon, wolken, af en toe een bui en iets lagere temperaturen",
+    "subtitle": null,
+    "published_at": "2023-08-26T05:58:37+02:00",
+    "updated_at": "2023-08-26T08:09:56+02:00",
+    "media_id": "clnxk58ak9zp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6278125/weerbericht-zon-wolken-af-en-toe-een-bui-en-iets-lagere-temperaturen.html",
     "open_new_window": false,
     "partner": null
   }
