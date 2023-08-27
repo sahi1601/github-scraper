@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278350,
+    "slug": "supercellen-zorgen-voor-noodweer-in-europa",
+    "type": "video",
+    "title": "Supercellen zorgen voor noodweer in Europa",
+    "subtitle": "Video",
+    "published_at": "2023-08-27T18:32:46+02:00",
+    "updated_at": "2023-08-27T18:32:46+02:00",
+    "media_id": "mp4xznuao1wu",
+    "duration": "0:44",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6278350/supercellen-zorgen-voor-noodweer-in-europa.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278346,
     "slug": "verstappen-geniet-volop-van-winst-en-sfeer-in-zandvoort-het-is-ongelooflijk",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6278325/spaanse-voetbalbond-last-spoedvergadering-in-vanwege-rel-rond-voorzitter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278317,
-    "slug": "weekweerbericht-stabiel-nazomerweer-laat-nog-even-op-zich-wachten",
-    "type": "article",
-    "title": "Weekweerbericht: Stabiel nazomerweer laat nog even op zich wachten",
-    "subtitle": null,
-    "published_at": "2023-08-27T14:28:28+02:00",
-    "updated_at": "2023-08-27T14:30:22+02:00",
-    "media_id": "m1oxchmat3nm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6278317/weekweerbericht-stabiel-nazomerweer-laat-nog-even-op-zich-wachten.html",
     "open_new_window": false,
     "partner": null
   }
