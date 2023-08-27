@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278269,
+    "slug": "wie-zijn-de-2-die-niet-met-duurzaam-vervoer-naar-zandvoort-komen",
+    "type": "video",
+    "title": "Wie zijn de 2% die niet met duurzaam vervoer naar Zandvoort komen?",
+    "subtitle": "Explainer",
+    "published_at": "2023-08-27T05:22:01+02:00",
+    "updated_at": "2023-08-27T05:22:01+02:00",
+    "media_id": "sd5x2fnaqs22",
+    "duration": "2:09",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Nederland",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6278269/wie-zijn-de-2-die-niet-met-duurzaam-vervoer-naar-zandvoort-komen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278270,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6278248/eerste-dag-vuelta-valt-in-het-water-pech-jumbo-visma-jonge-italiaan-pakt-rood.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278256,
-    "slug": "nec-stelt-fans-gerust-met-zege-excelsior-en-fortuna-missen-kans-op-koppositie",
-    "type": "article",
-    "title": "NEC stelt fans gerust met zege, Excelsior en Fortuna missen kans op koppositie",
-    "subtitle": null,
-    "published_at": "2023-08-26T20:44:33+02:00",
-    "updated_at": "2023-08-26T23:24:31+02:00",
-    "media_id": "yzfxxtla7r25",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6278256/nec-stelt-fans-gerust-met-zege-excelsior-en-fortuna-missen-kans-op-koppositie.html",
     "open_new_window": false,
     "partner": null
   }
