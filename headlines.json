@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278562,
+    "slug": "meisje-overleden-bij-ongeluk-waarbij-minderjarige-tegen-een-boom-aan-reed",
+    "type": "article",
+    "title": "Meisje overleden bij ongeluk waarbij minderjarige tegen een boom aan reed",
+    "subtitle": null,
+    "published_at": "2023-08-29T10:39:49+02:00",
+    "updated_at": "2023-08-29T10:39:50+02:00",
+    "media_id": "wm8xsjra6pq9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6278562/meisje-overleden-bij-ongeluk-waarbij-minderjarige-tegen-een-boom-aan-reed.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278548,
     "slug": "steeds-meer-syriers-demonstreren-tegen-bewind-van-president-bashar-al-assad",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Populaire Volkswagen-curryworst binnenkort weer te koop in bedrijfskantine",
     "subtitle": null,
     "published_at": "2023-08-29T09:37:13+02:00",
-    "updated_at": "2023-08-29T10:15:19+02:00",
+    "updated_at": "2023-08-29T10:39:35+02:00",
     "media_id": "1t4xa36aqgr4",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "FC Utrecht breekt per direct met trainer Silberbauer na dramatische seizoensstart",
     "subtitle": null,
     "published_at": "2023-08-29T09:33:41+02:00",
-    "updated_at": "2023-08-29T10:14:41+02:00",
+    "updated_at": "2023-08-29T10:29:52+02:00",
     "media_id": "pwnxj7uavnid",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Waarom Oekraïners moeten leren leven met mijnen",
     "subtitle": "Explainer",
     "published_at": "2023-08-29T06:27:46+02:00",
-    "updated_at": "2023-08-29T07:29:52+02:00",
+    "updated_at": "2023-08-29T10:39:08+02:00",
     "media_id": "bn5xy1jahal9",
     "duration": "1:56",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6278522/man-doodgeschoten-in-portiek-in-hoogvliet-bij-rotterdam-dader-gevlucht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278521,
-    "slug": "weerbericht-vandaag-strijden-zonneschijn-en-regen-om-een-plekje",
-    "type": "article",
-    "title": "Weerbericht: Vandaag strijden zonneschijn en regen om een plekje",
-    "subtitle": null,
-    "published_at": "2023-08-29T05:34:13+02:00",
-    "updated_at": "2023-08-29T06:13:04+02:00",
-    "media_id": "rbwxqw8a8xpm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6278521/weerbericht-vandaag-strijden-zonneschijn-en-regen-om-een-plekje.html",
     "open_new_window": false,
     "partner": null
   }
