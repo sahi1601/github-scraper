@@ -1,12 +1,35 @@
 [
   {
+    "id": 6278717,
+    "slug": "opnieuw-tientallen-graven-van-inheemse-kinderen-gevonden-in-canada",
+    "type": "article",
+    "title": "Opnieuw tientallen graven van inheemse kinderen gevonden in Canada",
+    "subtitle": null,
+    "published_at": "2023-08-30T11:23:51+02:00",
+    "updated_at": "2023-08-30T11:23:56+02:00",
+    "media_id": "gx3x4u5am3s4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6278717/opnieuw-tientallen-graven-van-inheemse-kinderen-gevonden-in-canada.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278716,
     "slug": "tennissers-ruiken-wiet-op-us-open-lijkt-de-woonkamer-van-snoop-dogg-wel",
     "type": "article",
     "title": "Tennissers ruiken wiet op US Open: 'Lijkt de woonkamer van Snoop Dogg wel'",
     "subtitle": null,
     "published_at": "2023-08-30T11:17:08+02:00",
-    "updated_at": "2023-08-30T11:21:53+02:00",
+    "updated_at": "2023-08-30T11:41:35+02:00",
     "media_id": "ut7xanfajv4c",
     "duration": null,
     "canonical_section": {
@@ -27,9 +50,9 @@
     "slug": "daten-op-televisie-is-razend-populair-maar-werkt-het-eigenlijk-wel",
     "type": "article",
     "title": "Daten op televisie is razend populair, maar werkt het eigenlijk wel?",
-    "subtitle": "NU+",
+    "subtitle": null,
     "published_at": "2023-08-30T11:04:54+02:00",
-    "updated_at": "2023-08-30T11:04:55+02:00",
+    "updated_at": "2023-08-30T11:24:26+02:00",
     "media_id": "3c2x436a4sfi",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Circuit Zandvoort: 'Formule 1 is aan zet als het gaat om Nederlandse GP na 2025'",
     "subtitle": null,
     "published_at": "2023-08-30T10:28:59+02:00",
-    "updated_at": "2023-08-30T10:29:00+02:00",
+    "updated_at": "2023-08-30T11:42:11+02:00",
     "media_id": "ulsxsa5abwxu",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Florida zet zich schrap voor 'extreem gevaarlijke' orkaan Idalia",
     "subtitle": null,
     "published_at": "2023-08-30T09:52:51+02:00",
-    "updated_at": "2023-08-30T11:04:41+02:00",
+    "updated_at": "2023-08-30T11:33:38+02:00",
     "media_id": "jpdx5yuaj707",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6278682/de-volksbank-schatte-risicos-niet-goed-in-en-krijgt-45-miljoen-euro-boete.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278679,
-    "slug": "rookwolken-stijgen-boven-russische-stad-uit-na-droneaanvallen",
-    "type": "video",
-    "title": "Rookwolken stijgen boven Russische stad uit na 'droneaanvallen'",
-    "subtitle": "Video",
-    "published_at": "2023-08-30T08:13:04+02:00",
-    "updated_at": "2023-08-30T08:13:06+02:00",
-    "media_id": "3qyxs7ha3efp",
-    "duration": "0:33",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6278679/rookwolken-stijgen-boven-russische-stad-uit-na-droneaanvallen.html",
     "open_new_window": false,
     "partner": null
   }
