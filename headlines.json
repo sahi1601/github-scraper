@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278819,
+    "slug": "bijna-helft-nederlanders-maakt-zich-veel-zorgen-om-verspreiden-misinformatie",
+    "type": "article",
+    "title": "Bijna helft Nederlanders maakt zich veel zorgen om verspreiden misinformatie",
+    "subtitle": null,
+    "published_at": "2023-08-31T00:15:48+02:00",
+    "updated_at": "2023-08-31T00:16:08+02:00",
+    "media_id": "wdixbnxafom0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6278819/bijna-helft-nederlanders-maakt-zich-veel-zorgen-om-verspreiden-misinformatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278817,
     "slug": "cbs-nederlandse-aardgasreserves-over-minder-dan-9-jaar-uitgeput",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6278799/buren-bevrijden-bungelende-peuter-uit-benarde-situatie-in-china.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278798,
-    "slug": "trumps-ex-advocaat-giuliani-beschuldigde-stembureau-onterecht-van-gesjoemel",
-    "type": "article",
-    "title": "Trumps ex-advocaat Giuliani beschuldigde stembureau onterecht van gesjoemel",
-    "subtitle": null,
-    "published_at": "2023-08-30T19:56:05+02:00",
-    "updated_at": "2023-08-30T20:24:56+02:00",
-    "media_id": "7suxdqvagavh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6278798/trumps-ex-advocaat-giuliani-beschuldigde-stembureau-onterecht-van-gesjoemel.html",
     "open_new_window": false,
     "partner": null
   }
