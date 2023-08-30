@@ -1,5 +1,51 @@
 [
   {
+    "id": 6278697,
+    "slug": "den-haag-kondigt-volledig-messenverbod-aan-om-geweldsgolf-te-beeindigen",
+    "type": "article",
+    "title": "Den Haag kondigt volledig messenverbod aan om 'geweldsgolf' te beëindigen",
+    "subtitle": null,
+    "published_at": "2023-08-30T10:19:46+02:00",
+    "updated_at": "2023-08-30T10:19:47+02:00",
+    "media_id": "3l4xm2tagzfc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6278697/den-haag-kondigt-volledig-messenverbod-aan-om-geweldsgolf-te-beeindigen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278704,
+    "slug": "helikopter-redt-opvarenden-van-zinkend-schip-in-oost-chinese-zee",
+    "type": "video",
+    "title": "Helikopter redt opvarenden van zinkend schip in Oost-Chinese Zee",
+    "subtitle": "Video",
+    "published_at": "2023-08-30T10:17:50+02:00",
+    "updated_at": "2023-08-30T10:20:06+02:00",
+    "media_id": "2cox1kaanzw5",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6278704/helikopter-redt-opvarenden-van-zinkend-schip-in-oost-chinese-zee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278698,
     "slug": "winst-gazprom-daalt-nu-europa-bijna-geen-russisch-gas-meer-afneemt",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Florida zet zich schrap voor 'extreem gevaarlijke' orkaan Idalia",
     "subtitle": null,
     "published_at": "2023-08-30T09:52:51+02:00",
-    "updated_at": "2023-08-30T10:04:29+02:00",
+    "updated_at": "2023-08-30T10:26:49+02:00",
     "media_id": "jpdx5yuaj707",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Gabonees leger zegt coup te hebben gepleegd en zet net verkozen president af",
     "subtitle": null,
     "published_at": "2023-08-30T09:22:15+02:00",
-    "updated_at": "2023-08-30T10:00:58+02:00",
+    "updated_at": "2023-08-30T10:20:35+02:00",
     "media_id": "dc1xms3a8ywf",
     "duration": null,
     "canonical_section": {
@@ -121,8 +167,8 @@
     "title": "Olcay Gulsen en Ruud de Wild uit elkaar: 'Tijd nodig voor onszelf'",
     "subtitle": null,
     "published_at": "2023-08-30T09:18:18+02:00",
-    "updated_at": "2023-08-30T09:39:39+02:00",
-    "media_id": "ozexmqlana52",
+    "updated_at": "2023-08-30T10:18:32+02:00",
+    "media_id": "8bjxb2paud79",
     "duration": null,
     "canonical_section": {
       "id": 125,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6278670/australie-houdt-historische-stemming-over-erkenning-oorspronkelijke-bewoners.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278669,
-    "slug": "weerbericht-na-soms-stevige-buien-komt-zonneschijn",
-    "type": "article",
-    "title": "Weerbericht: Na (soms stevige) buien komt zonneschijn",
-    "subtitle": null,
-    "published_at": "2023-08-30T05:26:48+02:00",
-    "updated_at": "2023-08-30T10:05:29+02:00",
-    "media_id": "dl2x0jua8kr3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6278669/weerbericht-na-soms-stevige-buien-komt-zonneschijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278668,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-08-30T05:09:44+02:00",
-    "updated_at": "2023-08-30T05:09:45+02:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6278668/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
