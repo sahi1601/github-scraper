@@ -1,12 +1,35 @@
 [
   {
+    "id": 6278810,
+    "slug": "bewakingscamera-filmt-ramkraak-met-gestolen-pick-uptruck-in-vs",
+    "type": "video",
+    "title": "Bewakingscamera filmt ramkraak met gestolen pick-uptruck in VS",
+    "subtitle": "Video",
+    "published_at": "2023-08-30T22:14:46+02:00",
+    "updated_at": "2023-08-30T22:14:47+02:00",
+    "media_id": "2hvxnwya7bwh",
+    "duration": "0:59",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6278810/bewakingscamera-filmt-ramkraak-met-gestolen-pick-uptruck-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278808,
     "slug": "titelverdedigster-swiatek-met-moeite-langs-mondiale-nummer-322-op-us-open",
     "type": "article",
     "title": "Titelverdedigster Swiatek met moeite langs mondiale nummer 322 op US Open",
     "subtitle": null,
     "published_at": "2023-08-30T21:54:51+02:00",
-    "updated_at": "2023-08-30T21:59:12+02:00",
+    "updated_at": "2023-08-30T22:18:00+02:00",
     "media_id": "xgsxc23a2l7s",
     "duration": null,
     "canonical_section": {
@@ -323,12 +346,12 @@
   },
   {
     "id": 6278793,
-    "slug": "psv-dankzij-saibari-op-rozen-in-cruciaal-duel-met-rangers",
+    "slug": "psv-dankzij-saibari-op-rozen-in-allesbeslissend-duel-met-rangers",
     "type": "article",
-    "title": "PSV dankzij Saibari op rozen in cruciaal duel met Rangers",
+    "title": "PSV dankzij Saibari op rozen in allesbeslissend duel met Rangers",
     "subtitle": "Liveblog",
     "published_at": "2023-08-30T19:16:25+02:00",
-    "updated_at": "2023-08-30T22:13:07+02:00",
+    "updated_at": "2023-08-30T22:14:12+02:00",
     "media_id": "jqex8bnaxs8w",
     "duration": null,
     "canonical_section": {
@@ -340,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6278793/psv-dankzij-saibari-op-rozen-in-cruciaal-duel-met-rangers.html",
+    "url": "/voetbal/6278793/psv-dankzij-saibari-op-rozen-in-allesbeslissend-duel-met-rangers.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6278783/billie-eilish-wil-tour-langs-kleine-zalen-maar-legt-intieme-show-meermaals-stil.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278782,
-    "slug": "verdachte-doodsteken-haagse-winkelmedewerkster-eind-september-voor-rechter",
-    "type": "article",
-    "title": "Verdachte doodsteken Haagse winkelmedewerkster eind september voor rechter",
-    "subtitle": null,
-    "published_at": "2023-08-30T18:25:49+02:00",
-    "updated_at": "2023-08-30T18:25:50+02:00",
-    "media_id": "jwzx53sa9ay6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6278782/verdachte-doodsteken-haagse-winkelmedewerkster-eind-september-voor-rechter.html",
     "open_new_window": false,
     "partner": null
   }
