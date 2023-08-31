@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278840,
+    "slug": "vlammen-slaan-uit-flat-bij-dodelijke-brand-in-johannesburg",
+    "type": "video",
+    "title": "Vlammen slaan uit flat bij dodelijke brand in Johannesburg",
+    "subtitle": "Video",
+    "published_at": "2023-08-31T09:09:39+02:00",
+    "updated_at": "2023-08-31T09:13:03+02:00",
+    "media_id": "nb6xjptaufvw",
+    "duration": "0:35",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6278840/vlammen-slaan-uit-flat-bij-dodelijke-brand-in-johannesburg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278839,
     "slug": "volleybalduel-in-vs-leidt-tot-recordaantal-toeschouwers-in-vrouwensport",
     "type": "article",
@@ -328,7 +351,7 @@
     "title": "Hoe deze bijzondere wind voor zwaardere bosbranden zorgt",
     "subtitle": "Explainer",
     "published_at": "2023-08-31T06:12:51+02:00",
-    "updated_at": "2023-08-31T07:08:25+02:00",
+    "updated_at": "2023-08-31T09:21:23+02:00",
     "media_id": "395xlp6auabz",
     "duration": "1:43",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6278822/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278733,
-    "slug": "hoe-klimaatverandering-nu-al-te-merken-is-op-wintersport",
-    "type": "article",
-    "title": "Hoe klimaatverandering nu al te merken is op wintersport",
-    "subtitle": "NU+",
-    "published_at": "2023-08-31T05:02:43+02:00",
-    "updated_at": "2023-08-31T08:19:24+02:00",
-    "media_id": "dxfxxbkacsqq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779003,
-      "slug": "gebaseerd-op-jullie-vragen",
-      "type": "default",
-      "name": "Gebaseerd op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gebaseerd-op-jullie-vragen/6278733/hoe-klimaatverandering-nu-al-te-merken-is-op-wintersport.html",
     "open_new_window": false,
     "partner": null
   }
