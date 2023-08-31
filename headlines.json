@@ -1,12 +1,58 @@
 [
   {
+    "id": 6278828,
+    "slug": "twee-gewonden-door-brand-na-gasexplosie-in-flatgebouw-in-hengelo",
+    "type": "article",
+    "title": "Twee gewonden door brand na gasexplosie in flatgebouw in Hengelo",
+    "subtitle": null,
+    "published_at": "2023-08-31T07:01:42+02:00",
+    "updated_at": "2023-08-31T07:07:46+02:00",
+    "media_id": "d9nxyrua4rhf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6278828/twee-gewonden-door-brand-na-gasexplosie-in-flatgebouw-in-hengelo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6278820,
+    "slug": "champions-league-ticket-voelt-als-prijs-voor-bosz-we-gaan-nu-echt-veel-leren",
+    "type": "article",
+    "title": "Champions League-ticket voelt als prijs voor Bosz: 'We gaan nu écht veel leren'",
+    "subtitle": null,
+    "published_at": "2023-08-31T06:53:35+02:00",
+    "updated_at": "2023-08-31T06:53:37+02:00",
+    "media_id": "115xc15aolwb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6278820/champions-league-ticket-voelt-als-prijs-voor-bosz-we-gaan-nu-echt-veel-leren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278827,
     "slug": "inflatie-daalt-snel-naar-laagste-niveau-in-twee-jaar-tijd",
     "type": "article",
     "title": "Inflatie daalt snel naar laagste niveau in twee jaar tijd",
     "subtitle": null,
     "published_at": "2023-08-31T06:42:56+02:00",
-    "updated_at": "2023-08-31T06:42:57+02:00",
+    "updated_at": "2023-08-31T07:06:39+02:00",
     "media_id": "0cfxqjcab4ir",
     "duration": null,
     "canonical_section": {
@@ -24,12 +70,12 @@
   },
   {
     "id": 6278732,
-    "slug": "hoe-een-fohnwind-voor-bosbranden-en-hittegolven-zorgt",
+    "slug": "hoe-deze-bijzondere-wind-voor-zwaardere-bosbranden-zorgt",
     "type": "video",
-    "title": "Hoe een föhnwind voor bosbranden en hittegolven zorgt",
+    "title": "Hoe deze bijzondere wind voor zwaardere bosbranden zorgt",
     "subtitle": "Explainer",
     "published_at": "2023-08-31T06:12:51+02:00",
-    "updated_at": "2023-08-31T06:12:52+02:00",
+    "updated_at": "2023-08-31T07:08:25+02:00",
     "media_id": "395xlp6auabz",
     "duration": "1:43",
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/uitgelicht-klimaat/6278732/hoe-een-fohnwind-voor-bosbranden-en-hittegolven-zorgt.html",
+    "url": "/uitgelicht-klimaat/6278732/hoe-deze-bijzondere-wind-voor-zwaardere-bosbranden-zorgt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -70,13 +116,13 @@
   },
   {
     "id": 6278823,
-    "slug": "vijf-spoorwerkers-in-noord-italie-om-het-leven-gekomen-door-trein",
+    "slug": "vijf-spoorwerkers-in-noord-italie-om-het-leven-gekomen-door-aanrijding-met-trein",
     "type": "article",
-    "title": "Vijf spoorwerkers in Noord-Italië om het leven gekomen door trein",
+    "title": "Vijf spoorwerkers in Noord-Italië om het leven gekomen door aanrijding met trein",
     "subtitle": null,
     "published_at": "2023-08-31T06:07:08+02:00",
-    "updated_at": "2023-08-31T06:28:24+02:00",
-    "media_id": "6u9xyxia2ytp",
+    "updated_at": "2023-08-31T06:55:28+02:00",
+    "media_id": "7xkxpqyad3o9",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6278823/vijf-spoorwerkers-in-noord-italie-om-het-leven-gekomen-door-trein.html",
+    "url": "/buitenland/6278823/vijf-spoorwerkers-in-noord-italie-om-het-leven-gekomen-door-aanrijding-met-trein.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +144,7 @@
     "title": "Weerbericht: Mix van zon en wolken met af en toe een (onweers)bui",
     "subtitle": null,
     "published_at": "2023-08-31T05:35:53+02:00",
-    "updated_at": "2023-08-31T05:48:16+02:00",
+    "updated_at": "2023-08-31T06:57:13+02:00",
     "media_id": "wubx4d0ax55g",
     "duration": null,
     "canonical_section": {
@@ -208,12 +254,12 @@
   },
   {
     "id": 6278819,
-    "slug": "bijna-helft-nederlanders-maakt-zich-veel-zorgen-om-verspreiden-misinformatie",
+    "slug": "bijna-helft-van-nederlanders-maakt-zich-veel-zorgen-over-misinformatie",
     "type": "article",
-    "title": "Bijna helft Nederlanders maakt zich veel zorgen om verspreiden misinformatie",
+    "title": "Bijna helft van Nederlanders maakt zich veel zorgen over misinformatie",
     "subtitle": null,
     "published_at": "2023-08-31T00:15:48+02:00",
-    "updated_at": "2023-08-31T00:16:08+02:00",
+    "updated_at": "2023-08-31T07:04:17+02:00",
     "media_id": "wdixbnxafom0",
     "duration": null,
     "canonical_section": {
@@ -225,18 +271,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6278819/bijna-helft-nederlanders-maakt-zich-veel-zorgen-om-verspreiden-misinformatie.html",
+    "url": "/media/6278819/bijna-helft-van-nederlanders-maakt-zich-veel-zorgen-over-misinformatie.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6278817,
-    "slug": "cbs-nederlandse-aardgasreserves-over-minder-dan-9-jaar-uitgeput",
+    "slug": "nederlandse-aardgasreserves-over-minder-dan-negen-jaar-uitgeput",
     "type": "article",
-    "title": "CBS: Nederlandse aardgasreserves over minder dan 9 jaar uitgeput",
+    "title": "Nederlandse aardgasreserves over minder dan negen jaar uitgeput",
     "subtitle": null,
     "published_at": "2023-08-31T00:05:24+02:00",
-    "updated_at": "2023-08-31T00:05:25+02:00",
+    "updated_at": "2023-08-31T07:05:44+02:00",
     "media_id": "iqaxyk8alf4o",
     "duration": null,
     "canonical_section": {
@@ -248,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6278817/cbs-nederlandse-aardgasreserves-over-minder-dan-9-jaar-uitgeput.html",
+    "url": "/economie/6278817/nederlandse-aardgasreserves-over-minder-dan-negen-jaar-uitgeput.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +374,7 @@
     "title": "Luuk de Jong zet deur naar Oranje op een kier na 'heerlijke' avond met PSV",
     "subtitle": null,
     "published_at": "2023-08-30T23:24:26+02:00",
-    "updated_at": "2023-08-31T05:18:20+02:00",
+    "updated_at": "2023-08-31T06:58:56+02:00",
     "media_id": "r3zxqroa36pg",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Potindeling Champions League bekend: PSV in pot 3, Feyenoord tussen de elite",
     "subtitle": null,
     "published_at": "2023-08-30T22:58:14+02:00",
-    "updated_at": "2023-08-30T23:51:48+02:00",
+    "updated_at": "2023-08-31T06:54:01+02:00",
     "media_id": "yu7x8raa8ztz",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6278811/van-bommel-boekt-opnieuw-succes-met-antwerp-na-drie-prijzen-ook-cl-debuut.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278807,
-    "slug": "psv-overklast-rangers-en-gaat-samen-met-feyenoord-de-champions-league-in",
-    "type": "article",
-    "title": "PSV overklast Rangers en gaat samen met Feyenoord de Champions League in",
-    "subtitle": null,
-    "published_at": "2023-08-30T22:54:52+02:00",
-    "updated_at": "2023-08-31T00:02:36+02:00",
-    "media_id": "2r1xhf5a7s2n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6278807/psv-overklast-rangers-en-gaat-samen-met-feyenoord-de-champions-league-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278810,
-    "slug": "bewakingscamera-filmt-ramkraak-met-gestolen-pick-uptruck-in-vs",
-    "type": "video",
-    "title": "Bewakingscamera filmt ramkraak met gestolen pick-uptruck in VS",
-    "subtitle": "Video",
-    "published_at": "2023-08-30T22:14:46+02:00",
-    "updated_at": "2023-08-30T22:14:47+02:00",
-    "media_id": "2hvxnwya7bwh",
-    "duration": "0:59",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6278810/bewakingscamera-filmt-ramkraak-met-gestolen-pick-uptruck-in-vs.html",
     "open_new_window": false,
     "partner": null
   }
