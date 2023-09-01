@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279105,
+    "slug": "van-bommel-verlengt-contract-bij-royal-antwerp-na-primeur-in-champions-league",
+    "type": "article",
+    "title": "Van Bommel verlengt contract bij Royal Antwerp na primeur in Champions League",
+    "subtitle": null,
+    "published_at": "2023-09-01T17:26:24+02:00",
+    "updated_at": "2023-09-01T17:26:25+02:00",
+    "media_id": "czox2eeabxit",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6279105/van-bommel-verlengt-contract-bij-royal-antwerp-na-primeur-in-champions-league.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279095,
     "slug": "mast-zeilschip-breekt-precies-een-jaar-na-fataal-ongeluk-op-vergelijkbaar-schip",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Matthijs van Nieuwkerk: 'Dat DWDD-medewerkers zijn geknakt, was het niet waard'",
     "subtitle": null,
     "published_at": "2023-09-01T17:00:32+02:00",
-    "updated_at": "2023-09-01T17:18:47+02:00",
+    "updated_at": "2023-09-01T17:39:13+02:00",
     "media_id": "5knxkv8anrb4",
     "duration": null,
     "canonical_section": {
@@ -52,8 +75,8 @@
     "title": "PSV-coach Bosz over aanstaande transfer Lozano: 'Nog niet 100 procent rond'",
     "subtitle": null,
     "published_at": "2023-09-01T17:00:32+02:00",
-    "updated_at": "2023-09-01T17:03:33+02:00",
-    "media_id": "i0sxx0sa33bl",
+    "updated_at": "2023-09-01T17:39:22+02:00",
+    "media_id": "fj5xhioauqab",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -116,12 +139,12 @@
   },
   {
     "id": 6279083,
-    "slug": "waarom-begint-de-herfst-vandaag-maar-ook-op-21-en-23-september",
+    "slug": "waarom-begint-de-herfst-vandaag-maar-ook-later-deze-maand",
     "type": "article",
-    "title": "Waarom begint de herfst vandaag, maar ook op 21 én 23 september?",
+    "title": "Waarom begint de herfst vandaag, maar ook later deze maand?",
     "subtitle": "In 100 woorden",
     "published_at": "2023-09-01T16:24:34+02:00",
-    "updated_at": "2023-09-01T16:24:35+02:00",
+    "updated_at": "2023-09-01T17:29:25+02:00",
     "media_id": "r90xri5a8abs",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6279083/waarom-begint-de-herfst-vandaag-maar-ook-op-21-en-23-september.html",
+    "url": "/binnenland/6279083/waarom-begint-de-herfst-vandaag-maar-ook-later-deze-maand.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6279069/ajax-opponent-brighton-haalt-fc-barcelona-talent-ansu-fati-naar-engeland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279068,
-    "slug": "import-van-russische-goederen-neemt-nog-steeds-af-door-europese-sancties",
-    "type": "article",
-    "title": "Import van Russische goederen neemt nog steeds af door Europese sancties",
-    "subtitle": null,
-    "published_at": "2023-09-01T14:46:57+02:00",
-    "updated_at": "2023-09-01T14:46:58+02:00",
-    "media_id": "s1qx7b9ayjag",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6279068/import-van-russische-goederen-neemt-nog-steeds-af-door-europese-sancties.html",
     "open_new_window": false,
     "partner": null
   }
