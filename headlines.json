@@ -1,5 +1,28 @@
 [
   {
+    "id": 6278989,
+    "slug": "jongere-generatie-is-blij-dat-ze-nog-twee-jaar-langer-met-hamilton-kan-racen",
+    "type": "article",
+    "title": "Jongere generatie is blij dat ze nog twee jaar langer met Hamilton kan racen",
+    "subtitle": null,
+    "published_at": "2023-09-01T09:03:56+02:00",
+    "updated_at": "2023-09-01T09:03:57+02:00",
+    "media_id": "mtvxv7bagtmc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6278989/jongere-generatie-is-blij-dat-ze-nog-twee-jaar-langer-met-hamilton-kan-racen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278985,
     "slug": "freek-de-jonge-deelt-bekroonde-animatiefilm-op-youtube",
     "type": "article",
@@ -231,12 +254,12 @@
   },
   {
     "id": 6278976,
-    "slug": "diederik-van-rooijen-richt-productiehuis-op-maakt-nieuwe-serie-sphinx",
+    "slug": "diederik-van-rooijen-maakt-met-eigen-productiehuis-serie-voor-videoland",
     "type": "article",
-    "title": "Diederik van Rooijen richt productiehuis op, maakt nieuwe serie Sphinx",
+    "title": "Diederik van Rooijen maakt met eigen productiehuis serie voor Videoland",
     "subtitle": null,
     "published_at": "2023-09-01T05:57:40+02:00",
-    "updated_at": "2023-09-01T06:53:10+02:00",
+    "updated_at": "2023-09-01T08:47:25+02:00",
     "media_id": "q7dxt6capias",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6278976/diederik-van-rooijen-richt-productiehuis-op-maakt-nieuwe-serie-sphinx.html",
+    "url": "/film/6278976/diederik-van-rooijen-maakt-met-eigen-productiehuis-serie-voor-videoland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6278848/wolf-beschieten-met-een-paintballgeweer-rechter-beslist-vandaag-of-het-mag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6278963,
-    "slug": "potindeling-el-en-ecl-bekend-dit-zijn-de-mogelijke-tegenstanders-van-ajax-en-az",
-    "type": "article",
-    "title": "Potindeling EL en ECL bekend: dit zijn de mogelijke tegenstanders van Ajax en AZ",
-    "subtitle": null,
-    "published_at": "2023-08-31T23:54:53+02:00",
-    "updated_at": "2023-09-01T07:53:22+02:00",
-    "media_id": "6t0xzigaakws",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6278963/potindeling-el-en-ecl-bekend-dit-zijn-de-mogelijke-tegenstanders-van-ajax-en-az.html",
     "open_new_window": false,
     "partner": null
   }
