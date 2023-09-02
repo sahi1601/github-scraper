@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279228,
+    "slug": "almere-city-aast-tegen-pec-zwolle-op-eerste-zege-in-eredivisie",
+    "type": "article",
+    "title": "Almere City aast tegen PEC Zwolle op eerste zege in Eredivisie",
+    "subtitle": "Liveblog",
+    "published_at": "2023-09-02T16:13:48+02:00",
+    "updated_at": "2023-09-02T16:13:49+02:00",
+    "media_id": "g3mx9c8aoteo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6279228/almere-city-aast-tegen-pec-zwolle-op-eerste-zege-in-eredivisie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6278885,
     "slug": "zo-jaag-je-die-vervelende-fruitvliegjes-de-keuken-uit",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "NASA ontdekt krater in de maan die waarschijnlijk door Russische crash komt",
     "subtitle": null,
     "published_at": "2023-09-02T15:34:16+02:00",
-    "updated_at": "2023-09-02T15:46:28+02:00",
+    "updated_at": "2023-09-02T16:23:04+02:00",
     "media_id": "81qx0q5asnfu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6279198/noodverordening-leidse-bibliotheek-wegens-protest-tegen-voorlezende-dragqueen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279196,
-    "slug": "coureurs-begonnen-aan-kwalificatie-gp-italie",
-    "type": "article",
-    "title": "Coureurs begonnen aan kwalificatie GP Italië",
-    "subtitle": "Liveblog",
-    "published_at": "2023-09-02T12:02:16+02:00",
-    "updated_at": "2023-09-02T16:02:22+02:00",
-    "media_id": "l2rxe6papxg4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "GP Italië",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6279196/coureurs-begonnen-aan-kwalificatie-gp-italie.html",
     "open_new_window": false,
     "partner": null
   }
