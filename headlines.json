@@ -1,12 +1,35 @@
 [
   {
+    "id": 6279273,
+    "slug": "tienduizenden-bezoekers-burning-man-festival-vast-in-de-modder-door-storm",
+    "type": "article",
+    "title": "Tienduizenden bezoekers Burning Man-festival vast in de modder door storm",
+    "subtitle": null,
+    "published_at": "2023-09-02T22:25:45+02:00",
+    "updated_at": "2023-09-02T22:30:41+02:00",
+    "media_id": "m1mxt6ba1dte",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6279273/tienduizenden-bezoekers-burning-man-festival-vast-in-de-modder-door-storm.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279272,
     "slug": "twee-doden-door-ongeluk-bij-station-rotterdam-blaak-bestuurder-doorgereden",
     "type": "article",
     "title": "Twee doden door ongeluk bij station Rotterdam Blaak, bestuurder doorgereden",
     "subtitle": null,
     "published_at": "2023-09-02T22:20:34+02:00",
-    "updated_at": "2023-09-02T22:20:35+02:00",
+    "updated_at": "2023-09-02T22:27:43+02:00",
     "media_id": "2kbxdw9axlif",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Go Ahead klopt ook Heerenveen en blijft voor negende thuisduel op rij ongeslagen",
     "subtitle": null,
     "published_at": "2023-09-02T20:42:56+02:00",
-    "updated_at": "2023-09-02T21:37:40+02:00",
+    "updated_at": "2023-09-02T22:38:31+02:00",
     "media_id": "ow4xhv7at9si",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Almere City blijft puntloos na knotsgekke slotminuten tegen PEC Zwolle",
     "subtitle": null,
     "published_at": "2023-09-02T18:41:57+02:00",
-    "updated_at": "2023-09-02T20:51:41+02:00",
+    "updated_at": "2023-09-02T22:37:06+02:00",
     "media_id": "0sjxnpxazpk0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6279250/verstappen-kan-niets-met-woorden-hamilton-misschien-is-hij-een-beetje-jaloers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279247,
-    "slug": "bellingham-neemt-real-madrid-weer-bij-de-hand-met-winnende-goal-in-extra-tijd",
-    "type": "article",
-    "title": "Bellingham neemt Real Madrid wéér bij de hand met winnende goal in extra tijd",
-    "subtitle": null,
-    "published_at": "2023-09-02T18:27:19+02:00",
-    "updated_at": "2023-09-02T19:44:54+02:00",
-    "media_id": "x7jxdyuatze1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6279247/bellingham-neemt-real-madrid-weer-bij-de-hand-met-winnende-goal-in-extra-tijd.html",
     "open_new_window": false,
     "partner": null
   }
