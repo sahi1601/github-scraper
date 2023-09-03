@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279278,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-09-03T05:14:15+02:00",
+    "updated_at": "2023-09-03T05:14:17+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6279278/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279268,
     "slug": "bekijk-de-startopstelling-voor-de-grand-prix-van-italie-met-sainz-op-pole",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6279261/kabinet-volgt-raad-van-state-derdelanders-mogen-blijven-tot-uitspraak-hoogste-rechter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279260,
-    "slug": "go-ahead-eagles-klopt-ook-heerenveen-heracles-knokt-zich-langs-excelsior",
-    "type": "article",
-    "title": "Go Ahead Eagles klopt ook Heerenveen, Heracles knokt zich langs Excelsior",
-    "subtitle": null,
-    "published_at": "2023-09-02T20:42:56+02:00",
-    "updated_at": "2023-09-02T23:26:44+02:00",
-    "media_id": "j65x6faa62j2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6279260/go-ahead-eagles-klopt-ook-heerenveen-heracles-knokt-zich-langs-excelsior.html",
     "open_new_window": false,
     "partner": null
   }
