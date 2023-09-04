@@ -1,5 +1,51 @@
 [
   {
+    "id": 6279475,
+    "slug": "exotische-dieren-en-planten-zorgen-wereldwijd-voor-miljarden-aan-schade",
+    "type": "article",
+    "title": "Exotische dieren en planten zorgen wereldwijd voor miljarden aan schade",
+    "subtitle": null,
+    "published_at": "2023-09-04T16:44:34+02:00",
+    "updated_at": "2023-09-04T16:44:36+02:00",
+    "media_id": "ykqxk95adtyg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6279475/exotische-dieren-en-planten-zorgen-wereldwijd-voor-miljarden-aan-schade.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279479,
+    "slug": "koeman-blikt-vooruit-op-ek-kwalificatiewedstrijd-tegen-griekenland",
+    "type": "article",
+    "title": "Koeman blikt vooruit op EK-kwalificatiewedstrijd tegen Griekenland",
+    "subtitle": "Liveblog",
+    "published_at": "2023-09-04T16:28:01+02:00",
+    "updated_at": "2023-09-04T16:28:03+02:00",
+    "media_id": "wn4x0vta1ifs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6279479/koeman-blikt-vooruit-op-ek-kwalificatiewedstrijd-tegen-griekenland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279478,
     "slug": "gelderse-school-ontruimd-na-ontploffing-chloorbom-op-toilet",
     "type": "video",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6279476,
-    "slug": "bondscoach-ronald-koeman-blikt-vooruit-op-ek-kwalificatieduels-oranje",
+    "slug": "bondscoach-koeman-blikt-vooruit-op-ek-kwalificatieduels-oranje",
     "type": "video",
-    "title": "Bondscoach Ronald Koeman blikt vooruit op EK-kwalificatieduels Oranje",
+    "title": "Bondscoach Koeman blikt vooruit op EK-kwalificatieduels Oranje",
     "subtitle": "Livestream",
     "published_at": "2023-09-04T16:23:31+02:00",
-    "updated_at": "2023-09-04T16:23:32+02:00",
+    "updated_at": "2023-09-04T16:28:39+02:00",
     "media_id": "6hxxas2ay9lu",
     "duration": "0:01",
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6279476/bondscoach-ronald-koeman-blikt-vooruit-op-ek-kwalificatieduels-oranje.html",
+    "url": "/algemeen/6279476/bondscoach-koeman-blikt-vooruit-op-ek-kwalificatieduels-oranje.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,8 +98,8 @@
     "title": "Zelfs op rustdag gedoe rond Vuelta: renners door noodweer pas 's nachts in hotel",
     "subtitle": null,
     "published_at": "2023-09-04T16:03:48+02:00",
-    "updated_at": "2023-09-04T16:03:49+02:00",
-    "media_id": "6hwx8xlaidwz",
+    "updated_at": "2023-09-04T16:36:09+02:00",
+    "media_id": "n0ex60ra38g5",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -144,7 +190,7 @@
     "title": "School in Duiven ontruimd vanwege TikTok-stunt met chloorbom",
     "subtitle": null,
     "published_at": "2023-09-04T15:23:20+02:00",
-    "updated_at": "2023-09-04T15:51:47+02:00",
+    "updated_at": "2023-09-04T16:27:02+02:00",
     "media_id": "jfsxvhxa9zsw",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Europese Commissie overweegt de wolf minder te beschermen",
     "subtitle": null,
     "published_at": "2023-09-04T13:31:36+02:00",
-    "updated_at": "2023-09-04T13:36:00+02:00",
+    "updated_at": "2023-09-04T16:37:38+02:00",
     "media_id": "vwvx4fqa2ga9",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport/6279456/bodyguard-messi-rent-veld-op-om-fan-te-stoppen-in-los-angeles.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279453,
-    "slug": "willem-ii-nac-breda-wordt-dinsdag-om-1030-uur-zonder-publiek-uitgespeeld",
-    "type": "article",
-    "title": "Willem II-NAC Breda wordt dinsdag om 10.30 uur zonder publiek uitgespeeld",
-    "subtitle": null,
-    "published_at": "2023-09-04T13:17:01+02:00",
-    "updated_at": "2023-09-04T13:33:59+02:00",
-    "media_id": "88ixpgkaxrs4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6279453/willem-ii-nac-breda-wordt-dinsdag-om-1030-uur-zonder-publiek-uitgespeeld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279448,
-    "slug": "john-ewbank-en-kelly-weekers-verhuizen-naar-ibiza",
-    "type": "article",
-    "title": "John Ewbank en Kelly Weekers verhuizen naar Ibiza",
-    "subtitle": null,
-    "published_at": "2023-09-04T12:53:18+02:00",
-    "updated_at": "2023-09-04T12:53:19+02:00",
-    "media_id": "od3xb6vaheav",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6279448/john-ewbank-en-kelly-weekers-verhuizen-naar-ibiza.html",
     "open_new_window": false,
     "partner": null
   }
