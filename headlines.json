@@ -1,12 +1,35 @@
 [
   {
+    "id": 6279324,
+    "slug": "ouderen-moeten-langer-doorwerken-om-personeelstekort-op-te-lossen",
+    "type": "article",
+    "title": "'Ouderen moeten langer doorwerken om personeelstekort op te lossen'",
+    "subtitle": "Stelling",
+    "published_at": "2023-09-04T07:13:02+02:00",
+    "updated_at": "2023-09-04T07:13:03+02:00",
+    "media_id": "p1txcoja93bq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6279324/ouderen-moeten-langer-doorwerken-om-personeelstekort-op-te-lossen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279388,
     "slug": "swiatek-strandt-zeer-verrassend-op-us-open-sabalenka-nieuwe-nummer-een",
     "type": "article",
     "title": "Swiatek strandt zeer verrassend op US Open, Sabalenka nieuwe nummer één",
     "subtitle": null,
     "published_at": "2023-09-04T07:08:01+02:00",
-    "updated_at": "2023-09-04T07:10:31+02:00",
+    "updated_at": "2023-09-04T07:12:04+02:00",
     "media_id": "ccpxqybat21d",
     "duration": null,
     "canonical_section": {
@@ -26,10 +49,10 @@
     "id": 6279387,
     "slug": "weerbericht-na-mist-komt-zon",
     "type": "article",
-    "title": "Weerbericht: na mist komt zon",
+    "title": "Weerbericht: Na mist komt zon",
     "subtitle": null,
     "published_at": "2023-09-04T06:59:21+02:00",
-    "updated_at": "2023-09-04T06:59:22+02:00",
+    "updated_at": "2023-09-04T07:14:53+02:00",
     "media_id": "vlvx28na8tph",
     "duration": null,
     "canonical_section": {
@@ -236,8 +259,8 @@
     "title": "Dijkgraaf over misstanden bij ontgroening Amsterdams dispuut: 'Niet van deze tijd'",
     "subtitle": null,
     "published_at": "2023-09-04T05:40:46+02:00",
-    "updated_at": "2023-09-04T07:00:24+02:00",
-    "media_id": "l04xr1ua50qc",
+    "updated_at": "2023-09-04T07:12:43+02:00",
+    "media_id": "xc3xo1japryj",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6279372/van-hooijdonk-heeft-contact-gehad-met-steijn-maar-hij-vond-het-te-vroeg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279371,
-    "slug": "wolff-maakt-verstappen-groot-en-mercedes-klein",
-    "type": "audio",
-    "title": "'Wolff maakt Verstappen groot en Mercedes klein'",
-    "subtitle": "Podcast De Boordradio",
-    "published_at": "2023-09-03T22:17:46+02:00",
-    "updated_at": "2023-09-03T22:53:26+02:00",
-    "media_id": "36tx2lgapggp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1776659,
-      "slug": "de-boordradio",
-      "type": "default",
-      "name": "De Boordradio",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/de-boordradio/6279371/wolff-maakt-verstappen-groot-en-mercedes-klein.html",
     "open_new_window": false,
     "partner": null
   }
