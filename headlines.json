@@ -1,5 +1,51 @@
 [
   {
+    "id": 6279478,
+    "slug": "gelderse-school-ontruimd-na-ontploffing-chloorbom-op-toilet",
+    "type": "video",
+    "title": "Gelderse school ontruimd na ontploffing chloorbom op toilet",
+    "subtitle": "Video",
+    "published_at": "2023-09-04T16:26:11+02:00",
+    "updated_at": "2023-09-04T16:26:12+02:00",
+    "media_id": "u74xwjvajzn4",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6279478/gelderse-school-ontruimd-na-ontploffing-chloorbom-op-toilet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279476,
+    "slug": "bondscoach-ronald-koeman-blikt-vooruit-op-ek-kwalificatieduels-oranje",
+    "type": "video",
+    "title": "Bondscoach Ronald Koeman blikt vooruit op EK-kwalificatieduels Oranje",
+    "subtitle": "Livestream",
+    "published_at": "2023-09-04T16:23:31+02:00",
+    "updated_at": "2023-09-04T16:23:32+02:00",
+    "media_id": "6hxxas2ay9lu",
+    "duration": "0:01",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6279476/bondscoach-ronald-koeman-blikt-vooruit-op-ek-kwalificatieduels-oranje.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279473,
     "slug": "zelfs-op-rustdag-gedoe-rond-vuelta-renners-door-noodweer-pas-s-nachts-in-hotel",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6279448/john-ewbank-en-kelly-weekers-verhuizen-naar-ibiza.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279429,
-    "slug": "studeer-je-en-zit-je-wel-of-juist-niet-bij-een-vereniging",
-    "type": "article",
-    "title": "Studeer je en zit je wel of juist niet bij een vereniging?",
-    "subtitle": "Praat Mee",
-    "published_at": "2023-09-04T12:39:29+02:00",
-    "updated_at": "2023-09-04T12:39:30+02:00",
-    "media_id": "fmgxjj9arhif",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6279429/studeer-je-en-zit-je-wel-of-juist-niet-bij-een-vereniging.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279437,
-    "slug": "art-rooijakkers-vraagt-zijn-vriendin-karlijn-ten-huwelijk",
-    "type": "article",
-    "title": "Art Rooijakkers vraagt zijn vriendin Karlijn ten huwelijk",
-    "subtitle": null,
-    "published_at": "2023-09-04T12:33:32+02:00",
-    "updated_at": "2023-09-04T12:59:25+02:00",
-    "media_id": "59exu6rasuah",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6279437/art-rooijakkers-vraagt-zijn-vriendin-karlijn-ten-huwelijk.html",
     "open_new_window": false,
     "partner": null
   }
