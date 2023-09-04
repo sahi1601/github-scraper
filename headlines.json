@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279453,
+    "slug": "willem-ii-nac-breda-wordt-dinsdag-om-1030-uur-zonder-publiek-uitgespeeld",
+    "type": "article",
+    "title": "Willem II-NAC Breda wordt dinsdag om 10.30 uur zonder publiek uitgespeeld",
+    "subtitle": null,
+    "published_at": "2023-09-04T13:17:01+02:00",
+    "updated_at": "2023-09-04T13:19:53+02:00",
+    "media_id": "88ixpgkaxrs4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6279453/willem-ii-nac-breda-wordt-dinsdag-om-1030-uur-zonder-publiek-uitgespeeld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279448,
     "slug": "john-ewbank-en-kelly-weekers-verhuizen-naar-ibiza",
     "type": "article",
@@ -328,7 +351,7 @@
     "title": "Mediakenner Tina Nijkamp deelt opnieuw kijkcijfers van de dag ervoor",
     "subtitle": null,
     "published_at": "2023-09-04T10:54:29+02:00",
-    "updated_at": "2023-09-04T13:02:59+02:00",
+    "updated_at": "2023-09-04T13:10:56+02:00",
     "media_id": "q6nxka2aoghc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6279400/agent-rijdt-dwars-door-bosbrand-in-vs-ik-wil-niet-dood.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279398,
-    "slug": "volleybalsters-genieten-volop-van-ek-succes-dit-is-brons-met-een-gouden-rand",
-    "type": "article",
-    "title": "Volleybalsters genieten volop van EK-succes: 'Dit is brons met een gouden rand'",
-    "subtitle": null,
-    "published_at": "2023-09-04T08:59:05+02:00",
-    "updated_at": "2023-09-04T09:47:41+02:00",
-    "media_id": "bmzx81ha45qq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6279398/volleybalsters-genieten-volop-van-ek-succes-dit-is-brons-met-een-gouden-rand.html",
     "open_new_window": false,
     "partner": null
   }
