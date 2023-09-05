@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279621,
+    "slug": "tiktok-bewaart-jouw-gegevens-voortaan-in-europa",
+    "type": "article",
+    "title": "TikTok bewaart jouw gegevens voortaan in Europa",
+    "subtitle": null,
+    "published_at": "2023-09-05T15:16:53+02:00",
+    "updated_at": "2023-09-05T15:16:54+02:00",
+    "media_id": "s2axqvfavfte",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6279621/tiktok-bewaart-jouw-gegevens-voortaan-in-europa.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279617,
     "slug": "bb-vol-liefde-deelneemster-esra-bevestigt-relatie-met-bram-uit-zweden",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6279579/nac-blijft-in-leeg-stadion-uit-problemen-in-restant-tegen-willem-ii-en-wint-ruim.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279569,
-    "slug": "olifant-slaat-met-slurf-voorruit-van-bus-kapot-in-india",
-    "type": "video",
-    "title": "Olifant slaat met slurf voorruit van bus kapot in India",
-    "subtitle": "Video",
-    "published_at": "2023-09-05T10:42:40+02:00",
-    "updated_at": "2023-09-05T10:42:41+02:00",
-    "media_id": "fstxr53ar8fw",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6279569/olifant-slaat-met-slurf-voorruit-van-bus-kapot-in-india.html",
     "open_new_window": false,
     "partner": null
   }
