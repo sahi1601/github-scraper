@@ -1,12 +1,58 @@
 [
   {
-    "id": 6279541,
-    "slug": "het-water-van-de-rivier-de-rijn-is-nog-steeds-te-vies",
+    "id": 6279497,
+    "slug": "wat-zijn-jouw-tips-tegen-stress-op-de-werkvloer",
     "type": "article",
-    "title": "Het water van de rivier de Rijn is nog steeds te vies",
+    "title": "Wat zijn jouw tips tegen stress op de werkvloer?",
+    "subtitle": "Praat Mee",
+    "published_at": "2023-09-05T07:14:44+02:00",
+    "updated_at": "2023-09-05T07:14:45+02:00",
+    "media_id": "t5nxvntajgkq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6279497/wat-zijn-jouw-tips-tegen-stress-op-de-werkvloer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279543,
+    "slug": "nieuwe-nummer-een-van-de-wereld-sabalenka-bereikt-kwartfinales-us-open",
+    "type": "article",
+    "title": "Nieuwe nummer één van de wereld Sabalenka bereikt kwartfinales US Open",
+    "subtitle": null,
+    "published_at": "2023-09-05T07:11:13+02:00",
+    "updated_at": "2023-09-05T07:12:02+02:00",
+    "media_id": "r3lxazwaz3it",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6279543/nieuwe-nummer-een-van-de-wereld-sabalenka-bereikt-kwartfinales-us-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279541,
+    "slug": "het-water-van-de-rijn-is-nog-steeds-te-vies",
+    "type": "article",
+    "title": "Het water van de Rijn is nog steeds te vies",
     "subtitle": null,
     "published_at": "2023-09-05T07:02:18+02:00",
-    "updated_at": "2023-09-05T07:05:39+02:00",
+    "updated_at": "2023-09-05T07:18:03+02:00",
     "media_id": "wg9x7u5aw1qn",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6279541/het-water-van-de-rivier-de-rijn-is-nog-steeds-te-vies.html",
+    "url": "/binnenland/6279541/het-water-van-de-rijn-is-nog-steeds-te-vies.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +167,7 @@
     "title": "Gewone Turk krijgt rekening gepresenteerd sinds herverkiezing Erdogan",
     "subtitle": "NU+",
     "published_at": "2023-09-05T05:04:23+02:00",
-    "updated_at": "2023-09-05T05:04:24+02:00",
+    "updated_at": "2023-09-05T07:13:06+02:00",
     "media_id": "evqxkrfa1jxe",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6279524/kokcu-uitgeroepen-tot-eredivisie-speler-van-het-jaar-kalma-wint-weer-bij-vrouwen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279530,
-    "slug": "hertje-zit-vast-in-zwembad-en-wordt-gered-door-amerikaanse-politie",
-    "type": "video",
-    "title": "Hertje zit vast in zwembad en wordt gered door Amerikaanse politie",
-    "subtitle": "Video",
-    "published_at": "2023-09-04T21:36:28+02:00",
-    "updated_at": "2023-09-04T23:11:07+02:00",
-    "media_id": "xmjxu6qa8w3b",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6279530/hertje-zit-vast-in-zwembad-en-wordt-gered-door-amerikaanse-politie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279529,
-    "slug": "justitieminister-belgie-onder-vuur-om-feestje-waarbij-over-politieauto-werd-geplast",
-    "type": "article",
-    "title": "Justitieminister België onder vuur om feestje waarbij over politieauto werd geplast",
-    "subtitle": null,
-    "published_at": "2023-09-04T21:35:42+02:00",
-    "updated_at": "2023-09-04T22:00:30+02:00",
-    "media_id": "1inxz3raozv9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6279529/justitieminister-belgie-onder-vuur-om-feestje-waarbij-over-politieauto-werd-geplast.html",
     "open_new_window": false,
     "partner": null
   }
