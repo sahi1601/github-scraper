@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279645,
+    "slug": "heitinga-gaat-kudus-en-alvarez-achterna-en-wordt-assistent-bij-west-ham",
+    "type": "article",
+    "title": "Heitinga gaat Kudus en Álvarez achterna en wordt assistent bij West Ham",
+    "subtitle": null,
+    "published_at": "2023-09-05T17:19:03+02:00",
+    "updated_at": "2023-09-05T17:19:04+02:00",
+    "media_id": "271x51yaiqyk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6279645/heitinga-gaat-kudus-en-alvarez-achterna-en-wordt-assistent-bij-west-ham.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279640,
     "slug": "154-az-supporters-die-antisemitische-liederen-zongen-worden-niet-vervolgd",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Omstreden bondscoach Vilda twee weken na wereldtitel ontslagen bij Spanje",
     "subtitle": null,
     "published_at": "2023-09-05T16:44:34+02:00",
-    "updated_at": "2023-09-05T17:11:38+02:00",
+    "updated_at": "2023-09-05T17:17:07+02:00",
     "media_id": "54hxespafykl",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6279596/na-bosbranden-kampt-griekenland-nu-met-storm-regenval-en-overstromingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279594,
-    "slug": "frankrijk-weigert-300-meisjes-op-school-na-verbod-op-islamitisch-gewaad-abaja",
-    "type": "article",
-    "title": "Frankrijk weigert 300 meisjes op school na verbod op islamitisch gewaad abaja",
-    "subtitle": null,
-    "published_at": "2023-09-05T12:47:20+02:00",
-    "updated_at": "2023-09-05T12:47:21+02:00",
-    "media_id": "x4gxa22aw515",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6279594/frankrijk-weigert-300-meisjes-op-school-na-verbod-op-islamitisch-gewaad-abaja.html",
     "open_new_window": false,
     "partner": null
   }
