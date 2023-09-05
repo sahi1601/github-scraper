@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279656,
+    "slug": "hulpverleners-redden-vrouw-uit-drijfzand-in-zeeuws-vlaanderen",
+    "type": "video",
+    "title": "Hulpverleners redden vrouw uit drijfzand in Zeeuws-Vlaanderen",
+    "subtitle": "Video",
+    "published_at": "2023-09-05T18:16:47+02:00",
+    "updated_at": "2023-09-05T18:16:48+02:00",
+    "media_id": "lw1x78ianvf6",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6279656/hulpverleners-redden-vrouw-uit-drijfzand-in-zeeuws-vlaanderen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279641,
     "slug": "ook-kledingketen-shoeby-in-de-problemen-door-nasleep-coronacrisis",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Politie ontvangt 150 tips over identiteit vermoorde vrouwen in Nederland",
     "subtitle": null,
     "published_at": "2023-09-05T18:08:28+02:00",
-    "updated_at": "2023-09-05T18:12:11+02:00",
+    "updated_at": "2023-09-05T18:15:33+02:00",
     "media_id": "xedxiasa3tyc",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6279632,
-    "slug": "verbruggen-de-nieuwe-doelman-van-oranje-kan-nooit-snel-genoeg-gaan",
+    "slug": "bart-verbruggen-nieuwe-keeper-van-oranje-kan-nooit-snel-genoeg-gaan",
     "type": "article",
-    "title": "Verbruggen de nieuwe doelman van Oranje? 'Kan nooit snel genoeg gaan'",
+    "title": "Bart Verbruggen nieuwe keeper van Oranje? 'Kan nooit snel genoeg gaan'",
     "subtitle": "NU+",
     "published_at": "2023-09-05T17:46:09+02:00",
-    "updated_at": "2023-09-05T17:57:31+02:00",
+    "updated_at": "2023-09-05T18:22:50+02:00",
     "media_id": "cqfxh5rardun",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6279632/verbruggen-de-nieuwe-doelman-van-oranje-kan-nooit-snel-genoeg-gaan.html",
+    "url": "/voetbal/6279632/bart-verbruggen-nieuwe-keeper-van-oranje-kan-nooit-snel-genoeg-gaan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "154 AZ-supporters die antisemitische liederen zongen worden niet vervolgd",
     "subtitle": null,
     "published_at": "2023-09-05T17:11:45+02:00",
-    "updated_at": "2023-09-05T18:10:35+02:00",
+    "updated_at": "2023-09-05T18:17:44+02:00",
     "media_id": "r1gxv0eapoaq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6279595/een-exotische-waterplant-kan-volledig-ecosysteem-om-zeep-helpen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279601,
-    "slug": "t-mobile-directeur-over-nieuwe-naam-odido-even-wennen-voor-de-klanten",
-    "type": "article",
-    "title": "T-Mobile-directeur over nieuwe naam Odido: 'Even wennen voor de klanten'",
-    "subtitle": null,
-    "published_at": "2023-09-05T14:35:26+02:00",
-    "updated_at": "2023-09-05T14:35:27+02:00",
-    "media_id": "cp2xxfqaklxj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6279601/t-mobile-directeur-over-nieuwe-naam-odido-even-wennen-voor-de-klanten.html",
     "open_new_window": false,
     "partner": null
   }
