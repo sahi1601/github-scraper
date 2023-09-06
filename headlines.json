@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279689,
+    "slug": "hitserie-oogappels-krijgt-zesde-seizoen-nieuw-seizoen-vanaf-13-september-te-zien",
+    "type": "article",
+    "title": "Hitserie Oogappels krijgt zesde seizoen, nieuw seizoen vanaf 13 september te zien",
+    "subtitle": null,
+    "published_at": "2023-09-06T06:36:56+02:00",
+    "updated_at": "2023-09-06T06:36:57+02:00",
+    "media_id": "keqxxlna32bz",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6279689/hitserie-oogappels-krijgt-zesde-seizoen-nieuw-seizoen-vanaf-13-september-te-zien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279603,
     "slug": "peter-gillis-ex-nicol-kremers-op-cover-nieuwe-playboy-het-is-een-eer",
     "type": "article",
@@ -231,12 +254,12 @@
   },
   {
     "id": 6279677,
-    "slug": "veerdienst-ameland-vaart-rest-van-het-jaar-aangepaste-dienstregeling",
+    "slug": "veerdienst-ameland-vaart-rest-van-het-jaar-volgens-aangepaste-dienstregeling",
     "type": "article",
-    "title": "Veerdienst Ameland vaart rest van het jaar aangepaste dienstregeling",
+    "title": "Veerdienst Ameland vaart rest van het jaar volgens aangepaste dienstregeling",
     "subtitle": null,
     "published_at": "2023-09-05T22:58:33+02:00",
-    "updated_at": "2023-09-05T22:58:34+02:00",
+    "updated_at": "2023-09-06T06:28:40+02:00",
     "media_id": "iorxjbbash3c",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland-en-buitenland/6279677/veerdienst-ameland-vaart-rest-van-het-jaar-aangepaste-dienstregeling.html",
+    "url": "/binnenland-en-buitenland/6279677/veerdienst-ameland-vaart-rest-van-het-jaar-volgens-aangepaste-dienstregeling.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6279673/onduidelijkheid-over-pikorde-jumbo-visma-in-vuelta-na-uitspraken-kuss-en-roglic.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279672,
-    "slug": "waddenzee-dreigt-unesco-status-te-verliezen-door-zout-en-gaswinning",
-    "type": "article",
-    "title": "Waddenzee dreigt UNESCO-status te verliezen door zout- en gaswinning",
-    "subtitle": null,
-    "published_at": "2023-09-05T20:37:11+02:00",
-    "updated_at": "2023-09-05T21:22:27+02:00",
-    "media_id": "de5xi7yakref",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779258,
-      "slug": "binnenland-en-buitenland",
-      "type": "default",
-      "name": "Binnen- en buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland-en-buitenland/6279672/waddenzee-dreigt-unesco-status-te-verliezen-door-zout-en-gaswinning.html",
     "open_new_window": false,
     "partner": null
   }
