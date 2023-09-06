@@ -1,12 +1,35 @@
 [
   {
+    "id": 6279789,
+    "slug": "vluchter-herrada-wint-op-listige-klim-in-vuelta-favorieten-houden-zich-koest",
+    "type": "article",
+    "title": "Vluchter Herrada wint op listige klim in Vuelta, favorieten houden zich koest",
+    "subtitle": null,
+    "published_at": "2023-09-06T17:15:38+02:00",
+    "updated_at": "2023-09-06T17:15:39+02:00",
+    "media_id": "zq3xt3mapu0o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6279789/vluchter-herrada-wint-op-listige-klim-in-vuelta-favorieten-houden-zich-koest.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279751,
-    "slug": "drones-vlammenzee-en-artillerie-hoe-rusland-ontmijnen-moeilijker-maakt",
+    "slug": "drones-vlammenzee-en-artillerie-hoe-rusland-ontmijnen-bemoeilijkt",
     "type": "video",
-    "title": "Drones, vlammenzee en artillerie: hoe Rusland ontmijnen moeilijker maakt",
+    "title": "Drones, vlammenzee en artillerie: hoe Rusland ontmijnen bemoeilijkt",
     "subtitle": "Explainer",
     "published_at": "2023-09-06T17:05:34+02:00",
-    "updated_at": "2023-09-06T17:05:35+02:00",
+    "updated_at": "2023-09-06T17:15:39+02:00",
     "media_id": "og2xmz9atoja",
     "duration": "1:26",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6279751/drones-vlammenzee-en-artillerie-hoe-rusland-ontmijnen-moeilijker-maakt.html",
+    "url": "/spanningen-oekraine/6279751/drones-vlammenzee-en-artillerie-hoe-rusland-ontmijnen-bemoeilijkt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "Spotify blijkt een paradijs voor Zweedse witwassers",
     "subtitle": null,
     "published_at": "2023-09-06T15:39:53+02:00",
-    "updated_at": "2023-09-06T16:10:14+02:00",
+    "updated_at": "2023-09-06T17:18:49+02:00",
     "media_id": "19nxbnradn9f",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6279745/koeman-laat-flekken-keepen-in-belangrijk-ek-kwalificatieduel-met-griekenland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279748,
-    "slug": "bekijk-hier-live-de-persconferentie-van-koeman-en-de-jong",
-    "type": "video",
-    "title": "Bekijk hier live de persconferentie van Koeman en De Jong",
-    "subtitle": "Livestream",
-    "published_at": "2023-09-06T13:51:23+02:00",
-    "updated_at": "2023-09-06T13:51:32+02:00",
-    "media_id": "uzwxjunakh5n",
-    "duration": "0:01",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6279748/bekijk-hier-live-de-persconferentie-van-koeman-en-de-jong.html",
     "open_new_window": false,
     "partner": null
   }
