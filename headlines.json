@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279719,
+    "slug": "deze-zomer-is-wereldwijd-met-afstand-heetste-zomer-ooit-gemeten",
+    "type": "article",
+    "title": "Deze zomer is wereldwijd met afstand heetste zomer ooit gemeten",
+    "subtitle": null,
+    "published_at": "2023-09-06T10:19:24+02:00",
+    "updated_at": "2023-09-06T10:26:29+02:00",
+    "media_id": "uirxyldaayr9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6279719/deze-zomer-is-wereldwijd-met-afstand-heetste-zomer-ooit-gemeten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279717,
     "slug": "man-springt-uit-rijdend-arrestantenbusje-na-aanhouding-op-vliegveld-rotterdam",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6279687/dna-bewijs-toont-47-jaar-na-veroordeling-onschuld-amerikaan-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279686,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-09-06T05:18:02+02:00",
-    "updated_at": "2023-09-06T06:03:11+02:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6279686/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
