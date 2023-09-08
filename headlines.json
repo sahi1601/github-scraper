@@ -1,5 +1,28 @@
 [
   {
+    "id": 6279994,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-09-08T08:20:20+02:00",
+    "updated_at": "2023-09-08T08:20:33+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6279994/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6279881,
     "slug": "vrouwen-eredivisie-begint-op-deze-speelsters-moet-je-dit-seizoen-letten",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6279978/van-dijk-opgelucht-met-zege-en-de-nul-voor-oranje-zoveel-tegengoals-doen-iets.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279973,
-    "slug": "lewandowski-redt-polen-tegen-faeroer-eriksen-blinkt-uit-met-drie-assists",
-    "type": "article",
-    "title": "Lewandowski redt Polen tegen Faeröer, Eriksen blinkt uit met drie assists",
-    "subtitle": null,
-    "published_at": "2023-09-07T22:45:13+02:00",
-    "updated_at": "2023-09-08T06:17:44+02:00",
-    "media_id": "kubxcnna8iob",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6279973/lewandowski-redt-polen-tegen-faeroer-eriksen-blinkt-uit-met-drie-assists.html",
     "open_new_window": false,
     "partner": null
   }
