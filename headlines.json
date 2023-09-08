@@ -1,5 +1,51 @@
 [
   {
+    "id": 6280082,
+    "slug": "van-poppel-doorbreekt-hegemonie-jumbo-visma-met-ritzege-in-groot-brittannie",
+    "type": "article",
+    "title": "Van Poppel doorbreekt hegemonie Jumbo-Visma met ritzege in Groot Brittannië",
+    "subtitle": null,
+    "published_at": "2023-09-08T16:29:39+02:00",
+    "updated_at": "2023-09-08T16:35:09+02:00",
+    "media_id": "th5xwpdafjoc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6280082/van-poppel-doorbreekt-hegemonie-jumbo-visma-met-ritzege-in-groot-brittannie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280080,
+    "slug": "kool-klopt-wiebes-in-massasprint-en-boekt-tweede-ritzege-in-ladies-tour",
+    "type": "article",
+    "title": "Kool klopt Wiebes in massasprint en boekt tweede ritzege in Ladies Tour",
+    "subtitle": null,
+    "published_at": "2023-09-08T16:25:17+02:00",
+    "updated_at": "2023-09-08T16:29:47+02:00",
+    "media_id": "un6xcnhakh47",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6280080/kool-klopt-wiebes-in-massasprint-en-boekt-tweede-ritzege-in-ladies-tour.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280053,
     "slug": "minder-leerlingen-slaagden-dit-jaar-voor-hun-eindexamen-dan-gemiddeld",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Staat investeert in netbeheerder Stedin om volle stroomnetwerken te ontlasten",
     "subtitle": null,
     "published_at": "2023-09-08T16:10:46+02:00",
-    "updated_at": "2023-09-08T16:15:05+02:00",
+    "updated_at": "2023-09-08T16:19:54+02:00",
     "media_id": "xadxoyraw4cg",
     "duration": null,
     "canonical_section": {
@@ -70,12 +116,12 @@
   },
   {
     "id": 6280075,
-    "slug": "beer-met-3-poten-pikt-alcoholische-drankjes-uit-woning-in-vs",
+    "slug": "amerikaan-filmt-driepotige-beer-die-alcohol-uit-zijn-huis-steelt",
     "type": "video",
-    "title": "Beer met 3 poten pikt alcoholische drankjes uit woning in VS",
+    "title": "Amerikaan filmt driepotige beer die alcohol uit zijn huis steelt",
     "subtitle": "Video",
     "published_at": "2023-09-08T15:42:30+02:00",
-    "updated_at": "2023-09-08T15:42:32+02:00",
+    "updated_at": "2023-09-08T16:21:30+02:00",
     "media_id": "95vxzgxamnm9",
     "duration": "0:58",
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6280075/beer-met-3-poten-pikt-alcoholische-drankjes-uit-woning-in-vs.html",
+    "url": "/videos/6280075/amerikaan-filmt-driepotige-beer-die-alcohol-uit-zijn-huis-steelt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,8 +190,8 @@
     "title": "Hari houdt zich voor GLORY-gevecht stil op persconferentie: 'Geen zin in vragen'",
     "subtitle": null,
     "published_at": "2023-09-08T14:34:43+02:00",
-    "updated_at": "2023-09-08T15:53:17+02:00",
-    "media_id": "3yoxr9vatrg7",
+    "updated_at": "2023-09-08T16:39:50+02:00",
+    "media_id": "xclxpe5apao4",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6280035/joey-veerman-wordt-nacht-na-oranje-interland-vader-van-zoon-frenkie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280038,
-    "slug": "honkbalfans-geven-elkaar-jawoord-tijdens-wedstrijd-in-chicago",
-    "type": "video",
-    "title": "Honkbalfans geven elkaar jawoord tijdens wedstrijd in Chicago",
-    "subtitle": "Video",
-    "published_at": "2023-09-08T11:58:22+02:00",
-    "updated_at": "2023-09-08T12:06:14+02:00",
-    "media_id": "su1x5sva1dtc",
-    "duration": "0:35",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6280038/honkbalfans-geven-elkaar-jawoord-tijdens-wedstrijd-in-chicago.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280025,
-    "slug": "den-haag-heeft-nieuwe-concertzaal-maar-geen-geld-meer-voor-programmering",
-    "type": "article",
-    "title": "Den Haag heeft nieuwe concertzaal, maar geen geld meer voor programmering",
-    "subtitle": null,
-    "published_at": "2023-09-08T11:46:24+02:00",
-    "updated_at": "2023-09-08T13:59:36+02:00",
-    "media_id": "f48xzcbadvg4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6280025/den-haag-heeft-nieuwe-concertzaal-maar-geen-geld-meer-voor-programmering.html",
     "open_new_window": false,
     "partner": null
   }
