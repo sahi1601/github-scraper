@@ -1,12 +1,35 @@
 [
   {
+    "id": 6280053,
+    "slug": "minder-leerlingen-slaagden-dit-jaar-voor-hun-eindexamen-dan-gemiddeld",
+    "type": "article",
+    "title": "Minder leerlingen slaagden dit jaar voor hun eindexamen dan gemiddeld",
+    "subtitle": null,
+    "published_at": "2023-09-08T16:17:46+02:00",
+    "updated_at": "2023-09-08T16:17:47+02:00",
+    "media_id": "w7ex6zuac53d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6280053/minder-leerlingen-slaagden-dit-jaar-voor-hun-eindexamen-dan-gemiddeld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280076,
     "slug": "staat-investeert-in-netbeheerder-stedin-om-volle-stroomnetwerken-te-ontlasten",
     "type": "article",
     "title": "Staat investeert in netbeheerder Stedin om volle stroomnetwerken te ontlasten",
     "subtitle": null,
     "published_at": "2023-09-08T16:10:46+02:00",
-    "updated_at": "2023-09-08T16:11:10+02:00",
+    "updated_at": "2023-09-08T16:15:05+02:00",
     "media_id": "xadxoyraw4cg",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Lindsay Mossink is nieuwe hoofdredacteur NU.nl",
     "subtitle": null,
     "published_at": "2023-09-08T14:07:10+02:00",
-    "updated_at": "2023-09-08T14:53:19+02:00",
+    "updated_at": "2023-09-08T16:12:06+02:00",
     "media_id": "vbmxbrga3yx8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6280025/den-haag-heeft-nieuwe-concertzaal-maar-geen-geld-meer-voor-programmering.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6279929,
-    "slug": "waarom-er-nog-steeds-gedoe-is-om-een-chinese-wereldkaart",
-    "type": "article",
-    "title": "Waarom er (nog steeds) gedoe is om een Chinese wereldkaart",
-    "subtitle": "NU+",
-    "published_at": "2023-09-08T11:38:36+02:00",
-    "updated_at": "2023-09-08T12:35:05+02:00",
-    "media_id": "v72xiwsanl44",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779258,
-      "slug": "binnenland-en-buitenland",
-      "type": "default",
-      "name": "Binnen- en buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland-en-buitenland/6279929/waarom-er-nog-steeds-gedoe-is-om-een-chinese-wereldkaart.html",
     "open_new_window": false,
     "partner": null
   }
