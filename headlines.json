@@ -1,5 +1,28 @@
 [
   {
+    "id": 6280146,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-09-09T05:46:34+02:00",
+    "updated_at": "2023-09-09T05:46:35+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6280146/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280145,
     "slug": "weerbericht-zon-bezig-aan-afscheidstournee-voordat-herfst-intrede-doet",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "Zeker honderden doden door zware aardbeving in Marokko",
     "subtitle": null,
     "published_at": "2023-09-09T04:31:33+02:00",
-    "updated_at": "2023-09-09T05:18:02+02:00",
+    "updated_at": "2023-09-09T06:11:34+02:00",
     "media_id": "xysxc7yalwbv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6280131/az-vrouwen-verspeelt-op-de-valreep-zege-bij-eerste-eredivisie-duel-in-twaalf-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280130,
-    "slug": "britse-betoncrisis-treft-na-scholen-ook-londense-luchthavens",
-    "type": "article",
-    "title": "Britse betoncrisis treft na scholen ook Londense luchthavens",
-    "subtitle": null,
-    "published_at": "2023-09-08T21:42:36+02:00",
-    "updated_at": "2023-09-08T21:55:05+02:00",
-    "media_id": "yndxq27afz26",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6280130/britse-betoncrisis-treft-na-scholen-ook-londense-luchthavens.html",
     "open_new_window": false,
     "partner": null
   }
