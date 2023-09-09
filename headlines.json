@@ -1,5 +1,28 @@
 [
   {
+    "id": 6280197,
+    "slug": "politie-zet-waterkanonnen-in-bij-klimaatprotest-xr-op-a12-in-den-haag",
+    "type": "article",
+    "title": "Politie zet waterkanonnen in bij klimaatprotest XR op A12 in Den Haag",
+    "subtitle": null,
+    "published_at": "2023-09-09T13:32:29+02:00",
+    "updated_at": "2023-09-09T13:42:41+02:00",
+    "media_id": "sgnxgg9aj28x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6280197/politie-zet-waterkanonnen-in-bij-klimaatprotest-xr-op-a12-in-den-haag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280193,
     "slug": "vrachtschip-ramt-plezierjacht-op-de-schelde",
     "type": "video",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6280192,
-    "slug": "alcaraz-onverwacht-uitgeschakeld-op-us-open-blijkbaar-nog-niet-volwassen-genoeg",
+    "slug": "alcaraz-onverwacht-uitgeschakeld-op-us-open-blijk-nog-niet-volwassen-genoeg",
     "type": "article",
-    "title": "Alcaraz onverwacht uitgeschakeld op US Open: 'Blijkbaar nog niet volwassen genoeg'",
+    "title": "Alcaraz onverwacht uitgeschakeld op US Open: 'Blijk nog niet volwassen genoeg'",
     "subtitle": null,
     "published_at": "2023-09-09T12:48:54+02:00",
-    "updated_at": "2023-09-09T13:05:06+02:00",
+    "updated_at": "2023-09-09T13:39:04+02:00",
     "media_id": "pvvxp0faa7qz",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport/6280192/alcaraz-onverwacht-uitgeschakeld-op-us-open-blijkbaar-nog-niet-volwassen-genoeg.html",
+    "url": "/sport/6280192/alcaraz-onverwacht-uitgeschakeld-op-us-open-blijk-nog-niet-volwassen-genoeg.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6280142/waarom-nederland-als-enige-in-europa-oorlogsvliegtuigen-bergt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280148,
-    "slug": "puin-ruimen-op-maui-duurt-mogelijk-een-jaar-nog-66-mensen-vermist",
-    "type": "article",
-    "title": "Puin ruimen op Maui duurt mogelijk een jaar, nog 66 mensen vermist",
-    "subtitle": null,
-    "published_at": "2023-09-09T06:39:24+02:00",
-    "updated_at": "2023-09-09T07:58:33+02:00",
-    "media_id": "8axx0taaw83j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6280148/puin-ruimen-op-maui-duurt-mogelijk-een-jaar-nog-66-mensen-vermist.html",
     "open_new_window": false,
     "partner": null
   }
