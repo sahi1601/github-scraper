@@ -1,12 +1,35 @@
 [
   {
-    "id": 6280294,
-    "slug": "imf-en-wereldbank-beloven-financiele-hulp-aan-marokko",
+    "id": 6280295,
+    "slug": "minstens-veertig-doden-bij-luchtaanval-op-markt-in-soedanese-hoofdstad",
     "type": "article",
-    "title": "IMF en Wereldbank beloven financiële hulp aan Marokko",
+    "title": "Minstens veertig doden bij luchtaanval op markt in Soedanese hoofdstad",
+    "subtitle": null,
+    "published_at": "2023-09-10T15:20:04+02:00",
+    "updated_at": "2023-09-10T15:20:08+02:00",
+    "media_id": "8edxmp8a5fmn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6280295/minstens-veertig-doden-bij-luchtaanval-op-markt-in-soedanese-hoofdstad.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280294,
+    "slug": "imf-en-wereldbank-beloven-marokko-financiele-hulp",
+    "type": "article",
+    "title": "IMF en Wereldbank beloven Marokko financiële hulp",
     "subtitle": null,
     "published_at": "2023-09-10T15:11:06+02:00",
-    "updated_at": "2023-09-10T15:11:07+02:00",
+    "updated_at": "2023-09-10T15:21:05+02:00",
     "media_id": "d1oxdlgashwi",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6280294/imf-en-wereldbank-beloven-financiele-hulp-aan-marokko.html",
+    "url": "/economie/6280294/imf-en-wereldbank-beloven-marokko-financiele-hulp.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Voedselprijzen dalen en ic's ongekend rustig: dit was het goede nieuws deze week",
     "subtitle": null,
     "published_at": "2023-09-10T14:50:28+02:00",
-    "updated_at": "2023-09-10T15:04:49+02:00",
+    "updated_at": "2023-09-10T15:14:37+02:00",
     "media_id": "fwtxbdaad2te",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Roeister Florijn imponeert en pakt opnieuw wereldtitel, ook goud voor dubbeltwee",
     "subtitle": null,
     "published_at": "2023-09-10T13:46:32+02:00",
-    "updated_at": "2023-09-10T15:06:12+02:00",
+    "updated_at": "2023-09-10T15:17:55+02:00",
     "media_id": "sbyxismathje",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6280271/beer-wurmt-zich-door-raampje-om-lunch-te-stelen-uit-amerikaanse-truck.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280268,
-    "slug": "duitsland-verkeert-in-een-grote-crisis-maar-hansi-flick-wil-door-als-bondscoach",
-    "type": "article",
-    "title": "Duitsland verkeert in een grote crisis, maar Hansi Flick wil door als bondscoach",
-    "subtitle": null,
-    "published_at": "2023-09-10T10:01:53+02:00",
-    "updated_at": "2023-09-10T10:10:29+02:00",
-    "media_id": "n5txlmdazsqd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6280268/duitsland-verkeert-in-een-grote-crisis-maar-hansi-flick-wil-door-als-bondscoach.html",
     "open_new_window": false,
     "partner": null
   }
