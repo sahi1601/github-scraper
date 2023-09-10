@@ -1,12 +1,104 @@
 [
   {
+    "id": 6280302,
+    "slug": "wiebes-wint-kopecky-grijpt-eindzege-en-van-vleuten-zwaait-af-in-ladies-tour",
+    "type": "article",
+    "title": "Wiebes wint, Kopecky grijpt eindzege en Van Vleuten zwaait af in Ladies Tour",
+    "subtitle": null,
+    "published_at": "2023-09-10T16:17:32+02:00",
+    "updated_at": "2023-09-10T16:17:33+02:00",
+    "media_id": "oyxx2y5aq9tb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6280302/wiebes-wint-kopecky-grijpt-eindzege-en-van-vleuten-zwaait-af-in-ladies-tour.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280301,
+    "slug": "barbara-de-loor-vindt-impact-van-nederland-in-beweging-niet-normaal",
+    "type": "article",
+    "title": "Barbara de Loor vindt impact van Nederland in Beweging 'niet normaal'",
+    "subtitle": null,
+    "published_at": "2023-09-10T16:17:05+02:00",
+    "updated_at": "2023-09-10T16:22:59+02:00",
+    "media_id": "hgyxp9saj4fg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6280301/barbara-de-loor-vindt-impact-van-nederland-in-beweging-niet-normaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280299,
+    "slug": "burgemeester-den-haag-maakt-zich-grote-zorgen-over-nieuwe-blokkades-op-a12",
+    "type": "article",
+    "title": "Burgemeester Den Haag maakt zich grote zorgen over nieuwe blokkades op A12",
+    "subtitle": null,
+    "published_at": "2023-09-10T16:12:56+02:00",
+    "updated_at": "2023-09-10T16:20:50+02:00",
+    "media_id": "2owx0spacg19",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6280299/burgemeester-den-haag-maakt-zich-grote-zorgen-over-nieuwe-blokkades-op-a12.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6279928,
+    "slug": "de-imposante-carriere-van-van-vleuten-in-fotos",
+    "type": "article",
+    "title": "De imposante carrière van Van Vleuten in foto's",
+    "subtitle": "In beeld",
+    "published_at": "2023-09-10T16:12:23+02:00",
+    "updated_at": "2023-09-10T16:12:24+02:00",
+    "media_id": "41wxt10ayfnl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6279928/de-imposante-carriere-van-van-vleuten-in-fotos.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280300,
     "slug": "kinderboekenweek-brengt-speciaal-kinderen-voor-kinderen-lied-uit",
     "type": "article",
     "title": "Kinderboekenweek brengt speciaal Kinderen voor Kinderen-lied uit",
     "subtitle": null,
     "published_at": "2023-09-10T16:05:12+02:00",
-    "updated_at": "2023-09-10T16:05:13+02:00",
+    "updated_at": "2023-09-10T16:12:54+02:00",
     "media_id": "pfrx2ziayjpr",
     "duration": null,
     "canonical_section": {
@@ -29,7 +121,7 @@
     "title": "Karolien Florijn is toe aan rust na wereldtitel: 'Wat sociale contacten onderhouden'",
     "subtitle": null,
     "published_at": "2023-09-10T15:59:38+02:00",
-    "updated_at": "2023-09-10T16:03:28+02:00",
+    "updated_at": "2023-09-10T16:07:45+02:00",
     "media_id": "5wjxbgwacwif",
     "duration": null,
     "canonical_section": {
@@ -282,7 +374,7 @@
     "title": "Politiebusje probeert door A12-blokkade te komen in Den Haag",
     "subtitle": "Video",
     "published_at": "2023-09-10T13:19:50+02:00",
-    "updated_at": "2023-09-10T15:14:08+02:00",
+    "updated_at": "2023-09-10T16:05:55+02:00",
     "media_id": "o8bxj7zaq69a",
     "duration": "0:33",
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/videos/6280283/inwoners-van-getroffen-marokkaans-dorp-begraven-slachtoffers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280074,
-    "slug": "hoe-moderne-techniek-het-lot-van-een-bommenwerper-bezegelde",
-    "type": "article",
-    "title": "Hoe moderne techniek het lot van een bommenwerper bezegelde",
-    "subtitle": "NU+",
-    "published_at": "2023-09-10T12:00:28+02:00",
-    "updated_at": "2023-09-10T14:41:41+02:00",
-    "media_id": "h1pxgfiaq8uq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6280074/hoe-moderne-techniek-het-lot-van-een-bommenwerper-bezegelde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280279,
-    "slug": "ruim-500-klimaatdemonstranten-aangehouden-bij-blokkade-van-a12-in-den-haag",
-    "type": "article",
-    "title": "Ruim 500 klimaatdemonstranten aangehouden bij blokkade van A12 in Den Haag",
-    "subtitle": null,
-    "published_at": "2023-09-10T12:00:11+02:00",
-    "updated_at": "2023-09-10T15:38:13+02:00",
-    "media_id": "bk7xz2ual7nf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6280279/ruim-500-klimaatdemonstranten-aangehouden-bij-blokkade-van-a12-in-den-haag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280273,
-    "slug": "een-zeldzame-maar-zware-klap-dit-weten-we-over-aardbeving-in-marokko",
-    "type": "article",
-    "title": "Een zeldzame, maar zware klap: dit weten we over aardbeving in Marokko",
-    "subtitle": "NU+",
-    "published_at": "2023-09-10T11:51:05+02:00",
-    "updated_at": "2023-09-10T15:40:32+02:00",
-    "media_id": "zjyxf0iainll",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6280273/een-zeldzame-maar-zware-klap-dit-weten-we-over-aardbeving-in-marokko.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280039,
-    "slug": "lezers-over-wolf-in-nederland-zijn-genoeg-opties-om-vee-te-beschermen",
-    "type": "article",
-    "title": "Lezers over wolf in Nederland: 'Zijn genoeg opties om vee te beschermen'",
-    "subtitle": "NU+",
-    "published_at": "2023-09-10T11:45:29+02:00",
-    "updated_at": "2023-09-10T11:51:38+02:00",
-    "media_id": "l0mx95haxreo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779003,
-      "slug": "gebaseerd-op-jullie-vragen",
-      "type": "default",
-      "name": "Gebaseerd op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gebaseerd-op-jullie-vragen/6280039/lezers-over-wolf-in-nederland-zijn-genoeg-opties-om-vee-te-beschermen.html",
     "open_new_window": false,
     "partner": null
   }
