@@ -1,13 +1,36 @@
 [
   {
+    "id": 6280322,
+    "slug": "oranje-begint-met-wieffer-de-ligt-en-malen-aan-kwalificatieduel-met-ierland",
+    "type": "article",
+    "title": "Oranje begint met Wieffer, De Ligt en Malen aan kwalificatieduel met Ierland",
+    "subtitle": null,
+    "published_at": "2023-09-10T19:35:01+02:00",
+    "updated_at": "2023-09-10T19:43:25+02:00",
+    "media_id": "yksxk7caz91u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6280322/oranje-begint-met-wieffer-de-ligt-en-malen-aan-kwalificatieduel-met-ierland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280311,
     "slug": "oranje-kan-grote-stap-zetten-richting-ek-in-duel-met-ierland",
     "type": "article",
     "title": "Oranje kan grote stap zetten richting EK in duel met Ierland",
     "subtitle": "Liveblog",
     "published_at": "2023-09-10T19:07:15+02:00",
-    "updated_at": "2023-09-10T19:07:16+02:00",
-    "media_id": "ozvx5siafdf5",
+    "updated_at": "2023-09-10T19:42:53+02:00",
+    "media_id": "zqcxyi7awq15",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -121,7 +144,7 @@
     "title": "Aantal doden door zware aardbeving in Marokko opgelopen tot 2.122",
     "subtitle": null,
     "published_at": "2023-09-10T17:51:54+02:00",
-    "updated_at": "2023-09-10T19:15:14+02:00",
+    "updated_at": "2023-09-10T19:34:15+02:00",
     "media_id": "qxmx6upaiuuy",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Burgemeester Den Haag maakt zich grote zorgen over nieuwe blokkades op A12",
     "subtitle": null,
     "published_at": "2023-09-10T16:12:56+02:00",
-    "updated_at": "2023-09-10T16:20:50+02:00",
+    "updated_at": "2023-09-10T19:28:48+02:00",
     "media_id": "2owx0spacg19",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6280298/karolien-florijn-is-toe-aan-rust-na-wereldtitel-wat-sociale-contacten-onderhouden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280290,
-    "slug": "fc-utrecht-vrouwen-wint-bij-rentree-feyenoorder-weimar-in-tranen-na-rood",
-    "type": "article",
-    "title": "FC Utrecht Vrouwen wint bij rentree, Feyenoorder Weimar in tranen na rood",
-    "subtitle": null,
-    "published_at": "2023-09-10T15:37:47+02:00",
-    "updated_at": "2023-09-10T15:50:57+02:00",
-    "media_id": "0rkx0a0af6k6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6280290/fc-utrecht-vrouwen-wint-bij-rentree-feyenoorder-weimar-in-tranen-na-rood.html",
     "open_new_window": false,
     "partner": null
   }
