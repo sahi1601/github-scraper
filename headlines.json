@@ -1,12 +1,58 @@
 [
   {
+    "id": 6280606,
+    "slug": "pvdd-kamerlid-vestering-stopt-ermee-vanwege-ruzie-binnen-partij",
+    "type": "article",
+    "title": "PvdD-Kamerlid Vestering stopt ermee vanwege ruzie binnen partij",
+    "subtitle": null,
+    "published_at": "2023-09-12T18:40:27+02:00",
+    "updated_at": "2023-09-12T18:40:28+02:00",
+    "media_id": "h22xxb6apmg5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6280606/pvdd-kamerlid-vestering-stopt-ermee-vanwege-ruzie-binnen-partij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280605,
+    "slug": "jong-oranje-nog-foutloos-in-ek-kwalificatie-na-moeizame-zege-op-noord-macedonie",
+    "type": "article",
+    "title": "Jong Oranje nog foutloos in EK-kwalificatie na moeizame zege op Noord-Macedonië",
+    "subtitle": null,
+    "published_at": "2023-09-12T18:33:36+02:00",
+    "updated_at": "2023-09-12T18:41:39+02:00",
+    "media_id": "7o7xsnpay0qr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6280605/jong-oranje-nog-foutloos-in-ek-kwalificatie-na-moeizame-zege-op-noord-macedonie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280602,
     "slug": "vingegaard-draagt-ritzege-op-aan-beste-vriend-van-hooydonck-na-auto-ongeluk",
     "type": "article",
     "title": "Vingegaard draagt ritzege op aan 'beste vriend' Van Hooydonck na auto-ongeluk",
     "subtitle": null,
     "published_at": "2023-09-12T18:12:47+02:00",
-    "updated_at": "2023-09-12T18:27:17+02:00",
+    "updated_at": "2023-09-12T18:32:24+02:00",
     "media_id": "osbxuw9aaywm",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Jumbo-Visma heerst opnieuw in Vuelta: ritzege Vingegaard op dramatische dag",
     "subtitle": null,
     "published_at": "2023-09-12T17:40:41+02:00",
-    "updated_at": "2023-09-12T18:20:26+02:00",
+    "updated_at": "2023-09-12T18:38:46+02:00",
     "media_id": "gs9x1mva86rc",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6280571/rubiales-moet-zich-vrijdag-voor-rechter-verantwoorden-voor-omstreden-kus.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280570,
-    "slug": "griekse-voetbalbond-blundert-vier-afwezige-spelers-bleken-toch-niet-geschorst",
-    "type": "article",
-    "title": "Griekse voetbalbond blundert: vier afwezige spelers bleken toch niet geschorst",
-    "subtitle": null,
-    "published_at": "2023-09-12T15:17:50+02:00",
-    "updated_at": "2023-09-12T15:26:18+02:00",
-    "media_id": "6fkx1z9ayl9o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6280570/griekse-voetbalbond-blundert-vier-afwezige-spelers-bleken-toch-niet-geschorst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280569,
-    "slug": "steeds-meer-bedrijven-gaan-failliet-moeten-we-ons-zorgen-maken",
-    "type": "article",
-    "title": "Steeds meer bedrijven gaan failliet: moeten we ons zorgen maken?",
-    "subtitle": "NU+",
-    "published_at": "2023-09-12T15:15:40+02:00",
-    "updated_at": "2023-09-12T16:02:24+02:00",
-    "media_id": "4ujxh7xa8xyj",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6280569/steeds-meer-bedrijven-gaan-failliet-moeten-we-ons-zorgen-maken.html",
     "open_new_window": false,
     "partner": null
   }
