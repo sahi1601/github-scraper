@@ -1,5 +1,51 @@
 [
   {
+    "id": 6280548,
+    "slug": "hartono-boekt-in-osaka-eerste-zege-op-wta-niveau-in-een-jaar-tijd",
+    "type": "article",
+    "title": "Hartono boekt in Osaka eerste zege op WTA-niveau in een jaar tijd",
+    "subtitle": null,
+    "published_at": "2023-09-12T13:06:47+02:00",
+    "updated_at": "2023-09-12T13:06:48+02:00",
+    "media_id": "8luxagna2osz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6280548/hartono-boekt-in-osaka-eerste-zege-op-wta-niveau-in-een-jaar-tijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280544,
+    "slug": "overheid-hoeft-ook-in-hoger-beroep-niet-voor-gratis-anticonceptie-te-zorgen",
+    "type": "article",
+    "title": "Overheid hoeft ook in hoger beroep niet voor gratis anticonceptie te zorgen",
+    "subtitle": null,
+    "published_at": "2023-09-12T12:48:17+02:00",
+    "updated_at": "2023-09-12T12:48:19+02:00",
+    "media_id": "f89xxbhavgcz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6280544/overheid-hoeft-ook-in-hoger-beroep-niet-voor-gratis-anticonceptie-te-zorgen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280543,
     "slug": "klimaatactivisten-blokkeren-voor-vierde-dag-op-rij-de-a12-in-den-haag",
     "type": "article",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6280542,
-    "slug": "zelensky-tegen-haagse-studenten-moskou-wil-genocide-normaliseren",
+    "slug": "zelensky-tegen-haagse-studenten-moskou-wil-volkerenmoord-normaal-maken",
     "type": "article",
-    "title": "Zelensky tegen Haagse studenten: Moskou wil genocide normaliseren",
+    "title": "Zelensky tegen Haagse studenten: Moskou wil volkerenmoord normaal maken",
     "subtitle": null,
     "published_at": "2023-09-12T12:13:50+02:00",
-    "updated_at": "2023-09-12T12:13:51+02:00",
+    "updated_at": "2023-09-12T13:05:17+02:00",
     "media_id": "e8uxfgia8mf6",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6280542/zelensky-tegen-haagse-studenten-moskou-wil-genocide-normaliseren.html",
+    "url": "/spanningen-oekraine/6280542/zelensky-tegen-haagse-studenten-moskou-wil-volkerenmoord-normaal-maken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +305,7 @@
     "title": "Nieuwe Kerk kiest na kritiek op geroofde stukken in tentoonstelling voor kopieën",
     "subtitle": null,
     "published_at": "2023-09-12T10:04:04+02:00",
-    "updated_at": "2023-09-12T10:04:05+02:00",
+    "updated_at": "2023-09-12T12:40:59+02:00",
     "media_id": "vo8xrufa9rds",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6280511/gokverslaafden-krijgen-online-nog-te-veel-ruimte-om-hun-geld-te-verbrassen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280509,
-    "slug": "lg-krijgt-miljoenenboete-bedrijf-dreef-prijs-van-televisies-op-bij-winkeliers",
-    "type": "article",
-    "title": "LG krijgt miljoenenboete: bedrijf dreef prijs van televisies op bij winkeliers",
-    "subtitle": null,
-    "published_at": "2023-09-12T08:46:22+02:00",
-    "updated_at": "2023-09-12T11:16:59+02:00",
-    "media_id": "q0exj0tao4k9",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6280509/lg-krijgt-miljoenenboete-bedrijf-dreef-prijs-van-televisies-op-bij-winkeliers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280508,
-    "slug": "amerikaan-wordt-uit-turkse-grot-gered-ik-dacht-ik-ga-dit-niet-overleven",
-    "type": "video",
-    "title": "Amerikaan wordt uit Turkse grot gered: 'Ik dacht: ik ga dit niet overleven'",
-    "subtitle": "Video",
-    "published_at": "2023-09-12T08:24:38+02:00",
-    "updated_at": "2023-09-12T08:24:39+02:00",
-    "media_id": "g2uxxuua5r19",
-    "duration": "1:01",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6280508/amerikaan-wordt-uit-turkse-grot-gered-ik-dacht-ik-ga-dit-niet-overleven.html",
     "open_new_window": false,
     "partner": null
   }
