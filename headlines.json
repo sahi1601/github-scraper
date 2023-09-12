@@ -1,5 +1,28 @@
 [
   {
+    "id": 6280616,
+    "slug": "bevers-beschadigen-snelweg-in-limburg-afrit-bij-venray-twee-weken-dicht",
+    "type": "article",
+    "title": "Bevers beschadigen snelweg in Limburg, afrit bij Venray twee weken dicht",
+    "subtitle": null,
+    "published_at": "2023-09-12T23:28:06+02:00",
+    "updated_at": "2023-09-12T23:35:11+02:00",
+    "media_id": "uboxkfda6cmm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6280616/bevers-beschadigen-snelweg-in-limburg-afrit-bij-venray-twee-weken-dicht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280627,
     "slug": "huis-van-afgevaardigden-start-onderzoek-naar-mogelijke-afzetting-president-biden",
     "type": "article",
@@ -144,7 +167,7 @@
     "title": "Venetië start proef met entreekaartjes van 5 euro voor dagtoeristen",
     "subtitle": null,
     "published_at": "2023-09-12T22:31:03+02:00",
-    "updated_at": "2023-09-12T22:42:49+02:00",
+    "updated_at": "2023-09-12T23:26:56+02:00",
     "media_id": "n03xsl2aymje",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6280606/pvdd-kamerlid-vestering-stopt-ermee-vanwege-ruzie-binnen-partij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280605,
-    "slug": "jong-oranje-nog-foutloos-in-ek-kwalificatie-na-stroeve-zege-op-noord-macedonie",
-    "type": "article",
-    "title": "Jong Oranje nog foutloos in EK-kwalificatie na stroeve zege op Noord-Macedonië",
-    "subtitle": null,
-    "published_at": "2023-09-12T18:33:36+02:00",
-    "updated_at": "2023-09-12T19:05:08+02:00",
-    "media_id": "7o7xsnpay0qr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6280605/jong-oranje-nog-foutloos-in-ek-kwalificatie-na-stroeve-zege-op-noord-macedonie.html",
     "open_new_window": false,
     "partner": null
   }
