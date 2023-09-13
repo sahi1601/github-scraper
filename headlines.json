@@ -1,12 +1,58 @@
 [
   {
+    "id": 6280696,
+    "slug": "slachtoffers-verwoesting-derna-worden-begraven-in-massagraven",
+    "type": "video",
+    "title": "Slachtoffers verwoesting Derna worden begraven in massagraven",
+    "subtitle": "Video",
+    "published_at": "2023-09-13T12:11:34+02:00",
+    "updated_at": "2023-09-13T12:11:36+02:00",
+    "media_id": "3zwxc9banzp7",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6280696/slachtoffers-verwoesting-derna-worden-begraven-in-massagraven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280593,
+    "slug": "bestuur-partij-voor-de-dieren-stapt-op-na-conflict-met-partijleider-ouwehand",
+    "type": "article",
+    "title": "Bestuur Partij voor de Dieren stapt op na conflict met partijleider Ouwehand",
+    "subtitle": null,
+    "published_at": "2023-09-13T12:09:05+02:00",
+    "updated_at": "2023-09-13T12:12:13+02:00",
+    "media_id": "qtdxdthaw75k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6280593/bestuur-partij-voor-de-dieren-stapt-op-na-conflict-met-partijleider-ouwehand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280688,
     "slug": "noorse-prinses-martha-louise-trouwt-volgend-jaar-met-omstreden-durek-verrett",
     "type": "article",
     "title": "Noorse prinses Märtha Louise trouwt volgend jaar met omstreden Durek Verrett",
     "subtitle": null,
     "published_at": "2023-09-13T11:40:14+02:00",
-    "updated_at": "2023-09-13T11:40:16+02:00",
+    "updated_at": "2023-09-13T11:45:20+02:00",
     "media_id": "czfxtk8a3705",
     "duration": null,
     "canonical_section": {
@@ -47,12 +93,12 @@
   },
   {
     "id": 6280683,
-    "slug": "hagelschade-en-personeelstekort-zorgen-voor-lange-wachttijden-bij-garages",
+    "slug": "wachttijden-bij-garages-lopen-op-door-hagelschade-en-personeelstekort",
     "type": "article",
-    "title": "Hagelschade en personeelstekort zorgen voor lange wachttijden bij garages",
+    "title": "Wachttijden bij garages lopen op door hagelschade en personeelstekort",
     "subtitle": null,
     "published_at": "2023-09-13T11:28:35+02:00",
-    "updated_at": "2023-09-13T11:36:33+02:00",
+    "updated_at": "2023-09-13T11:52:00+02:00",
     "media_id": "m1oxm9kass1y",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6280683/hagelschade-en-personeelstekort-zorgen-voor-lange-wachttijden-bij-garages.html",
+    "url": "/economie/6280683/wachttijden-bij-garages-lopen-op-door-hagelschade-en-personeelstekort.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +121,7 @@
     "title": "Kim Jong-un benadrukt 'onvoorwaardelijke steun' aan Poetin bij zeldzaam bezoek",
     "subtitle": null,
     "published_at": "2023-09-13T11:26:34+02:00",
-    "updated_at": "2023-09-13T11:39:18+02:00",
+    "updated_at": "2023-09-13T11:49:23+02:00",
     "media_id": "82wxwwiag966",
     "duration": null,
     "canonical_section": {
@@ -277,12 +323,12 @@
   },
   {
     "id": 6279912,
-    "slug": "politie-krijgt-krap-een-jaar-om-problemen-met-c2000-netwerk-op-te-lossen",
+    "slug": "politie-krijgt-negen-maanden-om-problemen-met-c2000-netwerk-op-te-lossen",
     "type": "article",
-    "title": "Politie krijgt krap een jaar om problemen met C2000-netwerk op te lossen",
+    "title": "Politie krijgt negen maanden om problemen met C2000-netwerk op te lossen",
     "subtitle": null,
     "published_at": "2023-09-13T10:21:48+02:00",
-    "updated_at": "2023-09-13T11:34:14+02:00",
+    "updated_at": "2023-09-13T11:59:10+02:00",
     "media_id": "5dyx24naoejb",
     "duration": null,
     "canonical_section": {
@@ -294,7 +340,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6279912/politie-krijgt-krap-een-jaar-om-problemen-met-c2000-netwerk-op-te-lossen.html",
+    "url": "/tech/6279912/politie-krijgt-negen-maanden-om-problemen-met-c2000-netwerk-op-te-lossen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +374,7 @@
     "title": "Apple moet in Frankrijk stoppen met verkoop iPhone 12 vanwege te hoge straling",
     "subtitle": null,
     "published_at": "2023-09-13T10:12:21+02:00",
-    "updated_at": "2023-09-13T10:12:23+02:00",
+    "updated_at": "2023-09-13T11:55:57+02:00",
     "media_id": "wvaxlpoab4y7",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6280654/francis-van-broekhuizen-wil-het-rustiger-aan-doen-zit-tegen-overwerktheid-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280656,
-    "slug": "lanx-krijgt-geen-geld-meer-van-de-universiteit-na-misstanden-bij-dispuut",
-    "type": "article",
-    "title": "L.A.N.X. krijgt geen geld meer van de universiteit na misstanden bij dispuut",
-    "subtitle": null,
-    "published_at": "2023-09-13T09:26:26+02:00",
-    "updated_at": "2023-09-13T09:26:28+02:00",
-    "media_id": "c64x4sxad6qx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6280656/lanx-krijgt-geen-geld-meer-van-de-universiteit-na-misstanden-bij-dispuut.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280658,
-    "slug": "nac-neemt-verrassend-afscheid-van-coach-hyballa-situatie-is-niet-te-repareren",
-    "type": "article",
-    "title": "NAC neemt verrassend afscheid van coach Hyballa: 'Situatie is niet te repareren'",
-    "subtitle": null,
-    "published_at": "2023-09-13T09:16:18+02:00",
-    "updated_at": "2023-09-13T09:50:28+02:00",
-    "media_id": "grqxnzfa0gog",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6280658/nac-neemt-verrassend-afscheid-van-coach-hyballa-situatie-is-niet-te-repareren.html",
     "open_new_window": false,
     "partner": null
   }
