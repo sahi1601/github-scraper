@@ -1,12 +1,35 @@
 [
   {
+    "id": 6280719,
+    "slug": "dode-en-zeven-ernstig-gewonden-na-eten-van-vis-in-restaurant-in-bordeaux",
+    "type": "article",
+    "title": "Dode en zeven ernstig gewonden na eten van vis in restaurant in Bordeaux",
+    "subtitle": null,
+    "published_at": "2023-09-13T15:20:21+02:00",
+    "updated_at": "2023-09-13T15:20:23+02:00",
+    "media_id": "zo3xa0tagdu1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6280719/dode-en-zeven-ernstig-gewonden-na-eten-van-vis-in-restaurant-in-bordeaux.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280722,
-    "slug": "ierse-toerist-breekt-stuk-van-pas-gerenoveerd-beeld-af-in-brussel",
+    "slug": "ierse-toerist-breekt-stuk-van-pas-gerenoveerd-brussels-beeld-af",
     "type": "video",
-    "title": "Ierse toerist breekt stuk van pas gerenoveerd beeld af in Brussel",
+    "title": "Ierse toerist breekt stuk van pas gerenoveerd Brussels beeld af",
     "subtitle": "Video",
     "published_at": "2023-09-13T15:13:28+02:00",
-    "updated_at": "2023-09-13T15:13:29+02:00",
+    "updated_at": "2023-09-13T15:22:13+02:00",
     "media_id": "8j1x7e5ahg3b",
     "duration": "0:46",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6280722/ierse-toerist-breekt-stuk-van-pas-gerenoveerd-beeld-af-in-brussel.html",
+    "url": "/videos/6280722/ierse-toerist-breekt-stuk-van-pas-gerenoveerd-brussels-beeld-af.html",
     "open_new_window": false,
     "partner": null
   },
@@ -369,12 +392,12 @@
   },
   {
     "id": 6280593,
-    "slug": "partij-voor-de-dieren-bestuur-stapt-op-en-maakt-met-tegenzin-ouwehand-weer-lijsttrekker",
+    "slug": "pvdd-bestuur-stapt-op-en-maakt-met-tegenzin-ouwehand-weer-lijsttrekker",
     "type": "article",
-    "title": "Partij voor de Dieren-bestuur stapt op en maakt met tegenzin Ouwehand weer lijsttrekker",
+    "title": "PvdD-bestuur stapt op en maakt met tegenzin Ouwehand weer lijsttrekker",
     "subtitle": null,
     "published_at": "2023-09-13T12:09:05+02:00",
-    "updated_at": "2023-09-13T13:30:37+02:00",
+    "updated_at": "2023-09-13T15:17:51+02:00",
     "media_id": "qtdxdthaw75k",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6280593/partij-voor-de-dieren-bestuur-stapt-op-en-maakt-met-tegenzin-ouwehand-weer-lijsttrekker.html",
+    "url": "/politiek/6280593/pvdd-bestuur-stapt-op-en-maakt-met-tegenzin-ouwehand-weer-lijsttrekker.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6280687/britse-economie-onverwacht-gekrompen-door-stakingen-en-slecht-weer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280683,
-    "slug": "wachttijden-bij-garages-lopen-op-door-hagelschade-en-personeelstekort",
-    "type": "article",
-    "title": "Wachttijden bij garages lopen op door hagelschade en personeelstekort",
-    "subtitle": null,
-    "published_at": "2023-09-13T11:28:35+02:00",
-    "updated_at": "2023-09-13T13:00:38+02:00",
-    "media_id": "m1oxm9kass1y",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6280683/wachttijden-bij-garages-lopen-op-door-hagelschade-en-personeelstekort.html",
     "open_new_window": false,
     "partner": null
   }
