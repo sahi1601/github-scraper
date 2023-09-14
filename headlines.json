@@ -1,5 +1,28 @@
 [
   {
+    "id": 6280933,
+    "slug": "van-bommel-en-antwerp-missen-speler-in-cl-door-administratieve-blunder",
+    "type": "article",
+    "title": "Van Bommel en Antwerp missen speler in CL door administratieve blunder",
+    "subtitle": null,
+    "published_at": "2023-09-14T22:11:43+02:00",
+    "updated_at": "2023-09-14T22:11:44+02:00",
+    "media_id": "hfuxpdnak7in",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6280933/van-bommel-en-antwerp-missen-speler-in-cl-door-administratieve-blunder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280927,
     "slug": "oekraiense-en-russische-doden-op-dag-vol-aanvallen",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Bizarre beelden in Vuelta: verzorger Jumbo-Visma krijgt het aan de stok met politie",
     "subtitle": null,
     "published_at": "2023-09-14T21:22:39+02:00",
-    "updated_at": "2023-09-14T21:42:31+02:00",
+    "updated_at": "2023-09-14T21:46:07+02:00",
     "media_id": "c3nxt33a6wzj",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Drie Real-jeugdspelers opgepakt wegens verspreiden seksvideo van minderjarige",
     "subtitle": null,
     "published_at": "2023-09-14T19:29:05+02:00",
-    "updated_at": "2023-09-14T21:43:20+02:00",
+    "updated_at": "2023-09-14T21:47:17+02:00",
     "media_id": "iduxzbja52ad",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6280910/evenepoel-draagt-zege-op-aan-echtgenote-belangrijkste-moment-van-mijn-vuelta.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280902,
-    "slug": "kpn-in-wachtkamer-gezet-bij-overname-youfone-eerst-onderzoek-nodig",
-    "type": "article",
-    "title": "KPN in wachtkamer gezet bij overname Youfone: eerst onderzoek nodig",
-    "subtitle": null,
-    "published_at": "2023-09-14T18:38:53+02:00",
-    "updated_at": "2023-09-14T18:42:37+02:00",
-    "media_id": "qh4x8s3auiff",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6280902/kpn-in-wachtkamer-gezet-bij-overname-youfone-eerst-onderzoek-nodig.html",
     "open_new_window": false,
     "partner": null
   }
