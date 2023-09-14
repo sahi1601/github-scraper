@@ -1,5 +1,28 @@
 [
   {
+    "id": 6280861,
+    "slug": "politie-belgie-blundert-met-verdachte-van-poging-tot-doodslag-in-campagnevideo",
+    "type": "article",
+    "title": "Politie België blundert met verdachte van poging tot doodslag in campagnevideo",
+    "subtitle": null,
+    "published_at": "2023-09-14T14:55:56+02:00",
+    "updated_at": "2023-09-14T14:55:57+02:00",
+    "media_id": "u83x4jfao9ii",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6280861/politie-belgie-blundert-met-verdachte-van-poging-tot-doodslag-in-campagnevideo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280862,
     "slug": "limburg-heropent-schaderegeling-overstromingen-nog-16-miljoen-euro-over",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "ECB schroeft rente voor tiende keer op naar hoogste niveau ooit",
     "subtitle": null,
     "published_at": "2023-09-14T14:16:40+02:00",
-    "updated_at": "2023-09-14T14:40:06+02:00",
+    "updated_at": "2023-09-14T15:12:45+02:00",
     "media_id": "058xtbiakyvg",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Evenepoel sprokkelt bergpunten, peloton kijkt naar Jumbo-Visma in zware Vuelta-rit",
     "subtitle": "Liveblog",
     "published_at": "2023-09-14T12:50:47+02:00",
-    "updated_at": "2023-09-14T14:39:57+02:00",
+    "updated_at": "2023-09-14T15:12:57+02:00",
     "media_id": "8tpx0efarjgn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6280829/brugts-kan-competitiedebuut-maken-voor-barca-staking-voor-meer-salaris-voorbij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280825,
-    "slug": "musk-pleit-tijdens-gesprek-met-techleiders-voor-scheidsrechter-voor-ai",
-    "type": "article",
-    "title": "Musk pleit tijdens gesprek met techleiders voor 'scheidsrechter voor AI'",
-    "subtitle": null,
-    "published_at": "2023-09-14T10:54:18+02:00",
-    "updated_at": "2023-09-14T10:54:22+02:00",
-    "media_id": "c1rx0dvaac1p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6280825/musk-pleit-tijdens-gesprek-met-techleiders-voor-scheidsrechter-voor-ai.html",
     "open_new_window": false,
     "partner": null
   }
