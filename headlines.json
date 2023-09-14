@@ -1,5 +1,28 @@
 [
   {
+    "id": 6280844,
+    "slug": "vooruitblik-f1-concurrentie-komt-in-singapore-dichter-bij-red-bull",
+    "type": "article",
+    "title": "Vooruitblik F1: 'Concurrentie komt in Singapore dichter bij Red Bull'",
+    "subtitle": "NU+",
+    "published_at": "2023-09-14T16:04:03+02:00",
+    "updated_at": "2023-09-14T16:09:23+02:00",
+    "media_id": "zszxjlxany93",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Singapore",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6280844/vooruitblik-f1-concurrentie-komt-in-singapore-dichter-bij-red-bull.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280873,
     "slug": "eerste-deel-dummie-de-mummie-ontvangt-gouden-boek",
     "type": "article",
@@ -47,24 +70,24 @@
   },
   {
     "id": 6280867,
-    "slug": "verstappen-niet-boos-om-wikipedia-uitspraak-wolff-ze-hadden-een-shitrace",
+    "slug": "verstappen-niet-boos-om-wikipedia-uitspraak-wolff-lijkt-soms-of-hij-bij-ons-werkt",
     "type": "article",
-    "title": "Verstappen niet boos om Wikipedia-uitspraak Wolff: ‘Ze hadden een shitrace’",
+    "title": "Verstappen niet boos om Wikipedia-uitspraak Wolff: 'Lijkt soms of hij bij ons werkt'",
     "subtitle": null,
     "published_at": "2023-09-14T15:23:32+02:00",
-    "updated_at": "2023-09-14T15:41:28+02:00",
+    "updated_at": "2023-09-14T16:01:23+02:00",
     "media_id": "1b5xx6sas86n",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
       "slug": "formule-1",
       "type": "default",
-      "name": "Formule 1",
+      "name": "GP Singapore",
       "style": "nusport",
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6280867/verstappen-niet-boos-om-wikipedia-uitspraak-wolff-ze-hadden-een-shitrace.html",
+    "url": "/formule-1/6280867/verstappen-niet-boos-om-wikipedia-uitspraak-wolff-lijkt-soms-of-hij-bij-ons-werkt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Cruiseschip dat vastlag bij Groenland losgetrokken door vissersboot",
     "subtitle": null,
     "published_at": "2023-09-14T15:20:17+02:00",
-    "updated_at": "2023-09-14T15:20:18+02:00",
+    "updated_at": "2023-09-14T15:46:37+02:00",
     "media_id": "y49x13eayxgj",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Nederland wil technische hulp naar rampgebied Libië sturen, nog geen groen licht",
     "subtitle": null,
     "published_at": "2023-09-14T14:25:08+02:00",
-    "updated_at": "2023-09-14T14:26:43+02:00",
+    "updated_at": "2023-09-14T16:00:46+02:00",
     "media_id": "o0dxmvga6xxf",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Zo verdienen techgiganten als Google geld met jouw data",
     "subtitle": "NU+",
     "published_at": "2023-09-14T13:01:10+02:00",
-    "updated_at": "2023-09-14T13:27:15+02:00",
+    "updated_at": "2023-09-14T15:53:02+02:00",
     "media_id": "eppx53xak2nh",
     "duration": null,
     "canonical_section": {
@@ -282,8 +305,8 @@
     "title": "Evenepoel verzekert bergtrui, peloton kijkt naar Jumbo-Visma in zware Vuelta-rit",
     "subtitle": "Liveblog",
     "published_at": "2023-09-14T12:50:47+02:00",
-    "updated_at": "2023-09-14T15:42:18+02:00",
-    "media_id": "a0cxv3ca88jt",
+    "updated_at": "2023-09-14T16:02:11+02:00",
+    "media_id": "184xeljaimep",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6280831/acteur-jonas-smulders-vorig-jaar-vader-geworden-van-dochter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280832,
-    "slug": "nederlanders-fietsen-veel-maar-maken-er-weinig",
-    "type": "article",
-    "title": "Nederlanders fietsen veel, maar maken er weinig",
-    "subtitle": null,
-    "published_at": "2023-09-14T11:51:06+02:00",
-    "updated_at": "2023-09-14T12:10:34+02:00",
-    "media_id": "xzjxvmra7eyf",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6280832/nederlanders-fietsen-veel-maar-maken-er-weinig.html",
     "open_new_window": false,
     "partner": null
   }
