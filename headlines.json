@@ -1,12 +1,35 @@
 [
   {
-    "id": 6280088,
-    "slug": "jouw-data-zijn-veel-waard-maar-hoe-werkt-dat-eigenlijk",
+    "id": 6280850,
+    "slug": "overijsselse-judotrainer-wordt-verdacht-van-misbruik-drie-minderjarige-meisjes",
     "type": "article",
-    "title": "Jouw data zijn veel waard, maar hoe werkt dat eigenlijk?",
+    "title": "Overijsselse judotrainer wordt verdacht van misbruik drie minderjarige meisjes",
     "subtitle": null,
+    "published_at": "2023-09-14T13:32:24+02:00",
+    "updated_at": "2023-09-14T13:32:25+02:00",
+    "media_id": "5hrxi0caaj60",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6280850/overijsselse-judotrainer-wordt-verdacht-van-misbruik-drie-minderjarige-meisjes.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6280088,
+    "slug": "zo-verdienen-techgiganten-als-google-geld-met-jouw-data",
+    "type": "article",
+    "title": "Zo verdienen techgiganten als Google geld met jouw data",
+    "subtitle": "NU+",
     "published_at": "2023-09-14T13:01:10+02:00",
-    "updated_at": "2023-09-14T13:01:12+02:00",
+    "updated_at": "2023-09-14T13:27:15+02:00",
     "media_id": "eppx53xak2nh",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6280088/jouw-data-zijn-veel-waard-maar-hoe-werkt-dat-eigenlijk.html",
+    "url": "/tech/6280088/zo-verdienen-techgiganten-als-google-geld-met-jouw-data.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6280807/nederlandse-schindler-krijgt-hoogste-benoeming-voor-redden-duizenden-joden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280814,
-    "slug": "bcc-vraagt-uitstel-van-betaling-aan-winkels-blijven-voorlopig-open",
-    "type": "article",
-    "title": "BCC vraagt uitstel van betaling aan, winkels blijven voorlopig open",
-    "subtitle": null,
-    "published_at": "2023-09-14T09:56:22+02:00",
-    "updated_at": "2023-09-14T10:21:48+02:00",
-    "media_id": "jonx1rqaxtr6",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6280814/bcc-vraagt-uitstel-van-betaling-aan-winkels-blijven-voorlopig-open.html",
     "open_new_window": false,
     "partner": null
   }
