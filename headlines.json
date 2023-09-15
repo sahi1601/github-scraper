@@ -1,12 +1,35 @@
 [
   {
+    "id": 6280985,
+    "slug": "coureurs-begonnen-aan-eerste-training-in-singapore",
+    "type": "article",
+    "title": "Coureurs begonnen aan eerste training in Singapore",
+    "subtitle": "Liveblog",
+    "published_at": "2023-09-15T11:26:06+02:00",
+    "updated_at": "2023-09-15T11:36:21+02:00",
+    "media_id": "gfax0taag0y2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Singapore",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6280985/coureurs-begonnen-aan-eerste-training-in-singapore.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6280984,
     "slug": "twintig-ratelslangen-kronkelen-rond-in-amerikaanse-garage",
     "type": "video",
     "title": "Twintig ratelslangen kronkelen rond in Amerikaanse garage",
     "subtitle": "Video",
     "published_at": "2023-09-15T11:22:43+02:00",
-    "updated_at": "2023-09-15T11:22:44+02:00",
+    "updated_at": "2023-09-15T11:31:56+02:00",
     "media_id": "nlfxzz6a852j",
     "duration": "0:40",
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Hamilton vindt uitlatingen van Red Bull-topman Marko over Pérez onacceptabel",
     "subtitle": null,
     "published_at": "2023-09-15T10:48:27+02:00",
-    "updated_at": "2023-09-15T11:24:50+02:00",
+    "updated_at": "2023-09-15T11:38:14+02:00",
     "media_id": "cejxux9a3ezj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6280949/sia-was-depressief-na-scheiding-lag-drie-jaar-lang-in-bed.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6280917,
-    "slug": "waar-let-jij-op-als-je-een-hond-koopt",
-    "type": "article",
-    "title": "Waar let jij op als je een hond koopt?",
-    "subtitle": "Praat Mee",
-    "published_at": "2023-09-15T07:01:15+02:00",
-    "updated_at": "2023-09-15T07:01:17+02:00",
-    "media_id": "4vxxuo5aenms",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6280917/waar-let-jij-op-als-je-een-hond-koopt.html",
     "open_new_window": false,
     "partner": null
   }
