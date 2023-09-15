@@ -1,5 +1,28 @@
 [
   {
+    "id": 6281073,
+    "slug": "kluivert-verleidt-excentrieke-balotelli-tot-terugkeer-naar-adana-demirspor",
+    "type": "article",
+    "title": "Kluivert verleidt excentrieke Balotelli tot terugkeer naar Adana Demirspor",
+    "subtitle": null,
+    "published_at": "2023-09-15T18:22:39+02:00",
+    "updated_at": "2023-09-15T18:22:40+02:00",
+    "media_id": "gd6xv3baj1ia",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6281073/kluivert-verleidt-excentrieke-balotelli-tot-terugkeer-naar-adana-demirspor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281071,
     "slug": "op-dit-cruiseschip-huisvest-rotterdam-vijftienhonderd-statushouders",
     "type": "video",
@@ -75,7 +98,7 @@
     "title": "Marijn van den Berg komt tekort voor ritwinst in Vuelta, zege gaat naar Dainese",
     "subtitle": null,
     "published_at": "2023-09-15T17:20:28+02:00",
-    "updated_at": "2023-09-15T17:53:16+02:00",
+    "updated_at": "2023-09-15T18:17:22+02:00",
     "media_id": "sb1xji9a2hr2",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Miljoenennota lekt uit: Kaag vraagt aandacht voor kwetsbare huishoudens",
     "subtitle": null,
     "published_at": "2023-09-15T16:57:50+02:00",
-    "updated_at": "2023-09-15T17:18:45+02:00",
+    "updated_at": "2023-09-15T18:17:50+02:00",
     "media_id": "oj2xa7aadkjf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6281038/uitbarsting-vulkaan-tonga-leidde-onverwachts-tot-wereldwijde-opwarming-klimaat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281037,
-    "slug": "explosies-en-tanks-nederland-doet-mee-aan-navo-oefening-in-litouwen",
-    "type": "video",
-    "title": "Explosies en tanks: Nederland doet mee aan NAVO-oefening in Litouwen",
-    "subtitle": "Video",
-    "published_at": "2023-09-15T15:18:58+02:00",
-    "updated_at": "2023-09-15T15:19:00+02:00",
-    "media_id": "o6ix6gia82ff",
-    "duration": "0:48",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6281037/explosies-en-tanks-nederland-doet-mee-aan-navo-oefening-in-litouwen.html",
     "open_new_window": false,
     "partner": null
   }
