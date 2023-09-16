@@ -1,12 +1,58 @@
 [
   {
+    "id": 6281193,
+    "slug": "verstappen-accepteert-zwaar-weekend-in-singapore-winnen-kun-je-vergeten",
+    "type": "article",
+    "title": "Verstappen accepteert zwaar weekend in Singapore: 'Winnen kun je vergeten'",
+    "subtitle": null,
+    "published_at": "2023-09-16T17:36:17+02:00",
+    "updated_at": "2023-09-16T17:36:18+02:00",
+    "media_id": "rmmxdq5a34jz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Singapore",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6281193/verstappen-accepteert-zwaar-weekend-in-singapore-winnen-kun-je-vergeten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281186,
+    "slug": "simons-weer-grote-man-bij-leipzig-wereldgoal-oud-ajacied-grillitsch",
+    "type": "article",
+    "title": "Simons weer grote man bij Leipzig, wereldgoal oud-Ajacied Grillitsch",
+    "subtitle": null,
+    "published_at": "2023-09-16T17:30:24+02:00",
+    "updated_at": "2023-09-16T17:41:02+02:00",
+    "media_id": "v78xmzha4oxa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6281186/simons-weer-grote-man-bij-leipzig-wereldgoal-oud-ajacied-grillitsch.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281189,
     "slug": "poels-wint-verrassend-voorlaatste-vuelta-rit-jumbo-visma-bijna-zeker-van-trilogie",
     "type": "article",
     "title": "Poels wint verrassend voorlaatste Vuelta-rit, Jumbo-Visma bijna zeker van trilogie",
     "subtitle": null,
     "published_at": "2023-09-16T17:08:38+02:00",
-    "updated_at": "2023-09-16T17:20:32+02:00",
+    "updated_at": "2023-09-16T17:38:31+02:00",
     "media_id": "snwxgoca1gly",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Na jaren uitstel komt de wietproef er dan toch: waarom duurde het zo lang?",
     "subtitle": "NU+",
     "published_at": "2023-09-16T16:56:57+02:00",
-    "updated_at": "2023-09-16T17:18:26+02:00",
+    "updated_at": "2023-09-16T17:43:02+02:00",
     "media_id": "8lexe5pas10r",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Regisseur en Baantjer-actrice Wimie Wilhelm (62) overleden",
     "subtitle": null,
     "published_at": "2023-09-16T16:17:26+02:00",
-    "updated_at": "2023-09-16T17:23:09+02:00",
+    "updated_at": "2023-09-16T17:43:21+02:00",
     "media_id": "b1rxbl8a8ehr",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Verstappen beleeft in Singapore rampzalige kwalificatie en valt buiten top 10",
     "subtitle": null,
     "published_at": "2023-09-16T16:10:55+02:00",
-    "updated_at": "2023-09-16T17:17:30+02:00",
+    "updated_at": "2023-09-16T17:38:22+02:00",
     "media_id": "0r6xgpgaye2o",
     "duration": null,
     "canonical_section": {
@@ -116,13 +162,13 @@
   },
   {
     "id": 6281178,
-    "slug": "feyenoord-na-doelpuntrijke-eerste-helft-op-3-1-tegen-heerenveen",
+    "slug": "feyenoord-zoekt-meer-goals-tegen-heerenveen-in-doelpuntrijk-duel",
     "type": "article",
-    "title": "Feyenoord na doelpuntrijke eerste helft op 3-1 tegen Heerenveen",
+    "title": "Feyenoord zoekt meer goals tegen Heerenveen in doelpuntrijk duel",
     "subtitle": "Liveblog",
     "published_at": "2023-09-16T15:34:45+02:00",
-    "updated_at": "2023-09-16T17:24:16+02:00",
-    "media_id": "sscxdzta8dt2",
+    "updated_at": "2023-09-16T17:35:32+02:00",
+    "media_id": "ihjx491a5y6c",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -133,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6281178/feyenoord-na-doelpuntrijke-eerste-helft-op-3-1-tegen-heerenveen.html",
+    "url": "/voetbal/6281178/feyenoord-zoekt-meer-goals-tegen-heerenveen-in-doelpuntrijk-duel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +213,7 @@
     "title": "Gakpo draagt met goal bij aan zege Liverpool, Gravenberch debuteert in slotfase",
     "subtitle": null,
     "published_at": "2023-09-16T15:31:04+02:00",
-    "updated_at": "2023-09-16T16:00:59+02:00",
+    "updated_at": "2023-09-16T17:43:52+02:00",
     "media_id": "x1yx5pnabf3m",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6280720/iran-een-jaar-na-dood-van-mahsa-amini-tactiek-van-angst-zaaien-werkt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281150,
-    "slug": "canadees-park-plaatst-poepzakafhaalpunten-omdat-mensen-er-hun-behoefte-doen",
-    "type": "article",
-    "title": "Canadees park plaatst poepzakafhaalpunten omdat mensen er hun behoefte doen",
-    "subtitle": null,
-    "published_at": "2023-09-16T12:14:40+02:00",
-    "updated_at": "2023-09-16T16:02:16+02:00",
-    "media_id": "k1nx6lbaycnn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6281150/canadees-park-plaatst-poepzakafhaalpunten-omdat-mensen-er-hun-behoefte-doen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281151,
-    "slug": "geen-vragen-over-aardrijkskunde-geschiedenis-of-biologie-in-nieuwe-eindtoets",
-    "type": "article",
-    "title": "Geen vragen over aardrijkskunde, geschiedenis of biologie in nieuwe eindtoets",
-    "subtitle": null,
-    "published_at": "2023-09-16T12:08:36+02:00",
-    "updated_at": "2023-09-16T13:57:13+02:00",
-    "media_id": "5s2xdtfagvfn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6281151/geen-vragen-over-aardrijkskunde-geschiedenis-of-biologie-in-nieuwe-eindtoets.html",
     "open_new_window": false,
     "partner": null
   }
