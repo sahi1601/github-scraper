@@ -1,12 +1,35 @@
 [
   {
-    "id": 6281151,
-    "slug": "geen-vragen-over-aardrijkskunde-geschiedenis-biologie-in-nieuwe-eindtoets-groep-8",
+    "id": 6281150,
+    "slug": "poepzakafhaalpunten-in-canadees-park-omdat-bezoekers-hun-behoefte-er-doen",
     "type": "article",
-    "title": "Geen vragen over aardrijkskunde, geschiedenis, biologie in nieuwe eindtoets groep 8",
+    "title": "Poepzakafhaalpunten in Canadees park omdat bezoekers hun behoefte er doen",
+    "subtitle": null,
+    "published_at": "2023-09-16T12:14:40+02:00",
+    "updated_at": "2023-09-16T12:21:06+02:00",
+    "media_id": "k1nx6lbaycnn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6281150/poepzakafhaalpunten-in-canadees-park-omdat-bezoekers-hun-behoefte-er-doen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281151,
+    "slug": "geen-vragen-over-aardrijkskunde-geschiedenis-of-biologie-in-nieuwe-eindtoets",
+    "type": "article",
+    "title": "Geen vragen over aardrijkskunde, geschiedenis of biologie in nieuwe eindtoets",
     "subtitle": null,
     "published_at": "2023-09-16T12:08:36+02:00",
-    "updated_at": "2023-09-16T12:08:38+02:00",
+    "updated_at": "2023-09-16T12:25:34+02:00",
     "media_id": "5s2xdtfagvfn",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6281151/geen-vragen-over-aardrijkskunde-geschiedenis-biologie-in-nieuwe-eindtoets-groep-8.html",
+    "url": "/binnenland/6281151/geen-vragen-over-aardrijkskunde-geschiedenis-of-biologie-in-nieuwe-eindtoets.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,8 +75,8 @@
     "title": "Laatste kans voor klassementsmannen in voorlaatste Vuelta-rit",
     "subtitle": "Liveblog",
     "published_at": "2023-09-16T11:53:15+02:00",
-    "updated_at": "2023-09-16T11:59:31+02:00",
-    "media_id": "8euxep9a0ld0",
+    "updated_at": "2023-09-16T12:21:45+02:00",
+    "media_id": "gbtxsaga6y5i",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -139,12 +162,12 @@
   },
   {
     "id": 6281146,
-    "slug": "red-bull-heeft-het-ook-in-derde-training-moeilijk-in-singapore",
+    "slug": "verstappen-heeft-het-ook-in-derde-training-moeilijk-in-singapore",
     "type": "article",
-    "title": "Red Bull heeft het ook in derde training moeilijk in Singapore",
+    "title": "Verstappen heeft het ook in derde training moeilijk in Singapore",
     "subtitle": "Liveblog",
     "published_at": "2023-09-16T11:12:12+02:00",
-    "updated_at": "2023-09-16T12:04:30+02:00",
+    "updated_at": "2023-09-16T12:24:11+02:00",
     "media_id": "z17x4xvamvk9",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6281146/red-bull-heeft-het-ook-in-derde-training-moeilijk-in-singapore.html",
+    "url": "/formule-1/6281146/verstappen-heeft-het-ook-in-derde-training-moeilijk-in-singapore.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +374,7 @@
     "title": "Amsterdam weer opgeschrikt door meerdere explosies, verdachte opgepakt",
     "subtitle": null,
     "published_at": "2023-09-16T08:00:59+02:00",
-    "updated_at": "2023-09-16T08:39:14+02:00",
+    "updated_at": "2023-09-16T12:24:47+02:00",
     "media_id": "1ydx8v8ajppe",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6281110/situatie-op-lampedusa-rustiger-na-vertrek-duizenden-migranten-nog-maar-3800.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281109,
-    "slug": "lekker-nazomeren-dit-weekend-voordat-het-weer-gaat-regenen",
-    "type": "article",
-    "title": "Lekker nazomeren dit weekend, voordat het weer gaat regenen",
-    "subtitle": "Weerbericht",
-    "published_at": "2023-09-16T06:02:39+02:00",
-    "updated_at": "2023-09-16T08:43:29+02:00",
-    "media_id": "gcxxgboau592",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6281109/lekker-nazomeren-dit-weekend-voordat-het-weer-gaat-regenen.html",
     "open_new_window": false,
     "partner": null
   }
