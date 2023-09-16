@@ -1,12 +1,35 @@
 [
   {
+    "id": 6281025,
+    "slug": "dit-zijn-de-minder-voor-de-hand-liggende-plekken-om-als-student-te-wonen",
+    "type": "article",
+    "title": "Dit zijn de minder voor de hand liggende plekken om als student te wonen",
+    "subtitle": "NU+",
+    "published_at": "2023-09-16T20:05:06+02:00",
+    "updated_at": "2023-09-16T20:05:07+02:00",
+    "media_id": "xbqx6leatkz7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779236,
+      "slug": "nuverder",
+      "type": "default",
+      "name": "Dagelijks leven",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nuverder/6281025/dit-zijn-de-minder-voor-de-hand-liggende-plekken-om-als-student-te-wonen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281207,
     "slug": "psv-start-met-debutant-bella-kotchap-tegen-nec-lozano-nog-op-de-bank",
     "type": "article",
     "title": "PSV start met debutant Bella-Kotchap tegen NEC, Lozano nog op de bank",
     "subtitle": null,
     "published_at": "2023-09-16T19:07:16+02:00",
-    "updated_at": "2023-09-16T19:35:42+02:00",
+    "updated_at": "2023-09-16T20:14:12+02:00",
     "media_id": "s39xs09ajzoa",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6281175/verstappen-beleeft-in-singapore-rampzalige-kwalificatie-en-valt-buiten-top-10.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281178,
-    "slug": "rkc-bij-rust-op-voorsprong-tegen-vitesse-in-airborne-duel",
-    "type": "article",
-    "title": "RKC bij rust op voorsprong tegen Vitesse in Airborne-duel",
-    "subtitle": "Liveblog",
-    "published_at": "2023-09-16T15:34:45+02:00",
-    "updated_at": "2023-09-16T19:32:50+02:00",
-    "media_id": "4d1x8ohaocjz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6281178/rkc-bij-rust-op-voorsprong-tegen-vitesse-in-airborne-duel.html",
     "open_new_window": false,
     "partner": null
   }
