@@ -1,5 +1,28 @@
 [
   {
+    "id": 6281061,
+    "slug": "waarom-je-in-september-zoveel-verjaardagen-hebt",
+    "type": "video",
+    "title": "Waarom je in september zoveel verjaardagen hebt",
+    "subtitle": "Explainer",
+    "published_at": "2023-09-17T06:33:01+02:00",
+    "updated_at": "2023-09-17T06:33:02+02:00",
+    "media_id": "eedxetlarb17",
+    "duration": "1:16",
+    "canonical_section": {
+      "id": 1778967,
+      "slug": "uitleg",
+      "type": "default",
+      "name": "Het nieuws uitgelegd",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitleg/6281061/waarom-je-in-september-zoveel-verjaardagen-hebt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281229,
     "slug": "paraplu-en-parasol-komen-van-pas-op-broeierige-dag-met-buien",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6281214/rkc-verslaat-vitesse-in-airborne-duel-fortuna-herpakt-zich-tegen-volendam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281209,
-    "slug": "slot-twijfelt-nog-over-spitspositie-tegen-celtic-er-zijn-opties-bijgekomen",
-    "type": "article",
-    "title": "Slot twijfelt nog over spitspositie tegen Celtic: 'Er zijn opties bijgekomen'",
-    "subtitle": null,
-    "published_at": "2023-09-16T20:20:32+02:00",
-    "updated_at": "2023-09-16T23:10:40+02:00",
-    "media_id": "qo1x6yjae0j7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6281209/slot-twijfelt-nog-over-spitspositie-tegen-celtic-er-zijn-opties-bijgekomen.html",
     "open_new_window": false,
     "partner": null
   }
