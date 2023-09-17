@@ -1,5 +1,51 @@
 [
   {
+    "id": 6281267,
+    "slug": "verstappen-staat-voor-inhaalrace-in-singapore",
+    "type": "article",
+    "title": "Verstappen staat voor inhaalrace in Singapore",
+    "subtitle": "Liveblog",
+    "published_at": "2023-09-17T13:34:25+02:00",
+    "updated_at": "2023-09-17T13:42:29+02:00",
+    "media_id": "gfax0taag0y2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "GP Singapore",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6281267/verstappen-staat-voor-inhaalrace-in-singapore.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281165,
+    "slug": "mannsverk-en-sosa-debuteren-in-ajax-basis-in-uitwedstrijd-tegen-fc-twente",
+    "type": "article",
+    "title": "Mannsverk en Sosa debuteren in Ajax-basis in uitwedstrijd tegen FC Twente",
+    "subtitle": null,
+    "published_at": "2023-09-17T13:32:22+02:00",
+    "updated_at": "2023-09-17T13:32:23+02:00",
+    "media_id": "t4lxvofagzwc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6281165/mannsverk-en-sosa-debuteren-in-ajax-basis-in-uitwedstrijd-tegen-fc-twente.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281264,
     "slug": "ecb-bestuurder-waarschuwt-gok-niet-op-renteverlaging-in-eerste-helft-2024",
     "type": "article",
@@ -282,7 +328,7 @@
     "title": "Week na ramp Libië nog tienduizend mensen vermist, overlevingskans steeds kleiner",
     "subtitle": null,
     "published_at": "2023-09-17T11:32:48+02:00",
-    "updated_at": "2023-09-17T12:03:55+02:00",
+    "updated_at": "2023-09-17T13:38:31+02:00",
     "media_id": "gr4x7vpaq898",
     "duration": null,
     "canonical_section": {
@@ -300,13 +346,13 @@
   },
   {
     "id": 6281254,
-    "slug": "doelpunt-go-ahead-afgekeurd-in-zwolle-ajax-vermoedelijk-met-berghuis",
+    "slug": "go-ahead-in-ondertal-weer-naast-pec-ajax-arriveert-in-enschede",
     "type": "article",
-    "title": "Doelpunt Go Ahead afgekeurd in Zwolle, Ajax vermoedelijk met Berghuis",
+    "title": "Go Ahead in ondertal weer naast PEC, Ajax arriveert in Enschede",
     "subtitle": "Liveblog",
     "published_at": "2023-09-17T11:32:14+02:00",
-    "updated_at": "2023-09-17T13:03:50+02:00",
-    "media_id": "p9wxfcnao8pb",
+    "updated_at": "2023-09-17T13:44:20+02:00",
+    "media_id": "h4hxhnla79gf",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -317,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6281254/doelpunt-go-ahead-afgekeurd-in-zwolle-ajax-vermoedelijk-met-berghuis.html",
+    "url": "/voetbal/6281254/go-ahead-in-ondertal-weer-naast-pec-ajax-arriveert-in-enschede.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6281247/twee-mensen-omgekomen-bij-auto-ongeluk-in-zeeuws-ritthem.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281245,
-    "slug": "aston-martin-coureur-stroll-mist-gp-singapore-door-gevolgen-crash-bij-kwalificatie",
-    "type": "article",
-    "title": "Aston Martin-coureur Stroll mist GP Singapore door gevolgen crash bij kwalificatie",
-    "subtitle": null,
-    "published_at": "2023-09-17T09:33:47+02:00",
-    "updated_at": "2023-09-17T10:09:19+02:00",
-    "media_id": "dlixthya4zlv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778846,
-      "slug": "nu-formule-1",
-      "type": "default",
-      "name": "NU+ Formule 1",
-      "style": "nusport",
-      "media_id": "gtmxcxnaui5m",
-      "partner": null
-    },
-    "url": "/nu-formule-1/6281245/aston-martin-coureur-stroll-mist-gp-singapore-door-gevolgen-crash-bij-kwalificatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281244,
-    "slug": "de-mannetjesschildpadden-raken-op-deze-rol-speelt-het-klimaat",
-    "type": "video",
-    "title": "De mannetjesschildpadden raken 'op': deze rol speelt het klimaat",
-    "subtitle": "Video",
-    "published_at": "2023-09-17T09:32:52+02:00",
-    "updated_at": "2023-09-17T09:32:54+02:00",
-    "media_id": "947xzm7a5esv",
-    "duration": "8:06",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6281244/de-mannetjesschildpadden-raken-op-deze-rol-speelt-het-klimaat.html",
     "open_new_window": false,
     "partner": null
   }
