@@ -1,5 +1,28 @@
 [
   {
+    "id": 6281274,
+    "slug": "van-rampen-tot-dieren-aan-welke-goede-doelen-geef-jij-en-hoeveel",
+    "type": "article",
+    "title": "Van rampen tot dieren: aan welke goede doelen geef jij en hoeveel?",
+    "subtitle": "Praat Mee",
+    "published_at": "2023-09-18T07:29:10+02:00",
+    "updated_at": "2023-09-18T07:29:11+02:00",
+    "media_id": "jaqx5vqau528",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6281274/van-rampen-tot-dieren-aan-welke-goede-doelen-geef-jij-en-hoeveel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281336,
     "slug": "oude-brief-bewijst-dat-oorlogspaus-pius-xii-al-vroeg-wist-van-vernietigingskampen",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2023-09-18T06:13:20+02:00",
-    "updated_at": "2023-09-18T06:13:22+02:00",
+    "updated_at": "2023-09-18T07:30:16+02:00",
     "media_id": "xdtxc8kaj8rf",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "VN: Jongeren willen geen fossiele brandstof en geen reclame voor vliegen en vlees",
     "subtitle": null,
     "published_at": "2023-09-18T00:38:54+02:00",
-    "updated_at": "2023-09-18T07:22:20+02:00",
+    "updated_at": "2023-09-18T07:34:29+02:00",
     "media_id": "4spx3xbaxqzq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6281323/tsegay-verpulvert-wereldrecord-5000-meter-duplantis-breekt-record-met-polsstok.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281322,
-    "slug": "real-madrid-draait-achterstand-om-en-blijft-zonder-puntenverlies-aan-kop",
-    "type": "article",
-    "title": "Real Madrid draait achterstand om en blijft zonder puntenverlies aan kop",
-    "subtitle": null,
-    "published_at": "2023-09-17T22:57:57+02:00",
-    "updated_at": "2023-09-17T23:12:01+02:00",
-    "media_id": "35rxe84a8ray",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6281322/real-madrid-draait-achterstand-om-en-blijft-zonder-puntenverlies-aan-kop.html",
     "open_new_window": false,
     "partner": null
   }
