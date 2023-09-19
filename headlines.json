@@ -1,12 +1,35 @@
 [
   {
+    "id": 6281543,
+    "slug": "nederland-ontloopt-djokovic-en-speelt-in-kwartfinales-davis-cup-tegen-italie",
+    "type": "article",
+    "title": "Nederland ontloopt Djokovic en speelt in kwartfinales Davis Cup tegen Italië",
+    "subtitle": null,
+    "published_at": "2023-09-19T13:35:17+02:00",
+    "updated_at": "2023-09-19T13:35:18+02:00",
+    "media_id": "kejxp6babdzv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6281543/nederland-ontloopt-djokovic-en-speelt-in-kwartfinales-davis-cup-tegen-italie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281545,
     "slug": "ziekenhuispersoneel-zat-zelf-minder-vaak-ziek-thuis",
     "type": "article",
     "title": "Ziekenhuispersoneel zat zelf minder vaak ziek thuis",
     "subtitle": null,
     "published_at": "2023-09-19T13:24:47+02:00",
-    "updated_at": "2023-09-19T13:24:48+02:00",
+    "updated_at": "2023-09-19T13:24:49+02:00",
     "media_id": "aemx2mua8kuy",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Raymond van Barneveld en Julia geven elkaar het jawoord op Cyprus",
     "subtitle": null,
     "published_at": "2023-09-19T13:23:09+02:00",
-    "updated_at": "2023-09-19T13:23:10+02:00",
+    "updated_at": "2023-09-19T13:28:11+02:00",
     "media_id": "atjxlr7af3j0",
     "duration": null,
     "canonical_section": {
@@ -52,8 +75,8 @@
     "title": "Duitsland negeert roep om Van Gaal en stelt Nagelsmann aan als bondscoach",
     "subtitle": null,
     "published_at": "2023-09-19T13:18:40+02:00",
-    "updated_at": "2023-09-19T13:23:57+02:00",
-    "media_id": "nwpxl8mahqu5",
+    "updated_at": "2023-09-19T13:44:07+02:00",
+    "media_id": "hy6xqfwa26qj",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -75,7 +98,7 @@
     "title": "Van Leeuwen staat voor CL-debuut: 'Ik zal wel spanning voelen'",
     "subtitle": "NU+",
     "published_at": "2023-09-19T13:10:22+02:00",
-    "updated_at": "2023-09-19T13:10:24+02:00",
+    "updated_at": "2023-09-19T13:26:59+02:00",
     "media_id": "p11xrqraxgob",
     "duration": null,
     "canonical_section": {
@@ -144,8 +167,8 @@
     "title": "Kijk hier de troonrede van de koning",
     "subtitle": "Livestream",
     "published_at": "2023-09-19T13:06:32+02:00",
-    "updated_at": "2023-09-19T13:06:32+02:00",
-    "media_id": "xm6xwtmaj1ln",
+    "updated_at": "2023-09-19T13:29:00+02:00",
+    "media_id": "223xwliama17",
     "duration": "0:01",
     "canonical_section": {
       "id": 100,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6281509/wie-schrijft-de-troonrede-en-wat-als-de-koning-ziek-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281524,
-    "slug": "unesco-roept-planetarium-in-franeker-uit-tot-werelderfgoed",
-    "type": "article",
-    "title": "UNESCO roept planetarium in Franeker uit tot werelderfgoed",
-    "subtitle": null,
-    "published_at": "2023-09-19T11:03:48+02:00",
-    "updated_at": "2023-09-19T11:20:23+02:00",
-    "media_id": "b7fx9uhai8m8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6281524/unesco-roept-planetarium-in-franeker-uit-tot-werelderfgoed.html",
     "open_new_window": false,
     "partner": null
   }
