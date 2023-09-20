@@ -1,5 +1,74 @@
 [
   {
+    "id": 6281716,
+    "slug": "kruipende-dieven-stelen-kluis-in-engeland",
+    "type": "video",
+    "title": "Kruipende dieven stelen kluis in Engeland",
+    "subtitle": "Video",
+    "published_at": "2023-09-20T13:38:39+02:00",
+    "updated_at": "2023-09-20T13:38:41+02:00",
+    "media_id": "wqsxqyeacpkx",
+    "duration": "0:48",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6281716/kruipende-dieven-stelen-kluis-in-engeland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281712,
+    "slug": "ook-nederland-steunt-oekraine-in-genocidezaak-tegen-rusland",
+    "type": "article",
+    "title": "Ook Nederland steunt Oekraïne in 'genocidezaak' tegen Rusland",
+    "subtitle": null,
+    "published_at": "2023-09-20T13:35:12+02:00",
+    "updated_at": "2023-09-20T13:35:13+02:00",
+    "media_id": "m88x0baan4r6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6281712/ook-nederland-steunt-oekraine-in-genocidezaak-tegen-rusland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6281703,
+    "slug": "mogelijk-verband-tussen-explosies-in-winschoten-en-oude-pekela",
+    "type": "article",
+    "title": "Mogelijk verband tussen explosies in Winschoten en Oude Pekela",
+    "subtitle": null,
+    "published_at": "2023-09-20T13:28:53+02:00",
+    "updated_at": "2023-09-20T13:28:54+02:00",
+    "media_id": "5o4xy8kagnp5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6281703/mogelijk-verband-tussen-explosies-in-winschoten-en-oude-pekela.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281710,
     "slug": "verkoopcijfers-magazine-linda-daalden-door-misstanden-bij-the-voice-of-holland",
     "type": "article",
@@ -29,7 +98,7 @@
     "title": "Beroemd schilderij van Delacroix tijdelijk niet in Louvre wegens onderhoud",
     "subtitle": null,
     "published_at": "2023-09-20T12:54:40+02:00",
-    "updated_at": "2023-09-20T13:19:41+02:00",
+    "updated_at": "2023-09-20T13:36:36+02:00",
     "media_id": "yxvxjiia9w8w",
     "duration": null,
     "canonical_section": {
@@ -121,7 +190,7 @@
     "title": "Disney pompt komende jaren tientallen miljarden dollars in pretparken",
     "subtitle": null,
     "published_at": "2023-09-20T12:40:27+02:00",
-    "updated_at": "2023-09-20T12:40:29+02:00",
+    "updated_at": "2023-09-20T13:42:00+02:00",
     "media_id": "xpdxhdcawutj",
     "duration": null,
     "canonical_section": {
@@ -144,7 +213,7 @@
     "title": "Zuid-Holland doet aangifte tegen Chemours omdat het stof illegaal loost",
     "subtitle": null,
     "published_at": "2023-09-20T12:12:43+02:00",
-    "updated_at": "2023-09-20T12:29:03+02:00",
+    "updated_at": "2023-09-20T13:41:44+02:00",
     "media_id": "743x2ifazeu7",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6281679/turnlegende-biles-keert-na-periode-met-mentale-problemen-terug-op-wk-niveau.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281610,
-    "slug": "vvd-wil-liever-middeninkomens-helpen-dan-minimumloon-verhogen",
-    "type": "article",
-    "title": "VVD wil liever middeninkomens helpen dan minimumloon verhogen",
-    "subtitle": "Liveblog",
-    "published_at": "2023-09-20T10:17:36+02:00",
-    "updated_at": "2023-09-20T11:44:31+02:00",
-    "media_id": "mwbxkq2a2xdh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6281610/vvd-wil-liever-middeninkomens-helpen-dan-minimumloon-verhogen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281673,
-    "slug": "verkoop-van-elektrische-autos-in-europa-verdubbeld",
-    "type": "article",
-    "title": "Verkoop van elektrische auto's in Europa verdubbeld",
-    "subtitle": null,
-    "published_at": "2023-09-20T10:12:15+02:00",
-    "updated_at": "2023-09-20T12:52:15+02:00",
-    "media_id": "x68xg91ac111",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6281673/verkoop-van-elektrische-autos-in-europa-verdubbeld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281665,
-    "slug": "scorende-lazio-keeper-keek-goal-af-bij-immobile-zie-hem-dit-elke-dag-doen",
-    "type": "article",
-    "title": "Scorende Lazio-keeper keek goal af bij Immobile: 'Zie hem dit elke dag doen'",
-    "subtitle": null,
-    "published_at": "2023-09-20T10:04:08+02:00",
-    "updated_at": "2023-09-20T10:04:10+02:00",
-    "media_id": "l6mxc5dasoxo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6281665/scorende-lazio-keeper-keek-goal-af-bij-immobile-zie-hem-dit-elke-dag-doen.html",
     "open_new_window": false,
     "partner": null
   }
