@@ -1,5 +1,28 @@
 [
   {
+    "id": 6281764,
+    "slug": "fotograaf-erwin-olaf-overleden-op-64-jarige-leeftijd",
+    "type": "article",
+    "title": "Fotograaf Erwin Olaf overleden op 64-jarige leeftijd",
+    "subtitle": null,
+    "published_at": "2023-09-20T17:49:52+02:00",
+    "updated_at": "2023-09-20T17:50:06+02:00",
+    "media_id": "7crx42la8e7t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6281764/fotograaf-erwin-olaf-overleden-op-64-jarige-leeftijd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281709,
     "slug": "iran-gaat-overtreden-kledingregels-zwaarder-bestraffen-hoge-boetes-of-jaren-cel",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Toptalent Tarling (19) overklast Van Aert en grijpt Europese titel tijdrijden",
     "subtitle": null,
     "published_at": "2023-09-20T17:24:09+02:00",
-    "updated_at": "2023-09-20T17:36:57+02:00",
+    "updated_at": "2023-09-20T17:47:46+02:00",
     "media_id": "vcxx9x6a03gy",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6281696/heeft-werkend-nederland-nog-een-vakbond-nodig-lonen-een-hot-item.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281725,
-    "slug": "kritiek-op-geheim-overheidsonderzoek-naar-moskeeen-kwalijk-en-verwerpelijk",
-    "type": "article",
-    "title": "Kritiek op geheim overheidsonderzoek naar moskeeën: 'Kwalijk en verwerpelijk'",
-    "subtitle": null,
-    "published_at": "2023-09-20T14:40:59+02:00",
-    "updated_at": "2023-09-20T17:39:37+02:00",
-    "media_id": "94wxs2yaq49y",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6281725/kritiek-op-geheim-overheidsonderzoek-naar-moskeeen-kwalijk-en-verwerpelijk.html",
     "open_new_window": false,
     "partner": null
   }
