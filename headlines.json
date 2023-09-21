@@ -1,5 +1,28 @@
 [
   {
+    "id": 6281806,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-09-21T05:14:45+02:00",
+    "updated_at": "2023-09-21T05:14:46+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6281806/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281801,
     "slug": "politieke-beschouwingen-rutte-krijgt-waslijst-van-wensen-uit-kamer",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6281782/koningspaar-reageert-op-overlijden-erwin-olaf-zullen-zijn-vriendschap-missen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281783,
-    "slug": "keepersprobleem-bij-oranje-van-domselaar-en-kop-missen-duel-met-belgie",
-    "type": "article",
-    "title": "Keepersprobleem bij Oranje: Van Domselaar en Kop missen duel met België",
-    "subtitle": null,
-    "published_at": "2023-09-20T20:20:57+02:00",
-    "updated_at": "2023-09-20T23:31:33+02:00",
-    "media_id": "eiqxgwva7v6p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6281783/keepersprobleem-bij-oranje-van-domselaar-en-kop-missen-duel-met-belgie.html",
     "open_new_window": false,
     "partner": null
   }
