@@ -1,12 +1,35 @@
 [
   {
+    "id": 6281821,
+    "slug": "vlammen-slaan-uit-gasleiding-vlak-bij-amerikaans-tankstation",
+    "type": "video",
+    "title": "Vlammen slaan uit gasleiding vlak bij Amerikaans tankstation",
+    "subtitle": "Video",
+    "published_at": "2023-09-21T08:22:06+02:00",
+    "updated_at": "2023-09-21T08:22:07+02:00",
+    "media_id": "8rjxwgwanu60",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6281821/vlammen-slaan-uit-gasleiding-vlak-bij-amerikaans-tankstation.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281819,
     "slug": "groot-ongeluk-op-a4-bij-delft-lange-file-tussen-rotterdam-en-den-haag",
     "type": "article",
     "title": "Groot ongeluk op A4 bij Delft, lange file tussen Rotterdam en Den Haag",
     "subtitle": null,
     "published_at": "2023-09-21T08:11:00+02:00",
-    "updated_at": "2023-09-21T08:17:17+02:00",
+    "updated_at": "2023-09-21T08:19:55+02:00",
     "media_id": "kp5xldlabyvj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6281804/ajax-stelt-boekhorst-in-crisistijd-aan-als-nieuwe-voorzitter-van-bestuursraad.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281803,
-    "slug": "bosz-en-de-jong-vonden-psv-niet-naief-tegen-arsenal-dat-is-te-makkelijk",
-    "type": "article",
-    "title": "Bosz en De Jong vonden PSV niet naïef tegen Arsenal: 'Dat is te makkelijk'",
-    "subtitle": null,
-    "published_at": "2023-09-20T23:52:15+02:00",
-    "updated_at": "2023-09-21T07:54:05+02:00",
-    "media_id": "nuzxlu9ahswa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6281803/bosz-en-de-jong-vonden-psv-niet-naief-tegen-arsenal-dat-is-te-makkelijk.html",
     "open_new_window": false,
     "partner": null
   }
