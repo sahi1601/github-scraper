@@ -1,5 +1,28 @@
 [
   {
+    "id": 6281809,
+    "slug": "docent-in-texas-ontslagen-omdat-ze-klas-fragmenten-van-anne-frank-liet-lezen",
+    "type": "article",
+    "title": "Docent in Texas ontslagen omdat ze klas fragmenten van Anne Frank liet lezen",
+    "subtitle": null,
+    "published_at": "2023-09-21T06:19:29+02:00",
+    "updated_at": "2023-09-21T06:22:28+02:00",
+    "media_id": "he8x07galx0o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6281809/docent-in-texas-ontslagen-omdat-ze-klas-fragmenten-van-anne-frank-liet-lezen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281808,
     "slug": "groep-bekende-schrijvers-klaagt-bedrijf-achter-chatgpt-aan-om-gebruik-teksten",
     "type": "article",
@@ -236,7 +259,7 @@
     "title": "De Oranjes en uitdagend naakt: een greep uit het werk van Erwin Olaf",
     "subtitle": "In beeld",
     "published_at": "2023-09-20T22:57:18+02:00",
-    "updated_at": "2023-09-20T23:00:39+02:00",
+    "updated_at": "2023-09-21T06:20:39+02:00",
     "media_id": "4uwxsuaa2q7p",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6281788/dumfries-en-de-vrij-redden-punt-met-inter-real-en-napoli-winnen-op-de-valreep.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281787,
-    "slug": "scheepswrakken-uit-wo-ii-voor-het-eerst-gedetailleerd-vastgelegd",
-    "type": "video",
-    "title": "Scheepswrakken uit WO II voor het eerst gedetailleerd vastgelegd",
-    "subtitle": "Video",
-    "published_at": "2023-09-20T20:45:41+02:00",
-    "updated_at": "2023-09-20T20:52:59+02:00",
-    "media_id": "89bxh8maho4j",
-    "duration": "0:55",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6281787/scheepswrakken-uit-wo-ii-voor-het-eerst-gedetailleerd-vastgelegd.html",
     "open_new_window": false,
     "partner": null
   }
