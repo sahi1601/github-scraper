@@ -1,5 +1,28 @@
 [
   {
+    "id": 6281944,
+    "slug": "acda-en-de-munnik-brengen-na-tien-jaar-weer-nieuw-album-uit-aedm",
+    "type": "article",
+    "title": "Acda en de Munnik brengen na tien jaar weer nieuw album uit: AEDM",
+    "subtitle": null,
+    "published_at": "2023-09-21T19:27:14+02:00",
+    "updated_at": "2023-09-21T19:27:15+02:00",
+    "media_id": "k33xvhwanp1n",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6281944/acda-en-de-munnik-brengen-na-tien-jaar-weer-nieuw-album-uit-aedm.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6281943,
     "slug": "sophie-turner-wil-kinderen-terug-van-joe-jonas-en-schakelt-rechter-in",
     "type": "article",
@@ -162,12 +185,12 @@
   },
   {
     "id": 6281925,
-    "slug": "az-binnen-half-uur-2-0-voor-tegen-zrinjski-protesten-rond-ajax",
+    "slug": "az-met-ruime-voorsprong-naar-kleedkamer-protesten-rond-ajax",
     "type": "article",
-    "title": "AZ binnen half uur 2-0 voor tegen Zrinjski, protesten rond Ajax",
+    "title": "AZ met ruime voorsprong naar kleedkamer, protesten rond Ajax",
     "subtitle": "Liveblog",
     "published_at": "2023-09-21T17:57:29+02:00",
-    "updated_at": "2023-09-21T19:19:26+02:00",
+    "updated_at": "2023-09-21T19:34:23+02:00",
     "media_id": "xx5x8q4am2z7",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6281925/az-binnen-half-uur-2-0-voor-tegen-zrinjski-protesten-rond-ajax.html",
+    "url": "/voetbal/6281925/az-met-ruime-voorsprong-naar-kleedkamer-protesten-rond-ajax.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6281903/nations-league-duels-oranjevrouwen-komende-vier-jaar-te-zien-bij-nos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6281908,
-    "slug": "internationale-mediamagnaat-rupert-murdoch-92-gaat-met-pensioen",
-    "type": "article",
-    "title": "Internationale mediamagnaat Rupert Murdoch (92) gaat met pensioen",
-    "subtitle": null,
-    "published_at": "2023-09-21T15:21:22+02:00",
-    "updated_at": "2023-09-21T15:46:44+02:00",
-    "media_id": "ht7x6luaw6o2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6281908/internationale-mediamagnaat-rupert-murdoch-92-gaat-met-pensioen.html",
     "open_new_window": false,
     "partner": null
   }
