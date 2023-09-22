@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282138,
+    "slug": "arcade-van-duncan-laurence-al-30-miljard-keer-gestreamd",
+    "type": "article",
+    "title": "Arcade van Duncan Laurence al 30 miljard keer gestreamd",
+    "subtitle": null,
+    "published_at": "2023-09-22T18:30:20+02:00",
+    "updated_at": "2023-09-22T18:30:23+02:00",
+    "media_id": "77vxb3kakeex",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6282138/arcade-van-duncan-laurence-al-30-miljard-keer-gestreamd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282136,
     "slug": "ongehoord-nederland-wil-zich-niet-verantwoorden-en-daagt-npo-voor-de-rechter",
     "type": "article",
@@ -305,7 +328,7 @@
     "title": "Bol en Hassan kunnen voor tweede keer Europees atlete van het jaar worden",
     "subtitle": null,
     "published_at": "2023-09-22T16:32:06+02:00",
-    "updated_at": "2023-09-22T17:24:44+02:00",
+    "updated_at": "2023-09-22T18:36:20+02:00",
     "media_id": "l2nx4eda5mop",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6282089/koppel-hoort-levenslange-straf-en-25-jaar-cel-eisen-voor-moord-op-twee-mensen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282080,
-    "slug": "james-webb-telescoop-vindt-koolstof-op-jupiter-hoe-doet-ie-dat",
-    "type": "article",
-    "title": "James Webb-telescoop vindt koolstof op Jupiter: hoe doet-ie dat?",
-    "subtitle": "NU+",
-    "published_at": "2023-09-22T15:30:59+02:00",
-    "updated_at": "2023-09-22T17:39:34+02:00",
-    "media_id": "ofpxse9aj0d6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6282080/james-webb-telescoop-vindt-koolstof-op-jupiter-hoe-doet-ie-dat.html",
     "open_new_window": false,
     "partner": null
   }
