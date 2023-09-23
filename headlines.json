@@ -1,12 +1,35 @@
 [
   {
+    "id": 6282290,
+    "slug": "hoe-de-nachttrein-een-comeback-maakt-hier-kun-je-in-2023-naartoe",
+    "type": "video",
+    "title": "Hoe de nachttrein een comeback maakt: hier kun je in 2023 naartoe",
+    "subtitle": "Video",
+    "published_at": "2023-09-23T22:31:38+02:00",
+    "updated_at": "2023-09-23T22:32:56+02:00",
+    "media_id": "b1qxu04avex7",
+    "duration": "1:39",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6282290/hoe-de-nachttrein-een-comeback-maakt-hier-kun-je-in-2023-naartoe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282287,
     "slug": "psv-wint-mede-door-eerste-goal-lozano-in-almere-en-blijft-foutloos-in-eredivisie",
     "type": "article",
     "title": "PSV wint mede door eerste goal Lozano in Almere en blijft foutloos in Eredivisie",
     "subtitle": null,
     "published_at": "2023-09-23T22:00:41+02:00",
-    "updated_at": "2023-09-23T22:21:58+02:00",
+    "updated_at": "2023-09-23T22:32:34+02:00",
     "media_id": "getx03uam7y5",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6282286,
-    "slug": "russische-buitenlandminister-haalt-uit-bij-vn-westen-vecht-strijd-uit-met-ons",
+    "slug": "russische-buitenlandminister-haalt-uit-bij-vn-westen-voert-strijd-tegen-ons",
     "type": "article",
-    "title": "Russische buitenlandminister haalt uit bij VN: 'Westen vecht strijd uit met ons'",
+    "title": "Russische buitenlandminister haalt uit bij VN: 'Westen voert strijd tegen ons'",
     "subtitle": null,
     "published_at": "2023-09-23T21:48:54+02:00",
-    "updated_at": "2023-09-23T22:17:46+02:00",
+    "updated_at": "2023-09-23T22:27:23+02:00",
     "media_id": "wjjxyitabd7f",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6282286/russische-buitenlandminister-haalt-uit-bij-vn-westen-vecht-strijd-uit-met-ons.html",
+    "url": "/spanningen-oekraine/6282286/russische-buitenlandminister-haalt-uit-bij-vn-westen-voert-strijd-tegen-ons.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Juventus onderuit tegen Sassuolo, Reijnders keert terug in basis en wint met Milan",
     "subtitle": null,
     "published_at": "2023-09-23T21:44:38+02:00",
-    "updated_at": "2023-09-23T21:59:14+02:00",
+    "updated_at": "2023-09-23T22:36:23+02:00",
     "media_id": "2g0xpmsaput9",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Hoe krabbelen Marokko en chaotisch Libië twee weken na de rampen op?",
     "subtitle": "NU+",
     "published_at": "2023-09-23T20:50:25+02:00",
-    "updated_at": "2023-09-23T22:01:56+02:00",
+    "updated_at": "2023-09-23T22:27:16+02:00",
     "media_id": "7aoxt2xa8hk9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6282265/moordverdachte-schiet-in-de-lach-als-hij-na-32-jaar-wordt-opgepakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282259,
-    "slug": "de-ligt-scoort-en-raakt-geblesseerd-bij-zevenklapper-bayern-munchen",
-    "type": "article",
-    "title": "De Ligt scoort en raakt geblesseerd bij zevenklapper Bayern München",
-    "subtitle": null,
-    "published_at": "2023-09-23T17:30:29+02:00",
-    "updated_at": "2023-09-23T21:33:31+02:00",
-    "media_id": "zrvxhgkas2g9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6282259/de-ligt-scoort-en-raakt-geblesseerd-bij-zevenklapper-bayern-munchen.html",
     "open_new_window": false,
     "partner": null
   }
