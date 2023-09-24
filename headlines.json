@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282345,
+    "slug": "analyse-aanhouden-perez-wordt-uiteindelijk-een-risico-voor-red-bull",
+    "type": "article",
+    "title": "Analyse: Aanhouden Pérez wordt uiteindelijk een risico voor Red Bull",
+    "subtitle": "NU+",
+    "published_at": "2023-09-24T13:11:09+02:00",
+    "updated_at": "2023-09-24T13:20:47+02:00",
+    "media_id": "ouoxo3qa883w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778846,
+      "slug": "nu-formule-1",
+      "type": "default",
+      "name": "NU+ Formule 1",
+      "style": "nusport",
+      "media_id": "gtmxcxnaui5m",
+      "partner": null
+    },
+    "url": "/nu-formule-1/6282345/analyse-aanhouden-perez-wordt-uiteindelijk-een-risico-voor-red-bull.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282111,
     "slug": "het-unieke-universum-van-tim-burton-schaduwen-en-buitenbeentjes",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Zo landt een capsule met ruimtegruis vanmiddag weer op aarde",
     "subtitle": "Video",
     "published_at": "2023-09-24T12:28:50+02:00",
-    "updated_at": "2023-09-24T12:28:52+02:00",
+    "updated_at": "2023-09-24T13:18:55+02:00",
     "media_id": "kvnxx7qamsxi",
     "duration": "0:39",
     "canonical_section": {
@@ -208,12 +231,12 @@
   },
   {
     "id": 6282338,
-    "slug": "sparta-leidt-tegen-vitesse-ajax-mogelijk-zonder-bergwijn-tegen-feyenoord",
+    "slug": "sparta-leidt-bij-rust-tegen-vitesse-aftellen-naar-ajax-feyenoord",
     "type": "article",
-    "title": "Sparta leidt tegen Vitesse, Ajax mogelijk zonder Bergwijn tegen Feyenoord",
+    "title": "Sparta leidt bij rust tegen Vitesse, aftellen naar Ajax-Feyenoord",
     "subtitle": "Liveblog",
     "published_at": "2023-09-24T11:48:16+02:00",
-    "updated_at": "2023-09-24T12:48:28+02:00",
+    "updated_at": "2023-09-24T13:10:39+02:00",
     "media_id": "ch8xjr2ahh9w",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6282338/sparta-leidt-tegen-vitesse-ajax-mogelijk-zonder-bergwijn-tegen-feyenoord.html",
+    "url": "/voetbal/6282338/sparta-leidt-bij-rust-tegen-vitesse-aftellen-naar-ajax-feyenoord.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,8 +259,8 @@
     "title": "Peloton jaagt op kopgroep van vijf in wegrit om Europese titel",
     "subtitle": "Liveblog",
     "published_at": "2023-09-24T11:37:33+02:00",
-    "updated_at": "2023-09-24T13:07:00+02:00",
-    "media_id": "6tqx60cakm47",
+    "updated_at": "2023-09-24T13:24:03+02:00",
+    "media_id": "6lpx1jaa1qi8",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6282325/eerste-podium-heel-speciaal-voor-piastri-maar-dit-was-niet-mijn-beste-race.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282323,
-    "slug": "verstappen-geniet-van-superieure-red-bull-in-japan-geweldig-om-mee-te-rijden",
-    "type": "article",
-    "title": "Verstappen geniet van superieure Red Bull in Japan: 'Geweldig om mee te rijden'",
-    "subtitle": null,
-    "published_at": "2023-09-24T10:20:21+02:00",
-    "updated_at": "2023-09-24T10:33:05+02:00",
-    "media_id": "vd7xnucanrg9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6282323/verstappen-geniet-van-superieure-red-bull-in-japan-geweldig-om-mee-te-rijden.html",
     "open_new_window": false,
     "partner": null
   }
