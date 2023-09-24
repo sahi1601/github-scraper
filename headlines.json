@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282410,
+    "slug": "werkonderbreking-klm-piloten-van-de-baan-door-hoofdlijnenakkoord",
+    "type": "article",
+    "title": "Werkonderbreking KLM-piloten van de baan door hoofdlijnenakkoord",
+    "subtitle": null,
+    "published_at": "2023-09-25T00:10:31+02:00",
+    "updated_at": "2023-09-25T00:10:32+02:00",
+    "media_id": "eu4xj28ancqs",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6282410/werkonderbreking-klm-piloten-van-de-baan-door-hoofdlijnenakkoord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282409,
     "slug": "tennissers-team-wereld-pakken-laver-cup-ten-koste-van-verzwakt-team-europa",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6282381/az-wint-in-zwolle-ook-vijfde-eredivisie-duel-van-seizoen-bij-rentree-martins-indi.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282377,
-    "slug": "slot-baalt-flink-van-gestaakte-klassieker-het-is-sowieso-competitievervalsing",
-    "type": "article",
-    "title": "Slot baalt flink van gestaakte Klassieker: 'Het is sowieso competitievervalsing'",
-    "subtitle": null,
-    "published_at": "2023-09-24T18:16:03+02:00",
-    "updated_at": "2023-09-24T18:52:55+02:00",
-    "media_id": "5gjxxtvac5br",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6282377/slot-baalt-flink-van-gestaakte-klassieker-het-is-sowieso-competitievervalsing.html",
     "open_new_window": false,
     "partner": null
   }
