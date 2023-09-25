@@ -1,5 +1,51 @@
 [
   {
+    "id": 6282405,
+    "slug": "toptalent-kooij-kan-veel-meer-dan-sprinten-hij-is-zo-overtuigd-van-zichzelf",
+    "type": "article",
+    "title": "Toptalent Kooij kan veel meer dan sprinten: 'Hij is zo overtuigd van zichzelf'",
+    "subtitle": "NU+",
+    "published_at": "2023-09-25T05:00:25+02:00",
+    "updated_at": "2023-09-25T05:00:26+02:00",
+    "media_id": "p1lxwa3adyxm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6282405/toptalent-kooij-kan-veel-meer-dan-sprinten-hij-is-zo-overtuigd-van-zichzelf.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282399,
+    "slug": "hoe-de-rampzondag-van-ajax-eindigde-met-het-ontslag-van-td-mislintat",
+    "type": "article",
+    "title": "Hoe de rampzondag van Ajax eindigde met het ontslag van 'TD' Mislintat",
+    "subtitle": null,
+    "published_at": "2023-09-25T04:58:15+02:00",
+    "updated_at": "2023-09-25T04:58:16+02:00",
+    "media_id": "mqxx4voazdcq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6282399/hoe-de-rampzondag-van-ajax-eindigde-met-het-ontslag-van-td-mislintat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282410,
     "slug": "werkonderbreking-klm-piloten-van-de-baan-door-hoofdlijnenakkoord",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6282379/steijn-ziet-ajax-goals-veel-te-makkelijk-weggeven-niet-tegenaan-te-voetballen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282382,
-    "slug": "fc-twente-laat-zich-verrassen-door-rkc-en-is-foutloze-status-in-eredivisie-kwijt",
-    "type": "article",
-    "title": "FC Twente laat zich verrassen door RKC en is foutloze status in Eredivisie kwijt",
-    "subtitle": null,
-    "published_at": "2023-09-24T18:50:30+02:00",
-    "updated_at": "2023-09-24T19:21:50+02:00",
-    "media_id": "hghx6i6a2w2p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6282382/fc-twente-laat-zich-verrassen-door-rkc-en-is-foutloze-status-in-eredivisie-kwijt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282381,
-    "slug": "az-wint-in-zwolle-ook-vijfde-eredivisie-duel-van-seizoen-bij-rentree-martins-indi",
-    "type": "article",
-    "title": "AZ wint in Zwolle ook vijfde Eredivisie-duel van seizoen bij rentree Martins Indi",
-    "subtitle": null,
-    "published_at": "2023-09-24T18:40:04+02:00",
-    "updated_at": "2023-09-24T19:19:52+02:00",
-    "media_id": "jl2xfakad8cm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6282381/az-wint-in-zwolle-ook-vijfde-eredivisie-duel-van-seizoen-bij-rentree-martins-indi.html",
     "open_new_window": false,
     "partner": null
   }
