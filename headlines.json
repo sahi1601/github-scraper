@@ -1,5 +1,51 @@
 [
   {
+    "id": 6282581,
+    "slug": "acteur-david-mccallum-90-overleden",
+    "type": "article",
+    "title": "Acteur David McCallum (90) overleden",
+    "subtitle": null,
+    "published_at": "2023-09-26T07:14:08+02:00",
+    "updated_at": "2023-09-26T07:14:10+02:00",
+    "media_id": "dkfxkimady31",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6282581/acteur-david-mccallum-90-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282528,
+    "slug": "door-de-voetbalrellen-neem-ik-mijn-kind-niet-mee-naar-het-stadion",
+    "type": "article",
+    "title": "'Door de voetbalrellen neem ik mijn kind niet mee naar het stadion'",
+    "subtitle": "Stelling",
+    "published_at": "2023-09-26T07:12:18+02:00",
+    "updated_at": "2023-09-26T07:12:32+02:00",
+    "media_id": "pdmxisya84yo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6282528/door-de-voetbalrellen-neem-ik-mijn-kind-niet-mee-naar-het-stadion.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282536,
     "slug": "doorbraak-aan-de-frontlinie-russische-bloggers-vrezen-van-wel",
     "type": "video",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6282577,
-    "slug": "kasem-castricum-en-ten-napel-kanshebbers-sonja-barend-award",
+    "slug": "kasem-castricum-en-ten-napel-maken-kans-op-sonja-barend-award",
     "type": "article",
-    "title": "Kasem, Castricum en Ten Napel kanshebbers Sonja Barend Award",
+    "title": "Kasem, Castricum en Ten Napel maken kans op Sonja Barend Award",
     "subtitle": null,
     "published_at": "2023-09-26T06:24:05+02:00",
-    "updated_at": "2023-09-26T06:24:07+02:00",
+    "updated_at": "2023-09-26T07:23:12+02:00",
     "media_id": "4icx9pear8xi",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6282577/kasem-castricum-en-ten-napel-kanshebbers-sonja-barend-award.html",
+    "url": "/media/6282577/kasem-castricum-en-ten-napel-maken-kans-op-sonja-barend-award.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +213,7 @@
     "title": "Deel 1 | Verscheurd door de wolf: 'Ze rennen voor hun leven'",
     "subtitle": "Podcast",
     "published_at": "2023-09-26T05:04:26+02:00",
-    "updated_at": "2023-09-26T05:32:09+02:00",
+    "updated_at": "2023-09-26T07:21:15+02:00",
     "media_id": "vgsxgvgau0zu",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6282565/liefhebbers-van-beroemde-oude-fietsen-gaan-strijd-met-elkaar-aan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282564,
-    "slug": "rvc-voorzitter-eringa-denkt-niet-aan-vertrek-bij-ajax-wat-los-je-daarmee-op",
-    "type": "article",
-    "title": "Rvc-voorzitter Eringa denkt niet aan vertrek bij Ajax: 'Wat los je daarmee op?",
-    "subtitle": null,
-    "published_at": "2023-09-25T21:30:30+02:00",
-    "updated_at": "2023-09-25T21:34:53+02:00",
-    "media_id": "fd4xr5ta8hji",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6282564/rvc-voorzitter-eringa-denkt-niet-aan-vertrek-bij-ajax-wat-los-je-daarmee-op.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282563,
-    "slug": "na-philip-freriks-vertrekt-ook-maarten-van-rossem-in-2025-bij-de-slimste-mens",
-    "type": "article",
-    "title": "Na Philip Freriks vertrekt ook Maarten van Rossem in 2025 bij De slimste mens",
-    "subtitle": null,
-    "published_at": "2023-09-25T21:19:20+02:00",
-    "updated_at": "2023-09-26T06:28:22+02:00",
-    "media_id": "pkixrufay4nq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6282563/na-philip-freriks-vertrekt-ook-maarten-van-rossem-in-2025-bij-de-slimste-mens.html",
     "open_new_window": false,
     "partner": null
   }
