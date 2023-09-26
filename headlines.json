@@ -1,12 +1,35 @@
 [
   {
+    "id": 6282607,
+    "slug": "faillissementsgolf-dreigt-nu-bedrijven-coronaschuld-moeten-afbetalen",
+    "type": "article",
+    "title": "Faillissementsgolf dreigt nu bedrijven coronaschuld moeten afbetalen",
+    "subtitle": null,
+    "published_at": "2023-09-26T10:18:44+02:00",
+    "updated_at": "2023-09-26T10:18:45+02:00",
+    "media_id": "ignxq2pa5j7e",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6282607/faillissementsgolf-dreigt-nu-bedrijven-coronaschuld-moeten-afbetalen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282606,
-    "slug": "rookwolken-stijgen-boven-tankstation-in-nagorno-karabach-uit",
+    "slug": "rookwolken-na-dodelijke-explosie-bij-tankstation-in-nagorno-karabach",
     "type": "video",
-    "title": "Rookwolken stijgen boven tankstation in Nagorno-Karabach uit",
+    "title": "Rookwolken na dodelijke explosie bij tankstation in Nagorno-Karabach",
     "subtitle": "Video",
     "published_at": "2023-09-26T10:00:54+02:00",
-    "updated_at": "2023-09-26T10:00:55+02:00",
+    "updated_at": "2023-09-26T10:25:56+02:00",
     "media_id": "2sqx2a2afm68",
     "duration": "0:37",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6282606/rookwolken-stijgen-boven-tankstation-in-nagorno-karabach-uit.html",
+    "url": "/videos/6282606/rookwolken-na-dodelijke-explosie-bij-tankstation-in-nagorno-karabach.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Ingebroken in auto Giel Beelen: 'Hele muziekbestand Radio4All weg'",
     "subtitle": null,
     "published_at": "2023-09-26T09:25:03+02:00",
-    "updated_at": "2023-09-26T09:34:36+02:00",
+    "updated_at": "2023-09-26T10:19:43+02:00",
     "media_id": "tucxo66a47j4",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Je kunt straks zelf rechtenvrije plaatjes maken met AI-tool van Getty Images",
     "subtitle": null,
     "published_at": "2023-09-26T09:19:58+02:00",
-    "updated_at": "2023-09-26T10:06:09+02:00",
+    "updated_at": "2023-09-26T10:21:39+02:00",
     "media_id": "p5xxsqdadn3p",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Feyenoord wil De Kuip kopen: 'De huidige situatie is natuurlijk niet ideaal'",
     "subtitle": null,
     "published_at": "2023-09-26T09:13:55+02:00",
-    "updated_at": "2023-09-26T09:13:58+02:00",
+    "updated_at": "2023-09-26T10:22:57+02:00",
     "media_id": "rvbx2i7a39oh",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Klassieker definitief woensdag uitgespeeld, Ajax ziet af van juridische stappen",
     "subtitle": null,
     "published_at": "2023-09-26T09:10:20+02:00",
-    "updated_at": "2023-09-26T10:11:30+02:00",
+    "updated_at": "2023-09-26T10:20:49+02:00",
     "media_id": "j69xxufa9nc7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6282574/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282573,
-    "slug": "rotterdamse-geweldsgolf-duurt-voort-vijf-explosies-in-een-nacht",
-    "type": "article",
-    "title": "Rotterdamse geweldsgolf duurt voort: vijf explosies in één nacht",
-    "subtitle": null,
-    "published_at": "2023-09-26T05:27:08+02:00",
-    "updated_at": "2023-09-26T08:28:43+02:00",
-    "media_id": "rl0x5vpaqjxw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6282573/rotterdamse-geweldsgolf-duurt-voort-vijf-explosies-in-een-nacht.html",
     "open_new_window": false,
     "partner": null
   }
