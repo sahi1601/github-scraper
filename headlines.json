@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282536,
+    "slug": "een-doorbraak-aan-de-frontlinie-hierom-vrezen-russische-bloggers-van-wel",
+    "type": "video",
+    "title": "Een doorbraak aan de frontlinie? Hierom vrezen Russische bloggers van wel",
+    "subtitle": "Explainer",
+    "published_at": "2023-09-26T06:27:46+02:00",
+    "updated_at": "2023-09-26T06:27:47+02:00",
+    "media_id": "2n7x96xayrpw",
+    "duration": "2:15",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6282536/een-doorbraak-aan-de-frontlinie-hierom-vrezen-russische-bloggers-van-wel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282577,
     "slug": "kasem-castricum-en-ten-napel-kanshebbers-sonja-barend-award",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6282573,
-    "slug": "rotterdamse-geweldsgolf-duurt-voort-vier-explosies-in-een-nacht",
+    "slug": "rotterdamse-geweldsgolf-duurt-voort-vijf-explosies-in-een-nacht",
     "type": "article",
-    "title": "Rotterdamse geweldsgolf duurt voort: vier explosies in een nacht",
+    "title": "Rotterdamse geweldsgolf duurt voort: vijf explosies in een nacht",
     "subtitle": null,
     "published_at": "2023-09-26T05:27:08+02:00",
-    "updated_at": "2023-09-26T05:27:10+02:00",
+    "updated_at": "2023-09-26T06:45:21+02:00",
     "media_id": "rl0x5vpaqjxw",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6282573/rotterdamse-geweldsgolf-duurt-voort-vier-explosies-in-een-nacht.html",
+    "url": "/binnenland/6282573/rotterdamse-geweldsgolf-duurt-voort-vijf-explosies-in-een-nacht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +443,7 @@
     "title": "Na Philip Freriks vertrekt ook Maarten van Rossem in 2025 bij De slimste mens",
     "subtitle": null,
     "published_at": "2023-09-25T21:19:20+02:00",
-    "updated_at": "2023-09-25T21:46:32+02:00",
+    "updated_at": "2023-09-26T06:28:22+02:00",
     "media_id": "pkixrufay4nq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6282563/na-philip-freriks-vertrekt-ook-maarten-van-rossem-in-2025-bij-de-slimste-mens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282547,
-    "slug": "kort-geding-om-waterwerpers-bij-protesten-zo-zet-politie-het-waterkanon-in",
-    "type": "article",
-    "title": "Kort geding om waterwerpers bij protesten: zo zet politie het waterkanon in",
-    "subtitle": "NU+",
-    "published_at": "2023-09-25T21:05:53+02:00",
-    "updated_at": "2023-09-25T21:25:56+02:00",
-    "media_id": "4dyxlvaaxm9j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6282547/kort-geding-om-waterwerpers-bij-protesten-zo-zet-politie-het-waterkanon-in.html",
     "open_new_window": false,
     "partner": null
   }
