@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282675,
+    "slug": "waarom-de-zorgpremie-de-komende-jaren-nog-verder-stijgt",
+    "type": "article",
+    "title": "Waarom de zorgpremie de komende jaren nog verder stijgt",
+    "subtitle": null,
+    "published_at": "2023-09-26T16:23:06+02:00",
+    "updated_at": "2023-09-26T16:23:07+02:00",
+    "media_id": "a21xct4a9to5",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6282675/waarom-de-zorgpremie-de-komende-jaren-nog-verder-stijgt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282673,
     "slug": "hoofdverdachte-sanil-b-in-zaak-carlo-heuvelman-komt-voorlopig-niet-vrij",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Veertien gewonden bij botsing lijnbus en taxibus in Fries Berlikum",
     "subtitle": null,
     "published_at": "2023-09-26T15:57:52+02:00",
-    "updated_at": "2023-09-26T16:09:15+02:00",
+    "updated_at": "2023-09-26T16:14:42+02:00",
     "media_id": "6t5xstjajxms",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Ben jij recent bij een studentencorps gegaan? Dan zoeken we jou",
     "subtitle": "Oproep",
     "published_at": "2023-09-26T15:14:46+02:00",
-    "updated_at": "2023-09-26T15:41:18+02:00",
+    "updated_at": "2023-09-26T16:16:02+02:00",
     "media_id": "vddxlmmaubl4",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Wie moet de nieuwe juryvoorzitter worden in De Slimste Mens?",
     "subtitle": "Praat Mee",
     "published_at": "2023-09-26T13:00:13+02:00",
-    "updated_at": "2023-09-26T15:47:00+02:00",
+    "updated_at": "2023-09-26T16:26:04+02:00",
     "media_id": "ar0x40qa4wfj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6282644/gifmoordverdachte-yvon-k-door-zelfdoding-om-het-leven-gekomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282630,
-    "slug": "vuurwerk-of-bom-wanneer-is-iets-een-explosief",
-    "type": "article",
-    "title": "Vuurwerk of bom: wanneer is iets een explosief?",
-    "subtitle": "In 100 woorden",
-    "published_at": "2023-09-26T12:59:09+02:00",
-    "updated_at": "2023-09-26T12:59:10+02:00",
-    "media_id": "8ckx0voau5w4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6282630/vuurwerk-of-bom-wanneer-is-iets-een-explosief.html",
     "open_new_window": false,
     "partner": null
   }
