@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282663,
+    "slug": "familie-chabot-schrijft-als-eerste-gezin-boekenweekgeschenk",
+    "type": "article",
+    "title": "Familie Chabot schrijft als eerste gezin Boekenweekgeschenk",
+    "subtitle": null,
+    "published_at": "2023-09-26T15:28:34+02:00",
+    "updated_at": "2023-09-26T15:28:36+02:00",
+    "media_id": "9cgxz2cac003",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6282663/familie-chabot-schrijft-als-eerste-gezin-boekenweekgeschenk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282669,
     "slug": "hagelstenen-ter-grootte-van-tennisballen-teisteren-texas",
     "type": "video",
@@ -72,10 +95,10 @@
     "id": 6282436,
     "slug": "ben-jij-recent-bij-een-studentencorps-gegaan-dan-zoeken-we-jou",
     "type": "article",
-    "title": "Ben jij recent bij een studentencorps gegaan? Dan zoeken we jou!",
+    "title": "Ben jij recent bij een studentencorps gegaan? Dan zoeken we jou",
     "subtitle": "Oproep",
     "published_at": "2023-09-26T15:14:46+02:00",
-    "updated_at": "2023-09-26T15:22:48+02:00",
+    "updated_at": "2023-09-26T15:41:18+02:00",
     "media_id": "vddxlmmaubl4",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "We krijgen geen wettelijk recht om thuis te werken",
     "subtitle": null,
     "published_at": "2023-09-26T14:54:30+02:00",
-    "updated_at": "2023-09-26T15:04:15+02:00",
+    "updated_at": "2023-09-26T15:34:39+02:00",
     "media_id": "hr0xfgma2qp6",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "De bijzondere carrière van Dafne Schippers in 20 foto's",
     "subtitle": "In beeld",
     "published_at": "2023-09-26T13:33:53+02:00",
-    "updated_at": "2023-09-26T13:57:18+02:00",
+    "updated_at": "2023-09-26T15:33:41+02:00",
     "media_id": "2y7x42ga1zvq",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Zaak tegen pakketbezorger die man doodreed in Wijchen moet over",
     "subtitle": null,
     "published_at": "2023-09-26T13:12:03+02:00",
-    "updated_at": "2023-09-26T15:21:55+02:00",
+    "updated_at": "2023-09-26T15:32:41+02:00",
     "media_id": "ldoxxk2atyd3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6282634/arantxa-rus-mist-matchpoints-en-is-meteen-klaar-op-wta-toernooi-in-china.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282641,
-    "slug": "tweevoudig-wereldkampioen-dafne-schippers-31-zet-punt-achter-atletiekcarriere",
-    "type": "article",
-    "title": "Tweevoudig wereldkampioen Dafne Schippers (31) zet punt achter atletiekcarrière",
-    "subtitle": null,
-    "published_at": "2023-09-26T12:20:45+02:00",
-    "updated_at": "2023-09-26T15:20:09+02:00",
-    "media_id": "ph2x3gbajqeo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6282641/tweevoudig-wereldkampioen-dafne-schippers-31-zet-punt-achter-atletiekcarriere.html",
     "open_new_window": false,
     "partner": null
   }
