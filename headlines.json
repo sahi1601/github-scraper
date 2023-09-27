@@ -1,12 +1,35 @@
 [
   {
+    "id": 6282897,
+    "slug": "huis-van-shrek-binnenkort-te-boeken-in-schotse-hooglanden",
+    "type": "video",
+    "title": "Huis van Shrek binnenkort te boeken In Schotse Hooglanden",
+    "subtitle": "Video",
+    "published_at": "2023-09-27T21:35:35+02:00",
+    "updated_at": "2023-09-27T21:35:36+02:00",
+    "media_id": "vuaxeqma9a8l",
+    "duration": "1:15",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6282897/huis-van-shrek-binnenkort-te-boeken-in-schotse-hooglanden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282877,
     "slug": "voor-feyenoord-telt-klassiekerzege-voor-twee-we-wilden-hier-weer-winnen",
     "type": "article",
     "title": "Voor Feyenoord telt Klassiekerzege voor twee: 'We wilden hier wéér winnen'",
     "subtitle": null,
     "published_at": "2023-09-27T21:11:44+02:00",
-    "updated_at": "2023-09-27T21:25:27+02:00",
+    "updated_at": "2023-09-27T21:41:53+02:00",
     "media_id": "kjqxfi9amxud",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6282896,
-    "slug": "girona-van-blind-neemt-koppositie-over-van-barcelona-na-zege-op-villarreal",
+    "slug": "girona-van-blind-neemt-koppositie-over-van-barcelona-dankzij-zege-op-villarreal",
     "type": "article",
-    "title": "Girona van Blind neemt koppositie over van Barcelona na zege op Villarreal",
+    "title": "Girona van Blind neemt koppositie over van Barcelona dankzij zege op Villarreal",
     "subtitle": null,
     "published_at": "2023-09-27T21:10:25+02:00",
-    "updated_at": "2023-09-27T21:18:43+02:00",
+    "updated_at": "2023-09-27T21:27:10+02:00",
     "media_id": "kboxgzha0l3x",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6282896/girona-van-blind-neemt-koppositie-over-van-barcelona-na-zege-op-villarreal.html",
+    "url": "/voetbal/6282896/girona-van-blind-neemt-koppositie-over-van-barcelona-dankzij-zege-op-villarreal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "PSV stuit opmars Go Ahead Eagles en blijft zonder puntenverlies in Eredivisie",
     "subtitle": null,
     "published_at": "2023-09-27T20:39:07+02:00",
-    "updated_at": "2023-09-27T21:20:13+02:00",
+    "updated_at": "2023-09-27T21:33:33+02:00",
     "media_id": "k0axf6mas4ej",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6282870/om-eist-16-jaar-cel-voor-schieten-op-vrijgezellengroep-en-doden-een-van-hen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282769,
-    "slug": "nunl-zoekt-nieuwe-experts-voor-op-ons-reactieplatform-nujij",
-    "type": "article",
-    "title": "NU.nl zoekt nieuwe experts voor op ons reactieplatform NUjij",
-    "subtitle": null,
-    "published_at": "2023-09-27T18:40:26+02:00",
-    "updated_at": "2023-09-27T19:07:34+02:00",
-    "media_id": "3j0xm1ua4r7w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779003,
-      "slug": "gebaseerd-op-jullie-vragen",
-      "type": "default",
-      "name": "Gebaseerd op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gebaseerd-op-jullie-vragen/6282769/nunl-zoekt-nieuwe-experts-voor-op-ons-reactieplatform-nujij.html",
     "open_new_window": false,
     "partner": null
   }
