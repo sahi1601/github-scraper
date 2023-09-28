@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283004,
+    "slug": "mensen-lopen-met-handen-omhoog-erasmus-mc-na-schietpartij",
+    "type": "video",
+    "title": "Mensen lopen met handen omhoog Erasmus MC na schietpartij",
+    "subtitle": "Video",
+    "published_at": "2023-09-28T15:48:10+02:00",
+    "updated_at": "2023-09-28T16:11:06+02:00",
+    "media_id": "7quxsbyaa3hg",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6283004/mensen-lopen-met-handen-omhoog-erasmus-mc-na-schietpartij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282997,
     "slug": "nijlpaard-valt-verzorger-aan-in-chinese-dierentuin",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Reisorganisatie Vacansoleil bezwijkt onder schuldenlast en is failliet verklaard",
     "subtitle": null,
     "published_at": "2023-09-28T15:20:46+02:00",
-    "updated_at": "2023-09-28T15:38:27+02:00",
+    "updated_at": "2023-09-28T16:07:24+02:00",
     "media_id": "d10xjj3aqq1m",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6282994,
-    "slug": "arrestatieteams-trekken-erasmus-mc-binnen-na-schietpartij-in-leslokaal-dader-gevlucht",
+    "slug": "arrestatieteams-trekken-erasmus-mc-binnen-na-schietpartij-in-leslokaal",
     "type": "article",
-    "title": "Arrestatieteams trekken Erasmus MC binnen na schietpartij in leslokaal, dader gevlucht",
+    "title": "Arrestatieteams trekken Erasmus MC binnen na schietpartij in leslokaal",
     "subtitle": null,
     "published_at": "2023-09-28T15:13:10+02:00",
-    "updated_at": "2023-09-28T15:39:52+02:00",
+    "updated_at": "2023-09-28T16:11:53+02:00",
     "media_id": "im9xjana64u1",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6282994/arrestatieteams-trekken-erasmus-mc-binnen-na-schietpartij-in-leslokaal-dader-gevlucht.html",
+    "url": "/binnenland/6282994/arrestatieteams-trekken-erasmus-mc-binnen-na-schietpartij-in-leslokaal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "BBC-presentatoren na ophef Lineker gebonden aan regels voor sociale media",
     "subtitle": null,
     "published_at": "2023-09-28T14:26:47+02:00",
-    "updated_at": "2023-09-28T14:57:51+02:00",
+    "updated_at": "2023-09-28T15:55:37+02:00",
     "media_id": "mwyxwqwak9vz",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Michael van Praag keert terug bij Ajax én wordt voorzitter van basketbalbond",
     "subtitle": null,
     "published_at": "2023-09-28T14:05:37+02:00",
-    "updated_at": "2023-09-28T15:44:37+02:00",
+    "updated_at": "2023-09-28T16:06:56+02:00",
     "media_id": "graxeogav1q1",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Dj's Coen en Sander verruilen Radio 538 en Veronica voor ochtendshow bij JOE",
     "subtitle": null,
     "published_at": "2023-09-28T13:29:44+02:00",
-    "updated_at": "2023-09-28T15:44:27+02:00",
+    "updated_at": "2023-09-28T15:51:11+02:00",
     "media_id": "4vmxtcfa3gi1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6282962/griekse-stad-verandert-in-modderpoel-na-tweede-storm-in-maand-tijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282950,
-    "slug": "amsterdam-wil-toeristenbelasting-hotelgast-en-cruisepassagier-verhogen",
-    "type": "article",
-    "title": "Amsterdam wil toeristenbelasting hotelgast en cruisepassagier verhogen",
-    "subtitle": null,
-    "published_at": "2023-09-28T11:59:56+02:00",
-    "updated_at": "2023-09-28T11:59:58+02:00",
-    "media_id": "5kdxhq9awnzq",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6282950/amsterdam-wil-toeristenbelasting-hotelgast-en-cruisepassagier-verhogen.html",
     "open_new_window": false,
     "partner": null
   }
