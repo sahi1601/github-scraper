@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283043,
+    "slug": "veertienjarig-meisje-overleden-aan-verwondingen-schietpartij-rotterdam",
+    "type": "article",
+    "title": "Veertienjarig meisje overleden aan verwondingen schietpartij Rotterdam",
+    "subtitle": null,
+    "published_at": "2023-09-28T20:20:12+02:00",
+    "updated_at": "2023-09-28T20:28:38+02:00",
+    "media_id": "2w4xz8lav7nv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6283043/veertienjarig-meisje-overleden-aan-verwondingen-schietpartij-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283044,
     "slug": "opmerkelijke-verklaring-napoli-in-zaak-osimhen-we-wilden-hem-niet-kwetsen",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Dit weten we over de dodelijke schietpartijen in Rotterdam",
     "subtitle": null,
     "published_at": "2023-09-28T20:00:52+02:00",
-    "updated_at": "2023-09-28T20:10:40+02:00",
+    "updated_at": "2023-09-28T20:24:29+02:00",
     "media_id": "fc5xfxramkzq",
     "duration": null,
     "canonical_section": {
@@ -121,8 +144,8 @@
     "title": "Pavlidis zet AZ op voorsprong tegen Heracles",
     "subtitle": "Liveblog",
     "published_at": "2023-09-28T19:24:31+02:00",
-    "updated_at": "2023-09-28T20:15:21+02:00",
-    "media_id": "ejbx0pfadz6g",
+    "updated_at": "2023-09-28T20:27:15+02:00",
+    "media_id": "bk9xcxkaygv3",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -162,12 +185,12 @@
   },
   {
     "id": 6283033,
-    "slug": "verdachte-was-bekende-van-justitie-docent-erasmus-mc-en-een-vrouw-39-overleden",
+    "slug": "doden-schietpartijen-zijn-docent-erasmus-mc-en-een-vrouw-en-haar-dochter-14",
     "type": "article",
-    "title": "Verdachte was bekende van justitie, docent Erasmus MC en een vrouw (39) overleden",
+    "title": "Doden schietpartijen zijn docent Erasmus MC en een vrouw en haar dochter (14)",
     "subtitle": null,
     "published_at": "2023-09-28T18:55:14+02:00",
-    "updated_at": "2023-09-28T20:17:41+02:00",
+    "updated_at": "2023-09-28T20:27:39+02:00",
     "media_id": "11pxgp1al8vu",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6283033/verdachte-was-bekende-van-justitie-docent-erasmus-mc-en-een-vrouw-39-overleden.html",
+    "url": "/binnenland/6283033/doden-schietpartijen-zijn-docent-erasmus-mc-en-een-vrouw-en-haar-dochter-14.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/vragenoproep/6283015/was-jij-getuige-van-het-geweld-in-rotterdam-deel-je-verhaal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283018,
-    "slug": "medewerkers-erasmus-mc-met-handen-omhoog-naar-buiten-het-was-chaos",
-    "type": "article",
-    "title": "Medewerkers Erasmus MC met handen omhoog naar buiten: 'Het was chaos'",
-    "subtitle": null,
-    "published_at": "2023-09-28T17:14:53+02:00",
-    "updated_at": "2023-09-28T18:18:10+02:00",
-    "media_id": "oj2xbzwaqi7l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6283018/medewerkers-erasmus-mc-met-handen-omhoog-naar-buiten-het-was-chaos.html",
     "open_new_window": false,
     "partner": null
   }
