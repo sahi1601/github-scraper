@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283032,
+    "slug": "bekijk-hier-de-persconferentie-over-de-schietpartijen-in-rotterdam",
+    "type": "video",
+    "title": "Bekijk hier de persconferentie over de schietpartijen in Rotterdam",
+    "subtitle": "Livestream",
+    "published_at": "2023-09-28T18:38:32+02:00",
+    "updated_at": "2023-09-28T18:41:03+02:00",
+    "media_id": "xrnxtv6aeomd",
+    "duration": "0:01",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6283032/bekijk-hier-de-persconferentie-over-de-schietpartijen-in-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283027,
     "slug": "politie-opgepakte-verdachte-schietpartij-is-32-jarige-rotterdammer",
     "type": "video",
@@ -144,7 +167,7 @@
     "title": "Meerdere doden bij schietincidenten en branden in Rotterdam",
     "subtitle": null,
     "published_at": "2023-09-28T17:31:54+02:00",
-    "updated_at": "2023-09-28T18:23:12+02:00",
+    "updated_at": "2023-09-28T18:31:10+02:00",
     "media_id": "cz9xj2wask5v",
     "duration": null,
     "canonical_section": {
@@ -323,13 +346,13 @@
   },
   {
     "id": 6283005,
-    "slug": "politie-gaat-niet-uit-van-tweede-schutter-bij-incidenten-rotterdam",
+    "slug": "volg-hier-de-persconferentie-over-de-schietincidenten-in-rotterdam",
     "type": "article",
-    "title": "Politie gaat niet uit van tweede schutter bij incidenten Rotterdam",
+    "title": "Volg hier de persconferentie over de schietincidenten in Rotterdam",
     "subtitle": "Liveblog",
     "published_at": "2023-09-28T16:14:27+02:00",
-    "updated_at": "2023-09-28T17:56:37+02:00",
-    "media_id": "v4cxeyqaof11",
+    "updated_at": "2023-09-28T18:35:34+02:00",
+    "media_id": "mg0xtm7a3c0h",
     "duration": null,
     "canonical_section": {
       "id": 1779258,
@@ -340,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland-en-buitenland/6283005/politie-gaat-niet-uit-van-tweede-schutter-bij-incidenten-rotterdam.html",
+    "url": "/binnenland-en-buitenland/6283005/volg-hier-de-persconferentie-over-de-schietincidenten-in-rotterdam.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6282991/justitie-mag-particuliere-databanken-gebruiken-om-twee-cold-cases-op-te-lossen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282990,
-    "slug": "man-die-ah-werknemer-doodstak-ze-was-op-verkeerd-moment-op-verkeerde-plek",
-    "type": "article",
-    "title": "Man die AH-werknemer doodstak: 'Ze was op verkeerd moment op verkeerde plek'",
-    "subtitle": null,
-    "published_at": "2023-09-28T15:15:24+02:00",
-    "updated_at": "2023-09-28T15:15:26+02:00",
-    "media_id": "t3tx5qsay643",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6282990/man-die-ah-werknemer-doodstak-ze-was-op-verkeerd-moment-op-verkeerde-plek.html",
     "open_new_window": false,
     "partner": null
   }
