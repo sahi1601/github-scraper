@@ -1,12 +1,58 @@
 [
   {
+    "id": 6283006,
+    "slug": "politie-houdt-verdachte-aan-na-schietpartijen-in-erasmus-mc-en-rotterdamse-woning",
+    "type": "article",
+    "title": "Politie houdt verdachte aan na schietpartijen in Erasmus MC en Rotterdamse woning",
+    "subtitle": null,
+    "published_at": "2023-09-28T16:23:25+02:00",
+    "updated_at": "2023-09-28T16:23:34+02:00",
+    "media_id": "68kxzaea7wg6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6283006/politie-houdt-verdachte-aan-na-schietpartijen-in-erasmus-mc-en-rotterdamse-woning.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283005,
+    "slug": "brand-in-erasmus-mc-na-schietpartij-slachtoffer-zou-docent-zijn",
+    "type": "article",
+    "title": "Brand in Erasmus MC na schietpartij, slachtoffer zou docent zijn",
+    "subtitle": "Liveblog",
+    "published_at": "2023-09-28T16:14:27+02:00",
+    "updated_at": "2023-09-28T16:26:33+02:00",
+    "media_id": "bzsxumea0q4t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779258,
+      "slug": "binnenland-en-buitenland",
+      "type": "default",
+      "name": "Binnen- en buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland-en-buitenland/6283005/brand-in-erasmus-mc-na-schietpartij-slachtoffer-zou-docent-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283004,
-    "slug": "mensen-lopen-met-handen-omhoog-erasmus-mc-na-schietpartij",
+    "slug": "mensen-lopen-met-handen-omhoog-erasmus-mc-uit-na-schietpartij",
     "type": "video",
-    "title": "Mensen lopen met handen omhoog Erasmus MC na schietpartij",
+    "title": "Mensen lopen met handen omhoog Erasmus MC uit na schietpartij",
     "subtitle": "Video",
     "published_at": "2023-09-28T15:48:10+02:00",
-    "updated_at": "2023-09-28T16:11:06+02:00",
+    "updated_at": "2023-09-28T16:16:36+02:00",
     "media_id": "7quxsbyaa3hg",
     "duration": "0:40",
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6283004/mensen-lopen-met-handen-omhoog-erasmus-mc-na-schietpartij.html",
+    "url": "/algemeen/6283004/mensen-lopen-met-handen-omhoog-erasmus-mc-uit-na-schietpartij.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +167,7 @@
     "title": "Arrestatieteams trekken Erasmus MC binnen na schietpartij in leslokaal",
     "subtitle": null,
     "published_at": "2023-09-28T15:13:10+02:00",
-    "updated_at": "2023-09-28T16:11:53+02:00",
+    "updated_at": "2023-09-28T16:25:04+02:00",
     "media_id": "im9xjana64u1",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6282882/toekomst-temptation-island-nog-onzeker-na-klachten-rtl-wacht-gesprek-af.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282959,
-    "slug": "blue-zanger-lee-ryan-krijgt-voorwaardelijke-celstraf-voor-mishandelen-stewardess",
-    "type": "article",
-    "title": "Blue-zanger Lee Ryan krijgt voorwaardelijke celstraf voor mishandelen stewardess",
-    "subtitle": null,
-    "published_at": "2023-09-28T12:26:00+02:00",
-    "updated_at": "2023-09-28T12:31:58+02:00",
-    "media_id": "336xngsay66k",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6282959/blue-zanger-lee-ryan-krijgt-voorwaardelijke-celstraf-voor-mishandelen-stewardess.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282962,
-    "slug": "griekse-stad-verandert-in-modderpoel-na-tweede-storm-in-maand-tijd",
-    "type": "video",
-    "title": "Griekse stad verandert in modderpoel na tweede storm in maand tijd",
-    "subtitle": "Video",
-    "published_at": "2023-09-28T12:16:43+02:00",
-    "updated_at": "2023-09-28T13:19:17+02:00",
-    "media_id": "rwkx279aezkp",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6282962/griekse-stad-verandert-in-modderpoel-na-tweede-storm-in-maand-tijd.html",
     "open_new_window": false,
     "partner": null
   }
