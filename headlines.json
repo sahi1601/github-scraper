@@ -1,5 +1,28 @@
 [
   {
+    "id": 6282965,
+    "slug": "in-vrachtwagen-opgesloten-vrouwen-bellen-bbc-journalist-en-worden-gered",
+    "type": "article",
+    "title": "In vrachtwagen opgesloten vrouwen bellen BBC-journalist en worden gered",
+    "subtitle": null,
+    "published_at": "2023-09-28T13:11:35+02:00",
+    "updated_at": "2023-09-28T13:17:36+02:00",
+    "media_id": "ubyx49ca26xx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6282965/in-vrachtwagen-opgesloten-vrouwen-bellen-bbc-journalist-en-worden-gered.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282963,
     "slug": "werk-erwin-olaf-toegevoegd-aan-eregalerij-van-rijksmuseum",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Griekse stad verandert in modderpoel na tweede storm in maand tijd",
     "subtitle": "Video",
     "published_at": "2023-09-28T12:16:43+02:00",
-    "updated_at": "2023-09-28T12:23:31+02:00",
+    "updated_at": "2023-09-28T13:19:17+02:00",
     "media_id": "rwkx279aezkp",
     "duration": "0:36",
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Sinds online gokken legaal werd, kwamen 'onnodig veel' mensen in de problemen",
     "subtitle": null,
     "published_at": "2023-09-28T11:50:09+02:00",
-    "updated_at": "2023-09-28T13:07:19+02:00",
+    "updated_at": "2023-09-28T13:11:24+02:00",
     "media_id": "trexfxcab1r6",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Wetenschappers zijn erachter waarom walvissen 'hoedjes' van zeewier dragen",
     "subtitle": null,
     "published_at": "2023-09-28T10:24:04+02:00",
-    "updated_at": "2023-09-28T13:09:09+02:00",
+    "updated_at": "2023-09-28T13:12:32+02:00",
     "media_id": "zkhxf83adqw0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6282927/amerikaanse-minister-blinken-speelt-blues-voor-publiek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282925,
-    "slug": "chinese-hackers-stelen-60000-mails-van-amerikaans-ministerie",
-    "type": "article",
-    "title": "Chinese hackers stelen 60.000 mails van Amerikaans ministerie",
-    "subtitle": null,
-    "published_at": "2023-09-28T09:04:57+02:00",
-    "updated_at": "2023-09-28T09:14:31+02:00",
-    "media_id": "frcxf40aq55g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6282925/chinese-hackers-stelen-60000-mails-van-amerikaans-ministerie.html",
     "open_new_window": false,
     "partner": null
   }
