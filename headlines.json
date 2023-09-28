@@ -1,5 +1,51 @@
 [
   {
+    "id": 6282948,
+    "slug": "hoe-vaak-denk-jij-aan-het-romeinse-rijk",
+    "type": "article",
+    "title": "Hoe vaak denk jij aan het Romeinse Rijk?",
+    "subtitle": "Praat Mee",
+    "published_at": "2023-09-28T11:21:11+02:00",
+    "updated_at": "2023-09-28T11:21:12+02:00",
+    "media_id": "uy6x85fa8qwf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6282948/hoe-vaak-denk-jij-aan-het-romeinse-rijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6282949,
+    "slug": "geen-verbod-op-iphone-12-in-ons-land-apple-werkt-aan-oplossing-voor-straling",
+    "type": "article",
+    "title": "Geen verbod op iPhone 12 in ons land, Apple werkt aan oplossing voor straling",
+    "subtitle": null,
+    "published_at": "2023-09-28T11:14:58+02:00",
+    "updated_at": "2023-09-28T11:14:59+02:00",
+    "media_id": "gjuxr93amz62",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6282949/geen-verbod-op-iphone-12-in-ons-land-apple-werkt-aan-oplossing-voor-straling.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6282930,
     "slug": "welke-vragen-heb-jij-over-de-explosiegolf-in-nederland-stel-ze-hier",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Wetenschappers zijn erachter waarom walvissen 'hoedjes' van zeewier dragen",
     "subtitle": null,
     "published_at": "2023-09-28T10:24:04+02:00",
-    "updated_at": "2023-09-28T11:04:08+02:00",
+    "updated_at": "2023-09-28T11:17:06+02:00",
     "media_id": "zkhxf83adqw0",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Steun voor financieel kwetsbaren verschilt honderden euro's per gemeente",
     "subtitle": null,
     "published_at": "2023-09-28T10:16:23+02:00",
-    "updated_at": "2023-09-28T11:07:43+02:00",
+    "updated_at": "2023-09-28T11:19:14+02:00",
     "media_id": "bffxkjfao4cx",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6282841/waarom-deze-britse-kruisraket-zo-effectief-is-in-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282913,
-    "slug": "inwoners-van-tynaarlo-met-krappe-beurs-mogen-gratis-naar-de-kermis",
-    "type": "article",
-    "title": "Inwoners van Tynaarlo met krappe beurs mogen gratis naar de kermis",
-    "subtitle": null,
-    "published_at": "2023-09-28T06:30:56+02:00",
-    "updated_at": "2023-09-28T08:38:51+02:00",
-    "media_id": "4jrxyhha7yg8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779220,
-      "slug": "goed-nieuws",
-      "type": "default",
-      "name": "Goed nieuws",
-      "style": "nuoverig",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/goed-nieuws/6282913/inwoners-van-tynaarlo-met-krappe-beurs-mogen-gratis-naar-de-kermis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6282914,
-    "slug": "vandaag-inside-voor-de-tweede-keer-live-in-ziggo-dome",
-    "type": "article",
-    "title": "Vandaag Inside voor de tweede keer live in Ziggo Dome",
-    "subtitle": null,
-    "published_at": "2023-09-28T06:18:09+02:00",
-    "updated_at": "2023-09-28T08:11:19+02:00",
-    "media_id": "e9bxyn6a5n5o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6282914/vandaag-inside-voor-de-tweede-keer-live-in-ziggo-dome.html",
     "open_new_window": false,
     "partner": null
   }
