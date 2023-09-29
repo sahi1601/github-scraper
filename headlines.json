@@ -1,5 +1,51 @@
 [
   {
+    "id": 6283101,
+    "slug": "europese-inflatie-neemt-ook-af-maar-is-wel-veel-hoger-dan-in-nederland",
+    "type": "article",
+    "title": "Europese inflatie neemt ook af, maar is wel veel hoger dan in Nederland",
+    "subtitle": null,
+    "published_at": "2023-09-29T11:32:54+02:00",
+    "updated_at": "2023-09-29T11:32:55+02:00",
+    "media_id": "4m4xkkmacl3j",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6283101/europese-inflatie-neemt-ook-af-maar-is-wel-veel-hoger-dan-in-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283102,
+    "slug": "schipper-wordt-vervolgd-voor-rol-bij-dood-tara-12-boot-slecht-onderhouden",
+    "type": "article",
+    "title": "Schipper wordt vervolgd voor rol bij dood Tara (12): 'Boot slecht onderhouden'",
+    "subtitle": null,
+    "published_at": "2023-09-29T11:28:15+02:00",
+    "updated_at": "2023-09-29T11:38:15+02:00",
+    "media_id": "qwhx86nafv3m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779258,
+      "slug": "binnenland-en-buitenland",
+      "type": "default",
+      "name": "Binnen- en buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland-en-buitenland/6283102/schipper-wordt-vervolgd-voor-rol-bij-dood-tara-12-boot-slecht-onderhouden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283097,
     "slug": "wat-is-een-psychose-en-wat-doet-het-met-je",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Erasmus MC: 'Verdachte moest psychologisch onderzoek doen vóór krijgen diploma'",
     "subtitle": null,
     "published_at": "2023-09-29T11:06:48+02:00",
-    "updated_at": "2023-09-29T11:18:31+02:00",
+    "updated_at": "2023-09-29T11:28:45+02:00",
     "media_id": "iyrx9hhavjpk",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Dit weten we nu over de Rotterdamse 'Erasmusschutter' Fouad L.",
     "subtitle": null,
     "published_at": "2023-09-29T10:37:16+02:00",
-    "updated_at": "2023-09-29T10:37:17+02:00",
+    "updated_at": "2023-09-29T11:43:56+02:00",
     "media_id": "im5xcgsa8z9m",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/stelling/6283041/een-statiegeldbeker-terugbrengen-vind-ik-te-veel-gedoe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283062,
-    "slug": "stalker-van-miley-cyrus-krijgt-straatverbod",
-    "type": "article",
-    "title": "Stalker van Miley Cyrus krijgt straatverbod",
-    "subtitle": null,
-    "published_at": "2023-09-29T06:52:41+02:00",
-    "updated_at": "2023-09-29T10:24:23+02:00",
-    "media_id": "wkfxh8pauohf",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6283062/stalker-van-miley-cyrus-krijgt-straatverbod.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283061,
-    "slug": "inflatie-neemt-af-tot-bijna-nul-kleinste-prijsstijgingen-sinds-2016",
-    "type": "article",
-    "title": "Inflatie neemt af tot bijna nul: kleinste prijsstijgingen sinds 2016",
-    "subtitle": null,
-    "published_at": "2023-09-29T06:39:08+02:00",
-    "updated_at": "2023-09-29T07:40:26+02:00",
-    "media_id": "vlvx28na8tph",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6283061/inflatie-neemt-af-tot-bijna-nul-kleinste-prijsstijgingen-sinds-2016.html",
     "open_new_window": false,
     "partner": null
   }
