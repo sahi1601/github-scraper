@@ -1,12 +1,58 @@
 [
   {
-    "id": 6283407,
-    "slug": "twee-nederlanders-overleden-door-ongeluk-in-thailand",
+    "id": 6283409,
+    "slug": "gerard-depardieu-ontkent-verkrachting-van-actrice-charlotte-arnould",
     "type": "article",
-    "title": "Twee Nederlanders overleden door ongeluk in Thailand",
+    "title": "Gérard Depardieu ontkent verkrachting van actrice Charlotte Arnould",
+    "subtitle": null,
+    "published_at": "2023-10-01T19:13:52+02:00",
+    "updated_at": "2023-10-01T19:20:29+02:00",
+    "media_id": "0mfxn11a1hnl",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6283409/gerard-depardieu-ontkent-verkrachting-van-actrice-charlotte-arnould.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283408,
+    "slug": "politie-weert-tegendemonstranten-bij-a12-blokkade",
+    "type": "video",
+    "title": "Politie weert tegendemonstranten bij A12-blokkade",
+    "subtitle": "Video",
+    "published_at": "2023-10-01T19:12:38+02:00",
+    "updated_at": "2023-10-01T19:17:15+02:00",
+    "media_id": "0qzxp2kacma1",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6283408/politie-weert-tegendemonstranten-bij-a12-blokkade.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283407,
+    "slug": "twee-nederlanders-overleden-na-ongeluk-in-thailand",
+    "type": "article",
+    "title": "Twee Nederlanders overleden na ongeluk in Thailand",
     "subtitle": null,
     "published_at": "2023-10-01T19:10:51+02:00",
-    "updated_at": "2023-10-01T19:10:53+02:00",
+    "updated_at": "2023-10-01T19:19:12+02:00",
     "media_id": "jtfxbbpaykrd",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6283407/twee-nederlanders-overleden-door-ongeluk-in-thailand.html",
+    "url": "/buitenland/6283407/twee-nederlanders-overleden-na-ongeluk-in-thailand.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "AZ verslaat Fortuna mede dankzij bijzondere treffer Pavlidis en houdt PSV in zicht",
     "subtitle": null,
     "published_at": "2023-10-01T18:40:04+02:00",
-    "updated_at": "2023-10-01T19:06:54+02:00",
+    "updated_at": "2023-10-01T19:13:59+02:00",
     "media_id": "ct7xya1a6mn6",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Turnsters verwachten dat recordscore bij WK genoeg is voor olympisch ticket",
     "subtitle": null,
     "published_at": "2023-10-01T18:34:58+02:00",
-    "updated_at": "2023-10-01T19:10:55+02:00",
+    "updated_at": "2023-10-01T19:23:57+02:00",
     "media_id": "7ilxkn1amtdl",
     "duration": null,
     "canonical_section": {
@@ -98,8 +144,8 @@
     "title": "PKK eist verantwoordelijkheid op voor zelfmoordaanslag in Ankara",
     "subtitle": null,
     "published_at": "2023-10-01T18:11:39+02:00",
-    "updated_at": "2023-10-01T18:21:03+02:00",
-    "media_id": "bc5xzgla4akc",
+    "updated_at": "2023-10-01T19:20:46+02:00",
+    "media_id": "266xcufa3wlq",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/film/6283023/sex-education-is-klaar-maar-de-acteurs-uit-de-serie-hoeven-we-niet-te-missen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283387,
-    "slug": "winnaar-slowaakse-verkiezingen-grotere-problemen-dan-hulp-aan-oekraine",
-    "type": "article",
-    "title": "Winnaar Slowaakse verkiezingen: 'Grotere problemen dan hulp aan Oekraïne'",
-    "subtitle": null,
-    "published_at": "2023-10-01T15:22:30+02:00",
-    "updated_at": "2023-10-01T15:33:16+02:00",
-    "media_id": "gy6xxy3au0os",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6283387/winnaar-slowaakse-verkiezingen-grotere-problemen-dan-hulp-aan-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283386,
-    "slug": "polen-massaal-de-straat-op-in-protest-tegen-overheid-vlak-voor-verkiezingen",
-    "type": "article",
-    "title": "Polen massaal de straat op in protest tegen overheid vlak voor verkiezingen",
-    "subtitle": null,
-    "published_at": "2023-10-01T15:22:09+02:00",
-    "updated_at": "2023-10-01T19:09:22+02:00",
-    "media_id": "9ojx2v2a2iui",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6283386/polen-massaal-de-straat-op-in-protest-tegen-overheid-vlak-voor-verkiezingen.html",
     "open_new_window": false,
     "partner": null
   }
