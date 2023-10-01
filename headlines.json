@@ -1,12 +1,35 @@
 [
   {
+    "id": 6283373,
+    "slug": "vakbond-fnv-kondigt-werkonderbrekingen-aan-in-de-houthandel",
+    "type": "article",
+    "title": "Vakbond FNV kondigt werkonderbrekingen aan in de houthandel",
+    "subtitle": null,
+    "published_at": "2023-10-01T13:20:19+02:00",
+    "updated_at": "2023-10-01T13:20:20+02:00",
+    "media_id": "p4lxdp8aq63w",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6283373/vakbond-fnv-kondigt-werkonderbrekingen-aan-in-de-houthandel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283370,
     "slug": "brand-in-woning-gouda-met-dode-en-drie-gewonden-onder-controle",
     "type": "article",
     "title": "Brand in woning Gouda met dode en drie gewonden onder controle",
     "subtitle": null,
     "published_at": "2023-10-01T13:06:06+02:00",
-    "updated_at": "2023-10-01T13:08:28+02:00",
+    "updated_at": "2023-10-01T13:08:58+02:00",
     "media_id": "wzsxkvba52r7",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6283364,
-    "slug": "als-eerste-geplaatste-griekspoor-in-kwartfinale-onderuit-in-astana",
+    "slug": "topfavoriet-griekspoor-verliest-kwartfinale-in-astana-rus-al-snel-klaar-in-peking",
     "type": "article",
-    "title": "Als eerste geplaatste Griekspoor in kwartfinale onderuit in Astana",
+    "title": "Topfavoriet Griekspoor verliest kwartfinale in Astana, Rus al snel klaar in Peking",
     "subtitle": null,
     "published_at": "2023-10-01T12:15:51+02:00",
-    "updated_at": "2023-10-01T12:55:36+02:00",
+    "updated_at": "2023-10-01T13:10:11+02:00",
     "media_id": "dkvxz0facz5a",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6283364/als-eerste-geplaatste-griekspoor-in-kwartfinale-onderuit-in-astana.html",
+    "url": "/sport-overig/6283364/topfavoriet-griekspoor-verliest-kwartfinale-in-astana-rus-al-snel-klaar-in-peking.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Vitesse en NEC na vermakelijke eerste helft gelijk bij rust",
     "subtitle": "Liveblog",
     "published_at": "2023-10-01T11:43:16+02:00",
-    "updated_at": "2023-10-01T13:06:04+02:00",
+    "updated_at": "2023-10-01T13:15:28+02:00",
     "media_id": "9raxi0tapufm",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Twee politieagenten gewond geraakt bij schoten en explosie bij Turks parlement",
     "subtitle": null,
     "published_at": "2023-10-01T09:50:23+02:00",
-    "updated_at": "2023-10-01T09:58:49+02:00",
+    "updated_at": "2023-10-01T13:19:15+02:00",
     "media_id": "nj0xiltadty9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6283350/renaissance-tour-van-beyonce-komt-in-de-bioscoop.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283349,
-    "slug": "vlammen-slaan-uit-het-dak-bij-dodelijke-brand-gouda",
-    "type": "video",
-    "title": "Vlammen slaan uit het dak bij dodelijke brand Gouda",
-    "subtitle": "Video",
-    "published_at": "2023-10-01T09:31:01+02:00",
-    "updated_at": "2023-10-01T09:32:37+02:00",
-    "media_id": "wzsxkvba52r7",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6283349/vlammen-slaan-uit-het-dak-bij-dodelijke-brand-gouda.html",
     "open_new_window": false,
     "partner": null
   }
