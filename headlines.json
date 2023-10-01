@@ -1,12 +1,35 @@
 [
   {
+    "id": 6283413,
+    "slug": "van-halst-keert-na-periode-als-interim-directeur-niet-meer-terug-in-rvc-ajax",
+    "type": "article",
+    "title": "Van Halst keert na periode als interim-directeur niet meer terug in rvc Ajax",
+    "subtitle": null,
+    "published_at": "2023-10-01T20:18:40+02:00",
+    "updated_at": "2023-10-01T20:25:04+02:00",
+    "media_id": "jwhxnitauc9i",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6283413/van-halst-keert-na-periode-als-interim-directeur-niet-meer-terug-in-rvc-ajax.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283414,
     "slug": "bij1-doet-met-onbekende-edson-olf-mee-aan-tweede-kamerverkiezingen",
     "type": "article",
     "title": "BIJ1 doet met onbekende Edson Olf mee aan Tweede Kamerverkiezingen",
     "subtitle": null,
     "published_at": "2023-10-01T20:00:55+02:00",
-    "updated_at": "2023-10-01T20:01:16+02:00",
+    "updated_at": "2023-10-01T20:26:11+02:00",
     "media_id": "ypvx0m7aj6v4",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6283394/honderduizenden-demonstranten-steunen-oppositieleider-tusk-in-polen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283391,
-    "slug": "knvb-overlegt-met-clubs-over-restant-rkc-ajax-komende-dagen-duidelijkheid",
-    "type": "article",
-    "title": "KNVB overlegt met clubs over restant RKC-Ajax, komende dagen duidelijkheid",
-    "subtitle": null,
-    "published_at": "2023-10-01T16:19:28+02:00",
-    "updated_at": "2023-10-01T16:24:53+02:00",
-    "media_id": "b0zx7xlagde6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6283391/knvb-overlegt-met-clubs-over-restant-rkc-ajax-komende-dagen-duidelijkheid.html",
     "open_new_window": false,
     "partner": null
   }
