@@ -1,12 +1,35 @@
 [
   {
-    "id": 6283434,
-    "slug": "mexicaanse-kerk-stort-in-tijdens-doopdienst-zeker-zeven-doden",
+    "id": 6283435,
+    "slug": "hoekstra-moet-zich-bewijzen-voor-europees-parlement-tijdens-urenlang-klimaatexamen",
     "type": "article",
-    "title": "Mexicaanse kerk stort in tijdens doopdienst, zeker zeven doden",
+    "title": "Hoekstra moet zich bewijzen voor Europees parlement tijdens urenlang klimaatexamen",
+    "subtitle": null,
+    "published_at": "2023-10-02T05:50:05+02:00",
+    "updated_at": "2023-10-02T05:50:06+02:00",
+    "media_id": "xdyxzvwad4ew",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6283435/hoekstra-moet-zich-bewijzen-voor-europees-parlement-tijdens-urenlang-klimaatexamen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283434,
+    "slug": "zeker-zeven-doden-nadat-mexicaanse-kerk-instort-tijdens-doopdienst",
+    "type": "article",
+    "title": "Zeker zeven doden nadat Mexicaanse kerk instort tijdens doopdienst",
     "subtitle": null,
     "published_at": "2023-10-02T05:42:23+02:00",
-    "updated_at": "2023-10-02T05:42:24+02:00",
+    "updated_at": "2023-10-02T06:10:58+02:00",
     "media_id": "9dpxhi1as81h",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6283434/mexicaanse-kerk-stort-in-tijdens-doopdienst-zeker-zeven-doden.html",
+    "url": "/buitenland/6283434/zeker-zeven-doden-nadat-mexicaanse-kerk-instort-tijdens-doopdienst.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2023-10-02T05:33:39+02:00",
-    "updated_at": "2023-10-02T05:33:41+02:00",
+    "updated_at": "2023-10-02T06:01:28+02:00",
     "media_id": "xdtxc8kaj8rf",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Producenten krijgen volgend jaar ook korting op niet volledig duurzaam plastic",
     "subtitle": null,
     "published_at": "2023-10-02T00:37:33+02:00",
-    "updated_at": "2023-10-02T00:37:35+02:00",
+    "updated_at": "2023-10-02T06:11:45+02:00",
     "media_id": "os3xnnca8ehd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6283408/politie-weert-tegendemonstranten-bij-a12-blokkade.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283407,
-    "slug": "twee-nederlanders-overleden-bij-ongeluk-in-thailand",
-    "type": "article",
-    "title": "Twee Nederlanders overleden bij ongeluk in Thailand",
-    "subtitle": null,
-    "published_at": "2023-10-01T19:10:51+02:00",
-    "updated_at": "2023-10-01T21:10:00+02:00",
-    "media_id": "jtfxbbpaykrd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6283407/twee-nederlanders-overleden-bij-ongeluk-in-thailand.html",
     "open_new_window": false,
     "partner": null
   }
