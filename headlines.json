@@ -1,5 +1,97 @@
 [
   {
+    "id": 6283547,
+    "slug": "metershoge-golven-sleuren-chinese-toeschouwers-mee",
+    "type": "video",
+    "title": "Metershoge golven sleuren Chinese toeschouwers mee",
+    "subtitle": "Video",
+    "published_at": "2023-10-02T16:59:07+02:00",
+    "updated_at": "2023-10-02T16:59:43+02:00",
+    "media_id": "thxxyjjaaull",
+    "duration": "0:56",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6283547/metershoge-golven-sleuren-chinese-toeschouwers-mee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283544,
+    "slug": "u2-prijst-bram-van-den-berg-na-eerste-shows-hij-was-het-minst-zenuwachtig",
+    "type": "article",
+    "title": "U2 prijst Bram van den Berg na eerste shows: 'Hij was het minst zenuwachtig'",
+    "subtitle": null,
+    "published_at": "2023-10-02T16:57:12+02:00",
+    "updated_at": "2023-10-02T17:10:31+02:00",
+    "media_id": "2v5x3v7aqo8k",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6283544/u2-prijst-bram-van-den-berg-na-eerste-shows-hij-was-het-minst-zenuwachtig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283545,
+    "slug": "psv-onderschat-slecht-gestarte-sevilla-niet-ze-zitten-nog-steeds-op-voetbal",
+    "type": "article",
+    "title": "PSV onderschat slecht gestarte Sevilla niet: 'Ze zitten nog steeds op voetbal'",
+    "subtitle": null,
+    "published_at": "2023-10-02T16:54:48+02:00",
+    "updated_at": "2023-10-02T16:58:43+02:00",
+    "media_id": "66exj8kape2z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6283545/psv-onderschat-slecht-gestarte-sevilla-niet-ze-zitten-nog-steeds-op-voetbal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283543,
+    "slug": "koning-en-burgemeester-aboutaleb-bezoeken-wijk-schietpartij-rotterdam",
+    "type": "article",
+    "title": "Koning en burgemeester Aboutaleb bezoeken wijk schietpartij Rotterdam",
+    "subtitle": null,
+    "published_at": "2023-10-02T16:48:07+02:00",
+    "updated_at": "2023-10-02T16:48:09+02:00",
+    "media_id": "1r0xn9qacn4y",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778775,
+      "slug": "koningshuis",
+      "type": "default",
+      "name": "Koningshuis",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/koningshuis/6283543/koning-en-burgemeester-aboutaleb-bezoeken-wijk-schietpartij-rotterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283540,
     "slug": "verzorgers-vangen-rotterdammers-op-na-schietdrama-besef-komt-nu",
     "type": "video",
@@ -29,7 +121,7 @@
     "title": "Playmobil-fabrikant ontslaat meer dan een zesde van het personeel",
     "subtitle": null,
     "published_at": "2023-10-02T16:28:32+02:00",
-    "updated_at": "2023-10-02T16:28:33+02:00",
+    "updated_at": "2023-10-02T17:00:26+02:00",
     "media_id": "v1wxqwua62kv",
     "duration": null,
     "canonical_section": {
@@ -144,8 +236,8 @@
     "title": "Je kunt voortaan ook videobellen met de Belastingdienst",
     "subtitle": null,
     "published_at": "2023-10-02T16:09:54+02:00",
-    "updated_at": "2023-10-02T16:36:27+02:00",
-    "media_id": "eqlxahzaxjl7",
+    "updated_at": "2023-10-02T17:02:54+02:00",
+    "media_id": "i2rxzosa9a51",
     "duration": null,
     "canonical_section": {
       "id": 1771438,
@@ -167,7 +259,7 @@
     "title": "Erasmusschutter Fouad L. moest huis uit om huurachterstand",
     "subtitle": null,
     "published_at": "2023-10-02T16:04:36+02:00",
-    "updated_at": "2023-10-02T16:16:14+02:00",
+    "updated_at": "2023-10-02T17:04:45+02:00",
     "media_id": "709x6mha2ykp",
     "duration": null,
     "canonical_section": {
@@ -213,7 +305,7 @@
     "title": "Van Aert sprint in zijn laatste week op de weg naar winst in Coppa Bernocchi",
     "subtitle": null,
     "published_at": "2023-10-02T15:44:37+02:00",
-    "updated_at": "2023-10-02T16:24:59+02:00",
+    "updated_at": "2023-10-02T17:08:45+02:00",
     "media_id": "mv5xkwia85vz",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6283514/boete-voor-treinreizigers-die-echt-dreigende-taal-uitslaan-in-utrecht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283509,
-    "slug": "ten-hag-overweegt-rentree-van-veelbesproken-antony-in-cl-duel-met-galatasaray",
-    "type": "article",
-    "title": "Ten Hag overweegt rentree van veelbesproken Antony in CL-duel met Galatasaray",
-    "subtitle": null,
-    "published_at": "2023-10-02T14:35:17+02:00",
-    "updated_at": "2023-10-02T14:36:46+02:00",
-    "media_id": "bz9x0yaat5y4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6283509/ten-hag-overweegt-rentree-van-veelbesproken-antony-in-cl-duel-met-galatasaray.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283505,
-    "slug": "zeldzame-babyneushoorn-zet-eerste-stapjes-in-indonesie",
-    "type": "video",
-    "title": "Zeldzame babyneushoorn zet eerste stapjes in Indonesië",
-    "subtitle": "Video",
-    "published_at": "2023-10-02T14:07:35+02:00",
-    "updated_at": "2023-10-02T14:07:36+02:00",
-    "media_id": "jkexthdarpmf",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6283505/zeldzame-babyneushoorn-zet-eerste-stapjes-in-indonesie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283502,
-    "slug": "steeds-meer-mensen-met-kanker-zien-nu-effect-van-roken-en-zonnen",
-    "type": "article",
-    "title": "Steeds meer mensen met kanker: 'Zien nu effect van roken en zonnen'",
-    "subtitle": "NU+",
-    "published_at": "2023-10-02T13:58:24+02:00",
-    "updated_at": "2023-10-02T14:11:49+02:00",
-    "media_id": "3xwxcvsai4ic",
-    "duration": null,
-    "canonical_section": {
-      "id": 1146768,
-      "slug": "gezondheid",
-      "type": "default",
-      "name": "Gezondheid",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gezondheid/6283502/steeds-meer-mensen-met-kanker-zien-nu-effect-van-roken-en-zonnen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283497,
-    "slug": "de-schaatskalender-van-20232024-de-belangrijkste-wedstrijden-op-een-rij",
-    "type": "article",
-    "title": "De schaatskalender van 2023/2024: de belangrijkste wedstrijden op een rij",
-    "subtitle": null,
-    "published_at": "2023-10-02T13:39:34+02:00",
-    "updated_at": "2023-10-02T13:39:35+02:00",
-    "media_id": "rsux6ihapd50",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6283497/de-schaatskalender-van-20232024-de-belangrijkste-wedstrijden-op-een-rij.html",
     "open_new_window": false,
     "partner": null
   }
