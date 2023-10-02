@@ -1,13 +1,36 @@
 [
   {
-    "id": 6283435,
-    "slug": "hoekstra-moet-zich-bewijzen-voor-europees-parlement-tijdens-urenlang-klimaatexamen",
+    "id": 6283436,
+    "slug": "jongeren-kopen-laatste-jaren-massaal-caravans-en-campers",
     "type": "article",
-    "title": "Hoekstra moet zich bewijzen voor Europees parlement tijdens urenlang klimaatexamen",
+    "title": "Jongeren kopen laatste jaren massaal caravans en campers",
+    "subtitle": null,
+    "published_at": "2023-10-02T06:19:20+02:00",
+    "updated_at": "2023-10-02T06:23:59+02:00",
+    "media_id": "v53xi9rao65e",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6283436/jongeren-kopen-laatste-jaren-massaal-caravans-en-campers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283435,
+    "slug": "hoekstra-moet-zich-bewijzen-voor-europees-parlement-tijdens-klimaatexamen",
+    "type": "article",
+    "title": "Hoekstra moet zich bewijzen voor Europees Parlement tijdens klimaatexamen",
     "subtitle": null,
     "published_at": "2023-10-02T05:50:05+02:00",
-    "updated_at": "2023-10-02T05:50:06+02:00",
-    "media_id": "xdyxzvwad4ew",
+    "updated_at": "2023-10-02T06:26:53+02:00",
+    "media_id": "w2xxs8naikzo",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6283435/hoekstra-moet-zich-bewijzen-voor-europees-parlement-tijdens-urenlang-klimaatexamen.html",
+    "url": "/politiek/6283435/hoekstra-moet-zich-bewijzen-voor-europees-parlement-tijdens-klimaatexamen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Topturnster Simone Biles landt 'onmogelijke' sprong bij WK-rentree: de Biles II",
     "subtitle": null,
     "published_at": "2023-10-01T20:27:39+02:00",
-    "updated_at": "2023-10-01T23:14:31+02:00",
+    "updated_at": "2023-10-02T06:19:52+02:00",
     "media_id": "3akxxb6abnh2",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Van Halst keert na periode als interim-directeur niet meer terug in rvc Ajax",
     "subtitle": null,
     "published_at": "2023-10-01T20:18:40+02:00",
-    "updated_at": "2023-10-01T20:39:39+02:00",
+    "updated_at": "2023-10-02T06:24:19+02:00",
     "media_id": "jwhxnitauc9i",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6283409/acteur-gerard-depardieu-ontkent-verkrachting-van-actrice-charlotte-arnould.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283408,
-    "slug": "politie-weert-tegendemonstranten-bij-a12-blokkade",
-    "type": "video",
-    "title": "Politie weert tegendemonstranten bij A12-blokkade",
-    "subtitle": "Video",
-    "published_at": "2023-10-01T19:12:38+02:00",
-    "updated_at": "2023-10-01T19:42:07+02:00",
-    "media_id": "0qzxp2kacma1",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6283408/politie-weert-tegendemonstranten-bij-a12-blokkade.html",
     "open_new_window": false,
     "partner": null
   }
