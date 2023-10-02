@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283565,
+    "slug": "alaphilippe-zou-fusie-soudal-quick-step-en-jumbo-visma-verdrietig-vinden",
+    "type": "article",
+    "title": "Alaphilippe zou fusie Soudal Quick-Step en Jumbo-Visma 'verdrietig' vinden",
+    "subtitle": null,
+    "published_at": "2023-10-02T18:58:39+02:00",
+    "updated_at": "2023-10-02T19:08:24+02:00",
+    "media_id": "wthxx32ad6jm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6283565/alaphilippe-zou-fusie-soudal-quick-step-en-jumbo-visma-verdrietig-vinden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283558,
     "slug": "bedwantsen-kruipen-rond-op-metrostoelen-in-parijs",
     "type": "video",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6283519,
-    "slug": "dit-is-waarom-uit-voorzorg-reanimeren-zoals-bij-vaessen-geen-kwaad-kan",
+    "slug": "rkc-keeper-vaessen-preventief-gereanimeerd-waarom-dat-geen-kwaad-kan",
     "type": "article",
-    "title": "Dit is waarom uit voorzorg reanimeren zoals bij Vaessen geen kwaad kan",
-    "subtitle": null,
+    "title": "RKC-keeper Vaessen preventief gereanimeerd: waarom dat geen kwaad kan",
+    "subtitle": "NU+",
     "published_at": "2023-10-02T18:04:05+02:00",
-    "updated_at": "2023-10-02T18:04:06+02:00",
+    "updated_at": "2023-10-02T19:04:56+02:00",
     "media_id": "rk6x6y0a91k4",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/over-nu/6283519/dit-is-waarom-uit-voorzorg-reanimeren-zoals-bij-vaessen-geen-kwaad-kan.html",
+    "url": "/over-nu/6283519/rkc-keeper-vaessen-preventief-gereanimeerd-waarom-dat-geen-kwaad-kan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6283531/je-kunt-voortaan-ook-videobellen-met-de-belastingdienst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283530,
-    "slug": "erasmusschutter-fouad-l-moest-huis-uit-om-huurachterstand",
-    "type": "article",
-    "title": "Erasmusschutter Fouad L. moest huis uit om huurachterstand",
-    "subtitle": null,
-    "published_at": "2023-10-02T16:04:36+02:00",
-    "updated_at": "2023-10-02T17:04:45+02:00",
-    "media_id": "709x6mha2ykp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6283530/erasmusschutter-fouad-l-moest-huis-uit-om-huurachterstand.html",
     "open_new_window": false,
     "partner": null
   }
