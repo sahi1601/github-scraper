@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283494,
+    "slug": "verdachte-dubbele-schietpartij-in-rotterdam-wordt-woensdag-voorgeleid",
+    "type": "article",
+    "title": "Verdachte dubbele schietpartij in Rotterdam wordt woensdag voorgeleid",
+    "subtitle": null,
+    "published_at": "2023-10-02T13:10:35+02:00",
+    "updated_at": "2023-10-02T13:10:36+02:00",
+    "media_id": "q1sxyg5ay6a8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6283494/verdachte-dubbele-schietpartij-in-rotterdam-wordt-woensdag-voorgeleid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283496,
     "slug": "bitterzoet-dat-verdachte-van-moord-tupac-na-27-jaar-is-opgepakt-volgens-broer",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Apple stapt naar de rechter om onder Nederlandse miljoenenboete uit te komen",
     "subtitle": null,
     "published_at": "2023-10-02T13:00:06+02:00",
-    "updated_at": "2023-10-02T13:00:15+02:00",
+    "updated_at": "2023-10-02T13:23:12+02:00",
     "media_id": "dj3xtudawzui",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6283114,
-    "slug": "wat-doet-een-programma-over-goed-nieuws-bij-rampen-zoals-schietpartijen",
+    "slug": "wat-doet-een-programma-over-goed-nieuws-bij-rampen",
     "type": "article",
-    "title": "Wat doet een programma over goed nieuws bij rampen zoals schietpartijen?",
+    "title": "Wat doet een programma over goed nieuws bij rampen?",
     "subtitle": "NU+",
     "published_at": "2023-10-02T12:47:49+02:00",
-    "updated_at": "2023-10-02T12:48:58+02:00",
+    "updated_at": "2023-10-02T13:17:03+02:00",
     "media_id": "rypxigqaavap",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6283114/wat-doet-een-programma-over-goed-nieuws-bij-rampen-zoals-schietpartijen.html",
+    "url": "/media/6283114/wat-doet-een-programma-over-goed-nieuws-bij-rampen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6283453/ook-ondernemers-met-sjoemeldiesels-eisen-schadevergoeding.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283454,
-    "slug": "industrie-stond-er-in-de-laatste-drie-jaar-niet-zo-slecht-voor-als-nu",
-    "type": "article",
-    "title": "Industrie stond er in de laatste drie jaar niet zo slecht voor als nu",
-    "subtitle": null,
-    "published_at": "2023-10-02T09:47:25+02:00",
-    "updated_at": "2023-10-02T12:08:01+02:00",
-    "media_id": "2nqx29nau6og",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6283454/industrie-stond-er-in-de-laatste-drie-jaar-niet-zo-slecht-voor-als-nu.html",
     "open_new_window": false,
     "partner": null
   }
