@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283741,
+    "slug": "bus-rijdt-van-viaduct-bij-venetie-zeker-21-doden-en-meerdere-gewonden",
+    "type": "article",
+    "title": "Bus rijdt van viaduct bij Venetië: zeker 21 doden en meerdere gewonden",
+    "subtitle": null,
+    "published_at": "2023-10-03T21:26:17+02:00",
+    "updated_at": "2023-10-03T21:43:00+02:00",
+    "media_id": "72kxf0dal6gz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6283741/bus-rijdt-van-viaduct-bij-venetie-zeker-21-doden-en-meerdere-gewonden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283739,
     "slug": "william-en-kate-spelen-potje-tafeltennis-tijdens-bezoek-aan-cardiff",
     "type": "video",
@@ -47,13 +70,13 @@
   },
   {
     "id": 6283737,
-    "slug": "van-gaal-gaat-aan-de-slag-als-adviseur-rvc-ajax-ik-wil-de-club-graag-helpen",
+    "slug": "van-gaal-keert-terug-bij-ajax-als-adviseur-rvc-ik-wil-de-club-graag-helpen",
     "type": "article",
-    "title": "Van Gaal gaat aan de slag als adviseur rvc Ajax: 'Ik wil de club graag helpen'",
+    "title": "Van Gaal keert terug bij Ajax als adviseur rvc: 'Ik wil de club graag helpen'",
     "subtitle": null,
     "published_at": "2023-10-03T20:54:11+02:00",
-    "updated_at": "2023-10-03T21:24:07+02:00",
-    "media_id": "ho0xntkamocl",
+    "updated_at": "2023-10-03T21:43:58+02:00",
+    "media_id": "h74xcupakl7k",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6283737/van-gaal-gaat-aan-de-slag-als-adviseur-rvc-ajax-ik-wil-de-club-graag-helpen.html",
+    "url": "/voetbal/6283737/van-gaal-keert-terug-bij-ajax-als-adviseur-rvc-ik-wil-de-club-graag-helpen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Stevie Nicks wil niet dat Fleetwood Mac doorgaat zonder Christine McVie",
     "subtitle": null,
     "published_at": "2023-10-03T20:23:51+02:00",
-    "updated_at": "2023-10-03T20:34:43+02:00",
+    "updated_at": "2023-10-03T21:32:04+02:00",
     "media_id": "fotxw3paq20m",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Drie steekincidenten in Utrechtse buurt in week tijd, politie maant tot alertheid",
     "subtitle": null,
     "published_at": "2023-10-03T19:40:40+02:00",
-    "updated_at": "2023-10-03T20:29:54+02:00",
+    "updated_at": "2023-10-03T21:30:26+02:00",
     "media_id": "hn5xvhrateqx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6283718/rico-verhoeven-na-revalidatie-ik-bepaal-zelf-wanneer-ik-stop.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283716,
-    "slug": "air-france-klm-wordt-mede-eigenaar-van-scandinavische-maatschappij-sas",
-    "type": "article",
-    "title": "Air France-KLM wordt mede-eigenaar van Scandinavische maatschappij SAS",
-    "subtitle": null,
-    "published_at": "2023-10-03T18:33:48+02:00",
-    "updated_at": "2023-10-03T18:46:44+02:00",
-    "media_id": "taixpnvap0om",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6283716/air-france-klm-wordt-mede-eigenaar-van-scandinavische-maatschappij-sas.html",
     "open_new_window": false,
     "partner": null
   }
