@@ -1,12 +1,35 @@
 [
   {
+    "id": 6283654,
+    "slug": "snelle-gaat-volgend-jaar-op-tournee-door-nederland-en-belgie",
+    "type": "article",
+    "title": "Snelle gaat volgend jaar op tournee door Nederland en België",
+    "subtitle": null,
+    "published_at": "2023-10-03T12:37:40+02:00",
+    "updated_at": "2023-10-03T12:37:42+02:00",
+    "media_id": "uj6xq9naq9qt",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6283654/snelle-gaat-volgend-jaar-op-tournee-door-nederland-en-belgie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283653,
     "slug": "chinese-snookerspeler-draagt-verkeerde-outfit-en-verliest-eerste-frame-als-straf",
     "type": "article",
     "title": "Chinese snookerspeler draagt verkeerde outfit en verliest eerste frame als straf",
     "subtitle": null,
     "published_at": "2023-10-03T12:23:27+02:00",
-    "updated_at": "2023-10-03T12:23:29+02:00",
+    "updated_at": "2023-10-03T12:37:05+02:00",
     "media_id": "z1uxgi6aovrm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6283617/facebook-zonder-reclames-kan-10-euro-per-maand-gaan-kosten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283608,
-    "slug": "van-gerwen-niet-mals-over-mogelijke-tegenstander-hij-maakt-beginnersfout",
-    "type": "article",
-    "title": "Van Gerwen niet mals over mogelijke tegenstander: 'Hij maakt beginnersfout'",
-    "subtitle": null,
-    "published_at": "2023-10-03T09:28:47+02:00",
-    "updated_at": "2023-10-03T09:44:33+02:00",
-    "media_id": "skuxpmeadk87",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6283608/van-gerwen-niet-mals-over-mogelijke-tegenstander-hij-maakt-beginnersfout.html",
     "open_new_window": false,
     "partner": null
   }
