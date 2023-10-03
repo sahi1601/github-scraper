@@ -1,13 +1,36 @@
 [
   {
+    "id": 6283745,
+    "slug": "bus-staat-in-brand-na-val-van-viaduct-in-venetie",
+    "type": "video",
+    "title": "Bus staat in brand na val van viaduct in Venetië",
+    "subtitle": "Video",
+    "published_at": "2023-10-03T22:22:03+02:00",
+    "updated_at": "2023-10-03T22:22:04+02:00",
+    "media_id": "9b9xhf2a51bf",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6283745/bus-staat-in-brand-na-val-van-viaduct-in-venetie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283741,
     "slug": "bus-rijdt-van-viaduct-bij-venetie-zeker-21-doden-en-meerdere-gewonden",
     "type": "article",
     "title": "Bus rijdt van viaduct bij Venetië: zeker 21 doden en meerdere gewonden",
     "subtitle": null,
     "published_at": "2023-10-03T21:26:17+02:00",
-    "updated_at": "2023-10-03T22:09:53+02:00",
-    "media_id": "74bxyfca9i5o",
+    "updated_at": "2023-10-03T22:22:22+02:00",
+    "media_id": "xczx4e4a4u7q",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6283719/nicol-kremers-wil-peter-gillis-niet-betalen-overeenkomst-onder-dwang-getekend.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283718,
-    "slug": "rico-verhoeven-na-revalidatie-ik-bepaal-zelf-wanneer-ik-stop",
-    "type": "video",
-    "title": "Rico Verhoeven na revalidatie: 'Ik bepaal zelf wanneer ik stop'",
-    "subtitle": "Video",
-    "published_at": "2023-10-03T18:44:47+02:00",
-    "updated_at": "2023-10-03T18:56:40+02:00",
-    "media_id": "5jdx7mya5yt3",
-    "duration": "1:34",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6283718/rico-verhoeven-na-revalidatie-ik-bepaal-zelf-wanneer-ik-stop.html",
     "open_new_window": false,
     "partner": null
   }
