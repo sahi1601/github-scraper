@@ -1,12 +1,35 @@
 [
   {
+    "id": 6283632,
+    "slug": "overheid-gaat-kinderopvang-compenseren-voor-verbod-op-stint",
+    "type": "article",
+    "title": "Overheid gaat kinderopvang compenseren voor verbod op Stint",
+    "subtitle": null,
+    "published_at": "2023-10-03T10:20:44+02:00",
+    "updated_at": "2023-10-03T10:20:45+02:00",
+    "media_id": "vqixlr2ayxt3",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6283632/overheid-gaat-kinderopvang-compenseren-voor-verbod-op-stint.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283618,
     "slug": "ibrahimovic-twijfelt-aan-kwaliteiten-ten-hag-grote-sterren-behandel-je-anders",
     "type": "article",
     "title": "Ibrahimovic twijfelt aan kwaliteiten Ten Hag: 'Grote sterren behandel je anders'",
     "subtitle": null,
     "published_at": "2023-10-03T10:15:37+02:00",
-    "updated_at": "2023-10-03T10:16:03+02:00",
+    "updated_at": "2023-10-03T10:17:45+02:00",
     "media_id": "4umxj09aean7",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6283623,
-    "slug": "italiaanse-bendeleden-stalen-en-verkochten-kerosine-van-navo-pijplijn",
+    "slug": "italiaanse-bende-stal-en-verkocht-800000-liter-kerosine-van-navo-pijplijn",
     "type": "article",
-    "title": "Italiaanse bendeleden stalen en verkochten kerosine van NAVO-pijplijn",
+    "title": "Italiaanse bende stal en verkocht 800.000 liter kerosine van NAVO-pijplijn",
     "subtitle": null,
     "published_at": "2023-10-03T09:59:00+02:00",
-    "updated_at": "2023-10-03T10:08:16+02:00",
+    "updated_at": "2023-10-03T10:21:08+02:00",
     "media_id": "gpfxft4ax4vw",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6283623/italiaanse-bendeleden-stalen-en-verkochten-kerosine-van-navo-pijplijn.html",
+    "url": "/buitenland/6283623/italiaanse-bende-stal-en-verkocht-800000-liter-kerosine-van-navo-pijplijn.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6283601/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283600,
-    "slug": "andre-hazes-zal-nooit-meedoen-aan-het-eurovisie-songfestival",
-    "type": "article",
-    "title": "André Hazes zal nooit meedoen aan het Eurovisie Songfestival",
-    "subtitle": null,
-    "published_at": "2023-10-03T05:43:05+02:00",
-    "updated_at": "2023-10-03T06:35:44+02:00",
-    "media_id": "1nexcm3a51g5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772282,
-      "slug": "songfestival",
-      "type": "default",
-      "name": "Songfestival",
-      "style": "nuuit",
-      "media_id": "4a9xjerag1rk",
-      "partner": null
-    },
-    "url": "/songfestival/6283600/andre-hazes-zal-nooit-meedoen-aan-het-eurovisie-songfestival.html",
     "open_new_window": false,
     "partner": null
   }
