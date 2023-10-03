@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283691,
+    "slug": "oud-nazibondgenoot-roemenie-voegt-joodse-geschiedenis-toe-aan-schoollessen",
+    "type": "article",
+    "title": "Oud-nazibondgenoot Roemenië voegt Joodse geschiedenis toe aan schoollessen",
+    "subtitle": null,
+    "published_at": "2023-10-03T16:30:13+02:00",
+    "updated_at": "2023-10-03T16:30:13+02:00",
+    "media_id": "bsox6yiaq7bf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6283691/oud-nazibondgenoot-roemenie-voegt-joodse-geschiedenis-toe-aan-schoollessen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283693,
     "slug": "nasa-legt-bijzonder-weersverschijnsel-op-mars-vast",
     "type": "video",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6283692,
-    "slug": "15-maanden-cel-voor-jonge-ouders-die-baby-levend-achterlieten-in-container",
+    "slug": "vijftien-maanden-cel-voor-jonge-ouders-die-baby-levend-achterlieten-in-container",
     "type": "article",
-    "title": "15 maanden cel voor jonge ouders die baby levend achterlieten in container",
+    "title": "Vijftien maanden cel voor jonge ouders die baby levend achterlieten in container",
     "subtitle": null,
     "published_at": "2023-10-03T15:41:34+02:00",
-    "updated_at": "2023-10-03T16:06:35+02:00",
+    "updated_at": "2023-10-03T16:30:02+02:00",
     "media_id": "c6kxn9map8mk",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6283692/15-maanden-cel-voor-jonge-ouders-die-baby-levend-achterlieten-in-container.html",
+    "url": "/algemeen/6283692/vijftien-maanden-cel-voor-jonge-ouders-die-baby-levend-achterlieten-in-container.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Europees Parlement houdt Hoekstra in spanning en komt met extra vragen",
     "subtitle": null,
     "published_at": "2023-10-03T15:32:07+02:00",
-    "updated_at": "2023-10-03T15:47:08+02:00",
+    "updated_at": "2023-10-03T16:13:31+02:00",
     "media_id": "acwxtkra8oc7",
     "duration": null,
     "canonical_section": {
@@ -346,12 +369,12 @@
   },
   {
     "id": 6283659,
-    "slug": "amerikaans-stel-krijgt-voor-derde-keer-in-drie-jaar-tijd-op-3-september-een-dochter",
+    "slug": "amerikaans-stel-krijgt-voor-derde-keer-op-3-september-een-dochter",
     "type": "article",
-    "title": "Amerikaans stel krijgt voor derde keer in drie jaar tijd op 3 september een dochter",
+    "title": "Amerikaans stel krijgt voor derde keer op 3 september een dochter",
     "subtitle": null,
     "published_at": "2023-10-03T13:12:11+02:00",
-    "updated_at": "2023-10-03T15:43:34+02:00",
+    "updated_at": "2023-10-03T16:08:19+02:00",
     "media_id": "jkex5bhazc61",
     "duration": null,
     "canonical_section": {
@@ -363,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/opmerkelijk/6283659/amerikaans-stel-krijgt-voor-derde-keer-in-drie-jaar-tijd-op-3-september-een-dochter.html",
+    "url": "/opmerkelijk/6283659/amerikaans-stel-krijgt-voor-derde-keer-op-3-september-een-dochter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6283654/snelle-gaat-volgend-jaar-op-tournee-door-nederland-en-belgie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283653,
-    "slug": "chinese-snookerspeler-draagt-verkeerde-outfit-en-verliest-eerste-frame-als-straf",
-    "type": "article",
-    "title": "Chinese snookerspeler draagt verkeerde outfit en verliest eerste frame als straf",
-    "subtitle": null,
-    "published_at": "2023-10-03T12:23:27+02:00",
-    "updated_at": "2023-10-03T12:58:24+02:00",
-    "media_id": "z1uxgi6aovrm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6283653/chinese-snookerspeler-draagt-verkeerde-outfit-en-verliest-eerste-frame-als-straf.html",
     "open_new_window": false,
     "partner": null
   }
