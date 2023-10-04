@@ -1,12 +1,35 @@
 [
   {
+    "id": 6283911,
+    "slug": "feyenoord-geeft-voorsprong-tegen-atletico-twee-keer-uit-handen-en-verliest-in-cl",
+    "type": "article",
+    "title": "Feyenoord geeft voorsprong tegen Atlético twee keer uit handen en verliest in CL",
+    "subtitle": null,
+    "published_at": "2023-10-04T20:43:03+02:00",
+    "updated_at": "2023-10-04T20:43:14+02:00",
+    "media_id": "5djxzsla0wo1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6283911/feyenoord-geeft-voorsprong-tegen-atletico-twee-keer-uit-handen-en-verliest-in-cl.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283888,
     "slug": "zelensky-zegt-dat-offensief-traag-verloopt-ook-tekorten-aan-munitie",
     "type": "article",
     "title": "Zelensky zegt dat offensief traag verloopt, ook tekorten aan munitie",
     "subtitle": "Overzicht",
     "published_at": "2023-10-04T20:24:46+02:00",
-    "updated_at": "2023-10-04T20:27:09+02:00",
+    "updated_at": "2023-10-04T20:32:07+02:00",
     "media_id": "219xn5bahoxi",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Zwaargewonde bij schietpartij in Assen, vijf verdachten aangehouden",
     "subtitle": null,
     "published_at": "2023-10-04T20:22:01+02:00",
-    "updated_at": "2023-10-04T20:22:02+02:00",
+    "updated_at": "2023-10-04T20:35:02+02:00",
     "media_id": "d0tx3b8avbp7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6283872/feyenoord-verrassend-met-zerrouki-tegen-atletico-madrid-minteh-op-de-bank.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283882,
-    "slug": "beelden-tonen-moment-dat-italiaanse-bus-van-viaduct-valt",
-    "type": "video",
-    "title": "Beelden tonen moment dat Italiaanse bus van viaduct valt",
-    "subtitle": "Video",
-    "published_at": "2023-10-04T17:29:57+02:00",
-    "updated_at": "2023-10-04T17:29:58+02:00",
-    "media_id": "ymwxshwakbdi",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6283882/beelden-tonen-moment-dat-italiaanse-bus-van-viaduct-valt.html",
     "open_new_window": false,
     "partner": null
   }
