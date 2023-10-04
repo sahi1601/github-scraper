@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283769,
+    "slug": "elektrische-apparaten-zoals-vapers-belanden-nog-te-vaak-bij-huisvuil",
+    "type": "article",
+    "title": "Elektrische apparaten zoals vapers belanden nog te vaak bij huisvuil",
+    "subtitle": null,
+    "published_at": "2023-10-04T09:20:32+02:00",
+    "updated_at": "2023-10-04T09:20:34+02:00",
+    "media_id": "4fixmn8a1ida",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6283769/elektrische-apparaten-zoals-vapers-belanden-nog-te-vaak-bij-huisvuil.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283767,
     "slug": "zo-werd-mccarthy-afgezet-als-voorzitter-van-het-huis-van-afgevaardigden",
     "type": "video",
@@ -374,7 +397,7 @@
     "title": "Lang hecht na gelijkspel PSV weinig waarde aan eretitel: 'Had liever gewonnen'",
     "subtitle": null,
     "published_at": "2023-10-04T00:55:31+02:00",
-    "updated_at": "2023-10-04T02:43:15+02:00",
+    "updated_at": "2023-10-04T09:19:13+02:00",
     "media_id": "f1cxo2ratj9o",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6283747/united-en-ten-hag-dieper-in-crisis-na-nederlaag-tegen-galatasaray-in-cl.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283724,
-    "slug": "psv-knokt-zich-naar-punt-tegen-sevilla-in-enerverende-champions-league-kraker",
-    "type": "article",
-    "title": "PSV knokt zich naar punt tegen Sevilla in enerverende Champions League-kraker",
-    "subtitle": null,
-    "published_at": "2023-10-03T22:56:11+02:00",
-    "updated_at": "2023-10-04T06:38:45+02:00",
-    "media_id": "b37xlw7acibd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6283724/psv-knokt-zich-naar-punt-tegen-sevilla-in-enerverende-champions-league-kraker.html",
     "open_new_window": false,
     "partner": null
   }
