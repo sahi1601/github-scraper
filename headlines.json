@@ -1,5 +1,28 @@
 [
   {
+    "id": 6283917,
+    "slug": "tweede-kamer-wil-poliklinieken-voor-langdurige-covid-kuipers-ziet-er-niks-in",
+    "type": "article",
+    "title": "Tweede Kamer wil poliklinieken voor langdurige covid, Kuipers ziet er niks in",
+    "subtitle": null,
+    "published_at": "2023-10-04T22:21:21+02:00",
+    "updated_at": "2023-10-04T22:21:22+02:00",
+    "media_id": "oq4xprzameo2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778528,
+      "slug": "coronavirus",
+      "type": "default",
+      "name": "Coronavirus",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/coronavirus/6283917/tweede-kamer-wil-poliklinieken-voor-langdurige-covid-kuipers-ziet-er-niks-in.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283925,
     "slug": "omwonende-filmt-hoe-cubaans-gebouw-instort",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Turnster Biles pakt goud met VS én verovert 20e wereldtitel, bijrol voor Nederland",
     "subtitle": null,
     "published_at": "2023-10-04T22:11:10+02:00",
-    "updated_at": "2023-10-04T22:13:03+02:00",
+    "updated_at": "2023-10-04T22:19:32+02:00",
     "media_id": "6udxphraa9m5",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6283900/caroline-van-eeden-deed-aangifte-tegen-familie-meiland-wegens-smaad-en-laster.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283871,
-    "slug": "prins-bernhard-was-lid-van-hitlers-partij-nsdap-zo-zit-dat",
-    "type": "article",
-    "title": "Prins Bernhard was lid van Hitlers partij NSDAP: zo zit dat",
-    "subtitle": "In 100 woorden",
-    "published_at": "2023-10-04T19:35:39+02:00",
-    "updated_at": "2023-10-04T19:35:40+02:00",
-    "media_id": "fu7xy81au7a4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6283871/prins-bernhard-was-lid-van-hitlers-partij-nsdap-zo-zit-dat.html",
     "open_new_window": false,
     "partner": null
   }
