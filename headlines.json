@@ -1,5 +1,74 @@
 [
   {
+    "id": 6283802,
+    "slug": "verdachte-van-antisemitische-projectie-op-anne-frank-huis-gaat-naar-rechter",
+    "type": "article",
+    "title": "Verdachte van antisemitische projectie op Anne Frank Huis gaat naar rechter",
+    "subtitle": null,
+    "published_at": "2023-10-05T05:08:04+02:00",
+    "updated_at": "2023-10-05T05:08:05+02:00",
+    "media_id": "mkux52la6ck6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6283802/verdachte-van-antisemitische-projectie-op-anne-frank-huis-gaat-naar-rechter.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283827,
+    "slug": "zo-word-je-nog-productiever-tijdens-thuiswerken",
+    "type": "article",
+    "title": "Zo word je (nog) productiever tijdens thuiswerken",
+    "subtitle": "NU+",
+    "published_at": "2023-10-05T05:06:46+02:00",
+    "updated_at": "2023-10-05T05:07:09+02:00",
+    "media_id": "sprxll9a9mjc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779236,
+      "slug": "nuverder",
+      "type": "default",
+      "name": "Dagelijks leven",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nuverder/6283827/zo-word-je-nog-productiever-tijdens-thuiswerken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283859,
+    "slug": "niet-alles-in-de-supermarkt-wordt-duurder-maar-de-pepernoot-wel",
+    "type": "article",
+    "title": "Niet alles in de supermarkt wordt duurder, maar de pepernoot wel",
+    "subtitle": null,
+    "published_at": "2023-10-05T05:05:49+02:00",
+    "updated_at": "2023-10-05T05:05:51+02:00",
+    "media_id": "r7axwj2ajayg",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6283859/niet-alles-in-de-supermarkt-wordt-duurder-maar-de-pepernoot-wel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283874,
     "slug": "verkoop-van-nieuwbouwhuizen-volledig-ingestort-in-tweede-kwartaal",
     "type": "article",
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6283918/rijksvoorlichtingsdienst-bevestigt-bestaan-nsdap-kaart-bernhard.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283914,
-    "slug": "cowboys-drijven-honderden-bizons-over-amerikaanse-heuvels",
-    "type": "video",
-    "title": "Cowboys drijven honderden bizons over Amerikaanse heuvels",
-    "subtitle": "Video",
-    "published_at": "2023-10-04T20:51:53+02:00",
-    "updated_at": "2023-10-04T20:58:51+02:00",
-    "media_id": "7c0xsfwak45q",
-    "duration": "0:48",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6283914/cowboys-drijven-honderden-bizons-over-amerikaanse-heuvels.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283912,
-    "slug": "fc-barcelona-nog-foutloos-in-cl-na-zege-op-porto-shakhtar-wint-van-antwerp",
-    "type": "article",
-    "title": "FC Barcelona nog foutloos in CL na zege op Porto, Shakhtar wint van Antwerp",
-    "subtitle": null,
-    "published_at": "2023-10-04T20:46:15+02:00",
-    "updated_at": "2023-10-05T01:16:55+02:00",
-    "media_id": "ddaxhcwajzxq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6283912/fc-barcelona-nog-foutloos-in-cl-na-zege-op-porto-shakhtar-wint-van-antwerp.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283911,
-    "slug": "feyenoord-geeft-voorsprong-tegen-atletico-twee-keer-uit-handen-en-verliest-in-cl",
-    "type": "article",
-    "title": "Feyenoord geeft voorsprong tegen Atlético twee keer uit handen en verliest in CL",
-    "subtitle": null,
-    "published_at": "2023-10-04T20:43:03+02:00",
-    "updated_at": "2023-10-05T00:48:46+02:00",
-    "media_id": "xtsxe7qaaly0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6283911/feyenoord-geeft-voorsprong-tegen-atletico-twee-keer-uit-handen-en-verliest-in-cl.html",
     "open_new_window": false,
     "partner": null
   }
