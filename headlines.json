@@ -1,5 +1,51 @@
 [
   {
+    "id": 6282631,
+    "slug": "aek-spits-van-weert-zit-tegen-jeugdliefde-op-tribune-wordt-pittig-voor-ajax",
+    "type": "article",
+    "title": "AEK-spits Van Weert zit tegen jeugdliefde op tribune: 'Wordt pittig voor Ajax'",
+    "subtitle": null,
+    "published_at": "2023-10-05T05:17:07+02:00",
+    "updated_at": "2023-10-05T05:17:08+02:00",
+    "media_id": "ay1xo0ba7jvb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6282631/aek-spits-van-weert-zit-tegen-jeugdliefde-op-tribune-wordt-pittig-voor-ajax.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6283932,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-10-05T05:14:25+02:00",
+    "updated_at": "2023-10-05T05:14:26+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6283932/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283802,
     "slug": "verdachte-van-antisemitische-projectie-op-anne-frank-huis-gaat-naar-rechter",
     "type": "article",
@@ -351,7 +397,7 @@
     "title": "21 doden busongeluk bij Venetië komen uit zeven landen",
     "subtitle": null,
     "published_at": "2023-10-04T22:07:48+02:00",
-    "updated_at": "2023-10-04T22:12:37+02:00",
+    "updated_at": "2023-10-05T05:15:29+02:00",
     "media_id": "eydx12oakvzd",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6283921/samenvatting-atletico-feyenoord-3-2.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283920,
-    "slug": "feyenoorder-zerrouki-put-ondanks-nederlaag-vertrouwen-uit-duel-met-atletico",
-    "type": "article",
-    "title": "Feyenoorder Zerrouki put ondanks nederlaag vertrouwen uit duel met Atlético",
-    "subtitle": null,
-    "published_at": "2023-10-04T21:34:39+02:00",
-    "updated_at": "2023-10-05T01:05:41+02:00",
-    "media_id": "5fhxhv8asbu6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6283920/feyenoorder-zerrouki-put-ondanks-nederlaag-vertrouwen-uit-duel-met-atletico.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283918,
-    "slug": "rijksvoorlichtingsdienst-bevestigt-bestaan-nsdap-kaart-bernhard",
-    "type": "article",
-    "title": "Rijksvoorlichtingsdienst bevestigt bestaan NSDAP-kaart Bernhard",
-    "subtitle": null,
-    "published_at": "2023-10-04T21:24:30+02:00",
-    "updated_at": "2023-10-04T23:26:37+02:00",
-    "media_id": "uhnx1y7amww4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6283918/rijksvoorlichtingsdienst-bevestigt-bestaan-nsdap-kaart-bernhard.html",
     "open_new_window": false,
     "partner": null
   }
