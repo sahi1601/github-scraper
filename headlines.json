@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284083,
+    "slug": "bergwijn-baalt-van-gelijkspel-ajax-miste-in-de-eindfase-scherpte-en-geluk",
+    "type": "article",
+    "title": "Bergwijn baalt van gelijkspel Ajax: 'Miste in de eindfase scherpte en geluk'",
+    "subtitle": null,
+    "published_at": "2023-10-05T21:40:24+02:00",
+    "updated_at": "2023-10-05T21:40:25+02:00",
+    "media_id": "xvbxim7a7jnn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6284083/bergwijn-baalt-van-gelijkspel-ajax-miste-in-de-eindfase-scherpte-en-geluk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284073,
     "slug": "biden-niet-enige-die-zn-hond-niet-aankan-herder-is-niet-zomaar-een-hond",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Nietig Klaksvík uit Faeröer schrijft opnieuw historie, Atalanta wint ook bij Sporting",
     "subtitle": null,
     "published_at": "2023-10-05T20:55:19+02:00",
-    "updated_at": "2023-10-05T21:15:02+02:00",
+    "updated_at": "2023-10-05T21:30:50+02:00",
     "media_id": "3yfxnw2apyj3",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Ajax geeft ook bij AEK zege uit handen door doelpunt 'knipoog-Kroaat' Vida",
     "subtitle": null,
     "published_at": "2023-10-05T20:40:33+02:00",
-    "updated_at": "2023-10-05T21:20:26+02:00",
+    "updated_at": "2023-10-05T21:36:23+02:00",
     "media_id": "73xxssia2xvo",
     "duration": null,
     "canonical_section": {
@@ -323,12 +346,12 @@
   },
   {
     "id": 6284034,
-    "slug": "tamme-start-az-tegen-legia-warschau-in-conference-league",
+    "slug": "az-en-legia-warschau-zorgen-voor-weinig-spektakel-in-conference-league",
     "type": "article",
-    "title": "Tamme start AZ tegen Legia Warschau in Conference League",
+    "title": "AZ en Legia Warschau zorgen voor weinig spektakel in Conference League",
     "subtitle": "Liveblog",
     "published_at": "2023-10-05T17:37:58+02:00",
-    "updated_at": "2023-10-05T21:22:07+02:00",
+    "updated_at": "2023-10-05T21:41:23+02:00",
     "media_id": "j6wxo1oatyth",
     "duration": null,
     "canonical_section": {
@@ -340,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6284034/tamme-start-az-tegen-legia-warschau-in-conference-league.html",
+    "url": "/voetbal/6284034/az-en-legia-warschau-zorgen-voor-weinig-spektakel-in-conference-league.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6284038/valencia-verbaasd-over-verklaring-vinicius-over-racisme-ongefundeerde-leugens.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284025,
-    "slug": "wat-wil-jij-nog-weten-over-de-oorlog-in-oekraine-stel-je-vragen-hier",
-    "type": "article",
-    "title": "Wat wil jij nog weten over de oorlog in Oekraïne? Stel je vragen hier",
-    "subtitle": "Oproep",
-    "published_at": "2023-10-05T17:06:54+02:00",
-    "updated_at": "2023-10-05T17:06:55+02:00",
-    "media_id": "m7fx16bangt5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779137,
-      "slug": "vragenoproep",
-      "type": "default",
-      "name": "Oproep",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/vragenoproep/6284025/wat-wil-jij-nog-weten-over-de-oorlog-in-oekraine-stel-je-vragen-hier.html",
     "open_new_window": false,
     "partner": null
   }
