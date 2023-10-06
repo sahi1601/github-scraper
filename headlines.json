@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284107,
+    "slug": "viertal-paris-saint-germain-voor-een-duel-geschorst-wegens-beledigende-liederen",
+    "type": "article",
+    "title": "Viertal Paris Saint-Germain voor één duel geschorst wegens beledigende liederen",
+    "subtitle": null,
+    "published_at": "2023-10-06T08:32:22+02:00",
+    "updated_at": "2023-10-06T08:35:14+02:00",
+    "media_id": "6xjxvwka1er0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6284107/viertal-paris-saint-germain-voor-een-duel-geschorst-wegens-beledigende-liederen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284105,
     "slug": "brobbey-wil-snel-op-bezoek-bij-rkc-keeper-vaessen-hij-stuurde-een-lief-berichtje",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Ajax krijgt 'gratis laserbehandeling' in Athene: 'Ze stoppen er toch niet mee'",
     "subtitle": null,
     "published_at": "2023-10-06T07:36:18+02:00",
-    "updated_at": "2023-10-06T08:05:42+02:00",
+    "updated_at": "2023-10-06T08:34:35+02:00",
     "media_id": "2g1xk5ra0s9u",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6283816/bende-rond-anouar-taghi-niet-alleen-in-beeld-bij-moord-op-derk-wiersum.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284082,
-    "slug": "zeker-honderd-doden-bij-droneaanval-op-militaire-academie-in-syrie",
-    "type": "article",
-    "title": "Zeker honderd doden bij droneaanval op militaire academie in Syrië",
-    "subtitle": null,
-    "published_at": "2023-10-06T00:06:48+02:00",
-    "updated_at": "2023-10-06T00:06:50+02:00",
-    "media_id": "z1yxkweaf8a7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6284082/zeker-honderd-doden-bij-droneaanval-op-militaire-academie-in-syrie.html",
     "open_new_window": false,
     "partner": null
   }
