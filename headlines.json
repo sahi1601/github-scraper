@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284210,
+    "slug": "verstappen-staat-voor-belangrijke-vrije-training-in-qatar",
+    "type": "article",
+    "title": "Verstappen staat voor belangrijke vrije training in Qatar",
+    "subtitle": "Liveblog",
+    "published_at": "2023-10-06T15:19:33+02:00",
+    "updated_at": "2023-10-06T15:19:34+02:00",
+    "media_id": "46axclrawkzd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6284210/verstappen-staat-voor-belangrijke-vrije-training-in-qatar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284207,
     "slug": "nederlandse-journalist-moest-via-raam-naar-buiten-na-inslag-in-kharkiv",
     "type": "video",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6284199,
-    "slug": "polen-start-onderzoek-naar-nederlandse-politie-legia-spelers-verdacht-van-mishandelen-az-personeel",
+    "slug": "polen-start-onderzoek-naar-politie-legia-spelers-verdacht-van-mishandelen-az-personeel",
     "type": "article",
-    "title": "Polen start onderzoek naar Nederlandse politie, Legia-spelers verdacht van mishandelen AZ-personeel",
+    "title": "Polen start onderzoek naar politie, Legia-spelers verdacht van mishandelen AZ-personeel",
     "subtitle": null,
     "published_at": "2023-10-06T15:04:18+02:00",
-    "updated_at": "2023-10-06T15:10:25+02:00",
+    "updated_at": "2023-10-06T15:21:27+02:00",
     "media_id": "0e6x19ja2o8s",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6284199/polen-start-onderzoek-naar-nederlandse-politie-legia-spelers-verdacht-van-mishandelen-az-personeel.html",
+    "url": "/voetbal/6284199/polen-start-onderzoek-naar-politie-legia-spelers-verdacht-van-mishandelen-az-personeel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Twijfels over lozingsvergunning van Tata, Shell en Dow Chemical",
     "subtitle": null,
     "published_at": "2023-10-06T13:08:27+02:00",
-    "updated_at": "2023-10-06T14:23:58+02:00",
+    "updated_at": "2023-10-06T15:17:19+02:00",
     "media_id": "fs2x1onaotic",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6284161/hamilton-looft-verstappen-in-aanloop-naar-derde-titel-lat-is-nog-hoger-gelegd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284160,
-    "slug": "verdachte-opgepakt-vanwege-betrokkenheid-bij-drie-steekincidenten-utrecht",
-    "type": "article",
-    "title": "Verdachte opgepakt vanwege betrokkenheid bij drie steekincidenten Utrecht",
-    "subtitle": null,
-    "published_at": "2023-10-06T12:15:46+02:00",
-    "updated_at": "2023-10-06T12:15:47+02:00",
-    "media_id": "886x1sqaes5i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6284160/verdachte-opgepakt-vanwege-betrokkenheid-bij-drie-steekincidenten-utrecht.html",
     "open_new_window": false,
     "partner": null
   }
