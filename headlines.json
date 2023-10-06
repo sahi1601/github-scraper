@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284114,
+    "slug": "popicoon-paul-young-verloofd-met-vriendin-lorna",
+    "type": "article",
+    "title": "Popicoon Paul Young verloofd met vriendin Lorna",
+    "subtitle": null,
+    "published_at": "2023-10-06T09:28:49+02:00",
+    "updated_at": "2023-10-06T09:37:42+02:00",
+    "media_id": "x3jxf4yanazt",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6284114/popicoon-paul-young-verloofd-met-vriendin-lorna.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284108,
     "slug": "gravenberch-krijgt-staande-ovatie-bij-liverpool-overduidelijk-hoe-goed-hij-is",
     "type": "article",
@@ -213,7 +236,7 @@
     "title": "Jason Derulo aangeklaagd voor grensoverschrijdend gedrag",
     "subtitle": null,
     "published_at": "2023-10-06T07:26:33+02:00",
-    "updated_at": "2023-10-06T07:52:58+02:00",
+    "updated_at": "2023-10-06T09:34:10+02:00",
     "media_id": "97sxa3taobcw",
     "duration": null,
     "canonical_section": {
@@ -323,12 +346,12 @@
   },
   {
     "id": 6284096,
-    "slug": "arrestaties-en-botsing-tussen-me-en-legia-voorzitter-bij-spelersbus-na-duel-met-az",
+    "slug": "onrust-rond-spelersbus-legia-na-duel-met-az-mogelijk-twee-spelers-gearresteerd",
     "type": "article",
-    "title": "Arrestaties en botsing tussen ME en Legia-voorzitter bij spelersbus na duel met AZ",
+    "title": "Onrust rond spelersbus Legia na duel met AZ, mogelijk twee spelers gearresteerd",
     "subtitle": null,
     "published_at": "2023-10-06T06:14:32+02:00",
-    "updated_at": "2023-10-06T09:20:27+02:00",
+    "updated_at": "2023-10-06T09:41:05+02:00",
     "media_id": "1xuxk99a1y2m",
     "duration": null,
     "canonical_section": {
@@ -340,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport/6284096/arrestaties-en-botsing-tussen-me-en-legia-voorzitter-bij-spelersbus-na-duel-met-az.html",
+    "url": "/sport/6284096/onrust-rond-spelersbus-legia-na-duel-met-az-mogelijk-twee-spelers-gearresteerd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6284050/hoe-cruijff-en-totaalcricket-nederland-moeten-helpen-aan-wk-stunt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283970,
-    "slug": "er-is-geen-griepepidemie-waarom-lijkt-het-dan-wel-zo",
-    "type": "article",
-    "title": "Er is geen griepepidemie, waarom lijkt het dan wel zo?",
-    "subtitle": "In 100 woorden",
-    "published_at": "2023-10-06T05:12:35+02:00",
-    "updated_at": "2023-10-06T06:54:47+02:00",
-    "media_id": "na3xqmja4bug",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6283970/er-is-geen-griepepidemie-waarom-lijkt-het-dan-wel-zo.html",
     "open_new_window": false,
     "partner": null
   }
