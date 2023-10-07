@@ -1,12 +1,35 @@
 [
   {
+    "id": 6284288,
+    "slug": "tientallen-raketten-vanuit-gazastrook-afgevuurd-op-israel",
+    "type": "video",
+    "title": "Tientallen raketten vanuit Gazastrook afgevuurd op Israël",
+    "subtitle": "Video",
+    "published_at": "2023-10-07T08:42:17+02:00",
+    "updated_at": "2023-10-07T08:42:18+02:00",
+    "media_id": "49rxpmmanabw",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6284288/tientallen-raketten-vanuit-gazastrook-afgevuurd-op-israel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284208,
-    "slug": "voor-evenementen-op-begraafplaatsen-mag-nooit-toestemming-worden-gegeven",
+    "slug": "geef-nooit-toestemming-voor-evenementen-op-begraafplaatsen",
     "type": "article",
-    "title": "'Voor evenementen op begraafplaatsen mag nooit toestemming worden gegeven'",
+    "title": "'Geef nooit toestemming voor evenementen op begraafplaatsen'",
     "subtitle": "Stelling",
     "published_at": "2023-10-07T08:20:25+02:00",
-    "updated_at": "2023-10-07T08:20:27+02:00",
+    "updated_at": "2023-10-07T08:33:08+02:00",
     "media_id": "x3zxcyjay1lc",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/stelling/6284208/voor-evenementen-op-begraafplaatsen-mag-nooit-toestemming-worden-gegeven.html",
+    "url": "/stelling/6284208/geef-nooit-toestemming-voor-evenementen-op-begraafplaatsen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Israël getroffen door vele tientallen raketten uit de Gazastrook",
     "subtitle": null,
     "published_at": "2023-10-07T07:24:46+02:00",
-    "updated_at": "2023-10-07T07:58:02+02:00",
+    "updated_at": "2023-10-07T08:32:42+02:00",
     "media_id": "410x2d5amifa",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6284221,
-    "slug": "bizarre-cijfers-dit-is-het-effect-van-taylor-swifts-dateleven-op-de-nfl",
+    "slug": "date-van-taylor-swift-vindt-alle-aandacht-nu-wel-ver-gaan-zo-zit-het",
     "type": "video",
-    "title": "Bizarre cijfers: dit is het effect van Taylor Swifts dateleven op de NFL",
+    "title": "Date van Taylor Swift vindt alle aandacht nu wel ver gaan: zo zit het",
     "subtitle": "Explainer",
     "published_at": "2023-10-07T06:56:03+02:00",
-    "updated_at": "2023-10-07T06:56:05+02:00",
+    "updated_at": "2023-10-07T08:27:16+02:00",
     "media_id": "wqrxcw6at5dc",
     "duration": "2:27",
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6284221/bizarre-cijfers-dit-is-het-effect-van-taylor-swifts-dateleven-op-de-nfl.html",
+    "url": "/algemeen/6284221/date-van-taylor-swift-vindt-alle-aandacht-nu-wel-ver-gaan-zo-zit-het.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Tijd dringt voor Ten Hag: 'Ajax-voetbal hebben we nog amper gezien'",
     "subtitle": "NU+",
     "published_at": "2023-10-07T05:21:21+02:00",
-    "updated_at": "2023-10-07T05:27:15+02:00",
+    "updated_at": "2023-10-07T08:35:07+02:00",
     "media_id": "3pdxt4pa0kwa",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6284275/dnb-baas-knot-bekritiseert-europese-overheden-die-te-makkelijk-geld-uitgeven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284273,
-    "slug": "miss-portugal-voor-het-eerst-een-transgendervrouw",
-    "type": "article",
-    "title": "Miss Portugal voor het eerst een transgendervrouw",
-    "subtitle": null,
-    "published_at": "2023-10-06T22:47:02+02:00",
-    "updated_at": "2023-10-07T00:31:33+02:00",
-    "media_id": "vrixaoda9bag",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6284273/miss-portugal-voor-het-eerst-een-transgendervrouw.html",
     "open_new_window": false,
     "partner": null
   }
