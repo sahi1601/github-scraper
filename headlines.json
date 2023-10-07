@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284208,
+    "slug": "voor-evenementen-op-begraafplaatsen-mag-nooit-toestemming-worden-gegeven",
+    "type": "article",
+    "title": "'Voor evenementen op begraafplaatsen mag nooit toestemming worden gegeven'",
+    "subtitle": "Stelling",
+    "published_at": "2023-10-07T08:20:25+02:00",
+    "updated_at": "2023-10-07T08:20:27+02:00",
+    "media_id": "x3zxcyjay1lc",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6284208/voor-evenementen-op-begraafplaatsen-mag-nooit-toestemming-worden-gegeven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284062,
     "slug": "de-charme-van-gravel-ook-van-aert-moet-een-band-kunnen-pluggen",
     "type": "article",
@@ -139,12 +162,12 @@
   },
   {
     "id": 6284281,
-    "slug": "zes-verdachten-van-moord-op-presidentskandidaat-ecuador-overleden-in-cel",
+    "slug": "zes-verdachten-van-moord-op-presidentskandidaat-ecuador-omgebracht-in-cel",
     "type": "article",
-    "title": "Zes verdachten van moord op presidentskandidaat Ecuador overleden in cel",
+    "title": "Zes verdachten van moord op presidentskandidaat Ecuador omgebracht in cel",
     "subtitle": null,
     "published_at": "2023-10-07T05:43:33+02:00",
-    "updated_at": "2023-10-07T05:43:34+02:00",
+    "updated_at": "2023-10-07T08:17:38+02:00",
     "media_id": "8c5x9kmay5ea",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6284281/zes-verdachten-van-moord-op-presidentskandidaat-ecuador-overleden-in-cel.html",
+    "url": "/buitenland/6284281/zes-verdachten-van-moord-op-presidentskandidaat-ecuador-omgebracht-in-cel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Gaat Badr Hari dan eindelijk winnen? Dit staat er voor hem op het spel",
     "subtitle": "NU+",
     "published_at": "2023-10-07T05:22:11+02:00",
-    "updated_at": "2023-10-07T05:22:53+02:00",
+    "updated_at": "2023-10-07T08:25:27+02:00",
     "media_id": "qjrx600a2y3c",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6284273/miss-portugal-voor-het-eerst-een-transgendervrouw.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284271,
-    "slug": "vikingen-minder-barbaars-dan-gedacht-hadden-al-glazen-ramen",
-    "type": "article",
-    "title": "Vikingen minder barbaars dan gedacht: hadden al glazen ramen",
-    "subtitle": null,
-    "published_at": "2023-10-06T22:39:06+02:00",
-    "updated_at": "2023-10-06T22:39:08+02:00",
-    "media_id": "nhpxnipalfmh",
-    "duration": null,
-    "canonical_section": {
-      "id": 478878,
-      "slug": "wetenschap",
-      "type": "default",
-      "name": "Wetenschap",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wetenschap/6284271/vikingen-minder-barbaars-dan-gedacht-hadden-al-glazen-ramen.html",
     "open_new_window": false,
     "partner": null
   }
