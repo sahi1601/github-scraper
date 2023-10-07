@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284338,
+    "slug": "van-de-ven-helpt-tiental-spurs-met-eerste-goal-langs-promovendus-luton",
+    "type": "article",
+    "title": "Van de Ven helpt tiental Spurs met eerste goal langs promovendus Luton",
+    "subtitle": null,
+    "published_at": "2023-10-07T15:29:58+02:00",
+    "updated_at": "2023-10-07T15:33:56+02:00",
+    "media_id": "bmoxka9a21ho",
+    "duration": null,
+    "canonical_section": {
+      "id": 149,
+      "slug": "sport",
+      "type": "default",
+      "name": "Sport",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport/6284338/van-de-ven-helpt-tiental-spurs-met-eerste-goal-langs-promovendus-luton.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6283649,
     "slug": "thuisaccus-kunnen-helpen-tegen-vol-stroomnet-maar-niet-zonder-risicos",
     "type": "article",
@@ -24,13 +47,13 @@
   },
   {
     "id": 6284336,
-    "slug": "verstappen-jaagt-in-sprintkwalificatie-op-goede-uitgangspositie-in-qatar",
+    "slug": "russell-sneller-dan-verstappen-in-q1-sprint-shootout-stroll-valt-weer-af",
     "type": "article",
-    "title": "Verstappen jaagt in sprintkwalificatie op goede uitgangspositie in Qatar",
+    "title": "Russell sneller dan Verstappen in Q1 sprint shootout, Stroll valt weer af",
     "subtitle": "Liveblog",
     "published_at": "2023-10-07T14:49:36+02:00",
-    "updated_at": "2023-10-07T15:23:48+02:00",
-    "media_id": "aymxh9ma0m92",
+    "updated_at": "2023-10-07T15:37:08+02:00",
+    "media_id": "pymxf0iapf3k",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6284336/verstappen-jaagt-in-sprintkwalificatie-op-goede-uitgangspositie-in-qatar.html",
+    "url": "/formule-1/6284336/russell-sneller-dan-verstappen-in-q1-sprint-shootout-stroll-valt-weer-af.html",
     "open_new_window": false,
     "partner": null
   },
@@ -70,12 +93,12 @@
   },
   {
     "id": 6284332,
-    "slug": "zeker-40-israeliers-en-160-palestijnen-gedood-bij-ongekende-geweldsexplosie",
+    "slug": "zeker-honderden-doden-bij-ongekende-geweldsexplosie-in-israel-en-gazastrook",
     "type": "article",
-    "title": "Zeker 40 Israëliërs en 160 Palestijnen gedood bij ongekende geweldsexplosie",
+    "title": "Zeker honderden doden bij ongekende geweldsexplosie in Israël en Gazastrook",
     "subtitle": null,
     "published_at": "2023-10-07T14:15:24+02:00",
-    "updated_at": "2023-10-07T15:06:49+02:00",
+    "updated_at": "2023-10-07T15:31:08+02:00",
     "media_id": "qskx4g2a6wd5",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/midden-oostenconflict/6284332/zeker-40-israeliers-en-160-palestijnen-gedood-bij-ongekende-geweldsexplosie.html",
+    "url": "/midden-oostenconflict/6284332/zeker-honderden-doden-bij-ongekende-geweldsexplosie-in-israel-en-gazastrook.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6284195/het-internet-raakt-niet-uitgepraat-over-de-beckhams-na-documentaire.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284291,
-    "slug": "israelische-tank-in-brand-bij-palestijnse-grens",
-    "type": "video",
-    "title": "Israëlische tank in brand bij Palestijnse grens",
-    "subtitle": "Video",
-    "published_at": "2023-10-07T10:19:15+02:00",
-    "updated_at": "2023-10-07T10:23:23+02:00",
-    "media_id": "puuxqsia0m8k",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6284291/israelische-tank-in-brand-bij-palestijnse-grens.html",
     "open_new_window": false,
     "partner": null
   }
