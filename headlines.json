@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284281,
+    "slug": "zes-verdachten-van-moord-op-presidentskandidaat-ecuador-overleden-in-cel",
+    "type": "article",
+    "title": "Zes verdachten van moord op presidentskandidaat Ecuador overleden in cel",
+    "subtitle": null,
+    "published_at": "2023-10-07T05:43:33+02:00",
+    "updated_at": "2023-10-07T05:43:34+02:00",
+    "media_id": "8c5x9kmay5ea",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6284281/zes-verdachten-van-moord-op-presidentskandidaat-ecuador-overleden-in-cel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284043,
     "slug": "gaat-badr-hari-dan-eindelijk-winnen-dit-staat-er-voor-hem-op-het-spel",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6284248,
-    "slug": "tijd-dringt-voor-ten-hag-bij-united-ajax-voetbal-hebben-we-nog-amper-gezien",
+    "slug": "tijd-dringt-voor-ten-hag-ajax-voetbal-hebben-we-nog-amper-gezien",
     "type": "article",
-    "title": "Tijd dringt voor Ten Hag bij United: 'Ajax-voetbal hebben we nog amper gezien'",
+    "title": "Tijd dringt voor Ten Hag: 'Ajax-voetbal hebben we nog amper gezien'",
     "subtitle": "NU+",
     "published_at": "2023-10-07T05:21:21+02:00",
-    "updated_at": "2023-10-07T05:21:22+02:00",
+    "updated_at": "2023-10-07T05:27:15+02:00",
     "media_id": "3pdxt4pa0kwa",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6284248/tijd-dringt-voor-ten-hag-bij-united-ajax-voetbal-hebben-we-nog-amper-gezien.html",
+    "url": "/voetbal/6284248/tijd-dringt-voor-ten-hag-ajax-voetbal-hebben-we-nog-amper-gezien.html",
     "open_new_window": false,
     "partner": null
   },
@@ -323,12 +346,12 @@
   },
   {
     "id": 6284272,
-    "slug": "kwakzalversprijs-naar-tijdschrift-linda-om-betreurenswaardige-mix-van-stukken",
+    "slug": "tijdschrift-linda-krijgt-kwakzalversprijs-zinloze-fopbehandelingen",
     "type": "article",
-    "title": "Kwakzalversprijs naar tijdschrift LINDA. om 'betreurenswaardige mix' van stukken",
+    "title": "Tijdschrift LINDA. krijgt kwakzalversprijs: 'zinloze fopbehandelingen'",
     "subtitle": null,
     "published_at": "2023-10-06T22:04:41+02:00",
-    "updated_at": "2023-10-06T22:59:53+02:00",
+    "updated_at": "2023-10-07T05:36:15+02:00",
     "media_id": "1ybxr01anrzw",
     "duration": null,
     "canonical_section": {
@@ -340,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/entertainment/6284272/kwakzalversprijs-naar-tijdschrift-linda-om-betreurenswaardige-mix-van-stukken.html",
+    "url": "/entertainment/6284272/tijdschrift-linda-krijgt-kwakzalversprijs-zinloze-fopbehandelingen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6284267/martens-helpt-psg-met-assist-kalma-bekroont-basisdebuut-met-winnende-goal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284229,
-    "slug": "opnieuw-aanvallen-bij-kharkiv-nieuw-nederlands-steunpakket",
-    "type": "article",
-    "title": "Opnieuw aanvallen bij Kharkiv, nieuw Nederlands steunpakket",
-    "subtitle": "Overzicht",
-    "published_at": "2023-10-06T21:43:07+02:00",
-    "updated_at": "2023-10-06T21:47:12+02:00",
-    "media_id": "p2gxcl7a3gme",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6284229/opnieuw-aanvallen-bij-kharkiv-nieuw-nederlands-steunpakket.html",
     "open_new_window": false,
     "partner": null
   }
