@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284282,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-10-07T05:48:38+02:00",
+    "updated_at": "2023-10-07T05:48:40+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6284282/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284281,
     "slug": "zes-verdachten-van-moord-op-presidentskandidaat-ecuador-overleden-in-cel",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6284268/biles-pakt-ook-goud-op-meerkamp-en-is-succesvolste-turner-ooit-op-wk-en-spelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284267,
-    "slug": "martens-helpt-psg-met-assist-kalma-bekroont-basisdebuut-met-winnende-goal",
-    "type": "article",
-    "title": "Martens helpt PSG met assist, Kalma bekroont basisdebuut met winnende goal",
-    "subtitle": null,
-    "published_at": "2023-10-06T21:46:44+02:00",
-    "updated_at": "2023-10-06T21:57:43+02:00",
-    "media_id": "qegxl9gah0pf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6284267/martens-helpt-psg-met-assist-kalma-bekroont-basisdebuut-met-winnende-goal.html",
     "open_new_window": false,
     "partner": null
   }
