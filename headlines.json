@@ -1,5 +1,74 @@
 [
   {
+    "id": 6284364,
+    "slug": "heerenveen-maakt-met-gelijkspel-tegen-nec-einde-aan-reeks-nederlagen",
+    "type": "article",
+    "title": "Heerenveen maakt met gelijkspel tegen NEC einde aan reeks nederlagen",
+    "subtitle": null,
+    "published_at": "2023-10-07T18:37:37+02:00",
+    "updated_at": "2023-10-07T18:44:02+02:00",
+    "media_id": "spaxcria1oly",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6284364/heerenveen-maakt-met-gelijkspel-tegen-nec-einde-aan-reeks-nederlagen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284339,
+    "slug": "verstappen-dicht-bij-derde-titel-hoeveel-kan-hij-er-nog-winnen",
+    "type": "article",
+    "title": "Verstappen dicht bij derde titel: hoeveel kan hij er nog winnen?",
+    "subtitle": null,
+    "published_at": "2023-10-07T18:30:52+02:00",
+    "updated_at": "2023-10-07T18:30:53+02:00",
+    "media_id": "vcfxfewaok6h",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6284339/verstappen-dicht-bij-derde-titel-hoeveel-kan-hij-er-nog-winnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284359,
+    "slug": "zirkzee-schiet-bologna-naar-gelijkspel-tegen-koploper-internazionale",
+    "type": "article",
+    "title": "Zirkzee schiet Bologna naar gelijkspel tegen koploper Internazionale",
+    "subtitle": null,
+    "published_at": "2023-10-07T18:30:24+02:00",
+    "updated_at": "2023-10-07T18:41:12+02:00",
+    "media_id": "r66xg65a3vtz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6284359/zirkzee-schiet-bologna-naar-gelijkspel-tegen-koploper-internazionale.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284361,
     "slug": "mercurius-de-kleinste-planeet-in-zonnestelsel-wordt-nog-steeds-kleiner",
     "type": "article",
@@ -98,7 +167,7 @@
     "title": "Simons mist penalty bij gelijkspel Leipzig, Malen met Dortmund langs Union",
     "subtitle": null,
     "published_at": "2023-10-07T17:35:44+02:00",
-    "updated_at": "2023-10-07T17:41:18+02:00",
+    "updated_at": "2023-10-07T18:37:28+02:00",
     "media_id": "96xx57oac1ss",
     "duration": null,
     "canonical_section": {
@@ -300,13 +369,13 @@
   },
   {
     "id": 6284341,
-    "slug": "heerenveen-en-nec-stevenen-af-op-gelijkspel-in-friesland",
+    "slug": "almere-city-en-rkc-warmen-op-houwen-vervangt-vaessen-onder-de-lat",
     "type": "article",
-    "title": "Heerenveen en NEC stevenen af op gelijkspel in Friesland",
+    "title": "Almere City en RKC warmen op, Houwen vervangt Vaessen onder de lat",
     "subtitle": "Liveblog",
     "published_at": "2023-10-07T16:01:34+02:00",
-    "updated_at": "2023-10-07T18:18:20+02:00",
-    "media_id": "fb3x1gzait67",
+    "updated_at": "2023-10-07T18:29:26+02:00",
+    "media_id": "p6rxmhdanrq8",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -317,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6284341/heerenveen-en-nec-stevenen-af-op-gelijkspel-in-friesland.html",
+    "url": "/voetbal/6284341/almere-city-en-rkc-warmen-op-houwen-vervangt-vaessen-onder-de-lat.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +420,7 @@
     "title": "Van de Ven schiet Spurs naar winst, Chelsea simpel langs Burnley",
     "subtitle": null,
     "published_at": "2023-10-07T15:29:58+02:00",
-    "updated_at": "2023-10-07T18:26:14+02:00",
+    "updated_at": "2023-10-07T18:29:35+02:00",
     "media_id": "bmoxka9a21ho",
     "duration": null,
     "canonical_section": {
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/tech/6283649/thuisaccus-kunnen-helpen-tegen-vol-stroomnet-maar-niet-zonder-risicos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284336,
-    "slug": "aftellen-naar-kampioensrace-verstappen-in-qatar",
-    "type": "article",
-    "title": "Aftellen naar kampioensrace Verstappen in Qatar",
-    "subtitle": "Liveblog",
-    "published_at": "2023-10-07T14:49:36+02:00",
-    "updated_at": "2023-10-07T16:52:27+02:00",
-    "media_id": "qrxxlnna4mt4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6284336/aftellen-naar-kampioensrace-verstappen-in-qatar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284325,
-    "slug": "amerikaanse-douane-onderschept-giraffenpoep-die-voor-sieraden-bestemd-was",
-    "type": "article",
-    "title": "Amerikaanse douane onderschept giraffenpoep die voor sieraden bestemd was",
-    "subtitle": null,
-    "published_at": "2023-10-07T14:44:11+02:00",
-    "updated_at": "2023-10-07T14:53:37+02:00",
-    "media_id": "op6xob4aasgb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6284325/amerikaanse-douane-onderschept-giraffenpoep-die-voor-sieraden-bestemd-was.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284332,
-    "slug": "zeker-honderden-doden-bij-ongekende-geweldsexplosie-in-israel-en-gazastrook",
-    "type": "article",
-    "title": "Zeker honderden doden bij ongekende geweldsexplosie in Israël en Gazastrook",
-    "subtitle": null,
-    "published_at": "2023-10-07T14:15:24+02:00",
-    "updated_at": "2023-10-07T17:59:29+02:00",
-    "media_id": "t0vx0rha9oy3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Gazaconflict",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6284332/zeker-honderden-doden-bij-ongekende-geweldsexplosie-in-israel-en-gazastrook.html",
     "open_new_window": false,
     "partner": null
   }
