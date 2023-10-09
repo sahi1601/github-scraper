@@ -1,5 +1,51 @@
 [
   {
+    "id": 6284575,
+    "slug": "giro-gaat-in-2024-exact-75-jaar-na-fataal-vliegtuigongeluk-van-start-in-turijn",
+    "type": "article",
+    "title": "Giro gaat in 2024 exact 75 jaar na fataal vliegtuigongeluk van start in Turijn",
+    "subtitle": null,
+    "published_at": "2023-10-09T15:27:45+02:00",
+    "updated_at": "2023-10-09T15:27:47+02:00",
+    "media_id": "murx8g2a30tx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6284575/giro-gaat-in-2024-exact-75-jaar-na-fataal-vliegtuigongeluk-van-start-in-turijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284578,
+    "slug": "sc-cambuur-ontslaat-trainer-sjors-ultee-per-direct-vanwege-slechte-resultaten",
+    "type": "article",
+    "title": "SC Cambuur ontslaat trainer Sjors Ultee per direct vanwege slechte resultaten",
+    "subtitle": null,
+    "published_at": "2023-10-09T15:19:37+02:00",
+    "updated_at": "2023-10-09T15:19:38+02:00",
+    "media_id": "9ctxrlga7nof",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6284578/sc-cambuur-ontslaat-trainer-sjors-ultee-per-direct-vanwege-slechte-resultaten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284577,
     "slug": "drone-filmt-festivalterrein-in-israel-na-dodelijke-aanval-hamas",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "Wereldkampioenen over wereldkampioen Verstappen: 'Hij is als Cruijff'",
     "subtitle": "NU+",
     "published_at": "2023-10-09T15:09:43+02:00",
-    "updated_at": "2023-10-09T15:16:50+02:00",
+    "updated_at": "2023-10-09T15:27:23+02:00",
     "media_id": "61lx7vbach31",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Van der Vaart bedankt 'met pijn in het hart' voor rol als assistent bij Ajax",
     "subtitle": null,
     "published_at": "2023-10-09T13:50:09+02:00",
-    "updated_at": "2023-10-09T14:47:42+02:00",
+    "updated_at": "2023-10-09T15:21:23+02:00",
     "media_id": "8lnxuifaqgfy",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6284545/wietze-de-jager-voor-de-vierde-keer-vader-geworden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284548,
-    "slug": "koeman-mist-ook-berghuis-bij-oranje-en-roept-maatsen-op-koopmeiners-onzeker",
-    "type": "article",
-    "title": "Koeman mist ook Berghuis bij Oranje en roept Maatsen op, Koopmeiners onzeker",
-    "subtitle": null,
-    "published_at": "2023-10-09T12:15:34+02:00",
-    "updated_at": "2023-10-09T14:52:51+02:00",
-    "media_id": "keexpdlaxwj0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6284548/koeman-mist-ook-berghuis-bij-oranje-en-roept-maatsen-op-koopmeiners-onzeker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284541,
-    "slug": "tim-hofman-blij-dat-er-geen-kogel-door-mijn-voorhoofd-is-gegaan",
-    "type": "article",
-    "title": "Tim Hofman: 'Blij dat er geen kogel door mijn voorhoofd is gegaan'",
-    "subtitle": null,
-    "published_at": "2023-10-09T11:39:10+02:00",
-    "updated_at": "2023-10-09T12:20:01+02:00",
-    "media_id": "g3zxx1sad3nb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6284541/tim-hofman-blij-dat-er-geen-kogel-door-mijn-voorhoofd-is-gegaan.html",
     "open_new_window": false,
     "partner": null
   }
