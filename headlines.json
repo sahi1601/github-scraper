@@ -1,12 +1,58 @@
 [
   {
+    "id": 6284607,
+    "slug": "koeman-ziet-ook-koopmeiners-afhaken-bij-oranje-nog-nooit-meegemaakt",
+    "type": "article",
+    "title": "Koeman ziet ook Koopmeiners afhaken bij Oranje: 'Nog nooit meegemaakt'",
+    "subtitle": null,
+    "published_at": "2023-10-09T17:16:03+02:00",
+    "updated_at": "2023-10-09T17:19:45+02:00",
+    "media_id": "vewxogoanucd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6284607/koeman-ziet-ook-koopmeiners-afhaken-bij-oranje-nog-nooit-meegemaakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284602,
+    "slug": "philipsen-klopt-cees-bol-in-turkije-en-komt-op-gelijke-hoogte-met-pogacar-dit-jaar",
+    "type": "article",
+    "title": "Philipsen klopt Cees Bol in Turkije en komt op gelijke hoogte met Pogacar dit jaar",
+    "subtitle": null,
+    "published_at": "2023-10-09T17:15:48+02:00",
+    "updated_at": "2023-10-09T17:15:50+02:00",
+    "media_id": "tjzx2naaa6h8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6284602/philipsen-klopt-cees-bol-in-turkije-en-komt-op-gelijke-hoogte-met-pogacar-dit-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284597,
     "slug": "vier-vragen-over-het-israelisch-palestijns-conflict-en-de-huidige-crisis",
     "type": "article",
     "title": "Vier vragen over het Israëlisch-Palestijns conflict en de huidige crisis",
     "subtitle": null,
     "published_at": "2023-10-09T17:01:41+02:00",
-    "updated_at": "2023-10-09T17:13:36+02:00",
+    "updated_at": "2023-10-09T17:14:26+02:00",
     "media_id": "p09x4hzarch0",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6284566/3fm-dj-wijnand-speelman-is-verloofd-heeft-even-geduurd-weet-ook-niet-waarom.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284564,
-    "slug": "wielertalent-van-den-broek-groeit-in-2-jaar-uit-van-amateur-tot-worldtour-renner",
-    "type": "article",
-    "title": "Wielertalent Van den Broek groeit in 2 jaar uit van amateur tot WorldTour-renner",
-    "subtitle": null,
-    "published_at": "2023-10-09T14:40:44+02:00",
-    "updated_at": "2023-10-09T14:56:53+02:00",
-    "media_id": "94hxhhfaevgk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6284564/wielertalent-van-den-broek-groeit-in-2-jaar-uit-van-amateur-tot-worldtour-renner.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284536,
-    "slug": "weet-jij-hoe-je-moet-handelen-bij-een-hartstilstand",
-    "type": "article",
-    "title": "Weet jij hoe je moet handelen bij een hartstilstand?",
-    "subtitle": "Praat Mee",
-    "published_at": "2023-10-09T14:32:46+02:00",
-    "updated_at": "2023-10-09T14:46:12+02:00",
-    "media_id": "r8ox5lmakhng",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6284536/weet-jij-hoe-je-moet-handelen-bij-een-hartstilstand.html",
     "open_new_window": false,
     "partner": null
   }
