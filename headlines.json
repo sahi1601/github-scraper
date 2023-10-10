@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284648,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-10-10T05:15:37+02:00",
+    "updated_at": "2023-10-10T05:15:39+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6284648/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284599,
     "slug": "energieverbruik-nederlanders-vorig-jaar-gedaald-naar-niveau-van-1970",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6284633/feyenoord-fans-geweerd-bij-duel-met-lazio-uit-vrees-voor-nieuwe-incidenten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284619,
-    "slug": "fc-groningen-spits-van-veen-overweegt-aangifte-tegen-provocerende-nac-fan",
-    "type": "article",
-    "title": "FC Groningen-spits Van Veen overweegt aangifte tegen provocerende NAC-fan",
-    "subtitle": null,
-    "published_at": "2023-10-09T19:36:29+02:00",
-    "updated_at": "2023-10-09T20:25:29+02:00",
-    "media_id": "ld2xllqa7woe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6284619/fc-groningen-spits-van-veen-overweegt-aangifte-tegen-provocerende-nac-fan.html",
     "open_new_window": false,
     "partner": null
   }
