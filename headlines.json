@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284761,
+    "slug": "dronebeelden-tonen-verwoesting-in-gaza-stad-na-bombardementen",
+    "type": "video",
+    "title": "Dronebeelden tonen verwoesting in Gaza-Stad na bombardementen",
+    "subtitle": "Video",
+    "published_at": "2023-10-10T17:35:12+02:00",
+    "updated_at": "2023-10-10T17:36:44+02:00",
+    "media_id": "98jx1ioao7lz",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6284761/dronebeelden-tonen-verwoesting-in-gaza-stad-na-bombardementen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284756,
     "slug": "russische-jeugdvoetballers-na-forse-kritiek-toch-niet-welkom-bij-uefa-toernooien",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Joe Jonas en Sophie Turner bereiken met hulp bemiddelaar akkoord over voogdij",
     "subtitle": null,
     "published_at": "2023-10-10T17:04:36+02:00",
-    "updated_at": "2023-10-10T17:05:15+02:00",
+    "updated_at": "2023-10-10T17:32:03+02:00",
     "media_id": "q5txeyzaxga2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6284721/hells-angels-kopstuk-lysander-de-r-moet-volledige-celstraf-uitzitten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284727,
-    "slug": "extinction-rebellion-demonstreert-voorlopig-niet-op-a12-we-evalueren-rond-kerst",
-    "type": "article",
-    "title": "Extinction Rebellion demonstreert voorlopig niet op A12: 'We evalueren rond Kerst'",
-    "subtitle": null,
-    "published_at": "2023-10-10T14:23:37+02:00",
-    "updated_at": "2023-10-10T16:26:43+02:00",
-    "media_id": "p7gxsy9a2hxt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6284727/extinction-rebellion-demonstreert-voorlopig-niet-op-a12-we-evalueren-rond-kerst.html",
     "open_new_window": false,
     "partner": null
   }
