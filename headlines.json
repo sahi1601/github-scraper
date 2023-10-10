@@ -1,5 +1,51 @@
 [
   {
+    "id": 6284690,
+    "slug": "man-opgepakt-voor-witwassen-van-minstens-1-miljoen-euro-voor-griekse-bankier",
+    "type": "article",
+    "title": "Man opgepakt voor witwassen van minstens 1 miljoen euro voor Griekse bankier",
+    "subtitle": null,
+    "published_at": "2023-10-10T12:22:17+02:00",
+    "updated_at": "2023-10-10T12:22:18+02:00",
+    "media_id": "jcyxyjwamjzh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6284690/man-opgepakt-voor-witwassen-van-minstens-1-miljoen-euro-voor-griekse-bankier.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284697,
+    "slug": "dumfries-sluit-aan-bij-training-oranje-in-aanloop-naar-duel-met-frankrijk",
+    "type": "article",
+    "title": "Dumfries sluit aan bij training Oranje in aanloop naar duel met Frankrijk",
+    "subtitle": null,
+    "published_at": "2023-10-10T12:15:19+02:00",
+    "updated_at": "2023-10-10T12:27:05+02:00",
+    "media_id": "w4sxjpqazlm4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6284697/dumfries-sluit-aan-bij-training-oranje-in-aanloop-naar-duel-met-frankrijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284663,
     "slug": "verenigd-koninkrijk-en-ierland-krijgen-ek-2028-editie-van-2032-in-turkije-en-italie",
     "type": "article",
@@ -144,7 +190,7 @@
     "title": "Gevallen topspeler Eden Hazard zet op 32-jarige leeftijd punt achter carrière",
     "subtitle": null,
     "published_at": "2023-10-10T11:38:46+02:00",
-    "updated_at": "2023-10-10T12:13:44+02:00",
+    "updated_at": "2023-10-10T12:20:16+02:00",
     "media_id": "hzjxfbyassnm",
     "duration": null,
     "canonical_section": {
@@ -231,12 +277,12 @@
   },
   {
     "id": 6284655,
-    "slug": "coldplay-en-oud-manager-verwikkeld-in-strijd-partijen-eisen-miljoenen-van-elkaar",
+    "slug": "coldplay-en-oud-manager-verwikkeld-in-pijnlijke-strijd-om-miljoenen",
     "type": "article",
-    "title": "Coldplay en oud-manager verwikkeld in strijd: partijen eisen miljoenen van elkaar",
+    "title": "Coldplay en oud-manager verwikkeld in pijnlijke strijd om miljoenen",
     "subtitle": "NU+",
     "published_at": "2023-10-10T11:05:14+02:00",
-    "updated_at": "2023-10-10T11:05:15+02:00",
+    "updated_at": "2023-10-10T12:29:02+02:00",
     "media_id": "7unx4nda3yev",
     "duration": null,
     "canonical_section": {
@@ -248,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6284655/coldplay-en-oud-manager-verwikkeld-in-strijd-partijen-eisen-miljoenen-van-elkaar.html",
+    "url": "/muziek/6284655/coldplay-en-oud-manager-verwikkeld-in-pijnlijke-strijd-om-miljoenen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +397,7 @@
     "title": "Radiozender van Giel Beelen is live: 'Voorlopig soort liftmuziek'",
     "subtitle": null,
     "published_at": "2023-10-10T10:08:15+02:00",
-    "updated_at": "2023-10-10T10:50:34+02:00",
+    "updated_at": "2023-10-10T12:22:25+02:00",
     "media_id": "tucxo66a47j4",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6284664/treinen-blijven-leger-omdat-ov-reiziger-vaker-thuiswerkt-na-corona.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284667,
-    "slug": "mensen-vluchten-uit-chinees-consulaat-als-auto-lobby-inrijdt",
-    "type": "video",
-    "title": "Mensen vluchten uit Chinees consulaat als auto lobby inrijdt",
-    "subtitle": "Video",
-    "published_at": "2023-10-10T09:29:23+02:00",
-    "updated_at": "2023-10-10T09:29:24+02:00",
-    "media_id": "88oxjw7a46ro",
-    "duration": "0:31",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6284667/mensen-vluchten-uit-chinees-consulaat-als-auto-lobby-inrijdt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284662,
-    "slug": "politie-zoekt-in-achtertuin-na-tip-over-sinds-1984-vermiste-germa-van-den-boom",
-    "type": "article",
-    "title": "Politie zoekt in achtertuin na tip over sinds 1984 vermiste Germa van den Boom",
-    "subtitle": null,
-    "published_at": "2023-10-10T09:12:28+02:00",
-    "updated_at": "2023-10-10T09:56:38+02:00",
-    "media_id": "bmjxbjzaf7ma",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6284662/politie-zoekt-in-achtertuin-na-tip-over-sinds-1984-vermiste-germa-van-den-boom.html",
     "open_new_window": false,
     "partner": null
   }
