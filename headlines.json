@@ -1,12 +1,35 @@
 [
   {
+    "id": 6284781,
+    "slug": "reddingswerkers-halen-palestijnen-levend-onder-puin-vandaan",
+    "type": "video",
+    "title": "Reddingswerkers halen Palestijnen levend onder puin vandaan",
+    "subtitle": "Video",
+    "published_at": "2023-10-10T20:20:26+02:00",
+    "updated_at": "2023-10-10T20:25:34+02:00",
+    "media_id": "75hxe5iaiozt",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6284781/reddingswerkers-halen-palestijnen-levend-onder-puin-vandaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284778,
     "slug": "niet-bij-fortuna-maar-bij-besiktas-zet-burak-yilmaz-eerste-stappen-als-trainer",
     "type": "article",
     "title": "Niet bij Fortuna, maar bij Besiktas zet Burak Yilmaz eerste stappen als trainer",
     "subtitle": null,
     "published_at": "2023-10-10T20:07:59+02:00",
-    "updated_at": "2023-10-10T20:13:34+02:00",
+    "updated_at": "2023-10-10T20:25:08+02:00",
     "media_id": "jk9xirbakjm3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/politiek/6284750/kabinet-gaat-in-brussel-niet-voor-of-tegen-onkruidverdelger-glyfosaat-stemmen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284744,
-    "slug": "kartende-zoon-jan-lammers-gescout-door-jeugdopleiding-ferrari",
-    "type": "article",
-    "title": "Kartende zoon Jan Lammers gescout door jeugdopleiding Ferrari",
-    "subtitle": null,
-    "published_at": "2023-10-10T16:27:17+02:00",
-    "updated_at": "2023-10-10T19:09:50+02:00",
-    "media_id": "v4cxt60ap4ip",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6284744/kartende-zoon-jan-lammers-gescout-door-jeugdopleiding-ferrari.html",
     "open_new_window": false,
     "partner": null
   }
