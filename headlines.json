@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284882,
+    "slug": "philipsen-passeert-pogacar-met-winst-in-turkije-maar-heeft-lopez-nog-boven-zich",
+    "type": "article",
+    "title": "Philipsen passeert Pogacar met winst in Turkije, maar heeft López nog boven zich",
+    "subtitle": null,
+    "published_at": "2023-10-11T15:25:51+02:00",
+    "updated_at": "2023-10-11T15:25:52+02:00",
+    "media_id": "4fsxqreavum0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6284882/philipsen-passeert-pogacar-met-winst-in-turkije-maar-heeft-lopez-nog-boven-zich.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284879,
     "slug": "vdl-nedcar-gaat-na-einde-mini-productie-weer-voor-bmw-aan-de-slag",
     "type": "article",
@@ -397,7 +420,7 @@
     "title": "Succesjaren lijken voorbij voor eigenaar Louis Vuitton en Moët & Chandon",
     "subtitle": null,
     "published_at": "2023-10-11T11:50:13+02:00",
-    "updated_at": "2023-10-11T14:16:59+02:00",
+    "updated_at": "2023-10-11T15:19:32+02:00",
     "media_id": "e2axyziaysiu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6284847/dodental-na-zware-aardbeving-in-afghanistan-gehalveerd-door-dubbele-tellingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284845,
-    "slug": "ftx-fraude-was-volgens-ex-topmanager-in-opdracht-van-bankman-fried",
-    "type": "article",
-    "title": "FTX-fraude was volgens ex-topmanager in opdracht van Bankman-Fried",
-    "subtitle": null,
-    "published_at": "2023-10-11T11:43:55+02:00",
-    "updated_at": "2023-10-11T14:32:13+02:00",
-    "media_id": "c01xw4oan82w",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6284845/ftx-fraude-was-volgens-ex-topmanager-in-opdracht-van-bankman-fried.html",
     "open_new_window": false,
     "partner": null
   }
