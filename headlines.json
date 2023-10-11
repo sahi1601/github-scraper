@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284879,
+    "slug": "vdl-nedcar-gaat-na-einde-mini-productie-weer-voor-bmw-aan-de-slag",
+    "type": "article",
+    "title": "VDL Nedcar gaat na einde MINI-productie weer voor BMW aan de slag",
+    "subtitle": null,
+    "published_at": "2023-10-11T14:56:21+02:00",
+    "updated_at": "2023-10-11T14:56:22+02:00",
+    "media_id": "hmyxuksa0fwf",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6284879/vdl-nedcar-gaat-na-einde-mini-productie-weer-voor-bmw-aan-de-slag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284881,
     "slug": "helemaal-geen-stroom-meer-in-gazastrook-zorgen-over-humanitaire-situatie",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6284845/ftx-fraude-was-volgens-ex-topmanager-in-opdracht-van-bankman-fried.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284839,
-    "slug": "advies-moet-beter-worden-opgevolgd-stalbranden-zijn-niet-structureel-afgenomen",
-    "type": "article",
-    "title": "Advies moet beter worden opgevolgd: stalbranden zijn niet structureel afgenomen",
-    "subtitle": null,
-    "published_at": "2023-10-11T11:42:16+02:00",
-    "updated_at": "2023-10-11T12:39:49+02:00",
-    "media_id": "8bsxvjoa2w9t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6284839/advies-moet-beter-worden-opgevolgd-stalbranden-zijn-niet-structureel-afgenomen.html",
     "open_new_window": false,
     "partner": null
   }
