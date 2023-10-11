@@ -1,12 +1,58 @@
 [
   {
-    "id": 6284832,
-    "slug": "oktober-begon-extreem-warm-22-jaar-oud-record-verbroken",
+    "id": 6284843,
+    "slug": "autos-exploderen-op-parkeerdek-bij-britse-luchthaven",
+    "type": "video",
+    "title": "Auto's exploderen op parkeerdek bij Britse luchthaven",
+    "subtitle": "Video",
+    "published_at": "2023-10-11T11:30:13+02:00",
+    "updated_at": "2023-10-11T11:31:20+02:00",
+    "media_id": "eczx2qja33tj",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6284843/autos-exploderen-op-parkeerdek-bij-britse-luchthaven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284840,
+    "slug": "eerste-nederlanders-worden-uit-israel-opgehaald-maar-nog-onduidelijk-hoeveel",
     "type": "article",
-    "title": "Oktober begon extreem warm: 22 jaar oud record verbroken",
+    "title": "Eerste Nederlanders worden uit Israël opgehaald, maar nog onduidelijk hoeveel",
+    "subtitle": null,
+    "published_at": "2023-10-11T11:25:30+02:00",
+    "updated_at": "2023-10-11T11:37:13+02:00",
+    "media_id": "tx5xu2jadbbp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6284840/eerste-nederlanders-worden-uit-israel-opgehaald-maar-nog-onduidelijk-hoeveel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284832,
+    "slug": "oktober-begon-extreem-warm-22-jaar-oud-record-gebroken",
+    "type": "article",
+    "title": "Oktober begon extreem warm: 22 jaar oud record gebroken",
     "subtitle": null,
     "published_at": "2023-10-11T11:15:04+02:00",
-    "updated_at": "2023-10-11T11:15:05+02:00",
+    "updated_at": "2023-10-11T11:33:31+02:00",
     "media_id": "tdrxqqva1e2t",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": "kf4x3b2agsxg",
       "partner": null
     },
-    "url": "/klimaat/6284832/oktober-begon-extreem-warm-22-jaar-oud-record-verbroken.html",
+    "url": "/klimaat/6284832/oktober-begon-extreem-warm-22-jaar-oud-record-gebroken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "EU klaagt bij X over verspreiding desinformatie rond Israëlisch conflict",
     "subtitle": null,
     "published_at": "2023-10-11T11:10:16+02:00",
-    "updated_at": "2023-10-11T11:10:17+02:00",
+    "updated_at": "2023-10-11T11:41:22+02:00",
     "media_id": "ekrxckba44ke",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6284801/autoverkoop-zal-naar-verwachting-ook-in-2024-achterblijven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284800,
-    "slug": "playboy-verbreekt-banden-met-model-mia-khalifa-na-steun-aan-hamas",
-    "type": "article",
-    "title": "Playboy verbreekt banden met model Mia Khalifa na steun aan Hamas",
-    "subtitle": null,
-    "published_at": "2023-10-11T07:27:24+02:00",
-    "updated_at": "2023-10-11T09:26:15+02:00",
-    "media_id": "gazxqfiank4p",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6284800/playboy-verbreekt-banden-met-model-mia-khalifa-na-steun-aan-hamas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284799,
-    "slug": "toernooidirecteur-nadal-gaat-in-januari-deelnemen-aan-de-australian-open",
-    "type": "article",
-    "title": "Toernooidirecteur: 'Nadal gaat in januari deelnemen aan de Australian Open'",
-    "subtitle": null,
-    "published_at": "2023-10-11T07:17:50+02:00",
-    "updated_at": "2023-10-11T09:11:30+02:00",
-    "media_id": "owdxileajhwq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6284799/toernooidirecteur-nadal-gaat-in-januari-deelnemen-aan-de-australian-open.html",
     "open_new_window": false,
     "partner": null
   }
