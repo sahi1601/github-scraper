@@ -1,5 +1,28 @@
 [
   {
+    "id": 6284797,
+    "slug": "man-die-drie-vrouwen-neerstak-in-utrecht-verdacht-van-pogingen-tot-moord",
+    "type": "article",
+    "title": "Man die drie vrouwen neerstak in Utrecht verdacht van pogingen tot moord",
+    "subtitle": null,
+    "published_at": "2023-10-11T06:52:12+02:00",
+    "updated_at": "2023-10-11T06:57:19+02:00",
+    "media_id": "ddrxjnha2deh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6284797/man-die-drie-vrouwen-neerstak-in-utrecht-verdacht-van-pogingen-tot-moord.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6284780,
     "slug": "waarom-is-iran-blij-met-de-aanval-op-israel-en-wat-is-hun-rol-daarin",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6284778/niet-bij-fortuna-maar-bij-besiktas-zet-burak-yilmaz-eerste-stappen-als-trainer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284777,
-    "slug": "franse-president-stapt-in-rolstoel-voor-paralympische-spelen",
-    "type": "video",
-    "title": "Franse president stapt in rolstoel voor Paralympische Spelen",
-    "subtitle": "Video",
-    "published_at": "2023-10-10T20:04:02+02:00",
-    "updated_at": "2023-10-10T20:04:03+02:00",
-    "media_id": "9zkxopoa85s8",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6284777/franse-president-stapt-in-rolstoel-voor-paralympische-spelen.html",
     "open_new_window": false,
     "partner": null
   }
