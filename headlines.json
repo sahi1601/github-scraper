@@ -1,12 +1,35 @@
 [
   {
+    "id": 6285099,
+    "slug": "omstreden-vilda-vindt-maand-na-ontslag-bij-spaanse-voetbalsters-nieuwe-klus",
+    "type": "article",
+    "title": "Omstreden Vilda vindt maand na ontslag bij Spaanse voetbalsters nieuwe klus",
+    "subtitle": null,
+    "published_at": "2023-10-12T23:23:17+02:00",
+    "updated_at": "2023-10-12T23:23:18+02:00",
+    "media_id": "uatxgbqajws7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6285099/omstreden-vilda-vindt-maand-na-ontslag-bij-spaanse-voetbalsters-nieuwe-klus.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285096,
     "slug": "schotland-kan-niet-stunten-in-spanje-en-verspeelt-eerste-kans-op-ek-ticket",
     "type": "article",
     "title": "Schotland kan niet stunten in Spanje en verspeelt eerste kans op EK-ticket",
     "subtitle": null,
     "published_at": "2023-10-12T22:43:55+02:00",
-    "updated_at": "2023-10-12T22:53:56+02:00",
+    "updated_at": "2023-10-12T23:29:30+02:00",
     "media_id": "o7dxgrjaiwpn",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Turkije slaat grote slag in EK-kwalificatie met uitzege op concurrent Kroatië",
     "subtitle": null,
     "published_at": "2023-10-12T22:42:38+02:00",
-    "updated_at": "2023-10-12T23:18:08+02:00",
+    "updated_at": "2023-10-12T23:27:03+02:00",
     "media_id": "85gx1ixa99hx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6285049/oostenrijk-polen-en-tsjechie-verlengen-controles-bij-grens-met-slowakije.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285067,
-    "slug": "frankrijk-net-als-oranje-geteisterd-door-blessures-we-spelen-te-veel-wedstrijden",
-    "type": "article",
-    "title": "Frankrijk net als Oranje geteisterd door blessures: 'We spelen te veel wedstrijden'",
-    "subtitle": null,
-    "published_at": "2023-10-12T18:34:28+02:00",
-    "updated_at": "2023-10-12T20:30:01+02:00",
-    "media_id": "uq1xatra00d8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285067/frankrijk-net-als-oranje-geteisterd-door-blessures-we-spelen-te-veel-wedstrijden.html",
     "open_new_window": false,
     "partner": null
   }
