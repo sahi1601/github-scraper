@@ -1,5 +1,97 @@
 [
   {
+    "id": 6285100,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-10-13T05:16:48+02:00",
+    "updated_at": "2023-10-13T05:16:49+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6285100/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284830,
+    "slug": "verbruggen-wordt-waarschijnlijk-de-jongste-oranjedoelman-in-56-jaar",
+    "type": "article",
+    "title": "Verbruggen wordt waarschijnlijk de jongste Oranjedoelman in 56 jaar",
+    "subtitle": null,
+    "published_at": "2023-10-13T05:16:21+02:00",
+    "updated_at": "2023-10-13T05:16:22+02:00",
+    "media_id": "kq6xro8a4dv6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6284830/verbruggen-wordt-waarschijnlijk-de-jongste-oranjedoelman-in-56-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285034,
+    "slug": "door-kosten-voor-terugzending-krijgt-wehkamp-10-procent-minder-retour",
+    "type": "article",
+    "title": "Door kosten voor terugzending krijgt Wehkamp 10 procent minder retour",
+    "subtitle": null,
+    "published_at": "2023-10-13T05:15:43+02:00",
+    "updated_at": "2023-10-13T05:15:44+02:00",
+    "media_id": "i3ox9yfaj16x",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6285034/door-kosten-voor-terugzending-krijgt-wehkamp-10-procent-minder-retour.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6284833,
+    "slug": "is-toptalent-verbruggen-klaar-voor-oranjedebuut-zijn-mindset-is-absurd",
+    "type": "article",
+    "title": "Is toptalent Verbruggen klaar voor Oranjedebuut? 'Zijn mindset is absurd'",
+    "subtitle": "NU+",
+    "published_at": "2023-10-13T05:13:50+02:00",
+    "updated_at": "2023-10-13T05:13:53+02:00",
+    "media_id": "ug9xhb3aro4q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6284833/is-toptalent-verbruggen-klaar-voor-oranjedebuut-zijn-mindset-is-absurd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285039,
     "slug": "waarom-mensen-vanuit-gaza-niet-egypte-in-kunnen-vluchten",
     "type": "article",
@@ -351,7 +443,7 @@
     "title": "Dit draagt bekend Nederland tijdens Gouden Televizier-Ring Gala 2023",
     "subtitle": "In beeld",
     "published_at": "2023-10-12T20:04:47+02:00",
-    "updated_at": "2023-10-12T21:36:16+02:00",
+    "updated_at": "2023-10-13T05:14:23+02:00",
     "media_id": "qyux726amuii",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/media/6285076/dit-draagt-bekend-nederland-tijdens-gouden-televizier-ring-gala-2023.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285074,
-    "slug": "ajax-spits-mikautadze-zorgt-met-vier-goals-voor-unicum-bij-monsterzege-georgie",
-    "type": "article",
-    "title": "Ajax-spits Mikautadze zorgt met vier goals voor unicum bij monsterzege Georgië",
-    "subtitle": null,
-    "published_at": "2023-10-12T19:52:09+02:00",
-    "updated_at": "2023-10-12T21:52:58+02:00",
-    "media_id": "ggexvuzaa1xm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285074/ajax-spits-mikautadze-zorgt-met-vier-goals-voor-unicum-bij-monsterzege-georgie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285073,
-    "slug": "emma-wortelboer-in-verwachting-van-eerste-kind",
-    "type": "article",
-    "title": "Emma Wortelboer in verwachting van eerste kind",
-    "subtitle": null,
-    "published_at": "2023-10-12T19:41:16+02:00",
-    "updated_at": "2023-10-12T20:44:53+02:00",
-    "media_id": "laqxk2faeoms",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6285073/emma-wortelboer-in-verwachting-van-eerste-kind.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285070,
-    "slug": "45-jaar-cel-geeist-voor-poging-doodslag-waarbij-vrouw-hand-verliest-door-vuurwerk",
-    "type": "article",
-    "title": "4,5 jaar cel geëist voor poging doodslag waarbij vrouw hand verliest door vuurwerk",
-    "subtitle": null,
-    "published_at": "2023-10-12T19:38:52+02:00",
-    "updated_at": "2023-10-12T20:24:52+02:00",
-    "media_id": "6ygxbi6all6w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6285070/45-jaar-cel-geeist-voor-poging-doodslag-waarbij-vrouw-hand-verliest-door-vuurwerk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285068,
-    "slug": "europese-ruimtevaartorganisatie-wil-maan-betegelen-door-oppervlak-te-smelten",
-    "type": "article",
-    "title": "Europese ruimtevaartorganisatie wil maan betegelen door oppervlak te smelten",
-    "subtitle": null,
-    "published_at": "2023-10-12T19:38:47+02:00",
-    "updated_at": "2023-10-12T22:31:46+02:00",
-    "media_id": "8qtx1xhaucj4",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6285068/europese-ruimtevaartorganisatie-wil-maan-betegelen-door-oppervlak-te-smelten.html",
     "open_new_window": false,
     "partner": null
   }
