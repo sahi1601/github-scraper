@@ -1,5 +1,51 @@
 [
   {
+    "id": 6285423,
+    "slug": "anne-luijten-verrast-zichzelf-met-negatieve-split-en-olympische-marathonlimiet",
+    "type": "article",
+    "title": "Anne Luijten verrast zichzelf met 'negatieve split' en olympische marathonlimiet",
+    "subtitle": null,
+    "published_at": "2023-10-15T15:20:51+02:00",
+    "updated_at": "2023-10-15T15:20:53+02:00",
+    "media_id": "0abxttyao41q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6285423/anne-luijten-verrast-zichzelf-met-negatieve-split-en-olympische-marathonlimiet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6285424,
+    "slug": "haags-gebouw-universiteit-leiden-maandag-weer-open-na-veiligheidsrisico",
+    "type": "article",
+    "title": "Haags gebouw Universiteit Leiden maandag weer open na veiligheidsrisico",
+    "subtitle": null,
+    "published_at": "2023-10-15T15:13:21+02:00",
+    "updated_at": "2023-10-15T15:16:04+02:00",
+    "media_id": "13nx8a8ag2md",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6285424/haags-gebouw-universiteit-leiden-maandag-weer-open-na-veiligheidsrisico.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285422,
     "slug": "situatie-kleinzoon-lenny-kuhr-stabiel-zangeres-wil-toch-naar-israel-gaan",
     "type": "article",
@@ -121,7 +167,7 @@
     "title": "Donny van de Beek en Estelle Bergkamp in verwachting van tweede kind",
     "subtitle": null,
     "published_at": "2023-10-15T13:39:55+02:00",
-    "updated_at": "2023-10-15T13:44:03+02:00",
+    "updated_at": "2023-10-15T15:17:19+02:00",
     "media_id": "7hoxd8na20nz",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6285393/vertrekkend-bestuurslid-wereldbank-davidse-ziet-andere-en-nieuwe-wind-waaien.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285394,
-    "slug": "weghorst-traint-mee-bij-oranje-in-aanloop-naar-cruciaal-duel-met-griekenland",
-    "type": "article",
-    "title": "Weghorst traint mee bij Oranje in aanloop naar cruciaal duel met Griekenland",
-    "subtitle": null,
-    "published_at": "2023-10-15T11:09:00+02:00",
-    "updated_at": "2023-10-15T11:22:01+02:00",
-    "media_id": "1iexymvae6to",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285394/weghorst-traint-mee-bij-oranje-in-aanloop-naar-cruciaal-duel-met-griekenland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285391,
-    "slug": "israel-en-hamas-bestoken-elkaar-met-raketten-luchtalarm-in-tel-aviv",
-    "type": "article",
-    "title": "Israël en Hamas bestoken elkaar met raketten, luchtalarm in Tel Aviv",
-    "subtitle": "Liveblog",
-    "published_at": "2023-10-15T10:53:34+02:00",
-    "updated_at": "2023-10-15T14:17:44+02:00",
-    "media_id": "qkgxu35a4fi6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Gazaconflict",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6285391/israel-en-hamas-bestoken-elkaar-met-raketten-luchtalarm-in-tel-aviv.html",
     "open_new_window": false,
     "partner": null
   }
