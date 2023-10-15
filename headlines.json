@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285195,
+    "slug": "goed-nieuws-van-deze-week-twee-gevangen-elften-en-meer-jonge-huizenkopers",
+    "type": "article",
+    "title": "Goed nieuws van deze week: Twee gevangen elften en meer jonge huizenkopers",
+    "subtitle": null,
+    "published_at": "2023-10-15T13:11:11+02:00",
+    "updated_at": "2023-10-15T13:11:13+02:00",
+    "media_id": "09zxbb3als01",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779220,
+      "slug": "goed-nieuws",
+      "type": "default",
+      "name": "Goed nieuws",
+      "style": "nuoverig",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/goed-nieuws/6285195/goed-nieuws-van-deze-week-twee-gevangen-elften-en-meer-jonge-huizenkopers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285409,
     "slug": "bommeldingen-in-louvre-en-paleis-van-versailles-waren-vals-alarm",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Studieschuld sneller aflossen nu rente omhoogschiet? 'Het blijft een gok'",
     "subtitle": "NU+",
     "published_at": "2023-10-15T12:02:40+02:00",
-    "updated_at": "2023-10-15T12:02:42+02:00",
+    "updated_at": "2023-10-15T13:22:50+02:00",
     "media_id": "954x813aa5gc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6285381/milan-vader-27-boekt-in-koninginnenrit-tour-van-guangxi-eerste-zege-op-de-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285314,
-    "slug": "als-je-opschrijft-wat-er-gebeurt-is-het-al-duidelijk-genoeg",
-    "type": "article",
-    "title": "Als je opschrijft wat er gebeurt, is het al duidelijk genoeg",
-    "subtitle": "Van de hoofdredactie",
-    "published_at": "2023-10-15T08:47:26+02:00",
-    "updated_at": "2023-10-15T10:21:08+02:00",
-    "media_id": "b49xj2gaz37n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772069,
-      "slug": "blog",
-      "type": "default",
-      "name": "Van de hoofdredactie",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/blog/6285314/als-je-opschrijft-wat-er-gebeurt-is-het-al-duidelijk-genoeg.html",
     "open_new_window": false,
     "partner": null
   }
