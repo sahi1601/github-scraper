@@ -1,12 +1,35 @@
 [
   {
+    "id": 6285478,
+    "slug": "man-steekt-6-jarige-palestijns-amerikaanse-jongen-dood-vanwege-geweld-in-israel",
+    "type": "article",
+    "title": "Man steekt 6-jarige Palestijns-Amerikaanse jongen dood vanwege geweld in Israël",
+    "subtitle": null,
+    "published_at": "2023-10-16T06:29:34+02:00",
+    "updated_at": "2023-10-16T06:29:35+02:00",
+    "media_id": "tehxiy0adpl5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6285478/man-steekt-6-jarige-palestijns-amerikaanse-jongen-dood-vanwege-geweld-in-israel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285477,
     "slug": "nos-studio-voetbal-gaat-uitzendingen-met-publiek-maken-in-nieuwe-studio",
     "type": "article",
     "title": "NOS Studio Voetbal gaat uitzendingen met publiek maken in nieuwe studio",
     "subtitle": null,
     "published_at": "2023-10-16T06:27:06+02:00",
-    "updated_at": "2023-10-16T06:27:07+02:00",
+    "updated_at": "2023-10-16T06:42:08+02:00",
     "media_id": "z2oxzofaaj8i",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6285476,
-    "slug": "de-zon-laat-zich-weinig-zien-op-grijs-begin-van-de-week",
+    "slug": "de-zon-laat-zich-weinig-zien-op-voornamelijk-grijze-dag",
     "type": "article",
-    "title": "De zon laat zich weinig zien op grijs begin van de week",
-    "subtitle": null,
+    "title": "De zon laat zich weinig zien op voornamelijk grijze dag",
+    "subtitle": "Weerbericht",
     "published_at": "2023-10-16T06:13:22+02:00",
-    "updated_at": "2023-10-16T06:13:23+02:00",
+    "updated_at": "2023-10-16T06:35:54+02:00",
     "media_id": "hl7xapjakqkv",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6285476/de-zon-laat-zich-weinig-zien-op-grijs-begin-van-de-week.html",
+    "url": "/weerbericht/6285476/de-zon-laat-zich-weinig-zien-op-voornamelijk-grijze-dag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6285449/weghorst-lijkt-fit-voor-cruciaal-ek-kwalificatieduel-oranje-met-griekenland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285442,
-    "slug": "lees-hier-alles-terug-over-de-vooruitblik-van-koeman-op-het-duel-met-griekenland",
-    "type": "article",
-    "title": "Lees hier alles terug over de vooruitblik van Koeman op het duel met Griekenland",
-    "subtitle": "Liveblog",
-    "published_at": "2023-10-15T18:43:04+02:00",
-    "updated_at": "2023-10-15T19:22:29+02:00",
-    "media_id": "qe2xeefa2tfu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285442/lees-hier-alles-terug-over-de-vooruitblik-van-koeman-op-het-duel-met-griekenland.html",
     "open_new_window": false,
     "partner": null
   }
