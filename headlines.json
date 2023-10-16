@@ -1,12 +1,35 @@
 [
   {
+    "id": 6285556,
+    "slug": "dave-roelvink-moet-langer-in-afkickkliniek-blijven",
+    "type": "article",
+    "title": "Dave Roelvink moet langer in afkickkliniek blijven",
+    "subtitle": null,
+    "published_at": "2023-10-16T16:14:59+02:00",
+    "updated_at": "2023-10-16T16:15:00+02:00",
+    "media_id": "g62xaupanudp",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6285556/dave-roelvink-moet-langer-in-afkickkliniek-blijven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285557,
     "slug": "patrick-van-leeuwen-al-na-drie-maanden-ontslagen-als-trainer-van-shakhtar",
     "type": "article",
     "title": "Patrick van Leeuwen al na drie maanden ontslagen als trainer van Shakhtar",
     "subtitle": null,
     "published_at": "2023-10-16T16:05:27+02:00",
-    "updated_at": "2023-10-16T16:12:08+02:00",
+    "updated_at": "2023-10-16T16:21:23+02:00",
     "media_id": "v9oxz0pa760s",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6285527/succescoach-van-van-aert-stapt-net-als-roglic-van-jumbo-visma-over-naar-bora.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285525,
-    "slug": "agent-in-gelderse-varsseveld-raakt-gewond-bij-ongeval-met-eigen-dienstwapen",
-    "type": "article",
-    "title": "Agent in Gelderse Varsseveld raakt gewond bij ongeval met eigen dienstwapen",
-    "subtitle": null,
-    "published_at": "2023-10-16T12:46:58+02:00",
-    "updated_at": "2023-10-16T13:43:48+02:00",
-    "media_id": "fgkxmypa1bqf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6285525/agent-in-gelderse-varsseveld-raakt-gewond-bij-ongeval-met-eigen-dienstwapen.html",
     "open_new_window": false,
     "partner": null
   }
