@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285461,
+    "slug": "egyptische-bronnen-bestand-tijdens-heropening-grensovergang-gaza-en-egypte",
+    "type": "article",
+    "title": "Egyptische bronnen: bestand tijdens heropening grensovergang Gaza en Egypte",
+    "subtitle": null,
+    "published_at": "2023-10-16T08:20:37+02:00",
+    "updated_at": "2023-10-16T08:20:38+02:00",
+    "media_id": "hocxmbxa53lu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Gazaconflict",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6285461/egyptische-bronnen-bestand-tijdens-heropening-grensovergang-gaza-en-egypte.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285485,
     "slug": "steeds-meer-bedrijven-stoppen-of-gaan-failliet",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6285464/ijzersterke-van-empel-voert-nederlands-podium-aan-in-eerste-wereldbekercross.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285459,
-    "slug": "koeman-wil-dat-oranje-slim-speelt-in-gevaarlijk-duel-met-griekenland",
-    "type": "article",
-    "title": "Koeman wil dat Oranje slim speelt in 'gevaarlijk duel' met Griekenland",
-    "subtitle": null,
-    "published_at": "2023-10-15T20:00:19+02:00",
-    "updated_at": "2023-10-15T21:26:49+02:00",
-    "media_id": "4l6x19xadbsc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285459/koeman-wil-dat-oranje-slim-speelt-in-gevaarlijk-duel-met-griekenland.html",
     "open_new_window": false,
     "partner": null
   }
