@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285602,
+    "slug": "poetin-roept-op-tot-wapenstilstand-israel-hamas-waarschuwt-voor-burgerslachtoffers",
+    "type": "article",
+    "title": "Poetin roept op tot wapenstilstand Israël-Hamas, waarschuwt voor burgerslachtoffers",
+    "subtitle": null,
+    "published_at": "2023-10-16T20:38:50+02:00",
+    "updated_at": "2023-10-16T20:38:52+02:00",
+    "media_id": "vylxea9adbsn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6285602/poetin-roept-op-tot-wapenstilstand-israel-hamas-waarschuwt-voor-burgerslachtoffers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285597,
     "slug": "kou-en-gebrek-aan-russisch-gas-dwingt-duitsers-tot-aanzetten-kolencentrale",
     "type": "article",
@@ -75,8 +98,8 @@
     "title": "Oranje begint met Wieffer en Bergwijn aan kraker tegen Griekenland",
     "subtitle": null,
     "published_at": "2023-10-16T19:34:52+02:00",
-    "updated_at": "2023-10-16T19:56:21+02:00",
-    "media_id": "m56xdf4arr5n",
+    "updated_at": "2023-10-16T20:35:24+02:00",
+    "media_id": "d5vxt4iagiv5",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -139,12 +162,12 @@
   },
   {
     "id": 6285589,
-    "slug": "cruciaal-duel-van-oranje-in-griekenland-op-het-punt-van-beginnen",
+    "slug": "cruciaal-duel-van-oranje-in-griekenland-op-punt-van-beginnen",
     "type": "article",
-    "title": "Cruciaal duel van Oranje in Griekenland op het punt van beginnen",
+    "title": "Cruciaal duel van Oranje in Griekenland op punt van beginnen",
     "subtitle": "Liveblog",
     "published_at": "2023-10-16T19:02:20+02:00",
-    "updated_at": "2023-10-16T20:30:38+02:00",
+    "updated_at": "2023-10-16T20:39:29+02:00",
     "media_id": "gjwx3baag3qv",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6285589/cruciaal-duel-van-oranje-in-griekenland-op-het-punt-van-beginnen.html",
+    "url": "/voetbal/6285589/cruciaal-duel-van-oranje-in-griekenland-op-punt-van-beginnen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6285570/rapper-21-savage-geeft-komende-maand-voor-het-eerst-concert-in-nederland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285565,
-    "slug": "louis-tomlinson-steekt-in-ziggo-dome-middelvinger-op-naar-fans",
-    "type": "video",
-    "title": "Louis Tomlinson steekt in Ziggo Dome middelvinger op naar 'fans'",
-    "subtitle": "Video",
-    "published_at": "2023-10-16T16:56:22+02:00",
-    "updated_at": "2023-10-16T16:56:23+02:00",
-    "media_id": "rzpxt1xax22e",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6285565/louis-tomlinson-steekt-in-ziggo-dome-middelvinger-op-naar-fans.html",
     "open_new_window": false,
     "partner": null
   }
