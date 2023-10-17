@@ -1,12 +1,35 @@
 [
   {
+    "id": 6285615,
+    "slug": "vermoedelijke-dader-terroristische-aanslag-brussel-neergeschoten-in-belgisch-cafe",
+    "type": "article",
+    "title": "Vermoedelijke dader terroristische aanslag Brussel neergeschoten in Belgisch café",
+    "subtitle": null,
+    "published_at": "2023-10-17T08:18:53+02:00",
+    "updated_at": "2023-10-17T08:29:13+02:00",
+    "media_id": "yjvx0ssa3bdg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6285615/vermoedelijke-dader-terroristische-aanslag-brussel-neergeschoten-in-belgisch-cafe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285635,
     "slug": "premier-de-croo-over-terrorismeverdachte-verbleef-illegaal-in-belgie",
     "type": "video",
     "title": "Premier De Croo over terrorismeverdachte: 'Verbleef illegaal in België'",
     "subtitle": "Video",
     "published_at": "2023-10-17T08:11:54+02:00",
-    "updated_at": "2023-10-17T08:11:55+02:00",
+    "updated_at": "2023-10-17T08:20:01+02:00",
     "media_id": "8nrx8cradao6",
     "duration": "1:45",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6285551/vrees-voor-duurdere-stroom-door-hogere-kosten-windparken-op-zee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6284855,
-    "slug": "mensen-die-iets-van-de-wolf-vinden-worden-geregeld-met-de-dood-bedreigd",
-    "type": "article",
-    "title": "Mensen die iets van de wolf vinden, worden geregeld met de dood bedreigd",
-    "subtitle": null,
-    "published_at": "2023-10-17T05:06:22+02:00",
-    "updated_at": "2023-10-17T07:50:11+02:00",
-    "media_id": "o7wxv0ka434f",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779300,
-      "slug": "wolf",
-      "type": "files",
-      "name": "Wolf",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wolf/6284855/mensen-die-iets-van-de-wolf-vinden-worden-geregeld-met-de-dood-bedreigd.html",
     "open_new_window": false,
     "partner": null
   }
