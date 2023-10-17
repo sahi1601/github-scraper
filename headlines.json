@@ -1,12 +1,35 @@
 [
   {
+    "id": 6285774,
+    "slug": "jordanie-schrapt-top-met-president-biden-na-aanval-op-palestijns-ziekenhuis",
+    "type": "article",
+    "title": "Jordanië schrapt top met president Biden na aanval op Palestijns ziekenhuis",
+    "subtitle": null,
+    "published_at": "2023-10-18T00:15:25+02:00",
+    "updated_at": "2023-10-18T00:15:26+02:00",
+    "media_id": "i8oxzgtaaryh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Gazaconflict",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6285774/jordanie-schrapt-top-met-president-biden-na-aanval-op-palestijns-ziekenhuis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285773,
     "slug": "politie-etten-leur-waarschuwt-voor-dreigbrief-over-ophangen-russische-vlag",
     "type": "article",
     "title": "Politie Etten-Leur waarschuwt voor dreigbrief over ophangen Russische vlag",
     "subtitle": null,
     "published_at": "2023-10-18T00:10:38+02:00",
-    "updated_at": "2023-10-18T00:10:39+02:00",
+    "updated_at": "2023-10-18T00:24:31+02:00",
     "media_id": "zhwxcrxagakr",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6285740/nederland-in-olympische-wegrit-met-een-mannetje-minder-dan-belgen-en-denen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285741,
-    "slug": "juventus-middenvelder-fagioli-zeven-maanden-geschorst-wegens-illegaal-gokken",
-    "type": "article",
-    "title": "Juventus-middenvelder Fagioli zeven maanden geschorst wegens illegaal gokken",
-    "subtitle": null,
-    "published_at": "2023-10-17T18:01:20+02:00",
-    "updated_at": "2023-10-17T18:01:21+02:00",
-    "media_id": "a80xhdna6l6s",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285741/juventus-middenvelder-fagioli-zeven-maanden-geschorst-wegens-illegaal-gokken.html",
     "open_new_window": false,
     "partner": null
   }
