@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285904,
+    "slug": "vliegverkeer-duitse-luchthaven-weeze-hervat-na-vals-alarm-voor-bommelding",
+    "type": "article",
+    "title": "Vliegverkeer Duitse luchthaven Weeze hervat na vals alarm voor bommelding",
+    "subtitle": null,
+    "published_at": "2023-10-18T19:27:02+02:00",
+    "updated_at": "2023-10-18T19:27:03+02:00",
+    "media_id": "xz3x1i9aro7p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6285904/vliegverkeer-duitse-luchthaven-weeze-hervat-na-vals-alarm-voor-bommelding.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285899,
     "slug": "een-derde-meldingen-en-signalen-jeugdbescherming-komt-door-druk-op-sector",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6285894,
-    "slug": "fc-twente-en-ajax-vrouwen-strijden-om-champions-league-tickets",
+    "slug": "fc-twente-vrouwen-bikkelt-voor-cl-plek-ajax-zit-op-rozen",
     "type": "article",
-    "title": "FC Twente en Ajax Vrouwen strijden om Champions League-tickets",
+    "title": "FC Twente Vrouwen bikkelt voor CL-plek, Ajax zit op rozen",
     "subtitle": "Liveblog",
     "published_at": "2023-10-18T18:34:15+02:00",
-    "updated_at": "2023-10-18T19:19:41+02:00",
+    "updated_at": "2023-10-18T19:30:07+02:00",
     "media_id": "cmqxjywa4xfc",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6285894/fc-twente-en-ajax-vrouwen-strijden-om-champions-league-tickets.html",
+    "url": "/voetbal/6285894/fc-twente-vrouwen-bikkelt-voor-cl-plek-ajax-zit-op-rozen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Ricciardo maakt na twee 'frustrerende' maanden rentree in Formule 1",
     "subtitle": null,
     "published_at": "2023-10-18T16:51:22+02:00",
-    "updated_at": "2023-10-18T17:24:06+02:00",
+    "updated_at": "2023-10-18T19:27:43+02:00",
     "media_id": "bhsxy4ga0p8v",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6285867/cameras-in-zeewolde-moeten-botsingen-zeearenden-en-windturbines-voorkomen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285865,
-    "slug": "achttien-maanden-cel-voor-kroongetuige-die-bewijs-voor-moord-vervalste",
-    "type": "article",
-    "title": "Achttien maanden cel voor kroongetuige die bewijs voor moord vervalste",
-    "subtitle": null,
-    "published_at": "2023-10-18T15:23:35+02:00",
-    "updated_at": "2023-10-18T17:42:53+02:00",
-    "media_id": "eaqxusoaks0w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6285865/achttien-maanden-cel-voor-kroongetuige-die-bewijs-voor-moord-vervalste.html",
     "open_new_window": false,
     "partner": null
   }
