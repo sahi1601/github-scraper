@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285899,
+    "slug": "een-derde-meldingen-en-signalen-jeugdbescherming-komt-door-druk-op-sector",
+    "type": "article",
+    "title": "Een derde meldingen en signalen jeugdbescherming komt door druk op sector",
+    "subtitle": null,
+    "published_at": "2023-10-18T19:16:56+02:00",
+    "updated_at": "2023-10-18T19:25:01+02:00",
+    "media_id": "yp7xtydaj2fv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6285899/een-derde-meldingen-en-signalen-jeugdbescherming-komt-door-druk-op-sector.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285895,
     "slug": "koningspaar-lacht-om-chaos-bij-fotomoment-in-zuid-afrika",
     "type": "video",
@@ -29,8 +52,8 @@
     "title": "FC Twente en Ajax Vrouwen strijden om Champions League-tickets",
     "subtitle": "Liveblog",
     "published_at": "2023-10-18T18:34:15+02:00",
-    "updated_at": "2023-10-18T18:58:24+02:00",
-    "media_id": "ybqxfojauxz7",
+    "updated_at": "2023-10-18T19:19:41+02:00",
+    "media_id": "cmqxjywa4xfc",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6285865/achttien-maanden-cel-voor-kroongetuige-die-bewijs-voor-moord-vervalste.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285868,
-    "slug": "indiase-man-overleeft-sprong-van-dak-brandend-gebouw",
-    "type": "video",
-    "title": "Indiase man overleeft sprong van dak brandend gebouw",
-    "subtitle": "Video",
-    "published_at": "2023-10-18T15:23:24+02:00",
-    "updated_at": "2023-10-18T15:44:00+02:00",
-    "media_id": "d4nxltua8gq4",
-    "duration": "0:44",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6285868/indiase-man-overleeft-sprong-van-dak-brandend-gebouw.html",
     "open_new_window": false,
     "partner": null
   }
