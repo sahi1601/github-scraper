@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285888,
+    "slug": "gebrek-aan-beveiliging-verbijstert-tennissers-in-antwerpen-dit-is-heel-apart",
+    "type": "article",
+    "title": "Gebrek aan beveiliging verbijstert tennissers in Antwerpen: 'Dit is heel apart'",
+    "subtitle": null,
+    "published_at": "2023-10-18T18:21:37+02:00",
+    "updated_at": "2023-10-18T18:21:39+02:00",
+    "media_id": "m34xlaza8j5m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6285888/gebrek-aan-beveiliging-verbijstert-tennissers-in-antwerpen-dit-is-heel-apart.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285891,
     "slug": "het-is-borstkankermaand-zo-kun-je-jezelf-onderzoeken",
     "type": "video",
@@ -98,7 +121,7 @@
     "title": "Joran van der Sloot bekent dat hij Natalee Holloway heeft vermoord",
     "subtitle": null,
     "published_at": "2023-10-18T17:23:26+02:00",
-    "updated_at": "2023-10-18T18:11:04+02:00",
+    "updated_at": "2023-10-18T18:19:27+02:00",
     "media_id": "wq1x3gqav1f7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6285859/dertig-nederlandse-platenzaken-s-nachts-open-voor-nieuw-rolling-stones-album.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285858,
-    "slug": "knvb-ziet-afname-van-incidenten-in-stadions-maar-zijn-nog-niet-waar-we-willen",
-    "type": "article",
-    "title": "KNVB ziet afname van incidenten in stadions: 'Maar zijn nog niet waar we willen'",
-    "subtitle": null,
-    "published_at": "2023-10-18T15:04:10+02:00",
-    "updated_at": "2023-10-18T17:16:33+02:00",
-    "media_id": "9aixkosaa9b3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285858/knvb-ziet-afname-van-incidenten-in-stadions-maar-zijn-nog-niet-waar-we-willen.html",
     "open_new_window": false,
     "partner": null
   }
