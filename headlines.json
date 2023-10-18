@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285791,
+    "slug": "nieuwe-eu-plannen-moeten-extreme-stroomprijzen-voorkomen",
+    "type": "article",
+    "title": "Nieuwe EU-plannen moeten extreme stroomprijzen voorkomen",
+    "subtitle": null,
+    "published_at": "2023-10-18T09:10:43+02:00",
+    "updated_at": "2023-10-18T09:10:45+02:00",
+    "media_id": "rtkxa0cad0wi",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6285791/nieuwe-eu-plannen-moeten-extreme-stroomprijzen-voorkomen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285758,
     "slug": "robert-misset-is-nieuwe-chef-sport-van-nunl",
     "type": "article",
@@ -349,9 +372,9 @@
     "slug": "na-afrekening-met-hamas-zal-israelische-woede-zich-richten-op-eigen-leiders",
     "type": "article",
     "title": "Na afrekening met Hamas zal Israëlische woede zich richten op eigen leiders",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-10-18T05:09:44+02:00",
-    "updated_at": "2023-10-18T06:36:28+02:00",
+    "updated_at": "2023-10-18T09:16:15+02:00",
     "media_id": "reuxruwanvxz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6285697/acht-op-de-tien-bedrijven-zeggen-duurzamer-te-werken-dan-vorig-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285771,
-    "slug": "denemarken-ontsnapt-aan-historische-afgang-na-eerste-goal-san-marino-in-2023",
-    "type": "article",
-    "title": "Denemarken ontsnapt aan historische afgang na eerste goal San Marino in 2023",
-    "subtitle": null,
-    "published_at": "2023-10-17T22:46:26+02:00",
-    "updated_at": "2023-10-17T23:39:45+02:00",
-    "media_id": "skux7ikaye11",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285771/denemarken-ontsnapt-aan-historische-afgang-na-eerste-goal-san-marino-in-2023.html",
     "open_new_window": false,
     "partner": null
   }
