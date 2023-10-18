@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285867,
+    "slug": "cameras-in-zeewolde-moeten-botsingen-zeearenden-en-windturbines-voorkomen",
+    "type": "article",
+    "title": "Camera's in Zeewolde moeten botsingen zeearenden en windturbines voorkomen",
+    "subtitle": null,
+    "published_at": "2023-10-18T15:31:19+02:00",
+    "updated_at": "2023-10-18T15:31:20+02:00",
+    "media_id": "cb1xj64akqbj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6285867/cameras-in-zeewolde-moeten-botsingen-zeearenden-en-windturbines-voorkomen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285865,
     "slug": "achttien-maanden-cel-voor-kroongetuige-die-loog-over-zwembadmoord-in-marum",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6285868,
-    "slug": "man-springt-van-brandend-gebouw-in-india",
+    "slug": "indiase-man-overleeft-sprong-van-dak-brandend-gebouw",
     "type": "video",
-    "title": "Man springt van brandend gebouw in India",
+    "title": "Indiase man overleeft sprong van dak brandend gebouw",
     "subtitle": "Video",
     "published_at": "2023-10-18T15:23:24+02:00",
-    "updated_at": "2023-10-18T15:23:25+02:00",
+    "updated_at": "2023-10-18T15:44:00+02:00",
     "media_id": "d4nxltua8gq4",
     "duration": "0:44",
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6285868/man-springt-van-brandend-gebouw-in-india.html",
+    "url": "/videos/6285868/indiase-man-overleeft-sprong-van-dak-brandend-gebouw.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "CL voor vrouwen Ajax én FC Twente? 'Hopelijk wordt het een historische dag'",
     "subtitle": null,
     "published_at": "2023-10-18T15:20:04+02:00",
-    "updated_at": "2023-10-18T15:26:41+02:00",
+    "updated_at": "2023-10-18T15:27:03+02:00",
     "media_id": "vznxhf0a0m73",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Britse inflatie is gestopt met dalen na pauze renteverhogingen",
     "subtitle": null,
     "published_at": "2023-10-18T14:15:38+02:00",
-    "updated_at": "2023-10-18T14:42:33+02:00",
+    "updated_at": "2023-10-18T15:33:49+02:00",
     "media_id": "exmx4faa2frb",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6285816/poetin-ontmoet-xi-tijdens-eerste-grote-buitenlandbezoek-sinds-oorlog-in-oekraine.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285834,
-    "slug": "maguire-komt-op-voor-uitgejouwde-henderson-echte-fans-schelden-je-niet-uit",
-    "type": "article",
-    "title": "Maguire komt op voor uitgejouwde Henderson: 'Echte fans schelden je niet uit'",
-    "subtitle": null,
-    "published_at": "2023-10-18T12:23:03+02:00",
-    "updated_at": "2023-10-18T12:27:34+02:00",
-    "media_id": "h32xdtkah3mk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6285834/maguire-komt-op-voor-uitgejouwde-henderson-echte-fans-schelden-je-niet-uit.html",
     "open_new_window": false,
     "partner": null
   }
