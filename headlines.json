@@ -1,12 +1,35 @@
 [
   {
+    "id": 6285965,
+    "slug": "sterrenhemel-verder-in-kaart-gebracht-bijna-400000-sterrenstelsels-in-de-buurt",
+    "type": "article",
+    "title": "Sterrenhemel verder in kaart gebracht: bijna 400.000 sterrenstelsels in de buurt",
+    "subtitle": null,
+    "published_at": "2023-10-19T11:10:58+02:00",
+    "updated_at": "2023-10-19T11:10:59+02:00",
+    "media_id": "rivx04aar4dn",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6285965/sterrenhemel-verder-in-kaart-gebracht-bijna-400000-sterrenstelsels-in-de-buurt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285963,
     "slug": "deutsche-bahn-verkoopt-vervoerder-arriva-aan-amerikaanse-investeerder",
     "type": "article",
     "title": "Deutsche Bahn verkoopt vervoerder Arriva aan Amerikaanse investeerder",
     "subtitle": null,
     "published_at": "2023-10-19T10:37:55+02:00",
-    "updated_at": "2023-10-19T10:37:56+02:00",
+    "updated_at": "2023-10-19T11:07:26+02:00",
     "media_id": "hjpxi53akc7h",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Tesla voelt hete adem van concurrentie in zijn nek en ziet winstgevendheid dalen",
     "subtitle": null,
     "published_at": "2023-10-19T09:33:13+02:00",
-    "updated_at": "2023-10-19T10:34:14+02:00",
+    "updated_at": "2023-10-19T10:47:24+02:00",
     "media_id": "gbcx8oiac6c8",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Jonker over terugkeer Miedema bij Oranje: 'Kans dat ze speeltijd krijgt is klein'",
     "subtitle": null,
     "published_at": "2023-10-19T09:07:20+02:00",
-    "updated_at": "2023-10-19T09:44:47+02:00",
+    "updated_at": "2023-10-19T10:48:33+02:00",
     "media_id": "di8x3hcabqv8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6285927/numidia-en-duncan-laurence-in-derde-editie-van-beste-zangers-live.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285897,
-    "slug": "griep-en-herfstdip-zorgen-ervoor-dat-we-ons-weer-vaker-ziek-melden",
-    "type": "article",
-    "title": "Griep en herfstdip zorgen ervoor dat we ons weer vaker ziek melden",
-    "subtitle": null,
-    "published_at": "2023-10-19T06:02:19+02:00",
-    "updated_at": "2023-10-19T10:17:40+02:00",
-    "media_id": "wqlx54saljld",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6285897/griep-en-herfstdip-zorgen-ervoor-dat-we-ons-weer-vaker-ziek-melden.html",
     "open_new_window": false,
     "partner": null
   }
