@@ -1,5 +1,28 @@
 [
   {
+    "id": 6286001,
+    "slug": "brussel-roept-tiktok-en-meta-ter-verantwoording-voor-verspreiding-nepnieuws",
+    "type": "article",
+    "title": "Brussel roept TikTok en Meta ter verantwoording voor verspreiding nepnieuws",
+    "subtitle": null,
+    "published_at": "2023-10-19T14:56:57+02:00",
+    "updated_at": "2023-10-19T15:15:07+02:00",
+    "media_id": "d7xxnf4ad7mm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6286001/brussel-roept-tiktok-en-meta-ter-verantwoording-voor-verspreiding-nepnieuws.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6285999,
     "slug": "franse-onderzoekers-doen-opnieuw-inval-in-kantoren-spelen-van-parijs",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Israëlische ambassade: 18-jarige Nederlander wordt gegijzeld door Hamas",
     "subtitle": null,
     "published_at": "2023-10-19T14:30:09+02:00",
-    "updated_at": "2023-10-19T14:43:38+02:00",
+    "updated_at": "2023-10-19T15:06:14+02:00",
     "media_id": "2udxhkhayt3m",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Politie schiet ontsnapte en gewapende tbs'er neer bij Brabants Hulten",
     "subtitle": null,
     "published_at": "2023-10-19T14:24:14+02:00",
-    "updated_at": "2023-10-19T14:49:27+02:00",
+    "updated_at": "2023-10-19T14:58:12+02:00",
     "media_id": "a2bxfxpahgw5",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "BCC meldt uit vrees voor onrust niet meer welke winkels open zijn",
     "subtitle": null,
     "published_at": "2023-10-19T13:39:11+02:00",
-    "updated_at": "2023-10-19T13:54:07+02:00",
+    "updated_at": "2023-10-19T15:15:40+02:00",
     "media_id": "ykbxakdaray9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/koningshuis/6285974/koninklijk-paar-ontmoet-zuid-afrikaanse-president-tijdens-staatsbezoek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285973,
-    "slug": "tientallen-gewonde-agenten-duits-pro-palestijns-protest-loopt-uit-de-hand",
-    "type": "video",
-    "title": "Tientallen gewonde agenten: Duits Pro-Palestijns protest loopt uit de hand",
-    "subtitle": "Video",
-    "published_at": "2023-10-19T11:52:05+02:00",
-    "updated_at": "2023-10-19T11:52:06+02:00",
-    "media_id": "qkyxsbnanvoo",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6285973/tientallen-gewonde-agenten-duits-pro-palestijns-protest-loopt-uit-de-hand.html",
     "open_new_window": false,
     "partner": null
   }
