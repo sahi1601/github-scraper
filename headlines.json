@@ -1,5 +1,28 @@
 [
   {
+    "id": 6285972,
+    "slug": "is-er-frictie-bij-red-bull-tussen-horner-en-marko",
+    "type": "audio",
+    "title": "'Is er frictie bij Red Bull tussen Horner en Marko?'",
+    "subtitle": "Podcast De Boordradio",
+    "published_at": "2023-10-19T15:31:57+02:00",
+    "updated_at": "2023-10-19T15:31:58+02:00",
+    "media_id": "36tx2lgapggp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6285972/is-er-frictie-bij-red-bull-tussen-horner-en-marko.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286004,
     "slug": "seizoen-beslist-maar-formule-1-blijft-spannend-in-laatste-vijf-races",
     "type": "article",
@@ -190,8 +213,8 @@
     "title": "Israëlische ambassade: 18-jarige Nederlander wordt gegijzeld door Hamas",
     "subtitle": null,
     "published_at": "2023-10-19T14:30:09+02:00",
-    "updated_at": "2023-10-19T15:27:51+02:00",
-    "media_id": "w72xayka51u0",
+    "updated_at": "2023-10-19T15:44:18+02:00",
+    "media_id": "h0dxkylayig0",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6285976/jeroen-pauw-reist-af-naar-turkije-voor-special-over-wederopbouw.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6285979,
-    "slug": "mensenrechtenprijs-eu-gaat-naar-iraanse-die-werd-gedood-door-zedenpolitie",
-    "type": "article",
-    "title": "Mensenrechtenprijs EU gaat naar Iraanse die werd gedood door zedenpolitie",
-    "subtitle": null,
-    "published_at": "2023-10-19T12:43:01+02:00",
-    "updated_at": "2023-10-19T12:43:02+02:00",
-    "media_id": "qyqxhvja2ofb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6285979/mensenrechtenprijs-eu-gaat-naar-iraanse-die-werd-gedood-door-zedenpolitie.html",
     "open_new_window": false,
     "partner": null
   }
