@@ -1,5 +1,28 @@
 [
   {
+    "id": 6286040,
+    "slug": "fotos-van-doden-en-ontvoerden-tentoongesteld-in-tel-aviv",
+    "type": "video",
+    "title": "Foto's van doden en ontvoerden tentoongesteld in Tel Aviv",
+    "subtitle": "Video",
+    "published_at": "2023-10-19T19:20:04+02:00",
+    "updated_at": "2023-10-19T19:20:05+02:00",
+    "media_id": "jfcxhjwajys1",
+    "duration": "0:31",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6286040/fotos-van-doden-en-ontvoerden-tentoongesteld-in-tel-aviv.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286038,
     "slug": "zeven-gearresteerde-nederlanders-in-antwerpen-waren-uit-op-10-ton-cocaine",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6286006/israelische-voetbalclubs-wijken-uit-naar-ander-land-voor-europese-duels.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286001,
-    "slug": "brussel-roept-tiktok-en-meta-ter-verantwoording-voor-verspreiding-nepnieuws",
-    "type": "article",
-    "title": "Brussel roept TikTok en Meta ter verantwoording voor verspreiding nepnieuws",
-    "subtitle": null,
-    "published_at": "2023-10-19T14:56:57+02:00",
-    "updated_at": "2023-10-19T15:15:07+02:00",
-    "media_id": "d7xxnf4ad7mm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6286001/brussel-roept-tiktok-en-meta-ter-verantwoording-voor-verspreiding-nepnieuws.html",
     "open_new_window": false,
     "partner": null
   }
