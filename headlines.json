@@ -1,12 +1,35 @@
 [
   {
+    "id": 6285982,
+    "slug": "geloof-niet-alles-wat-je-leest-over-de-schadelijke-effecten-van-de-pil",
+    "type": "article",
+    "title": "Geloof niet alles wat je leest over de schadelijke effecten van de pil",
+    "subtitle": "NU+",
+    "published_at": "2023-10-20T12:28:49+02:00",
+    "updated_at": "2023-10-20T12:28:50+02:00",
+    "media_id": "pj2xvuvatw98",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779236,
+      "slug": "nuverder",
+      "type": "default",
+      "name": "Dagelijks leven",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nuverder/6285982/geloof-niet-alles-wat-je-leest-over-de-schadelijke-effecten-van-de-pil.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286119,
-    "slug": "koningspaar-moet-auto-in-door-boze-demonstranten-bij-slavernijmuseum-kaapstad",
+    "slug": "koningspaar-treft-boze-demonstranten-bij-slavernijmuseum-kaapstad",
     "type": "video",
-    "title": "Koningspaar moet auto in door boze demonstranten bij slavernijmuseum Kaapstad",
+    "title": "Koningspaar treft boze demonstranten bij slavernijmuseum Kaapstad",
     "subtitle": "Video",
     "published_at": "2023-10-20T12:01:21+02:00",
-    "updated_at": "2023-10-20T12:10:01+02:00",
+    "updated_at": "2023-10-20T12:19:27+02:00",
     "media_id": "wttxejta8jhk",
     "duration": "1:48",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6286119/koningspaar-moet-auto-in-door-boze-demonstranten-bij-slavernijmuseum-kaapstad.html",
+    "url": "/videos/6286119/koningspaar-treft-boze-demonstranten-bij-slavernijmuseum-kaapstad.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Onrust bij staatsbezoek in Zuid-Afrika: koningspaar moet door woedende menigte naar auto",
     "subtitle": null,
     "published_at": "2023-10-20T11:53:27+02:00",
-    "updated_at": "2023-10-20T12:11:47+02:00",
+    "updated_at": "2023-10-20T12:16:48+02:00",
     "media_id": "3hnxn06ak4o1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/coronavirus/6286082/ziekenhuizen-beginnen-alvast-met-onderzoek-naar-ontstaan-postcovidsyndroom.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286081,
-    "slug": "te-veel-storingen-bij-geldautomaten-problemen-voorlopig-niet-opgelost",
-    "type": "article",
-    "title": "Te veel storingen bij geldautomaten, problemen voorlopig niet opgelost",
-    "subtitle": null,
-    "published_at": "2023-10-20T08:41:57+02:00",
-    "updated_at": "2023-10-20T08:41:58+02:00",
-    "media_id": "eodxvg7a8urg",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6286081/te-veel-storingen-bij-geldautomaten-problemen-voorlopig-niet-opgelost.html",
     "open_new_window": false,
     "partner": null
   }
