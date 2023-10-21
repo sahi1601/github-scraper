@@ -1,5 +1,28 @@
 [
   {
+    "id": 6286170,
+    "slug": "nu-alweer-herfstvakantie-is-dat-nou-goed-voor-een-kind",
+    "type": "article",
+    "title": "Nu alweer herfstvakantie: is dat nou goed voor een kind?",
+    "subtitle": "NU+",
+    "published_at": "2023-10-21T11:34:55+02:00",
+    "updated_at": "2023-10-21T11:34:56+02:00",
+    "media_id": "t6ixjaka7991",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779236,
+      "slug": "nuverder",
+      "type": "default",
+      "name": "Dagelijks leven",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/nuverder/6286170/nu-alweer-herfstvakantie-is-dat-nou-goed-voor-een-kind.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286260,
     "slug": "vader-van-door-hamas-vrijgelaten-tiener-kan-nu-eindelijk-slapen",
     "type": "video",
@@ -213,7 +236,7 @@
     "title": "Disney bestaat honderd jaar: 'Jubileumitems kunnen goede investering zijn'",
     "subtitle": "NU+",
     "published_at": "2023-10-21T09:02:44+02:00",
-    "updated_at": "2023-10-21T10:34:45+02:00",
+    "updated_at": "2023-10-21T11:35:13+02:00",
     "media_id": "73cxc6za10ok",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6286002/najaarstrek-in-volle-gang-zo-proberen-windparken-vogels-te-sparen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286060,
-    "slug": "united-fans-benieuwd-naar-deal-waarbij-gehate-glazers-macht-inleveren",
-    "type": "article",
-    "title": "United-fans benieuwd naar deal waarbij gehate Glazers macht inleveren",
-    "subtitle": "NU+",
-    "published_at": "2023-10-21T05:10:53+02:00",
-    "updated_at": "2023-10-21T09:38:18+02:00",
-    "media_id": "natxm2ta3fgj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6286060/united-fans-benieuwd-naar-deal-waarbij-gehate-glazers-macht-inleveren.html",
     "open_new_window": false,
     "partner": null
   }
