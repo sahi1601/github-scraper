@@ -1,12 +1,35 @@
 [
   {
-    "id": 6286293,
-    "slug": "jongen-14-komt-om-bij-aanrijding-in-purmerend",
+    "id": 6286294,
+    "slug": "fc-twente-vrouwen-herstelt-zich-na-cl-deceptie-met-zege-op-ado-in-eredivisie",
     "type": "article",
-    "title": "Jongen (14) komt om bij aanrijding in Purmerend",
+    "title": "FC Twente Vrouwen herstelt zich na CL-deceptie met zege op ADO in Eredivisie",
+    "subtitle": null,
+    "published_at": "2023-10-21T16:13:35+02:00",
+    "updated_at": "2023-10-21T16:19:25+02:00",
+    "media_id": "wq0xbbuayk9r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6286294/fc-twente-vrouwen-herstelt-zich-na-cl-deceptie-met-zege-op-ado-in-eredivisie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286293,
+    "slug": "veertienjarige-jongen-komt-om-bij-aanrijding-in-purmerend",
+    "type": "article",
+    "title": "Veertienjarige Jongen komt om bij aanrijding in Purmerend",
     "subtitle": null,
     "published_at": "2023-10-21T16:03:08+02:00",
-    "updated_at": "2023-10-21T16:03:10+02:00",
+    "updated_at": "2023-10-21T16:14:08+02:00",
     "media_id": "bnbx33mab8fn",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland-en-buitenland/6286293/jongen-14-komt-om-bij-aanrijding-in-purmerend.html",
+    "url": "/binnenland-en-buitenland/6286293/veertienjarige-jongen-komt-om-bij-aanrijding-in-purmerend.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Liverpool met Van Dijk en Gravenberch pas in slotfase langs tiental Everton",
     "subtitle": null,
     "published_at": "2023-10-21T15:30:45+02:00",
-    "updated_at": "2023-10-21T15:54:45+02:00",
+    "updated_at": "2023-10-21T16:15:15+02:00",
     "media_id": "youx58dajoed",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Politie zoekt 'uiterst vuurwapengevaarlijke' man na dodelijk schietincident Rotterdam",
     "subtitle": null,
     "published_at": "2023-10-21T15:13:27+02:00",
-    "updated_at": "2023-10-21T15:46:06+02:00",
+    "updated_at": "2023-10-21T16:21:17+02:00",
     "media_id": "fknxau9aiiin",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6286255/hardwell-keert-terug-met-eigen-programma-op-radio-538.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286258,
-    "slug": "meteorenzwerm-orioniden-slecht-te-zien-door-bewolking",
-    "type": "article",
-    "title": "Meteorenzwerm Orioniden slecht te zien door bewolking",
-    "subtitle": null,
-    "published_at": "2023-10-21T10:51:12+02:00",
-    "updated_at": "2023-10-21T10:53:50+02:00",
-    "media_id": "qa4x007afbui",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6286258/meteorenzwerm-orioniden-slecht-te-zien-door-bewolking.html",
     "open_new_window": false,
     "partner": null
   }
