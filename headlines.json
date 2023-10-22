@@ -1,12 +1,35 @@
 [
   {
+    "id": 6286338,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-10-22T05:16:15+02:00",
+    "updated_at": "2023-10-22T05:16:16+02:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6286338/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286254,
     "slug": "het-stroomnet-raakt-overvol-en-bedrijven-staan-op-een-wachtlijst-hoe-zit-dat",
     "type": "article",
-    "title": "Het stroomnet raakt overvol en bedrijven staan op een wachtlijst. Hoe zit dat?",
+    "title": "Het stroomnet raakt overvol en bedrijven staan op een wachtlijst: hoe zit dat?",
     "subtitle": null,
     "published_at": "2023-10-22T05:10:23+02:00",
-    "updated_at": "2023-10-22T05:10:23+02:00",
+    "updated_at": "2023-10-22T05:14:29+02:00",
     "media_id": "3iwxn6xaz1p3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6286322/psv-wint-ook-simpel-van-fortuna-en-blijft-na-negen-duels-foutloos-in-eredivisie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286321,
-    "slug": "man-overleden-aan-verwondingen-op-parkeerplaats-vlak-bij-belgische-grens",
-    "type": "article",
-    "title": "Man overleden aan verwondingen op parkeerplaats vlak bij Belgische grens",
-    "subtitle": null,
-    "published_at": "2023-10-21T20:36:44+02:00",
-    "updated_at": "2023-10-21T20:48:24+02:00",
-    "media_id": "2kbxdw9axlif",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6286321/man-overleden-aan-verwondingen-op-parkeerplaats-vlak-bij-belgische-grens.html",
     "open_new_window": false,
     "partner": null
   }
