@@ -1,5 +1,28 @@
 [
   {
+    "id": 6286669,
+    "slug": "tweede-kamer-stemt-voor-ruimere-aftapmogelijkheden-bij-aivd-en-mivd",
+    "type": "article",
+    "title": "Tweede Kamer stemt voor ruimere aftapmogelijkheden bij AIVD en MIVD",
+    "subtitle": null,
+    "published_at": "2023-10-24T15:55:05+02:00",
+    "updated_at": "2023-10-24T15:55:06+02:00",
+    "media_id": "jsbx989au5ke",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6286669/tweede-kamer-stemt-voor-ruimere-aftapmogelijkheden-bij-aivd-en-mivd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286668,
     "slug": "schepen-botsen-in-betwiste-wateren-van-zuid-chinese-zee",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Kopstukken Satudarah zouden nog actief zijn in drugshandel en witwassen",
     "subtitle": null,
     "published_at": "2023-10-24T15:39:33+02:00",
-    "updated_at": "2023-10-24T15:42:10+02:00",
+    "updated_at": "2023-10-24T15:57:54+02:00",
     "media_id": "ijyxqcxac3sb",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Bedrijven omzeilen regels voor hergebruik wegwerpplastic",
     "subtitle": null,
     "published_at": "2023-10-24T13:52:27+02:00",
-    "updated_at": "2023-10-24T14:25:12+02:00",
+    "updated_at": "2023-10-24T15:52:57+02:00",
     "media_id": "om9x56aax2kh",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6286641/viaplay-stelt-publicatie-kwartaalcijfers-uit-om-over-eigen-toekomst-te-praten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286618,
-    "slug": "psv-wil-tegen-lens-negatieve-recordreeks-in-champions-league-doorbreken",
-    "type": "article",
-    "title": "PSV wil tegen Lens negatieve recordreeks in Champions League doorbreken",
-    "subtitle": null,
-    "published_at": "2023-10-24T12:35:48+02:00",
-    "updated_at": "2023-10-24T12:35:50+02:00",
-    "media_id": "b3yxa13au086",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6286618/psv-wil-tegen-lens-negatieve-recordreeks-in-champions-league-doorbreken.html",
     "open_new_window": false,
     "partner": null
   }
