@@ -1,5 +1,28 @@
 [
   {
+    "id": 6286685,
+    "slug": "lebron-james-en-barack-obama-in-gesprek-met-netflix-over-basketbaldocu",
+    "type": "article",
+    "title": "LeBron James en Barack Obama in gesprek met Netflix over basketbaldocu",
+    "subtitle": null,
+    "published_at": "2023-10-24T17:16:40+02:00",
+    "updated_at": "2023-10-24T17:16:41+02:00",
+    "media_id": "v53x2maasm74",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6286685/lebron-james-en-barack-obama-in-gesprek-met-netflix-over-basketbaldocu.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286684,
     "slug": "politie-doet-weer-inval-in-amsterdam-oost-in-zoektocht-naar-bretly-dorder",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6286655/bedrijven-omzeilen-regels-voor-hergebruik-wegwerpplastic.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286652,
-    "slug": "passagiersvliegtuig-kantelt-achterover-in-new-york",
-    "type": "video",
-    "title": "Passagiersvliegtuig kantelt achterover in New York",
-    "subtitle": "Video",
-    "published_at": "2023-10-24T13:36:23+02:00",
-    "updated_at": "2023-10-24T14:17:23+02:00",
-    "media_id": "qwwx2xpaxbzw",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6286652/passagiersvliegtuig-kantelt-achterover-in-new-york.html",
     "open_new_window": false,
     "partner": null
   }
