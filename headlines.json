@@ -1,12 +1,35 @@
 [
   {
+    "id": 6286790,
+    "slug": "zoektocht-naar-vier-opvarenden-van-gezonken-vrachtschip-in-noordzee-gestaakt",
+    "type": "article",
+    "title": "Zoektocht naar vier opvarenden van gezonken vrachtschip in Noordzee gestaakt",
+    "subtitle": null,
+    "published_at": "2023-10-25T12:18:37+02:00",
+    "updated_at": "2023-10-25T12:18:39+02:00",
+    "media_id": "5a5xvq7ay2qa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6286790/zoektocht-naar-vier-opvarenden-van-gezonken-vrachtschip-in-noordzee-gestaakt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286791,
     "slug": "china-weert-nederlands-vlees-vanwege-uitbraak-blauwtong",
     "type": "article",
     "title": "China weert Nederlands vlees vanwege uitbraak blauwtong",
     "subtitle": null,
     "published_at": "2023-10-25T12:14:23+02:00",
-    "updated_at": "2023-10-25T12:14:24+02:00",
+    "updated_at": "2023-10-25T12:29:18+02:00",
     "media_id": "o7exnr5apnri",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6286613,
-    "slug": "zo-kies-je-de-perfecte-tussenjas",
+    "slug": "zo-kies-je-de-perfecte-tussenjas-voor-de-herfstdagen",
     "type": "article",
-    "title": "Zo kies je de perfecte tussenjas",
-    "subtitle": null,
+    "title": "Zo kies je de perfecte tussenjas voor de herfstdagen",
+    "subtitle": "NU+",
     "published_at": "2023-10-25T11:52:46+02:00",
-    "updated_at": "2023-10-25T11:52:49+02:00",
+    "updated_at": "2023-10-25T12:25:04+02:00",
     "media_id": "7g5x23tamj5f",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/nuverder/6286613/zo-kies-je-de-perfecte-tussenjas.html",
+    "url": "/nuverder/6286613/zo-kies-je-de-perfecte-tussenjas-voor-de-herfstdagen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6286305/voortvluchtige-bretly-d-na-dagenlange-klopjacht-opgepakt-in-amsterdams-hotel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286752,
-    "slug": "van-de-zandschulp-breekt-al-na-vijf-maanden-met-succescoach-groeneveld",
-    "type": "article",
-    "title": "Van de Zandschulp breekt al na vijf maanden met succescoach Groeneveld",
-    "subtitle": null,
-    "published_at": "2023-10-25T09:10:45+02:00",
-    "updated_at": "2023-10-25T09:29:59+02:00",
-    "media_id": "vtvx9ihayx96",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6286752/van-de-zandschulp-breekt-al-na-vijf-maanden-met-succescoach-groeneveld.html",
     "open_new_window": false,
     "partner": null
   }
