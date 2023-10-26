@@ -1,12 +1,104 @@
 [
   {
+    "id": 6286817,
+    "slug": "wat-wil-je-weten-over-nunl-vraag-het-onze-hoofdredactie",
+    "type": "article",
+    "title": "Wat wil je weten over NU.nl? Vraag het onze hoofdredactie",
+    "subtitle": "Over NU",
+    "published_at": "2023-10-26T09:02:32+02:00",
+    "updated_at": "2023-10-26T09:02:33+02:00",
+    "media_id": "ffoxgnranjmy",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6286817/wat-wil-je-weten-over-nunl-vraag-het-onze-hoofdredactie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286914,
+    "slug": "the-passion-vindt-in-2024-plaats-in-zeist-cast-wordt-later-bekend",
+    "type": "article",
+    "title": "The Passion vindt in 2024 plaats in Zeist, cast wordt later bekend",
+    "subtitle": null,
+    "published_at": "2023-10-26T08:55:43+02:00",
+    "updated_at": "2023-10-26T08:55:44+02:00",
+    "media_id": "ra2xlwgapwbl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6286914/the-passion-vindt-in-2024-plaats-in-zeist-cast-wordt-later-bekend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286913,
+    "slug": "van-bommel-heeft-cl-overwintering-met-antwerp-al-uit-het-hoofd-gezet",
+    "type": "article",
+    "title": "Van Bommel heeft CL-overwintering met Antwerp al uit het hoofd gezet",
+    "subtitle": null,
+    "published_at": "2023-10-26T08:55:10+02:00",
+    "updated_at": "2023-10-26T08:55:11+02:00",
+    "media_id": "t28xfjeaf4bq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6286913/van-bommel-heeft-cl-overwintering-met-antwerp-al-uit-het-hoofd-gezet.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6286910,
+    "slug": "cornald-maas-overwoog-songfestival-commissie-te-verlaten-na-ophef-mia-en-dion",
+    "type": "article",
+    "title": "Cornald Maas overwoog Songfestival-commissie te verlaten na ophef Mia en Dion",
+    "subtitle": null,
+    "published_at": "2023-10-26T08:46:40+02:00",
+    "updated_at": "2023-10-26T08:46:42+02:00",
+    "media_id": "w25xvahabo63",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772282,
+      "slug": "songfestival",
+      "type": "default",
+      "name": "Songfestival",
+      "style": "nuuit",
+      "media_id": "4a9xjerag1rk",
+      "partner": null
+    },
+    "url": "/songfestival/6286910/cornald-maas-overwoog-songfestival-commissie-te-verlaten-na-ophef-mia-en-dion.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286904,
     "slug": "politie-sydney-zoekt-nederlander-na-vondst-dode-vrouw-op-prestigieuze-school",
     "type": "article",
     "title": "Politie Sydney zoekt Nederlander na vondst dode vrouw op prestigieuze school",
     "subtitle": null,
     "published_at": "2023-10-26T08:29:18+02:00",
-    "updated_at": "2023-10-26T08:29:19+02:00",
+    "updated_at": "2023-10-26T09:08:36+02:00",
     "media_id": "83yx5zfahot5",
     "duration": null,
     "canonical_section": {
@@ -52,7 +144,7 @@
     "title": "Israël doet nieuwe nachtelijke inval in Gazastrook in aanloop naar volgende fase",
     "subtitle": null,
     "published_at": "2023-10-26T08:17:35+02:00",
-    "updated_at": "2023-10-26T08:17:36+02:00",
+    "updated_at": "2023-10-26T09:10:51+02:00",
     "media_id": "nihxbxbaoa6a",
     "duration": null,
     "canonical_section": {
@@ -75,7 +167,7 @@
     "title": "'Ik laat mij leiden door de stemwijzer bij de Tweede Kamerverkiezingen'",
     "subtitle": "Stelling",
     "published_at": "2023-10-26T08:02:27+02:00",
-    "updated_at": "2023-10-26T08:02:28+02:00",
+    "updated_at": "2023-10-26T09:08:54+02:00",
     "media_id": "md2x9i8ajn8s",
     "duration": null,
     "canonical_section": {
@@ -98,7 +190,7 @@
     "title": "Stekkerauto's accelereerden in 2022 en reden 55 procent meer kilometers",
     "subtitle": null,
     "published_at": "2023-10-26T08:00:57+02:00",
-    "updated_at": "2023-10-26T08:00:59+02:00",
+    "updated_at": "2023-10-26T09:03:24+02:00",
     "media_id": "zt9xsjwar864",
     "duration": null,
     "canonical_section": {
@@ -116,12 +208,12 @@
   },
   {
     "id": 6286906,
-    "slug": "uitblinkende-doncic-voorkomt-droomdebuut-van-toptalent-wembanyama-in-nba",
+    "slug": "uitblinkende-doncic-verpest-nba-debuut-toptalent-wembanyama",
     "type": "article",
-    "title": "Uitblinkende Doncic voorkomt droomdebuut van toptalent Wembanyama in NBA",
+    "title": "Uitblinkende Doncic verpest NBA-debuut toptalent Wembanyama",
     "subtitle": null,
     "published_at": "2023-10-26T07:55:22+02:00",
-    "updated_at": "2023-10-26T08:11:43+02:00",
+    "updated_at": "2023-10-26T09:08:56+02:00",
     "media_id": "nn2xy3kaw70h",
     "duration": null,
     "canonical_section": {
@@ -133,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6286906/uitblinkende-doncic-voorkomt-droomdebuut-van-toptalent-wembanyama-in-nba.html",
+    "url": "/sport-overig/6286906/uitblinkende-doncic-verpest-nba-debuut-toptalent-wembanyama.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +236,7 @@
     "title": "Dader voortvluchtig na dodelijke schietpartijen in de VS: dit weten we nu",
     "subtitle": null,
     "published_at": "2023-10-26T07:53:04+02:00",
-    "updated_at": "2023-10-26T08:42:54+02:00",
+    "updated_at": "2023-10-26T08:59:01+02:00",
     "media_id": "9iwxzb6azpdh",
     "duration": null,
     "canonical_section": {
@@ -213,7 +305,7 @@
     "title": "Coach Sarri zag onderdanig Lazio tegen Feyenoord: 'Leek alsof we bang waren'",
     "subtitle": null,
     "published_at": "2023-10-26T07:37:49+02:00",
-    "updated_at": "2023-10-26T07:37:50+02:00",
+    "updated_at": "2023-10-26T08:49:10+02:00",
     "media_id": "7yjxhmyaob44",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/weerbericht/6286895/code-geel-in-groot-deel-van-het-land-vanwege-dichte-mist.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286894,
-    "slug": "marvel-ster-jonathan-majors-moet-eind-november-voor-de-rechter-komen",
-    "type": "article",
-    "title": "Marvel-ster Jonathan Majors moet eind november voor de rechter komen",
-    "subtitle": null,
-    "published_at": "2023-10-26T06:14:24+02:00",
-    "updated_at": "2023-10-26T07:03:39+02:00",
-    "media_id": "c9oxbbna89wb",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6286894/marvel-ster-jonathan-majors-moet-eind-november-voor-de-rechter-komen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286893,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2023-10-26T05:47:52+02:00",
-    "updated_at": "2023-10-26T05:47:54+02:00",
-    "media_id": "xdtxc8kaj8rf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1773179,
-      "slug": "uitgelicht",
-      "type": "default",
-      "name": "Uitgelicht",
-      "style": "mediapartner-external",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/uitgelicht/6286893/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286856,
-    "slug": "krol-trainde-buiten-het-boekje-na-matige-winter-was-in-slaap-gesukkeld",
-    "type": "article",
-    "title": "Krol trainde 'buiten het boekje' na matige winter: 'Was in slaap gesukkeld'",
-    "subtitle": "NU+",
-    "published_at": "2023-10-26T05:39:12+02:00",
-    "updated_at": "2023-10-26T07:19:40+02:00",
-    "media_id": "1gsxr13amgmc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6286856/krol-trainde-buiten-het-boekje-na-matige-winter-was-in-slaap-gesukkeld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286307,
-    "slug": "turkije-neemt-afscheid-van-erdoganomics-maar-herstel-gaat-moeizaam",
-    "type": "article",
-    "title": "Turkije neemt afscheid van 'Erdoganomics', maar herstel gaat moeizaam",
-    "subtitle": "NU+",
-    "published_at": "2023-10-26T05:36:24+02:00",
-    "updated_at": "2023-10-26T05:36:25+02:00",
-    "media_id": "pxsxys0a6x4q",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6286307/turkije-neemt-afscheid-van-erdoganomics-maar-herstel-gaat-moeizaam.html",
     "open_new_window": false,
     "partner": null
   }
