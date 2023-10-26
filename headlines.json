@@ -1,12 +1,35 @@
 [
   {
+    "id": 6287033,
+    "slug": "britse-overheid-roept-op-tot-einde-vierdaagse-werkweek-bij-lokale-overheden",
+    "type": "article",
+    "title": "Britse overheid roept op tot einde vierdaagse werkweek bij lokale overheden",
+    "subtitle": null,
+    "published_at": "2023-10-26T21:11:41+02:00",
+    "updated_at": "2023-10-26T21:14:47+02:00",
+    "media_id": "44bx5clagowe",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6287033/britse-overheid-roept-op-tot-einde-vierdaagse-werkweek-bij-lokale-overheden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287032,
     "slug": "noorse-politie-onderzoekt-misbruik-atletiekbroers-ingebrigtsen-door-vader",
     "type": "article",
     "title": "Noorse politie onderzoekt misbruik atletiekbroers Ingebrigtsen door vader",
     "subtitle": null,
     "published_at": "2023-10-26T21:07:26+02:00",
-    "updated_at": "2023-10-26T21:07:28+02:00",
+    "updated_at": "2023-10-26T21:11:59+02:00",
     "media_id": "rqxxqy4arbz5",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "AZ beleeft pijnlijke avond met afstraffing in eigen huis tegen Aston Villa",
     "subtitle": null,
     "published_at": "2023-10-26T20:40:40+02:00",
-    "updated_at": "2023-10-26T20:52:58+02:00",
+    "updated_at": "2023-10-26T21:14:39+02:00",
     "media_id": "6gcxlpvalobj",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Thierry Baudet met paraplu op hoofd geslagen voor start van lezing in België",
     "subtitle": null,
     "published_at": "2023-10-26T20:39:21+02:00",
-    "updated_at": "2023-10-26T21:09:17+02:00",
+    "updated_at": "2023-10-26T21:13:21+02:00",
     "media_id": "4crx5hwax6jf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6286807/vooruitblik-gp-mexico-thuisrijder-perez-gaat-lastig-weekend-tegemoet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287005,
-    "slug": "grieperige-nuis-laat-500-meter-schieten-op-world-cup-kwalificatietoernooi",
-    "type": "article",
-    "title": "Grieperige Nuis laat 500 meter schieten op World Cup-kwalificatietoernooi",
-    "subtitle": null,
-    "published_at": "2023-10-26T18:17:55+02:00",
-    "updated_at": "2023-10-26T18:45:25+02:00",
-    "media_id": "svmx915aixtm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6287005/grieperige-nuis-laat-500-meter-schieten-op-world-cup-kwalificatietoernooi.html",
     "open_new_window": false,
     "partner": null
   }
