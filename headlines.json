@@ -1,12 +1,35 @@
 [
   {
+    "id": 6286916,
+    "slug": "jumbo-visma-beloont-doorgebroken-scheperkamp-en-snellink-met-nieuw-contract",
+    "type": "article",
+    "title": "Jumbo-Visma beloont doorgebroken Scheperkamp en Snellink met nieuw contract",
+    "subtitle": null,
+    "published_at": "2023-10-26T09:29:32+02:00",
+    "updated_at": "2023-10-26T09:29:33+02:00",
+    "media_id": "sq6x6qiaqhtp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6286916/jumbo-visma-beloont-doorgebroken-scheperkamp-en-snellink-met-nieuw-contract.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286915,
     "slug": "unilever-verkoopt-weer-minder-maar-verdient-meer-door-prijsverhogingen",
     "type": "article",
     "title": "Unilever verkoopt weer minder, maar verdient meer door prijsverhogingen",
     "subtitle": null,
     "published_at": "2023-10-26T09:19:00+02:00",
-    "updated_at": "2023-10-26T09:19:02+02:00",
+    "updated_at": "2023-10-26T09:26:45+02:00",
     "media_id": "ebnxye8ad22n",
     "duration": null,
     "canonical_section": {
@@ -369,12 +392,12 @@
   },
   {
     "id": 6286898,
-    "slug": "buitenechtelijke-zoon-20-van-prins-albert-wil-met-zijn-vader-samenwerken",
+    "slug": "buitenechtelijke-zoon-van-prins-albert-wil-met-zijn-vader-samenwerken",
     "type": "article",
-    "title": "Buitenechtelijke zoon (20) van prins Albert wil met zijn vader samenwerken",
+    "title": "Buitenechtelijke zoon van prins Albert wil met zijn vader samenwerken",
     "subtitle": null,
     "published_at": "2023-10-26T06:41:20+02:00",
-    "updated_at": "2023-10-26T06:41:21+02:00",
+    "updated_at": "2023-10-26T09:32:44+02:00",
     "media_id": "m7rx2jrac9a0",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/koningshuis/6286898/buitenechtelijke-zoon-20-van-prins-albert-wil-met-zijn-vader-samenwerken.html",
+    "url": "/koningshuis/6286898/buitenechtelijke-zoon-van-prins-albert-wil-met-zijn-vader-samenwerken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +443,7 @@
     "title": "Little Mix-leden in therapie na vertrek collega Jesy Nelson: 'Was traumatisch'",
     "subtitle": null,
     "published_at": "2023-10-26T06:27:14+02:00",
-    "updated_at": "2023-10-26T06:58:12+02:00",
+    "updated_at": "2023-10-26T09:38:48+02:00",
     "media_id": "95zx89haxv8i",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6286896/little-mix-leden-in-therapie-na-vertrek-collega-jesy-nelson-was-traumatisch.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286831,
-    "slug": "hybride-werken-lijkt-volgens-tno-ook-na-corona-een-blijvertje",
-    "type": "article",
-    "title": "Hybride werken lijkt volgens TNO ook na corona een blijvertje",
-    "subtitle": null,
-    "published_at": "2023-10-26T06:24:06+02:00",
-    "updated_at": "2023-10-26T07:15:48+02:00",
-    "media_id": "23rxjy9axeto",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6286831/hybride-werken-lijkt-volgens-tno-ook-na-corona-een-blijvertje.html",
     "open_new_window": false,
     "partner": null
   }
