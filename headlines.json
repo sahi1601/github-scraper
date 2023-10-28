@@ -1,12 +1,58 @@
 [
   {
+    "id": 6287318,
+    "slug": "jake-paul-ziet-jutta-leerdam-voor-het-eerst-wedstrijd-schaatsen-in-thialf",
+    "type": "video",
+    "title": "Jake Paul ziet Jutta Leerdam voor het eerst wedstrijd schaatsen in Thialf",
+    "subtitle": "Video",
+    "published_at": "2023-10-28T18:29:41+02:00",
+    "updated_at": "2023-10-28T18:32:06+02:00",
+    "media_id": "90vx983a4j09",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6287318/jake-paul-ziet-jutta-leerdam-voor-het-eerst-wedstrijd-schaatsen-in-thialf.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287317,
+    "slug": "slecht-draaiend-heerenveen-treft-promovendus-heracles-in-eigen-huis",
+    "type": "article",
+    "title": "Slecht draaiend Heerenveen treft promovendus Heracles in eigen huis",
+    "subtitle": "Liveblog",
+    "published_at": "2023-10-28T18:28:30+02:00",
+    "updated_at": "2023-10-28T18:42:55+02:00",
+    "media_id": "3wyxqv2ae1pe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6287317/slecht-draaiend-heerenveen-treft-promovendus-heracles-in-eigen-huis.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287315,
     "slug": "hamas-zegt-gijzelaars-alleen-vrij-te-laten-als-israel-alle-palestijnen-vrijlaat",
     "type": "article",
     "title": "Hamas zegt gijzelaars alleen vrij te laten als Israël alle Palestijnen vrijlaat",
     "subtitle": null,
     "published_at": "2023-10-28T18:22:48+02:00",
-    "updated_at": "2023-10-28T18:22:49+02:00",
+    "updated_at": "2023-10-28T18:36:24+02:00",
     "media_id": "ryix34ma0rtt",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Bellingham helpt Real Madrid met twee goals aan zege op Barcelona in El Clásico",
     "subtitle": null,
     "published_at": "2023-10-28T18:14:29+02:00",
-    "updated_at": "2023-10-28T18:24:31+02:00",
+    "updated_at": "2023-10-28T18:41:30+02:00",
     "media_id": "9xexrtpa9vrc",
     "duration": null,
     "canonical_section": {
@@ -300,13 +346,13 @@
   },
   {
     "id": 6287290,
-    "slug": "flekken-houdt-de-nul-bij-knappe-uitoverwinning-brentford-tegen-chelsea",
+    "slug": "arsenal-blijft-in-spoor-van-koploper-tottenham-flekken-belangrijk-voor-brentford",
     "type": "article",
-    "title": "Flekken houdt de nul bij knappe uitoverwinning Brentford tegen Chelsea",
+    "title": "Arsenal blijft in spoor van koploper Tottenham, Flekken belangrijk voor Brentford",
     "subtitle": null,
     "published_at": "2023-10-28T15:37:10+02:00",
-    "updated_at": "2023-10-28T16:11:24+02:00",
-    "media_id": "d6rxw6fafxf5",
+    "updated_at": "2023-10-28T18:43:59+02:00",
+    "media_id": "kr2x75jatmr1",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -317,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6287290/flekken-houdt-de-nul-bij-knappe-uitoverwinning-brentford-tegen-chelsea.html",
+    "url": "/voetbal/6287290/arsenal-blijft-in-spoor-van-koploper-tottenham-flekken-belangrijk-voor-brentford.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6287295/echtscheidingsadvocaat-doodgeschoten-voor-haar-kantoor-in-belgie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287293,
-    "slug": "zondagmiddag-bijna-overal-code-geel-vanwege-felle-onweersbuien-en-hagel",
-    "type": "article",
-    "title": "Zondagmiddag bijna overal code geel vanwege felle onweersbuien en hagel",
-    "subtitle": null,
-    "published_at": "2023-10-28T14:54:56+02:00",
-    "updated_at": "2023-10-28T15:21:26+02:00",
-    "media_id": "2x5xq9fagzr1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779258,
-      "slug": "binnenland-en-buitenland",
-      "type": "default",
-      "name": "Binnen- en buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland-en-buitenland/6287293/zondagmiddag-bijna-overal-code-geel-vanwege-felle-onweersbuien-en-hagel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287292,
-    "slug": "nederland-onthield-zich-van-vn-stemming-over-wapenstilstand-gaza-ging-te-ver",
-    "type": "article",
-    "title": "Nederland onthield zich van VN-stemming over wapenstilstand Gaza: 'Ging te ver'",
-    "subtitle": null,
-    "published_at": "2023-10-28T14:49:02+02:00",
-    "updated_at": "2023-10-28T18:27:58+02:00",
-    "media_id": "fd6xenva68fo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Gazaconflict",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6287292/nederland-onthield-zich-van-vn-stemming-over-wapenstilstand-gaza-ging-te-ver.html",
     "open_new_window": false,
     "partner": null
   }
