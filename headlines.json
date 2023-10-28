@@ -1,5 +1,28 @@
 [
   {
+    "id": 6287250,
+    "slug": "hoe-israel-om-de-minuut-gaza-bombardeerde-en-het-gebied-in-duisternis-hulde",
+    "type": "article",
+    "title": "Hoe Israël om de minuut Gaza bombardeerde en het gebied in duisternis hulde",
+    "subtitle": null,
+    "published_at": "2023-10-28T12:19:42+02:00",
+    "updated_at": "2023-10-28T12:19:44+02:00",
+    "media_id": "a9xxwejaobda",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6287250/hoe-israel-om-de-minuut-gaza-bombardeerde-en-het-gebied-in-duisternis-hulde.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6286590,
     "slug": "barca-heeft-met-yamal-weer-een-nieuwe-messi-wordt-een-van-de-besten",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Tientallen doden en zo'n zestig gewonden bij groot verkeersongeluk in Egypte",
     "subtitle": null,
     "published_at": "2023-10-28T11:28:39+02:00",
-    "updated_at": "2023-10-28T11:41:13+02:00",
+    "updated_at": "2023-10-28T12:13:03+02:00",
     "media_id": "mxjxcyzaw4ca",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6287239,
-    "slug": "israelische-militairen-blijven-in-gaza-en-trekken-zich-niet-terug-na-nachtelijk-offensief",
+    "slug": "israelische-militairen-blijven-in-gaza-en-trekken-zich-niet-terug-na-aanval",
     "type": "article",
-    "title": "Israëlische militairen blijven in Gaza en trekken zich niet terug na nachtelijk offensief",
+    "title": "Israëlische militairen blijven in Gaza en trekken zich niet terug na aanval",
     "subtitle": null,
     "published_at": "2023-10-28T10:24:47+02:00",
-    "updated_at": "2023-10-28T11:41:28+02:00",
+    "updated_at": "2023-10-28T12:21:29+02:00",
     "media_id": "g3zxgubatfem",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6287239/israelische-militairen-blijven-in-gaza-en-trekken-zich-niet-terug-na-nachtelijk-offensief.html",
+    "url": "/buitenland/6287239/israelische-militairen-blijven-in-gaza-en-trekken-zich-niet-terug-na-aanval.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6287227/eerst-droog-later-buien-en-mogelijk-een-klap-onweer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6286930,
-    "slug": "een-jaar-na-overname-door-musk-heet-twitter-x-en-lopen-gebruikers-weg",
-    "type": "article",
-    "title": "Een jaar na overname door Musk heet Twitter X en lopen gebruikers weg",
-    "subtitle": "NU+",
-    "published_at": "2023-10-28T05:07:06+02:00",
-    "updated_at": "2023-10-28T11:30:00+02:00",
-    "media_id": "w34x4v7advvl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6286930/een-jaar-na-overname-door-musk-heet-twitter-x-en-lopen-gebruikers-weg.html",
     "open_new_window": false,
     "partner": null
   }
