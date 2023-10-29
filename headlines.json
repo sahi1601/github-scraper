@@ -1,12 +1,35 @@
 [
   {
+    "id": 6287387,
+    "slug": "feyenoord-lijdt-tegen-fc-twente-eerste-nederlaag-van-het-eredivisie-seizoen",
+    "type": "article",
+    "title": "Feyenoord lijdt tegen FC Twente eerste nederlaag van het Eredivisie-seizoen",
+    "subtitle": null,
+    "published_at": "2023-10-29T14:17:06+01:00",
+    "updated_at": "2023-10-29T14:21:37+01:00",
+    "media_id": "murxw1mabn8x",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6287387/feyenoord-lijdt-tegen-fc-twente-eerste-nederlaag-van-het-eredivisie-seizoen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287380,
     "slug": "fc-groningen-verliest-van-sc-cambuur-en-zet-dramatische-reeks-voort",
     "type": "article",
     "title": "FC Groningen verliest van SC Cambuur en zet dramatische reeks voort",
     "subtitle": null,
     "published_at": "2023-10-29T14:10:15+01:00",
-    "updated_at": "2023-10-29T14:11:24+01:00",
+    "updated_at": "2023-10-29T14:21:34+01:00",
     "media_id": "0cax1m6ag9f0",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Vooruitblik GP Mexico: Verstappen kan vertrouwen op beste eigenschap Red Bull",
     "subtitle": null,
     "published_at": "2023-10-29T14:06:41+01:00",
-    "updated_at": "2023-10-29T14:06:57+01:00",
+    "updated_at": "2023-10-29T14:16:46+01:00",
     "media_id": "v9fxr2yaia9z",
     "duration": null,
     "canonical_section": {
@@ -50,9 +73,9 @@
     "slug": "wisselvallige-herfstweek-met-kans-op-stormachtig-weer",
     "type": "article",
     "title": "Wisselvallige herfstweek met kans op stormachtig weer",
-    "subtitle": null,
+    "subtitle": "Weekweerbericht",
     "published_at": "2023-10-29T14:01:58+01:00",
-    "updated_at": "2023-10-29T14:09:10+01:00",
+    "updated_at": "2023-10-29T14:20:21+01:00",
     "media_id": "m1oxdv6aj9ji",
     "duration": null,
     "canonical_section": {
@@ -369,12 +392,12 @@
   },
   {
     "id": 6287374,
-    "slug": "feyenoord-op-2-1-achterstand-in-enschede-aftellen-naar-psv-ajax",
+    "slug": "aftellen-naar-psv-ajax-reacties-na-eerste-nederlaag-feyenoord",
     "type": "article",
-    "title": "Feyenoord op 2-1-achterstand in Enschede, aftellen naar PSV-Ajax",
+    "title": "Aftellen naar PSV-Ajax, reacties na eerste nederlaag Feyenoord",
     "subtitle": "Liveblog",
     "published_at": "2023-10-29T11:17:28+01:00",
-    "updated_at": "2023-10-29T14:05:36+01:00",
+    "updated_at": "2023-10-29T14:18:12+01:00",
     "media_id": "iawxj3javjep",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6287374/feyenoord-op-2-1-achterstand-in-enschede-aftellen-naar-psv-ajax.html",
+    "url": "/voetbal/6287374/aftellen-naar-psv-ajax-reacties-na-eerste-nederlaag-feyenoord.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6287373/bondscoach-boos-om-diskwalificatie-velzeboer-dit-maakt-me-strontchagrijnig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287371,
-    "slug": "me-beeindigt-illegaal-feest-met-kleine-duizend-bezoekers-in-loods-waspik",
-    "type": "article",
-    "title": "ME beëindigt illegaal feest met kleine duizend bezoekers in loods Waspik",
-    "subtitle": null,
-    "published_at": "2023-10-29T10:35:20+01:00",
-    "updated_at": "2023-10-29T11:25:15+01:00",
-    "media_id": "w68xmnpa5kz3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6287371/me-beeindigt-illegaal-feest-met-kleine-duizend-bezoekers-in-loods-waspik.html",
     "open_new_window": false,
     "partner": null
   }
