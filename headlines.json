@@ -1,12 +1,58 @@
 [
   {
+    "id": 6287473,
+    "slug": "griekspoor-bereikt-met-23e-positie-beste-ranking-ooit-op-wereldranglijst",
+    "type": "article",
+    "title": "Griekspoor bereikt met 23e positie beste ranking ooit op wereldranglijst",
+    "subtitle": null,
+    "published_at": "2023-10-30T10:09:23+01:00",
+    "updated_at": "2023-10-30T10:09:24+01:00",
+    "media_id": "zljx9p6ah0gm",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6287473/griekspoor-bereikt-met-23e-positie-beste-ranking-ooit-op-wereldranglijst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6287475,
+    "slug": "tests-die-chemo-overbodig-maken-voor-meer-borstkankerpatienten-in-basispakket",
+    "type": "article",
+    "title": "Tests die chemo overbodig maken voor meer borstkankerpatiënten in basispakket",
+    "subtitle": null,
+    "published_at": "2023-10-30T10:04:43+01:00",
+    "updated_at": "2023-10-30T10:10:32+01:00",
+    "media_id": "1rax0gdantl3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6287475/tests-die-chemo-overbodig-maken-voor-meer-borstkankerpatienten-in-basispakket.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287470,
     "slug": "ziekteverzuim-onder-zorgpersoneel-daalt-ook-in-derde-kwartaal",
     "type": "article",
     "title": "Ziekteverzuim onder zorgpersoneel daalt ook in derde kwartaal",
     "subtitle": null,
     "published_at": "2023-10-30T09:36:22+01:00",
-    "updated_at": "2023-10-30T09:36:23+01:00",
+    "updated_at": "2023-10-30T09:54:41+01:00",
     "media_id": "t0rxrfga580s",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "NU.nl maakt onderzoekspodcast over Tata Steel",
     "subtitle": null,
     "published_at": "2023-10-30T09:03:39+01:00",
-    "updated_at": "2023-10-30T09:41:56+01:00",
+    "updated_at": "2023-10-30T09:48:59+01:00",
     "media_id": "4mgxc9cankez",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6286933/sander-schimmelpenninck-wil-stoppen-met-x-kost-meer-dan-het-oplevert.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287440,
-    "slug": "van-t-schip-moet-van-eerste-helft-ajax-tegen-psv-weer-de-norm-maken",
-    "type": "article",
-    "title": "Van 't Schip moet van eerste helft Ajax tegen PSV weer de norm maken",
-    "subtitle": "NU+",
-    "published_at": "2023-10-30T05:09:21+01:00",
-    "updated_at": "2023-10-30T09:19:25+01:00",
-    "media_id": "5v4xfxtawump",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6287440/van-t-schip-moet-van-eerste-helft-ajax-tegen-psv-weer-de-norm-maken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6283127,
-    "slug": "verkiezingsprogrammas-onder-de-loep-de-woningmarkt",
-    "type": "article",
-    "title": "Verkiezingsprogramma's onder de loep: de woningmarkt",
-    "subtitle": null,
-    "published_at": "2023-10-30T05:05:15+01:00",
-    "updated_at": "2023-10-30T08:57:38+01:00",
-    "media_id": "37yxmlqa4tni",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779275,
-      "slug": "tweede-kamerverkiezingen-2023",
-      "type": "files",
-      "name": "Tweede Kamerverkiezingen 2023",
-      "style": "nu",
-      "media_id": "vh7x4xray27h",
-      "partner": null
-    },
-    "url": "/tweede-kamerverkiezingen-2023/6283127/verkiezingsprogrammas-onder-de-loep-de-woningmarkt.html",
     "open_new_window": false,
     "partner": null
   }
