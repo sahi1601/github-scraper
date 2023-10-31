@@ -1,5 +1,28 @@
 [
   {
+    "id": 6287746,
+    "slug": "baanwielrenner-hoogland-valt-in-mexico-wereldrecord-1-kilometer-aan",
+    "type": "article",
+    "title": "Baanwielrenner Hoogland valt in Mexico wereldrecord 1 kilometer aan",
+    "subtitle": "Liveblog",
+    "published_at": "2023-10-31T20:45:06+01:00",
+    "updated_at": "2023-10-31T20:45:07+01:00",
+    "media_id": "ro3xk10ang9f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6287746/baanwielrenner-hoogland-valt-in-mexico-wereldrecord-1-kilometer-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287676,
     "slug": "hoe-komen-de-oranjes-zo-rijk-erfenissen-zijn-vangnet-van-de-familie",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Simons met titelverdediger Leipzig uitgeschakeld in Duitse beker door Wolfsburg",
     "subtitle": null,
     "published_at": "2023-10-31T20:04:33+01:00",
-    "updated_at": "2023-10-31T20:16:24+01:00",
+    "updated_at": "2023-10-31T20:26:26+01:00",
     "media_id": "9drxj0waeh5c",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Pelova terug in basis Oranje voor tweede Nations League-duel met Schotland",
     "subtitle": null,
     "published_at": "2023-10-31T19:36:01+01:00",
-    "updated_at": "2023-10-31T20:20:35+01:00",
+    "updated_at": "2023-10-31T20:44:50+01:00",
     "media_id": "4bkxz6oathn0",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Egyptische media: Rafah-grens morgen open voor vervoer gewonde Palestijnen",
     "subtitle": null,
     "published_at": "2023-10-31T19:35:31+01:00",
-    "updated_at": "2023-10-31T20:17:25+01:00",
+    "updated_at": "2023-10-31T20:45:06+01:00",
     "media_id": "k9mxm7ca8btd",
     "duration": null,
     "canonical_section": {
@@ -139,13 +162,13 @@
   },
   {
     "id": 6287735,
-    "slug": "oranje-warmt-op-voor-nations-league-wedstrijd-tegen-schotland",
+    "slug": "oranje-begint-aan-nations-league-wedstrijd-tegen-schotland",
     "type": "article",
-    "title": "Oranje warmt op voor Nations League-wedstrijd tegen Schotland",
+    "title": "Oranje begint aan Nations League-wedstrijd tegen Schotland",
     "subtitle": "Liveblog",
     "published_at": "2023-10-31T19:28:26+01:00",
-    "updated_at": "2023-10-31T20:19:18+01:00",
-    "media_id": "ngxxjo6a4dnt",
+    "updated_at": "2023-10-31T20:44:23+01:00",
+    "media_id": "xnmxq7wa250u",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6287735/oranje-warmt-op-voor-nations-league-wedstrijd-tegen-schotland.html",
+    "url": "/voetbal/6287735/oranje-begint-aan-nations-league-wedstrijd-tegen-schotland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -282,7 +305,7 @@
     "title": "Zverev krijgt boete van bijna half miljoen euro voor mishandelen ex-vriendin",
     "subtitle": null,
     "published_at": "2023-10-31T18:01:01+01:00",
-    "updated_at": "2023-10-31T18:04:57+01:00",
+    "updated_at": "2023-10-31T20:43:38+01:00",
     "media_id": "qhox0mga13ex",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6287714/droogte-remt-scheepvaart-over-panamakanaal-nog-verder-af.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287707,
-    "slug": "israelische-tanks-bereiken-gaza-stad-aanval-op-nabijgelegen-vluchtelingenkamp",
-    "type": "article",
-    "title": "Israëlische tanks bereiken Gaza-Stad, aanval op nabijgelegen vluchtelingenkamp",
-    "subtitle": null,
-    "published_at": "2023-10-31T17:19:41+01:00",
-    "updated_at": "2023-10-31T20:05:55+01:00",
-    "media_id": "edoxc6xauke8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Gazaconflict",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6287707/israelische-tanks-bereiken-gaza-stad-aanval-op-nabijgelegen-vluchtelingenkamp.html",
     "open_new_window": false,
     "partner": null
   }
