@@ -1,12 +1,35 @@
 [
   {
+    "id": 6287747,
+    "slug": "griezelige-verkleedpartijen-en-snoep-zo-viert-de-wereld-halloween",
+    "type": "article",
+    "title": "Griezelige verkleedpartijen en snoep: zo viert de wereld Halloween",
+    "subtitle": "In beeld",
+    "published_at": "2023-10-31T21:55:38+01:00",
+    "updated_at": "2023-10-31T21:55:39+01:00",
+    "media_id": "pk3x2shan3ko",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6287747/griezelige-verkleedpartijen-en-snoep-zo-viert-de-wereld-halloween.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287749,
     "slug": "fifa-baas-infantino-bevestigt-dat-saoedi-arabie-wk-voetbal-2034-organiseert",
     "type": "article",
     "title": "FIFA-baas Infantino bevestigt dat Saoedi-Arabië WK voetbal 2034 organiseert",
     "subtitle": null,
     "published_at": "2023-10-31T21:34:45+01:00",
-    "updated_at": "2023-10-31T21:34:46+01:00",
+    "updated_at": "2023-10-31T21:48:24+01:00",
     "media_id": "1g9xhd8a6zjx",
     "duration": null,
     "canonical_section": {
@@ -277,13 +300,13 @@
   },
   {
     "id": 6287735,
-    "slug": "oranje-scoort-niet-voor-rust-tegen-schotland-in-nations-league",
+    "slug": "brugts-zet-oranje-met-knap-schot-op-voorsprong-in-schotland",
     "type": "article",
-    "title": "Oranje scoort niet voor rust tegen Schotland in Nations League",
+    "title": "Brugts zet Oranje met knap schot op voorsprong in Schotland",
     "subtitle": "Liveblog",
     "published_at": "2023-10-31T19:28:26+01:00",
-    "updated_at": "2023-10-31T21:34:33+01:00",
-    "media_id": "y4gx37var2ld",
+    "updated_at": "2023-10-31T22:08:16+01:00",
+    "media_id": "w0kxal0azhr7",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6287735/oranje-scoort-niet-voor-rust-tegen-schotland-in-nations-league.html",
+    "url": "/voetbal/6287735/brugts-zet-oranje-met-knap-schot-op-voorsprong-in-schotland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6287722/zverev-krijgt-boete-van-bijna-half-miljoen-euro-voor-mishandelen-ex-vriendin.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287723,
-    "slug": "hoe-de-fifa-er-alles-aan-deed-om-saoedi-arabie-het-wk-te-bezorgen",
-    "type": "video",
-    "title": "Hoe de FIFA er alles aan deed om Saoedi-Arabië het WK te bezorgen",
-    "subtitle": "Explainer",
-    "published_at": "2023-10-31T17:51:02+01:00",
-    "updated_at": "2023-10-31T17:51:03+01:00",
-    "media_id": "no2x074agymb",
-    "duration": "3:01",
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6287723/hoe-de-fifa-er-alles-aan-deed-om-saoedi-arabie-het-wk-te-bezorgen.html",
     "open_new_window": false,
     "partner": null
   }
