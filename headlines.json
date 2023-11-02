@@ -1,12 +1,35 @@
 [
   {
+    "id": 6288041,
+    "slug": "griekspoor-komt-net-tekort-voor-sensationele-zege-op-djokovic-in-parijs",
+    "type": "article",
+    "title": "Griekspoor komt net tekort voor sensationele zege op Djokovic in Parijs",
+    "subtitle": null,
+    "published_at": "2023-11-02T22:23:06+01:00",
+    "updated_at": "2023-11-02T22:23:11+01:00",
+    "media_id": "ra2x0myaqn23",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6288041/griekspoor-komt-net-tekort-voor-sensationele-zege-op-djokovic-in-parijs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288044,
     "slug": "van-t-schip-loodst-ajax-tegen-fc-volendam-naar-langverwachte-competitiezege",
     "type": "article",
     "title": "Van 't Schip loodst Ajax tegen FC Volendam naar langverwachte competitiezege",
     "subtitle": null,
     "published_at": "2023-11-02T21:57:36+01:00",
-    "updated_at": "2023-11-02T22:09:17+01:00",
+    "updated_at": "2023-11-02T22:18:39+01:00",
     "media_id": "us3xwryacjdw",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6288012/verstappen-denkt-dat-perez-tweede-blijft-in-wk-stand-onze-auto-is-het-snelst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288007,
-    "slug": "autofabriek-vdl-nedcar-schrapt-na-eerdere-ontslagronde-nog-tweeduizend-banen",
-    "type": "article",
-    "title": "Autofabriek VDL Nedcar schrapt na eerdere ontslagronde nog tweeduizend banen",
-    "subtitle": null,
-    "published_at": "2023-11-02T17:07:54+01:00",
-    "updated_at": "2023-11-02T17:07:56+01:00",
-    "media_id": "137xxa1aex2m",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6288007/autofabriek-vdl-nedcar-schrapt-na-eerdere-ontslagronde-nog-tweeduizend-banen.html",
     "open_new_window": false,
     "partner": null
   }
