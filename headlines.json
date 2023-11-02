@@ -1,12 +1,35 @@
 [
   {
+    "id": 6287902,
+    "slug": "brigitte-kaandorp-keert-terug-als-actrice-met-bijrol-in-serie-ferry",
+    "type": "article",
+    "title": "Brigitte Kaandorp keert terug als actrice met bijrol in serie Ferry",
+    "subtitle": null,
+    "published_at": "2023-11-02T06:54:23+01:00",
+    "updated_at": "2023-11-02T06:54:24+01:00",
+    "media_id": "ipwxoynao0zm",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6287902/brigitte-kaandorp-keert-terug-als-actrice-met-bijrol-in-serie-ferry.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287895,
     "slug": "wat-is-witte-fosfor-en-heeft-israel-er-een-oorlogsmisdaad-mee-begaan",
     "type": "video",
     "title": "Wat is witte fosfor en heeft Israël er een oorlogsmisdaad mee begaan?",
-    "subtitle": null,
+    "subtitle": "Explainer",
     "published_at": "2023-11-02T06:41:05+01:00",
-    "updated_at": "2023-11-02T06:41:06+01:00",
+    "updated_at": "2023-11-02T06:58:00+01:00",
     "media_id": "j6tx9zvaxbg5",
     "duration": "1:43",
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "KNMI geeft code oranje in kustgebieden vanwege storm Ciarán: veel overlast",
     "subtitle": null,
     "published_at": "2023-11-02T06:12:37+01:00",
-    "updated_at": "2023-11-02T06:15:34+01:00",
+    "updated_at": "2023-11-02T06:52:38+01:00",
     "media_id": "qh6xhbsaabzd",
     "duration": null,
     "canonical_section": {
@@ -72,10 +95,10 @@
     "id": 6287899,
     "slug": "opgestapte-topfunctionaris-vn-noemt-acties-israel-in-gaza-genocide",
     "type": "article",
-    "title": "Opgestapte topfunctionaris VN noemt acties Israël in Gaza 'genocide'",
+    "title": "Opgestapte topfunctionaris VN noemt acties Israël in Gaza genocide",
     "subtitle": null,
     "published_at": "2023-11-02T06:08:07+01:00",
-    "updated_at": "2023-11-02T06:41:37+01:00",
+    "updated_at": "2023-11-02T06:53:55+01:00",
     "media_id": "hjnx5amanwwy",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Nieuwe klap voor Ten Hag en Manchester United, Gakpo goud waard bij Liverpool",
     "subtitle": null,
     "published_at": "2023-11-01T22:45:56+01:00",
-    "updated_at": "2023-11-02T05:38:07+01:00",
+    "updated_at": "2023-11-02T06:50:11+01:00",
     "media_id": "q8lxfv2a2hv9",
     "duration": null,
     "canonical_section": {
@@ -371,10 +394,10 @@
     "id": 6287886,
     "slug": "amateurclubs-stunten-met-uitschakeling-heracles-en-pec-zwolle-in-knvb-beker",
     "type": "article",
-    "title": "Amateurclubs stunten met uitschakeling Heracles en PEC Zwolle in KNVB Beker",
+    "title": "Amateurclubs stunten met uitschakeling Heracles en PEC Zwolle in KNVB-beker",
     "subtitle": null,
     "published_at": "2023-11-01T20:40:12+01:00",
-    "updated_at": "2023-11-02T06:35:48+01:00",
+    "updated_at": "2023-11-02T06:54:17+01:00",
     "media_id": "hn2xse4au342",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6287885/miljarden-jaren-oud-gas-lekt-vanuit-aardkern-naar-boven-niet-gevaarlijk-wel-nuttig.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6287798,
-    "slug": "bouw-eerste-waterstofnetwerk-begint-nederland-wil-energiehub-zijn",
-    "type": "article",
-    "title": "Bouw eerste waterstofnetwerk begint: Nederland wil 'energiehub' zijn",
-    "subtitle": null,
-    "published_at": "2023-11-01T20:10:39+01:00",
-    "updated_at": "2023-11-02T05:39:11+01:00",
-    "media_id": "tw1xyt8arros",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6287798/bouw-eerste-waterstofnetwerk-begint-nederland-wil-energiehub-zijn.html",
     "open_new_window": false,
     "partner": null
   }
