@@ -1,5 +1,28 @@
 [
   {
+    "id": 6288023,
+    "slug": "dit-enorme-vluchtelingenkamp-in-gaza-heeft-alles-om-een-stad-te-zijn",
+    "type": "video",
+    "title": "Dit enorme vluchtelingenkamp in Gaza heeft alles om een stad te zijn",
+    "subtitle": "Explainer",
+    "published_at": "2023-11-03T06:29:14+01:00",
+    "updated_at": "2023-11-03T06:29:26+01:00",
+    "media_id": "vwrx1lka6cf3",
+    "duration": "2:19",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6288023/dit-enorme-vluchtelingenkamp-in-gaza-heeft-alles-om-een-stad-te-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288053,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -116,12 +139,12 @@
   },
   {
     "id": 6285141,
-    "slug": "anouk-ik-heb-in-27-jaar-carriere-nog-nooit-verantwoording-afgelegd",
+    "slug": "anouk-is-niet-bang-om-carriere-te-verliezen-dan-stort-het-maar-in-elkaar",
     "type": "article",
-    "title": "Anouk: 'Ik heb in 27 jaar carrière nog nooit verantwoording afgelegd'",
+    "title": "Anouk is niet bang om carrière te verliezen: 'Dan stort het maar in elkaar'",
     "subtitle": "NU+",
     "published_at": "2023-11-03T05:11:13+01:00",
-    "updated_at": "2023-11-03T06:02:13+01:00",
+    "updated_at": "2023-11-03T06:33:37+01:00",
     "media_id": "bknxcsra7b54",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6285141/anouk-ik-heb-in-27-jaar-carriere-nog-nooit-verantwoording-afgelegd.html",
+    "url": "/muziek/6285141/anouk-is-niet-bang-om-carriere-te-verliezen-dan-stort-het-maar-in-elkaar.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Herfststorm Ciarán: dit zijn de gevolgen in Nederland en daarbuiten",
     "subtitle": null,
     "published_at": "2023-11-03T05:07:24+01:00",
-    "updated_at": "2023-11-03T06:17:02+01:00",
+    "updated_at": "2023-11-03T06:45:06+01:00",
     "media_id": "8lux9u5adrf8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/midden-oostenconflict/6288036/israelisch-leger-heeft-gaza-stad-naar-eigen-zeggen-volledig-omsingeld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288019,
-    "slug": "vooruitblik-op-gp-sao-paulo-red-bull-krijgt-meer-last-van-hobbels",
-    "type": "article",
-    "title": "Vooruitblik op GP São Paulo: 'Red Bull krijgt meer last van hobbels'",
-    "subtitle": "NU+",
-    "published_at": "2023-11-02T19:56:09+01:00",
-    "updated_at": "2023-11-02T20:25:53+01:00",
-    "media_id": "mlixsuva4a8e",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6288019/vooruitblik-op-gp-sao-paulo-red-bull-krijgt-meer-last-van-hobbels.html",
     "open_new_window": false,
     "partner": null
   }
