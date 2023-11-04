@@ -1,5 +1,28 @@
 [
   {
+    "id": 6288327,
+    "slug": "vliegverkeer-hamburg-stilgelegd-en-luchthaven-gesloten-wegens-gewapende-man",
+    "type": "article",
+    "title": "Vliegverkeer Hamburg stilgelegd en luchthaven gesloten wegens gewapende man",
+    "subtitle": null,
+    "published_at": "2023-11-04T22:09:59+01:00",
+    "updated_at": "2023-11-04T22:18:56+01:00",
+    "media_id": "75mx1diak64z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6288327/vliegverkeer-hamburg-stilgelegd-en-luchthaven-gesloten-wegens-gewapende-man.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288323,
     "slug": "eu-topvrouw-brengt-lidmaatschap-oekraine-iets-dichterbij-tijdens-bezoek-aan-kyiv",
     "type": "article",
@@ -75,8 +98,8 @@
     "title": "Vliegtuig met Nederlands uit Gaza landt in Eindhoven",
     "subtitle": "Video",
     "published_at": "2023-11-04T21:04:38+01:00",
-    "updated_at": "2023-11-04T21:07:52+01:00",
-    "media_id": "fdqxn5ea29os",
+    "updated_at": "2023-11-04T22:10:26+01:00",
+    "media_id": "yqgxbu1apu55",
     "duration": "0:55",
     "canonical_section": {
       "id": 1772431,
@@ -93,13 +116,13 @@
   },
   {
     "id": 6288318,
-    "slug": "rico-verhoeven-verdedigt-wereldtitel-tegen-tariq-osaro",
+    "slug": "rico-verhoeven-en-tariq-osaro-gaan-gelijk-op-in-wereldtitelgevecht",
     "type": "article",
-    "title": "Rico Verhoeven verdedigt wereldtitel tegen Tariq Osaro",
+    "title": "Rico Verhoeven en Tariq Osaro gaan gelijk op in wereldtitelgevecht",
     "subtitle": "Liveblog",
     "published_at": "2023-11-04T21:00:19+01:00",
-    "updated_at": "2023-11-04T22:09:03+01:00",
-    "media_id": "gvzxkn9akexw",
+    "updated_at": "2023-11-04T22:22:54+01:00",
+    "media_id": "k7lxpakaoy2r",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6288318/rico-verhoeven-verdedigt-wereldtitel-tegen-tariq-osaro.html",
+    "url": "/sport-overig/6288318/rico-verhoeven-en-tariq-osaro-gaan-gelijk-op-in-wereldtitelgevecht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6288293/feyenoord-met-ivanusec-maar-zonder-zieke-wieffer-in-uitwedstrijd-tegen-rkc.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288296,
-    "slug": "real-madrid-ontkent-geruchten-we-hebben-niet-onderhandeld-met-mbappe",
-    "type": "article",
-    "title": "Real Madrid ontkent geruchten: 'We hebben niet onderhandeld met Mbappé'",
-    "subtitle": null,
-    "published_at": "2023-11-04T17:34:49+01:00",
-    "updated_at": "2023-11-04T17:40:54+01:00",
-    "media_id": "tk3xlvjaaogw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6288296/real-madrid-ontkent-geruchten-we-hebben-niet-onderhandeld-met-mbappe.html",
     "open_new_window": false,
     "partner": null
   }
