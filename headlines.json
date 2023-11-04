@@ -1,12 +1,58 @@
 [
   {
+    "id": 6288309,
+    "slug": "feyenoord-knokt-zich-naar-zege-bij-tiental-rkc-ondanks-penaltyflater-gimenez",
+    "type": "article",
+    "title": "Feyenoord knokt zich naar zege bij tiental RKC ondanks penaltyflater Giménez",
+    "subtitle": null,
+    "published_at": "2023-11-04T20:40:48+01:00",
+    "updated_at": "2023-11-04T20:42:07+01:00",
+    "media_id": "p6gxsh5a9m2d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6288309/feyenoord-knokt-zich-naar-zege-bij-tiental-rkc-ondanks-penaltyflater-gimenez.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288316,
+    "slug": "psver-saibari-is-duizelig-en-heeft-dicht-oog-na-ultrakort-optreden-in-almelo",
+    "type": "article",
+    "title": "PSV'er Saibari is duizelig en heeft dicht oog na ultrakort optreden in Almelo",
+    "subtitle": null,
+    "published_at": "2023-11-04T20:25:55+01:00",
+    "updated_at": "2023-11-04T20:27:35+01:00",
+    "media_id": "n0jxv7ia797j",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6288316/psver-saibari-is-duizelig-en-heeft-dicht-oog-na-ultrakort-optreden-in-almelo.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288314,
     "slug": "wisselvallige-djokovic-ontsnapt-tegen-rublev-en-treft-dimitrov-in-finale-parijs",
     "type": "article",
     "title": "Wisselvallige Djokovic ontsnapt tegen Rublev en treft Dimitrov in finale Parijs",
     "subtitle": null,
     "published_at": "2023-11-04T20:22:34+01:00",
-    "updated_at": "2023-11-04T20:22:35+01:00",
+    "updated_at": "2023-11-04T20:25:40+01:00",
     "media_id": "ipbxpzuasm9z",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6288290/new-yorkse-politie-redt-blinde-hond-van-verdrinkingsdood.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288288,
-    "slug": "blind-blijft-winnen-met-girona-en-is-minimaal-een-dag-koploper-in-la-liga",
-    "type": "article",
-    "title": "Blind blijft winnen met Girona en is minimaal één dag koploper in La Liga",
-    "subtitle": null,
-    "published_at": "2023-11-04T16:22:51+01:00",
-    "updated_at": "2023-11-04T16:45:56+01:00",
-    "media_id": "6wtxya9a7ogz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6288288/blind-blijft-winnen-met-girona-en-is-minimaal-een-dag-koploper-in-la-liga.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288282,
-    "slug": "verstappen-nipt-verslagen-door-norris-in-sprintkwalificatie-gp-sao-paulo",
-    "type": "article",
-    "title": "Verstappen nipt verslagen door Norris in sprintkwalificatie GP São Paulo",
-    "subtitle": null,
-    "published_at": "2023-11-04T16:12:29+01:00",
-    "updated_at": "2023-11-04T17:49:51+01:00",
-    "media_id": "zspxksuaxc7g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6288282/verstappen-nipt-verslagen-door-norris-in-sprintkwalificatie-gp-sao-paulo.html",
     "open_new_window": false,
     "partner": null
   }
