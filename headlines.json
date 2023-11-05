@@ -1,12 +1,58 @@
 [
   {
+    "id": 6288431,
+    "slug": "samenvatting-verstappen-wint-gp-sao-paulo-na-hectische-start",
+    "type": "video",
+    "title": "Samenvatting: Verstappen wint GP São Paulo na hectische start",
+    "subtitle": "Video",
+    "published_at": "2023-11-05T21:49:23+01:00",
+    "updated_at": "2023-11-05T21:52:36+01:00",
+    "media_id": "u36x5njat1o6",
+    "duration": "1:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6288431/samenvatting-verstappen-wint-gp-sao-paulo-na-hectische-start.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288430,
+    "slug": "verstappen-zag-norris-opeens-dichtbij-komen-maar-had-toch-zijn-marge-in-brazilie",
+    "type": "article",
+    "title": "Verstappen zag Norris 'opeens' dichtbij komen, maar had toch zijn marge in Brazilië",
+    "subtitle": null,
+    "published_at": "2023-11-05T21:47:20+01:00",
+    "updated_at": "2023-11-05T21:47:39+01:00",
+    "media_id": "d1txrrfal2v6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6288430/verstappen-zag-norris-opeens-dichtbij-komen-maar-had-toch-zijn-marge-in-brazilie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288429,
     "slug": "alonso-had-niet-meer-op-podiumplek-gerekend-maar-ik-kreeg-toch-nog-een-kans",
     "type": "article",
     "title": "Alonso had niet meer op podiumplek gerekend: 'Maar ik kreeg toch nog een kans'",
     "subtitle": null,
     "published_at": "2023-11-05T21:29:17+01:00",
-    "updated_at": "2023-11-05T21:29:50+01:00",
+    "updated_at": "2023-11-05T22:02:46+01:00",
     "media_id": "0p8xw2da4t01",
     "duration": null,
     "canonical_section": {
@@ -24,12 +70,12 @@
   },
   {
     "id": 6288428,
-    "slug": "noorderlicht-goed-te-zien-op-verschillende-plekken-in-nederland",
+    "slug": "noorderlicht-is-goed-te-zien-op-verschillende-plekken-in-nederland",
     "type": "article",
-    "title": "Noorderlicht goed te zien op verschillende plekken in Nederland",
+    "title": "Noorderlicht is goed te zien op verschillende plekken in Nederland",
     "subtitle": "In beeld",
     "published_at": "2023-11-05T21:20:00+01:00",
-    "updated_at": "2023-11-05T21:20:02+01:00",
+    "updated_at": "2023-11-05T22:10:53+01:00",
     "media_id": "u57xd7tabw2p",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6288428/noorderlicht-goed-te-zien-op-verschillende-plekken-in-nederland.html",
+    "url": "/binnenland/6288428/noorderlicht-is-goed-te-zien-op-verschillende-plekken-in-nederland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +98,7 @@
     "title": "Zware bombardementen verlichten lucht boven Gazastrook",
     "subtitle": "Video",
     "published_at": "2023-11-05T21:10:47+01:00",
-    "updated_at": "2023-11-05T21:11:14+01:00",
+    "updated_at": "2023-11-05T21:55:32+01:00",
     "media_id": "e1xxbi2am459",
     "duration": "0:46",
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Verstappen wint ook in Brazilië en verbetert record uit 1952",
     "subtitle": null,
     "published_at": "2023-11-05T20:02:12+01:00",
-    "updated_at": "2023-11-05T21:32:56+01:00",
+    "updated_at": "2023-11-05T21:50:33+01:00",
     "media_id": "o77xoxxaj2hn",
     "duration": null,
     "canonical_section": {
@@ -259,7 +305,7 @@
     "title": "Ajax wint ook tweede duel onder Van 't Schip met glansrol voor invaller Akpom",
     "subtitle": null,
     "published_at": "2023-11-05T18:44:26+01:00",
-    "updated_at": "2023-11-05T19:32:36+01:00",
+    "updated_at": "2023-11-05T21:50:38+01:00",
     "media_id": "il4xcgsazjoo",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6288401/nageeye-net-buiten-podium-marathon-van-new-york-tola-loopt-solo-naar-winst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288402,
-    "slug": "reacties-na-fraaie-zege-verstappen-in-sao-paulo",
-    "type": "article",
-    "title": "Reacties na fraaie zege Verstappen in São Paulo",
-    "subtitle": "Liveblog",
-    "published_at": "2023-11-05T17:31:37+01:00",
-    "updated_at": "2023-11-05T20:57:04+01:00",
-    "media_id": "9uixbwjaln5t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6288402/reacties-na-fraaie-zege-verstappen-in-sao-paulo.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288000,
-    "slug": "slim-recyclen-hier-kun-je-terecht-met-restjes-verf-en-lege-batterijen",
-    "type": "article",
-    "title": "Slim recyclen: hier kun je terecht met restjes verf en lege batterijen",
-    "subtitle": "NU+",
-    "published_at": "2023-11-05T17:21:40+01:00",
-    "updated_at": "2023-11-05T17:21:42+01:00",
-    "media_id": "w1dx4ofay4mf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779236,
-      "slug": "nuverder",
-      "type": "default",
-      "name": "Dagelijks leven",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nuverder/6288000/slim-recyclen-hier-kun-je-terecht-met-restjes-verf-en-lege-batterijen.html",
     "open_new_window": false,
     "partner": null
   }
