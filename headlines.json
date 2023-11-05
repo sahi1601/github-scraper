@@ -1,5 +1,28 @@
 [
   {
+    "id": 6288435,
+    "slug": "hoofdrol-lukaku-bij-opmerkelijke-zege-as-roma-real-madrid-speelt-gelijk",
+    "type": "article",
+    "title": "Hoofdrol Lukaku bij opmerkelijke zege AS Roma, Real Madrid speelt gelijk",
+    "subtitle": null,
+    "published_at": "2023-11-05T23:13:12+01:00",
+    "updated_at": "2023-11-05T23:13:13+01:00",
+    "media_id": "5ubxnejak6bi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6288435/hoofdrol-lukaku-bij-opmerkelijke-zege-as-roma-real-madrid-speelt-gelijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288436,
     "slug": "klimaatschadefonds-iets-dichterbij-na-gesprekken-voorafgaand-aan-cop28",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6288408/almere-city-klimt-naar-linkerrijtje-dankzij-verrassende-overwinning-bij-sparta.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288405,
-    "slug": "oekraiense-veteranen-verwerken-oorlogstraumas-met-jiujitsu",
-    "type": "video",
-    "title": "Oekraïense veteranen verwerken oorlogstrauma’s met jiujitsu",
-    "subtitle": "Video",
-    "published_at": "2023-11-05T18:05:22+01:00",
-    "updated_at": "2023-11-05T18:56:51+01:00",
-    "media_id": "cc1xtrha1rmg",
-    "duration": "2:00",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6288405/oekraiense-veteranen-verwerken-oorlogstraumas-met-jiujitsu.html",
     "open_new_window": false,
     "partner": null
   }
