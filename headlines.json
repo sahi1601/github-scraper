@@ -1,5 +1,51 @@
 [
   {
+    "id": 6288346,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-11-05T05:30:01+01:00",
+    "updated_at": "2023-11-05T05:30:03+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6288346/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288345,
+    "slug": "dode-in-heerlen-na-val-bij-poging-abseilen-van-erg-hoge-flat",
+    "type": "article",
+    "title": "Dode in Heerlen na val bij poging abseilen van erg hoge flat",
+    "subtitle": null,
+    "published_at": "2023-11-05T05:29:04+01:00",
+    "updated_at": "2023-11-05T05:29:05+01:00",
+    "media_id": "cdwxivjazfxf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6288345/dode-in-heerlen-na-val-bij-poging-abseilen-van-erg-hoge-flat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288344,
     "slug": "gijzelingsactie-om-voogdijgeschil-nog-steeds-gaande-op-vliegveld-hamburg",
     "type": "article",
@@ -190,7 +236,7 @@
     "title": "Stop met machteloze coureurs vragen naar hun mening over sprintraces",
     "subtitle": "NU+",
     "published_at": "2023-11-05T00:03:03+01:00",
-    "updated_at": "2023-11-05T02:04:45+01:00",
+    "updated_at": "2023-11-05T05:38:43+01:00",
     "media_id": "ivcxiq5afx0w",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Feyenoord en PSV treffen Eredivisie-clubs in beker, Ajax naar amateurs",
     "subtitle": null,
     "published_at": "2023-11-04T23:35:45+01:00",
-    "updated_at": "2023-11-04T23:59:38+01:00",
+    "updated_at": "2023-11-05T05:36:17+01:00",
     "media_id": "h1fx9nwaixm8",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Limburgse Emmy Ackermans wint Regio Songfestival",
     "subtitle": null,
     "published_at": "2023-11-04T23:22:48+01:00",
-    "updated_at": "2023-11-04T23:45:22+01:00",
+    "updated_at": "2023-11-05T05:30:55+01:00",
     "media_id": "ed9xiszagaru",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6288323/eu-topvrouw-brengt-lidmaatschap-oekraine-iets-dichterbij-tijdens-bezoek-aan-kyiv.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288322,
-    "slug": "zelfkritische-norris-is-sneller-dan-ooit-maar-baalt-van-vele-kleine-foutjes",
-    "type": "article",
-    "title": "Zelfkritische Norris is 'sneller dan ooit', maar baalt van vele kleine foutjes",
-    "subtitle": null,
-    "published_at": "2023-11-04T21:41:26+01:00",
-    "updated_at": "2023-11-05T01:14:38+01:00",
-    "media_id": "k6tx23ya3hw4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6288322/zelfkritische-norris-is-sneller-dan-ooit-maar-baalt-van-vele-kleine-foutjes.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288320,
-    "slug": "verstappen-moest-vooral-bandensparen-in-sprintrace-geen-ronde-voluit-gegaan",
-    "type": "article",
-    "title": "Verstappen moest vooral bandensparen in sprintrace: 'Geen ronde voluit gegaan'",
-    "subtitle": null,
-    "published_at": "2023-11-04T21:13:51+01:00",
-    "updated_at": "2023-11-05T01:15:13+01:00",
-    "media_id": "9aexhmraodaa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6288320/verstappen-moest-vooral-bandensparen-in-sprintrace-geen-ronde-voluit-gegaan.html",
     "open_new_window": false,
     "partner": null
   }
