@@ -1,5 +1,28 @@
 [
   {
+    "id": 6288344,
+    "slug": "gijzelingsactie-om-voogdijgeschil-nog-steeds-gaande-op-vliegveld-hamburg",
+    "type": "article",
+    "title": "Gijzelingsactie om voogdijgeschil nog steeds gaande op vliegveld Hamburg",
+    "subtitle": null,
+    "published_at": "2023-11-05T05:22:21+01:00",
+    "updated_at": "2023-11-05T05:22:22+01:00",
+    "media_id": "wcqxpoka9qks",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6288344/gijzelingsactie-om-voogdijgeschil-nog-steeds-gaande-op-vliegveld-hamburg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6287935,
     "slug": "europese-nerts-kan-de-oplossing-zijn-om-exotische-kreeft-te-bestrijden",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6288320/verstappen-moest-vooral-bandensparen-in-sprintrace-geen-ronde-voluit-gegaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288319,
-    "slug": "vliegtuig-met-nederlands-uit-gaza-landt-in-eindhoven",
-    "type": "video",
-    "title": "Vliegtuig met Nederlands uit Gaza landt in Eindhoven",
-    "subtitle": "Video",
-    "published_at": "2023-11-04T21:04:38+01:00",
-    "updated_at": "2023-11-04T22:10:26+01:00",
-    "media_id": "yqgxbu1apu55",
-    "duration": "0:55",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6288319/vliegtuig-met-nederlands-uit-gaza-landt-in-eindhoven.html",
     "open_new_window": false,
     "partner": null
   }
