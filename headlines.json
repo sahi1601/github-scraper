@@ -1,5 +1,28 @@
 [
   {
+    "id": 6288428,
+    "slug": "noorderlicht-goed-te-zien-op-verschillende-plekken-in-nederland",
+    "type": "article",
+    "title": "Noorderlicht goed te zien op verschillende plekken in Nederland",
+    "subtitle": "In beeld",
+    "published_at": "2023-11-05T21:20:00+01:00",
+    "updated_at": "2023-11-05T21:20:02+01:00",
+    "media_id": "u57xd7tabw2p",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6288428/noorderlicht-goed-te-zien-op-verschillende-plekken-in-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288426,
     "slug": "zware-bombardementen-verlichten-lucht-boven-gazastrook",
     "type": "video",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6288423,
-    "slug": "samenvatting-verstappen-wint-gp-sao-paulo-na-hectische-start",
+    "slug": "verstappen-komt-met-grote-voorsprong-over-finish-en-wint-gp-sao-paulo",
     "type": "video",
-    "title": "Samenvatting: Verstappen wint GP São Paulo na hectische start",
+    "title": "Verstappen komt met grote voorsprong over finish en wint GP São Paulo",
     "subtitle": "Video",
     "published_at": "2023-11-05T20:36:50+01:00",
-    "updated_at": "2023-11-05T21:11:39+01:00",
+    "updated_at": "2023-11-05T21:16:36+01:00",
     "media_id": "382x01laeco5",
     "duration": "1:44",
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6288423/samenvatting-verstappen-wint-gp-sao-paulo-na-hectische-start.html",
+    "url": "/videos/6288423/verstappen-komt-met-grote-voorsprong-over-finish-en-wint-gp-sao-paulo.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Verstappen wint ook in Brazilië en verbetert record uit 1952",
     "subtitle": null,
     "published_at": "2023-11-05T20:02:12+01:00",
-    "updated_at": "2023-11-05T20:58:12+01:00",
+    "updated_at": "2023-11-05T21:21:23+01:00",
     "media_id": "o77xoxxaj2hn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6288400/djokovic-overklast-dimitrov-in-finale-parijs-en-pakt-veertigste-masters-titel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288398,
-    "slug": "historische-slotfase-bij-nec-fc-volendam-door-drie-doelpunten-in-blessuretijd",
-    "type": "article",
-    "title": "Historische slotfase bij NEC-FC Volendam door drie doelpunten in blessuretijd",
-    "subtitle": null,
-    "published_at": "2023-11-05T16:35:44+01:00",
-    "updated_at": "2023-11-05T18:46:56+01:00",
-    "media_id": "xzqxuwuarm3u",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6288398/historische-slotfase-bij-nec-fc-volendam-door-drie-doelpunten-in-blessuretijd.html",
     "open_new_window": false,
     "partner": null
   }
