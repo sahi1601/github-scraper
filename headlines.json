@@ -1,5 +1,28 @@
 [
   {
+    "id": 6288372,
+    "slug": "vooruitblik-gp-sao-paulo-verstappen-op-jacht-naar-volgende-record",
+    "type": "article",
+    "title": "Vooruitblik GP São Paulo: Verstappen op jacht naar volgende record",
+    "subtitle": null,
+    "published_at": "2023-11-05T12:18:06+01:00",
+    "updated_at": "2023-11-05T12:23:53+01:00",
+    "media_id": "7y8x672awevk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6288372/vooruitblik-gp-sao-paulo-verstappen-op-jacht-naar-volgende-record.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288155,
     "slug": "tbs-klinieken-bomvol-veroordeelden-langer-vast-in-afwachting-van-een-plek",
     "type": "article",
@@ -29,8 +52,8 @@
     "title": "Dit mag je van ons verwachten in aanloop naar de verkiezingen",
     "subtitle": "Hoofdredactie",
     "published_at": "2023-11-05T12:00:42+01:00",
-    "updated_at": "2023-11-05T12:07:07+01:00",
-    "media_id": "ykbxlima08is",
+    "updated_at": "2023-11-05T12:16:40+01:00",
+    "media_id": "ai1xmr7ahxm6",
     "duration": null,
     "canonical_section": {
       "id": 1772069,
@@ -47,13 +70,13 @@
   },
   {
     "id": 6288369,
-    "slug": "twente-stijgt-bij-winst-in-utrecht-naar-tweede-plek-op-ranglijst",
+    "slug": "twente-in-utrecht-begonnen-aan-jacht-op-tweede-plek",
     "type": "article",
-    "title": "Twente stijgt bij winst in Utrecht naar tweede plek op ranglijst",
+    "title": "Twente in Utrecht begonnen aan jacht op tweede plek",
     "subtitle": "Liveblog",
     "published_at": "2023-11-05T11:40:24+01:00",
-    "updated_at": "2023-11-05T11:40:25+01:00",
-    "media_id": "mzlxmwrai97v",
+    "updated_at": "2023-11-05T12:18:34+01:00",
+    "media_id": "m2pxf2paip5c",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6288369/twente-stijgt-bij-winst-in-utrecht-naar-tweede-plek-op-ranglijst.html",
+    "url": "/voetbal/6288369/twente-in-utrecht-begonnen-aan-jacht-op-tweede-plek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "ECB-president Lagarde denkt dat inflatie in 2025 genoeg is gedaald",
     "subtitle": null,
     "published_at": "2023-11-05T09:49:45+01:00",
-    "updated_at": "2023-11-05T10:47:45+01:00",
+    "updated_at": "2023-11-05T12:24:28+01:00",
     "media_id": "1n9x0qlas3ui",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Israëlisch leger geeft burgers weer tijdslot om naar Zuid-Gaza te gaan",
     "subtitle": null,
     "published_at": "2023-11-05T07:30:31+01:00",
-    "updated_at": "2023-11-05T11:09:01+01:00",
+    "updated_at": "2023-11-05T12:24:15+01:00",
     "media_id": "p9exhxaawcr1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6288341/boegeroep-en-kritiek-laten-dankbare-verhoeven-koud-na-weer-een-zege.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288347,
-    "slug": "deze-zondag-heeft-van-alles-wat-dus-ga-voorbereid-op-pad",
-    "type": "article",
-    "title": "Deze zondag heeft van alles wat, dus ga voorbereid op pad",
-    "subtitle": "Weerbericht",
-    "published_at": "2023-11-05T05:50:13+01:00",
-    "updated_at": "2023-11-05T07:49:33+01:00",
-    "media_id": "h50xyzxa0q7n",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6288347/deze-zondag-heeft-van-alles-wat-dus-ga-voorbereid-op-pad.html",
     "open_new_window": false,
     "partner": null
   }
