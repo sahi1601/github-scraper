@@ -1,5 +1,28 @@
 [
   {
+    "id": 6288571,
+    "slug": "diks-ziet-kopenhagen-voor-eigen-publiek-als-favoriet-tegen-manchester-united",
+    "type": "article",
+    "title": "Diks ziet Kopenhagen voor eigen publiek als favoriet tegen Manchester United",
+    "subtitle": null,
+    "published_at": "2023-11-06T21:26:21+01:00",
+    "updated_at": "2023-11-06T21:33:33+01:00",
+    "media_id": "vnfxpo1a94c7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6288571/diks-ziet-kopenhagen-voor-eigen-publiek-als-favoriet-tegen-manchester-united.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288570,
     "slug": "actievoerders-gaan-schilderij-in-londens-museum-te-lijf",
     "type": "video",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6288569,
-    "slug": "man-aangehouden-nadat-hij-op-burgemeester-inrijdt-geaardheid-mogeljk-motief",
+    "slug": "man-opgepakt-nadat-hij-op-burgemeester-wil-inrijden-geaardheid-mogelijk-motief",
     "type": "article",
-    "title": "Man aangehouden nadat hij op burgemeester inrijdt, geaardheid mogeljk motief",
+    "title": "Man opgepakt nadat hij op burgemeester wil inrijden, geaardheid mogelijk motief",
     "subtitle": null,
     "published_at": "2023-11-06T21:11:13+01:00",
-    "updated_at": "2023-11-06T21:21:35+01:00",
+    "updated_at": "2023-11-06T21:31:52+01:00",
     "media_id": "yvsxlpwafsqb",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6288569/man-aangehouden-nadat-hij-op-burgemeester-inrijdt-geaardheid-mogeljk-motief.html",
+    "url": "/binnenland/6288569/man-opgepakt-nadat-hij-op-burgemeester-wil-inrijden-geaardheid-mogelijk-motief.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tweede-kamerverkiezingen-2023/6288461/verkiezingsupdate-partijen-openen-voorzichtig-de-aanval-op-omtzigt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288540,
-    "slug": "oudste-frisdrankbedrijf-van-egypte-leeft-op-door-boycot-westerse-producten",
-    "type": "article",
-    "title": "Oudste frisdrankbedrijf van Egypte leeft op door boycot westerse producten",
-    "subtitle": null,
-    "published_at": "2023-11-06T16:57:46+01:00",
-    "updated_at": "2023-11-06T16:57:48+01:00",
-    "media_id": "2j9xobjafdyi",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6288540/oudste-frisdrankbedrijf-van-egypte-leeft-op-door-boycot-westerse-producten.html",
     "open_new_window": false,
     "partner": null
   }
