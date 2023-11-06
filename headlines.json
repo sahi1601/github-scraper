@@ -1,13 +1,36 @@
 [
   {
+    "id": 6288484,
+    "slug": "feyenoord-reist-met-trauner-en-wieffer-af-naar-rome-voor-cl-duel-met-lazio",
+    "type": "article",
+    "title": "Feyenoord reist met Trauner en Wieffer af naar Rome voor CL-duel met Lazio",
+    "subtitle": null,
+    "published_at": "2023-11-06T11:16:43+01:00",
+    "updated_at": "2023-11-06T11:16:44+01:00",
+    "media_id": "ba3xycwauxhe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6288484/feyenoord-reist-met-trauner-en-wieffer-af-naar-rome-voor-cl-duel-met-lazio.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288485,
     "slug": "honderden-scholen-doen-deze-maand-mee-aan-scholierenverkiezingen",
     "type": "article",
     "title": "Honderden scholen doen deze maand mee aan Scholierenverkiezingen",
     "subtitle": null,
     "published_at": "2023-11-06T11:14:48+01:00",
-    "updated_at": "2023-11-06T11:14:49+01:00",
-    "media_id": "07qxj3eam0sb",
+    "updated_at": "2023-11-06T11:21:02+01:00",
+    "media_id": "norx6d6ar2x5",
     "duration": null,
     "canonical_section": {
       "id": 1779275,
@@ -351,7 +374,7 @@
     "title": "Nederlanders versturen minder pakketjes en brieven en dat voelt PostNL",
     "subtitle": null,
     "published_at": "2023-11-06T08:45:15+01:00",
-    "updated_at": "2023-11-06T10:40:37+01:00",
+    "updated_at": "2023-11-06T11:27:45+01:00",
     "media_id": "1kax8eqaahtn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6288452/hemel-boven-afsluitdijk-kleurt-roze-door-noorderlicht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288451,
-    "slug": "ajax-wekt-irritatie-bij-heerenveen-speler-brouwers-alsof-ze-de-cl-finale-winnen",
-    "type": "article",
-    "title": "Ajax wekt irritatie bij Heerenveen-speler Brouwers: 'Alsof ze de CL-finale winnen'",
-    "subtitle": null,
-    "published_at": "2023-11-06T07:22:56+01:00",
-    "updated_at": "2023-11-06T07:36:15+01:00",
-    "media_id": "ndkx1tgabrf9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6288451/ajax-wekt-irritatie-bij-heerenveen-speler-brouwers-alsof-ze-de-cl-finale-winnen.html",
     "open_new_window": false,
     "partner": null
   }
