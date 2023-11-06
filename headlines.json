@@ -1,12 +1,58 @@
 [
   {
+    "id": 6288550,
+    "slug": "demonstranten-blokkeren-boot-vs-met-militaire-hulp-voor-israel",
+    "type": "video",
+    "title": "Demonstranten blokkeren boot VS met militaire hulp voor Israël",
+    "subtitle": "Video",
+    "published_at": "2023-11-06T17:41:49+01:00",
+    "updated_at": "2023-11-06T17:41:51+01:00",
+    "media_id": "c5hxps0apidj",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6288550/demonstranten-blokkeren-boot-vs-met-militaire-hulp-voor-israel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288549,
+    "slug": "berlusconis-familie-stopt-met-bungabungavrouwen-betalen-zo-zit-het",
+    "type": "video",
+    "title": "Berlusconi's familie stopt met bungabungavrouwen betalen: zo zit het",
+    "subtitle": "Explainer",
+    "published_at": "2023-11-06T17:37:30+01:00",
+    "updated_at": "2023-11-06T17:41:27+01:00",
+    "media_id": "n4ox0ebatxjj",
+    "duration": "2:27",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6288549/berlusconis-familie-stopt-met-bungabungavrouwen-betalen-zo-zit-het.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288548,
     "slug": "suzanne-schulting-verwond-door-schaats-bij-val-in-shorttracktraining",
     "type": "article",
     "title": "Suzanne Schulting verwond door schaats bij val in shorttracktraining",
     "subtitle": null,
     "published_at": "2023-11-06T17:30:07+01:00",
-    "updated_at": "2023-11-06T17:32:17+01:00",
+    "updated_at": "2023-11-06T17:41:43+01:00",
     "media_id": "p85x6s1a4aab",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6288515/oppas-uit-schagen-zou-niet-alleen-kinderen-maar-ook-dieren-hebben-misbruikt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288519,
-    "slug": "prins-william-roeit-voor-zijn-leven-tijdens-drakenbootwedstrijd-in-singapore",
-    "type": "video",
-    "title": "Prins William roeit voor zijn leven tijdens drakenbootwedstrijd in Singapore",
-    "subtitle": "Video",
-    "published_at": "2023-11-06T14:32:07+01:00",
-    "updated_at": "2023-11-06T14:32:08+01:00",
-    "media_id": "q9pxox8a2vhu",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6288519/prins-william-roeit-voor-zijn-leven-tijdens-drakenbootwedstrijd-in-singapore.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288502,
-    "slug": "onrust-bij-de-grens-tussen-israel-en-libanon-dit-speelt-er",
-    "type": "article",
-    "title": "Onrust bij de grens tussen Israël en Libanon: dit speelt er",
-    "subtitle": "NU+",
-    "published_at": "2023-11-06T14:24:43+01:00",
-    "updated_at": "2023-11-06T16:09:24+01:00",
-    "media_id": "rpyx3isavg2c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6288502/onrust-bij-de-grens-tussen-israel-en-libanon-dit-speelt-er.html",
     "open_new_window": false,
     "partner": null
   }
