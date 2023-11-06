@@ -1,12 +1,35 @@
 [
   {
+    "id": 6288562,
+    "slug": "oplettende-ballenjongen-luncht-mee-bij-go-ahead-ik-word-overal-herkend",
+    "type": "article",
+    "title": "Oplettende ballenjongen luncht mee bij Go Ahead: 'Ik word overal herkend'",
+    "subtitle": null,
+    "published_at": "2023-11-06T19:23:16+01:00",
+    "updated_at": "2023-11-06T19:23:17+01:00",
+    "media_id": "ry1xn8ma7rxh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6288562/oplettende-ballenjongen-luncht-mee-bij-go-ahead-ik-word-overal-herkend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288560,
     "slug": "er-zweven-130-miljoen-stukjes-ruimteafval-om-de-aarde-dus-komen-er-regels",
     "type": "article",
     "title": "Er zweven 130 miljoen stukjes ruimteafval om de aarde, dus komen er regels",
     "subtitle": null,
     "published_at": "2023-11-06T19:18:53+01:00",
-    "updated_at": "2023-11-06T19:18:53+01:00",
+    "updated_at": "2023-11-06T19:18:54+01:00",
     "media_id": "zqdx25xaiw5p",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6288531/al-vroeg-sneeuwval-in-de-alpen-maar-november-is-nog-niet-het-nieuwe-december.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288532,
-    "slug": "drone-filmt-jongeren-die-vuurwerk-op-schotse-politie-schieten",
-    "type": "video",
-    "title": "Drone filmt jongeren die vuurwerk op Schotse politie schieten",
-    "subtitle": "Video",
-    "published_at": "2023-11-06T15:49:03+01:00",
-    "updated_at": "2023-11-06T15:49:04+01:00",
-    "media_id": "chmx7l4an9zc",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6288532/drone-filmt-jongeren-die-vuurwerk-op-schotse-politie-schieten.html",
     "open_new_window": false,
     "partner": null
   }
