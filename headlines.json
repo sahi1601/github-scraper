@@ -1,12 +1,35 @@
 [
   {
+    "id": 6288739,
+    "slug": "dortmund-herstelt-zich-met-belangrijke-cl-zege-op-newcastle-van-competitieflater",
+    "type": "article",
+    "title": "Dortmund herstelt zich met belangrijke CL-zege op Newcastle van competitieflater",
+    "subtitle": null,
+    "published_at": "2023-11-07T20:48:08+01:00",
+    "updated_at": "2023-11-07T20:58:54+01:00",
+    "media_id": "h1dxiclamzxi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6288739/dortmund-herstelt-zich-met-belangrijke-cl-zege-op-newcastle-van-competitieflater.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288736,
     "slug": "shakhtar-van-trainer-pusic-stunt-met-zege-op-barcelona-in-champions-league",
     "type": "article",
     "title": "Shakhtar van trainer Pusic stunt met zege op Barcelona in Champions League",
     "subtitle": null,
     "published_at": "2023-11-07T20:41:32+01:00",
-    "updated_at": "2023-11-07T20:43:40+01:00",
+    "updated_at": "2023-11-07T21:12:46+01:00",
     "media_id": "so4x3qba5ycp",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Feyenoord heeft Wieffer terug tegen Lazio, Slot kiest weer voor 'succesformule'",
     "subtitle": null,
     "published_at": "2023-11-07T19:58:12+01:00",
-    "updated_at": "2023-11-07T20:43:25+01:00",
+    "updated_at": "2023-11-07T21:02:09+01:00",
     "media_id": "r9kxfunavf91",
     "duration": null,
     "canonical_section": {
@@ -346,13 +369,13 @@
   },
   {
     "id": 6288717,
-    "slug": "feyenoord-warmt-met-wieffer-en-paixao-op-in-rome",
+    "slug": "feyenoord-teruggedrongen-in-openingsfase-tegen-lazio",
     "type": "article",
-    "title": "Feyenoord warmt met Wieffer en Paixão op in Rome",
+    "title": "Feyenoord teruggedrongen in openingsfase tegen Lazio",
     "subtitle": "Liveblog",
     "published_at": "2023-11-07T18:10:55+01:00",
-    "updated_at": "2023-11-07T20:43:41+01:00",
-    "media_id": "p9ox67ca8mvr",
+    "updated_at": "2023-11-07T21:11:57+01:00",
+    "media_id": "vwhxxwlavocn",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -363,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6288717/feyenoord-warmt-met-wieffer-en-paixao-op-in-rome.html",
+    "url": "/voetbal/6288717/feyenoord-teruggedrongen-in-openingsfase-tegen-lazio.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6288706/nederlander-huijsen-18-na-juventus-debuut-gepromoveerd-naar-eerste-elftal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288701,
-    "slug": "waarom-deze-app-uit-china-omstreden-is-en-soms-ook-verboden",
-    "type": "video",
-    "title": "Waarom deze app uit China omstreden is (en soms ook verboden)",
-    "subtitle": "Explainer",
-    "published_at": "2023-11-07T17:02:19+01:00",
-    "updated_at": "2023-11-07T17:25:51+01:00",
-    "media_id": "nzhxvmqajq1n",
-    "duration": "2:28",
-    "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
-      "type": "default",
-      "name": "Tech & Wetenschap",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech-wetenschap/6288701/waarom-deze-app-uit-china-omstreden-is-en-soms-ook-verboden.html",
     "open_new_window": false,
     "partner": null
   }
