@@ -1,5 +1,28 @@
 [
   {
+    "id": 6288894,
+    "slug": "explosie-in-chemische-fabriek-zorgt-voor-grote-rookpluim-boven-texas",
+    "type": "video",
+    "title": "Explosie in chemische fabriek zorgt voor grote rookpluim boven Texas",
+    "subtitle": "Video",
+    "published_at": "2023-11-08T19:20:55+01:00",
+    "updated_at": "2023-11-08T19:20:56+01:00",
+    "media_id": "1jbx8c1ar1uf",
+    "duration": "0:41",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6288894/explosie-in-chemische-fabriek-zorgt-voor-grote-rookpluim-boven-texas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288889,
     "slug": "timbaland-biedt-excuses-aan-voor-muilkorf-uitspraak-over-britney-spears",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6288881,
-    "slug": "echtpaar-gearresteerd-na-vondst-189-lijken-in-verregaande-staat-van-ontbinding",
+    "slug": "echtpaar-in-vs-opgepakt-na-vondst-189-lijken-in-verregaande-staat-van-ontbinding",
     "type": "article",
-    "title": "Echtpaar gearresteerd na vondst 189 lijken in verregaande staat van ontbinding",
+    "title": "Echtpaar in VS opgepakt na vondst 189 lijken in verregaande staat van ontbinding",
     "subtitle": null,
     "published_at": "2023-11-08T18:52:41+01:00",
-    "updated_at": "2023-11-08T19:15:53+01:00",
+    "updated_at": "2023-11-08T19:26:02+01:00",
     "media_id": "2yfxbw0a1zig",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6288881/echtpaar-gearresteerd-na-vondst-189-lijken-in-verregaande-staat-van-ontbinding.html",
+    "url": "/buitenland/6288881/echtpaar-in-vs-opgepakt-na-vondst-189-lijken-in-verregaande-staat-van-ontbinding.html",
     "open_new_window": false,
     "partner": null
   },
@@ -118,11 +141,11 @@
     "id": 6288880,
     "slug": "sociedad-vernedert-benfica-voor-rust-psv-bereidt-zich-voor-op-belangrijk-duel",
     "type": "article",
-    "title": "Sociedad vernedert Benfica voor rust,  PSV bereidt zich voor op belangrijk duel",
+    "title": "Sociedad vernedert Benfica voor rust, PSV bereidt zich voor op belangrijk duel",
     "subtitle": "Liveblog",
     "published_at": "2023-11-08T18:12:55+01:00",
-    "updated_at": "2023-11-08T19:13:26+01:00",
-    "media_id": "irbx4jpavdsm",
+    "updated_at": "2023-11-08T19:28:28+01:00",
+    "media_id": "i9pxyj5actbv",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6288859/gemeenten-krijgen-tips-voor-omgang-met-spanningen-rond-oorlog-israel-hamas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288858,
-    "slug": "vpro-geschrokken-van-aangiftes-tegen-tim-den-besten-programma-blijft-op-tv",
-    "type": "article",
-    "title": "VPRO geschrokken van aangiftes tegen Tim den Besten, programma blijft op tv",
-    "subtitle": null,
-    "published_at": "2023-11-08T15:55:13+01:00",
-    "updated_at": "2023-11-08T17:41:10+01:00",
-    "media_id": "n3gxf6oam8bx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6288858/vpro-geschrokken-van-aangiftes-tegen-tim-den-besten-programma-blijft-op-tv.html",
     "open_new_window": false,
     "partner": null
   }
