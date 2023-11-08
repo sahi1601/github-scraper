@@ -1,5 +1,28 @@
 [
   {
+    "id": 6288868,
+    "slug": "lasers-moeten-chinese-bestuurders-wakker-houden-op-weg",
+    "type": "video",
+    "title": "Lasers moeten Chinese bestuurders wakker houden op weg",
+    "subtitle": "Video",
+    "published_at": "2023-11-08T21:17:14+01:00",
+    "updated_at": "2023-11-08T21:17:16+01:00",
+    "media_id": "gltxntsai00y",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6288868/lasers-moeten-chinese-bestuurders-wakker-houden-op-weg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288856,
     "slug": "omtzigt-twijfelt-nog-over-premierschap-voorkeur-voor-de-kamer",
     "type": "article",
@@ -29,8 +52,8 @@
     "title": "Geen CL-overwintering Benfica na afgang bij Real Sociedad, Napoli speelt gelijk",
     "subtitle": null,
     "published_at": "2023-11-08T20:40:43+01:00",
-    "updated_at": "2023-11-08T21:02:33+01:00",
-    "media_id": "f3hxzraaz9cp",
+    "updated_at": "2023-11-08T21:22:00+01:00",
+    "media_id": "w95xbgda5cjg",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -346,13 +369,13 @@
   },
   {
     "id": 6288880,
-    "slug": "psv-heeft-het-lastig-met-lens-in-beginfase-belangrijk-cl-duel",
+    "slug": "psv-dankzij-fraaie-kopbal-de-jong-al-vroeg-op-voorsprong-tegen-lens",
     "type": "article",
-    "title": "PSV heeft het lastig met Lens in beginfase belangrijk CL-duel",
+    "title": "PSV dankzij fraaie kopbal De Jong al vroeg op voorsprong tegen Lens",
     "subtitle": "Liveblog",
     "published_at": "2023-11-08T18:12:55+01:00",
-    "updated_at": "2023-11-08T21:11:51+01:00",
-    "media_id": "5wnxop9a9cg7",
+    "updated_at": "2023-11-08T21:18:09+01:00",
+    "media_id": "5btx2dka0n73",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -363,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6288880/psv-heeft-het-lastig-met-lens-in-beginfase-belangrijk-cl-duel.html",
+    "url": "/voetbal/6288880/psv-dankzij-fraaie-kopbal-de-jong-al-vroeg-op-voorsprong-tegen-lens.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6288804/kiptum-wil-wereldrecord-bij-marathon-rotterdam-train-wekelijks-300-kilometer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288876,
-    "slug": "cricketers-verliezen-op-wk-ook-van-engeland-en-zakken-naar-laatste-plek",
-    "type": "article",
-    "title": "Cricketers verliezen op WK ook van Engeland en zakken naar laatste plek",
-    "subtitle": null,
-    "published_at": "2023-11-08T17:36:51+01:00",
-    "updated_at": "2023-11-08T17:36:53+01:00",
-    "media_id": "2tpxh1eal502",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6288876/cricketers-verliezen-op-wk-ook-van-engeland-en-zakken-naar-laatste-plek.html",
     "open_new_window": false,
     "partner": null
   }
