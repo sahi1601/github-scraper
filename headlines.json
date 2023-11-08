@@ -1,12 +1,35 @@
 [
   {
+    "id": 6288880,
+    "slug": "aftellen-naar-cruciaal-duel-psv-cl-avond-begint-met-napoli-en-benfica",
+    "type": "article",
+    "title": "Aftellen naar cruciaal duel PSV, CL-avond begint met Napoli en Benfica",
+    "subtitle": "Liveblog",
+    "published_at": "2023-11-08T18:12:55+01:00",
+    "updated_at": "2023-11-08T18:17:15+01:00",
+    "media_id": "hrmxrika5a86",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6288880/aftellen-naar-cruciaal-duel-psv-cl-avond-begint-met-napoli-en-benfica.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288877,
     "slug": "mysterie-rond-led-zeppelin-iv-albumhoes-na-ruim-vijftig-jaar-opgelost",
     "type": "article",
     "title": "Mysterie rond Led Zeppelin IV-albumhoes na ruim vijftig jaar opgelost",
     "subtitle": null,
     "published_at": "2023-11-08T18:09:59+01:00",
-    "updated_at": "2023-11-08T18:10:00+01:00",
+    "updated_at": "2023-11-08T18:24:51+01:00",
     "media_id": "4a2x2t1ah30k",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Kiptum wil wereldrecord bij marathon Rotterdam: 'Train wekelijks 300 kilometer'",
     "subtitle": null,
     "published_at": "2023-11-08T18:00:39+01:00",
-    "updated_at": "2023-11-08T18:02:39+01:00",
+    "updated_at": "2023-11-08T18:12:59+01:00",
     "media_id": "fy2xsdham14c",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Schulting hoopt na ongeluk snel weer op ijs te staan: 'Mag van geluk spreken'",
     "subtitle": null,
     "published_at": "2023-11-08T17:15:41+01:00",
-    "updated_at": "2023-11-08T17:20:55+01:00",
+    "updated_at": "2023-11-08T18:14:17+01:00",
     "media_id": "c53xtzwas1j9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6288846/rutte-opnieuw-in-gesprek-met-netanyahu-verstandig-om-qatarese-info-te-delen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288847,
-    "slug": "diamanthandel-ingestort-door-zwakke-vraag-uit-china-en-india",
-    "type": "article",
-    "title": "Diamanthandel ingestort door zwakke vraag uit China en India",
-    "subtitle": null,
-    "published_at": "2023-11-08T14:48:07+01:00",
-    "updated_at": "2023-11-08T15:20:11+01:00",
-    "media_id": "u9jxixta8ig4",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6288847/diamanthandel-ingestort-door-zwakke-vraag-uit-china-en-india.html",
     "open_new_window": false,
     "partner": null
   }
