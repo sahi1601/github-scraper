@@ -1,5 +1,51 @@
 [
   {
+    "id": 6288771,
+    "slug": "politieke-partijen-overtreden-privacywet-met-volgcookies",
+    "type": "article",
+    "title": "Politieke partijen overtreden privacywet met volgcookies",
+    "subtitle": null,
+    "published_at": "2023-11-08T09:01:36+01:00",
+    "updated_at": "2023-11-08T09:01:37+01:00",
+    "media_id": "k1nxivuanrq9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6288771/politieke-partijen-overtreden-privacywet-met-volgcookies.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288770,
+    "slug": "pusic-stunt-met-shakhtar-tegen-barcelona-en-we-hadden-vaker-kunnen-scoren",
+    "type": "article",
+    "title": "Pusic stunt met Shakhtar tegen Barcelona: 'En we hadden vaker kunnen scoren'",
+    "subtitle": null,
+    "published_at": "2023-11-08T08:44:17+01:00",
+    "updated_at": "2023-11-08T08:50:02+01:00",
+    "media_id": "nujxebja113g",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6288770/pusic-stunt-met-shakhtar-tegen-barcelona-en-we-hadden-vaker-kunnen-scoren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288768,
     "slug": "eerste-klimaattop-voor-poolgebieden-vanwege-smeltende-gletsjers-en-poolijs",
     "type": "article",
@@ -190,7 +236,7 @@
     "title": "Radioprogramma Spiegelzaal stopt gedwongen na 30 jaar, omroep is 'ontstemd'",
     "subtitle": null,
     "published_at": "2023-11-08T07:21:40+01:00",
-    "updated_at": "2023-11-08T07:41:19+01:00",
+    "updated_at": "2023-11-08T09:15:34+01:00",
     "media_id": "fhjxwroauq0l",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/cultuur-overig/6288669/ns-publieksprijs-schrapt-vrije-stem-na-fraude-vorig-jaar-wat-betekent-dat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288704,
-    "slug": "toen-tata-steel-nog-hoogovens-was-grootste-zorg-omwonenden-was-vieze-auto",
-    "type": "article",
-    "title": "Toen Tata Steel nog Hoogovens was: 'Grootste zorg omwonenden was vieze auto'",
-    "subtitle": null,
-    "published_at": "2023-11-08T05:03:37+01:00",
-    "updated_at": "2023-11-08T08:21:34+01:00",
-    "media_id": "1k4x6tnagkiq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779320,
-      "slug": "tatasteel",
-      "type": "files",
-      "name": "Tata Steel",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tatasteel/6288704/toen-tata-steel-nog-hoogovens-was-grootste-zorg-omwonenden-was-vieze-auto.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288646,
-    "slug": "interview-esther-ouwehand-drie-vliegvelden-moeten-dicht-en-visserij-verdwijnt",
-    "type": "article",
-    "title": "Interview Esther Ouwehand: 'Drie vliegvelden moeten dicht en visserij verdwijnt'",
-    "subtitle": null,
-    "published_at": "2023-11-08T05:02:32+01:00",
-    "updated_at": "2023-11-08T06:20:58+01:00",
-    "media_id": "6hyxw7ka42lm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6288646/interview-esther-ouwehand-drie-vliegvelden-moeten-dicht-en-visserij-verdwijnt.html",
     "open_new_window": false,
     "partner": null
   }
