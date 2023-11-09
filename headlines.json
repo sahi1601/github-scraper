@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289010,
+    "slug": "ober-schopt-per-ongeluk-telefoon-in-hotpot-in-china",
+    "type": "video",
+    "title": "Ober schopt per ongeluk telefoon in hotpot in China",
+    "subtitle": "Video",
+    "published_at": "2023-11-09T16:21:16+01:00",
+    "updated_at": "2023-11-09T16:21:18+01:00",
+    "media_id": "tsvxlqma4owk",
+    "duration": "0:37",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289010/ober-schopt-per-ongeluk-telefoon-in-hotpot-in-china.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288998,
     "slug": "uitspraak-kort-geding-peter-gillis-en-ex-vriendin-nicol-kremers-op-30-november",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Videochatdienst Omegle na veertien jaar offline gehaald door eigenaar",
     "subtitle": null,
     "published_at": "2023-11-09T15:58:41+01:00",
-    "updated_at": "2023-11-09T16:02:03+01:00",
+    "updated_at": "2023-11-09T16:17:53+01:00",
     "media_id": "ccuxirwal00k",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Wapen- en drugshandelaar Martien R. krijgt ook in hoger beroep zestien jaar cel",
     "subtitle": null,
     "published_at": "2023-11-09T15:38:40+01:00",
-    "updated_at": "2023-11-09T15:52:31+01:00",
+    "updated_at": "2023-11-09T16:20:02+01:00",
     "media_id": "n95x9i8ac9j7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6288961/binnen-vijf-jaar-ruim-tienduizend-rendieren-doodgereden-in-noord-zweden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288960,
-    "slug": "nino-wilkes-schrijft-boek-over-homoseksualiteit-in-voetbalwereld",
-    "type": "article",
-    "title": "Nino Wilkes schrijft boek over homoseksualiteit in voetbalwereld",
-    "subtitle": null,
-    "published_at": "2023-11-09T11:46:12+01:00",
-    "updated_at": "2023-11-09T11:46:13+01:00",
-    "media_id": "pbjxwc2avfe9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6288960/nino-wilkes-schrijft-boek-over-homoseksualiteit-in-voetbalwereld.html",
     "open_new_window": false,
     "partner": null
   }
