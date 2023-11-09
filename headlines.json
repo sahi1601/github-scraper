@@ -1,12 +1,35 @@
 [
   {
+    "id": 6289063,
+    "slug": "omtzigt-wil-na-verkiezingen-kamer-in-ik-neem-hiermee-twijfels-weg",
+    "type": "article",
+    "title": "Omtzigt wil na verkiezingen Kamer in: 'Ik neem hiermee twijfels weg'",
+    "subtitle": null,
+    "published_at": "2023-11-09T23:12:50+01:00",
+    "updated_at": "2023-11-09T23:21:03+01:00",
+    "media_id": "6nex68bargk0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6289063/omtzigt-wil-na-verkiezingen-kamer-in-ik-neem-hiermee-twijfels-weg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289061,
     "slug": "az-verliest-bij-aston-villa-in-conference-league-en-moet-vrezen-voor-salonremise",
     "type": "article",
     "title": "AZ verliest bij Aston Villa in Conference League en moet vrezen voor salonremise",
     "subtitle": null,
     "published_at": "2023-11-09T22:57:48+01:00",
-    "updated_at": "2023-11-09T23:04:08+01:00",
+    "updated_at": "2023-11-09T23:24:21+01:00",
     "media_id": "884xy4oas7xt",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Bergwijn vindt dat Ajax goal had verdiend: 'Brighton was niet heel gevaarlijk'",
     "subtitle": null,
     "published_at": "2023-11-09T21:02:47+01:00",
-    "updated_at": "2023-11-09T22:13:08+01:00",
+    "updated_at": "2023-11-09T23:25:24+01:00",
     "media_id": "inoxqwkas326",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6289046,
-    "slug": "hoofdrol-dallinga-bij-el-stunt-toulouse-tegen-liverpool-nederlands-atalanta-door",
+    "slug": "hoofdrol-dallinga-bij-stunt-toulouse-tegen-liverpool-nederlands-atalanta-door",
     "type": "article",
-    "title": "Hoofdrol Dallinga bij EL-stunt Toulouse tegen Liverpool, 'Nederlands' Atalanta door",
+    "title": "Hoofdrol Dallinga bij stunt Toulouse tegen Liverpool, 'Nederlands' Atalanta door",
     "subtitle": null,
     "published_at": "2023-11-09T20:46:07+01:00",
-    "updated_at": "2023-11-09T23:12:26+01:00",
+    "updated_at": "2023-11-09T23:24:01+01:00",
     "media_id": "e5jxnjfatiuw",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6289046/hoofdrol-dallinga-bij-el-stunt-toulouse-tegen-liverpool-nederlands-atalanta-door.html",
+    "url": "/voetbal/6289046/hoofdrol-dallinga-bij-stunt-toulouse-tegen-liverpool-nederlands-atalanta-door.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6289035/koning-charles-grapt-over-cadeau-blaast-het-mijn-hoofd-eraf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289034,
-    "slug": "dieselprijs-duikt-voor-het-eerst-in-ruim-twee-maanden-onder-de-2-euro",
-    "type": "article",
-    "title": "Dieselprijs duikt voor het eerst in ruim twee maanden onder de 2 euro",
-    "subtitle": null,
-    "published_at": "2023-11-09T18:31:42+01:00",
-    "updated_at": "2023-11-09T18:32:14+01:00",
-    "media_id": "odxxiabakhf4",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6289034/dieselprijs-duikt-voor-het-eerst-in-ruim-twee-maanden-onder-de-2-euro.html",
     "open_new_window": false,
     "partner": null
   }
