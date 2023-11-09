@@ -1,5 +1,51 @@
 [
   {
+    "id": 6288957,
+    "slug": "bekerwedstrijd-hercules-ajax-wordt-gespeeld-in-stadion-galgenwaard",
+    "type": "article",
+    "title": "Bekerwedstrijd Hercules-Ajax wordt gespeeld in Stadion Galgenwaard",
+    "subtitle": null,
+    "published_at": "2023-11-09T10:59:45+01:00",
+    "updated_at": "2023-11-09T10:59:50+01:00",
+    "media_id": "n3oxk0sa206r",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6288957/bekerwedstrijd-hercules-ajax-wordt-gespeeld-in-stadion-galgenwaard.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6288959,
+    "slug": "camera-in-brits-restaurant-filmt-oplichter-die-zelf-haar-op-bord-legt",
+    "type": "video",
+    "title": "Camera in Brits restaurant filmt oplichter die zelf haar op bord legt",
+    "subtitle": "Video",
+    "published_at": "2023-11-09T10:57:09+01:00",
+    "updated_at": "2023-11-09T11:04:49+01:00",
+    "media_id": "k98xhw9akjn4",
+    "duration": "0:39",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6288959/camera-in-brits-restaurant-filmt-oplichter-die-zelf-haar-op-bord-legt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288951,
     "slug": "kledingmerken-betalen-meer-voor-kleding-uit-bangladesh-door-hoger-loon",
     "type": "article",
@@ -98,7 +144,7 @@
     "title": "Stijgende lonen zorgen voor nóg meer krapte op de woningmarkt",
     "subtitle": null,
     "published_at": "2023-11-09T10:15:23+01:00",
-    "updated_at": "2023-11-09T10:29:30+01:00",
+    "updated_at": "2023-11-09T11:06:06+01:00",
     "media_id": "71txr59ai7dq",
     "duration": null,
     "canonical_section": {
@@ -144,8 +190,8 @@
     "title": "Bekijk het programma van de wereldbeker schaatsen in het Japanse Obihiro",
     "subtitle": null,
     "published_at": "2023-11-09T10:03:24+01:00",
-    "updated_at": "2023-11-09T10:03:25+01:00",
-    "media_id": "svkxii1ads7e",
+    "updated_at": "2023-11-09T10:50:59+01:00",
+    "media_id": "z7gxbuhae539",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -259,7 +305,7 @@
     "title": "Toename van antisemitisme én incidenten rond moskeeën sinds oorlog in Gaza",
     "subtitle": null,
     "published_at": "2023-11-09T09:00:31+01:00",
-    "updated_at": "2023-11-09T10:33:00+01:00",
+    "updated_at": "2023-11-09T10:57:51+01:00",
     "media_id": "pftxv26awvsl",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6288929/let-extra-op-je-e-bike-scooter-en-auto-van-werk-onderdelen-erg-gewild-bij-dieven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288928,
-    "slug": "ravage-in-den-haag-vluchtende-automobilist-ramt-vijf-autos",
-    "type": "video",
-    "title": "Ravage in Den Haag: vluchtende automobilist ramt vijf auto's",
-    "subtitle": "Video",
-    "published_at": "2023-11-09T07:43:56+01:00",
-    "updated_at": "2023-11-09T09:59:14+01:00",
-    "media_id": "u6px3y7au21h",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6288928/ravage-in-den-haag-vluchtende-automobilist-ramt-vijf-autos.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6288927,
-    "slug": "chinese-consument-houdt-geld-op-zak-dus-is-er-weer-deflatie",
-    "type": "article",
-    "title": "Chinese consument houdt geld op zak dus is er weer deflatie",
-    "subtitle": null,
-    "published_at": "2023-11-09T07:43:51+01:00",
-    "updated_at": "2023-11-09T08:04:14+01:00",
-    "media_id": "dtux8o1ayagr",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6288927/chinese-consument-houdt-geld-op-zak-dus-is-er-weer-deflatie.html",
     "open_new_window": false,
     "partner": null
   }
