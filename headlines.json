@@ -1,5 +1,51 @@
 [
   {
+    "id": 6289117,
+    "slug": "oud-topman-van-chinese-bank-ter-dood-veroordeeld-vanwege-corruptie",
+    "type": "article",
+    "title": "Oud-topman van Chinese bank ter dood veroordeeld vanwege corruptie",
+    "subtitle": null,
+    "published_at": "2023-11-10T11:43:51+01:00",
+    "updated_at": "2023-11-10T11:43:53+01:00",
+    "media_id": "teux5q7a2ot8",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6289117/oud-topman-van-chinese-bank-ter-dood-veroordeeld-vanwege-corruptie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289116,
+    "slug": "burak-yilmaz-stapt-al-na-een-maand-op-als-trainer-van-besiktas",
+    "type": "article",
+    "title": "Burak Yilmaz stapt al na een maand op als trainer van Besiktas",
+    "subtitle": null,
+    "published_at": "2023-11-10T11:38:14+01:00",
+    "updated_at": "2023-11-10T11:40:21+01:00",
+    "media_id": "e7qxyg6ar3t5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6289116/burak-yilmaz-stapt-al-na-een-maand-op-als-trainer-van-besiktas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289114,
     "slug": "filmstudios-maken-nieuwe-releasedata-captain-america-en-deadpool-3-bekend",
     "type": "article",
@@ -162,12 +208,12 @@
   },
   {
     "id": 6289110,
-    "slug": "ook-bij-zilveren-kruis-gaat-zorgpremie-omhoog-polis-850-euro-duurder",
+    "slug": "ook-bij-cz-en-zilveren-kruis-gaat-zorgpremie-in-2024-weer-omhoog",
     "type": "article",
-    "title": "Ook bij Zilveren Kruis gaat zorgpremie omhoog, polis 8,50 euro duurder",
+    "title": "Ook bij CZ en Zilveren Kruis gaat zorgpremie in 2024 weer omhoog",
     "subtitle": null,
     "published_at": "2023-11-10T10:45:38+01:00",
-    "updated_at": "2023-11-10T11:14:23+01:00",
+    "updated_at": "2023-11-10T11:38:18+01:00",
     "media_id": "mmtxezqa3lbe",
     "duration": null,
     "canonical_section": {
@@ -179,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6289110/ook-bij-zilveren-kruis-gaat-zorgpremie-omhoog-polis-850-euro-duurder.html",
+    "url": "/economie/6289110/ook-bij-cz-en-zilveren-kruis-gaat-zorgpremie-in-2024-weer-omhoog.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6289082/netanyahu-zegt-dat-israel-niet-opnieuw-gazastrook-wil-bezetten-en-besturen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289081,
-    "slug": "knalroze-waterplas-fascineert-hawaianen-lijkt-wel-verf",
-    "type": "video",
-    "title": "Knalroze waterplas fascineert Hawaïanen: 'Lijkt wel verf'",
-    "subtitle": "Video",
-    "published_at": "2023-11-10T08:40:59+01:00",
-    "updated_at": "2023-11-10T10:25:03+01:00",
-    "media_id": "n8hxq2macrqt",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289081/knalroze-waterplas-fascineert-hawaianen-lijkt-wel-verf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289080,
-    "slug": "az-baalt-van-scheidsrechtersfout-bij-1-1-aston-villa-100-procent-geen-corner",
-    "type": "article",
-    "title": "AZ baalt van scheidsrechtersfout bij 1-1 Aston Villa: '100 procent geen corner'",
-    "subtitle": null,
-    "published_at": "2023-11-10T08:23:38+01:00",
-    "updated_at": "2023-11-10T10:30:09+01:00",
-    "media_id": "b8pxrlcay62l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289080/az-baalt-van-scheidsrechtersfout-bij-1-1-aston-villa-100-procent-geen-corner.html",
     "open_new_window": false,
     "partner": null
   }
