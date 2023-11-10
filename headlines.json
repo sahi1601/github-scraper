@@ -1,12 +1,35 @@
 [
   {
+    "id": 6289076,
+    "slug": "jared-leto-beklimt-empire-state-building-om-band-te-promoten",
+    "type": "video",
+    "title": "Jared Leto beklimt Empire State Building om band te promoten",
+    "subtitle": "Video",
+    "published_at": "2023-11-10T07:23:26+01:00",
+    "updated_at": "2023-11-10T07:23:27+01:00",
+    "media_id": "8e6xpl9al0t9",
+    "duration": "0:48",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289076/jared-leto-beklimt-empire-state-building-om-band-te-promoten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289073,
     "slug": "kok-begint-op-500-meter-met-wb-brons-leerdam-na-missers-nog-net-in-top-tien",
     "type": "article",
     "title": "Kok begint op 500 meter met WB-brons, Leerdam na missers nog net in top tien",
     "subtitle": null,
     "published_at": "2023-11-10T07:14:02+01:00",
-    "updated_at": "2023-11-10T07:17:08+01:00",
+    "updated_at": "2023-11-10T07:21:13+01:00",
     "media_id": "6pqxl8wa41qv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6289053/bergwijn-vindt-dat-ajax-goal-had-verdiend-brighton-was-niet-heel-gevaarlijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289049,
-    "slug": "amerikaan-krijgt-s-werelds-eerste-volledige-oogtransplantatie",
-    "type": "video",
-    "title": "Amerikaan krijgt 's werelds eerste volledige oogtransplantatie",
-    "subtitle": "Video",
-    "published_at": "2023-11-09T20:52:04+01:00",
-    "updated_at": "2023-11-09T21:03:58+01:00",
-    "media_id": "idexaqnafhbf",
-    "duration": "0:57",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289049/amerikaan-krijgt-s-werelds-eerste-volledige-oogtransplantatie.html",
     "open_new_window": false,
     "partner": null
   }
