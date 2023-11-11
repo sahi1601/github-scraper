@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289220,
+    "slug": "intens-geweld-rond-grootste-ziekenhuis-in-de-gazastrook-gaat-door",
+    "type": "article",
+    "title": "'Intens geweld' rond grootste ziekenhuis in de Gazastrook gaat door",
+    "subtitle": "Overzicht",
+    "published_at": "2023-11-11T08:38:01+01:00",
+    "updated_at": "2023-11-11T08:38:53+01:00",
+    "media_id": "touxuwnaail8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6289220/intens-geweld-rond-grootste-ziekenhuis-in-de-gazastrook-gaat-door.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289219,
     "slug": "who-baas-elke-tien-minuten-wordt-een-kind-gedood-in-gaza",
     "type": "video",
@@ -93,12 +116,12 @@
   },
   {
     "id": 6289214,
-    "slug": "noodtoestand-en-evacuaties-wegens-dreigende-vulkaanuitbarsting-ijsland",
+    "slug": "noodtoestand-en-evacuaties-in-ijsland-vanwege-dreigende-vulkaanuitbarsting",
     "type": "article",
-    "title": "Noodtoestand en evacuaties wegens dreigende vulkaanuitbarsting IJsland",
+    "title": "Noodtoestand en evacuaties in IJsland vanwege dreigende vulkaanuitbarsting",
     "subtitle": null,
     "published_at": "2023-11-11T06:05:04+01:00",
-    "updated_at": "2023-11-11T06:41:55+01:00",
+    "updated_at": "2023-11-11T08:36:09+01:00",
     "media_id": "byux8hmabuoq",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6289214/noodtoestand-en-evacuaties-wegens-dreigende-vulkaanuitbarsting-ijsland.html",
+    "url": "/buitenland/6289214/noodtoestand-en-evacuaties-in-ijsland-vanwege-dreigende-vulkaanuitbarsting.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6289204/slot-en-feyenoord-gewaarschuwd-richting-az-vorige-keer-na-lazio-was-niet-best.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289200,
-    "slug": "israel-verlaagt-aantal-doden-hamas-aanval-naar-1200",
-    "type": "article",
-    "title": "Israël verlaagt aantal doden Hamas-aanval naar 1.200",
-    "subtitle": null,
-    "published_at": "2023-11-10T20:54:37+01:00",
-    "updated_at": "2023-11-11T00:20:00+01:00",
-    "media_id": "cf4xf8qaa2p6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6289200/israel-verlaagt-aantal-doden-hamas-aanval-naar-1200.html",
     "open_new_window": false,
     "partner": null
   }
