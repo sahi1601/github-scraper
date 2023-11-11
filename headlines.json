@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289241,
+    "slug": "pakketbezorgbedrijven-verwachten-dit-jaar-geen-vertraging-tijdens-feestdagen",
+    "type": "article",
+    "title": "Pakketbezorgbedrijven verwachten dit jaar geen vertraging tijdens feestdagen",
+    "subtitle": null,
+    "published_at": "2023-11-11T11:16:56+01:00",
+    "updated_at": "2023-11-11T11:16:57+01:00",
+    "media_id": "j3bx8tratacg",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6289241/pakketbezorgbedrijven-verwachten-dit-jaar-geen-vertraging-tijdens-feestdagen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288935,
     "slug": "waarom-het-op-11-november-al-even-carnaval-lijkt",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Cyberaanval legt meerdere havens in Australië plat, regering pleegt crisisoverleg",
     "subtitle": null,
     "published_at": "2023-11-11T10:44:39+01:00",
-    "updated_at": "2023-11-11T11:02:25+01:00",
+    "updated_at": "2023-11-11T11:17:28+01:00",
     "media_id": "ahtx2gkafk9w",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "'Xtc moet gelegaliseerd worden'",
     "subtitle": "Verkiezingsstelling",
     "published_at": "2023-11-11T08:43:55+01:00",
-    "updated_at": "2023-11-11T08:52:21+01:00",
+    "updated_at": "2023-11-11T11:17:43+01:00",
     "media_id": "ho9x3bgaw30a",
     "duration": null,
     "canonical_section": {
@@ -254,12 +277,12 @@
   },
   {
     "id": 6289220,
-    "slug": "intens-geweld-rond-grootste-ziekenhuis-in-de-gazastrook-gaat-door",
+    "slug": "elektriciteit-valt-uit-in-grootste-ziekenhuis-gazastrook-na-intens-geweld",
     "type": "article",
-    "title": "'Intens geweld' rond grootste ziekenhuis in de Gazastrook gaat door",
+    "title": "Elektriciteit valt uit in grootste ziekenhuis Gazastrook na intens geweld",
     "subtitle": "Overzicht",
     "published_at": "2023-11-11T08:38:01+01:00",
-    "updated_at": "2023-11-11T10:06:17+01:00",
+    "updated_at": "2023-11-11T11:14:02+01:00",
     "media_id": "touxuwnaail8",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6289220/intens-geweld-rond-grootste-ziekenhuis-in-de-gazastrook-gaat-door.html",
+    "url": "/buitenland/6289220/elektriciteit-valt-uit-in-grootste-ziekenhuis-gazastrook-na-intens-geweld.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6289212/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289083,
-    "slug": "koploper-girona-hoopt-op-leicester-scenario-met-daley-blind-en-broer-guardiola",
-    "type": "article",
-    "title": "Koploper Girona hoopt op Leicester-scenario, met Daley Blind én broer Guardiola",
-    "subtitle": "NU+",
-    "published_at": "2023-11-11T05:11:01+01:00",
-    "updated_at": "2023-11-11T05:11:02+01:00",
-    "media_id": "i2cx9r7agsir",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289083/koploper-girona-hoopt-op-leicester-scenario-met-daley-blind-en-broer-guardiola.html",
     "open_new_window": false,
     "partner": null
   }
