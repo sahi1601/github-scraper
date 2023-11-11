@@ -1,12 +1,35 @@
 [
   {
+    "id": 6289224,
+    "slug": "rijpma-de-jong-pakt-bij-wereldbeker-op-1500-meter-zilver-achter-takagi",
+    "type": "article",
+    "title": "Rijpma-de Jong pakt bij wereldbeker op 1.500 meter zilver achter Takagi",
+    "subtitle": null,
+    "published_at": "2023-11-11T09:18:26+01:00",
+    "updated_at": "2023-11-11T09:18:27+01:00",
+    "media_id": "l1rxh52afwa9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6289224/rijpma-de-jong-pakt-bij-wereldbeker-op-1500-meter-zilver-achter-takagi.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289223,
     "slug": "dode-en-gewonden-bij-verkeersongeluk-op-a28-in-drenthe",
     "type": "article",
     "title": "Dode en gewonden bij verkeersongeluk op A28 in Drenthe",
     "subtitle": null,
     "published_at": "2023-11-11T09:13:04+01:00",
-    "updated_at": "2023-11-11T09:13:06+01:00",
+    "updated_at": "2023-11-11T09:26:19+01:00",
     "media_id": "bnbx33mab8fn",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6289222,
-    "slug": "kok-blijft-leerdam-ondanks-veel-fouten-voor-en-wint-500-meter-bij-wereldbeker",
+    "slug": "kok-blijft-leerdam-voor-en-wint-500-meter-bij-wereldbeker-schaatsen-in-obihiro",
     "type": "article",
-    "title": "Kok blijft Leerdam ondanks 'veel fouten' voor en wint 500 meter bij wereldbeker",
+    "title": "Kok blijft Leerdam voor en wint 500 meter bij wereldbeker schaatsen in Obihiro",
     "subtitle": null,
     "published_at": "2023-11-11T08:59:18+01:00",
-    "updated_at": "2023-11-11T09:00:34+01:00",
+    "updated_at": "2023-11-11T09:19:51+01:00",
     "media_id": "cygx86rawwct",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6289222/kok-blijft-leerdam-ondanks-veel-fouten-voor-en-wint-500-meter-bij-wereldbeker.html",
+    "url": "/schaatsen/6289222/kok-blijft-leerdam-voor-en-wint-500-meter-bij-wereldbeker-schaatsen-in-obihiro.html",
     "open_new_window": false,
     "partner": null
   },
@@ -117,13 +140,13 @@
   {
     "id": 6289181,
     "slug": "het-verschil-tussen-een-staakt-het-vuren-en-een-humanitaire-pauze",
-    "type": "article",
+    "type": "video",
     "title": "Het verschil tussen een staakt-het-vuren en een humanitaire pauze",
     "subtitle": "Explainer",
     "published_at": "2023-11-11T06:45:21+01:00",
-    "updated_at": "2023-11-11T06:45:22+01:00",
+    "updated_at": "2023-11-11T09:22:21+01:00",
     "media_id": "oydx793ad1j0",
-    "duration": null,
+    "duration": "1:17",
     "canonical_section": {
       "id": 1772085,
       "slug": "midden-oostenconflict",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6289207/fortuna-sittard-beeindigt-belabberde-reeks-met-galavoorstelling-tegen-heracles.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289202,
-    "slug": "vrouwen-fc-twente-en-ajax-winnen-in-aanloop-naar-onderlinge-kraker",
-    "type": "article",
-    "title": "Vrouwen FC Twente en Ajax winnen in aanloop naar onderlinge kraker",
-    "subtitle": null,
-    "published_at": "2023-11-10T21:30:19+01:00",
-    "updated_at": "2023-11-10T22:39:56+01:00",
-    "media_id": "24lxo9fasxcq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289202/vrouwen-fc-twente-en-ajax-winnen-in-aanloop-naar-onderlinge-kraker.html",
     "open_new_window": false,
     "partner": null
   }
