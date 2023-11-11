@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289212,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-11-11T05:17:07+01:00",
+    "updated_at": "2023-11-11T05:17:08+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6289212/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289083,
     "slug": "koploper-girona-hoopt-op-leicester-scenario-met-daley-blind-en-broer-guardiola",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6289195/sza-met-negen-nominaties-grootste-kanshebber-bij-grammy-awards.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289189,
-    "slug": "murray-breekt-voor-derde-keer-met-coach-lendl-kan-hem-niet-genoeg-bedanken",
-    "type": "article",
-    "title": "Murray breekt voor derde keer met coach Lendl: 'Kan hem niet genoeg bedanken'",
-    "subtitle": null,
-    "published_at": "2023-11-10T19:16:14+01:00",
-    "updated_at": "2023-11-10T19:23:18+01:00",
-    "media_id": "n10x2ouaxnv8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6289189/murray-breekt-voor-derde-keer-met-coach-lendl-kan-hem-niet-genoeg-bedanken.html",
     "open_new_window": false,
     "partner": null
   }
