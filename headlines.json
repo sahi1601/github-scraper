@@ -1,12 +1,35 @@
 [
   {
+    "id": 6289379,
+    "slug": "van-veen-op-rand-van-uitschakeling-op-grand-slam-of-darts-na-nieuwe-nederlaag",
+    "type": "article",
+    "title": "Van Veen op rand van uitschakeling op Grand Slam of Darts na nieuwe nederlaag",
+    "subtitle": null,
+    "published_at": "2023-11-12T14:40:07+01:00",
+    "updated_at": "2023-11-12T14:43:26+01:00",
+    "media_id": "00rxa9qaah07",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6289379/van-veen-op-rand-van-uitschakeling-op-grand-slam-of-darts-na-nieuwe-nederlaag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289377,
     "slug": "bayern-baas-waarschuwt-mazraoui-opnieuw-na-pro-palestijnse-post-mag-niet-gebeuren",
     "type": "article",
     "title": "Bayern-baas waarschuwt Mazraoui opnieuw na pro-Palestijnse post: 'Mag niet gebeuren'",
     "subtitle": null,
     "published_at": "2023-11-12T14:25:11+01:00",
-    "updated_at": "2023-11-12T14:25:13+01:00",
+    "updated_at": "2023-11-12T14:30:25+01:00",
     "media_id": "absxcqrad2or",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6289375,
-    "slug": "gordon-ramsay-voor-zesde-keer-vader-geworden-geweldig-verjaardagscadeau",
+    "slug": "gordon-ramsay-verwelkomt-zesde-kind-rond-57e-verjaardag-geweldig-cadeau",
     "type": "article",
-    "title": "Gordon Ramsay voor zesde keer vader geworden: 'Geweldig verjaardagscadeau'",
+    "title": "Gordon Ramsay verwelkomt zesde kind rond 57e verjaardag: 'Geweldig cadeau'",
     "subtitle": null,
     "published_at": "2023-11-12T14:02:21+01:00",
-    "updated_at": "2023-11-12T14:19:04+01:00",
+    "updated_at": "2023-11-12T14:44:33+01:00",
     "media_id": "36ux1h6a91rd",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6289375/gordon-ramsay-voor-zesde-keer-vader-geworden-geweldig-verjaardagscadeau.html",
+    "url": "/achterklap/6289375/gordon-ramsay-verwelkomt-zesde-kind-rond-57e-verjaardag-geweldig-cadeau.html",
     "open_new_window": false,
     "partner": null
   },
@@ -369,12 +392,12 @@
   },
   {
     "id": 6289354,
-    "slug": "ajax-zoekt-in-almere-naar-derde-competitiezege-op-rij",
+    "slug": "ajax-zoekt-in-almere-naar-derde-competitiezege-onder-van-t-schip",
     "type": "article",
-    "title": "Ajax zoekt in Almere naar derde competitiezege op rij",
+    "title": "Ajax zoekt in Almere naar derde competitiezege onder Van 't Schip",
     "subtitle": "Liveblog",
     "published_at": "2023-11-12T11:35:47+01:00",
-    "updated_at": "2023-11-12T14:18:05+01:00",
+    "updated_at": "2023-11-12T14:28:23+01:00",
     "media_id": "t1yxa7ianzat",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6289354/ajax-zoekt-in-almere-naar-derde-competitiezege-op-rij.html",
+    "url": "/voetbal/6289354/ajax-zoekt-in-almere-naar-derde-competitiezege-onder-van-t-schip.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +420,7 @@
     "title": "Tata en Chemours niet meer trots van regio: 'Toekomst steeds belangrijker'",
     "subtitle": "NU+",
     "published_at": "2023-11-12T11:26:05+01:00",
-    "updated_at": "2023-11-12T12:54:42+01:00",
+    "updated_at": "2023-11-12T14:27:46+01:00",
     "media_id": "9jexsxdau981",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6289350/psv-trainer-bosz-houdt-tegen-pec-vast-aan-succesformatie-champions-league.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289351,
-    "slug": "200-ton-brandend-plastic-veroorzaakt-enorme-rookwolken-in-engeland",
-    "type": "video",
-    "title": "200 ton brandend plastic veroorzaakt enorme rookwolken in Engeland",
-    "subtitle": "Video",
-    "published_at": "2023-11-12T11:02:18+01:00",
-    "updated_at": "2023-11-12T11:02:19+01:00",
-    "media_id": "ueyxb9maft3r",
-    "duration": "0:42",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289351/200-ton-brandend-plastic-veroorzaakt-enorme-rookwolken-in-engeland.html",
     "open_new_window": false,
     "partner": null
   }
