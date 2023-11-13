@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289418,
+    "slug": "oud-feyenoorders-martins-indi-en-clasie-schrikken-van-spel-az-in-de-kuip",
+    "type": "article",
+    "title": "Oud-Feyenoorders Martins Indi en Clasie schrikken van spel AZ in De Kuip",
+    "subtitle": null,
+    "published_at": "2023-11-13T07:26:50+01:00",
+    "updated_at": "2023-11-13T07:26:51+01:00",
+    "media_id": "0avxwllad8di",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6289418/oud-feyenoorders-martins-indi-en-clasie-schrikken-van-spel-az-in-de-kuip.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289439,
     "slug": "treinverkeer-rond-schiphol-drie-weken-lang-ontregeld",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6289020,
-    "slug": "het-is-weer-movember-hoe-kun-je-als-man-het-beste-je-prostaat-controleren",
+    "slug": "het-is-movember-hoe-kun-je-als-man-het-beste-je-prostaat-controleren",
     "type": "article",
-    "title": "Het is weer Movember: hoe kun je als man het beste je prostaat controleren?",
+    "title": "Het is Movember: hoe kun je als man het beste je prostaat controleren?",
     "subtitle": "NU+",
     "published_at": "2023-11-13T06:47:39+01:00",
-    "updated_at": "2023-11-13T06:47:40+01:00",
+    "updated_at": "2023-11-13T07:21:17+01:00",
     "media_id": "yx8xyhfai4nc",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/slimmer-leven/6289020/het-is-weer-movember-hoe-kun-je-als-man-het-beste-je-prostaat-controleren.html",
+    "url": "/slimmer-leven/6289020/het-is-movember-hoe-kun-je-als-man-het-beste-je-prostaat-controleren.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6289420/van-gerwen-en-van-duijvenbode-winnen-op-grand-slam-kleermaker-verliest.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289413,
-    "slug": "slot-prijst-defensief-sterk-feyenoord-en-bewondert-psv-het-gat-is-groot",
-    "type": "article",
-    "title": "Slot prijst defensief sterk Feyenoord en bewondert PSV: 'Het gat is groot'",
-    "subtitle": null,
-    "published_at": "2023-11-12T20:40:44+01:00",
-    "updated_at": "2023-11-12T20:55:38+01:00",
-    "media_id": "7mpxdsgaupuz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289413/slot-prijst-defensief-sterk-feyenoord-en-bewondert-psv-het-gat-is-groot.html",
     "open_new_window": false,
     "partner": null
   }
