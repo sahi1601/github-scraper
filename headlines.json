@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289505,
+    "slug": "lucht-in-brandweerkazerne-van-schiphol-is-stuk-schoner-door-nieuw-apparaat",
+    "type": "article",
+    "title": "Lucht in brandweerkazerne van Schiphol is stuk schoner door nieuw apparaat",
+    "subtitle": null,
+    "published_at": "2023-11-13T15:29:16+01:00",
+    "updated_at": "2023-11-13T15:33:30+01:00",
+    "media_id": "h0mxiynaoii6",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6289505/lucht-in-brandweerkazerne-van-schiphol-is-stuk-schoner-door-nieuw-apparaat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289524,
     "slug": "schip-belandt-boven-op-duitse-sluisdeur-na-foutje-schipper",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Nieuwe verdachten vast voor diefstal met geweld op festival waar man overleed",
     "subtitle": null,
     "published_at": "2023-11-13T15:12:46+01:00",
-    "updated_at": "2023-11-13T15:19:58+01:00",
+    "updated_at": "2023-11-13T15:29:25+01:00",
     "media_id": "zgnxkx0alusf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6289486/pnk-smult-van-chocola-van-belgische-bakkers-op-podium-heerlijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289472,
-    "slug": "verdachte-doodsteken-jimmy-schepers-gooide-mogelijk-moordwapen-weg-in-cel",
-    "type": "article",
-    "title": "Verdachte doodsteken Jimmy Schepers gooide mogelijk moordwapen weg in cel",
-    "subtitle": null,
-    "published_at": "2023-11-13T11:41:45+01:00",
-    "updated_at": "2023-11-13T12:27:50+01:00",
-    "media_id": "8qzxskxa8z9x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6289472/verdachte-doodsteken-jimmy-schepers-gooide-mogelijk-moordwapen-weg-in-cel.html",
     "open_new_window": false,
     "partner": null
   }
