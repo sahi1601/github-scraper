@@ -1,5 +1,51 @@
 [
   {
+    "id": 6289432,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-11-13T05:16:09+01:00",
+    "updated_at": "2023-11-13T05:16:10+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6289432/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289164,
+    "slug": "alle-zorgpremies-gaan-omhoog-hoe-maak-je-nu-de-beste-keuze",
+    "type": "article",
+    "title": "Alle zorgpremies gaan omhoog: Hoe maak je nu de beste keuze?",
+    "subtitle": null,
+    "published_at": "2023-11-13T05:09:09+01:00",
+    "updated_at": "2023-11-13T05:09:10+01:00",
+    "media_id": "1ftx5mrazh3n",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779328,
+      "slug": "slimmer-leven",
+      "type": "default",
+      "name": "Slimmer leven",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/slimmer-leven/6289164/alle-zorgpremies-gaan-omhoog-hoe-maak-je-nu-de-beste-keuze.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6288975,
     "slug": "getest-dit-zijn-de-beste-smartphones-tot-200-euro",
     "type": "article",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6288978,
-    "slug": "verdwijnen-de-pakjes-weer-dit-weten-we-over-nieuwe-reeks-sinterklaasjournaal",
+    "slug": "verdwijnen-de-pakjes-weer-dit-weten-we-over-nieuwe-sinterklaasjournaal",
     "type": "article",
-    "title": "Verdwijnen de pakjes weer? Dit weten we over nieuwe reeks Sinterklaasjournaal",
+    "title": "Verdwijnen de pakjes weer? Dit weten we over nieuwe Sinterklaasjournaal",
     "subtitle": "NU+",
     "published_at": "2023-11-13T05:04:47+01:00",
-    "updated_at": "2023-11-13T05:04:48+01:00",
+    "updated_at": "2023-11-13T05:10:45+01:00",
     "media_id": "dcuxa74akp2z",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6288978/verdwijnen-de-pakjes-weer-dit-weten-we-over-nieuwe-reeks-sinterklaasjournaal.html",
+    "url": "/media/6288978/verdwijnen-de-pakjes-weer-dit-weten-we-over-nieuwe-sinterklaasjournaal.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6289407/wegdek-in-ijsland-gescheurd-door-vulkanische-activiteit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289387,
-    "slug": "feyenoord-blijft-in-spoor-van-psv-dankzij-minimale-zege-op-tandeloos-az",
-    "type": "article",
-    "title": "Feyenoord blijft in spoor van PSV dankzij minimale zege op tandeloos AZ",
-    "subtitle": null,
-    "published_at": "2023-11-12T18:42:29+01:00",
-    "updated_at": "2023-11-12T20:13:08+01:00",
-    "media_id": "ednxbzoas1k4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289387/feyenoord-blijft-in-spoor-van-psv-dankzij-minimale-zege-op-tandeloos-az.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289405,
-    "slug": "enorme-fietsbrug-op-zijn-plek-getakeld-in-enschede",
-    "type": "video",
-    "title": "Enorme fietsbrug op zijn plek getakeld in Enschede",
-    "subtitle": "Video",
-    "published_at": "2023-11-12T18:36:39+01:00",
-    "updated_at": "2023-11-12T18:39:32+01:00",
-    "media_id": "z3txh8naa47e",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289405/enorme-fietsbrug-op-zijn-plek-getakeld-in-enschede.html",
     "open_new_window": false,
     "partner": null
   }
