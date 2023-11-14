@@ -1,12 +1,35 @@
 [
   {
-    "id": 6289624,
-    "slug": "koeman-verkiest-verbruggen-boven-bijlow-logisch-op-basis-van-laatste-interlands",
+    "id": 6289623,
+    "slug": "vulkaanuitbarsting-ijsland-blijft-uit-inwoners-dorp-kort-terug-voor-bezittingen",
     "type": "article",
-    "title": "Koeman verkiest Verbruggen boven Bijlow: 'Logisch op basis van laatste interlands'",
+    "title": "Vulkaanuitbarsting IJsland blijft uit, inwoners dorp kort terug voor bezittingen",
+    "subtitle": null,
+    "published_at": "2023-11-14T11:23:23+01:00",
+    "updated_at": "2023-11-14T11:23:24+01:00",
+    "media_id": "t6ex01ead2uf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6289623/vulkaanuitbarsting-ijsland-blijft-uit-inwoners-dorp-kort-terug-voor-bezittingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289624,
+    "slug": "koeman-verkiest-verbruggen-boven-bijlow-logisch-gezien-de-laatste-interlands",
+    "type": "article",
+    "title": "Koeman verkiest Verbruggen boven Bijlow: 'Logisch gezien de laatste interlands'",
     "subtitle": null,
     "published_at": "2023-11-14T11:14:32+01:00",
-    "updated_at": "2023-11-14T11:14:34+01:00",
+    "updated_at": "2023-11-14T11:30:20+01:00",
     "media_id": "2b9x7rtarw0h",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6289624/koeman-verkiest-verbruggen-boven-bijlow-logisch-op-basis-van-laatste-interlands.html",
+    "url": "/voetbal/6289624/koeman-verkiest-verbruggen-boven-bijlow-logisch-gezien-de-laatste-interlands.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Tweede Kamer stemt in met debat over oorlog tussen Israël en Hamas",
     "subtitle": null,
     "published_at": "2023-11-14T10:51:46+01:00",
-    "updated_at": "2023-11-14T11:08:06+01:00",
+    "updated_at": "2023-11-14T11:16:37+01:00",
     "media_id": "ltkxv7sasn21",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Etna spuwt lava en as metershoog de lucht in na uitbarsting",
     "subtitle": "Video",
     "published_at": "2023-11-14T09:05:36+01:00",
-    "updated_at": "2023-11-14T09:30:12+01:00",
+    "updated_at": "2023-11-14T11:29:58+01:00",
     "media_id": "gq0xt7raxc4l",
     "duration": "0:46",
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Politie zoekt agressieve man die basisschool Oisterwijk binnendrong, gebouw omsingeld",
     "subtitle": null,
     "published_at": "2023-11-14T09:03:18+01:00",
-    "updated_at": "2023-11-14T11:05:05+01:00",
+    "updated_at": "2023-11-14T11:25:50+01:00",
     "media_id": "9gvxy72aikly",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Winkels blijven online strooien met nepkortingen",
     "subtitle": null,
     "published_at": "2023-11-14T07:46:00+01:00",
-    "updated_at": "2023-11-14T08:43:23+01:00",
+    "updated_at": "2023-11-14T11:17:43+01:00",
     "media_id": "ga4xraaa6swt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6289583/winkels-blijven-online-strooien-met-nepkortingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289582,
-    "slug": "koeien-gered-bij-grote-brand-in-alphense-stal",
-    "type": "video",
-    "title": "Koeien gered bij grote brand in Alphense stal",
-    "subtitle": "Video",
-    "published_at": "2023-11-14T07:15:36+01:00",
-    "updated_at": "2023-11-14T08:09:02+01:00",
-    "media_id": "8rsxr88aouuq",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6289582/koeien-gered-bij-grote-brand-in-alphense-stal.html",
     "open_new_window": false,
     "partner": null
   }
