@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289689,
+    "slug": "kampioen-napoli-ontslaat-garcia-en-haalt-mazzarri-na-tien-jaar-terug-als-trainer",
+    "type": "article",
+    "title": "Kampioen Napoli ontslaat Garcia en haalt Mazzarri na tien jaar terug als trainer",
+    "subtitle": null,
+    "published_at": "2023-11-14T17:14:39+01:00",
+    "updated_at": "2023-11-14T17:14:40+01:00",
+    "media_id": "dkwxqq2akq7u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6289689/kampioen-napoli-ontslaat-garcia-en-haalt-mazzarri-na-tien-jaar-terug-als-trainer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289684,
     "slug": "onderzoek-wonder-dat-feyenoord-ajax-in-april-niet-uitliep-op-een-ramp",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6289680,
-    "slug": "davidsterren-in-parijs-zo-stookt-rusland-onrust-in-europa-ook-bij-ons",
+    "slug": "zo-gaat-onruststoker-poetin-te-werk-in-europa-ook-in-nederland",
     "type": "video",
-    "title": "Davidsterren in Parijs: zo stookt Rusland onrust in Europa, óók bij ons",
+    "title": "Zo gaat ‘onruststoker’ Poetin te werk in Europa, óók in Nederland",
     "subtitle": "Explainer",
     "published_at": "2023-11-14T16:49:42+01:00",
-    "updated_at": "2023-11-14T16:49:43+01:00",
+    "updated_at": "2023-11-14T17:27:14+01:00",
     "media_id": "29qxi3ka3kbf",
     "duration": "2:30",
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6289680/davidsterren-in-parijs-zo-stookt-rusland-onrust-in-europa-ook-bij-ons.html",
+    "url": "/algemeen/6289680/zo-gaat-onruststoker-poetin-te-werk-in-europa-ook-in-nederland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Schiphol hoeft komend jaar toch niet te krimpen na druk van VS en EU",
     "subtitle": null,
     "published_at": "2023-11-14T16:22:12+01:00",
-    "updated_at": "2023-11-14T17:04:40+01:00",
+    "updated_at": "2023-11-14T17:25:57+01:00",
     "media_id": "taixpnvap0om",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6289142/kinderen-peter-r-de-vries-zorgden-dat-serie-recht-doet-aan-zijn-boek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289649,
-    "slug": "stemklonen-van-artiesten-straks-niet-altijd-meer-welkom-op-youtube",
-    "type": "article",
-    "title": "Stemklonen van artiesten straks niet altijd meer welkom op YouTube",
-    "subtitle": null,
-    "published_at": "2023-11-14T13:49:15+01:00",
-    "updated_at": "2023-11-14T15:27:09+01:00",
-    "media_id": "h3wxb6xa6kdi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6289649/stemklonen-van-artiesten-straks-niet-altijd-meer-welkom-op-youtube.html",
     "open_new_window": false,
     "partner": null
   }
