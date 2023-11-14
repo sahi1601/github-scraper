@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289576,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-11-14T05:16:14+01:00",
+    "updated_at": "2023-11-14T05:16:15+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6289576/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289530,
     "slug": "bodemprocedure-over-erfenis-jan-des-bouvrie-start-vandaag-hier-gaat-het-over",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6289469/extra-lespakketten-en-brandblussers-zo-speelt-nederland-in-op-het-gazaconflict.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289560,
-    "slug": "koeman-haalt-dallinga-voor-het-eerst-bij-oranje-na-afvallen-bergwijn-en-brobbey",
-    "type": "article",
-    "title": "Koeman haalt Dallinga voor het eerst bij Oranje na afvallen Bergwijn en Brobbey",
-    "subtitle": null,
-    "published_at": "2023-11-13T19:07:22+01:00",
-    "updated_at": "2023-11-14T05:10:58+01:00",
-    "media_id": "p8qx4wfaxn19",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289560/koeman-haalt-dallinga-voor-het-eerst-bij-oranje-na-afvallen-bergwijn-en-brobbey.html",
     "open_new_window": false,
     "partner": null
   }
