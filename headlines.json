@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289750,
+    "slug": "ziekenhuis-in-gaza-in-puin-na-israelische-aanval",
+    "type": "video",
+    "title": "Ziekenhuis in Gaza in puin na Israëlische aanval",
+    "subtitle": "Video",
+    "published_at": "2023-11-15T08:15:54+01:00",
+    "updated_at": "2023-11-15T08:15:55+01:00",
+    "media_id": "u30xf3baz25g",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6289750/ziekenhuis-in-gaza-in-puin-na-israelische-aanval.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289747,
     "slug": "nederlandse-ondernemers-willen-nieuwe-internationale-trein-tot-aan-groningen",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6289693,
-    "slug": "dit-land-verdrinkt-hoe-komt-dat-en-wat-zijn-de-oplossingen",
+    "slug": "tuvalu-vergaat-hoe-moet-het-nu-verder-met-de-inwoners",
     "type": "video",
-    "title": "Dit land verdrinkt: hoe komt dat en wat zijn de oplossingen?",
+    "title": "Tuvalu vergaat: hoe moet het nu verder met de inwoners?",
     "subtitle": "Explainer",
     "published_at": "2023-11-15T07:38:07+01:00",
-    "updated_at": "2023-11-15T07:38:08+01:00",
+    "updated_at": "2023-11-15T08:23:14+01:00",
     "media_id": "2kdxp3waq65n",
     "duration": "2:14",
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6289693/dit-land-verdrinkt-hoe-komt-dat-en-wat-zijn-de-oplossingen.html",
+    "url": "/algemeen/6289693/tuvalu-vergaat-hoe-moet-het-nu-verder-met-de-inwoners.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Israël valt Al Shifa-ziekenhuis in Gaza aan: 'Gerichte operatie tegen Hamas'",
     "subtitle": null,
     "published_at": "2023-11-15T06:29:16+01:00",
-    "updated_at": "2023-11-15T07:52:42+01:00",
+    "updated_at": "2023-11-15T08:17:00+01:00",
     "media_id": "odfxlk8adsk1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6289733/sinner-krijgt-publiek-op-de-banken-met-fraaie-zege-op-djokovic-bij-atp-finals.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289731,
-    "slug": "brugts-krijgt-goal-bij-cl-zege-barca-niet-op-haar-naam-van-de-donk-wint-met-0-9",
-    "type": "article",
-    "title": "Brugts krijgt goal bij CL-zege Barça niet op haar naam, Van de Donk wint met 0-9",
-    "subtitle": null,
-    "published_at": "2023-11-14T23:00:57+01:00",
-    "updated_at": "2023-11-14T23:12:15+01:00",
-    "media_id": "tvuxaqnauuc6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6289731/brugts-krijgt-goal-bij-cl-zege-barca-niet-op-haar-naam-van-de-donk-wint-met-0-9.html",
     "open_new_window": false,
     "partner": null
   }
