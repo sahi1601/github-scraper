@@ -1,12 +1,35 @@
 [
   {
-    "id": 6289737,
-    "slug": "zon-laat-zich-pas-na-een-veel-natte-uren-zien",
+    "id": 6289740,
+    "slug": "big-bang-theory-prequel-young-sheldon-krijgt-zevende-en-laatste-seizoen",
     "type": "article",
-    "title": "Zon laat zich pas na een veel natte uren zien",
+    "title": "Big Bang Theory-prequel Young Sheldon krijgt zevende en laatste seizoen",
+    "subtitle": null,
+    "published_at": "2023-11-15T06:25:29+01:00",
+    "updated_at": "2023-11-15T06:25:30+01:00",
+    "media_id": "hvmxgsfa2p5j",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6289740/big-bang-theory-prequel-young-sheldon-krijgt-zevende-en-laatste-seizoen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6289737,
+    "slug": "zon-laat-zich-pas-na-veel-natte-uren-zien",
+    "type": "article",
+    "title": "Zon laat zich pas na veel natte uren zien",
     "subtitle": "Weerbericht",
     "published_at": "2023-11-15T05:59:08+01:00",
-    "updated_at": "2023-11-15T05:59:09+01:00",
+    "updated_at": "2023-11-15T06:27:01+01:00",
     "media_id": "57ax4c7a2xyh",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6289737/zon-laat-zich-pas-na-een-veel-natte-uren-zien.html",
+    "url": "/weerbericht/6289737/zon-laat-zich-pas-na-veel-natte-uren-zien.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6289723/koning-charles-viert-75e-verjaardag-met-bezoek-aan-voedselbank.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289722,
-    "slug": "duitse-spoorvervoerder-komt-met-nooddienstregeling-vanwege-staking",
-    "type": "article",
-    "title": "Duitse spoorvervoerder komt met nooddienstregeling vanwege staking",
-    "subtitle": null,
-    "published_at": "2023-11-14T20:49:14+01:00",
-    "updated_at": "2023-11-14T21:06:20+01:00",
-    "media_id": "9ztxiiyai8wu",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6289722/duitse-spoorvervoerder-komt-met-nooddienstregeling-vanwege-staking.html",
     "open_new_window": false,
     "partner": null
   }
