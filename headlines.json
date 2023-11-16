@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289926,
+    "slug": "hogescholen-en-universiteiten-doen-niet-genoeg-voor-studenten-met-beperking",
+    "type": "article",
+    "title": "Hogescholen en universiteiten doen niet genoeg voor studenten met beperking",
+    "subtitle": null,
+    "published_at": "2023-11-16T10:38:02+01:00",
+    "updated_at": "2023-11-16T10:38:03+01:00",
+    "media_id": "idqx8liadjqj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6289926/hogescholen-en-universiteiten-doen-niet-genoeg-voor-studenten-met-beperking.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289919,
     "slug": "bekijk-het-programma-voor-de-wereldbeker-schaatsen-in-peking",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6289908/belg-tom-waes-gaat-tv-maken-voor-nederlandse-publieke-omroep.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289907,
-    "slug": "yesilgoz-ziet-nog-steeds-fundamentele-verschillen-met-pvv",
-    "type": "article",
-    "title": "Yesilgöz ziet nog steeds fundamentele verschillen met PVV",
-    "subtitle": "Verkiezingsblog",
-    "published_at": "2023-11-16T07:20:38+01:00",
-    "updated_at": "2023-11-16T10:10:11+01:00",
-    "media_id": "bg9xou5ajjdd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779275,
-      "slug": "tweede-kamerverkiezingen-2023",
-      "type": "files",
-      "name": "Tweede Kamerverkiezingen 2023",
-      "style": "nu",
-      "media_id": "vh7x4xray27h",
-      "partner": null
-    },
-    "url": "/tweede-kamerverkiezingen-2023/6289907/yesilgoz-ziet-nog-steeds-fundamentele-verschillen-met-pvv.html",
     "open_new_window": false,
     "partner": null
   }
