@@ -1,12 +1,35 @@
 [
   {
+    "id": 6290016,
+    "slug": "vn-experts-zien-israelische-acties-in-gaza-als-teken-van-beginnende-genocide",
+    "type": "article",
+    "title": "VN-experts zien Israëlische acties in Gaza als teken van beginnende genocide",
+    "subtitle": null,
+    "published_at": "2023-11-16T19:20:21+01:00",
+    "updated_at": "2023-11-16T19:29:18+01:00",
+    "media_id": "xagx0fzaev00",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Oorlog Israël en Hamas",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6290016/vn-experts-zien-israelische-acties-in-gaza-als-teken-van-beginnende-genocide.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290015,
     "slug": "kabinet-maakt-geld-vrij-voor-versnelde-ontwikkeling-vaccin-tegen-blauwtong",
     "type": "article",
     "title": "Kabinet maakt geld vrij voor versnelde ontwikkeling vaccin tegen blauwtong",
     "subtitle": null,
     "published_at": "2023-11-16T19:01:22+01:00",
-    "updated_at": "2023-11-16T19:03:23+01:00",
+    "updated_at": "2023-11-16T19:28:12+01:00",
     "media_id": "i8lx9tiam2s3",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Koeman haalt Teze bij Oranje als vervanger van geblesseerde Frimpong",
     "subtitle": null,
     "published_at": "2023-11-16T18:23:05+01:00",
-    "updated_at": "2023-11-16T18:29:19+01:00",
+    "updated_at": "2023-11-16T19:18:53+01:00",
     "media_id": "r2uxo7kagl1v",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6289979/dronebeelden-tonen-omvang-wateroverlast-in-west-vlaanderen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289975,
-    "slug": "acht-nederlanders-opgepakt-wegens-reeks-verwoestende-plofkraken-in-duitsland",
-    "type": "article",
-    "title": "Acht Nederlanders opgepakt wegens reeks verwoestende plofkraken in Duitsland",
-    "subtitle": null,
-    "published_at": "2023-11-16T14:13:03+01:00",
-    "updated_at": "2023-11-16T17:18:25+01:00",
-    "media_id": "m9mxmj3aipia",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6289975/acht-nederlanders-opgepakt-wegens-reeks-verwoestende-plofkraken-in-duitsland.html",
     "open_new_window": false,
     "partner": null
   }
