@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289998,
+    "slug": "finland-gooit-vier-grensovergangen-met-rusland-dicht-vanwege-migranten",
+    "type": "article",
+    "title": "Finland gooit vier grensovergangen met Rusland dicht vanwege migranten",
+    "subtitle": null,
+    "published_at": "2023-11-16T16:14:56+01:00",
+    "updated_at": "2023-11-16T16:17:48+01:00",
+    "media_id": "f4hxq2uacgyu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6289998/finland-gooit-vier-grensovergangen-met-rusland-dicht-vanwege-migranten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289879,
     "slug": "amnesty-fifa-en-qatar-hebben-jaar-na-wk-misstanden-nog-niet-verholpen",
     "type": "article",
@@ -323,12 +346,12 @@
   },
   {
     "id": 6289964,
-    "slug": "israelische-militair-gooit-7-keer-handgranaat-terug-naar-hamas-strijders",
+    "slug": "israelier-gooit-7-keer-handgranaat-terug-naar-hamas-strijders",
     "type": "video",
-    "title": "Israëlische militair gooit 7 keer handgranaat terug naar Hamas-strijders",
+    "title": "Israëliër gooit 7 keer handgranaat terug naar Hamas-strijders",
     "subtitle": "Video",
     "published_at": "2023-11-16T12:37:55+01:00",
-    "updated_at": "2023-11-16T15:01:35+01:00",
+    "updated_at": "2023-11-16T16:23:53+01:00",
     "media_id": "lllx7ujaf9ea",
     "duration": "1:21",
     "canonical_section": {
@@ -340,18 +363,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6289964/israelische-militair-gooit-7-keer-handgranaat-terug-naar-hamas-strijders.html",
+    "url": "/algemeen/6289964/israelier-gooit-7-keer-handgranaat-terug-naar-hamas-strijders.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6289921,
-    "slug": "gp-weekend-las-vegas-op-spectaculaire-wijze-geopend-maar-kritiek-is-er-ook",
+    "slug": "gp-weekend-las-vegas-spectaculair-geopend-maar-kritiek-is-er-ook",
     "type": "article",
-    "title": "GP-weekend Las Vegas op spectaculaire wijze geopend, maar kritiek is er ook",
+    "title": "GP-weekend Las Vegas spectaculair geopend, maar kritiek is er ook",
     "subtitle": "NU+",
     "published_at": "2023-11-16T12:33:47+01:00",
-    "updated_at": "2023-11-16T16:12:02+01:00",
+    "updated_at": "2023-11-16T16:19:31+01:00",
     "media_id": "8w3xarhafm9s",
     "duration": null,
     "canonical_section": {
@@ -363,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6289921/gp-weekend-las-vegas-op-spectaculaire-wijze-geopend-maar-kritiek-is-er-ook.html",
+    "url": "/formule-1/6289921/gp-weekend-las-vegas-spectaculair-geopend-maar-kritiek-is-er-ook.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6289952/storing-is-voorbij-je-kunt-weer-een-ov-fiets-huren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289115,
-    "slug": "voor-een-tandarts-of-huisarts-in-de-buurt-sta-je-steeds-vaker-voor-dichte-deur",
-    "type": "article",
-    "title": "Voor een tandarts of huisarts in de buurt sta je steeds vaker voor dichte deur",
-    "subtitle": null,
-    "published_at": "2023-11-16T11:40:46+01:00",
-    "updated_at": "2023-11-16T11:40:47+01:00",
-    "media_id": "rb8xhjeaxzow",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6289115/voor-een-tandarts-of-huisarts-in-de-buurt-sta-je-steeds-vaker-voor-dichte-deur.html",
     "open_new_window": false,
     "partner": null
   }
