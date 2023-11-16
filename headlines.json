@@ -1,5 +1,28 @@
 [
   {
+    "id": 6289896,
+    "slug": "lily-yohannes-16-maakt-indruk-bij-ajax-mijn-ouders-en-broer-zijn-heel-trots",
+    "type": "article",
+    "title": "Lily Yohannes (16) maakt indruk bij Ajax: 'Mijn ouders en broer zijn heel trots'",
+    "subtitle": null,
+    "published_at": "2023-11-16T07:10:30+01:00",
+    "updated_at": "2023-11-16T07:10:31+01:00",
+    "media_id": "hm2xs53asrzz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6289896/lily-yohannes-16-maakt-indruk-bij-ajax-mijn-ouders-en-broer-zijn-heel-trots.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6289905,
     "slug": "talkshowhost-jimmy-kimmel-presenteert-voor-de-vierde-keer-de-oscars",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Moeder van zesjarige jongen die lerares neerschoot in VS krijgt 21 maanden cel",
     "subtitle": null,
     "published_at": "2023-11-16T06:08:52+01:00",
-    "updated_at": "2023-11-16T06:08:53+01:00",
+    "updated_at": "2023-11-16T07:13:22+01:00",
     "media_id": "2gsxte0ad8i6",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6289899,
-    "slug": "zon-en-regen-wisselen-elkaar-af-op-deze-rustige-herfstdag",
+    "slug": "zon-en-regen-wisselen-elkaar-af-op-rustige-herfstdag",
     "type": "article",
-    "title": "Zon en regen wisselen elkaar af op deze rustige herfstdag",
+    "title": "Zon en regen wisselen elkaar af op rustige herfstdag",
     "subtitle": "Weerbericht",
     "published_at": "2023-11-16T05:56:54+01:00",
-    "updated_at": "2023-11-16T05:56:55+01:00",
+    "updated_at": "2023-11-16T07:06:10+01:00",
     "media_id": "a0lxnlyazvti",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6289899/zon-en-regen-wisselen-elkaar-af-op-deze-rustige-herfstdag.html",
+    "url": "/weerbericht/6289899/zon-en-regen-wisselen-elkaar-af-op-rustige-herfstdag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Aantal vergunningen voor nieuwbouw zakt nog verder in",
     "subtitle": null,
     "published_at": "2023-11-16T00:01:30+01:00",
-    "updated_at": "2023-11-16T00:01:31+01:00",
+    "updated_at": "2023-11-16T06:55:17+01:00",
     "media_id": "7dzxav0aawqq",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Xi Jinping na 6 jaar weer in de VS voor ontmoeting met Joe Biden",
     "subtitle": "In beeld",
     "published_at": "2023-11-15T23:47:23+01:00",
-    "updated_at": "2023-11-16T00:11:09+01:00",
+    "updated_at": "2023-11-16T07:06:28+01:00",
     "media_id": "3agxl16aktco",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/midden-oostenconflict/6289873/vn-wil-humanitaire-pauzes-gaza-zorgen-na-inval-ziekenhuis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289885,
-    "slug": "david-guetta-stoot-martin-garrix-van-troon-als-populairste-dj-ter-wereld",
-    "type": "article",
-    "title": "David Guetta stoot Martin Garrix van troon als populairste dj ter wereld",
-    "subtitle": null,
-    "published_at": "2023-11-15T22:08:24+01:00",
-    "updated_at": "2023-11-15T22:19:08+01:00",
-    "media_id": "8nqxzgra7pqb",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6289885/david-guetta-stoot-martin-garrix-van-troon-als-populairste-dj-ter-wereld.html",
     "open_new_window": false,
     "partner": null
   }
