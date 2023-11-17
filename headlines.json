@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290192,
+    "slug": "kool-the-gang-drummer-george-brown-74-overleden",
+    "type": "article",
+    "title": "Kool & The Gang-drummer George Brown (74) overleden",
+    "subtitle": null,
+    "published_at": "2023-11-17T17:27:21+01:00",
+    "updated_at": "2023-11-17T17:27:22+01:00",
+    "media_id": "4ehxuwfas7nv",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6290192/kool-the-gang-drummer-george-brown-74-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290188,
     "slug": "hond-moldavische-president-bijt-oostenrijkse-president-in-zijn-hand",
     "type": "video",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6290184,
-    "slug": "franse-senator-aangehouden-na-mogelijk-drogeren-parlementarier",
+    "slug": "franse-senator-aangehouden-omdat-hij-mogelijk-parlementarier-heeft-gedrogeerd",
     "type": "article",
-    "title": "Franse senator aangehouden na mogelijk drogeren parlementariër",
+    "title": "Franse senator aangehouden omdat hij mogelijk parlementariër heeft gedrogeerd",
     "subtitle": null,
     "published_at": "2023-11-17T16:54:00+01:00",
-    "updated_at": "2023-11-17T16:54:01+01:00",
+    "updated_at": "2023-11-17T17:32:40+01:00",
     "media_id": "99kxuhiaqjv5",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6290184/franse-senator-aangehouden-na-mogelijk-drogeren-parlementarier.html",
+    "url": "/buitenland/6290184/franse-senator-aangehouden-omdat-hij-mogelijk-parlementarier-heeft-gedrogeerd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,12 +231,12 @@
   },
   {
     "id": 6290170,
-    "slug": "nuis-wint-in-peking-ondanks-gestolen-transponder-ik-raakte-in-de-stress",
+    "slug": "nuis-wint-in-peking-ondanks-verdwenen-transponder-ik-raakte-in-de-stress",
     "type": "article",
-    "title": "Nuis wint in Peking ondanks gestolen transponder: 'Ik raakte in de stress'",
+    "title": "Nuis wint in Peking ondanks verdwenen transponder: 'Ik raakte in de stress'",
     "subtitle": null,
     "published_at": "2023-11-17T15:47:26+01:00",
-    "updated_at": "2023-11-17T15:56:18+01:00",
+    "updated_at": "2023-11-17T17:34:58+01:00",
     "media_id": "rghx00iafo6a",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6290170/nuis-wint-in-peking-ondanks-gestolen-transponder-ik-raakte-in-de-stress.html",
+    "url": "/schaatsen/6290170/nuis-wint-in-peking-ondanks-verdwenen-transponder-ik-raakte-in-de-stress.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +397,7 @@
     "title": "Voor het eerst komt een vrouw aan het hoofd van de politie te staan",
     "subtitle": null,
     "published_at": "2023-11-17T15:17:53+01:00",
-    "updated_at": "2023-11-17T16:23:36+01:00",
+    "updated_at": "2023-11-17T17:35:53+01:00",
     "media_id": "fe6x2cban8jz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6290154/ook-rotterdam-the-hague-airport-gaat-kerosine-met-biobrandstof-vermengen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290156,
-    "slug": "koeman-looft-oranjenieuweling-hato-een-heel-groot-talent",
-    "type": "video",
-    "title": "Koeman looft Oranjenieuweling Hato: 'Een heel groot talent'",
-    "subtitle": "Video",
-    "published_at": "2023-11-17T14:54:17+01:00",
-    "updated_at": "2023-11-17T15:13:30+01:00",
-    "media_id": "kxaxnq7am4fz",
-    "duration": "1:05",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6290156/koeman-looft-oranjenieuweling-hato-een-heel-groot-talent.html",
     "open_new_window": false,
     "partner": null
   }
