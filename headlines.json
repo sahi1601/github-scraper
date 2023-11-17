@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290196,
+    "slug": "lonen-voor-politiemedewerkers-stijgen-volgend-jaar-met-95-procent",
+    "type": "article",
+    "title": "Lonen voor politiemedewerkers stijgen volgend jaar met 9,5 procent",
+    "subtitle": null,
+    "published_at": "2023-11-17T17:42:12+01:00",
+    "updated_at": "2023-11-17T17:42:13+01:00",
+    "media_id": "m23xhtqacawq",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6290196/lonen-voor-politiemedewerkers-stijgen-volgend-jaar-met-95-procent.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290192,
     "slug": "kool-the-gang-drummer-george-brown-74-overleden",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6290159/talpa-stopt-met-goednieuws-vandaag-werkt-helaas-niet.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290154,
-    "slug": "ook-rotterdam-the-hague-airport-gaat-kerosine-met-biobrandstof-vermengen",
-    "type": "article",
-    "title": "Ook Rotterdam The Hague Airport gaat kerosine met biobrandstof vermengen",
-    "subtitle": null,
-    "published_at": "2023-11-17T15:04:44+01:00",
-    "updated_at": "2023-11-17T15:04:45+01:00",
-    "media_id": "3jmxdplabry7",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6290154/ook-rotterdam-the-hague-airport-gaat-kerosine-met-biobrandstof-vermengen.html",
     "open_new_window": false,
     "partner": null
   }
