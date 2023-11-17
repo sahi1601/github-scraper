@@ -1,12 +1,81 @@
 [
   {
+    "id": 6290081,
+    "slug": "weer-vallende-sterren-te-zien-vooral-tegen-middernacht-in-het-oosten",
+    "type": "article",
+    "title": "Weer vallende sterren te zien, vooral tegen middernacht in het oosten",
+    "subtitle": null,
+    "published_at": "2023-11-17T11:29:26+01:00",
+    "updated_at": "2023-11-17T11:29:28+01:00",
+    "media_id": "5xexi0fawyf2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6290081/weer-vallende-sterren-te-zien-vooral-tegen-middernacht-in-het-oosten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290105,
+    "slug": "branche-wil-kinderopvang-niet-gratis-wel-goedkoper-voor-middeninkomens",
+    "type": "article",
+    "title": "Branche wil kinderopvang niet gratis, wel goedkoper voor middeninkomens",
+    "subtitle": null,
+    "published_at": "2023-11-17T11:26:57+01:00",
+    "updated_at": "2023-11-17T11:26:58+01:00",
+    "media_id": "ierx1qwaxjsi",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6290105/branche-wil-kinderopvang-niet-gratis-wel-goedkoper-voor-middeninkomens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290108,
+    "slug": "merijn-scheperkamp-mist-wereldbekermedaille-500-meter-op-0002-seconden",
+    "type": "article",
+    "title": "Merijn Scheperkamp mist wereldbekermedaille 500 meter op 0,002 seconden",
+    "subtitle": null,
+    "published_at": "2023-11-17T11:17:12+01:00",
+    "updated_at": "2023-11-17T11:28:25+01:00",
+    "media_id": "i3mxgmyap0lq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6290108/merijn-scheperkamp-mist-wereldbekermedaille-500-meter-op-0002-seconden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290107,
     "slug": "az-zonder-supporters-naar-legia-warschau-uit-angst-voor-nieuwe-escalatie",
     "type": "article",
     "title": "AZ zonder supporters naar Legia Warschau uit angst voor nieuwe escalatie",
     "subtitle": null,
     "published_at": "2023-11-17T11:12:28+01:00",
-    "updated_at": "2023-11-17T11:12:29+01:00",
+    "updated_at": "2023-11-17T11:19:47+01:00",
     "media_id": "wy3xqpyawfaz",
     "duration": null,
     "canonical_section": {
@@ -93,12 +162,12 @@
   },
   {
     "id": 6290101,
-    "slug": "beune-komt-net-tekort-voor-medaille-op-1500-meter-takagi-wint-ook-in-peking",
+    "slug": "beune-komt-net-tekort-voor-podium-op-1500-meter-takagi-wint-ook-in-peking",
     "type": "article",
-    "title": "Beune komt net tekort voor medaille op 1.500 meter, Takagi wint ook in Peking",
+    "title": "Beune komt net tekort voor podium op 1.500 meter, Takagi wint ook in Peking",
     "subtitle": null,
     "published_at": "2023-11-17T10:47:43+01:00",
-    "updated_at": "2023-11-17T11:01:15+01:00",
+    "updated_at": "2023-11-17T11:21:20+01:00",
     "media_id": "vz1xc0rati3e",
     "duration": null,
     "canonical_section": {
@@ -110,7 +179,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6290101/beune-komt-net-tekort-voor-medaille-op-1500-meter-takagi-wint-ook-in-peking.html",
+    "url": "/schaatsen/6290101/beune-komt-net-tekort-voor-podium-op-1500-meter-takagi-wint-ook-in-peking.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/economie/6290067/stroomnet-almere-zo-vol-dat-er-geen-ruimte-meer-is-voor-nieuwbouwhuizen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290069,
-    "slug": "amerikaanse-politie-forceert-botsing-om-spookrijder-te-stoppen",
-    "type": "video",
-    "title": "Amerikaanse politie forceert botsing om spookrijder te stoppen",
-    "subtitle": "Video",
-    "published_at": "2023-11-17T09:10:18+01:00",
-    "updated_at": "2023-11-17T09:10:21+01:00",
-    "media_id": "bpnxag5a86eq",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6290069/amerikaanse-politie-forceert-botsing-om-spookrijder-te-stoppen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6289982,
-    "slug": "ik-ben-voor-meer-samenwerking-in-de-europese-unie",
-    "type": "article",
-    "title": "'Ik ben voor meer samenwerking in de Europese Unie'",
-    "subtitle": "Verkiezingsstelling",
-    "published_at": "2023-11-17T09:07:47+01:00",
-    "updated_at": "2023-11-17T09:07:49+01:00",
-    "media_id": "8a4xkj5a0mxl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6289982/ik-ben-voor-meer-samenwerking-in-de-europese-unie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290064,
-    "slug": "ibm-adverteert-niet-meer-op-x-omdat-zijn-reclame-onder-naziberichten-verscheen",
-    "type": "article",
-    "title": "IBM adverteert niet meer op X omdat zijn reclame onder naziberichten verscheen",
-    "subtitle": null,
-    "published_at": "2023-11-17T09:00:24+01:00",
-    "updated_at": "2023-11-17T09:00:25+01:00",
-    "media_id": "wc0x99ua0m88",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6290064/ibm-adverteert-niet-meer-op-x-omdat-zijn-reclame-onder-naziberichten-verscheen.html",
     "open_new_window": false,
     "partner": null
   }
