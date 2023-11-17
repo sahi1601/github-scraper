@@ -1,12 +1,35 @@
 [
   {
+    "id": 6290072,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-11-17T09:31:47+01:00",
+    "updated_at": "2023-11-17T09:31:48+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6290072/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290062,
     "slug": "wolf-is-zijn-rust-in-nederland-na-verkiezingen-niet-zeker",
     "type": "article",
     "title": "Wolf is zijn rust in Nederland na verkiezingen niet zeker",
-    "subtitle": "Liveblog",
+    "subtitle": "Verkiezingsblog ",
     "published_at": "2023-11-17T09:22:54+01:00",
-    "updated_at": "2023-11-17T09:22:56+01:00",
+    "updated_at": "2023-11-17T09:38:47+01:00",
     "media_id": "gd1xpuza4fdc",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6289986,
-    "slug": "vergroening-onder-druk-door-minder-rendabele-zonnepanelen-en-windmolens",
+    "slug": "vergroening-onder-druk-minder-rendabele-zonnepanelen-en-windmolens",
     "type": "article",
-    "title": "Vergroening onder druk door minder rendabele zonnepanelen en windmolens",
+    "title": "Vergroening onder druk: minder rendabele zonnepanelen en windmolens",
     "subtitle": "NU+",
     "published_at": "2023-11-17T09:17:27+01:00",
-    "updated_at": "2023-11-17T09:17:28+01:00",
+    "updated_at": "2023-11-17T09:40:44+01:00",
     "media_id": "95xxt8ea5hdt",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6289986/vergroening-onder-druk-door-minder-rendabele-zonnepanelen-en-windmolens.html",
+    "url": "/economie/6289986/vergroening-onder-druk-minder-rendabele-zonnepanelen-en-windmolens.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +443,7 @@
     "title": "Eerste training GP Las Vegas na acht minuten gestaakt omdat putdeksel loskomt",
     "subtitle": null,
     "published_at": "2023-11-17T05:56:36+01:00",
-    "updated_at": "2023-11-17T08:34:15+01:00",
+    "updated_at": "2023-11-17T09:43:10+01:00",
     "media_id": "eorxkzdazfdu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6290046/eerste-training-gp-las-vegas-na-acht-minuten-gestaakt-omdat-putdeksel-loskomt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290045,
-    "slug": "zaak-rond-dood-zwarte-amerikaanse-mislukt-jury-niet-eens-over-geweld-agent",
-    "type": "article",
-    "title": "Zaak rond dood zwarte Amerikaanse mislukt: jury niet eens over geweld agent",
-    "subtitle": null,
-    "published_at": "2023-11-17T05:48:48+01:00",
-    "updated_at": "2023-11-17T07:57:15+01:00",
-    "media_id": "otnxqk7av7c5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6290045/zaak-rond-dood-zwarte-amerikaanse-mislukt-jury-niet-eens-over-geweld-agent.html",
     "open_new_window": false,
     "partner": null
   }
