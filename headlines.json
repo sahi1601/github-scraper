@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290450,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-11-20T05:20:20+01:00",
+    "updated_at": "2023-11-20T05:20:21+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6290450/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290071,
     "slug": "shakira-voor-de-rechter-om-belastingfraude-krijgt-ze-een-celstraf",
     "type": "article",
@@ -231,12 +254,12 @@
   },
   {
     "id": 6290439,
-    "slug": "israel-zegt-tunnel-van-terroristen-te-hebben-gevonden-onder-al-shifa-ziekenhuis",
+    "slug": "israel-zegt-tunnel-van-hamas-te-hebben-gevonden-onder-al-shifa-ziekenhuis",
     "type": "article",
-    "title": "Israël zegt tunnel van terroristen te hebben gevonden onder Al Shifa-ziekenhuis",
+    "title": "Israël zegt tunnel van Hamas te hebben gevonden onder Al Shifa-ziekenhuis",
     "subtitle": null,
     "published_at": "2023-11-19T20:43:34+01:00",
-    "updated_at": "2023-11-19T21:14:05+01:00",
+    "updated_at": "2023-11-20T05:24:04+01:00",
     "media_id": "2xsxymeabbmi",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/midden-oostenconflict/6290439/israel-zegt-tunnel-van-terroristen-te-hebben-gevonden-onder-al-shifa-ziekenhuis.html",
+    "url": "/midden-oostenconflict/6290439/israel-zegt-tunnel-van-hamas-te-hebben-gevonden-onder-al-shifa-ziekenhuis.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6290427/hoe-de-race-een-hectisch-weekend-met-boze-fans-in-las-vegas-redde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290426,
-    "slug": "cricketers-australie-verpesten-indiase-droom-en-pakken-zesde-wereldtitel",
-    "type": "article",
-    "title": "Cricketers Australië verpesten Indiase droom en pakken zesde wereldtitel",
-    "subtitle": null,
-    "published_at": "2023-11-19T18:37:59+01:00",
-    "updated_at": "2023-11-19T18:49:56+01:00",
-    "media_id": "4evxeibad47v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6290426/cricketers-australie-verpesten-indiase-droom-en-pakken-zesde-wereldtitel.html",
     "open_new_window": false,
     "partner": null
   }
