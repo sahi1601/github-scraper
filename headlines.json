@@ -1,5 +1,51 @@
 [
   {
+    "id": 6290469,
+    "slug": "lonen-stegen-in-oktober-fors-met-82-procent-maar-de-vraag-is-hoeveel-dat-zegt",
+    "type": "article",
+    "title": "Lonen stegen in oktober fors met 8,2 procent, maar de vraag is hoeveel dat zegt",
+    "subtitle": null,
+    "published_at": "2023-11-20T08:53:09+01:00",
+    "updated_at": "2023-11-20T08:53:11+01:00",
+    "media_id": "6vfxek0aw4zh",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6290469/lonen-stegen-in-oktober-fors-met-82-procent-maar-de-vraag-is-hoeveel-dat-zegt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290468,
+    "slug": "kankerbehandeling-bij-mannen-vaker-op-genezing-gericht-dan-bij-vrouwen",
+    "type": "article",
+    "title": "Kankerbehandeling bij mannen vaker op genezing gericht dan bij vrouwen",
+    "subtitle": null,
+    "published_at": "2023-11-20T08:46:49+01:00",
+    "updated_at": "2023-11-20T08:46:50+01:00",
+    "media_id": "x56xgs2ahflr",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6290468/kankerbehandeling-bij-mannen-vaker-op-genezing-gericht-dan-bij-vrouwen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290466,
     "slug": "spaans-toptalent-gavi-mist-mogelijk-het-ek-we-zijn-er-allemaal-kapot-van",
     "type": "article",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6290462,
-    "slug": "eneco-wil-groene-waterstoffabriek-bouwen-in-havengebied-van-rotterdam",
+    "slug": "eneco-wil-groenewaterstoffabriek-bouwen-in-havengebied-van-rotterdam",
     "type": "article",
-    "title": "Eneco wil groene waterstoffabriek bouwen in havengebied van Rotterdam",
+    "title": "Eneco wil groenewaterstoffabriek bouwen in havengebied van Rotterdam",
     "subtitle": null,
     "published_at": "2023-11-20T08:18:40+01:00",
-    "updated_at": "2023-11-20T08:18:42+01:00",
+    "updated_at": "2023-11-20T09:06:45+01:00",
     "media_id": "kx7x3lxajv3x",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6290462/eneco-wil-groene-waterstoffabriek-bouwen-in-havengebied-van-rotterdam.html",
+    "url": "/economie/6290462/eneco-wil-groenewaterstoffabriek-bouwen-in-havengebied-van-rotterdam.html",
     "open_new_window": false,
     "partner": null
   },
@@ -254,13 +300,13 @@
   },
   {
     "id": 6290452,
-    "slug": "ruim-helft-gl-pvda-kiezers-stemt-strategisch-op-die-partij",
+    "slug": "cda-en-pvda-gl-zien-niets-in-kabinet-met-vakministers-wat-is-een-zakenkabinet",
     "type": "article",
-    "title": "Ruim helft GL-PvdA-kiezers stemt strategisch op die partij",
+    "title": "CDA en PvdA-GL zien niets in kabinet met vakministers: 'Wat is een zakenkabinet?'",
     "subtitle": "Verkiezingsblog",
     "published_at": "2023-11-20T05:41:33+01:00",
-    "updated_at": "2023-11-20T07:45:54+01:00",
-    "media_id": "20bx4fbacxzj",
+    "updated_at": "2023-11-20T09:16:54+01:00",
+    "media_id": "ofhxt2vase4t",
     "duration": null,
     "canonical_section": {
       "id": 1771437,
@@ -271,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6290452/ruim-helft-gl-pvda-kiezers-stemt-strategisch-op-die-partij.html",
+    "url": "/politiek/6290452/cda-en-pvda-gl-zien-niets-in-kabinet-met-vakministers-wat-is-een-zakenkabinet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +397,7 @@
     "title": "Gemeenten hoeven nu minder statushouders te plaatsen, maar opgave blijft flink",
     "subtitle": null,
     "published_at": "2023-11-20T05:06:43+01:00",
-    "updated_at": "2023-11-20T05:06:44+01:00",
+    "updated_at": "2023-11-20T08:47:58+01:00",
     "media_id": "ev7xtu3a121h",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6290167/inkomsten-van-nederlandse-industrie-zijn-in-jaren-niet-zo-hard-gedaald.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290449,
-    "slug": "interim-topman-schiphol-vreest-dat-luchthaven-verder-moet-krimpen-dan-gepland",
-    "type": "article",
-    "title": "Interim-topman Schiphol vreest dat luchthaven verder moet krimpen dan gepland",
-    "subtitle": null,
-    "published_at": "2023-11-19T23:48:45+01:00",
-    "updated_at": "2023-11-20T07:52:55+01:00",
-    "media_id": "p55xszda9y9o",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6290449/interim-topman-schiphol-vreest-dat-luchthaven-verder-moet-krimpen-dan-gepland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290446,
-    "slug": "motogp-rijder-martin-woest-op-bandenleverancier-mijn-wereldtitel-is-gestolen",
-    "type": "article",
-    "title": "MotoGP-rijder Martín woest op bandenleverancier: 'Mijn wereldtitel is gestolen'",
-    "subtitle": null,
-    "published_at": "2023-11-19T23:07:34+01:00",
-    "updated_at": "2023-11-19T23:19:32+01:00",
-    "media_id": "o05xq1nairxp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6290446/motogp-rijder-martin-woest-op-bandenleverancier-mijn-wereldtitel-is-gestolen.html",
     "open_new_window": false,
     "partner": null
   }
