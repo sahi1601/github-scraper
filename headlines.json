@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290574,
+    "slug": "thierry-baudet-volgens-fvd-naar-ziekenhuis-na-aanval-met-fles-in-gronings-cafe",
+    "type": "article",
+    "title": "Thierry Baudet volgens FVD naar ziekenhuis na aanval met fles in Gronings café",
+    "subtitle": null,
+    "published_at": "2023-11-20T18:16:52+01:00",
+    "updated_at": "2023-11-20T18:23:29+01:00",
+    "media_id": "1v7x3y2atbhi",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6290574/thierry-baudet-volgens-fvd-naar-ziekenhuis-na-aanval-met-fles-in-gronings-cafe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290568,
     "slug": "grensconflict-finland-en-rusland-heeft-opvallend-detail-de-fiets",
     "type": "video",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6290562,
-    "slug": "producent-engelkes-na-conflict-niet-meer-betrokken-bij-musical-willem-van-oranje",
+    "slug": "theatermaker-rick-engelkes-niet-langer-betrokken-bij-musical-willem-van-oranje",
     "type": "article",
-    "title": "Producent Engelkes na conflict niet meer betrokken bij musical Willem van Oranje",
+    "title": "Theatermaker Rick Engelkes niet langer betrokken bij musical Willem van Oranje",
     "subtitle": null,
     "published_at": "2023-11-20T17:49:40+01:00",
-    "updated_at": "2023-11-20T17:49:42+01:00",
+    "updated_at": "2023-11-20T18:09:33+01:00",
     "media_id": "mzqxoyha5ho0",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/cultuur-overig/6290562/producent-engelkes-na-conflict-niet-meer-betrokken-bij-musical-willem-van-oranje.html",
+    "url": "/cultuur-overig/6290562/theatermaker-rick-engelkes-niet-langer-betrokken-bij-musical-willem-van-oranje.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6290525/automobilisten-kunnen-vanaf-2025-gratis-door-de-westerscheldetunnel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290109,
-    "slug": "vitesse-schuift-clubicoon-sturing-voor-zevende-keer-naar-voren-als-interim-trainer",
-    "type": "article",
-    "title": "Vitesse schuift clubicoon Sturing voor zevende keer naar voren als interim-trainer",
-    "subtitle": null,
-    "published_at": "2023-11-20T14:06:42+01:00",
-    "updated_at": "2023-11-20T16:36:50+01:00",
-    "media_id": "va1xhdnasogh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6290109/vitesse-schuift-clubicoon-sturing-voor-zevende-keer-naar-voren-als-interim-trainer.html",
     "open_new_window": false,
     "partner": null
   }
