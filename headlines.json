@@ -1,12 +1,58 @@
 [
   {
+    "id": 6290605,
+    "slug": "zo-breng-je-als-blinde-of-slechtziende-je-stem-uit",
+    "type": "video",
+    "title": "Zo breng je als blinde of slechtziende je stem uit",
+    "subtitle": "Explainer",
+    "published_at": "2023-11-21T07:41:41+01:00",
+    "updated_at": "2023-11-21T07:44:47+01:00",
+    "media_id": "uvdx4eiad0iv",
+    "duration": "3:06",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6290605/zo-breng-je-als-blinde-of-slechtziende-je-stem-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290604,
+    "slug": "steeds-meer-zorgmedewerkers-zijn-zzper-een-op-negen-is-eigen-baas",
+    "type": "article",
+    "title": "Steeds meer zorgmedewerkers zijn zzp'er: een op negen is eigen baas",
+    "subtitle": null,
+    "published_at": "2023-11-21T07:35:26+01:00",
+    "updated_at": "2023-11-21T07:40:54+01:00",
+    "media_id": "yz4x3qvaujbn",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6290604/steeds-meer-zorgmedewerkers-zijn-zzper-een-op-negen-is-eigen-baas.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290603,
     "slug": "gefrustreerde-dest-wekt-woede-amerikaanse-teamgenoten-met-bizarre-rode-kaart",
     "type": "article",
     "title": "Gefrustreerde Dest wekt woede Amerikaanse teamgenoten met bizarre rode kaart",
     "subtitle": null,
     "published_at": "2023-11-21T07:28:54+01:00",
-    "updated_at": "2023-11-21T07:28:56+01:00",
+    "updated_at": "2023-11-21T07:40:05+01:00",
     "media_id": "kjaxje6a5mad",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6290566/deal-over-vrijlaten-gijzelaars-in-gaza-volgens-vs-zeer-nabij.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290587,
-    "slug": "politieke-kopstukken-geschokt-na-tweede-aanval-op-baudet-onacceptabel",
-    "type": "article",
-    "title": "Politieke kopstukken geschokt na tweede aanval op Baudet: 'Onacceptabel'",
-    "subtitle": null,
-    "published_at": "2023-11-20T20:51:51+01:00",
-    "updated_at": "2023-11-21T05:41:44+01:00",
-    "media_id": "5yvx3quamjka",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779275,
-      "slug": "tweede-kamerverkiezingen-2023",
-      "type": "files",
-      "name": "Tweede Kamerverkiezingen 2023",
-      "style": "nu",
-      "media_id": "vh7x4xray27h",
-      "partner": null
-    },
-    "url": "/tweede-kamerverkiezingen-2023/6290587/politieke-kopstukken-geschokt-na-tweede-aanval-op-baudet-onacceptabel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290583,
-    "slug": "jong-oranje-heeft-ek-ticket-binnen-handbereik-na-zesde-zege-op-rij",
-    "type": "article",
-    "title": "Jong Oranje heeft EK-ticket binnen handbereik na zesde zege op rij",
-    "subtitle": null,
-    "published_at": "2023-11-20T20:06:55+01:00",
-    "updated_at": "2023-11-20T21:41:30+01:00",
-    "media_id": "ajex5ogavcet",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6290583/jong-oranje-heeft-ek-ticket-binnen-handbereik-na-zesde-zege-op-rij.html",
     "open_new_window": false,
     "partner": null
   }
