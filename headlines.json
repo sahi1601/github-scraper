@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290596,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-11-21T05:18:18+01:00",
+    "updated_at": "2023-11-21T05:18:20+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6290596/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290547,
     "slug": "wat-kan-oranje-na-de-franse-14-0-met-zon-groot-mogelijke-uitslag-winnen",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6290559/zorgen-in-ter-apel-om-overlast-door-asielzoekers-meer-inzet-op-speciale-opvang.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290576,
-    "slug": "baudet-in-gronings-cafe-aangevallen-met-fles",
-    "type": "video",
-    "title": "Baudet in Gronings café aangevallen met fles",
-    "subtitle": "Video",
-    "published_at": "2023-11-20T18:26:33+01:00",
-    "updated_at": "2023-11-20T23:51:09+01:00",
-    "media_id": "tqaxya1a9zx4",
-    "duration": "0:43",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6290576/baudet-in-gronings-cafe-aangevallen-met-fles.html",
     "open_new_window": false,
     "partner": null
   }
