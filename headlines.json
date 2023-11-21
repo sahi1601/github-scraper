@@ -1,12 +1,58 @@
 [
   {
+    "id": 6290673,
+    "slug": "man-wilde-explosief-laten-ontploffen-in-rotterdams-gemeentekantoor",
+    "type": "article",
+    "title": "Man wilde explosief laten ontploffen in Rotterdams gemeentekantoor",
+    "subtitle": null,
+    "published_at": "2023-11-21T14:02:53+01:00",
+    "updated_at": "2023-11-21T14:17:22+01:00",
+    "media_id": "hmxx2cmaue3z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6290673/man-wilde-explosief-laten-ontploffen-in-rotterdams-gemeentekantoor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290669,
+    "slug": "bbc-programma-top-gear-voorlopig-niet-terug-op-de-buis-na-ongeluk-tijdens-opnames",
+    "type": "article",
+    "title": "BBC-programma Top Gear voorlopig niet terug op de buis na ongeluk tijdens opnames",
+    "subtitle": null,
+    "published_at": "2023-11-21T13:59:48+01:00",
+    "updated_at": "2023-11-21T13:59:49+01:00",
+    "media_id": "afkx1vea3zoz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6290669/bbc-programma-top-gear-voorlopig-niet-terug-op-de-buis-na-ongeluk-tijdens-opnames.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290670,
-    "slug": "baudet-reageert-op-aanval-politieke-aanslag-op-onze-standpunten",
+    "slug": "baudet-na-mishandeling-groningen-beveiliging-was-opgeschroefd",
     "type": "video",
-    "title": "Baudet reageert op aanval: 'Politieke aanslag op onze standpunten'",
+    "title": "Baudet na mishandeling Groningen: 'Beveiliging was opgeschroefd'",
     "subtitle": "Video",
     "published_at": "2023-11-21T13:54:34+01:00",
-    "updated_at": "2023-11-21T13:54:51+01:00",
+    "updated_at": "2023-11-21T14:11:52+01:00",
     "media_id": "wgax3fhap143",
     "duration": "1:16",
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6290670/baudet-reageert-op-aanval-politieke-aanslag-op-onze-standpunten.html",
+    "url": "/videos/6290670/baudet-na-mishandeling-groningen-beveiliging-was-opgeschroefd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +144,7 @@
     "title": "Baudet heeft hoofdwond na mishandeling Groningen: 'Maar wij gaan door en buigen niet'",
     "subtitle": null,
     "published_at": "2023-11-21T13:04:41+01:00",
-    "updated_at": "2023-11-21T13:44:27+01:00",
+    "updated_at": "2023-11-21T13:56:58+01:00",
     "media_id": "rrox8z4aasjg",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6290635/archeologen-ontdekken-1000-jaar-oude-mummies-in-peru.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290630,
-    "slug": "werk-jij-woensdag-op-een-stembureau-dan-zoeken-we-jou",
-    "type": "article",
-    "title": "Werk jij woensdag op een stembureau? Dan zoeken we jou",
-    "subtitle": "Oproep",
-    "published_at": "2023-11-21T10:46:23+01:00",
-    "updated_at": "2023-11-21T11:05:42+01:00",
-    "media_id": "hsuxbqfa4reh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779137,
-      "slug": "vragenoproep",
-      "type": "default",
-      "name": "Oproep",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/vragenoproep/6290630/werk-jij-woensdag-op-een-stembureau-dan-zoeken-we-jou.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290634,
-    "slug": "verdachte-die-baudet-met-fles-zou-hebben-geslagen-is-minderjarige-jongen",
-    "type": "article",
-    "title": "Verdachte die Baudet met fles zou hebben geslagen is minderjarige jongen",
-    "subtitle": null,
-    "published_at": "2023-11-21T10:45:26+01:00",
-    "updated_at": "2023-11-21T13:14:57+01:00",
-    "media_id": "elax0tqadfyw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6290634/verdachte-die-baudet-met-fles-zou-hebben-geslagen-is-minderjarige-jongen.html",
     "open_new_window": false,
     "partner": null
   }
