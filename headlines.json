@@ -1,12 +1,35 @@
 [
   {
+    "id": 6290879,
+    "slug": "tour-de-france-winnaar-jan-ullrich-geeft-dopinggebruik-toe-ik-voel-me-schuldig",
+    "type": "article",
+    "title": "Tour de France-winnaar Jan Ullrich geeft dopinggebruik toe: 'Ik voel me schuldig'",
+    "subtitle": null,
+    "published_at": "2023-11-22T20:14:47+01:00",
+    "updated_at": "2023-11-22T20:23:37+01:00",
+    "media_id": "cuixcjhandu4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6290879/tour-de-france-winnaar-jan-ullrich-geeft-dopinggebruik-toe-ik-voel-me-schuldig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290875,
     "slug": "nog-drie-aanhoudingen-in-belgie-na-aanslag-op-zweedse-voetbalfans",
     "type": "article",
     "title": "Nog drie aanhoudingen in België na aanslag op Zweedse voetbalfans",
     "subtitle": null,
     "published_at": "2023-11-22T20:06:01+01:00",
-    "updated_at": "2023-11-22T20:09:24+01:00",
+    "updated_at": "2023-11-22T20:12:38+01:00",
     "media_id": "3m3x0ajafjx1",
     "duration": null,
     "canonical_section": {
@@ -351,7 +374,7 @@
     "title": "Uitslagenavond FVD gaat definitief niet door om veiligheidsredenen",
     "subtitle": null,
     "published_at": "2023-11-22T17:07:15+01:00",
-    "updated_at": "2023-11-22T18:41:37+01:00",
+    "updated_at": "2023-11-22T20:10:47+01:00",
     "media_id": "7npx30sac9zz",
     "duration": null,
     "canonical_section": {
@@ -369,12 +392,12 @@
   },
   {
     "id": 6290791,
-    "slug": "nog-een-uur-tot-eerste-exitpoll-zo-werkt-het",
+    "slug": "wachten-op-eerste-exitpoll-zo-werkt-het",
     "type": "video",
-    "title": "Nog een uur tot eerste exitpoll: zo werkt het",
+    "title": "Wachten op eerste exitpoll: zo werkt het",
     "subtitle": "Explainer",
     "published_at": "2023-11-22T17:00:45+01:00",
-    "updated_at": "2023-11-22T20:01:22+01:00",
+    "updated_at": "2023-11-22T20:19:05+01:00",
     "media_id": "devxmuqatc8c",
     "duration": "1:04",
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": "vh7x4xray27h",
       "partner": null
     },
-    "url": "/tweede-kamerverkiezingen-2023/6290791/nog-een-uur-tot-eerste-exitpoll-zo-werkt-het.html",
+    "url": "/tweede-kamerverkiezingen-2023/6290791/wachten-op-eerste-exitpoll-zo-werkt-het.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6290839/tijdschema-afsluitende-gp-abu-dhabi-hoe-laat-komt-verstappen-in-actie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290841,
-    "slug": "cel-en-tbs-geeist-tegen-man-die-moeder-met-53-messteken-om-het-leven-bracht",
-    "type": "article",
-    "title": "Cel en tbs geëist tegen man die moeder met 53 messteken om het leven bracht",
-    "subtitle": null,
-    "published_at": "2023-11-22T16:27:53+01:00",
-    "updated_at": "2023-11-22T19:18:38+01:00",
-    "media_id": "c1zxbfnaklfx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6290841/cel-en-tbs-geeist-tegen-man-die-moeder-met-53-messteken-om-het-leven-bracht.html",
     "open_new_window": false,
     "partner": null
   }
