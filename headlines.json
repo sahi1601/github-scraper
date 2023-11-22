@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290755,
+    "slug": "brand-in-asielzoekerscentrum-harderwijk-twee-mensen-aangehouden",
+    "type": "article",
+    "title": "Brand in asielzoekerscentrum Harderwijk, twee mensen aangehouden",
+    "subtitle": null,
+    "published_at": "2023-11-22T06:11:19+01:00",
+    "updated_at": "2023-11-22T06:11:20+01:00",
+    "media_id": "lo1xexjaqdxj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6290755/brand-in-asielzoekerscentrum-harderwijk-twee-mensen-aangehouden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290753,
     "slug": "dikke-jas-nodig-richting-de-stembus-paraplu-kun-je-thuislaten",
     "type": "article",
@@ -167,7 +190,7 @@
     "title": "Hamas en Israël akkoord met gevechtspauze en uitruil gijzelaars en gevangenen",
     "subtitle": null,
     "published_at": "2023-11-22T03:18:37+01:00",
-    "updated_at": "2023-11-22T04:59:04+01:00",
+    "updated_at": "2023-11-22T06:00:03+01:00",
     "media_id": "k8axgf0av2lv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6290729/duitsland-belooft-wapens-aan-kyiv-rusland-zou-raketten-opsparen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290741,
-    "slug": "ja21-en-denk-discussieren-fel-over-institutioneel-racisme-bij-slotdebat",
-    "type": "video",
-    "title": "JA21 en Denk discussiëren fel over institutioneel racisme bij slotdebat",
-    "subtitle": "Video",
-    "published_at": "2023-11-21T20:37:09+01:00",
-    "updated_at": "2023-11-21T20:49:27+01:00",
-    "media_id": "x3kx0coakoub",
-    "duration": "1:33",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6290741/ja21-en-denk-discussieren-fel-over-institutioneel-racisme-bij-slotdebat.html",
     "open_new_window": false,
     "partner": null
   }
