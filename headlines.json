@@ -1,12 +1,35 @@
 [
   {
+    "id": 6290806,
+    "slug": "astronaut-heeft-verhoogd-risico-op-erectieproblemen-na-terugkeer-uit-ruimte",
+    "type": "article",
+    "title": "Astronaut heeft verhoogd risico op erectieproblemen na terugkeer uit ruimte",
+    "subtitle": null,
+    "published_at": "2023-11-22T12:36:30+01:00",
+    "updated_at": "2023-11-22T12:36:31+01:00",
+    "media_id": "fpsxrqgafl1y",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6290806/astronaut-heeft-verhoogd-risico-op-erectieproblemen-na-terugkeer-uit-ruimte.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290810,
     "slug": "rabobank-krijgt-miljoenenboete-vanwege-verzwijgen-kartel-met-deutsche-bank",
     "type": "article",
     "title": "Rabobank krijgt miljoenenboete vanwege verzwijgen kartel met Deutsche Bank",
     "subtitle": null,
     "published_at": "2023-11-22T12:10:15+01:00",
-    "updated_at": "2023-11-22T12:24:45+01:00",
+    "updated_at": "2023-11-22T12:44:23+01:00",
     "media_id": "se3x5sdaiis0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6290772/messi-ontdaan-door-rellen-in-maracana-had-in-een-tragedie-kunnen-eindigen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290770,
-    "slug": "in-tilburg-ontsnapte-groene-gifslang-is-nog-niet-gevonden",
-    "type": "article",
-    "title": "In Tilburg ontsnapte groene gifslang is nog niet gevonden",
-    "subtitle": null,
-    "published_at": "2023-11-22T09:07:12+01:00",
-    "updated_at": "2023-11-22T11:14:37+01:00",
-    "media_id": "0hfxmy4al9uv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6290770/in-tilburg-ontsnapte-groene-gifslang-is-nog-niet-gevonden.html",
     "open_new_window": false,
     "partner": null
   }
