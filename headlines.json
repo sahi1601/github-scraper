@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290754,
+    "slug": "nicole-kidman-en-antonio-banderas-spelen-in-tweede-engelstalige-film-halina-reijn",
+    "type": "article",
+    "title": "Nicole Kidman en Antonio Banderas spelen in tweede Engelstalige film Halina Reijn",
+    "subtitle": null,
+    "published_at": "2023-11-22T06:17:33+01:00",
+    "updated_at": "2023-11-22T06:17:34+01:00",
+    "media_id": "r15xxroaeqbe",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6290754/nicole-kidman-en-antonio-banderas-spelen-in-tweede-engelstalige-film-halina-reijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290755,
     "slug": "brand-in-asielzoekerscentrum-harderwijk-twee-mensen-aangehouden",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wolf/6290731/gelderland-wil-probleemwolf-afschieten-maar-vraag-is-of-het-van-rechter-mag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290729,
-    "slug": "duitsland-belooft-wapens-aan-kyiv-rusland-zou-raketten-opsparen",
-    "type": "article",
-    "title": "Duitsland belooft wapens aan Kyiv, Rusland zou raketten opsparen",
-    "subtitle": "Overzicht",
-    "published_at": "2023-11-21T20:59:37+01:00",
-    "updated_at": "2023-11-21T20:59:38+01:00",
-    "media_id": "e0jxvncaty5j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6290729/duitsland-belooft-wapens-aan-kyiv-rusland-zou-raketten-opsparen.html",
     "open_new_window": false,
     "partner": null
   }
