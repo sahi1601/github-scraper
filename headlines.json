@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290781,
+    "slug": "lebron-james-doorbreekt-grens-van-39000-nba-punten-cool-om-eerste-te-zijn",
+    "type": "article",
+    "title": "LeBron James doorbreekt grens van 39.000 NBA-punten: 'Cool om eerste te zijn'",
+    "subtitle": null,
+    "published_at": "2023-11-22T10:00:23+01:00",
+    "updated_at": "2023-11-22T10:08:26+01:00",
+    "media_id": "vq8x6s9aatxw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6290781/lebron-james-doorbreekt-grens-van-39000-nba-punten-cool-om-eerste-te-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290778,
     "slug": "timmermans-neemt-hond-mee-naar-stembureau-in-maastricht",
     "type": "video",
@@ -52,7 +75,7 @@
     "title": "Messi ontdaan door rellen in Maracanã: 'Had in een tragedie kunnen eindigen'",
     "subtitle": null,
     "published_at": "2023-11-22T09:20:40+01:00",
-    "updated_at": "2023-11-22T09:23:46+01:00",
+    "updated_at": "2023-11-22T10:09:58+01:00",
     "media_id": "cmmx3lbajm12",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/uitgelicht/6290752/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290747,
-    "slug": "tatas-ijzeren-greep-deel-5-vier-amateurs-en-dan-winnen-bizar",
-    "type": "article",
-    "title": "Tata's ijzeren greep (deel 5): ‘Vier amateurs en dan winnen, bizar’",
-    "subtitle": "Podcast",
-    "published_at": "2023-11-22T05:06:29+01:00",
-    "updated_at": "2023-11-22T05:06:43+01:00",
-    "media_id": "4mgxc9cankez",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779321,
-      "slug": "tatas-ijzeren-greep",
-      "type": "default",
-      "name": "Tata's ijzeren greep",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tatas-ijzeren-greep/6290747/tatas-ijzeren-greep-deel-5-vier-amateurs-en-dan-winnen-bizar.html",
     "open_new_window": false,
     "partner": null
   }
