@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290906,
+    "slug": "voorlopige-prognose-pvv-wint-extra-zetel-en-komt-op-36-bbb-zakt-naar-5",
+    "type": "article",
+    "title": "Voorlopige prognose: PVV wint extra zetel en komt op 36, BBB zakt naar 5",
+    "subtitle": null,
+    "published_at": "2023-11-23T01:42:34+01:00",
+    "updated_at": "2023-11-23T01:50:05+01:00",
+    "media_id": "seaxc4fas9jo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6290906/voorlopige-prognose-pvv-wint-extra-zetel-en-komt-op-36-bbb-zakt-naar-5.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290902,
     "slug": "timmermans-reageert-strijdbaar-nu-gaan-we-democratie-verdedigen",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "PVV wint verkiezingen, maar kabinet-Wilders I is heel ver weg",
     "subtitle": null,
     "published_at": "2023-11-22T23:57:14+01:00",
-    "updated_at": "2023-11-23T00:29:40+01:00",
+    "updated_at": "2023-11-23T01:45:23+01:00",
     "media_id": "3kdxnv5a9p6a",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Wilders wil graag samenwerken met andere partijen: 'Het moet anders'",
     "subtitle": null,
     "published_at": "2023-11-22T22:07:51+01:00",
-    "updated_at": "2023-11-23T00:30:48+01:00",
+    "updated_at": "2023-11-23T01:46:46+01:00",
     "media_id": "xewxnemaw24w",
     "duration": null,
     "canonical_section": {
@@ -369,12 +392,12 @@
   },
   {
     "id": 6290881,
-    "slug": "explosie-in-auto-op-brug-tussen-canada-en-vs-geen-indicatie-voor-terrorisme",
+    "slug": "dodelijke-explosie-in-auto-op-brug-tussen-canada-en-vs-lijkt-ongeluk",
     "type": "article",
-    "title": "Explosie in auto op brug tussen Canada en VS: 'Geen indicatie voor terrorisme'",
+    "title": "Dodelijke explosie in auto op brug tussen Canada en VS lijkt ongeluk",
     "subtitle": null,
     "published_at": "2023-11-22T20:50:22+01:00",
-    "updated_at": "2023-11-23T00:32:34+01:00",
+    "updated_at": "2023-11-23T01:04:15+01:00",
     "media_id": "d5nxipyagjcj",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6290881/explosie-in-auto-op-brug-tussen-canada-en-vs-geen-indicatie-voor-terrorisme.html",
+    "url": "/buitenland/6290881/dodelijke-explosie-in-auto-op-brug-tussen-canada-en-vs-lijkt-ongeluk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +420,7 @@
     "title": "Van de Donk helpt Lyon aan tweede CL-zege, invaller Brugts wint met Barcelona",
     "subtitle": null,
     "published_at": "2023-11-22T20:41:44+01:00",
-    "updated_at": "2023-11-22T23:06:47+01:00",
+    "updated_at": "2023-11-23T01:36:10+01:00",
     "media_id": "qhzx8o7a3qfu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6290866/zeldzame-microscoop-gemaakt-door-antoni-van-leeuwenhoek-te-koop.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290879,
-    "slug": "voormalig-tour-winnaar-jan-ullrich-geeft-dopinggebruik-toe-ik-voel-me-schuldig",
-    "type": "article",
-    "title": "Voormalig Tour-winnaar Jan Ullrich geeft dopinggebruik toe: 'Ik voel me schuldig'",
-    "subtitle": null,
-    "published_at": "2023-11-22T20:14:47+01:00",
-    "updated_at": "2023-11-22T22:31:47+01:00",
-    "media_id": "cuixcjhandu4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6290879/voormalig-tour-winnaar-jan-ullrich-geeft-dopinggebruik-toe-ik-voel-me-schuldig.html",
     "open_new_window": false,
     "partner": null
   }
