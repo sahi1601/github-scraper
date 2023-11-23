@@ -1,12 +1,58 @@
 [
   {
+    "id": 6290950,
+    "slug": "coach-popovic-roept-eigen-fans-tot-de-orde-tijdens-nba-duel-toon-wat-klasse",
+    "type": "article",
+    "title": "Coach Popovic roept eigen fans tot de orde tijdens NBA-duel: 'Toon wat klasse'",
+    "subtitle": null,
+    "published_at": "2023-11-23T11:03:49+01:00",
+    "updated_at": "2023-11-23T11:03:50+01:00",
+    "media_id": "feux8x5axo1m",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6290950/coach-popovic-roept-eigen-fans-tot-de-orde-tijdens-nba-duel-toon-wat-klasse.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6290951,
+    "slug": "amerikanen-staan-urenlang-in-megafile-na-ongeluk",
+    "type": "video",
+    "title": "Amerikanen staan urenlang in megafile na ongeluk",
+    "subtitle": "Video",
+    "published_at": "2023-11-23T10:58:59+01:00",
+    "updated_at": "2023-11-23T10:59:00+01:00",
+    "media_id": "29kxz3ra9zh4",
+    "duration": "0:42",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6290951/amerikanen-staan-urenlang-in-megafile-na-ongeluk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290942,
     "slug": "red-bull-sprak-dit-jaar-met-hamilton-maar-zie-hem-niet-met-verstappen-trainen",
     "type": "article",
     "title": "Red Bull sprak dit jaar met Hamilton: 'Maar zie hem niet met Verstappen trainen'",
     "subtitle": null,
     "published_at": "2023-11-23T10:28:21+01:00",
-    "updated_at": "2023-11-23T10:28:36+01:00",
+    "updated_at": "2023-11-23T10:55:07+01:00",
     "media_id": "lwbx4yuao8xl",
     "duration": null,
     "canonical_section": {
@@ -121,8 +167,8 @@
     "title": "Van de Zandschulp en Arnaldi gaan gelijk op in kwartfinales Davis Cup Finals",
     "subtitle": "Liveblog",
     "published_at": "2023-11-23T09:47:34+01:00",
-    "updated_at": "2023-11-23T10:38:41+01:00",
-    "media_id": "9s0xg1nau2iy",
+    "updated_at": "2023-11-23T10:51:19+01:00",
+    "media_id": "sxsxt5pa2o8i",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6290916/tsjechie-verlengt-grenscontroles-in-strijd-tegen-illegale-migratie-vanuit-slowakije.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290915,
-    "slug": "acteurs-jamie-foxx-en-cuba-gooding-jr-beschuldigd-van-seksueel-misbruik",
-    "type": "article",
-    "title": "Acteurs Jamie Foxx en Cuba Gooding jr. beschuldigd van seksueel misbruik",
-    "subtitle": null,
-    "published_at": "2023-11-23T06:27:20+01:00",
-    "updated_at": "2023-11-23T09:34:00+01:00",
-    "media_id": "ln8xex7anudq",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6290915/acteurs-jamie-foxx-en-cuba-gooding-jr-beschuldigd-van-seksueel-misbruik.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290859,
-    "slug": "energierekening-omhoog-bij-essent-en-vattenfall-mede-door-belastingen",
-    "type": "article",
-    "title": "Energierekening omhoog bij Essent en Vattenfall, mede door belastingen",
-    "subtitle": null,
-    "published_at": "2023-11-23T06:16:13+01:00",
-    "updated_at": "2023-11-23T06:16:15+01:00",
-    "media_id": "xy0x4zaaf6o7",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6290859/energierekening-omhoog-bij-essent-en-vattenfall-mede-door-belastingen.html",
     "open_new_window": false,
     "partner": null
   }
