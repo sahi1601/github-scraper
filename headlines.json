@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290921,
+    "slug": "pvv-wint-verkiezingen-welke-coalities-zijn-mogelijk",
+    "type": "video",
+    "title": "PVV wint verkiezingen: welke coalities zijn mogelijk?",
+    "subtitle": "Video",
+    "published_at": "2023-11-23T07:34:22+01:00",
+    "updated_at": "2023-11-23T07:34:47+01:00",
+    "media_id": "z06xxruahma7",
+    "duration": "1:30",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6290921/pvv-wint-verkiezingen-welke-coalities-zijn-mogelijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290502,
     "slug": "zo-word-je-niet-opgelicht-tijdens-black-friday",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Buitenlandse media over winst Wilders: 'Schokgolven door heel Europa'",
     "subtitle": null,
     "published_at": "2023-11-23T07:25:43+01:00",
-    "updated_at": "2023-11-23T07:27:48+01:00",
+    "updated_at": "2023-11-23T07:28:32+01:00",
     "media_id": "3zsx3nda5pig",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "PVV wint verkiezingen, maar kabinet-Wilders I is heel ver weg",
     "subtitle": null,
     "published_at": "2023-11-22T23:57:14+01:00",
-    "updated_at": "2023-11-23T03:47:49+01:00",
+    "updated_at": "2023-11-23T07:38:23+01:00",
     "media_id": "3kdxnv5a9p6a",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6290897/guns-n-roses-zanger-axl-rose-ontkent-beschuldigingen-van-seksueel-misbruik.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290896,
-    "slug": "totale-opkomst-verkiezingen-komt-uit-op-782-procent-iets-lager-dan-in-2021",
-    "type": "article",
-    "title": "Totale opkomst verkiezingen komt uit op 78,2 procent, iets lager dan in 2021",
-    "subtitle": null,
-    "published_at": "2023-11-22T23:11:51+01:00",
-    "updated_at": "2023-11-23T02:18:56+01:00",
-    "media_id": "sqrxxrsaecyu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779275,
-      "slug": "tweede-kamerverkiezingen-2023",
-      "type": "files",
-      "name": "Tweede Kamerverkiezingen 2023",
-      "style": "nu",
-      "media_id": "vh7x4xray27h",
-      "partner": null
-    },
-    "url": "/tweede-kamerverkiezingen-2023/6290896/totale-opkomst-verkiezingen-komt-uit-op-782-procent-iets-lager-dan-in-2021.html",
     "open_new_window": false,
     "partner": null
   }
