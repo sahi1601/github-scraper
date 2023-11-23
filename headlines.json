@@ -1,5 +1,28 @@
 [
   {
+    "id": 6290859,
+    "slug": "energierekening-omhoog-bij-essent-en-vattenfall-mede-door-belastingen",
+    "type": "article",
+    "title": "Energierekening omhoog bij Essent en Vattenfall, mede door belastingen",
+    "subtitle": null,
+    "published_at": "2023-11-23T06:16:13+01:00",
+    "updated_at": "2023-11-23T06:16:15+01:00",
+    "media_id": "xy0x4zaaf6o7",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6290859/energierekening-omhoog-bij-essent-en-vattenfall-mede-door-belastingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290914,
     "slug": "dag-begint-zacht-maar-bereid-je-voor-op-regen",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6290912,
-    "slug": "agent-gewond-na-aanrijding-met-gestolen-auto-politie-lost-schoten",
+    "slug": "agent-gewond-na-aanrijding-met-gestolen-auto-aangereden-verdachte-nog-zoek",
     "type": "article",
-    "title": "Agent gewond na aanrijding met gestolen auto, politie lost schoten",
+    "title": "Agent gewond na aanrijding met gestolen auto, aangereden verdachte nog zoek",
     "subtitle": null,
     "published_at": "2023-11-23T05:08:46+01:00",
-    "updated_at": "2023-11-23T05:09:01+01:00",
+    "updated_at": "2023-11-23T06:21:01+01:00",
     "media_id": "u9jxmwvaubcc",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6290912/agent-gewond-na-aanrijding-met-gestolen-auto-politie-lost-schoten.html",
+    "url": "/algemeen/6290912/agent-gewond-na-aanrijding-met-gestolen-auto-aangereden-verdachte-nog-zoek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tweede-kamerverkiezingen-2023/6290889/wilders-wil-graag-samenwerken-met-andere-partijen-het-moet-anders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290888,
-    "slug": "wilders-reageert-op-forse-winst-nederlander-komt-weer-op-een-te-staan",
-    "type": "video",
-    "title": "Wilders reageert op forse winst: 'Nederlander komt weer op één te staan'",
-    "subtitle": "Video",
-    "published_at": "2023-11-22T22:03:04+01:00",
-    "updated_at": "2023-11-22T22:47:48+01:00",
-    "media_id": "hw0xat4akn8a",
-    "duration": "1:19",
-    "canonical_section": {
-      "id": 1779275,
-      "slug": "tweede-kamerverkiezingen-2023",
-      "type": "files",
-      "name": "Tweede Kamerverkiezingen 2023",
-      "style": "nu",
-      "media_id": "vh7x4xray27h",
-      "partner": null
-    },
-    "url": "/tweede-kamerverkiezingen-2023/6290888/wilders-reageert-op-forse-winst-nederlander-komt-weer-op-een-te-staan.html",
     "open_new_window": false,
     "partner": null
   }
