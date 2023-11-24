@@ -1,5 +1,28 @@
 [
   {
+    "id": 6291236,
+    "slug": "willem-ii-steviger-aan-kop-invaller-jong-psv-krijgt-snelste-rode-kaart-ooit",
+    "type": "article",
+    "title": "Willem II steviger aan kop, invaller Jong PSV krijgt snelste rode kaart ooit",
+    "subtitle": null,
+    "published_at": "2023-11-24T22:12:42+01:00",
+    "updated_at": "2023-11-24T22:23:18+01:00",
+    "media_id": "re9x036ad9s5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6291236/willem-ii-steviger-aan-kop-invaller-jong-psv-krijgt-snelste-rode-kaart-ooit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291240,
     "slug": "bekende-bultrug-dutchy-laat-zich-16-jaar-na-bezoek-aan-nederland-weer-zien",
     "type": "article",
@@ -351,7 +374,7 @@
     "title": "Sponsorzoektocht Jumbo-Visma toont wankel fundament van wielrennen",
     "subtitle": "NU+",
     "published_at": "2023-11-24T18:42:23+01:00",
-    "updated_at": "2023-11-24T18:46:10+01:00",
+    "updated_at": "2023-11-24T22:23:03+01:00",
     "media_id": "x18x9hjae2ub",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6291043/vrijspraak-gevraagd-in-zaak-derk-wiersum-sprake-van-taghi-toeslag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291180,
-    "slug": "vvd-wil-niet-regeren-maar-minderheidskabinet-gedogen-zo-werkt-dat",
-    "type": "article",
-    "title": "VVD wil niet regeren, maar minderheidskabinet gedogen: zo werkt dat",
-    "subtitle": "NU+",
-    "published_at": "2023-11-24T17:27:27+01:00",
-    "updated_at": "2023-11-24T20:54:35+01:00",
-    "media_id": "85hxtmraeujo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779337,
-      "slug": "formatie-2023",
-      "type": "default",
-      "name": "Formatie 2023",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formatie-2023/6291180/vvd-wil-niet-regeren-maar-minderheidskabinet-gedogen-zo-werkt-dat.html",
     "open_new_window": false,
     "partner": null
   }
