@@ -1,5 +1,28 @@
 [
   {
+    "id": 6291057,
+    "slug": "laat-jij-je-op-black-friday-verleiden-tot-aankopen",
+    "type": "article",
+    "title": "Laat jij je op Black Friday verleiden tot aankopen?",
+    "subtitle": "Praat Mee",
+    "published_at": "2023-11-24T09:21:18+01:00",
+    "updated_at": "2023-11-24T09:21:19+01:00",
+    "media_id": "k3uxvu2apzn7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6291057/laat-jij-je-op-black-friday-verleiden-tot-aankopen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291107,
     "slug": "sekswerker-kan-makkelijker-zakelijke-rekening-openen-zonder-lastige-vragen",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6291106,
-    "slug": "paris-hilton-onverwacht-moeder-geworden-van-dochtertje",
+    "slug": "paris-hilton-onaangekondigd-moeder-geworden-van-dochter",
     "type": "article",
-    "title": "Paris Hilton onverwacht moeder geworden van dochtertje",
+    "title": "Paris Hilton onaangekondigd moeder geworden van dochter",
     "subtitle": null,
     "published_at": "2023-11-24T09:05:47+01:00",
-    "updated_at": "2023-11-24T09:09:41+01:00",
+    "updated_at": "2023-11-24T09:19:37+01:00",
     "media_id": "sxcxmhzasxmz",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6291106/paris-hilton-onverwacht-moeder-geworden-van-dochtertje.html",
+    "url": "/achterklap/6291106/paris-hilton-onaangekondigd-moeder-geworden-van-dochter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,7 +420,7 @@
     "title": "Formatie van start: Kamervoorzitter nodigt alle lijsttrekkers uit",
     "subtitle": null,
     "published_at": "2023-11-24T05:05:31+01:00",
-    "updated_at": "2023-11-24T08:02:29+01:00",
+    "updated_at": "2023-11-24T09:23:56+01:00",
     "media_id": "jfbxdl4ash0t",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6291024/co2-uitstoot-in-nederland-is-gedaald-ondanks-economische-groei.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291089,
-    "slug": "acteur-en-regisseur-helmert-woudenberg-78-overleden",
-    "type": "article",
-    "title": "Acteur en regisseur Helmert Woudenberg (78) overleden",
-    "subtitle": null,
-    "published_at": "2023-11-24T00:00:41+01:00",
-    "updated_at": "2023-11-24T07:57:48+01:00",
-    "media_id": "u9uxcsha9qmw",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6291089/acteur-en-regisseur-helmert-woudenberg-78-overleden.html",
     "open_new_window": false,
     "partner": null
   }
