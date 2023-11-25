@@ -1,12 +1,35 @@
 [
   {
+    "id": 6291359,
+    "slug": "hamas-na-bemiddeling-qatar-en-egypte-alsnog-akkoord-met-vrijlating-gijzelaars",
+    "type": "article",
+    "title": "Hamas na bemiddeling Qatar en Egypte alsnog akkoord met vrijlating gijzelaars",
+    "subtitle": null,
+    "published_at": "2023-11-25T20:20:06+01:00",
+    "updated_at": "2023-11-25T20:20:07+01:00",
+    "media_id": "aonxubxalqul",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6291359/hamas-na-bemiddeling-qatar-en-egypte-alsnog-akkoord-met-vrijlating-gijzelaars.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291358,
     "slug": "ajax-mist-brobbey-en-sutalo-tegen-vitesse-akpom-start-in-de-spits",
     "type": "article",
     "title": "Ajax mist Brobbey en Sutalo tegen Vitesse, Akpom start in de spits",
     "subtitle": null,
     "published_at": "2023-11-25T20:01:52+01:00",
-    "updated_at": "2023-11-25T20:07:07+01:00",
+    "updated_at": "2023-11-25T20:15:38+01:00",
     "media_id": "f1excujalavx",
     "duration": null,
     "canonical_section": {
@@ -346,12 +369,12 @@
   },
   {
     "id": 6291331,
-    "slug": "live-eredivisie-fc-twente-na-eigen-goal-dieper-in-problemen-tegen-psv",
+    "slug": "live-eredivisie-psv-tegen-twente-op-weg-naar-dertiende-competitiezege-op-rij",
     "type": "article",
-    "title": "Live Eredivisie | FC Twente na eigen goal dieper in problemen tegen PSV",
+    "title": "Live Eredivisie | PSV tegen Twente op weg naar dertiende competitiezege op rij",
     "subtitle": null,
     "published_at": "2023-11-25T16:16:07+01:00",
-    "updated_at": "2023-11-25T20:02:08+01:00",
+    "updated_at": "2023-11-25T20:22:36+01:00",
     "media_id": "pvmxglfa4j8s",
     "duration": null,
     "canonical_section": {
@@ -363,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6291331/live-eredivisie-fc-twente-na-eigen-goal-dieper-in-problemen-tegen-psv.html",
+    "url": "/voetbal/6291331/live-eredivisie-psv-tegen-twente-op-weg-naar-dertiende-competitiezege-op-rij.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6291327/onderzoek-naar-agenten-om-racistische-berichten-drie-personen-op-non-actief.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291328,
-    "slug": "rapper-travis-scott-wilde-vroeger-het-liefst-nierdokter-worden",
-    "type": "article",
-    "title": "Rapper Travis Scott wilde vroeger het liefst nierdokter worden",
-    "subtitle": null,
-    "published_at": "2023-11-25T15:58:02+01:00",
-    "updated_at": "2023-11-25T16:09:00+01:00",
-    "media_id": "xk5xs0pairtf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6291328/rapper-travis-scott-wilde-vroeger-het-liefst-nierdokter-worden.html",
     "open_new_window": false,
     "partner": null
   }
