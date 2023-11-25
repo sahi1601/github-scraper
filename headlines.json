@@ -1,13 +1,36 @@
 [
   {
+    "id": 6291301,
+    "slug": "aantal-geweigerde-eu-burgers-in-vk-sinds-brexit-vervijfvoudigd",
+    "type": "article",
+    "title": "Aantal geweigerde EU-burgers in VK sinds Brexit vervijfvoudigd",
+    "subtitle": null,
+    "published_at": "2023-11-25T12:11:25+01:00",
+    "updated_at": "2023-11-25T12:22:55+01:00",
+    "media_id": "os5xh1ba7oiv",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6291301/aantal-geweigerde-eu-burgers-in-vk-sinds-brexit-vervijfvoudigd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291298,
     "slug": "schaatsbond-baalt-van-nieuwe-collectieve-afmeldingen-voor-wereldbekers",
     "type": "article",
     "title": "Schaatsbond baalt van nieuwe collectieve afmeldingen voor wereldbekers",
     "subtitle": null,
     "published_at": "2023-11-25T12:00:55+01:00",
-    "updated_at": "2023-11-25T12:03:56+01:00",
-    "media_id": "3sgx39xawne4",
+    "updated_at": "2023-11-25T12:11:00+01:00",
+    "media_id": "mmvxn77astjq",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -24,12 +47,12 @@
   },
   {
     "id": 6291179,
-    "slug": "sam-altman-geeft-weer-leiding-aan-openai-maar-veel-blijft-onduidelijk",
+    "slug": "openai-microsoft-en-toch-weer-openai-de-onrust-rondom-sam-altman",
     "type": "article",
-    "title": "Sam Altman geeft weer leiding aan OpenAI, maar veel blijft onduidelijk",
+    "title": "OpenAI, Microsoft en toch weer OpenAI: De onrust rondom Sam Altman",
     "subtitle": "NU+",
     "published_at": "2023-11-25T11:36:32+01:00",
-    "updated_at": "2023-11-25T11:36:33+01:00",
+    "updated_at": "2023-11-25T12:11:36+01:00",
     "media_id": "t80xkqoa20p8",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6291179/sam-altman-geeft-weer-leiding-aan-openai-maar-veel-blijft-onduidelijk.html",
+    "url": "/tech/6291179/openai-microsoft-en-toch-weer-openai-de-onrust-rondom-sam-altman.html",
     "open_new_window": false,
     "partner": null
   },
@@ -93,12 +116,12 @@
   },
   {
     "id": 6291287,
-    "slug": "live-formule-1-russell-flink-sneller-dan-verstappen-in-derde-training-abu-dhabi",
+    "slug": "live-formule-1-klagende-verstappen-in-middenmoot-tijdens-derde-training-abu-dhabi",
     "type": "article",
-    "title": "Live Formule 1 | Russell flink sneller dan Verstappen in derde training Abu Dhabi",
+    "title": "Live Formule 1 | Klagende Verstappen in middenmoot tijdens derde training Abu Dhabi",
     "subtitle": null,
     "published_at": "2023-11-25T11:15:56+01:00",
-    "updated_at": "2023-11-25T11:57:11+01:00",
+    "updated_at": "2023-11-25T12:24:16+01:00",
     "media_id": "t59xxijam45o",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6291287/live-formule-1-russell-flink-sneller-dan-verstappen-in-derde-training-abu-dhabi.html",
+    "url": "/formule-1/6291287/live-formule-1-klagende-verstappen-in-middenmoot-tijdens-derde-training-abu-dhabi.html",
     "open_new_window": false,
     "partner": null
   },
@@ -231,12 +254,12 @@
   },
   {
     "id": 6291267,
-    "slug": "michael-van-praag-heeft-het-te-druk-bij-ajax-en-wordt-toch-niet-voorzitter-van-basketbalbond",
+    "slug": "van-praag-heeft-het-te-druk-bij-ajax-en-ziet-af-van-voorzitterschap-basketbalbond",
     "type": "article",
-    "title": "Michael van Praag heeft het te druk bij Ajax en wordt toch niet voorzitter van basketbalbond",
+    "title": "Van Praag heeft het te druk bij Ajax en ziet af van voorzitterschap basketbalbond",
     "subtitle": null,
     "published_at": "2023-11-25T10:16:55+01:00",
-    "updated_at": "2023-11-25T10:47:31+01:00",
+    "updated_at": "2023-11-25T12:14:08+01:00",
     "media_id": "hljx0yxarvgf",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6291267/michael-van-praag-heeft-het-te-druk-bij-ajax-en-wordt-toch-niet-voorzitter-van-basketbalbond.html",
+    "url": "/sport-overig/6291267/van-praag-heeft-het-te-druk-bij-ajax-en-ziet-af-van-voorzitterschap-basketbalbond.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6291251/agent-die-george-floyd-doodde-zou-zijn-neergestoken-in-gevangenis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291211,
-    "slug": "satellietbeelden-laten-route-grootste-ijsberg-ter-wereld-zien",
-    "type": "video",
-    "title": "Satellietbeelden laten route grootste ijsberg ter wereld zien",
-    "subtitle": "Explainer",
-    "published_at": "2023-11-25T07:14:51+01:00",
-    "updated_at": "2023-11-25T08:06:10+01:00",
-    "media_id": "ggvx3oraae3b",
-    "duration": "1:49",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6291211/satellietbeelden-laten-route-grootste-ijsberg-ter-wereld-zien.html",
     "open_new_window": false,
     "partner": null
   }
