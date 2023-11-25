@@ -1,12 +1,35 @@
 [
   {
-    "id": 6291285,
-    "slug": "disneymusical-frozen-vanaf-31-mei-te-zien-in-afas-circustheater-scheveningen",
+    "id": 6291287,
+    "slug": "live-formule-1-coureurs-beginnen-in-abu-dhabi-aan-laatste-training-van-het-jaar",
     "type": "article",
-    "title": "Disneymusical Frozen vanaf 31 mei te zien in AFAS Circustheater Scheveningen",
+    "title": "Live Formule 1 | Coureurs beginnen in Abu Dhabi aan laatste training van het jaar",
+    "subtitle": null,
+    "published_at": "2023-11-25T11:15:56+01:00",
+    "updated_at": "2023-11-25T11:23:15+01:00",
+    "media_id": "10pxz1ga80qg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6291287/live-formule-1-coureurs-beginnen-in-abu-dhabi-aan-laatste-training-van-het-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6291285,
+    "slug": "disney-musical-frozen-vanaf-31-mei-te-zien-in-afas-circustheater-scheveningen",
+    "type": "article",
+    "title": "Disney-musical Frozen vanaf 31 mei te zien in AFAS Circustheater Scheveningen",
     "subtitle": null,
     "published_at": "2023-11-25T11:10:55+01:00",
-    "updated_at": "2023-11-25T11:10:56+01:00",
+    "updated_at": "2023-11-25T11:22:55+01:00",
     "media_id": "203xnb6ay6wf",
     "duration": null,
     "canonical_section": {
@@ -18,18 +41,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/entertainment/6291285/disneymusical-frozen-vanaf-31-mei-te-zien-in-afas-circustheater-scheveningen.html",
+    "url": "/entertainment/6291285/disney-musical-frozen-vanaf-31-mei-te-zien-in-afas-circustheater-scheveningen.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6291281,
-    "slug": "ozzy-osbourne-vrijwel-verlamd-geraakt-na-mislukte-rugoperatie",
+    "slug": "ozzy-osbourne-vrijwel-verlamd-door-mislukte-rugoperatie",
     "type": "article",
-    "title": "Ozzy Osbourne 'vrijwel verlamd' geraakt na mislukte rugoperatie",
+    "title": "Ozzy Osbourne 'vrijwel verlamd' door mislukte rugoperatie",
     "subtitle": null,
     "published_at": "2023-11-25T11:01:50+01:00",
-    "updated_at": "2023-11-25T11:01:51+01:00",
+    "updated_at": "2023-11-25T11:14:27+01:00",
     "media_id": "p06xvozaim45",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6291281/ozzy-osbourne-vrijwel-verlamd-geraakt-na-mislukte-rugoperatie.html",
+    "url": "/muziek/6291281/ozzy-osbourne-vrijwel-verlamd-door-mislukte-rugoperatie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6291049/zo-krik-je-het-energielabel-van-je-woning-op.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6290847,
-    "slug": "twente-ontvangt-psv-in-hel-van-enschede-stadion-doet-iets-met-je",
-    "type": "article",
-    "title": "Twente ontvangt PSV in 'hel van Enschede': 'Stadion doet iets met je'",
-    "subtitle": "NU+",
-    "published_at": "2023-11-25T05:16:16+01:00",
-    "updated_at": "2023-11-25T10:34:51+01:00",
-    "media_id": "d3vx501a826q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6290847/twente-ontvangt-psv-in-hel-van-enschede-stadion-doet-iets-met-je.html",
     "open_new_window": false,
     "partner": null
   }
