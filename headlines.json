@@ -1,5 +1,28 @@
 [
   {
+    "id": 6291369,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-11-26T05:17:46+01:00",
+    "updated_at": "2023-11-26T05:17:47+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1773179,
+      "slug": "uitgelicht",
+      "type": "default",
+      "name": "Uitgelicht",
+      "style": "mediapartner-external",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/uitgelicht/6291369/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6290991,
     "slug": "wat-is-de-meest-waarschijnlijke-coalitie-jullie-verkiezingsvragen-beantwoord",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6291356/gimenez-dankt-hattrick-aan-duik-in-zwembad-zo-kom-ik-van-mijn-jetlag-af.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291354,
-    "slug": "scheepsbouwer-damen-gaat-schip-van-ruim-100-meter-bouwen-voor-portugese-marine",
-    "type": "article",
-    "title": "Scheepsbouwer Damen gaat schip van ruim 100 meter bouwen voor Portugese marine",
-    "subtitle": null,
-    "published_at": "2023-11-25T19:34:51+01:00",
-    "updated_at": "2023-11-25T19:40:56+01:00",
-    "media_id": "xwkxh90alfah",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6291354/scheepsbouwer-damen-gaat-schip-van-ruim-100-meter-bouwen-voor-portugese-marine.html",
     "open_new_window": false,
     "partner": null
   }
