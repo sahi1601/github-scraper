@@ -1,5 +1,28 @@
 [
   {
+    "id": 6291609,
+    "slug": "genoeg-zon-om-lekker-naar-buiten-te-gaan-maar-let-op-gladheid",
+    "type": "article",
+    "title": "Genoeg zon om lekker naar buiten te gaan, maar let op gladheid",
+    "subtitle": "Weerbericht",
+    "published_at": "2023-11-28T05:39:18+01:00",
+    "updated_at": "2023-11-28T05:39:19+01:00",
+    "media_id": "li3x7xmay1eo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6291609/genoeg-zon-om-lekker-naar-buiten-te-gaan-maar-let-op-gladheid.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291608,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6291596/coa-gaat-gemeenten-bellen-die-te-weinig-doen-om-statushouders-te-huisvesten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291597,
-    "slug": "eerste-laagje-sneeuw-blijft-liggen-in-het-oosten-van-nederland",
-    "type": "article",
-    "title": "Eerste laagje sneeuw blijft liggen in het oosten van Nederland",
-    "subtitle": null,
-    "published_at": "2023-11-27T21:11:09+01:00",
-    "updated_at": "2023-11-27T22:50:18+01:00",
-    "media_id": "9c7xlfnag9pc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6291597/eerste-laagje-sneeuw-blijft-liggen-in-het-oosten-van-nederland.html",
     "open_new_window": false,
     "partner": null
   }
