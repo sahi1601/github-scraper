@@ -1,5 +1,28 @@
 [
   {
+    "id": 6291643,
+    "slug": "disclosure-en-justice-bij-eerste-namen-voor-best-kept-secret",
+    "type": "article",
+    "title": "Disclosure en Justice bij eerste namen voor Best Kept Secret",
+    "subtitle": null,
+    "published_at": "2023-11-28T10:48:22+01:00",
+    "updated_at": "2023-11-28T11:01:34+01:00",
+    "media_id": "hi8xyxsacaux",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6291643/disclosure-en-justice-bij-eerste-namen-voor-best-kept-secret.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291637,
     "slug": "strijd-in-oekraine-gaat-ondanks-hevig-winterweer-vertraagd-door",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6291640,
-    "slug": "blinde-schoolkinderen-krijgen-speciale-chocoladeletter-in-braille",
+    "slug": "blinde-en-slechtziende-schoolkinderen-krijgen-speciale-chocoladeletter-in-braille",
     "type": "article",
-    "title": "Blinde schoolkinderen krijgen speciale chocoladeletter in braille",
+    "title": "Blinde en slechtziende schoolkinderen krijgen speciale chocoladeletter in braille",
     "subtitle": null,
     "published_at": "2023-11-28T10:41:03+01:00",
-    "updated_at": "2023-11-28T10:41:05+01:00",
+    "updated_at": "2023-11-28T11:09:57+01:00",
     "media_id": "4ptx2xzavop4",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6291640/blinde-schoolkinderen-krijgen-speciale-chocoladeletter-in-braille.html",
+    "url": "/binnenland/6291640/blinde-en-slechtziende-schoolkinderen-krijgen-speciale-chocoladeletter-in-braille.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Forse winst voor easyJet dankzij hoge ticketprijzen",
     "subtitle": null,
     "published_at": "2023-11-28T10:14:39+01:00",
-    "updated_at": "2023-11-28T10:14:40+01:00",
+    "updated_at": "2023-11-28T11:02:31+01:00",
     "media_id": "90rxydmafsx2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6291569/slot-wil-dat-feyenoord-fans-geen-seconde-stil-zijn-in-cruciaal-cl-duel-met-atletico.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291602,
-    "slug": "nederland-wil-organisatie-wk-2027-binnenhalen-op-duurzaamheid-en-fanbeleving",
-    "type": "article",
-    "title": "Nederland wil organisatie WK 2027 binnenhalen op duurzaamheid en fanbeleving",
-    "subtitle": null,
-    "published_at": "2023-11-28T05:05:01+01:00",
-    "updated_at": "2023-11-28T05:05:02+01:00",
-    "media_id": "fvkxhpqavqy5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6291602/nederland-wil-organisatie-wk-2027-binnenhalen-op-duurzaamheid-en-fanbeleving.html",
     "open_new_window": false,
     "partner": null
   }
