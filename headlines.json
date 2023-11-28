@@ -1,5 +1,28 @@
 [
   {
+    "id": 6291740,
+    "slug": "om-eist-20-jaar-cel-tegen-minderjarige-verdachte-huurmoord-van-zakenman",
+    "type": "article",
+    "title": "OM eist 20 jaar cel tegen minderjarige verdachte huurmoord van zakenman",
+    "subtitle": null,
+    "published_at": "2023-11-28T19:21:57+01:00",
+    "updated_at": "2023-11-28T19:21:59+01:00",
+    "media_id": "jiyxobnax80o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6291740/om-eist-20-jaar-cel-tegen-minderjarige-verdachte-huurmoord-van-zakenman.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291739,
     "slug": "indiase-werkers-na-weken-gered-uit-ingestorte-tunnel",
     "type": "video",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6291730,
-    "slug": "skigebieden-beleven-beste-seizoensstart-sinds-2005-door-vroege-sneeuwval",
+    "slug": "hevige-sneeuwval-in-skigebieden-leidt-tot-beste-seizoensstart-sinds-2005",
     "type": "article",
-    "title": "Skigebieden beleven beste seizoensstart sinds 2005 door vroege sneeuwval",
+    "title": "Hevige sneeuwval in skigebieden leidt tot beste seizoensstart sinds 2005",
     "subtitle": null,
     "published_at": "2023-11-28T18:40:28+01:00",
-    "updated_at": "2023-11-28T18:40:29+01:00",
+    "updated_at": "2023-11-28T19:25:59+01:00",
     "media_id": "jv6x4jiaxe8r",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6291730/skigebieden-beleven-beste-seizoensstart-sinds-2005-door-vroege-sneeuwval.html",
+    "url": "/buitenland/6291730/hevige-sneeuwval-in-skigebieden-leidt-tot-beste-seizoensstart-sinds-2005.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6291702/oud-international-dirk-marcellis-begeleidt-darters-als-van-barneveld-op-wk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291701,
-    "slug": "41-leden-van-yogasekte-opgepakt-in-frankrijk-wegens-verdenkingen-van-misbruik",
-    "type": "article",
-    "title": "41 leden van yogasekte opgepakt in Frankrijk wegens verdenkingen van misbruik",
-    "subtitle": null,
-    "published_at": "2023-11-28T16:02:40+01:00",
-    "updated_at": "2023-11-28T16:02:41+01:00",
-    "media_id": "rlqxcgpaehed",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6291701/41-leden-van-yogasekte-opgepakt-in-frankrijk-wegens-verdenkingen-van-misbruik.html",
     "open_new_window": false,
     "partner": null
   }
