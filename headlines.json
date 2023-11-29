@@ -1,5 +1,28 @@
 [
   {
+    "id": 6291853,
+    "slug": "uefa-haalt-var-van-champions-league-duel-af-na-omstreden-penalty-voor-psg",
+    "type": "article",
+    "title": "UEFA haalt VAR van Champions League-duel af na omstreden penalty voor PSG",
+    "subtitle": null,
+    "published_at": "2023-11-29T15:13:58+01:00",
+    "updated_at": "2023-11-29T15:13:59+01:00",
+    "media_id": "mvdxnrqalkmo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6291853/uefa-haalt-var-van-champions-league-duel-af-na-omstreden-penalty-voor-psg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291851,
     "slug": "bewakingscamera-filmt-hoe-tiener-ongeluk-voorkomt-in-australie",
     "type": "video",
@@ -116,12 +139,12 @@
   },
   {
     "id": 6291842,
-    "slug": "eneco-komt-met-contract-met-schommelende-stroomprijs-en-vaste-prijs-voor-gas",
+    "slug": "eneco-komt-met-nieuw-contract-schommelende-stroomprijs-vast-tarief-voor-gas",
     "type": "article",
-    "title": "Eneco komt met contract met schommelende stroomprijs en vaste prijs voor gas",
+    "title": "Eneco komt met nieuw contract: schommelende stroomprijs, vast tarief voor gas",
     "subtitle": null,
     "published_at": "2023-11-29T13:42:46+01:00",
-    "updated_at": "2023-11-29T15:07:31+01:00",
+    "updated_at": "2023-11-29T15:21:19+01:00",
     "media_id": "w8jxgwma3kvi",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6291842/eneco-komt-met-contract-met-schommelende-stroomprijs-en-vaste-prijs-voor-gas.html",
+    "url": "/economie/6291842/eneco-komt-met-nieuw-contract-schommelende-stroomprijs-vast-tarief-voor-gas.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/achterklap/6291822/catherine-keyl-wil-klacht-indienen-tegen-arts-vanwege-verkeerde-diagnose.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291820,
-    "slug": "feyenoord-legt-etienne-reijnen-vast-als-opvolger-van-vertrokken-assistent-pusic",
-    "type": "article",
-    "title": "Feyenoord legt Etiënne Reijnen vast als opvolger van vertrokken assistent Pusic",
-    "subtitle": null,
-    "published_at": "2023-11-29T11:19:57+01:00",
-    "updated_at": "2023-11-29T11:38:06+01:00",
-    "media_id": "e14x4ryarrs3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6291820/feyenoord-legt-etienne-reijnen-vast-als-opvolger-van-vertrokken-assistent-pusic.html",
     "open_new_window": false,
     "partner": null
   }
