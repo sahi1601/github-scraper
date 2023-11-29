@@ -1,13 +1,36 @@
 [
   {
+    "id": 6291834,
+    "slug": "kabinet-grijpt-direct-in-na-uitspraak-rechter-asielzoekers-mogen-hele-jaar-werken",
+    "type": "article",
+    "title": "Kabinet grijpt direct in na uitspraak rechter: asielzoekers mogen hele jaar werken",
+    "subtitle": null,
+    "published_at": "2023-11-29T12:28:26+01:00",
+    "updated_at": "2023-11-29T12:28:27+01:00",
+    "media_id": "9jix95vae5on",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6291834/kabinet-grijpt-direct-in-na-uitspraak-rechter-asielzoekers-mogen-hele-jaar-werken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291830,
     "slug": "verstappen-van-der-poel-en-bol-op-shortlist-sportman-en-vrouw-van-het-jaar",
     "type": "article",
     "title": "Verstappen, Van der Poel en Bol op shortlist Sportman en -vrouw van het Jaar",
     "subtitle": null,
     "published_at": "2023-11-29T12:20:30+01:00",
-    "updated_at": "2023-11-29T12:23:31+01:00",
-    "media_id": "c29xr6eazcul",
+    "updated_at": "2023-11-29T12:34:49+01:00",
+    "media_id": "ndmxlbpa3jf5",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -24,12 +47,12 @@
   },
   {
     "id": 6291827,
-    "slug": "gestolen-straatnaambord-penny-lane-na-47-jaar-geschonken-aan-beatles-museum",
+    "slug": "gestolen-straatnaambord-penny-lane-na-47-jaar-geschonken-aan-museum",
     "type": "article",
-    "title": "Gestolen straatnaambord Penny Lane na 47 jaar geschonken aan Beatles-museum",
+    "title": "Gestolen straatnaambord Penny Lane na 47 jaar geschonken aan museum",
     "subtitle": null,
     "published_at": "2023-11-29T12:18:41+01:00",
-    "updated_at": "2023-11-29T12:21:00+01:00",
+    "updated_at": "2023-11-29T12:39:10+01:00",
     "media_id": "wfjxlxpaydqu",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/cultuur-overig/6291827/gestolen-straatnaambord-penny-lane-na-47-jaar-geschonken-aan-beatles-museum.html",
+    "url": "/cultuur-overig/6291827/gestolen-straatnaambord-penny-lane-na-47-jaar-geschonken-aan-museum.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Eerste ijsdag ligt op de loer met temperaturen ver onder de nul",
     "subtitle": null,
     "published_at": "2023-11-29T10:49:45+01:00",
-    "updated_at": "2023-11-29T10:49:46+01:00",
+    "updated_at": "2023-11-29T12:38:03+01:00",
     "media_id": "4mpx9ooaki2e",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6291790/samantha-de-jong-over-zaak-rond-gedwongen-prostitutie-elke-dag-stukje-sterker.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291797,
-    "slug": "ernst-daniel-smid-ziet-gezondheid-achteruitgaan-heb-moeite-met-lopen",
-    "type": "article",
-    "title": "Ernst Daniël Smid ziet gezondheid achteruitgaan: 'Heb moeite met lopen'",
-    "subtitle": null,
-    "published_at": "2023-11-29T09:20:46+01:00",
-    "updated_at": "2023-11-29T09:48:05+01:00",
-    "media_id": "vqpxy8papdpz",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6291797/ernst-daniel-smid-ziet-gezondheid-achteruitgaan-heb-moeite-met-lopen.html",
     "open_new_window": false,
     "partner": null
   }
