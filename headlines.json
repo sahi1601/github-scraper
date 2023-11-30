@@ -1,5 +1,28 @@
 [
   {
+    "id": 6291944,
+    "slug": "peter-wennink-vertrekt-volgend-jaar-als-topman-bij-asml",
+    "type": "article",
+    "title": "Peter Wennink vertrekt volgend jaar als topman bij ASML",
+    "subtitle": null,
+    "published_at": "2023-11-30T07:22:32+01:00",
+    "updated_at": "2023-11-30T07:22:33+01:00",
+    "media_id": "1yyxb52ani6o",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6291944/peter-wennink-vertrekt-volgend-jaar-als-topman-bij-asml.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291943,
     "slug": "ocampos-kop-van-jut-bij-sevilla-na-echec-tegen-psv-rode-kaart-kost-ons-de-kop",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Boek over Britse royals zorgt voor ophef, aangepaste versie komt volgende week uit",
     "subtitle": null,
     "published_at": "2023-11-30T07:08:21+01:00",
-    "updated_at": "2023-11-30T07:19:01+01:00",
+    "updated_at": "2023-11-30T07:28:21+01:00",
     "media_id": "9vmxgx6a69qj",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Mist niet te missen op deze koude en droge donderdag",
     "subtitle": "Weerbericht",
     "published_at": "2023-11-30T06:58:28+01:00",
-    "updated_at": "2023-11-30T06:58:29+01:00",
+    "updated_at": "2023-11-30T07:24:38+01:00",
     "media_id": "y43xi8fa4x6y",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Inflatie blijkt hardnekkig: prijzen stegen deze maand opnieuw",
     "subtitle": null,
     "published_at": "2023-11-30T06:36:31+01:00",
-    "updated_at": "2023-11-30T07:11:21+01:00",
+    "updated_at": "2023-11-30T07:25:04+01:00",
     "media_id": "d2qx3obalvb2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6291932/psv-voltooit-klein-wonder-in-champions-league-dit-is-historisch-en-bizar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291933,
-    "slug": "buitenlandse-zaken-in-contact-met-25-nederlanders-in-gaza-elf-meer-dan-eerder",
-    "type": "article",
-    "title": "Buitenlandse Zaken in contact met 25 Nederlanders in Gaza, elf meer dan eerder",
-    "subtitle": null,
-    "published_at": "2023-11-29T23:37:47+01:00",
-    "updated_at": "2023-11-29T23:37:47+01:00",
-    "media_id": "mtkxz50aky87",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6291933/buitenlandse-zaken-in-contact-met-25-nederlanders-in-gaza-elf-meer-dan-eerder.html",
     "open_new_window": false,
     "partner": null
   }
