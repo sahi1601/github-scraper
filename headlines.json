@@ -1,12 +1,35 @@
 [
   {
+    "id": 6269199,
+    "slug": "cruijff-fan-kissinger-dacht-verder-vooruit-dan-menig-amerikaans-president",
+    "type": "article",
+    "title": "Cruijff-fan Kissinger dacht verder vooruit dan menig Amerikaans president",
+    "subtitle": null,
+    "published_at": "2023-11-30T06:14:24+01:00",
+    "updated_at": "2023-11-30T06:14:25+01:00",
+    "media_id": "n2zxizoap7wp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6269199/cruijff-fan-kissinger-dacht-verder-vooruit-dan-menig-amerikaans-president.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6291937,
     "slug": "code-geel-in-heel-nederland-vanwege-dichte-mist-en-kans-op-gladheid",
     "type": "article",
     "title": "Code geel in heel Nederland vanwege dichte mist en kans op gladheid",
     "subtitle": null,
     "published_at": "2023-11-30T06:11:47+01:00",
-    "updated_at": "2023-11-30T06:11:48+01:00",
+    "updated_at": "2023-11-30T06:23:23+01:00",
     "media_id": "vdlx8fwactv7",
     "duration": null,
     "canonical_section": {
@@ -208,12 +231,12 @@
   },
   {
     "id": 6291619,
-    "slug": "rechter-kijkt-naar-sluiten-kinderhartchirurgie-is-eerste-puzzelstukje-goed-gelegd",
+    "slug": "rechter-kijkt-is-eerste-puzzelstukje-sluiten-kinderhartchirurgie-goed-gelegd",
     "type": "article",
-    "title": "Rechter kijkt naar sluiten kinderhartchirurgie: is 'eerste puzzelstukje' goed gelegd?",
+    "title": "Rechter kijkt: is 'eerste puzzelstukje' sluiten kinderhartchirurgie goed gelegd?",
     "subtitle": "NU+",
     "published_at": "2023-11-30T05:01:49+01:00",
-    "updated_at": "2023-11-30T05:01:50+01:00",
+    "updated_at": "2023-11-30T06:19:41+01:00",
     "media_id": "3yixvzrajr0h",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6291619/rechter-kijkt-naar-sluiten-kinderhartchirurgie-is-eerste-puzzelstukje-goed-gelegd.html",
+    "url": "/binnenland/6291619/rechter-kijkt-is-eerste-puzzelstukje-sluiten-kinderhartchirurgie-goed-gelegd.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6291928/nederlands-israelische-gijzelaar-ofir-engel-18-vrijgelaten-door-hamas.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6291927,
-    "slug": "oproep-om-volledig-mee-te-regeren-krijgt-op-vvd-bijeenkomst-luid-applaus",
-    "type": "article",
-    "title": "Oproep om volledig mee te regeren krijgt op VVD-bijeenkomst luid applaus",
-    "subtitle": null,
-    "published_at": "2023-11-29T22:24:28+01:00",
-    "updated_at": "2023-11-29T22:52:58+01:00",
-    "media_id": "1p0xr7xatspr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779337,
-      "slug": "formatie-2023",
-      "type": "default",
-      "name": "Formatie 2023",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formatie-2023/6291927/oproep-om-volledig-mee-te-regeren-krijgt-op-vvd-bijeenkomst-luid-applaus.html",
     "open_new_window": false,
     "partner": null
   }
