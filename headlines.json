@@ -1,5 +1,28 @@
 [
   {
+    "id": 6292202,
+    "slug": "braziliaanse-snelweg-doormidden-gescheurd-na-noodweer",
+    "type": "video",
+    "title": "Braziliaanse snelweg doormidden gescheurd na noodweer",
+    "subtitle": "Video",
+    "published_at": "2023-12-01T14:23:24+01:00",
+    "updated_at": "2023-12-01T14:23:25+01:00",
+    "media_id": "2h4x287anl7k",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6292202/braziliaanse-snelweg-doormidden-gescheurd-na-noodweer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292194,
     "slug": "extra-controle-op-historische-zeilschepen-na-dodelijke-ongelukken-door-houtrot",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Agent die op tractor met zestienjarige schoot krijgt maand voorwaardelijk en taakstraf",
     "subtitle": null,
     "published_at": "2023-12-01T14:15:09+01:00",
-    "updated_at": "2023-12-01T14:18:18+01:00",
+    "updated_at": "2023-12-01T14:22:56+01:00",
     "media_id": "jn4xjdmab8pl",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Vrouw bespot Maleisische bank die per ongeluk miljoenen op haar rekening stort",
     "subtitle": null,
     "published_at": "2023-12-01T13:45:04+01:00",
-    "updated_at": "2023-12-01T14:15:24+01:00",
+    "updated_at": "2023-12-01T14:25:03+01:00",
     "media_id": "6axx6ggat2sv",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Sinterklaas is duur uit dit jaar: snoepgoed kost een kwart meer",
     "subtitle": null,
     "published_at": "2023-12-01T13:37:47+01:00",
-    "updated_at": "2023-12-01T13:37:49+01:00",
+    "updated_at": "2023-12-01T14:26:43+01:00",
     "media_id": "74nxzjtavun8",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Gezondheidsproblemen en kritiek, maar Madonna vecht altijd zich terug",
     "subtitle": "NU+",
     "published_at": "2023-12-01T12:10:37+01:00",
-    "updated_at": "2023-12-01T12:27:20+01:00",
+    "updated_at": "2023-12-01T14:23:29+01:00",
     "media_id": "5ijxq97ace1q",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6292013/gezondheidsproblemen-en-kritiek-maar-madonna-vecht-altijd-zich-terug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292167,
-    "slug": "volendam-haalt-door-jan-smit-ontslagen-directeur-weer-terug-rancuneuze-actie",
-    "type": "article",
-    "title": "Volendam haalt door Jan Smit ontslagen directeur weer terug: 'Rancuneuze actie'",
-    "subtitle": null,
-    "published_at": "2023-12-01T12:02:02+01:00",
-    "updated_at": "2023-12-01T12:03:31+01:00",
-    "media_id": "jbexvbtagshn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6292167/volendam-haalt-door-jan-smit-ontslagen-directeur-weer-terug-rancuneuze-actie.html",
     "open_new_window": false,
     "partner": null
   }
