@@ -1,5 +1,28 @@
 [
   {
+    "id": 6292292,
+    "slug": "igone-de-jongh-voelt-zich-beter-na-breuk-met-thijs-romer",
+    "type": "article",
+    "title": "Igone de Jongh voelt zich beter na breuk met Thijs Römer",
+    "subtitle": null,
+    "published_at": "2023-12-02T08:01:27+01:00",
+    "updated_at": "2023-12-02T08:01:28+01:00",
+    "media_id": "4sexhvvaidce",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6292292/igone-de-jongh-voelt-zich-beter-na-breuk-met-thijs-romer.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292291,
     "slug": "huub-van-der-lubbe-heeft-sinds-afscheid-van-de-dijk-geen-haast-meer",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Wiegman en Jonker verwachten geen opzettelijk verlies Schotten: 'Grote rivaliteit'",
     "subtitle": null,
     "published_at": "2023-12-02T05:27:51+01:00",
-    "updated_at": "2023-12-02T05:27:52+01:00",
+    "updated_at": "2023-12-02T08:08:35+01:00",
     "media_id": "ulgxvzpa54lb",
     "duration": null,
     "canonical_section": {
@@ -164,10 +187,10 @@
     "id": 6291857,
     "slug": "kinderopvang-wordt-duurder-maar-overheid-komt-ouders-tegemoet",
     "type": "article",
-    "title": "Kinderopvang wordt duurder maar overheid komt ouders tegemoet",
+    "title": "Kinderopvang wordt duurder, maar overheid komt ouders tegemoet",
     "subtitle": null,
     "published_at": "2023-12-02T05:24:02+01:00",
-    "updated_at": "2023-12-02T05:24:03+01:00",
+    "updated_at": "2023-12-02T07:49:01+01:00",
     "media_id": "e8mxhwjafj9m",
     "duration": null,
     "canonical_section": {
@@ -254,12 +277,12 @@
   },
   {
     "id": 6292282,
-    "slug": "gevangene-aangeklaagd-die-met-mes-instak-op-agent-die-george-floyd-doodde",
+    "slug": "gevangene-verdacht-van-moordpoging-na-steken-agent-die-george-floyd-doodde",
     "type": "article",
-    "title": "Gevangene aangeklaagd die met mes instak op agent die George Floyd doodde",
+    "title": "Gevangene verdacht van moordpoging na steken agent die George Floyd doodde",
     "subtitle": null,
     "published_at": "2023-12-02T00:00:24+01:00",
-    "updated_at": "2023-12-02T00:00:25+01:00",
+    "updated_at": "2023-12-02T07:46:23+01:00",
     "media_id": "msvxseya8ufp",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6292282/gevangene-aangeklaagd-die-met-mes-instak-op-agent-die-george-floyd-doodde.html",
+    "url": "/buitenland/6292282/gevangene-verdacht-van-moordpoging-na-steken-agent-die-george-floyd-doodde.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6292276/spacex-lanceert-eerste-militaire-spionagesatelliet-van-zuid-korea.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292275,
-    "slug": "heerenveen-zet-opmars-voort-met-royale-thuiszege-op-almere-city",
-    "type": "article",
-    "title": "Heerenveen zet opmars voort met royale thuiszege op Almere City",
-    "subtitle": null,
-    "published_at": "2023-12-01T21:59:35+01:00",
-    "updated_at": "2023-12-01T22:18:56+01:00",
-    "media_id": "eb3x16ea2hv3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6292275/heerenveen-zet-opmars-voort-met-royale-thuiszege-op-almere-city.html",
     "open_new_window": false,
     "partner": null
   }
