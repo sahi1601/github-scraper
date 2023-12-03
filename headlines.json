@@ -1,12 +1,35 @@
 [
   {
-    "id": 6292452,
-    "slug": "oud-rusland-correspondent-peter-dhamecourt-overleden-op-77-jarige-leeftijd",
+    "id": 6292453,
+    "slug": "veldrijdster-brand-boekt-in-frankrijk-tweede-wereldbekerzege-op-rij",
     "type": "article",
-    "title": "Oud-Rusland-correspondent Peter d'Hamecourt overleden op 77-jarige leeftijd",
+    "title": "Veldrijdster Brand boekt in Frankrijk tweede wereldbekerzege op rij",
+    "subtitle": null,
+    "published_at": "2023-12-03T15:13:10+01:00",
+    "updated_at": "2023-12-03T15:25:40+01:00",
+    "media_id": "qcix9v6a3kld",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6292453/veldrijdster-brand-boekt-in-frankrijk-tweede-wereldbekerzege-op-rij.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6292452,
+    "slug": "oud-rusland-correspondent-peter-dhamecourt-op-77-jarige-leeftijd-overleden",
+    "type": "article",
+    "title": "Oud-Rusland-correspondent Peter d'Hamecourt op 77-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-12-03T15:08:01+01:00",
-    "updated_at": "2023-12-03T15:08:02+01:00",
+    "updated_at": "2023-12-03T15:18:37+01:00",
     "media_id": "bdgx4qta5k5x",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6292452/oud-rusland-correspondent-peter-dhamecourt-overleden-op-77-jarige-leeftijd.html",
+    "url": "/media/6292452/oud-rusland-correspondent-peter-dhamecourt-op-77-jarige-leeftijd-overleden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "PSV breidt indrukwekkende zegereeks uit in De Kuip: 'Dit is iets heel bijzonders'",
     "subtitle": null,
     "published_at": "2023-12-03T15:01:29+01:00",
-    "updated_at": "2023-12-03T15:01:32+01:00",
+    "updated_at": "2023-12-03T15:23:20+01:00",
     "media_id": "8vgxjhaae0r9",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6292448,
-    "slug": "toestand-van-zwaargewonde-ouders-na-ongeval-op-a1-is-zorgelijk-maar-stabiel",
+    "slug": "toestand-zwaargewonde-ouders-na-dodelijk-ongeval-a1-is-zorgelijk-maar-stabiel",
     "type": "article",
-    "title": "Toestand van zwaargewonde ouders na ongeval op A1 is 'zorgelijk, maar stabiel'",
+    "title": "Toestand zwaargewonde ouders na dodelijk ongeval A1 is 'zorgelijk, maar stabiel'",
     "subtitle": null,
     "published_at": "2023-12-03T14:35:40+01:00",
-    "updated_at": "2023-12-03T15:10:36+01:00",
+    "updated_at": "2023-12-03T15:18:31+01:00",
     "media_id": "ihcxbfiaiyka",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6292448/toestand-van-zwaargewonde-ouders-na-ongeval-op-a1-is-zorgelijk-maar-stabiel.html",
+    "url": "/binnenland/6292448/toestand-zwaargewonde-ouders-na-dodelijk-ongeval-a1-is-zorgelijk-maar-stabiel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6292428/choukoud-loopt-onder-limiet-en-mag-deelnemen-aan-olympische-marathon-parijs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292408,
-    "slug": "israel-intensiveert-aanvallen-op-gaza-ondanks-ongenoegen-vs-over-burgerdoden",
-    "type": "article",
-    "title": "Israël intensiveert aanvallen op Gaza ondanks ongenoegen VS over burgerdoden",
-    "subtitle": null,
-    "published_at": "2023-12-03T10:52:56+01:00",
-    "updated_at": "2023-12-03T14:33:32+01:00",
-    "media_id": "vkmxjz6a2ebn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Oorlog Israël en Hamas",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6292408/israel-intensiveert-aanvallen-op-gaza-ondanks-ongenoegen-vs-over-burgerdoden.html",
     "open_new_window": false,
     "partner": null
   }
