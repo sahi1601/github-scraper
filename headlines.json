@@ -1,5 +1,51 @@
 [
   {
+    "id": 6292470,
+    "slug": "huub-van-der-lubbe-krijgt-minutenlange-staande-ovatie-bij-musicaldebuut",
+    "type": "article",
+    "title": "Huub van der Lubbe krijgt minutenlange staande ovatie bij musicaldebuut",
+    "subtitle": null,
+    "published_at": "2023-12-03T17:45:03+01:00",
+    "updated_at": "2023-12-03T17:45:05+01:00",
+    "media_id": "yphxetia9d91",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6292470/huub-van-der-lubbe-krijgt-minutenlange-staande-ovatie-bij-musicaldebuut.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6292469,
+    "slug": "npo-dj-eddy-keur-wijst-first-dates-af-maar-staat-wel-open-voor-datingshow",
+    "type": "article",
+    "title": "NPO-dj Eddy Keur wijst First Dates af , maar staat wel open voor datingshow",
+    "subtitle": null,
+    "published_at": "2023-12-03T17:42:14+01:00",
+    "updated_at": "2023-12-03T17:42:15+01:00",
+    "media_id": "z1pxfebajnry",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6292469/npo-dj-eddy-keur-wijst-first-dates-af-maar-staat-wel-open-voor-datingshow.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292266,
     "slug": "onze-journalisten-moeten-niet-allemaal-in-de-randstad-wonen",
     "type": "article",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6292467,
-    "slug": "bayern-munchen-maakt-dak-van-stadion-sneeuwvrij-met-helikopter",
+    "slug": "bayern-munchen-ruimt-sneeuw-van-stadion-met-helikopter",
     "type": "video",
-    "title": "Bayern München maakt dak van stadion sneeuwvrij met helikopter",
+    "title": "Bayern München ruimt sneeuw van stadion met helikopter",
     "subtitle": "Video",
     "published_at": "2023-12-03T17:02:42+01:00",
-    "updated_at": "2023-12-03T17:13:42+01:00",
+    "updated_at": "2023-12-03T17:33:20+01:00",
     "media_id": "dd0xgn0a58u1",
     "duration": "1:17",
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6292467/bayern-munchen-maakt-dak-van-stadion-sneeuwvrij-met-helikopter.html",
+    "url": "/videos/6292467/bayern-munchen-ruimt-sneeuw-van-stadion-met-helikopter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +167,7 @@
     "title": "Feyenoord zet titel voorlopig uit het hoofd: 'Ieder weldenkend mens snapt dat'",
     "subtitle": null,
     "published_at": "2023-12-03T16:11:33+01:00",
-    "updated_at": "2023-12-03T16:43:26+01:00",
+    "updated_at": "2023-12-03T17:45:39+01:00",
     "media_id": "sjjx7ziaedop",
     "duration": null,
     "canonical_section": {
@@ -305,7 +351,7 @@
     "title": "Oud-Rusland-correspondent Peter d'Hamecourt op 77-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-12-03T15:08:01+01:00",
-    "updated_at": "2023-12-03T17:18:49+01:00",
+    "updated_at": "2023-12-03T17:37:48+01:00",
     "media_id": "elaxghrapo6p",
     "duration": null,
     "canonical_section": {
@@ -328,7 +374,7 @@
     "title": "PSV breidt indrukwekkende zegereeks uit in De Kuip: 'Dit is iets heel bijzonders'",
     "subtitle": null,
     "published_at": "2023-12-03T15:01:29+01:00",
-    "updated_at": "2023-12-03T15:23:20+01:00",
+    "updated_at": "2023-12-03T17:45:07+01:00",
     "media_id": "8vgxjhaae0r9",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "PSV wint ook topper van Feyenoord en staat tien punten los in Eredivisie",
     "subtitle": null,
     "published_at": "2023-12-03T14:18:48+01:00",
-    "updated_at": "2023-12-03T16:44:00+01:00",
+    "updated_at": "2023-12-03T17:44:35+01:00",
     "media_id": "2kixwg2a5ovf",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6292444/groenewoud-pakt-zilver-op-5000-meter-schouten-in-b-groep-klasse-apart.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292443,
-    "slug": "hemel-boven-china-kleurt-rood-door-uniek-noorderlicht",
-    "type": "video",
-    "title": "Hemel boven China kleurt rood door uniek noorderlicht",
-    "subtitle": "Video",
-    "published_at": "2023-12-03T13:33:33+01:00",
-    "updated_at": "2023-12-03T16:08:28+01:00",
-    "media_id": "bdex78jaqe5t",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6292443/hemel-boven-china-kleurt-rood-door-uniek-noorderlicht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292442,
-    "slug": "ajacieden-martha-en-hlynsson-keren-terug-in-basis-voor-uitwedstrijd-tegen-nec",
-    "type": "article",
-    "title": "Ajacieden Martha en Hlynsson keren terug in basis voor uitwedstrijd tegen NEC",
-    "subtitle": null,
-    "published_at": "2023-12-03T13:14:27+01:00",
-    "updated_at": "2023-12-03T14:39:24+01:00",
-    "media_id": "zymxmeea5qse",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6292442/ajacieden-martha-en-hlynsson-keren-terug-in-basis-voor-uitwedstrijd-tegen-nec.html",
     "open_new_window": false,
     "partner": null
   }
