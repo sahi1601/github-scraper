@@ -1,5 +1,28 @@
 [
   {
+    "id": 6292623,
+    "slug": "persoon-valt-uit-vrachtwagen-en-raakt-zwaargewond-bij-ongeluk-a10-amsterdam",
+    "type": "article",
+    "title": "Persoon valt uit vrachtwagen en raakt zwaargewond bij ongeluk A10 Amsterdam",
+    "subtitle": null,
+    "published_at": "2023-12-04T19:14:22+01:00",
+    "updated_at": "2023-12-04T19:14:42+01:00",
+    "media_id": "wz2xa7ba9jk7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6292623/persoon-valt-uit-vrachtwagen-en-raakt-zwaargewond-bij-ongeluk-a10-amsterdam.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292619,
     "slug": "britse-onderzoekers-passeren-toevallig-grootste-ijsberg-ter-wereld",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wolf/6292528/bij-elspeet-gevonden-dode-wolf-toch-niet-door-mensen-om-het-leven-gebracht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292580,
-    "slug": "prinses-laurentien-gasthoofdredacteur-van-kersteditie-nouveau",
-    "type": "article",
-    "title": "Prinses Laurentien gasthoofdredacteur van kersteditie Nouveau",
-    "subtitle": null,
-    "published_at": "2023-12-04T15:13:13+01:00",
-    "updated_at": "2023-12-04T15:19:34+01:00",
-    "media_id": "slbxxzia84qc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6292580/prinses-laurentien-gasthoofdredacteur-van-kersteditie-nouveau.html",
     "open_new_window": false,
     "partner": null
   }
