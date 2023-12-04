@@ -1,12 +1,35 @@
 [
   {
+    "id": 6292508,
+    "slug": "simone-kleinsma-zag-voorstelling-als-rouwtherapie-het-tilde-mij-op",
+    "type": "article",
+    "title": "Simone Kleinsma zag voorstelling als rouwtherapie: 'Het tilde mij op'",
+    "subtitle": null,
+    "published_at": "2023-12-04T07:35:16+01:00",
+    "updated_at": "2023-12-04T07:35:17+01:00",
+    "media_id": "333x1a2aukf7",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6292508/simone-kleinsma-zag-voorstelling-als-rouwtherapie-het-tilde-mij-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292507,
     "slug": "goud-is-meer-waard-dan-ooit-door-koers-van-amerikaanse-dollar",
     "type": "article",
     "title": "Goud is meer waard dan ooit door koers van Amerikaanse dollar",
     "subtitle": null,
     "published_at": "2023-12-04T07:32:12+01:00",
-    "updated_at": "2023-12-04T07:32:13+01:00",
+    "updated_at": "2023-12-04T07:41:29+01:00",
     "media_id": "ppyxlgna1w9c",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6292491/school-in-hilversum-staat-stil-bij-overlijden-leerlingen-na-botsing-met-spookrijder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292490,
-    "slug": "israelisch-leger-rukt-op-naar-het-zuiden-van-de-gazastrook",
-    "type": "article",
-    "title": "Israëlisch leger rukt op naar het zuiden van de Gazastrook",
-    "subtitle": null,
-    "published_at": "2023-12-03T21:52:03+01:00",
-    "updated_at": "2023-12-03T21:57:17+01:00",
-    "media_id": "1umxiefamheb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Oorlog Israël en Hamas",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6292490/israelisch-leger-rukt-op-naar-het-zuiden-van-de-gazastrook.html",
     "open_new_window": false,
     "partner": null
   }
