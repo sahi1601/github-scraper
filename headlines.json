@@ -1,5 +1,28 @@
 [
   {
+    "id": 6292589,
+    "slug": "billie-eilish-is-queer-maar-wat-betekent-dat-nou-precies",
+    "type": "article",
+    "title": "Billie Eilish is queer, maar wat betekent dat nou precies?",
+    "subtitle": "In 100 woorden",
+    "published_at": "2023-12-04T21:31:31+01:00",
+    "updated_at": "2023-12-04T21:31:32+01:00",
+    "media_id": "n1exd9qadejf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779003,
+      "slug": "gebaseerd-op-jullie-vragen",
+      "type": "default",
+      "name": "Gebaseerd op NUjij",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/gebaseerd-op-jullie-vragen/6292589/billie-eilish-is-queer-maar-wat-betekent-dat-nou-precies.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292616,
     "slug": "tuindecoratie-van-koppel-uit-wales-blijkt-explosieve-scheepsgranaat",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "EU eist dat Polen een eind maakt aan blokkade Oekraïense vrachtwagens",
     "subtitle": null,
     "published_at": "2023-12-04T21:10:56+01:00",
-    "updated_at": "2023-12-04T21:19:23+01:00",
+    "updated_at": "2023-12-04T21:26:04+01:00",
     "media_id": "90rxtfzaho7d",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6292632,
-    "slug": "live-wk-handbal-oranje-na-rust-op-voorsprong-in-laatste-groepsduel-met-tsjechie",
+    "slug": "live-wk-handbal-oranje-stevent-af-op-groepswinst-in-duel-met-tsjechie",
     "type": "article",
-    "title": "Live WK handbal | Oranje na rust op voorsprong in laatste groepsduel met Tsjechië",
+    "title": "Live WK handbal | Oranje stevent af op groepswinst in duel met Tsjechië",
     "subtitle": null,
     "published_at": "2023-12-04T20:07:45+01:00",
-    "updated_at": "2023-12-04T21:24:25+01:00",
+    "updated_at": "2023-12-04T21:43:26+01:00",
     "media_id": "lkzxoxma1ck8",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6292632/live-wk-handbal-oranje-na-rust-op-voorsprong-in-laatste-groepsduel-met-tsjechie.html",
+    "url": "/sport-overig/6292632/live-wk-handbal-oranje-stevent-af-op-groepswinst-in-duel-met-tsjechie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -420,7 +443,7 @@
     "title": "Waarom Spotify na zeventien jaar verlies nu de broekriem aantrekt",
     "subtitle": "NU+",
     "published_at": "2023-12-04T17:04:00+01:00",
-    "updated_at": "2023-12-04T17:04:01+01:00",
+    "updated_at": "2023-12-04T21:32:01+01:00",
     "media_id": "2y2xia0aerqm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6292578/waarom-spotify-na-zeventien-jaar-verlies-nu-de-broekriem-aantrekt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292537,
-    "slug": "patrick-kluivert-al-na-vijf-maanden-weg-als-trainer-bij-adana-demirspor",
-    "type": "article",
-    "title": "Patrick Kluivert al na vijf maanden weg als trainer bij Adana Demirspor",
-    "subtitle": null,
-    "published_at": "2023-12-04T17:02:34+01:00",
-    "updated_at": "2023-12-04T17:20:25+01:00",
-    "media_id": "a56xcpfa37px",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6292537/patrick-kluivert-al-na-vijf-maanden-weg-als-trainer-bij-adana-demirspor.html",
     "open_new_window": false,
     "partner": null
   }
