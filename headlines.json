@@ -1,12 +1,35 @@
 [
   {
-    "id": 6292692,
-    "slug": "1-op-de-3-nederlandse-scholieren-begrijpt-een-tekst-niet",
+    "id": 6292693,
+    "slug": "storing-met-ideal-zit-betalingen-van-rabobank-klanten-in-de-weg",
     "type": "article",
-    "title": "1 op de 3 Nederlandse scholieren begrijpt een tekst niet",
+    "title": "Storing met iDEAL zit betalingen van Rabobank-klanten in de weg",
+    "subtitle": null,
+    "published_at": "2023-12-05T11:37:37+01:00",
+    "updated_at": "2023-12-05T11:39:42+01:00",
+    "media_id": "kaixciaa3ig7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6292693/storing-met-ideal-zit-betalingen-van-rabobank-klanten-in-de-weg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6292692,
+    "slug": "een-op-de-drie-nederlandse-scholieren-begrijpt-een-tekst-niet",
+    "type": "article",
+    "title": "Een op de drie Nederlandse scholieren begrijpt een tekst niet",
     "subtitle": null,
     "published_at": "2023-12-05T11:30:01+01:00",
-    "updated_at": "2023-12-05T11:30:07+01:00",
+    "updated_at": "2023-12-05T11:39:23+01:00",
     "media_id": "ataxavzazvxs",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6292692/1-op-de-3-nederlandse-scholieren-begrijpt-een-tekst-niet.html",
+    "url": "/binnenland/6292692/een-op-de-drie-nederlandse-scholieren-begrijpt-een-tekst-niet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6292653/brenda-lee-troeft-mariah-carey-af-met-kersthit-en-staat-na-65-jaar-op-nummer-1.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292651,
-    "slug": "sneeuw-is-maar-van-korte-duur-pakjesavond-vooral-nat-en-guur",
-    "type": "article",
-    "title": "Sneeuw is maar van korte duur, Pakjesavond vooral nat en guur",
-    "subtitle": "Weergedicht",
-    "published_at": "2023-12-05T05:48:49+01:00",
-    "updated_at": "2023-12-05T07:46:41+01:00",
-    "media_id": "96vxy2pa3of5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6292651/sneeuw-is-maar-van-korte-duur-pakjesavond-vooral-nat-en-guur.html",
     "open_new_window": false,
     "partner": null
   }
