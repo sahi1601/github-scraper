@@ -1,5 +1,28 @@
 [
   {
+    "id": 6292650,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-12-05T05:17:59+01:00",
+    "updated_at": "2023-12-05T05:18:00+01:00",
+    "media_id": "xdtxc8kaj8rf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778843,
+      "slug": "login-vereist",
+      "type": "default",
+      "name": "login-vereist",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/login-vereist/6292650/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292617,
     "slug": "kamminga-en-schouten-steunen-coach-faber-sta-100-procent-achter-mark",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6292547,
-    "slug": "moet-oranje-vrezen-voor-akkoordje-tussen-engeland-en-schotland-zo-zit-het",
+    "slug": "moet-oranje-vrezen-voor-akkoordje-tussen-engeland-en-schotland",
     "type": "article",
-    "title": "Moet Oranje vrezen voor akkoordje tussen Engeland en Schotland? Zo zit het",
+    "title": "Moet Oranje vrezen voor akkoordje tussen Engeland en Schotland?",
     "subtitle": "NU+",
     "published_at": "2023-12-05T05:08:29+01:00",
-    "updated_at": "2023-12-05T05:09:07+01:00",
+    "updated_at": "2023-12-05T05:16:41+01:00",
     "media_id": "ub0xe4oa7hb1",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6292547/moet-oranje-vrezen-voor-akkoordje-tussen-engeland-en-schotland-zo-zit-het.html",
+    "url": "/voetbal/6292547/moet-oranje-vrezen-voor-akkoordje-tussen-engeland-en-schotland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6292636/wereldijshockeybond-verplicht-nekbescherming-na-tragische-dood-speler.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292632,
-    "slug": "live-wk-handbal-reacties-na-belangrijke-zege-oranje",
-    "type": "article",
-    "title": "Live WK handbal | Reacties na belangrijke zege Oranje",
-    "subtitle": null,
-    "published_at": "2023-12-04T20:07:45+01:00",
-    "updated_at": "2023-12-04T22:02:24+01:00",
-    "media_id": "lkzxoxma1ck8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6292632/live-wk-handbal-reacties-na-belangrijke-zege-oranje.html",
     "open_new_window": false,
     "partner": null
   }
