@@ -1,5 +1,28 @@
 [
   {
+    "id": 6292761,
+    "slug": "eu-eens-over-verbod-op-vernietiging-onverkochte-kleding",
+    "type": "article",
+    "title": "EU eens over verbod op vernietiging onverkochte kleding",
+    "subtitle": null,
+    "published_at": "2023-12-05T17:21:13+01:00",
+    "updated_at": "2023-12-05T17:21:14+01:00",
+    "media_id": "y3nxx6gazwnt",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6292761/eu-eens-over-verbod-op-vernietiging-onverkochte-kleding.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292763,
     "slug": "resultaten-van-onderzoek-naar-werkcultuur-npo-worden-in-januari-gepresenteerd",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Pakjesavond zorgt voor flinke 'sintspits' op de wegen",
     "subtitle": null,
     "published_at": "2023-12-05T17:04:51+01:00",
-    "updated_at": "2023-12-05T17:11:22+01:00",
+    "updated_at": "2023-12-05T17:29:29+01:00",
     "media_id": "bifxqrlao3dh",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Zeven jaar cel geëist voor ongeluk op A59 waarbij gezin omkwam",
     "subtitle": null,
     "published_at": "2023-12-05T15:55:35+01:00",
-    "updated_at": "2023-12-05T15:55:36+01:00",
+    "updated_at": "2023-12-05T17:31:07+01:00",
     "media_id": "skwxfa6aovy0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6292735/tweede-verdachte-opgepakt-in-onderzoek-naar-fatale-schietpartij-erasmus-mc.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6292728,
-    "slug": "dodental-uitbarsting-indonesische-vulkaan-loopt-op-naar-22",
-    "type": "article",
-    "title": "Dodental uitbarsting Indonesische vulkaan loopt op naar 22",
-    "subtitle": null,
-    "published_at": "2023-12-05T14:42:16+01:00",
-    "updated_at": "2023-12-05T14:42:17+01:00",
-    "media_id": "7ljxp2kab5y0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6292728/dodental-uitbarsting-indonesische-vulkaan-loopt-op-naar-22.html",
     "open_new_window": false,
     "partner": null
   }
