@@ -1,5 +1,51 @@
 [
   {
+    "id": 6293231,
+    "slug": "vlaamse-sluiswachters-gaan-weer-aan-het-werk-na-vijfdaagse-wilde-staking",
+    "type": "article",
+    "title": "Vlaamse sluiswachters gaan weer aan het werk na vijfdaagse wilde staking",
+    "subtitle": null,
+    "published_at": "2023-12-08T17:02:08+01:00",
+    "updated_at": "2023-12-08T17:02:10+01:00",
+    "media_id": "5mdxs6la3pt0",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6293231/vlaamse-sluiswachters-gaan-weer-aan-het-werk-na-vijfdaagse-wilde-staking.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293179,
+    "slug": "dit-weten-we-niet-over-de-omstreden-fotos-van-palestijnse-gevangenen",
+    "type": "article",
+    "title": "Dit weten we (niet) over de omstreden foto's van Palestijnse gevangenen",
+    "subtitle": "NU+",
+    "published_at": "2023-12-08T16:56:51+01:00",
+    "updated_at": "2023-12-08T16:56:53+01:00",
+    "media_id": "dj3xiw7ayfyd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Oorlog Israël en Hamas",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6293179/dit-weten-we-niet-over-de-omstreden-fotos-van-palestijnse-gevangenen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293230,
     "slug": "bedreigde-babylynx-uit-boom-gered-in-tsjechie",
     "type": "video",
@@ -47,12 +93,12 @@
   },
   {
     "id": 6293219,
-    "slug": "hamilton-haalt-na-teleurstellende-week-uit-naar-fia-om-kwestie-wolff",
+    "slug": "hamilton-haalt-na-teleurstellende-week-uit-naar-fia-wegens-kwestie-wolff",
     "type": "article",
-    "title": "Hamilton haalt na 'teleurstellende week' uit naar FIA om kwestie Wolff",
+    "title": "Hamilton haalt na 'teleurstellende week' uit naar FIA wegens kwestie Wolff",
     "subtitle": null,
     "published_at": "2023-12-08T16:12:16+01:00",
-    "updated_at": "2023-12-08T16:13:21+01:00",
+    "updated_at": "2023-12-08T16:53:25+01:00",
     "media_id": "kcwxne5aweie",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6293219/hamilton-haalt-na-teleurstellende-week-uit-naar-fia-om-kwestie-wolff.html",
+    "url": "/formule-1/6293219/hamilton-haalt-na-teleurstellende-week-uit-naar-fia-wegens-kwestie-wolff.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech/6293196/baldurs-gate-3-van-belgische-gamestudio-grote-winnaar-van-the-game-awards.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293193,
-    "slug": "syrier-in-druten-opgepakt-vanwege-seksueel-geweld-en-marteling-in-syrie",
-    "type": "article",
-    "title": "Syriër in Druten opgepakt vanwege seksueel geweld en marteling in Syrië",
-    "subtitle": null,
-    "published_at": "2023-12-08T14:17:44+01:00",
-    "updated_at": "2023-12-08T14:17:45+01:00",
-    "media_id": "6o0xnsmaedhj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6293193/syrier-in-druten-opgepakt-vanwege-seksueel-geweld-en-marteling-in-syrie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293184,
-    "slug": "roddelpers-mag-zichzelf-verweren-in-smaadzaak-van-prins-harry",
-    "type": "article",
-    "title": "Roddelpers mag zichzelf verweren in smaadzaak van prins Harry",
-    "subtitle": null,
-    "published_at": "2023-12-08T14:06:33+01:00",
-    "updated_at": "2023-12-08T14:09:31+01:00",
-    "media_id": "l02xgcvame3j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6293184/roddelpers-mag-zichzelf-verweren-in-smaadzaak-van-prins-harry.html",
     "open_new_window": false,
     "partner": null
   }
