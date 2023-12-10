@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293392,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-12-10T05:18:28+01:00",
+    "updated_at": "2023-12-10T05:18:29+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778843,
+      "slug": "login-vereist",
+      "type": "default",
+      "name": "login-vereist",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/login-vereist/6293392/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293390,
     "slug": "bijzonder-huwelijk-tussen-breakdance-en-spelen-is-het-10-jaar-te-vroeg",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/midden-oostenconflict/6293341/gevechten-gaza-zwellen-aan-harde-kritieken-op-immoreel-vs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293375,
-    "slug": "bondscoach-ritsma-gaat-oppas-regelen-voor-blunderende-beune-dit-kan-niet",
-    "type": "article",
-    "title": "Bondscoach Ritsma gaat oppas regelen voor blunderende Beune: 'Dit kan niet'",
-    "subtitle": null,
-    "published_at": "2023-12-09T18:28:24+01:00",
-    "updated_at": "2023-12-09T20:49:14+01:00",
-    "media_id": "c4axrkfarrcs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6293375/bondscoach-ritsma-gaat-oppas-regelen-voor-blunderende-beune-dit-kan-niet.html",
     "open_new_window": false,
     "partner": null
   }
