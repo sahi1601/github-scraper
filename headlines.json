@@ -1,12 +1,35 @@
 [
   {
+    "id": 6293483,
+    "slug": "mannen-gaan-elkaar-te-lijf-met-ladders-in-londen",
+    "type": "video",
+    "title": "Mannen gaan elkaar te lijf met ladders in Londen",
+    "subtitle": "Video",
+    "published_at": "2023-12-10T22:46:10+01:00",
+    "updated_at": "2023-12-10T22:46:11+01:00",
+    "media_id": "b2axj39abixk",
+    "duration": "0:53",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6293483/mannen-gaan-elkaar-te-lijf-met-ladders-in-londen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293482,
-    "slug": "darters-landman-en-de-graaf-grijpen-naast-wereldtitel-in-lakeside-finale",
+    "slug": "darters-landman-en-de-graaf-grijpen-naast-wereldtitels-in-lakeside-finales",
     "type": "article",
-    "title": "Darters Landman en De Graaf grijpen naast wereldtitel in Lakeside-finale",
+    "title": "Darters Landman en De Graaf grijpen naast wereldtitels in Lakeside-finales",
     "subtitle": null,
     "published_at": "2023-12-10T22:37:42+01:00",
-    "updated_at": "2023-12-10T22:37:43+01:00",
+    "updated_at": "2023-12-10T23:05:43+01:00",
     "media_id": "ghtxkolax0ts",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6293482/darters-landman-en-de-graaf-grijpen-naast-wereldtitel-in-lakeside-finale.html",
+    "url": "/sport-overig/6293482/darters-landman-en-de-graaf-grijpen-naast-wereldtitels-in-lakeside-finales.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Dallinga mist penalty bij verlies Toulouse, Zirkzee schiet Bologna naar plek vier",
     "subtitle": null,
     "published_at": "2023-12-10T19:09:03+01:00",
-    "updated_at": "2023-12-10T20:14:11+01:00",
+    "updated_at": "2023-12-10T23:06:19+01:00",
     "media_id": "fklx43wa4glv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6293457/bayer-leverkusen-profiteert-met-punt-in-topper-slechts-deels-van-offday-bayern.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293455,
-    "slug": "city-ontsnapt-in-luton-en-wint-eindelijk-weer-tottenham-droogt-newcastle-af",
-    "type": "article",
-    "title": "City ontsnapt in Luton en wint eindelijk weer, Tottenham droogt Newcastle af",
-    "subtitle": null,
-    "published_at": "2023-12-10T17:09:05+01:00",
-    "updated_at": "2023-12-10T19:45:56+01:00",
-    "media_id": "782xcceam13d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6293455/city-ontsnapt-in-luton-en-wint-eindelijk-weer-tottenham-droogt-newcastle-af.html",
     "open_new_window": false,
     "partner": null
   }
