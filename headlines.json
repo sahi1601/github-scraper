@@ -1,12 +1,35 @@
 [
   {
+    "id": 6293570,
+    "slug": "ibrahimovic-keert-als-adviseur-terug-bij-zijn-geliefde-ac-milan",
+    "type": "article",
+    "title": "Ibrahimovic keert als adviseur terug bij zijn geliefde AC Milan",
+    "subtitle": null,
+    "published_at": "2023-12-11T14:26:05+01:00",
+    "updated_at": "2023-12-11T14:26:07+01:00",
+    "media_id": "vpqxab1akbxu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6293570/ibrahimovic-keert-als-adviseur-terug-bij-zijn-geliefde-ac-milan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293566,
     "slug": "oscarwinnares-lupita-nyongo-nieuwe-juryvoorzitter-van-filmfestival-berlijn",
     "type": "article",
     "title": "Oscarwinnares Lupita Nyong'o nieuwe juryvoorzitter van filmfestival Berlijn",
     "subtitle": null,
     "published_at": "2023-12-11T14:18:29+01:00",
-    "updated_at": "2023-12-11T14:18:31+01:00",
+    "updated_at": "2023-12-11T14:20:16+01:00",
     "media_id": "qfbxxctatulm",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "PSV-trainer Bosz gunt wisselspelers speeltijd in CL-duel met Arsenal",
     "subtitle": null,
     "published_at": "2023-12-11T14:12:19+01:00",
-    "updated_at": "2023-12-11T14:12:21+01:00",
+    "updated_at": "2023-12-11T14:22:52+01:00",
     "media_id": "rd7x72sa50de",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6293530/ns-directeur-koolmees-biedt-excuses-aan-voor-roken-in-rookvrije-zone-bij-station.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293536,
-    "slug": "meerdere-zwaargewonden-na-instorten-lift-op-zweedse-bouwplaats",
-    "type": "article",
-    "title": "Meerdere zwaargewonden na instorten lift op Zweedse bouwplaats",
-    "subtitle": null,
-    "published_at": "2023-12-11T11:35:14+01:00",
-    "updated_at": "2023-12-11T11:35:15+01:00",
-    "media_id": "e4hxzruahgdu",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6293536/meerdere-zwaargewonden-na-instorten-lift-op-zweedse-bouwplaats.html",
     "open_new_window": false,
     "partner": null
   }
