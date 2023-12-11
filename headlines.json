@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293486,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-12-11T05:22:58+01:00",
+    "updated_at": "2023-12-11T05:22:59+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778843,
+      "slug": "login-vereist",
+      "type": "default",
+      "name": "login-vereist",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/login-vereist/6293486/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6292850,
     "slug": "de-beste-betaalbare-gamingmonitor-van-het-moment",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6293466/zwemster-giele-verrast-bij-ek-kortebaan-met-gedeeld-goud-op-50-vlinder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293464,
-    "slug": "fc-twente-vrouwen-blijft-ondanks-goal-van-lunteren-foutloos-in-eredivisie",
-    "type": "article",
-    "title": "FC Twente Vrouwen blijft ondanks goal Van Lunteren foutloos in Eredivisie",
-    "subtitle": null,
-    "published_at": "2023-12-10T18:58:00+01:00",
-    "updated_at": "2023-12-10T19:49:10+01:00",
-    "media_id": "5p8xieiadkzh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6293464/fc-twente-vrouwen-blijft-ondanks-goal-van-lunteren-foutloos-in-eredivisie.html",
     "open_new_window": false,
     "partner": null
   }
