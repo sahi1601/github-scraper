@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293569,
+    "slug": "nunl-zoekt-stagiair-ux-design-en-research",
+    "type": "article",
+    "title": "NU.nl zoekt stagiair UX Design en Research",
+    "subtitle": "Vacature",
+    "published_at": "2023-12-11T14:32:43+01:00",
+    "updated_at": "2023-12-11T14:32:43+01:00",
+    "media_id": "hkfx3ybae5vz",
+    "duration": null,
+    "canonical_section": {
+      "id": 1774574,
+      "slug": "vacatures",
+      "type": "default",
+      "name": "Vacatures bij NU.nl",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/vacatures/6293569/nunl-zoekt-stagiair-ux-design-en-research.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293570,
     "slug": "ibrahimovic-keert-als-adviseur-terug-bij-zijn-geliefde-ac-milan",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "PSV-trainer Bosz gunt wisselspelers speeltijd in CL-duel met Arsenal",
     "subtitle": null,
     "published_at": "2023-12-11T14:12:19+01:00",
-    "updated_at": "2023-12-11T14:22:52+01:00",
+    "updated_at": "2023-12-11T14:34:12+01:00",
     "media_id": "rd7x72sa50de",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Dieven stelen tientallen koperen platen van oorlogsgraven in België",
     "subtitle": null,
     "published_at": "2023-12-11T13:57:28+01:00",
-    "updated_at": "2023-12-11T13:57:29+01:00",
+    "updated_at": "2023-12-11T14:38:53+01:00",
     "media_id": "9mvxis5a3rxt",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "FC Volendam bedankt Jan Smit na breuk: 'Onze deur staat altijd voor je open'",
     "subtitle": null,
     "published_at": "2023-12-11T13:18:09+01:00",
-    "updated_at": "2023-12-11T13:53:32+01:00",
+    "updated_at": "2023-12-11T14:36:05+01:00",
     "media_id": "vpexrpbaccsp",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Oranjevrouwen treffen Spanje in Nations League bij jacht op olympisch ticket",
     "subtitle": null,
     "published_at": "2023-12-11T13:17:44+01:00",
-    "updated_at": "2023-12-11T13:46:07+01:00",
+    "updated_at": "2023-12-11T14:45:39+01:00",
     "media_id": "46pxm02aykb8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6293537/vogelgriep-doodt-bijna-duizend-zeehonden-en-zeeleeuwen-in-brazilie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293530,
-    "slug": "ns-directeur-koolmees-biedt-excuses-aan-voor-roken-in-rookvrije-zone-bij-station",
-    "type": "article",
-    "title": "NS-directeur Koolmees biedt excuses aan voor roken in rookvrije zone bij station",
-    "subtitle": null,
-    "published_at": "2023-12-11T11:43:54+01:00",
-    "updated_at": "2023-12-11T11:58:11+01:00",
-    "media_id": "2naxm48amsar",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6293530/ns-directeur-koolmees-biedt-excuses-aan-voor-roken-in-rookvrije-zone-bij-station.html",
     "open_new_window": false,
     "partner": null
   }
