@@ -1,12 +1,35 @@
 [
   {
+    "id": 6293669,
+    "slug": "frieslandcampina-schrapt-de-komende-jaren-zeker-achttienhonderd-banen",
+    "type": "article",
+    "title": "FrieslandCampina schrapt de komende jaren zeker achttienhonderd banen",
+    "subtitle": null,
+    "published_at": "2023-12-12T08:28:21+01:00",
+    "updated_at": "2023-12-12T08:42:23+01:00",
+    "media_id": "vqgxz3uazcur",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6293669/frieslandcampina-schrapt-de-komende-jaren-zeker-achttienhonderd-banen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293668,
     "slug": "jeroen-van-der-boom-geeft-op-13-december-2024-pianoshow-in-kleine-zaal-ahoy",
     "type": "article",
     "title": "Jeroen van der Boom geeft op 13 december 2024 pianoshow in kleine zaal Ahoy",
     "subtitle": null,
     "published_at": "2023-12-12T08:20:59+01:00",
-    "updated_at": "2023-12-12T08:21:01+01:00",
+    "updated_at": "2023-12-12T08:32:07+01:00",
     "media_id": "3zox8hla0vcj",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Turkse competitie stilgelegd na aanval op arbiter, Erdogan veroordeelt actie",
     "subtitle": null,
     "published_at": "2023-12-12T07:22:00+01:00",
-    "updated_at": "2023-12-12T07:30:05+01:00",
+    "updated_at": "2023-12-12T08:38:20+01:00",
     "media_id": "bjbx3mua9owz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6293586/candy-jacobs-na-olympisch-trauma-terug-in-tokio-de-lift-blijft-spannend.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293584,
-    "slug": "hier-strijden-psv-feyenoord-ajax-en-az-nog-om-in-hun-laatste-groepswedstrijd",
-    "type": "article",
-    "title": "Hier strijden PSV, Feyenoord, Ajax en AZ nog om in hun laatste groepswedstrijd",
-    "subtitle": null,
-    "published_at": "2023-12-12T05:05:37+01:00",
-    "updated_at": "2023-12-12T05:05:38+01:00",
-    "media_id": "5igx03pa4qon",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6293584/hier-strijden-psv-feyenoord-ajax-en-az-nog-om-in-hun-laatste-groepswedstrijd.html",
     "open_new_window": false,
     "partner": null
   }
