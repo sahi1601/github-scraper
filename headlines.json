@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293668,
+    "slug": "jeroen-van-der-boom-geeft-op-13-december-2024-pianoshow-in-kleine-zaal-ahoy",
+    "type": "article",
+    "title": "Jeroen van der Boom geeft op 13 december 2024 pianoshow in kleine zaal Ahoy",
+    "subtitle": null,
+    "published_at": "2023-12-12T08:20:59+01:00",
+    "updated_at": "2023-12-12T08:21:01+01:00",
+    "media_id": "3zox8hla0vcj",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6293668/jeroen-van-der-boom-geeft-op-13-december-2024-pianoshow-in-kleine-zaal-ahoy.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293667,
     "slug": "zac-efron-eert-matthew-perry-bij-onthulling-ster-denk-aan-je",
     "type": "video",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6293664,
-    "slug": "hockeyvrouwen-halen-uit-tegen-argentinie-mannen-pakken-bonuspunt-in-pro-league",
+    "slug": "hockeyvrouwen-halen-uit-tegen-argentinie-mannen-pakken-bonuspunt",
     "type": "article",
-    "title": "Hockeyvrouwen halen uit tegen Argentinië, mannen pakken bonuspunt in Pro League",
+    "title": "Hockeyvrouwen halen uit tegen Argentinië, mannen pakken bonuspunt",
     "subtitle": null,
     "published_at": "2023-12-12T07:53:55+01:00",
-    "updated_at": "2023-12-12T08:00:32+01:00",
+    "updated_at": "2023-12-12T08:13:48+01:00",
     "media_id": "suix45vazauq",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6293664/hockeyvrouwen-halen-uit-tegen-argentinie-mannen-pakken-bonuspunt-in-pro-league.html",
+    "url": "/sport-overig/6293664/hockeyvrouwen-halen-uit-tegen-argentinie-mannen-pakken-bonuspunt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6293584/hier-strijden-psv-feyenoord-ajax-en-az-nog-om-in-hun-laatste-groepswedstrijd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293546,
-    "slug": "we-komen-nooit-helemaal-van-de-ragout-af-in-het-kerstpakket",
-    "type": "article",
-    "title": "We komen nooit helemaal van de ragout af in het kerstpakket",
-    "subtitle": null,
-    "published_at": "2023-12-12T05:04:13+01:00",
-    "updated_at": "2023-12-12T06:19:12+01:00",
-    "media_id": "q85xswna2whw",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6293546/we-komen-nooit-helemaal-van-de-ragout-af-in-het-kerstpakket.html",
     "open_new_window": false,
     "partner": null
   }
