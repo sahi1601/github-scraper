@@ -1,13 +1,59 @@
 [
   {
-    "id": 6293779,
-    "slug": "flink-gewijzigd-psv-houdt-arsenal-op-gelijkspel-in-laatste-groepsduel-cl",
+    "id": 6293802,
+    "slug": "ruim-2500-huishoudens-in-groningen-horen-pas-volgend-jaar-of-hun-huis-veilig-is",
     "type": "article",
-    "title": "Flink gewijzigd PSV houdt Arsenal op gelijkspel in laatste groepsduel CL",
+    "title": "Ruim 2.500 huishoudens in Groningen horen pas volgend jaar of hun huis veilig is",
     "subtitle": null,
-    "published_at": "2023-12-12T20:41:27+01:00",
-    "updated_at": "2023-12-12T20:43:10+01:00",
-    "media_id": "0zwxhzmal0gx",
+    "published_at": "2023-12-12T21:07:34+01:00",
+    "updated_at": "2023-12-12T21:07:36+01:00",
+    "media_id": "gqcx31na47tn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6293802/ruim-2500-huishoudens-in-groningen-horen-pas-volgend-jaar-of-hun-huis-veilig-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293805,
+    "slug": "tweede-kamer-wil-oekraine-blijven-steunen-en-praten-over-toetreding-eu",
+    "type": "article",
+    "title": "Tweede Kamer wil Oekraïne blijven steunen en praten over toetreding EU",
+    "subtitle": null,
+    "published_at": "2023-12-12T21:02:43+01:00",
+    "updated_at": "2023-12-12T21:02:44+01:00",
+    "media_id": "zttxur0asa68",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771437,
+      "slug": "politiek",
+      "type": "default",
+      "name": "Politiek",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/politiek/6293805/tweede-kamer-wil-oekraine-blijven-steunen-en-praten-over-toetreding-eu.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293798,
+    "slug": "sevilla-kan-nieuw-europa-league-succes-vergeten-na-nederlaag-tegen-lens",
+    "type": "article",
+    "title": "Sevilla kan nieuw Europa League-succes vergeten na nederlaag tegen Lens",
+    "subtitle": null,
+    "published_at": "2023-12-12T20:54:43+01:00",
+    "updated_at": "2023-12-12T21:08:50+01:00",
+    "media_id": "59bx9mlauwsd",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -18,7 +64,30 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6293779/flink-gewijzigd-psv-houdt-arsenal-op-gelijkspel-in-laatste-groepsduel-cl.html",
+    "url": "/voetbal/6293798/sevilla-kan-nieuw-europa-league-succes-vergeten-na-nederlaag-tegen-lens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293779,
+    "slug": "sterk-psv-blijft-steken-op-gelijkspel-tegen-arsenal-in-laatste-groepsduel-cl",
+    "type": "article",
+    "title": "Sterk PSV blijft steken op gelijkspel tegen Arsenal in laatste groepsduel CL",
+    "subtitle": null,
+    "published_at": "2023-12-12T20:41:27+01:00",
+    "updated_at": "2023-12-12T21:07:27+01:00",
+    "media_id": "wfvxas3a9qy4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6293779/sterk-psv-blijft-steken-op-gelijkspel-tegen-arsenal-in-laatste-groepsduel-cl.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +98,7 @@
     "title": "Brits Lagerhuis akkoord met omstreden plan asielzoekers naar Rwanda te sturen",
     "subtitle": null,
     "published_at": "2023-12-12T20:41:19+01:00",
-    "updated_at": "2023-12-12T20:43:35+01:00",
+    "updated_at": "2023-12-12T20:50:51+01:00",
     "media_id": "9lnx22eadmbo",
     "duration": null,
     "canonical_section": {
@@ -52,7 +121,7 @@
     "title": "Duiker treft grote school hamerhaaien in Indonesië",
     "subtitle": "Video",
     "published_at": "2023-12-12T20:27:39+01:00",
-    "updated_at": "2023-12-12T20:27:39+01:00",
+    "updated_at": "2023-12-12T20:49:06+01:00",
     "media_id": "mvvx9e6axyfj",
     "duration": "0:46",
     "canonical_section": {
@@ -116,13 +185,13 @@
   },
   {
     "id": 6293796,
-    "slug": "live-wk-handbal-oranje-en-noorwegen-aan-elkaar-gewaagd-in-kwartfinales",
+    "slug": "live-wk-handbal-oranje-leeft-nog-na-knappe-comeback-tegen-noorwegen",
     "type": "article",
-    "title": "Live WK handbal | Oranje en Noorwegen aan elkaar gewaagd in kwartfinales",
+    "title": "Live WK handbal | Oranje leeft nog na knappe comeback tegen Noorwegen",
     "subtitle": null,
     "published_at": "2023-12-12T19:53:37+01:00",
-    "updated_at": "2023-12-12T20:43:35+01:00",
-    "media_id": "ykxxbloan2bo",
+    "updated_at": "2023-12-12T21:10:17+01:00",
+    "media_id": "ozfx8bwai0zg",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -133,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6293796/live-wk-handbal-oranje-en-noorwegen-aan-elkaar-gewaagd-in-kwartfinales.html",
+    "url": "/sport-overig/6293796/live-wk-handbal-oranje-leeft-nog-na-knappe-comeback-tegen-noorwegen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -323,13 +392,13 @@
   },
   {
     "id": 6293778,
-    "slug": "live-champions-league-reacties-na-knap-gelijkspel-psv-tegen-arsenal",
+    "slug": "live-champions-league-ten-hag-jaagt-met-united-op-goal-tegen-bayern",
     "type": "article",
-    "title": "Live Champions League | Reacties na knap gelijkspel PSV tegen Arsenal",
+    "title": "Live Champions League | Ten Hag jaagt met United op goal tegen Bayern",
     "subtitle": null,
     "published_at": "2023-12-12T18:10:56+01:00",
-    "updated_at": "2023-12-12T20:40:47+01:00",
-    "media_id": "wfvxas3a9qy4",
+    "updated_at": "2023-12-12T21:14:08+01:00",
+    "media_id": "d5tx44lagzev",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -340,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6293778/live-champions-league-reacties-na-knap-gelijkspel-psv-tegen-arsenal.html",
+    "url": "/voetbal/6293778/live-champions-league-ten-hag-jaagt-met-united-op-goal-tegen-bayern.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6293762/psv-begint-flink-gewijzigd-aan-champions-league-wedstrijd-tegen-arsenal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293769,
-    "slug": "arrestaties-en-1-miljoen-euro-cash-gevonden-in-internationaal-drugsonderzoek",
-    "type": "article",
-    "title": "Arrestaties en 1 miljoen euro cash gevonden in internationaal drugsonderzoek",
-    "subtitle": null,
-    "published_at": "2023-12-12T17:43:20+01:00",
-    "updated_at": "2023-12-12T17:43:23+01:00",
-    "media_id": "0lpxpqtat369",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6293769/arrestaties-en-1-miljoen-euro-cash-gevonden-in-internationaal-drugsonderzoek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293749,
-    "slug": "maak-jij-je-zorgen-om-het-verhoogde-dreigingsniveau",
-    "type": "article",
-    "title": "Maak jij je zorgen om het verhoogde dreigingsniveau?",
-    "subtitle": "Praat Mee",
-    "published_at": "2023-12-12T17:33:38+01:00",
-    "updated_at": "2023-12-12T17:33:40+01:00",
-    "media_id": "z2mxxvka1voz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6293749/maak-jij-je-zorgen-om-het-verhoogde-dreigingsniveau.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293763,
-    "slug": "eu-verlengt-verbod-op-vissen-op-paling-en-beperkt-ook-vangst-van-tong",
-    "type": "article",
-    "title": "EU verlengt verbod op vissen op paling en beperkt ook vangst van tong",
-    "subtitle": null,
-    "published_at": "2023-12-12T17:27:22+01:00",
-    "updated_at": "2023-12-12T17:27:24+01:00",
-    "media_id": "ubfxukuaekgi",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6293763/eu-verlengt-verbod-op-vissen-op-paling-en-beperkt-ook-vangst-van-tong.html",
     "open_new_window": false,
     "partner": null
   }
