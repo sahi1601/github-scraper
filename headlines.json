@@ -1,12 +1,58 @@
 [
   {
+    "id": 6293757,
+    "slug": "juicevlogger-yvonne-coldeweijer-voor-het-eerst-moeder-geworden",
+    "type": "article",
+    "title": "Juicevlogger Yvonne Coldeweijer voor het eerst moeder geworden",
+    "subtitle": null,
+    "published_at": "2023-12-12T17:10:45+01:00",
+    "updated_at": "2023-12-12T17:11:15+01:00",
+    "media_id": "l38xwvga7dhn",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6293757/juicevlogger-yvonne-coldeweijer-voor-het-eerst-moeder-geworden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293756,
+    "slug": "twee-in-water-gevonden-lichamen-waren-passagiers-dodelijk-auto-ongeluk-delft",
+    "type": "article",
+    "title": "Twee in water gevonden lichamen waren passagiers dodelijk auto-ongeluk Delft",
+    "subtitle": null,
+    "published_at": "2023-12-12T16:50:22+01:00",
+    "updated_at": "2023-12-12T16:59:39+01:00",
+    "media_id": "6r4xqznaf2r1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6293756/twee-in-water-gevonden-lichamen-waren-passagiers-dodelijk-auto-ongeluk-delft.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293754,
     "slug": "juventus-icoon-giorgio-chiellini-39-beeindigt-voetballoopbaan-een-intense-reis",
     "type": "article",
     "title": "Juventus-icoon Giorgio Chiellini (39) beëindigt voetballoopbaan: 'Een intense reis'",
     "subtitle": null,
     "published_at": "2023-12-12T16:45:11+01:00",
-    "updated_at": "2023-12-12T16:45:12+01:00",
+    "updated_at": "2023-12-12T17:10:47+01:00",
     "media_id": "3l8x1bbakp3z",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Gemeenten mogen leraar en agent voorrang geven op huizenmarkt",
     "subtitle": null,
     "published_at": "2023-12-12T16:15:13+01:00",
-    "updated_at": "2023-12-12T16:39:57+01:00",
+    "updated_at": "2023-12-12T17:03:54+01:00",
     "media_id": "8ovxc83amhlf",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Welke vragen heb jij over het verhoogde dreigingsniveau?",
     "subtitle": "Oproep",
     "published_at": "2023-12-12T16:06:34+01:00",
-    "updated_at": "2023-12-12T16:06:35+01:00",
+    "updated_at": "2023-12-12T16:50:58+01:00",
     "media_id": "53hx6iyagvko",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Terrorismedreiging in Nederland naar een-na-hoogste niveau: 'Reële kans op aanslag'",
     "subtitle": null,
     "published_at": "2023-12-12T15:59:54+01:00",
-    "updated_at": "2023-12-12T16:19:16+01:00",
+    "updated_at": "2023-12-12T16:49:08+01:00",
     "media_id": "pl6x9v7axkff",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6293727/boot-met-zingende-voetbalfans-botst-tegen-brug-in-londen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293562,
-    "slug": "vn-onderzoekt-huisvesting-in-nederland-dit-moet-je-weten",
-    "type": "article",
-    "title": "VN onderzoekt huisvesting in Nederland: dit moet je weten",
-    "subtitle": "NU+",
-    "published_at": "2023-12-12T14:04:16+01:00",
-    "updated_at": "2023-12-12T14:22:34+01:00",
-    "media_id": "3laxmcgad13y",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6293562/vn-onderzoekt-huisvesting-in-nederland-dit-moet-je-weten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293723,
-    "slug": "wielertalent-uijtdebroeks-traint-ondanks-geschil-met-bora-al-mee-bij-visma",
-    "type": "article",
-    "title": "Wielertalent Uijtdebroeks traint ondanks geschil met BORA al mee bij Visma",
-    "subtitle": null,
-    "published_at": "2023-12-12T13:59:44+01:00",
-    "updated_at": "2023-12-12T16:07:05+01:00",
-    "media_id": "lk9x9mea45wf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6293723/wielertalent-uijtdebroeks-traint-ondanks-geschil-met-bora-al-mee-bij-visma.html",
     "open_new_window": false,
     "partner": null
   }
