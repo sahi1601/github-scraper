@@ -1,13 +1,36 @@
 [
   {
+    "id": 6293873,
+    "slug": "wat-zijn-juicevloggers-precies-en-wat-doen-ze",
+    "type": "article",
+    "title": "Wat zijn juicevloggers precies en wat doen ze?",
+    "subtitle": "In 100 woorden",
+    "published_at": "2023-12-13T20:22:31+01:00",
+    "updated_at": "2023-12-13T20:23:05+01:00",
+    "media_id": "ni6xh2fazjmc",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6293873/wat-zijn-juicevloggers-precies-en-wat-doen-ze.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293944,
     "slug": "verdediger-beelen-maakt-champions-league-debuut-voor-feyenoord-tegen-celtic",
     "type": "article",
     "title": "Verdediger Beelen maakt Champions League-debuut voor Feyenoord tegen Celtic",
     "subtitle": null,
     "published_at": "2023-12-13T20:06:11+01:00",
-    "updated_at": "2023-12-13T20:10:43+01:00",
-    "media_id": "dxrx5d1avkz1",
+    "updated_at": "2023-12-13T20:26:12+01:00",
+    "media_id": "7ctx1abagjtn",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -47,12 +70,12 @@
   },
   {
     "id": 6293943,
-    "slug": "vermeende-verkrachter-maxime-meiland-spant-kort-geding-aan",
+    "slug": "vermeende-verkrachter-van-maxime-meiland-spant-kort-geding-aan",
     "type": "article",
-    "title": "Vermeende verkrachter Maxime Meiland spant kort geding aan",
+    "title": "Vermeende verkrachter van Maxime Meiland spant kort geding aan",
     "subtitle": null,
     "published_at": "2023-12-13T19:46:46+01:00",
-    "updated_at": "2023-12-13T19:46:49+01:00",
+    "updated_at": "2023-12-13T20:13:43+01:00",
     "media_id": "7rexse6aqckg",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/achterklap/6293943/vermeende-verkrachter-maxime-meiland-spant-kort-geding-aan.html",
+    "url": "/achterklap/6293943/vermeende-verkrachter-van-maxime-meiland-spant-kort-geding-aan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Nederlands F4-team wil zoon Jan Lammers richting F1 helpen: 'Reusachtig talent'",
     "subtitle": null,
     "published_at": "2023-12-13T19:28:12+01:00",
-    "updated_at": "2023-12-13T19:32:41+01:00",
+    "updated_at": "2023-12-13T20:20:02+01:00",
     "media_id": "8uix7fnaowin",
     "duration": null,
     "canonical_section": {
@@ -369,12 +392,12 @@
   },
   {
     "id": 6293923,
-    "slug": "trump-wordt-toch-wel-vervolgd-in-smaadzaak-schrijfster",
+    "slug": "trump-geniet-geen-immuniteit-en-wordt-gewoon-vervolgd-in-smaadzaak-schrijfster",
     "type": "article",
-    "title": "Trump wordt toch wel vervolgd in smaadzaak schrijfster",
+    "title": "Trump geniet geen immuniteit en wordt gewoon vervolgd in smaadzaak schrijfster",
     "subtitle": null,
     "published_at": "2023-12-13T17:31:01+01:00",
-    "updated_at": "2023-12-13T19:19:00+01:00",
+    "updated_at": "2023-12-13T20:21:34+01:00",
     "media_id": "0jqx2v6a7ii8",
     "duration": null,
     "canonical_section": {
@@ -386,7 +409,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6293923/trump-wordt-toch-wel-vervolgd-in-smaadzaak-schrijfster.html",
+    "url": "/buitenland/6293923/trump-geniet-geen-immuniteit-en-wordt-gewoon-vervolgd-in-smaadzaak-schrijfster.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6293920/als-we-niks-doen-crashen-alle-computers-in-2038-dit-kunnen-we-doen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293912,
-    "slug": "nieuwe-sp-leider-dijk-begrijpt-stemmen-op-pvv-maar-die-horen-bij-ons",
-    "type": "article",
-    "title": "Nieuwe SP-leider Dijk begrijpt stemmen op PVV: 'Maar die horen bij ons'",
-    "subtitle": "NU+",
-    "published_at": "2023-12-13T17:04:12+01:00",
-    "updated_at": "2023-12-13T17:34:23+01:00",
-    "media_id": "w8px3bramtbi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6293912/nieuwe-sp-leider-dijk-begrijpt-stemmen-op-pvv-maar-die-horen-bij-ons.html",
     "open_new_window": false,
     "partner": null
   }
