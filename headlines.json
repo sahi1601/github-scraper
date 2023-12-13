@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293874,
+    "slug": "geslagen-turkse-scheidsrechter-verlaat-ziekenhuis-na-36-uur-met-blauw-oog",
+    "type": "article",
+    "title": "Geslagen Turkse scheidsrechter verlaat ziekenhuis na 36 uur met blauw oog",
+    "subtitle": null,
+    "published_at": "2023-12-13T11:41:04+01:00",
+    "updated_at": "2023-12-13T11:41:05+01:00",
+    "media_id": "qojxa7maopcu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6293874/geslagen-turkse-scheidsrechter-verlaat-ziekenhuis-na-36-uur-met-blauw-oog.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293866,
     "slug": "troye-sivan-verplaatst-concert-naar-ziggo-dome-vanwege-populariteit",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Nederlands elftal verblijft tijdens EK van komende zomer in Wolfsburg",
     "subtitle": null,
     "published_at": "2023-12-13T11:11:15+01:00",
-    "updated_at": "2023-12-13T11:11:16+01:00",
+    "updated_at": "2023-12-13T11:34:44+01:00",
     "media_id": "l1sxa7mafwfr",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Transavia krijgt dwangsom vanwege nachtelijke landingen op Rotterdam Airport",
     "subtitle": null,
     "published_at": "2023-12-13T10:52:58+01:00",
-    "updated_at": "2023-12-13T11:15:01+01:00",
+    "updated_at": "2023-12-13T11:41:19+01:00",
     "media_id": "cu9x074at9a4",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Loodgietersbedrijf Vlaardingen mogelijk voor zevende keer doelwit van explosie",
     "subtitle": null,
     "published_at": "2023-12-13T10:36:13+01:00",
-    "updated_at": "2023-12-13T11:29:09+01:00",
+    "updated_at": "2023-12-13T11:35:32+01:00",
     "media_id": "jwkxihoarhjk",
     "duration": null,
     "canonical_section": {
@@ -208,13 +231,13 @@
   },
   {
     "id": 6293850,
-    "slug": "liveblog-formatie-wilders-draagt-verkenner-plasterk-voor-als-informateur",
+    "slug": "liveblog-formatie-timmermans-noemt-wilders-bedreiging-voor-rechtsstaat",
     "type": "article",
-    "title": "Liveblog formatie | Wilders draagt verkenner Plasterk voor als informateur",
+    "title": "Liveblog formatie | Timmermans noemt Wilders bedreiging voor rechtsstaat",
     "subtitle": null,
     "published_at": "2023-12-13T10:26:42+01:00",
-    "updated_at": "2023-12-13T10:47:00+01:00",
-    "media_id": "dejxryla9kh3",
+    "updated_at": "2023-12-13T11:38:36+01:00",
+    "media_id": "7ddx3uqahb6e",
     "duration": null,
     "canonical_section": {
       "id": 1779337,
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formatie-2023/6293850/liveblog-formatie-wilders-draagt-verkenner-plasterk-voor-als-informateur.html",
+    "url": "/formatie-2023/6293850/liveblog-formatie-timmermans-noemt-wilders-bedreiging-voor-rechtsstaat.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6293838/politie-onderzoekt-garagedeur-na-nieuwe-explosie-in-vlaardingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293835,
-    "slug": "of-pensioen-volgend-jaar-meestijgt-met-de-inflatie-hangt-sterk-af-van-fonds",
-    "type": "article",
-    "title": "Of pensioen volgend jaar meestijgt met de inflatie hangt sterk af van fonds",
-    "subtitle": null,
-    "published_at": "2023-12-13T08:44:38+01:00",
-    "updated_at": "2023-12-13T11:24:19+01:00",
-    "media_id": "4guxolyaugp5",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6293835/of-pensioen-volgend-jaar-meestijgt-met-de-inflatie-hangt-sterk-af-van-fonds.html",
     "open_new_window": false,
     "partner": null
   }
