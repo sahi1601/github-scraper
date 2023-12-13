@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293851,
+    "slug": "kamer-debatteert-over-verkiezingsuitslag-en-verslag-plasterk",
+    "type": "video",
+    "title": "Kamer debatteert over verkiezingsuitslag en verslag Plasterk",
+    "subtitle": "Video",
+    "published_at": "2023-12-13T10:20:46+01:00",
+    "updated_at": "2023-12-13T10:21:51+01:00",
+    "media_id": "wq9xy8la5r8w",
+    "duration": "0:01",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6293851/kamer-debatteert-over-verkiezingsuitslag-en-verslag-plasterk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293848,
     "slug": "zwetsloot-overtuigend-door-op-wk-skateboarden-vroege-exit-jacobs",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Chemours moet weer vrezen voor boete vanwege te hoge uitstoot schadelijke stof",
     "subtitle": null,
     "published_at": "2023-12-13T09:09:48+01:00",
-    "updated_at": "2023-12-13T09:09:49+01:00",
+    "updated_at": "2023-12-13T10:22:30+01:00",
     "media_id": "ebax5nsas1wl",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Of pensioen volgend jaar meestijgt met de inflatie hangt sterk af van fonds",
     "subtitle": null,
     "published_at": "2023-12-13T08:44:38+01:00",
-    "updated_at": "2023-12-13T09:53:41+01:00",
+    "updated_at": "2023-12-13T10:15:22+01:00",
     "media_id": "4guxolyaugp5",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/weerbericht/6293822/zet-je-schrap-voor-opnieuw-een-regenachtige-en-grijze-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293753,
-    "slug": "vs-bezorgd-gebruikt-israel-amerikaanse-witte-fosfor-tegen-burgers",
-    "type": "video",
-    "title": "VS bezorgd: gebruikt Israël Amerikaanse witte fosfor tegen burgers?",
-    "subtitle": "Explainer",
-    "published_at": "2023-12-13T06:01:11+01:00",
-    "updated_at": "2023-12-13T06:01:12+01:00",
-    "media_id": "ivxxagianvqr",
-    "duration": "2:01",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6293753/vs-bezorgd-gebruikt-israel-amerikaanse-witte-fosfor-tegen-burgers.html",
     "open_new_window": false,
     "partner": null
   }
