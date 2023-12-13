@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293837,
+    "slug": "historisch-akkoord-klimaattop-over-fossiele-brandstoffen-is-ook-teleurstellend",
+    "type": "article",
+    "title": "'Historisch' akkoord klimaattop over fossiele brandstoffen is ook 'teleurstellend'",
+    "subtitle": null,
+    "published_at": "2023-12-13T09:27:40+01:00",
+    "updated_at": "2023-12-13T09:27:42+01:00",
+    "media_id": "neaxdfqacfjk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6293837/historisch-akkoord-klimaattop-over-fossiele-brandstoffen-is-ook-teleurstellend.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293828,
     "slug": "chemours-moet-weer-vrezen-voor-boete-vanwege-te-hoge-uitstoot-schadelijke-stof",
     "type": "article",
@@ -213,7 +236,7 @@
     "title": "Windparken in najaar drie keer stilgezet om vogels veilig langs te laten vliegen",
     "subtitle": null,
     "published_at": "2023-12-13T08:01:07+01:00",
-    "updated_at": "2023-12-13T08:01:08+01:00",
+    "updated_at": "2023-12-13T09:22:54+01:00",
     "media_id": "2d2xtyqa3wm0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6293819/lieve-vertessen-laat-zich-zien-bij-psv-moet-nu-mijn-kans-grijpen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293774,
-    "slug": "co2-uitstoot-gedaald-door-minder-gebruik-van-steenkolen",
-    "type": "article",
-    "title": "CO2-uitstoot gedaald door minder gebruik van steenkolen",
-    "subtitle": null,
-    "published_at": "2023-12-13T05:15:46+01:00",
-    "updated_at": "2023-12-13T07:25:20+01:00",
-    "media_id": "j75xql1acspc",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6293774/co2-uitstoot-gedaald-door-minder-gebruik-van-steenkolen.html",
     "open_new_window": false,
     "partner": null
   }
