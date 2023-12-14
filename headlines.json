@@ -1,5 +1,28 @@
 [
   {
+    "id": 6294031,
+    "slug": "tientallen-bezoekers-zitten-vast-in-achtbaan-in-japan",
+    "type": "video",
+    "title": "Tientallen bezoekers zitten vast in achtbaan in Japan",
+    "subtitle": "Video",
+    "published_at": "2023-12-14T12:15:29+01:00",
+    "updated_at": "2023-12-14T12:15:31+01:00",
+    "media_id": "5p7xc7lag0in",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6294031/tientallen-bezoekers-zitten-vast-in-achtbaan-in-japan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6293997,
     "slug": "meer-controle-op-kinderarbeid-en-milieuvervuiling-bij-europese-bedrijven",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Instagrams alternatief voor X is eindelijk beschikbaar in Nederland",
     "subtitle": null,
     "published_at": "2023-12-14T12:08:05+01:00",
-    "updated_at": "2023-12-14T12:08:06+01:00",
+    "updated_at": "2023-12-14T12:23:38+01:00",
     "media_id": "x1kxjxbaijk6",
     "duration": null,
     "canonical_section": {
@@ -116,12 +139,12 @@
   },
   {
     "id": 6294030,
-    "slug": "oud-hockeyer-paul-litjens-topscorer-aller-tijden-van-oranje-op-76-jarige-leeftijd-overleden",
+    "slug": "paul-litjens-topscorer-aller-tijden-oranjehockeyers-op-76-jarige-leeftijd-overleden",
     "type": "article",
-    "title": "Oud-hockeyer Paul Litjens, topscorer aller tijden van Oranje, op 76-jarige leeftijd overleden",
+    "title": "Paul Litjens, topscorer aller tijden Oranjehockeyers, op 76-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2023-12-14T11:56:27+01:00",
-    "updated_at": "2023-12-14T12:10:56+01:00",
+    "updated_at": "2023-12-14T12:21:02+01:00",
     "media_id": "weexkoda3nak",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6294030/oud-hockeyer-paul-litjens-topscorer-aller-tijden-van-oranje-op-76-jarige-leeftijd-overleden.html",
+    "url": "/sport-overig/6294030/paul-litjens-topscorer-aller-tijden-oranjehockeyers-op-76-jarige-leeftijd-overleden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Nagenoeg alle salarissen omhoog in 2024, stijging het grootst bij mensen met minimumloon",
     "subtitle": null,
     "published_at": "2023-12-14T09:51:48+01:00",
-    "updated_at": "2023-12-14T11:33:51+01:00",
+    "updated_at": "2023-12-14T12:24:17+01:00",
     "media_id": "ljvx6anacbwq",
     "duration": null,
     "canonical_section": {
@@ -374,8 +397,8 @@
     "title": "Aantal jongeren op de woningmarkt stijgt: 'Starters zijn steeds actiever'",
     "subtitle": null,
     "published_at": "2023-12-14T09:25:52+01:00",
-    "updated_at": "2023-12-14T09:25:53+01:00",
-    "media_id": "iqxxohnag3ag",
+    "updated_at": "2023-12-14T12:21:20+01:00",
+    "media_id": "6vkx632awubz",
     "duration": null,
     "canonical_section": {
       "id": 99,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6293988/chihuahua-rent-over-drukke-snelweg-in-new-york.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293703,
-    "slug": "waarom-een-klimaatschadefonds-hard-nodig-is-dit-dorp-was-een-paradijs",
-    "type": "article",
-    "title": "Waarom een klimaatschadefonds hard nodig is: 'Dit dorp was een paradijs'",
-    "subtitle": "NU+",
-    "published_at": "2023-12-14T08:58:27+01:00",
-    "updated_at": "2023-12-14T12:07:52+01:00",
-    "media_id": "jy2xkgua3slf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6293703/waarom-een-klimaatschadefonds-hard-nodig-is-dit-dorp-was-een-paradijs.html",
     "open_new_window": false,
     "partner": null
   }
