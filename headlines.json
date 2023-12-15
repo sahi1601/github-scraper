@@ -1,5 +1,28 @@
 [
   {
+    "id": 6294149,
+    "slug": "handhaven-lokale-vuurwerkregels-is-voor-veel-gemeenten-vrijwel-onmogelijk",
+    "type": "article",
+    "title": "Handhaven lokale vuurwerkregels is voor veel gemeenten vrijwel onmogelijk",
+    "subtitle": null,
+    "published_at": "2023-12-15T09:21:46+01:00",
+    "updated_at": "2023-12-15T09:21:47+01:00",
+    "media_id": "9lbxo90avjye",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6294149/handhaven-lokale-vuurwerkregels-is-voor-veel-gemeenten-vrijwel-onmogelijk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294150,
     "slug": "steenkoolverbruik-piekte-in-2023-maar-daalt-vanaf-volgend-jaar",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6294153,
-    "slug": "george-clooney-oceans-11-krijgt-nog-een-vervolg",
+    "slug": "george-clooney-oceans-eleven-krijgt-nog-een-vervolg",
     "type": "article",
-    "title": "George Clooney: 'Ocean's 11 krijgt nog een vervolg'",
+    "title": "George Clooney: 'Ocean's Eleven krijgt nog een vervolg'",
     "subtitle": null,
     "published_at": "2023-12-15T08:57:26+01:00",
-    "updated_at": "2023-12-15T08:57:27+01:00",
+    "updated_at": "2023-12-15T09:26:11+01:00",
     "media_id": "cg9xze0a87bk",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/film/6294153/george-clooney-oceans-11-krijgt-nog-een-vervolg.html",
+    "url": "/film/6294153/george-clooney-oceans-eleven-krijgt-nog-een-vervolg.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Hato vernam via de media dat hij jongste Ajax-aanvoerder ooit zou worden",
     "subtitle": null,
     "published_at": "2023-12-15T08:13:38+01:00",
-    "updated_at": "2023-12-15T09:10:55+01:00",
+    "updated_at": "2023-12-15T09:21:31+01:00",
     "media_id": "he2x6w0aanpg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6294135/geen-besluit-over-eu-miljarden-voor-oekraine-gesprekken-in-januari-verder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294129,
-    "slug": "groeiende-zorgen-om-burgers-gaza-voor-israel-geen-reden-om-strijd-te-staken",
-    "type": "article",
-    "title": "Groeiende zorgen om burgers Gaza voor Israël geen reden om strijd te staken",
-    "subtitle": null,
-    "published_at": "2023-12-15T00:33:55+01:00",
-    "updated_at": "2023-12-15T07:48:55+01:00",
-    "media_id": "urhx9knauyzt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Oorlog Israël en Hamas",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6294129/groeiende-zorgen-om-burgers-gaza-voor-israel-geen-reden-om-strijd-te-staken.html",
     "open_new_window": false,
     "partner": null
   }
