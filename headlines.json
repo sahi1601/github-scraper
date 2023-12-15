@@ -1,5 +1,28 @@
 [
   {
+    "id": 6294286,
+    "slug": "lufthansa-gaat-in-januari-weer-op-tel-aviv-vliegen",
+    "type": "article",
+    "title": "Lufthansa gaat in januari weer op Tel Aviv vliegen",
+    "subtitle": null,
+    "published_at": "2023-12-15T18:48:12+01:00",
+    "updated_at": "2023-12-15T18:50:55+01:00",
+    "media_id": "osbxd9fatpeq",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6294286/lufthansa-gaat-in-januari-weer-op-tel-aviv-vliegen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294282,
     "slug": "tabaksfabrikant-bat-krijgt-megaboete-in-nederland-vanwege-onjuiste-aangifte",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Verdachte in zaak rond belaagde PowNed-journalisten op Ameland vrijgelaten",
     "subtitle": null,
     "published_at": "2023-12-15T18:37:39+01:00",
-    "updated_at": "2023-12-15T18:37:40+01:00",
+    "updated_at": "2023-12-15T18:48:12+01:00",
     "media_id": "debxq06azg9i",
     "duration": null,
     "canonical_section": {
@@ -52,8 +75,8 @@
     "title": "Skeletonster Kimberley Bos boekt in Innsbruck eerste wereldbekerzege van seizoen",
     "subtitle": null,
     "published_at": "2023-12-15T18:36:46+01:00",
-    "updated_at": "2023-12-15T18:40:28+01:00",
-    "media_id": "u7cxpoba9jk7",
+    "updated_at": "2023-12-15T18:49:46+01:00",
+    "media_id": "1iqxj17andba",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -75,7 +98,7 @@
     "title": "GGD adviseert om niets te eten uit omgeving vliegveld Rotterdam vanwege pfas",
     "subtitle": null,
     "published_at": "2023-12-15T18:36:32+01:00",
-    "updated_at": "2023-12-15T18:36:35+01:00",
+    "updated_at": "2023-12-15T18:44:47+01:00",
     "media_id": "hrtxetua3un2",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Maersk vaart niet meer over Rode Zee na twee aanvallen op containerschepen",
     "subtitle": null,
     "published_at": "2023-12-15T16:58:33+01:00",
-    "updated_at": "2023-12-15T17:23:20+01:00",
+    "updated_at": "2023-12-15T18:58:37+01:00",
     "media_id": "xtux4cta7ys1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6294251/handbalsters-winnen-zonder-polman-en-spelen-tegen-duitsland-om-vijfde-plaats.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294248,
-    "slug": "ten-hag-vreest-niet-voor-ontslag-bij-manchester-united-ik-maak-me-geen-zorgen",
-    "type": "article",
-    "title": "Ten Hag vreest niet voor ontslag bij Manchester United: 'Ik maak me geen zorgen'",
-    "subtitle": null,
-    "published_at": "2023-12-15T16:20:12+01:00",
-    "updated_at": "2023-12-15T16:58:30+01:00",
-    "media_id": "tq1xunfa443j",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6294248/ten-hag-vreest-niet-voor-ontslag-bij-manchester-united-ik-maak-me-geen-zorgen.html",
     "open_new_window": false,
     "partner": null
   }
