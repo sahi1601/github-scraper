@@ -1,5 +1,28 @@
 [
   {
+    "id": 6293879,
+    "slug": "wetenschappers-adviseren-kabinet-versneld-klimaatbeleid-biedt-kansen",
+    "type": "article",
+    "title": "Wetenschappers adviseren kabinet: 'Versneld klimaatbeleid biedt kansen'",
+    "subtitle": null,
+    "published_at": "2023-12-15T17:30:31+01:00",
+    "updated_at": "2023-12-15T17:30:32+01:00",
+    "media_id": "indxa1eaz11q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6293879/wetenschappers-adviseren-kabinet-versneld-klimaatbeleid-biedt-kansen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294264,
     "slug": "hoofd-van-et-verkocht-op-veiling-voor-635000-dollar",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Israël staat toe dat hulpgoederen via tweede grensovergang Gaza ingaan",
     "subtitle": null,
     "published_at": "2023-12-15T17:00:11+01:00",
-    "updated_at": "2023-12-15T17:13:42+01:00",
+    "updated_at": "2023-12-15T17:22:55+01:00",
     "media_id": "631xiszasi56",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6294265,
-    "slug": "maersk-vaart-niet-meer-door-rode-zee-na-twee-aanvallen-op-containerschepen",
+    "slug": "maersk-vaart-niet-meer-over-rode-zee-na-twee-aanvallen-op-containerschepen",
     "type": "article",
-    "title": "Maersk vaart niet meer door Rode Zee na twee aanvallen op containerschepen",
+    "title": "Maersk vaart niet meer over Rode Zee na twee aanvallen op containerschepen",
     "subtitle": null,
     "published_at": "2023-12-15T16:58:33+01:00",
-    "updated_at": "2023-12-15T16:58:34+01:00",
+    "updated_at": "2023-12-15T17:23:20+01:00",
     "media_id": "xtux4cta7ys1",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6294265/maersk-vaart-niet-meer-door-rode-zee-na-twee-aanvallen-op-containerschepen.html",
+    "url": "/economie/6294265/maersk-vaart-niet-meer-over-rode-zee-na-twee-aanvallen-op-containerschepen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6294226/tbs-met-dwangverpleging-voor-vrouw-die-haar-baby-uit-raam-gooide-in-den-haag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294225,
-    "slug": "huurprijs-in-vrije-sector-mag-volgend-jaar-55-procent-omhoog",
-    "type": "article",
-    "title": "Huurprijs in vrije sector mag volgend jaar 5,5 procent omhoog",
-    "subtitle": null,
-    "published_at": "2023-12-15T15:00:12+01:00",
-    "updated_at": "2023-12-15T15:37:00+01:00",
-    "media_id": "iswxmvoaazmb",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6294225/huurprijs-in-vrije-sector-mag-volgend-jaar-55-procent-omhoog.html",
     "open_new_window": false,
     "partner": null
   }
