@@ -1,5 +1,51 @@
 [
   {
+    "id": 6294307,
+    "slug": "juventus-grijpt-naast-koppositie-door-goal-gudmundsson-tottenham-ontsnapt",
+    "type": "article",
+    "title": "Juventus grijpt naast koppositie door goal Gudmundsson, Tottenham ontsnapt",
+    "subtitle": null,
+    "published_at": "2023-12-15T23:11:38+01:00",
+    "updated_at": "2023-12-15T23:11:39+01:00",
+    "media_id": "93dxst0aqyhs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6294307/juventus-grijpt-naast-koppositie-door-goal-gudmundsson-tottenham-ontsnapt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6294306,
+    "slug": "nieuwe-europese-wet-moet-journalisten-beter-gaan-beschermen",
+    "type": "article",
+    "title": "Nieuwe Europese wet moet journalisten beter gaan beschermen",
+    "subtitle": null,
+    "published_at": "2023-12-15T22:46:36+01:00",
+    "updated_at": "2023-12-15T23:09:19+01:00",
+    "media_id": "4hexpngagtaq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6294306/nieuwe-europese-wet-moet-journalisten-beter-gaan-beschermen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294304,
     "slug": "dronebeelden-tonen-enorme-schade-na-brand-strandpaviljoen-ijmuiden",
     "type": "video",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6294279/nederlander-schalk-schiet-urawa-naar-halve-finale-tegen-city-op-wk-voor-clubs.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294278,
-    "slug": "huilende-stiefdochter-max-verstappen-onderbreekt-livestream",
-    "type": "video",
-    "title": "Huilende stiefdochter Max Verstappen onderbreekt livestream",
-    "subtitle": "Video",
-    "published_at": "2023-12-15T18:11:16+01:00",
-    "updated_at": "2023-12-15T18:23:36+01:00",
-    "media_id": "bc7xtrsafqbw",
-    "duration": "0:50",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6294278/huilende-stiefdochter-max-verstappen-onderbreekt-livestream.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294254,
-    "slug": "rtl-mocht-niet-met-talpa-samen-waarom-zou-het-wel-met-dpg-kunnen",
-    "type": "article",
-    "title": "RTL mocht niet met Talpa samen: waarom zou het wel met DPG kunnen?",
-    "subtitle": "NU+",
-    "published_at": "2023-12-15T18:02:14+01:00",
-    "updated_at": "2023-12-15T18:22:49+01:00",
-    "media_id": "b4sxl6uaweyg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6294254/rtl-mocht-niet-met-talpa-samen-waarom-zou-het-wel-met-dpg-kunnen.html",
     "open_new_window": false,
     "partner": null
   }
