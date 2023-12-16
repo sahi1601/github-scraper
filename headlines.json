@@ -1,5 +1,28 @@
 [
   {
+    "id": 6294360,
+    "slug": "zangeres-leigh-anne-little-mix-komt-zeker-weer-bij-elkaar",
+    "type": "article",
+    "title": "Zangeres Leigh-Anne: ‘Little Mix komt zeker weer bij elkaar’",
+    "subtitle": null,
+    "published_at": "2023-12-16T11:20:34+01:00",
+    "updated_at": "2023-12-16T11:20:35+01:00",
+    "media_id": "pd4x6hua5o2t",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6294360/zangeres-leigh-anne-little-mix-komt-zeker-weer-bij-elkaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294247,
     "slug": "ik-bezuinig-op-kerstinkopen-vanwege-de-hogere-prijzen",
     "type": "article",
@@ -231,12 +254,12 @@
   },
   {
     "id": 6294333,
-    "slug": "nederlanders-kopen-steeds-meer-kerstkaarten-met-lampjes-muzien-en-glitters",
+    "slug": "nederlanders-kopen-steeds-meer-kerstkaarten-met-lampjes-muziek-en-glitters",
     "type": "article",
-    "title": "Nederlanders kopen steeds meer kerstkaarten met lampjes, muzien en glitters",
+    "title": "Nederlanders kopen steeds meer kerstkaarten met lampjes, muziek en glitters",
     "subtitle": null,
     "published_at": "2023-12-16T09:48:02+01:00",
-    "updated_at": "2023-12-16T09:58:05+01:00",
+    "updated_at": "2023-12-16T11:18:48+01:00",
     "media_id": "28ex33na5182",
     "duration": null,
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/opmerkelijk/6294333/nederlanders-kopen-steeds-meer-kerstkaarten-met-lampjes-muzien-en-glitters.html",
+    "url": "/opmerkelijk/6294333/nederlanders-kopen-steeds-meer-kerstkaarten-met-lampjes-muziek-en-glitters.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6293513/pavlidis-en-gimenez-lopen-voor-op-dillen-index-maar-scoren-gemiddeld-minder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6293995,
-    "slug": "waarom-websites-willen-dat-je-passkey-gebruikt-veiligere-versie-van-wachtwoord",
-    "type": "article",
-    "title": "Waarom websites willen dat je passkey gebruikt: 'Veiligere versie van wachtwoord'",
-    "subtitle": "NU+",
-    "published_at": "2023-12-16T06:32:02+01:00",
-    "updated_at": "2023-12-16T06:32:03+01:00",
-    "media_id": "slyxi53a5us5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778843,
-      "slug": "login-vereist",
-      "type": "default",
-      "name": "login-vereist",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/login-vereist/6293995/waarom-websites-willen-dat-je-passkey-gebruikt-veiligere-versie-van-wachtwoord.html",
     "open_new_window": false,
     "partner": null
   }
