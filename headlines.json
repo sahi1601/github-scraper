@@ -1,5 +1,28 @@
 [
   {
+    "id": 6294495,
+    "slug": "ajax-geeft-zege-uit-handen-door-misser-berghuis-en-dubieus-doelpunt-van-pec",
+    "type": "article",
+    "title": "Ajax geeft zege uit handen door misser Berghuis en dubieus doelpunt van PEC",
+    "subtitle": null,
+    "published_at": "2023-12-17T18:41:58+01:00",
+    "updated_at": "2023-12-17T18:44:31+01:00",
+    "media_id": "xczxarbaa04z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6294495/ajax-geeft-zege-uit-handen-door-misser-berghuis-en-dubieus-doelpunt-van-pec.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294212,
     "slug": "goed-nieuws-van-deze-week-engelse-jongen-teruggevonden-en-zeehond-gered",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6294487,
-    "slug": "live-premier-league-ten-hags-united-heeft-het-zwaar-op-bezoek-bij-liverpool",
+    "slug": "live-premier-league-ten-hags-united-heeft-het-zwaar-bij-dominant-liverpool",
     "type": "article",
-    "title": "Live Premier League | Ten Hags United heeft het zwaar op bezoek bij Liverpool",
+    "title": "Live Premier League | Ten Hags United heeft het zwaar bij dominant Liverpool",
     "subtitle": null,
     "published_at": "2023-12-17T17:12:43+01:00",
-    "updated_at": "2023-12-17T18:19:11+01:00",
+    "updated_at": "2023-12-17T18:45:12+01:00",
     "media_id": "8wzxha5axevl",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6294487/live-premier-league-ten-hags-united-heeft-het-zwaar-op-bezoek-bij-liverpool.html",
+    "url": "/voetbal/6294487/live-premier-league-ten-hags-united-heeft-het-zwaar-bij-dominant-liverpool.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6294473/veldrijdster-alvarado-bekroont-droomstart-met-zege-pidcock-klopt-ronhaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294470,
-    "slug": "handbalsters-verslaan-duitsland-in-wk-duel-om-plek-vijf-en-loten-gunstig-op-okt",
-    "type": "article",
-    "title": "Handbalsters verslaan Duitsland in WK-duel om plek vijf en loten gunstig op OKT",
-    "subtitle": null,
-    "published_at": "2023-12-17T14:29:01+01:00",
-    "updated_at": "2023-12-17T15:19:54+01:00",
-    "media_id": "hr3xw0aapze1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6294470/handbalsters-verslaan-duitsland-in-wk-duel-om-plek-vijf-en-loten-gunstig-op-okt.html",
     "open_new_window": false,
     "partner": null
   }
