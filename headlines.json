@@ -1,5 +1,28 @@
 [
   {
+    "id": 6294661,
+    "slug": "tricole-schrijft-historie-op-wk-darts-met-eerste-franse-overwinning-ooit",
+    "type": "article",
+    "title": "Tricole schrijft historie op WK darts met eerste Franse overwinning ooit",
+    "subtitle": null,
+    "published_at": "2023-12-18T21:30:03+01:00",
+    "updated_at": "2023-12-18T21:39:06+01:00",
+    "media_id": "fy8x1lzaqm27",
+    "duration": null,
+    "canonical_section": {
+      "id": 1777376,
+      "slug": "darts",
+      "type": "default",
+      "name": "Darts",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/darts/6294661/tricole-schrijft-historie-op-wk-darts-met-eerste-franse-overwinning-ooit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294658,
     "slug": "chinees-festival-met-enorme-ijssculpturen-opent-zijn-deuren",
     "type": "video",
@@ -47,13 +70,13 @@
   },
   {
     "id": 6294643,
-    "slug": "live-wk-darts-toptalent-van-veen-staat-voor-wk-debuut-tegen-leung",
+    "slug": "live-wk-darts-van-veen-komt-stroeve-start-te-boven-en-wint-eerste-set",
     "type": "article",
-    "title": "Live WK darts | Toptalent Van Veen staat voor WK-debuut tegen Leung",
+    "title": "Live WK darts | Van Veen komt stroeve start te boven en wint eerste set",
     "subtitle": null,
     "published_at": "2023-12-18T21:09:18+01:00",
-    "updated_at": "2023-12-18T21:09:31+01:00",
-    "media_id": "182xg6ma76kr",
+    "updated_at": "2023-12-18T21:43:59+01:00",
+    "media_id": "uv5xp80a9mvr",
     "duration": null,
     "canonical_section": {
       "id": 1777376,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/darts/6294643/live-wk-darts-toptalent-van-veen-staat-voor-wk-debuut-tegen-leung.html",
+    "url": "/darts/6294643/live-wk-darts-van-veen-komt-stroeve-start-te-boven-en-wint-eerste-set.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Mourinho-Slot krijgt pikant vervolg in Europa: 'Mourinho respecteert hem'",
     "subtitle": "NU+",
     "published_at": "2023-12-18T17:54:26+01:00",
-    "updated_at": "2023-12-18T19:54:51+01:00",
+    "updated_at": "2023-12-18T21:26:36+01:00",
     "media_id": "kzzxrbga7d6z",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6294636/porsche-belandt-in-sloot-na-ontploffing-in-auto.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294634,
-    "slug": "pogacar-rijdt-met-giro-en-tour-voor-het-eerst-twee-grote-rondes-in-een-jaar",
-    "type": "article",
-    "title": "Pogacar rijdt met Giro en Tour voor het eerst twee grote rondes in één jaar",
-    "subtitle": null,
-    "published_at": "2023-12-18T17:16:06+01:00",
-    "updated_at": "2023-12-18T17:16:07+01:00",
-    "media_id": "lg7xodba156o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6294634/pogacar-rijdt-met-giro-en-tour-voor-het-eerst-twee-grote-rondes-in-een-jaar.html",
     "open_new_window": false,
     "partner": null
   }
