@@ -1,12 +1,58 @@
 [
   {
+    "id": 6294602,
+    "slug": "oekraiense-militairen-curlen-met-antitankmijnen",
+    "type": "video",
+    "title": "Oekraïense militairen curlen met antitankmijnen",
+    "subtitle": "Video",
+    "published_at": "2023-12-18T13:38:58+01:00",
+    "updated_at": "2023-12-18T13:38:59+01:00",
+    "media_id": "kz0xap1a8uec",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6294602/oekraiense-militairen-curlen-met-antitankmijnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6294597,
+    "slug": "dpg-media-en-mediahuis-bereiken-akkoord-met-vakbond-over-loon-journalisten",
+    "type": "article",
+    "title": "DPG Media en Mediahuis bereiken akkoord met vakbond over loon journalisten",
+    "subtitle": null,
+    "published_at": "2023-12-18T13:34:51+01:00",
+    "updated_at": "2023-12-18T13:34:52+01:00",
+    "media_id": "hnyxi5oagxje",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6294597/dpg-media-en-mediahuis-bereiken-akkoord-met-vakbond-over-loon-journalisten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294572,
     "slug": "dertig-jaar-cel-voor-dubbele-moord-in-zwols-mcdonalds-restaurant",
     "type": "article",
     "title": "Dertig jaar cel voor dubbele moord in Zwols McDonald's-restaurant",
     "subtitle": null,
     "published_at": "2023-12-18T13:27:03+01:00",
-    "updated_at": "2023-12-18T13:29:17+01:00",
+    "updated_at": "2023-12-18T13:31:44+01:00",
     "media_id": "hwnxes0absan",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Feyenoord treft wéér AS Roma van Mourinho in tussenronde Europa League",
     "subtitle": null,
     "published_at": "2023-12-18T13:13:25+01:00",
-    "updated_at": "2023-12-18T13:28:08+01:00",
+    "updated_at": "2023-12-18T13:45:13+01:00",
     "media_id": "4qexaxtac4lj",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6294568/storm-blaast-geparkeerd-vliegtuig-in-buenos-aires-weg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294553,
-    "slug": "zeker-acht-mensen-omgekomen-bij-explosie-op-olieterminal-in-guinee",
-    "type": "article",
-    "title": "Zeker acht mensen omgekomen bij explosie op olieterminal in Guinee",
-    "subtitle": null,
-    "published_at": "2023-12-18T10:33:10+01:00",
-    "updated_at": "2023-12-18T13:15:05+01:00",
-    "media_id": "18lxobyak33v",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6294553/zeker-acht-mensen-omgekomen-bij-explosie-op-olieterminal-in-guinee.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294552,
-    "slug": "knvb-krijgt-van-fifa-verrassend-geen-plek-in-mensenrechtencommissie",
-    "type": "article",
-    "title": "KNVB krijgt van FIFA verrassend geen plek in mensenrechtencommissie",
-    "subtitle": null,
-    "published_at": "2023-12-18T10:25:41+01:00",
-    "updated_at": "2023-12-18T12:57:23+01:00",
-    "media_id": "kvjxa8wa55fa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6294552/knvb-krijgt-van-fifa-verrassend-geen-plek-in-mensenrechtencommissie.html",
     "open_new_window": false,
     "partner": null
   }
