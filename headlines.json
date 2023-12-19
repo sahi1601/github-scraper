@@ -1,5 +1,28 @@
 [
   {
+    "id": 6294829,
+    "slug": "dortmund-komt-door-goal-van-den-berg-niet-verder-dan-gelijkspel-tegen-mainz",
+    "type": "article",
+    "title": "Dortmund komt door goal Van den Berg niet verder dan gelijkspel tegen Mainz",
+    "subtitle": null,
+    "published_at": "2023-12-19T22:37:53+01:00",
+    "updated_at": "2023-12-19T22:42:56+01:00",
+    "media_id": "25ex0i6anqou",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6294829/dortmund-komt-door-goal-van-den-berg-niet-verder-dan-gelijkspel-tegen-mainz.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294825,
     "slug": "veroordeelde-17-mishandelt-officier-van-justitie-in-haarlemse-rechtbank",
     "type": "article",
@@ -213,7 +236,7 @@
     "title": "Live WK darts | Van Gerwen bijna in actie, Duitse man treft Japanse vrouw",
     "subtitle": null,
     "published_at": "2023-12-19T19:59:35+01:00",
-    "updated_at": "2023-12-19T22:07:30+01:00",
+    "updated_at": "2023-12-19T22:41:16+01:00",
     "media_id": "v3jxgt7acwjm",
     "duration": null,
     "canonical_section": {
@@ -323,12 +346,12 @@
   },
   {
     "id": 6294808,
-    "slug": "live-knvb-beker-excelsior-scoort-in-verlenging-tegen-amateurs-spakenburg",
+    "slug": "live-knvb-beker-fc-groningen-op-weg-naar-zege-tegen-willem-ii",
     "type": "article",
-    "title": "Live KNVB-beker | Excelsior scoort in verlenging tegen amateurs Spakenburg",
+    "title": "Live KNVB-beker | FC Groningen op weg naar zege tegen Willem II",
     "subtitle": null,
     "published_at": "2023-12-19T18:40:39+01:00",
-    "updated_at": "2023-12-19T22:11:45+01:00",
+    "updated_at": "2023-12-19T22:40:40+01:00",
     "media_id": "yifxyi9a8o3l",
     "duration": null,
     "canonical_section": {
@@ -340,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6294808/live-knvb-beker-excelsior-scoort-in-verlenging-tegen-amateurs-spakenburg.html",
+    "url": "/voetbal/6294808/live-knvb-beker-fc-groningen-op-weg-naar-zege-tegen-willem-ii.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6294784/russische-serie-over-bendes-zorgt-in-oekraine-en-rusland-voor-ophef.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6294768,
-    "slug": "gezondheidsraad-adviseert-vaccinatieprogramma-apenpokken-voor-risicogroep",
-    "type": "article",
-    "title": "Gezondheidsraad adviseert vaccinatieprogramma apenpokken voor risicogroep",
-    "subtitle": null,
-    "published_at": "2023-12-19T16:57:09+01:00",
-    "updated_at": "2023-12-19T16:57:11+01:00",
-    "media_id": "5aqxen7arerw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6294768/gezondheidsraad-adviseert-vaccinatieprogramma-apenpokken-voor-risicogroep.html",
     "open_new_window": false,
     "partner": null
   }
