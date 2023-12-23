@@ -1,12 +1,35 @@
 [
   {
+    "id": 6295392,
+    "slug": "supermarkten-klaar-voor-drukste-dagen-van-het-jaar-iedereen-die-kan-werken-werkt",
+    "type": "article",
+    "title": "Supermarkten klaar voor drukste dagen van het jaar: 'Iedereen die kan werken, werkt'",
+    "subtitle": null,
+    "published_at": "2023-12-23T11:36:42+01:00",
+    "updated_at": "2023-12-23T11:36:44+01:00",
+    "media_id": "pnrx49vamwoq",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6295392/supermarkten-klaar-voor-drukste-dagen-van-het-jaar-iedereen-die-kan-werken-werkt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295391,
     "slug": "woeste-golven-plagen-gestrand-schip-op-noordzee",
     "type": "video",
     "title": "Woeste golven plagen gestrand schip op Noordzee",
     "subtitle": "Video",
     "published_at": "2023-12-23T11:29:24+01:00",
-    "updated_at": "2023-12-23T11:29:25+01:00",
+    "updated_at": "2023-12-23T11:33:51+01:00",
     "media_id": "v7cxdima34fb",
     "duration": "0:46",
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6295389,
-    "slug": "onrustige-nacht-met-explosies-en-incidenten-in-rotterdam-enschede-en-maarssen",
+    "slug": "onrustige-nacht-met-explosies-en-incidenten-in-meerdere-steden",
     "type": "article",
-    "title": "Onrustige nacht met explosies en incidenten in Rotterdam, Enschede en Maarssen",
+    "title": "Onrustige nacht met explosies en incidenten in meerdere steden",
     "subtitle": null,
     "published_at": "2023-12-23T11:18:11+01:00",
-    "updated_at": "2023-12-23T11:23:31+01:00",
+    "updated_at": "2023-12-23T11:38:41+01:00",
     "media_id": "gcpxmelapznm",
     "duration": null,
     "canonical_section": {
@@ -41,18 +64,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6295389/onrustige-nacht-met-explosies-en-incidenten-in-rotterdam-enschede-en-maarssen.html",
+    "url": "/binnenland/6295389/onrustige-nacht-met-explosies-en-incidenten-in-meerdere-steden.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6295388,
-    "slug": "stel-wint-kerstjackpot-en-hoogste-bedrag-van-het-jaar-bij-holland-casino",
+    "slug": "stel-wint-in-een-klap-grootste-jackpot-van-het-jaar-bij-holland-casino",
     "type": "article",
-    "title": "Stel wint kerstjackpot en hoogste bedrag van het jaar bij Holland Casino",
+    "title": "Stel wint in één klap grootste jackpot van het jaar bij Holland Casino",
     "subtitle": null,
     "published_at": "2023-12-23T11:10:57+01:00",
-    "updated_at": "2023-12-23T11:10:58+01:00",
+    "updated_at": "2023-12-23T11:39:02+01:00",
     "media_id": "x8xx9pcap9o1",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/goed-nieuws/6295388/stel-wint-kerstjackpot-en-hoogste-bedrag-van-het-jaar-bij-holland-casino.html",
+    "url": "/goed-nieuws/6295388/stel-wint-in-een-klap-grootste-jackpot-van-het-jaar-bij-holland-casino.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Het is winter, maar Noord-Italië kampt met natuurbranden door felle wind",
     "subtitle": null,
     "published_at": "2023-12-23T10:42:13+01:00",
-    "updated_at": "2023-12-23T10:42:14+01:00",
+    "updated_at": "2023-12-23T11:44:16+01:00",
     "media_id": "xzzxmsxawpis",
     "duration": null,
     "canonical_section": {
@@ -164,10 +187,10 @@
     "id": 6295384,
     "slug": "boom-omvergereden-in-gelderland-bestuurder-spoorloos",
     "type": "video",
-    "title": "Boom omvergereden in Gelderland: bestuurder spoorloos",
+    "title": "Boom omvergereden in Gelderland, bestuurder spoorloos",
     "subtitle": "Video",
     "published_at": "2023-12-23T10:32:34+01:00",
-    "updated_at": "2023-12-23T10:32:45+01:00",
+    "updated_at": "2023-12-23T11:32:28+01:00",
     "media_id": "qjfxsrhap7d2",
     "duration": "0:31",
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Tim Hofman 'gespannen' omdat man hem wilde doden: 'Maar ga er goed mee om'",
     "subtitle": null,
     "published_at": "2023-12-23T10:15:11+01:00",
-    "updated_at": "2023-12-23T10:20:51+01:00",
+    "updated_at": "2023-12-23T11:43:46+01:00",
     "media_id": "f6oxym9ay8tn",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6295309/oorlog-in-gaza-gaat-nieuwe-fase-in-wat-houdt-dat-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295367,
-    "slug": "containervervoerder-maersk-verwacht-dat-chaos-in-rode-zee-nog-maanden-duurt",
-    "type": "article",
-    "title": "Containervervoerder Maersk verwacht dat chaos in Rode Zee nog maanden duurt",
-    "subtitle": null,
-    "published_at": "2023-12-23T06:33:48+01:00",
-    "updated_at": "2023-12-23T09:48:25+01:00",
-    "media_id": "swyx145akndy",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6295367/containervervoerder-maersk-verwacht-dat-chaos-in-rode-zee-nog-maanden-duurt.html",
     "open_new_window": false,
     "partner": null
   }
