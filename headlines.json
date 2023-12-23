@@ -1,5 +1,28 @@
 [
   {
+    "id": 6295428,
+    "slug": "welch-schrijft-geschiedenis-als-eerste-vrouwelijke-arbiter-in-premier-league",
+    "type": "article",
+    "title": "Welch schrijft geschiedenis als eerste vrouwelijke arbiter in Premier League",
+    "subtitle": null,
+    "published_at": "2023-12-23T17:56:56+01:00",
+    "updated_at": "2023-12-23T18:03:09+01:00",
+    "media_id": "wnfxz24alifk",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6295428/welch-schrijft-geschiedenis-als-eerste-vrouwelijke-arbiter-in-premier-league.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295429,
     "slug": "slachtoffers-dodelijke-steekpartij-enschede-zijn-minderjarige-syriers",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Ten Hag gelooft in ommekeer United ondanks nieuwe zeperd: 'Gaven niets weg'",
     "subtitle": null,
     "published_at": "2023-12-23T17:21:50+01:00",
-    "updated_at": "2023-12-23T17:43:53+01:00",
+    "updated_at": "2023-12-23T17:51:45+01:00",
     "media_id": "0pmx4z5a6zt1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6295406/rusland-schrapt-invoerrechten-op-kip-om-gestegen-prijzen-weer-te-verlagen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295405,
-    "slug": "man-uit-maassluis-twee-dagen-zoek-na-ontvoering-zeven-mannen-opgepakt",
-    "type": "article",
-    "title": "Man uit Maassluis twee dagen zoek na ontvoering, zeven mannen opgepakt",
-    "subtitle": null,
-    "published_at": "2023-12-23T13:21:10+01:00",
-    "updated_at": "2023-12-23T14:20:35+01:00",
-    "media_id": "hobx0y7ahlg6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779258,
-      "slug": "binnenland-en-buitenland",
-      "type": "default",
-      "name": "Binnen- en buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland-en-buitenland/6295405/man-uit-maassluis-twee-dagen-zoek-na-ontvoering-zeven-mannen-opgepakt.html",
     "open_new_window": false,
     "partner": null
   }
