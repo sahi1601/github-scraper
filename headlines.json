@@ -1,5 +1,28 @@
 [
   {
+    "id": 6295426,
+    "slug": "politie-betrapt-man-met-zwaar-vuurwerk-in-door-explosies-geteisterde-vlaardingen",
+    "type": "article",
+    "title": "Politie betrapt man met zwaar vuurwerk in door explosies geteisterde Vlaardingen",
+    "subtitle": null,
+    "published_at": "2023-12-23T17:06:24+01:00",
+    "updated_at": "2023-12-23T17:06:25+01:00",
+    "media_id": "q8lxgzaat6j8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6295426/politie-betrapt-man-met-zwaar-vuurwerk-in-door-explosies-geteisterde-vlaardingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295423,
     "slug": "uitgestorven-bethlehem-maakt-zich-op-voor-sobere-kerst",
     "type": "video",
@@ -29,7 +52,7 @@
     "title": "Bayer wint rechtszaak van man die zei kanker te hebben gekregen van Roundup",
     "subtitle": null,
     "published_at": "2023-12-23T16:12:37+01:00",
-    "updated_at": "2023-12-23T16:15:37+01:00",
+    "updated_at": "2023-12-23T16:58:27+01:00",
     "media_id": "8g3xbbcaywxu",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Ten Hag en United scoren wéér niet en lijden pijnlijke nederlaag bij West Ham",
     "subtitle": null,
     "published_at": "2023-12-23T15:29:34+01:00",
-    "updated_at": "2023-12-23T16:23:13+01:00",
+    "updated_at": "2023-12-23T17:16:55+01:00",
     "media_id": "70hx785awkgm",
     "duration": null,
     "canonical_section": {
@@ -167,8 +190,8 @@
     "title": "Van der Poel wint in Antwerpen ook eerste cross met Van Aert én Pidcock",
     "subtitle": null,
     "published_at": "2023-12-23T14:55:28+01:00",
-    "updated_at": "2023-12-23T16:32:59+01:00",
-    "media_id": "mzzxhoralcjg",
+    "updated_at": "2023-12-23T17:11:59+01:00",
+    "media_id": "w56xzq9anydy",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6295401/de-staat-zet-nijmegen-op-zn-kop-bij-serious-request.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295260,
-    "slug": "leefden-kabinetten-rutte-de-grondwet-wel-na-jullie-vragen-beantwoord",
-    "type": "article",
-    "title": "Leefden kabinetten-Rutte de Grondwet wel na? Jullie vragen beantwoord",
-    "subtitle": "NU+",
-    "published_at": "2023-12-23T12:22:56+01:00",
-    "updated_at": "2023-12-23T13:09:06+01:00",
-    "media_id": "t6mxoyta7ew6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779003,
-      "slug": "gebaseerd-op-jullie-vragen",
-      "type": "default",
-      "name": "Gebaseerd op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gebaseerd-op-jullie-vragen/6295260/leefden-kabinetten-rutte-de-grondwet-wel-na-jullie-vragen-beantwoord.html",
     "open_new_window": false,
     "partner": null
   }
