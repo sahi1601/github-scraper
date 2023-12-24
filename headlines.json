@@ -1,12 +1,35 @@
 [
   {
-    "id": 6295380,
-    "slug": "expert-leg-plebsbestek-zoals-je-smartphone-niet-op-tafel-tijdens-het-kerstdiner",
+    "id": 6295457,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
-    "title": "Expert: leg 'plebsbestek' zoals je smartphone niet op tafel tijdens het kerstdiner",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-12-24T05:18:10+01:00",
+    "updated_at": "2023-12-24T05:18:11+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6295457/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295380,
+    "slug": "expert-leg-plebsbestek-zoals-smartphone-niet-op-tafel-tijdens-kerstdiner",
+    "type": "article",
+    "title": "Expert: leg 'plebsbestek' zoals smartphone niet op tafel tijdens kerstdiner",
     "subtitle": "NU+",
     "published_at": "2023-12-24T05:09:58+01:00",
-    "updated_at": "2023-12-24T05:09:59+01:00",
+    "updated_at": "2023-12-24T05:20:52+01:00",
     "media_id": "kqkxuy0aadml",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6295380/expert-leg-plebsbestek-zoals-je-smartphone-niet-op-tafel-tijdens-het-kerstdiner.html",
+    "url": "/tech/6295380/expert-leg-plebsbestek-zoals-smartphone-niet-op-tafel-tijdens-kerstdiner.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6295432/3fm-djs-gaan-kaal-voor-50000-euro-bij-serious-request-fris-de-kerst-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295428,
-    "slug": "welch-schrijft-geschiedenis-als-eerste-vrouwelijke-arbiter-in-premier-league",
-    "type": "article",
-    "title": "Welch schrijft geschiedenis als eerste vrouwelijke arbiter in Premier League",
-    "subtitle": null,
-    "published_at": "2023-12-23T17:56:56+01:00",
-    "updated_at": "2023-12-23T18:25:02+01:00",
-    "media_id": "wnfxz24alifk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6295428/welch-schrijft-geschiedenis-als-eerste-vrouwelijke-arbiter-in-premier-league.html",
     "open_new_window": false,
     "partner": null
   }
