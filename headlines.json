@@ -1,12 +1,35 @@
 [
   {
+    "id": 6295551,
+    "slug": "docu-over-herstel-miedema-en-partner-hopelijk-minder-angst-voor-deze-blessure",
+    "type": "article",
+    "title": "Docu over herstel Miedema en partner: 'Hopelijk minder angst voor deze blessure'",
+    "subtitle": null,
+    "published_at": "2023-12-25T12:07:01+01:00",
+    "updated_at": "2023-12-25T12:07:03+01:00",
+    "media_id": "09yxe3aa4rac",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6295551/docu-over-herstel-miedema-en-partner-hopelijk-minder-angst-voor-deze-blessure.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295553,
     "slug": "hoog-water-in-nederland-sloot-staat-tot-de-rand-toe-helemaal-vol",
     "type": "article",
-    "title": "Hoog water in Nederland: \"Sloot staat tot de rand toe helemaal vol\"",
+    "title": "Hoog water in Nederland: 'Sloot staat tot de rand toe helemaal vol'",
     "subtitle": null,
     "published_at": "2023-12-25T11:27:35+01:00",
-    "updated_at": "2023-12-25T11:29:49+01:00",
+    "updated_at": "2023-12-25T12:11:05+01:00",
     "media_id": "crzx7kwa8ox0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6294800/mentaal-trucje-bij-cruciale-save-bracht-waterpoloster-aarts-naar-de-koning.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295109,
-    "slug": "kerst-blijft-ook-aan-tafel-traditioneel-gourmetstel-kalkoen-en-rollade",
-    "type": "article",
-    "title": "Kerst blijft ook aan tafel traditioneel: gourmetstel, kalkoen en rollade",
-    "subtitle": null,
-    "published_at": "2023-12-25T05:03:26+01:00",
-    "updated_at": "2023-12-25T11:16:01+01:00",
-    "media_id": "824xgvba1wzs",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6295109/kerst-blijft-ook-aan-tafel-traditioneel-gourmetstel-kalkoen-en-rollade.html",
     "open_new_window": false,
     "partner": null
   }
