@@ -1,5 +1,28 @@
 [
   {
+    "id": 6295607,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2023-12-26T05:15:49+01:00",
+    "updated_at": "2023-12-26T05:15:50+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6295607/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6294882,
     "slug": "neem-geen-genoegen-met-de-router-die-je-provider-meestuurt",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6295581/op-twee-na-warmste-eerste-kerstdag-ooit-gemeten-125-graden-in-de-bilt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295564,
-    "slug": "zo-vieren-de-sterren-kerst-schat-ga-even-bij-die-boom-staan",
-    "type": "article",
-    "title": "Zo vieren de sterren Kerst: 'Schat, ga even bij die boom staan'",
-    "subtitle": null,
-    "published_at": "2023-12-25T16:13:08+01:00",
-    "updated_at": "2023-12-25T19:43:01+01:00",
-    "media_id": "uc5xzguak9t1",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6295564/zo-vieren-de-sterren-kerst-schat-ga-even-bij-die-boom-staan.html",
     "open_new_window": false,
     "partner": null
   }
