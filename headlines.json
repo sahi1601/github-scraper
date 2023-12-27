@@ -1,5 +1,28 @@
 [
   {
+    "id": 6295697,
+    "slug": "kerstconcert-van-the-streamers-levert-13-miljoen-euro-op-voor-war-child",
+    "type": "article",
+    "title": "Kerstconcert van The Streamers levert 1,3 miljoen euro op voor War Child",
+    "subtitle": null,
+    "published_at": "2023-12-27T06:57:29+01:00",
+    "updated_at": "2023-12-27T06:58:42+01:00",
+    "media_id": "dvjxlkqa38g0",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6295697/kerstconcert-van-the-streamers-levert-13-miljoen-euro-op-voor-war-child.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295696,
     "slug": "zeker-negen-mensen-omgekomen-tijdens-kerst-door-noodweer-australie",
     "type": "article",
@@ -213,7 +236,7 @@
     "title": "Ten Hag dolgelukkig na memorabele comeback United: 'We bleven erin geloven'",
     "subtitle": null,
     "published_at": "2023-12-26T23:56:33+01:00",
-    "updated_at": "2023-12-27T06:34:23+01:00",
+    "updated_at": "2023-12-27T06:57:47+01:00",
     "media_id": "ysnxtboas448",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Ten Hag vecht zich met United terug uit geslagen positie en boekt fraaie zege",
     "subtitle": null,
     "published_at": "2023-12-26T23:01:15+01:00",
-    "updated_at": "2023-12-27T00:13:38+01:00",
+    "updated_at": "2023-12-27T06:52:23+01:00",
     "media_id": "ev1xicxavkkf",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Gakpo helpt Liverpool met assist aan zege én koppositie in Premier League",
     "subtitle": null,
     "published_at": "2023-12-26T20:25:09+01:00",
-    "updated_at": "2023-12-26T20:35:03+01:00",
+    "updated_at": "2023-12-27T06:49:01+01:00",
     "media_id": "gfuxiq5aj5l3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6295680/sigrid-kaag-stopt-als-demissionair-minister-en-wordt-vn-gezant-gaza.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295670,
-    "slug": "turkije-zet-volgende-stap-naar-goedkeuren-navo-lidmaatschap-zweden",
-    "type": "article",
-    "title": "Turkije zet volgende stap naar goedkeuren NAVO-lidmaatschap Zweden",
-    "subtitle": null,
-    "published_at": "2023-12-26T18:53:50+01:00",
-    "updated_at": "2023-12-26T19:03:04+01:00",
-    "media_id": "kl8xncla26cm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6295670/turkije-zet-volgende-stap-naar-goedkeuren-navo-lidmaatschap-zweden.html",
     "open_new_window": false,
     "partner": null
   }
