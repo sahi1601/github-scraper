@@ -1,12 +1,35 @@
 [
   {
+    "id": 6295791,
+    "slug": "brandweer-redt-bestuurder-uit-bungelende-vrachtwagen-in-vs",
+    "type": "video",
+    "title": "Brandweer redt bestuurder uit bungelende vrachtwagen in VS",
+    "subtitle": "Video",
+    "published_at": "2023-12-27T18:13:14+01:00",
+    "updated_at": "2023-12-27T18:17:21+01:00",
+    "media_id": "smxxbmxakp3c",
+    "duration": "0:47",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6295791/brandweer-redt-bestuurder-uit-bungelende-vrachtwagen-in-vs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295789,
     "slug": "the-new-york-times-klaagt-openai-en-microsoft-aan-voor-schenden-auteursrecht",
     "type": "article",
     "title": "The New York Times klaagt OpenAI en Microsoft aan voor schenden auteursrecht",
     "subtitle": null,
     "published_at": "2023-12-27T17:57:07+01:00",
-    "updated_at": "2023-12-27T17:57:08+01:00",
+    "updated_at": "2023-12-27T18:11:27+01:00",
     "media_id": "x15xhv3akymy",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6295766/van-aert-wint-wel-bij-afwezigheid-van-van-der-poel-van-empel-kan-weer-juichen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295761,
-    "slug": "eiffeltoren-vandaag-dicht-ontevreden-personeel-staakt-op-sterfdag-van-ontwerper",
-    "type": "article",
-    "title": "Eiffeltoren vandaag dicht: ontevreden personeel staakt op sterfdag van ontwerper",
-    "subtitle": null,
-    "published_at": "2023-12-27T14:32:52+01:00",
-    "updated_at": "2023-12-27T16:56:44+01:00",
-    "media_id": "i9mxdc7aj3x8",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6295761/eiffeltoren-vandaag-dicht-ontevreden-personeel-staakt-op-sterfdag-van-ontwerper.html",
     "open_new_window": false,
     "partner": null
   }
