@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296074,
+    "slug": "schouten-wint-ook-op-nieuwe-ijzers-ik-sta-opeens-halve-centimeter-hoger",
+    "type": "article",
+    "title": "Schouten wint ook op nieuwe ijzers: 'Ik sta opeens halve centimeter hoger'",
+    "subtitle": null,
+    "published_at": "2023-12-29T23:40:34+01:00",
+    "updated_at": "2023-12-29T23:43:20+01:00",
+    "media_id": "7j3xyimafmu8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6296074/schouten-wint-ook-op-nieuwe-ijzers-ik-sta-opeens-halve-centimeter-hoger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296072,
     "slug": "inter-morst-met-dumfries-en-klaassen-punten-in-door-vuurwerk-onderbroken-duel",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/weerbericht/6296036/onstuimige-oudejaarsavond-met-veel-wind-en-regen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296047,
-    "slug": "stier-die-vastzat-door-hoogwater-van-eiland-gehaald",
-    "type": "article",
-    "title": "Stier die vastzat door hoogwater van eiland gehaald",
-    "subtitle": null,
-    "published_at": "2023-12-29T17:56:17+01:00",
-    "updated_at": "2023-12-29T19:39:39+01:00",
-    "media_id": "id9xk15aauuv",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6296047/stier-die-vastzat-door-hoogwater-van-eiland-gehaald.html",
     "open_new_window": false,
     "partner": null
   }
