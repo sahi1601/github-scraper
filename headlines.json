@@ -1,5 +1,28 @@
 [
   {
+    "id": 6295961,
+    "slug": "winkels-zien-klanten-minder-kopen-maar-door-hoge-prijzen-blijft-omzet-stijgen",
+    "type": "article",
+    "title": "Winkels zien klanten minder kopen, maar door hoge prijzen blijft omzet stijgen",
+    "subtitle": null,
+    "published_at": "2023-12-29T09:42:35+01:00",
+    "updated_at": "2023-12-29T09:42:36+01:00",
+    "media_id": "9k1xtvcau5z7",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6295961/winkels-zien-klanten-minder-kopen-maar-door-hoge-prijzen-blijft-omzet-stijgen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6295956,
     "slug": "loreal-erfgename-eerste-vrouw-met-vermogen-boven-100-miljard-dollar",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Recensieoverzicht The Boy and the Heron: 'Boordevol zonder te overstromen'",
     "subtitle": null,
     "published_at": "2023-12-29T09:19:37+01:00",
-    "updated_at": "2023-12-29T09:19:38+01:00",
+    "updated_at": "2023-12-29T09:32:27+01:00",
     "media_id": "2dyxkffa6xzh",
     "duration": null,
     "canonical_section": {
@@ -50,9 +73,9 @@
     "slug": "tien-jaar-na-het-ongeluk-van-schumacher-ik-mis-de-michael-van-vroeger",
     "type": "article",
     "title": "Tien jaar na het ongeluk van Schumacher: 'Ik mis de Michael van vroeger'",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2023-12-29T09:08:05+01:00",
-    "updated_at": "2023-12-29T09:08:42+01:00",
+    "updated_at": "2023-12-29T09:30:17+01:00",
     "media_id": "9jhxurgah0fv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6295946/ook-maine-sluit-trump-uit-van-deelname-aan-voorverkiezingen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6295944,
-    "slug": "veroordeelde-bouterse-wil-zachte-landing-suriname-zegt-dat-vonnis-vaststaat",
-    "type": "article",
-    "title": "Veroordeelde Bouterse wil 'zachte landing', Suriname zegt dat vonnis vaststaat",
-    "subtitle": null,
-    "published_at": "2023-12-29T01:06:42+01:00",
-    "updated_at": "2023-12-29T08:32:09+01:00",
-    "media_id": "nkaxb07aok14",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6295944/veroordeelde-bouterse-wil-zachte-landing-suriname-zegt-dat-vonnis-vaststaat.html",
     "open_new_window": false,
     "partner": null
   }
