@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296227,
+    "slug": "cristiano-ronaldo-troeft-haaland-mbappe-en-kane-af-en-is-topscorer-van-2023",
+    "type": "article",
+    "title": "Cristiano Ronaldo troeft Haaland, Mbappé en Kane af en is topscorer van 2023",
+    "subtitle": null,
+    "published_at": "2023-12-31T15:15:16+01:00",
+    "updated_at": "2023-12-31T15:15:17+01:00",
+    "media_id": "qnfx1y0ap4pw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6296227/cristiano-ronaldo-troeft-haaland-mbappe-en-kane-af-en-is-topscorer-van-2023.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296229,
     "slug": "deze-bners-kregen-een-baby-in-2023",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6296208/ten-hag-na-volgende-nederlaag-geen-team-kan-met-zoveel-blessures-omgaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296204,
-    "slug": "kim-jong-un-vraagt-om-oorlogsbereidheid-en-sluit-verzoening-met-zuid-korea-uit",
-    "type": "article",
-    "title": "Kim Jong-un vraagt om oorlogsbereidheid en sluit verzoening met Zuid-Korea uit",
-    "subtitle": null,
-    "published_at": "2023-12-31T10:47:57+01:00",
-    "updated_at": "2023-12-31T11:31:13+01:00",
-    "media_id": "13rxgm3aivrc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6296204/kim-jong-un-vraagt-om-oorlogsbereidheid-en-sluit-verzoening-met-zuid-korea-uit.html",
     "open_new_window": false,
     "partner": null
   }
