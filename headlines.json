@@ -1,5 +1,51 @@
 [
   {
+    "id": 6295281,
+    "slug": "terug-naar-het-sportmoment-van-2023-de-iconische-eindspurt-van-femke-bol",
+    "type": "article",
+    "title": "Terug naar het sportmoment van 2023: de iconische eindspurt van Femke Bol",
+    "subtitle": "NU+",
+    "published_at": "2023-12-31T05:16:24+01:00",
+    "updated_at": "2023-12-31T05:16:25+01:00",
+    "media_id": "szdxw3kajw23",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6295281/terug-naar-het-sportmoment-van-2023-de-iconische-eindspurt-van-femke-bol.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6295977,
+    "slug": "politie-heeft-geen-vertrouwen-in-geslaagde-jaarwisseling-gaat-niet-gebeuren",
+    "type": "article",
+    "title": "Politie heeft geen vertrouwen in 'geslaagde' jaarwisseling: 'Gaat niet gebeuren'",
+    "subtitle": null,
+    "published_at": "2023-12-31T05:15:16+01:00",
+    "updated_at": "2023-12-31T05:15:17+01:00",
+    "media_id": "v5txwwqamp4u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772236,
+      "slug": "jaarwisseling",
+      "type": "files",
+      "name": "Jaarwisseling",
+      "style": "nu",
+      "media_id": "m1oxc1gaswou",
+      "partner": null
+    },
+    "url": "/jaarwisseling/6295977/politie-heeft-geen-vertrouwen-in-geslaagde-jaarwisseling-gaat-niet-gebeuren.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296185,
     "slug": "van-barneveld-berust-in-nederlaag-tegen-littler-16-hij-leek-wel-een-dartrobot",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6296163/bijna-400-aanhoudingen-bij-klimaatblokkade-op-a10-bij-amsterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296160,
-    "slug": "russische-brandweer-blust-autos-na-aanval-op-grensstad-belgorod",
-    "type": "video",
-    "title": "Russische brandweer blust auto's na aanval op grensstad Belgorod",
-    "subtitle": "Video",
-    "published_at": "2023-12-30T18:03:28+01:00",
-    "updated_at": "2023-12-30T18:03:32+01:00",
-    "media_id": "pgmxly8aqzfx",
-    "duration": "0:27",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6296160/russische-brandweer-blust-autos-na-aanval-op-grensstad-belgorod.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296159,
-    "slug": "waterpeil-vecht-en-ijssel-zakt-verder-maar-volgende-week-nieuwe-piek-op-komst",
-    "type": "article",
-    "title": "Waterpeil Vecht en IJssel zakt verder, maar volgende week nieuwe piek op komst",
-    "subtitle": null,
-    "published_at": "2023-12-30T17:36:11+01:00",
-    "updated_at": "2023-12-30T18:09:34+01:00",
-    "media_id": "rkyxagsabnvo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6296159/waterpeil-vecht-en-ijssel-zakt-verder-maar-volgende-week-nieuwe-piek-op-komst.html",
     "open_new_window": false,
     "partner": null
   }
