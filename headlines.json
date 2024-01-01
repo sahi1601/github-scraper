@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296284,
+    "slug": "2024-begint-zoals-2023-eindigde-met-veel-regen-en-forse-wind",
+    "type": "article",
+    "title": "2024 begint zoals 2023 eindigde: met veel regen en forse wind",
+    "subtitle": "Weerbericht",
+    "published_at": "2024-01-01T05:18:20+01:00",
+    "updated_at": "2024-01-01T05:27:41+01:00",
+    "media_id": "eioxet5aylax",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6296284/2024-begint-zoals-2023-eindigde-met-veel-regen-en-forse-wind.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296283,
     "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/jaarwisseling/6296256/steeds-meer-landen-in-2024-tot-nu-toe-weinig-grote-incidenten-in-nederland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296254,
-    "slug": "ravage-na-botsing-tussen-trein-en-vrachtwagen-in-australie",
-    "type": "video",
-    "title": "Ravage na botsing tussen trein en vrachtwagen in Australië",
-    "subtitle": "Video",
-    "published_at": "2023-12-31T19:47:51+01:00",
-    "updated_at": "2023-12-31T19:47:52+01:00",
-    "media_id": "ps6xtj2a46er",
-    "duration": "0:47",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6296254/ravage-na-botsing-tussen-trein-en-vrachtwagen-in-australie.html",
     "open_new_window": false,
     "partner": null
   }
