@@ -1,12 +1,58 @@
 [
   {
+    "id": 6296366,
+    "slug": "explosies-in-omgeving-rotterdam-gaan-ook-in-nieuwe-jaar-verder",
+    "type": "article",
+    "title": "Explosies in omgeving Rotterdam gaan ook in nieuwe jaar verder",
+    "subtitle": null,
+    "published_at": "2024-01-02T07:37:13+01:00",
+    "updated_at": "2024-01-02T07:37:15+01:00",
+    "media_id": "lbixz28adsaq",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6296366/explosies-in-omgeving-rotterdam-gaan-ook-in-nieuwe-jaar-verder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296368,
+    "slug": "exotische-landsnoerwormen-in-nederland-vormen-bedreiging-voor-bodemkwaliteit",
+    "type": "article",
+    "title": "Exotische landsnoerwormen in Nederland vormen bedreiging voor bodemkwaliteit",
+    "subtitle": null,
+    "published_at": "2024-01-02T07:35:53+01:00",
+    "updated_at": "2024-01-02T07:35:54+01:00",
+    "media_id": "3xzx3b7ay39b",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6296368/exotische-landsnoerwormen-in-nederland-vormen-bedreiging-voor-bodemkwaliteit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296367,
     "slug": "backstreet-boy-aj-mclean-en-vrouw-gaan-scheiden",
     "type": "article",
     "title": "Backstreet Boy AJ McLean en vrouw gaan scheiden",
     "subtitle": null,
     "published_at": "2024-01-02T07:25:38+01:00",
-    "updated_at": "2024-01-02T07:25:39+01:00",
+    "updated_at": "2024-01-02T07:29:36+01:00",
     "media_id": "cq5xd8yabb8h",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Dodental door aardbevingen Japan loopt op, tsunamiwaarschuwing ingetrokken",
     "subtitle": null,
     "published_at": "2024-01-02T05:18:10+01:00",
-    "updated_at": "2024-01-02T07:12:25+01:00",
+    "updated_at": "2024-01-02T07:37:14+01:00",
     "media_id": "2lsxnlyakt00",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/darts/6296349/van-gerwen-is-klaar-op-wk-darts-na-pijnlijke-nederlaag-in-kwartfinales.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296350,
-    "slug": "in-2023-kochten-we-meer-autos-dan-een-jaar-eerder",
-    "type": "article",
-    "title": "In 2023 kochten we meer auto's dan een jaar eerder",
-    "subtitle": null,
-    "published_at": "2024-01-01T21:34:14+01:00",
-    "updated_at": "2024-01-01T21:39:24+01:00",
-    "media_id": "tmdxx4ka7vyp",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6296350/in-2023-kochten-we-meer-autos-dan-een-jaar-eerder.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296348,
-    "slug": "vijfde-verdachte-gearresteerd-voor-mogelijke-aanslag-op-dom-van-keulen",
-    "type": "article",
-    "title": "Vijfde verdachte gearresteerd voor mogelijke aanslag op Dom van Keulen",
-    "subtitle": null,
-    "published_at": "2024-01-01T21:14:04+01:00",
-    "updated_at": "2024-01-01T21:23:40+01:00",
-    "media_id": "fovxs6fan9ss",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6296348/vijfde-verdachte-gearresteerd-voor-mogelijke-aanslag-op-dom-van-keulen.html",
     "open_new_window": false,
     "partner": null
   }
