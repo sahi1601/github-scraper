@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296431,
+    "slug": "containervervoer-in-rap-tempo-duurder-door-onrust-op-rode-zee",
+    "type": "article",
+    "title": "Containervervoer in rap tempo duurder door onrust op Rode Zee",
+    "subtitle": null,
+    "published_at": "2024-01-02T14:18:54+01:00",
+    "updated_at": "2024-01-02T14:18:55+01:00",
+    "media_id": "v55xytrahnrj",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6296431/containervervoer-in-rap-tempo-duurder-door-onrust-op-rode-zee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296434,
     "slug": "schutter-dubbele-moord-mcdonalds-zwolle-in-hoger-beroep-tegen-dertig-jaar-cel",
     "type": "article",
@@ -305,7 +328,7 @@
     "title": "Chinese overheid reageert scherp op exportblokkade ASML-chipmachines",
     "subtitle": null,
     "published_at": "2024-01-02T12:02:42+01:00",
-    "updated_at": "2024-01-02T12:18:10+01:00",
+    "updated_at": "2024-01-02T14:17:56+01:00",
     "media_id": "lyxx996aoovz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6296407/26-jarige-vrouw-opgepakt-vanwege-dodelijke-botsing-in-tilburg.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296402,
-    "slug": "politievakbond-spreekt-van-heel-onrustige-jaarwisseling-vol-incidenten",
-    "type": "article",
-    "title": "Politievakbond spreekt van 'heel onrustige' jaarwisseling vol incidenten",
-    "subtitle": null,
-    "published_at": "2024-01-02T11:09:28+01:00",
-    "updated_at": "2024-01-02T11:09:30+01:00",
-    "media_id": "58xxehpay0rl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6296402/politievakbond-spreekt-van-heel-onrustige-jaarwisseling-vol-incidenten.html",
     "open_new_window": false,
     "partner": null
   }
