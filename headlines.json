@@ -1,12 +1,35 @@
 [
   {
+    "id": 6296378,
+    "slug": "deurbelcamera-filmt-vuurwerkexplosie-in-midwolda",
+    "type": "video",
+    "title": "Deurbelcamera filmt vuurwerkexplosie in Midwolda",
+    "subtitle": "Video",
+    "published_at": "2024-01-02T09:28:31+01:00",
+    "updated_at": "2024-01-02T09:35:03+01:00",
+    "media_id": "hgqxf2ea5tog",
+    "duration": "0:32",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6296378/deurbelcamera-filmt-vuurwerkexplosie-in-midwolda.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296377,
     "slug": "snoop-dogg-opnieuw-commentator-bij-olympische-spelen",
     "type": "article",
     "title": "Snoop Dogg opnieuw commentator bij Olympische Spelen",
     "subtitle": null,
     "published_at": "2024-01-02T09:24:55+01:00",
-    "updated_at": "2024-01-02T09:24:56+01:00",
+    "updated_at": "2024-01-02T09:36:24+01:00",
     "media_id": "yhdxsleaxiyd",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6296374,
-    "slug": "dode-en-tientallen-gewonden-bij-russische-aanvallen-op-oekraiense-steden",
+    "slug": "doden-en-tientallen-gewonden-bij-russische-aanvallen-op-oekraiense-steden",
     "type": "article",
-    "title": "Dode en tientallen gewonden bij Russische aanvallen op Oekraïense steden",
+    "title": "Doden en tientallen gewonden bij Russische aanvallen op Oekraïense steden",
     "subtitle": null,
     "published_at": "2024-01-02T08:44:02+01:00",
-    "updated_at": "2024-01-02T08:44:03+01:00",
+    "updated_at": "2024-01-02T09:38:18+01:00",
     "media_id": "i47xi98ayms5",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6296374/dode-en-tientallen-gewonden-bij-russische-aanvallen-op-oekraiense-steden.html",
+    "url": "/spanningen-oekraine/6296374/doden-en-tientallen-gewonden-bij-russische-aanvallen-op-oekraiense-steden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6296358/asml-nederland-trok-exportvergunning-chipmachines-naar-china-al-deels-in.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296357,
-    "slug": "williams-zag-tijdens-ingooien-dat-van-gerwen-niet-zichzelf-was-hij-miste-vaak",
-    "type": "article",
-    "title": "Williams zag tijdens ingooien dat Van Gerwen niet zichzelf was: 'Hij miste vaak'",
-    "subtitle": null,
-    "published_at": "2024-01-01T23:51:11+01:00",
-    "updated_at": "2024-01-02T06:37:32+01:00",
-    "media_id": "46rx1rjadtai",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6296357/williams-zag-tijdens-ingooien-dat-van-gerwen-niet-zichzelf-was-hij-miste-vaak.html",
     "open_new_window": false,
     "partner": null
   }
