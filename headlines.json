@@ -1,5 +1,51 @@
 [
   {
+    "id": 6296418,
+    "slug": "databedrijven-verhandelen-ongemerkt-gegevens-van-miljoenen-nederlanders",
+    "type": "article",
+    "title": "Databedrijven verhandelen ongemerkt gegevens van miljoenen Nederlanders",
+    "subtitle": null,
+    "published_at": "2024-01-02T12:22:04+01:00",
+    "updated_at": "2024-01-02T12:22:06+01:00",
+    "media_id": "r9kxy3lan9nx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771438,
+      "slug": "tech",
+      "type": "default",
+      "name": "Tech",
+      "style": "nutech",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tech/6296418/databedrijven-verhandelen-ongemerkt-gegevens-van-miljoenen-nederlanders.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296417,
+    "slug": "rooney-na-twaalf-dramatische-weken-ontslagen-als-trainer-van-birmingham-city",
+    "type": "article",
+    "title": "Rooney na twaalf dramatische weken ontslagen als trainer van Birmingham City",
+    "subtitle": null,
+    "published_at": "2024-01-02T12:14:49+01:00",
+    "updated_at": "2024-01-02T12:18:27+01:00",
+    "media_id": "a9kxptzaz80o",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6296417/rooney-na-twaalf-dramatische-weken-ontslagen-als-trainer-van-birmingham-city.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296414,
     "slug": "eerste-storm-van-2024-in-aantocht-vanavond-code-geel-vanwege-storm-henk",
     "type": "article",
@@ -29,7 +75,7 @@
     "title": "Chinese overheid reageert scherp op exportblokkade ASML-chipmachines",
     "subtitle": null,
     "published_at": "2024-01-02T12:02:42+01:00",
-    "updated_at": "2024-01-02T12:02:43+01:00",
+    "updated_at": "2024-01-02T12:18:10+01:00",
     "media_id": "lyxx996aoovz",
     "duration": null,
     "canonical_section": {
@@ -116,13 +162,13 @@
   },
   {
     "id": 6296408,
-    "slug": "nadal-bekroont-langverwachte-rentree-met-fraaie-overwinning-op-thiem",
+    "slug": "nadal-bekroont-langverwachte-rentree-met-fraaie-zege-was-een-emotionele-dag",
     "type": "article",
-    "title": "Nadal bekroont langverwachte rentree met fraaie overwinning op Thiem",
+    "title": "Nadal bekroont langverwachte rentree met fraaie zege: 'Was een emotionele dag'",
     "subtitle": null,
     "published_at": "2024-01-02T11:37:34+01:00",
-    "updated_at": "2024-01-02T11:58:59+01:00",
-    "media_id": "44qx2ooavxd1",
+    "updated_at": "2024-01-02T12:18:46+01:00",
+    "media_id": "xmdx4hgax0m2",
     "duration": null,
     "canonical_section": {
       "id": 1772432,
@@ -133,7 +179,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6296408/nadal-bekroont-langverwachte-rentree-met-fraaie-overwinning-op-thiem.html",
+    "url": "/tennis/6296408/nadal-bekroont-langverwachte-rentree-met-fraaie-zege-was-een-emotionele-dag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6296373/nederland-verliest-van-kroatie-maar-maakt-nog-kans-op-kwartfinales-united-cup.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296379,
-    "slug": "90210-acteur-ian-ziering-ongedeerd-na-aanval-door-motorrijders",
-    "type": "article",
-    "title": "90210-acteur Ian Ziering ongedeerd na aanval door motorrijders",
-    "subtitle": null,
-    "published_at": "2024-01-02T09:46:04+01:00",
-    "updated_at": "2024-01-02T09:49:10+01:00",
-    "media_id": "7htxl7ha6wem",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6296379/90210-acteur-ian-ziering-ongedeerd-na-aanval-door-motorrijders.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296378,
-    "slug": "deurbelcamera-filmt-vuurwerkexplosie-in-midwolda",
-    "type": "video",
-    "title": "Deurbelcamera filmt vuurwerkexplosie in Midwolda",
-    "subtitle": "Video",
-    "published_at": "2024-01-02T09:28:31+01:00",
-    "updated_at": "2024-01-02T10:54:16+01:00",
-    "media_id": "hgqxf2ea5tog",
-    "duration": "0:32",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6296378/deurbelcamera-filmt-vuurwerkexplosie-in-midwolda.html",
     "open_new_window": false,
     "partner": null
   }
