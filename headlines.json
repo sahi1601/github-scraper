@@ -1,5 +1,51 @@
 [
   {
+    "id": 6296360,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-01-02T05:18:39+01:00",
+    "updated_at": "2024-01-02T05:18:40+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6296360/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296359,
+    "slug": "dodental-door-aardbevingen-japan-loopt-op-tsunamiwaarschuwing-ingetrokken",
+    "type": "article",
+    "title": "Dodental door aardbevingen Japan loopt op, tsunamiwaarschuwing ingetrokken",
+    "subtitle": null,
+    "published_at": "2024-01-02T05:18:10+01:00",
+    "updated_at": "2024-01-02T05:18:12+01:00",
+    "media_id": "2lsxnlyakt00",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6296359/dodental-door-aardbevingen-japan-loopt-op-tsunamiwaarschuwing-ingetrokken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296016,
     "slug": "een-maand-geen-alcohol-drinken-zo-pak-je-dat-aan",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6296343/overzicht-oefenduels-en-trainingskampen-van-eredivisie-clubs-in-winterstop.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296340,
-    "slug": "israel-lijkt-deel-van-troepen-terug-te-trekken-uit-gaza",
-    "type": "article",
-    "title": "Israël lijkt deel van troepen terug te trekken uit Gaza",
-    "subtitle": null,
-    "published_at": "2024-01-01T19:38:18+01:00",
-    "updated_at": "2024-01-01T20:30:46+01:00",
-    "media_id": "nb0xwjoac1wo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Oorlog Israël en Hamas",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6296340/israel-lijkt-deel-van-troepen-terug-te-trekken-uit-gaza.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296342,
-    "slug": "live-wk-darts-lees-alles-over-verrassende-uitschakeling-van-gerwen",
-    "type": "article",
-    "title": "Live WK darts | Lees alles over verrassende uitschakeling Van Gerwen",
-    "subtitle": null,
-    "published_at": "2024-01-01T19:30:51+01:00",
-    "updated_at": "2024-01-01T23:08:37+01:00",
-    "media_id": "m6nxvylaefjs",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6296342/live-wk-darts-lees-alles-over-verrassende-uitschakeling-van-gerwen.html",
     "open_new_window": false,
     "partner": null
   }
