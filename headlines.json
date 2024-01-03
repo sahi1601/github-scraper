@@ -1,12 +1,35 @@
 [
   {
+    "id": 6296625,
+    "slug": "kuijt-noemt-van-bommel-aartsrivaal-bij-start-nieuwe-klus-in-belgie",
+    "type": "video",
+    "title": "Kuijt noemt Van Bommel aartsrivaal bij start nieuwe klus in België",
+    "subtitle": "Video",
+    "published_at": "2024-01-03T19:20:05+01:00",
+    "updated_at": "2024-01-03T19:26:33+01:00",
+    "media_id": "h6ixt27asn5d",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6296625/kuijt-noemt-van-bommel-aartsrivaal-bij-start-nieuwe-klus-in-belgie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296600,
     "slug": "weer-hoogwater-in-nederland-ongeveer-dezelfde-schaal-als-rond-kerst",
     "type": "article",
     "title": "Weer hoogwater in Nederland: 'Ongeveer dezelfde schaal als rond Kerst'",
-    "subtitle": "NU+",
+    "subtitle": null,
     "published_at": "2024-01-03T19:17:02+01:00",
-    "updated_at": "2024-01-03T19:17:03+01:00",
+    "updated_at": "2024-01-03T19:27:12+01:00",
     "media_id": "0w2x7p6alukr",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Kuijt wil zich in België bewijzen als coach: 'Bij ADO was de situatie onduidelijk'",
     "subtitle": null,
     "published_at": "2024-01-03T19:01:53+01:00",
-    "updated_at": "2024-01-03T19:14:17+01:00",
+    "updated_at": "2024-01-03T19:22:12+01:00",
     "media_id": "xejxoo4ajz54",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6296587/dierenbescherming-druk-met-vermissingen-en-noodgevallen-tijdens-jaarwisseling.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296583,
-    "slug": "komende-tijd-weer-minder-treinen-rond-schiphol-door-werkzaamheden",
-    "type": "article",
-    "title": "Komende tijd weer minder treinen rond Schiphol door werkzaamheden",
-    "subtitle": null,
-    "published_at": "2024-01-03T15:50:42+01:00",
-    "updated_at": "2024-01-03T15:50:44+01:00",
-    "media_id": "5ejxdjaa7r66",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6296583/komende-tijd-weer-minder-treinen-rond-schiphol-door-werkzaamheden.html",
     "open_new_window": false,
     "partner": null
   }
