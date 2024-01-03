@@ -1,12 +1,35 @@
 [
   {
+    "id": 6296614,
+    "slug": "stier-die-vastzat-op-eilandje-in-maas-ingeburgerd-in-kudde-kerkrade",
+    "type": "article",
+    "title": "Stier die vastzat op eilandje in Maas ingeburgerd in kudde Kerkrade",
+    "subtitle": null,
+    "published_at": "2024-01-03T18:16:28+01:00",
+    "updated_at": "2024-01-03T18:16:29+01:00",
+    "media_id": "id9xk15aauuv",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779220,
+      "slug": "goed-nieuws",
+      "type": "default",
+      "name": "Goed nieuws",
+      "style": "nuoverig",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/goed-nieuws/6296614/stier-die-vastzat-op-eilandje-in-maas-ingeburgerd-in-kudde-kerkrade.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296610,
     "slug": "rusland-en-oekraine-ruilen-in-totaal-bijna-vijfhonderd-krijgsgevangenen-uit",
     "type": "article",
     "title": "Rusland en Oekraïne ruilen in totaal bijna vijfhonderd krijgsgevangenen uit",
     "subtitle": null,
     "published_at": "2024-01-03T17:59:53+01:00",
-    "updated_at": "2024-01-03T18:11:22+01:00",
+    "updated_at": "2024-01-03T18:17:42+01:00",
     "media_id": "t4rxam4anrck",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Dijk in Maastricht deels weggespoeld, woonboten ontruimd",
     "subtitle": null,
     "published_at": "2024-01-03T16:01:43+01:00",
-    "updated_at": "2024-01-03T17:39:12+01:00",
+    "updated_at": "2024-01-03T18:22:54+01:00",
     "media_id": "ch0xacbalqv2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6296579/npo-radio-2-domineert-radiomarkt-in-top-2000-week.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296576,
-    "slug": "van-dijk-maakt-als-enige-nederlander-kans-op-plek-in-wereldelftal-van-het-jaar",
-    "type": "article",
-    "title": "Van Dijk maakt als enige Nederlander kans op plek in wereldelftal van het jaar",
-    "subtitle": null,
-    "published_at": "2024-01-03T14:51:06+01:00",
-    "updated_at": "2024-01-03T16:52:32+01:00",
-    "media_id": "g43xljoa8yc2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6296576/van-dijk-maakt-als-enige-nederlander-kans-op-plek-in-wereldelftal-van-het-jaar.html",
     "open_new_window": false,
     "partner": null
   }
