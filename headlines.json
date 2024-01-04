@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296738,
+    "slug": "rechtszaak-over-aanval-op-auteur-salman-rushdie-vertraagd-door-memoires",
+    "type": "article",
+    "title": "Rechtszaak over aanval op auteur Salman Rushdie vertraagd door memoires",
+    "subtitle": null,
+    "published_at": "2024-01-04T17:38:44+01:00",
+    "updated_at": "2024-01-04T17:38:47+01:00",
+    "media_id": "gy0xjdpa3cfe",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6296738/rechtszaak-over-aanval-op-auteur-salman-rushdie-vertraagd-door-memoires.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296735,
     "slug": "na-ruim-een-dag-nog-180-vrachtwagens-vast-op-zweedse-snelweg-door-sneeuw",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Van der Poel waarschuwt tegenstand na nieuwe masterclass: 'Mijn piek komt nog'",
     "subtitle": null,
     "published_at": "2024-01-04T17:00:32+01:00",
-    "updated_at": "2024-01-04T17:00:33+01:00",
+    "updated_at": "2024-01-04T17:36:37+01:00",
     "media_id": "ya6xzgfa9hkn",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Van der Poel gunt Van Aert ook in veldrit Koksijde geen schijn van kans",
     "subtitle": null,
     "published_at": "2024-01-04T14:42:54+01:00",
-    "updated_at": "2024-01-04T16:18:33+01:00",
+    "updated_at": "2024-01-04T17:38:12+01:00",
     "media_id": "hovx9vvaemv8",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6296717/burgemeester-maastricht-over-woonboten-en-brug-beroerd-scenario.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296695,
-    "slug": "namen-van-bekende-mensen-duiken-op-in-epstein-zaak-dit-weten-we-nu",
-    "type": "article",
-    "title": "Namen van bekende mensen duiken op in Epstein-zaak: dit weten we nu",
-    "subtitle": "NU+",
-    "published_at": "2024-01-04T14:04:10+01:00",
-    "updated_at": "2024-01-04T15:55:07+01:00",
-    "media_id": "3onxdlmakwne",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6296695/namen-van-bekende-mensen-duiken-op-in-epstein-zaak-dit-weten-we-nu.html",
     "open_new_window": false,
     "partner": null
   }
