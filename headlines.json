@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296757,
+    "slug": "dode-door-bedrijfsongeval-frieslandcampina-in-gerkesklooster",
+    "type": "article",
+    "title": "Dode door bedrijfsongeval FrieslandCampina in Gerkesklooster",
+    "subtitle": null,
+    "published_at": "2024-01-04T22:22:35+01:00",
+    "updated_at": "2024-01-04T22:23:41+01:00",
+    "media_id": "q7ox3i3a7inf",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6296757/dode-door-bedrijfsongeval-frieslandcampina-in-gerkesklooster.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296756,
     "slug": "verdwaald-babyolifantje-herenigd-met-moeder-in-india",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6296743/son-mieux-claude-en-meau-voegen-zich-bij-vrienden-van-amstel-live.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296741,
-    "slug": "raven-van-dorst-gaat-naar-het-buitenland-voor-nieuw-seizoen-nachtdieren",
-    "type": "article",
-    "title": "Raven van Dorst gaat naar het buitenland voor nieuw seizoen Nachtdieren",
-    "subtitle": null,
-    "published_at": "2024-01-04T18:03:50+01:00",
-    "updated_at": "2024-01-04T21:38:31+01:00",
-    "media_id": "40jxi6uaapya",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6296741/raven-van-dorst-gaat-naar-het-buitenland-voor-nieuw-seizoen-nachtdieren.html",
     "open_new_window": false,
     "partner": null
   }
