@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296825,
+    "slug": "bij-vdl-staan-140-banen-op-de-tocht-door-stopzetten-bedrijfsonderdeel",
+    "type": "article",
+    "title": "Bij VDL staan 140 banen op de tocht door stopzetten bedrijfsonderdeel",
+    "subtitle": null,
+    "published_at": "2024-01-05T13:26:48+01:00",
+    "updated_at": "2024-01-05T13:26:49+01:00",
+    "media_id": "e9rxwilajd31",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6296825/bij-vdl-staan-140-banen-op-de-tocht-door-stopzetten-bedrijfsonderdeel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296820,
     "slug": "dodental-aardbeving-japan-loopt-op-richting-100-nog-222-mensen-vermist",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Winteropvang voor daklozen in grote steden weer open vanwege koude nachten",
     "subtitle": null,
     "published_at": "2024-01-05T12:36:11+01:00",
-    "updated_at": "2024-01-05T12:36:12+01:00",
+    "updated_at": "2024-01-05T12:57:19+01:00",
     "media_id": "r6qxfmva5z9z",
     "duration": null,
     "canonical_section": {
@@ -254,13 +277,13 @@
   },
   {
     "id": 6296805,
-    "slug": "liveblog-hoogwater-grote-wegen-in-oosten-van-het-land-zijn-ondergelopen",
+    "slug": "liveblog-hoogwater-rijn-bereikt-zondag-opnieuw-hoogwaterpiek",
     "type": "article",
-    "title": "Liveblog hoogwater | Grote wegen in oosten van het land zijn ondergelopen",
+    "title": "Liveblog hoogwater | Rijn bereikt zondag opnieuw hoogwaterpiek",
     "subtitle": null,
     "published_at": "2024-01-05T11:13:10+01:00",
-    "updated_at": "2024-01-05T11:20:39+01:00",
-    "media_id": "luxxxdcai5ig",
+    "updated_at": "2024-01-05T12:56:06+01:00",
+    "media_id": "0exxmz8am9g5",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6296805/liveblog-hoogwater-grote-wegen-in-oosten-van-het-land-zijn-ondergelopen.html",
+    "url": "/binnenland/6296805/liveblog-hoogwater-rijn-bereikt-zondag-opnieuw-hoogwaterpiek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6296792/motorrijder-komt-om-bij-aanrijding-met-onherkenbare-politieauto-bij-arnhem.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296782,
-    "slug": "griekspoor-slaat-toernooi-van-adelaide-over-in-aanloop-naar-australian-open",
-    "type": "article",
-    "title": "Griekspoor slaat toernooi van Adelaide over in aanloop naar Australian Open",
-    "subtitle": null,
-    "published_at": "2024-01-05T09:48:48+01:00",
-    "updated_at": "2024-01-05T09:48:49+01:00",
-    "media_id": "9fzx70qai89c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6296782/griekspoor-slaat-toernooi-van-adelaide-over-in-aanloop-naar-australian-open.html",
     "open_new_window": false,
     "partner": null
   }
