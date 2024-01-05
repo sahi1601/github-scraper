@@ -1,5 +1,51 @@
 [
   {
+    "id": 6296889,
+    "slug": "groenewoud-is-niet-meer-de-eeuwige-tweede-werd-vergeleken-met-zoetemelk",
+    "type": "article",
+    "title": "Groenewoud is niet meer de eeuwige tweede: 'Werd vergeleken met Zoetemelk'",
+    "subtitle": null,
+    "published_at": "2024-01-05T23:18:21+01:00",
+    "updated_at": "2024-01-05T23:22:36+01:00",
+    "media_id": "9itxbkbadfj2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6296889/groenewoud-is-niet-meer-de-eeuwige-tweede-werd-vergeleken-met-zoetemelk.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6296894,
+    "slug": "iran-arresteert-elf-verdachten-van-bomaanslagen",
+    "type": "article",
+    "title": "Iran arresteert elf verdachten van bomaanslagen",
+    "subtitle": null,
+    "published_at": "2024-01-05T23:14:25+01:00",
+    "updated_at": "2024-01-05T23:15:35+01:00",
+    "media_id": "o2qx7j4acj46",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6296894/iran-arresteert-elf-verdachten-van-bomaanslagen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296893,
     "slug": "tottenham-hotspur-bereikt-dankzij-prachtgoal-volgende-ronde-in-fa-cup",
     "type": "article",
@@ -190,7 +236,7 @@
     "title": "Groenewoud klopt Schouten en Wiklund en verrast met EK-goud op 3.000 meter",
     "subtitle": null,
     "published_at": "2024-01-05T21:12:25+01:00",
-    "updated_at": "2024-01-05T23:01:07+01:00",
+    "updated_at": "2024-01-05T23:21:21+01:00",
     "media_id": "acvx8ycan3jk",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6296874/waterpolosters-hebben-bij-ek-start-in-eigen-land-geen-kind-aan-kroatie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296871,
-    "slug": "noren-schaatsen-wereldrecord-achtervolging-in-thialf-brons-voor-nederland",
-    "type": "article",
-    "title": "Noren schaatsen wereldrecord achtervolging in Thialf, brons voor Nederland",
-    "subtitle": null,
-    "published_at": "2024-01-05T19:53:45+01:00",
-    "updated_at": "2024-01-05T21:13:48+01:00",
-    "media_id": "g8ax2ija5ix1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6296871/noren-schaatsen-wereldrecord-achtervolging-in-thialf-brons-voor-nederland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296870,
-    "slug": "bnnvara-presentator-khalid-kasem-legt-werk-voorlopig-neer-na-beschuldiging-omkoping",
-    "type": "article",
-    "title": "BNNVARA-presentator Khalid Kasem legt werk voorlopig neer na beschuldiging omkoping",
-    "subtitle": null,
-    "published_at": "2024-01-05T19:12:31+01:00",
-    "updated_at": "2024-01-05T20:27:21+01:00",
-    "media_id": "sy3x7q8a7fg6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6296870/bnnvara-presentator-khalid-kasem-legt-werk-voorlopig-neer-na-beschuldiging-omkoping.html",
     "open_new_window": false,
     "partner": null
   }
