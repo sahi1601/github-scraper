@@ -1,5 +1,28 @@
 [
   {
+    "id": 6296893,
+    "slug": "tottenham-hotspur-bereikt-dankzij-prachtgoal-volgende-ronde-in-fa-cup",
+    "type": "article",
+    "title": "Tottenham Hotspur bereikt dankzij prachtgoal volgende ronde in FA Cup",
+    "subtitle": null,
+    "published_at": "2024-01-05T23:01:40+01:00",
+    "updated_at": "2024-01-05T23:04:53+01:00",
+    "media_id": "zlfx8mla6tyl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6296893/tottenham-hotspur-bereikt-dankzij-prachtgoal-volgende-ronde-in-fa-cup.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296891,
     "slug": "britten-worden-geevacueerd-vanwege-ernstige-overstomingen",
     "type": "video",
@@ -75,7 +98,7 @@
     "title": "Nuis laat zich niet weer verrassen door De Boo en pakt EK-goud op 1.000 meter",
     "subtitle": null,
     "published_at": "2024-01-05T21:56:24+01:00",
-    "updated_at": "2024-01-05T22:19:06+01:00",
+    "updated_at": "2024-01-05T23:02:21+01:00",
     "media_id": "njdx6m1a7rw0",
     "duration": null,
     "canonical_section": {
@@ -98,19 +121,19 @@
     "title": "Madrid laat per ongeluk video's voor Driekoningen maken met blackface",
     "subtitle": null,
     "published_at": "2024-01-05T21:55:56+01:00",
-    "updated_at": "2024-01-05T22:11:35+01:00",
+    "updated_at": "2024-01-05T22:46:47+01:00",
     "media_id": "td3xld8ai27z",
     "duration": null,
     "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
+      "id": 1771436,
+      "slug": "buitenland",
       "type": "default",
-      "name": "Tech",
-      "style": "nutech",
+      "name": "Buitenland",
+      "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/tech/6296887/madrid-laat-per-ongeluk-videos-voor-driekoningen-maken-met-blackface.html",
+    "url": "/buitenland/6296887/madrid-laat-per-ongeluk-videos-voor-driekoningen-maken-met-blackface.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Groenewoud klopt Schouten en Wiklund en verrast met EK-goud op 3.000 meter",
     "subtitle": null,
     "published_at": "2024-01-05T21:12:25+01:00",
-    "updated_at": "2024-01-05T21:36:46+01:00",
+    "updated_at": "2024-01-05T23:01:07+01:00",
     "media_id": "acvx8ycan3jk",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6296870/bnnvara-presentator-khalid-kasem-legt-werk-voorlopig-neer-na-beschuldiging-omkoping.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296868,
-    "slug": "om-onderzoekt-minder-geweldszaken-rondom-jaarwisseling-dan-vorig-jaar",
-    "type": "article",
-    "title": "OM onderzoekt minder geweldszaken rondom jaarwisseling dan vorig jaar",
-    "subtitle": null,
-    "published_at": "2024-01-05T19:05:28+01:00",
-    "updated_at": "2024-01-05T19:40:20+01:00",
-    "media_id": "1txx1gdalvyg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772236,
-      "slug": "jaarwisseling",
-      "type": "files",
-      "name": "Jaarwisseling",
-      "style": "nu",
-      "media_id": "m1oxc1gaswou",
-      "partner": null
-    },
-    "url": "/jaarwisseling/6296868/om-onderzoekt-minder-geweldszaken-rondom-jaarwisseling-dan-vorig-jaar.html",
     "open_new_window": false,
     "partner": null
   }
