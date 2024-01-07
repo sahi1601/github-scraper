@@ -1,12 +1,58 @@
 [
   {
+    "id": 6297049,
+    "slug": "trainer-sao-paulo-wordt-nieuwe-bondscoach-brazilie-na-afhaken-ancelotti",
+    "type": "article",
+    "title": "Trainer São Paulo wordt nieuwe bondscoach Brazilië na afhaken Ancelotti",
+    "subtitle": null,
+    "published_at": "2024-01-07T22:42:45+01:00",
+    "updated_at": "2024-01-07T22:42:47+01:00",
+    "media_id": "u4cxc6ja6jvl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6297049/trainer-sao-paulo-wordt-nieuwe-bondscoach-brazilie-na-afhaken-ancelotti.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297048,
+    "slug": "werk-aan-nooddam-bosscherveld-in-maastricht-gaat-maandag-verder",
+    "type": "article",
+    "title": "Werk aan nooddam Bosscherveld in Maastricht gaat maandag verder",
+    "subtitle": null,
+    "published_at": "2024-01-07T22:26:59+01:00",
+    "updated_at": "2024-01-07T22:27:00+01:00",
+    "media_id": "lomxtahaqmat",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779258,
+      "slug": "binnenland-en-buitenland",
+      "type": "default",
+      "name": "Binnen- en buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland-en-buitenland/6297048/werk-aan-nooddam-bosscherveld-in-maastricht-gaat-maandag-verder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297047,
     "slug": "ijsclubs-druk-in-de-weer-met-prepareren-natuurijsbanen",
     "type": "video",
     "title": "IJsclubs druk in de weer met prepareren natuurijsbanen",
     "subtitle": "Video",
     "published_at": "2024-01-07T21:52:34+01:00",
-    "updated_at": "2024-01-07T21:52:35+01:00",
+    "updated_at": "2024-01-07T22:37:18+01:00",
     "media_id": "3l8x1gvajpm9",
     "duration": "0:46",
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6297028/drone-filmt-spuisluizen-bij-afsluitdijk-tijdens-zonsondergang.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297027,
-    "slug": "groenewoud-pakt-op-massastart-derde-goud-van-ek-hoolwerf-kansloos-na-val",
-    "type": "article",
-    "title": "Groenewoud pakt op massastart derde goud van EK, Hoolwerf kansloos na val",
-    "subtitle": null,
-    "published_at": "2024-01-07T17:24:01+01:00",
-    "updated_at": "2024-01-07T18:00:17+01:00",
-    "media_id": "fr0xteka5gol",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6297027/groenewoud-pakt-op-massastart-derde-goud-van-ek-hoolwerf-kansloos-na-val.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297026,
-    "slug": "van-bronckhorst-ziet-aanstelling-als-trainer-van-besiktas-aan-neus-voorbijgaan",
-    "type": "article",
-    "title": "Van Bronckhorst ziet aanstelling als trainer van Besiktas aan neus voorbijgaan",
-    "subtitle": null,
-    "published_at": "2024-01-07T17:18:09+01:00",
-    "updated_at": "2024-01-07T17:43:02+01:00",
-    "media_id": "q8ex4vrav9e8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6297026/van-bronckhorst-ziet-aanstelling-als-trainer-van-besiktas-aan-neus-voorbijgaan.html",
     "open_new_window": false,
     "partner": null
   }
