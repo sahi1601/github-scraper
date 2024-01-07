@@ -1,12 +1,58 @@
 [
   {
+    "id": 6297036,
+    "slug": "waterpolosters-laten-thuisfans-weer-juichen-en-gaan-in-stijl-naar-kwartfinale",
+    "type": "article",
+    "title": "Waterpolosters laten thuisfans wéér juichen en gaan in stijl naar kwartfinale",
+    "subtitle": null,
+    "published_at": "2024-01-07T19:33:25+01:00",
+    "updated_at": "2024-01-07T19:39:34+01:00",
+    "media_id": "vdyxgb9a9aqn",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6297036/waterpolosters-laten-thuisfans-weer-juichen-en-gaan-in-stijl-naar-kwartfinale.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297037,
+    "slug": "beune-checkte-alles-drie-keer-voor-achtervolging-hoop-dat-het-gedoe-nu-klaar-is",
+    "type": "article",
+    "title": "Beune checkte alles drie keer voor achtervolging: 'Hoop dat het gedoe nu klaar is'",
+    "subtitle": null,
+    "published_at": "2024-01-07T19:29:16+01:00",
+    "updated_at": "2024-01-07T19:41:42+01:00",
+    "media_id": "bx9xkqxasi3f",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6297037/beune-checkte-alles-drie-keer-voor-achtervolging-hoop-dat-het-gedoe-nu-klaar-is.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297038,
     "slug": "gakpo-en-gravenberch-winnen-met-liverpool-fa-cup-topper-bij-arsenal",
     "type": "article",
     "title": "Gakpo en Gravenberch winnen met Liverpool FA Cup-topper bij Arsenal",
     "subtitle": null,
     "published_at": "2024-01-07T19:27:25+01:00",
-    "updated_at": "2024-01-07T19:27:55+01:00",
+    "updated_at": "2024-01-07T19:38:49+01:00",
     "media_id": "gaax3wuam963",
     "duration": null,
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "De Boo imponeert ook met EK-goud op 500 meter: 'Dit verrast me écht nog wel'",
     "subtitle": null,
     "published_at": "2024-01-07T16:41:46+01:00",
-    "updated_at": "2024-01-07T18:02:08+01:00",
+    "updated_at": "2024-01-07T19:30:01+01:00",
     "media_id": "wr6x6svaug5d",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6297020/presentatoren-emma-wortelboer-en-jurre-geluk-stoppen-bij-spuiten-en-slikken.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297017,
-    "slug": "nuis-verliest-europese-titel-op-1500-meter-verrassend-aan-noor-kongshaug",
-    "type": "article",
-    "title": "Nuis verliest Europese titel op 1.500 meter verrassend aan Noor Kongshaug",
-    "subtitle": null,
-    "published_at": "2024-01-07T15:15:21+01:00",
-    "updated_at": "2024-01-07T17:27:19+01:00",
-    "media_id": "3n4xgaaaawq7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6297017/nuis-verliest-europese-titel-op-1500-meter-verrassend-aan-noor-kongshaug.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296705,
-    "slug": "stemmen-op-golden-globe-doe-je-niet-zomaar-honderden-films-herkijken",
-    "type": "article",
-    "title": "Stemmen op Golden Globe doe je niet zomaar: honderden films (her)kijken",
-    "subtitle": "NU+",
-    "published_at": "2024-01-07T15:06:35+01:00",
-    "updated_at": "2024-01-07T15:06:50+01:00",
-    "media_id": "ckuxz6oaek25",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6296705/stemmen-op-golden-globe-doe-je-niet-zomaar-honderden-films-herkijken.html",
     "open_new_window": false,
     "partner": null
   }
