@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297000,
+    "slug": "defensieminister-vs-lag-dagen-in-het-ziekenhuis-zonder-dat-president-het-wist",
+    "type": "article",
+    "title": "Defensieminister VS lag dagen in het ziekenhuis zonder dat president het wist",
+    "subtitle": null,
+    "published_at": "2024-01-07T11:27:15+01:00",
+    "updated_at": "2024-01-07T11:27:17+01:00",
+    "media_id": "b79x3ztawwiw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6297000/defensieminister-vs-lag-dagen-in-het-ziekenhuis-zonder-dat-president-het-wist.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6296998,
     "slug": "timelapse-toont-route-van-s-werelds-grootste-ijsberg-in-december",
     "type": "video",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6296997,
-    "slug": "boeings-in-europa-mogen-blijven-vliegen-ondanks-incident-met-gat-in-romp",
+    "slug": "europese-boeings-mogen-blijven-vliegen-ondanks-incident-met-gat-in-romp",
     "type": "article",
-    "title": "Boeings in Europa mogen blijven vliegen ondanks incident met gat in romp",
+    "title": "Europese Boeings mogen blijven vliegen ondanks incident met gat in romp",
     "subtitle": null,
     "published_at": "2024-01-07T10:51:01+01:00",
-    "updated_at": "2024-01-07T11:10:59+01:00",
+    "updated_at": "2024-01-07T11:18:33+01:00",
     "media_id": "a23xlniay9az",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6296997/boeings-in-europa-mogen-blijven-vliegen-ondanks-incident-met-gat-in-romp.html",
+    "url": "/economie/6296997/europese-boeings-mogen-blijven-vliegen-ondanks-incident-met-gat-in-romp.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/het-woord/6296981/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296976,
-    "slug": "ghiotto-geniet-van-duels-met-roest-hij-is-een-idool-als-van-der-poel-en-kramer",
-    "type": "article",
-    "title": "Ghiotto geniet van duels met Roest: 'Hij is een idool als Van der Poel en Kramer'",
-    "subtitle": null,
-    "published_at": "2024-01-07T05:27:49+01:00",
-    "updated_at": "2024-01-07T10:16:55+01:00",
-    "media_id": "xkqx1m9ag8p4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6296976/ghiotto-geniet-van-duels-met-roest-hij-is-een-idool-als-van-der-poel-en-kramer.html",
     "open_new_window": false,
     "partner": null
   }
