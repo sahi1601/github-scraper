@@ -1,12 +1,35 @@
 [
   {
+    "id": 6297006,
+    "slug": "live-ek-schaatsen-nederlandse-vrouwen-solo-in-actie-op-ploegenachtervolging",
+    "type": "article",
+    "title": "Live EK schaatsen | Nederlandse vrouwen solo in actie op ploegenachtervolging",
+    "subtitle": null,
+    "published_at": "2024-01-07T13:40:04+01:00",
+    "updated_at": "2024-01-07T13:40:05+01:00",
+    "media_id": "px3xctya8u4v",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6297006/live-ek-schaatsen-nederlandse-vrouwen-solo-in-actie-op-ploegenachtervolging.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297004,
     "slug": "inmiddels-32-mensen-opgepakt-in-iran-na-bloedige-aanslag-tijdens-herdenking",
     "type": "article",
     "title": "Inmiddels 32 mensen opgepakt in Iran na bloedige aanslag tijdens herdenking",
     "subtitle": null,
     "published_at": "2024-01-07T12:58:17+01:00",
-    "updated_at": "2024-01-07T13:06:30+01:00",
+    "updated_at": "2024-01-07T13:37:45+01:00",
     "media_id": "8w7x9zzayorg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6296988/club-reist-26-uur-en-14000-kilometer-voor-frans-bekerduel-en-verliest-met-12-0.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6296986,
-    "slug": "kamp-amersfoort-vernieuwt-museum-jeroen-kijk-in-de-vegte-doet-audiotour",
-    "type": "article",
-    "title": "Kamp Amersfoort vernieuwt museum, Jeroen Kijk in de Vegte doet audiotour",
-    "subtitle": null,
-    "published_at": "2024-01-07T08:16:01+01:00",
-    "updated_at": "2024-01-07T11:32:42+01:00",
-    "media_id": "l4dxzfoarwme",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772492,
-      "slug": "4-en-5-mei",
-      "type": "files",
-      "name": "4 en 5 mei",
-      "style": "nu",
-      "media_id": "m1oxrh7a86wb",
-      "partner": null
-    },
-    "url": "/4-en-5-mei/6296986/kamp-amersfoort-vernieuwt-museum-jeroen-kijk-in-de-vegte-doet-audiotour.html",
     "open_new_window": false,
     "partner": null
   }
