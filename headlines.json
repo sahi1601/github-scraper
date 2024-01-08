@@ -1,12 +1,35 @@
 [
   {
-    "id": 6293063,
-    "slug": "niet-uitglijden-op-een-gladde-weg-het-kan-helpen-als-een-pinguin-te-lopen",
+    "id": 6297055,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
     "type": "article",
-    "title": "Niet uitglijden op een gladde weg? 'Het kan helpen als een pinguïn te lopen'",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-01-08T05:18:45+01:00",
+    "updated_at": "2024-01-08T05:18:46+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6297055/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6293063,
+    "slug": "niet-uitglijden-op-een-gladde-weg-lopen-als-een-pinguin-kan-helpen",
+    "type": "article",
+    "title": "Niet uitglijden op een gladde weg? 'Lopen als een pinguïn kan helpen'",
     "subtitle": "NU+",
     "published_at": "2024-01-08T05:16:40+01:00",
-    "updated_at": "2024-01-08T05:16:41+01:00",
+    "updated_at": "2024-01-08T05:22:04+01:00",
     "media_id": "q8zx9c8amnhj",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/slimmer-leven/6293063/niet-uitglijden-op-een-gladde-weg-het-kan-helpen-als-een-pinguin-te-lopen.html",
+    "url": "/slimmer-leven/6293063/niet-uitglijden-op-een-gladde-weg-lopen-als-een-pinguin-kan-helpen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Nuis raakt niet in paniek van EK-nederlaag: 'Na een frikandel ben ik dit kwijt'",
     "subtitle": null,
     "published_at": "2024-01-08T05:10:28+01:00",
-    "updated_at": "2024-01-08T05:10:29+01:00",
+    "updated_at": "2024-01-08T05:25:43+01:00",
     "media_id": "04bxazgaudyk",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6297033/leerdam-moet-richting-wk-leren-omgaan-met-blessure-mijn-timing-is-eraan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297036,
-    "slug": "waterpolosters-in-stijl-naar-kwartfinales-ek-mannen-boeken-eerste-zege",
-    "type": "article",
-    "title": "Waterpolosters in stijl naar kwartfinales EK, mannen boeken eerste zege",
-    "subtitle": null,
-    "published_at": "2024-01-07T19:33:25+01:00",
-    "updated_at": "2024-01-07T22:04:26+01:00",
-    "media_id": "vdyxgb9a9aqn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6297036/waterpolosters-in-stijl-naar-kwartfinales-ek-mannen-boeken-eerste-zege.html",
     "open_new_window": false,
     "partner": null
   }
