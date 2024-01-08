@@ -1,12 +1,35 @@
 [
   {
+    "id": 6297042,
+    "slug": "uniek-kijkje-in-hoogovens-tata-steel-zo-immens-zijn-de-hoogovens",
+    "type": "video",
+    "title": "Uniek kijkje in hoogovens Tata Steel: zo immens zijn de hoogovens",
+    "subtitle": "Video",
+    "published_at": "2024-01-08T06:13:11+01:00",
+    "updated_at": "2024-01-08T06:13:11+01:00",
+    "media_id": "c18xnyjape7q",
+    "duration": "3:23",
+    "canonical_section": {
+      "id": 1779320,
+      "slug": "tatasteel",
+      "type": "files",
+      "name": "Tata Steel",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/tatasteel/6297042/uniek-kijkje-in-hoogovens-tata-steel-zo-immens-zijn-de-hoogovens.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297056,
-    "slug": "kleed-je-warm-aan-door-wind-en-vorst-voelt-het-extra-koud",
+    "slug": "handschoenen-paraat-door-wind-en-vorst-voelt-het-extra-koud-aan",
     "type": "article",
-    "title": "Kleed je warm aan: door wind en vorst voelt het extra koud",
+    "title": "Handschoenen paraat: door wind en vorst voelt het extra koud aan",
     "subtitle": "Weerbericht",
     "published_at": "2024-01-08T06:07:12+01:00",
-    "updated_at": "2024-01-08T06:07:13+01:00",
+    "updated_at": "2024-01-08T06:26:20+01:00",
     "media_id": "tfexnknawxcl",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6297056/kleed-je-warm-aan-door-wind-en-vorst-voelt-het-extra-koud.html",
+    "url": "/weerbericht/6297056/handschoenen-paraat-door-wind-en-vorst-voelt-het-extra-koud-aan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,12 +139,12 @@
   },
   {
     "id": 6297039,
-    "slug": "nuis-raakt-niet-in-paniek-van-ek-nederlaag-na-een-frikandel-ben-ik-dit-kwijt",
+    "slug": "nuis-snapt-niets-van-laffe-finish-op-1500-meter-dacht-dat-ik-er-al-was",
     "type": "article",
-    "title": "Nuis raakt niet in paniek van EK-nederlaag: 'Na een frikandel ben ik dit kwijt'",
+    "title": "Nuis snapt niets van 'laffe finish' op 1.500 meter: 'Dacht dat ik er al was'",
     "subtitle": null,
     "published_at": "2024-01-08T05:10:28+01:00",
-    "updated_at": "2024-01-08T05:25:43+01:00",
+    "updated_at": "2024-01-08T06:28:29+01:00",
     "media_id": "04bxazgaudyk",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6297039/nuis-raakt-niet-in-paniek-van-ek-nederlaag-na-een-frikandel-ben-ik-dit-kwijt.html",
+    "url": "/schaatsen/6297039/nuis-snapt-niets-van-laffe-finish-op-1500-meter-dacht-dat-ik-er-al-was.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6297041/reddingswerkers-onderweg-naar-familie-in-ondergelopen-grot-slovenie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297040,
-    "slug": "koopmeiners-helpt-atalanta-aan-punt-bij-roma-debuut-huijsen-en-rood-mourinho",
-    "type": "article",
-    "title": "Koopmeiners helpt Atalanta aan punt bij Roma-debuut Huijsen en rood Mourinho",
-    "subtitle": null,
-    "published_at": "2024-01-07T19:58:56+01:00",
-    "updated_at": "2024-01-07T23:37:41+01:00",
-    "media_id": "q5cxpe8afd8c",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6297040/koopmeiners-helpt-atalanta-aan-punt-bij-roma-debuut-huijsen-en-rood-mourinho.html",
     "open_new_window": false,
     "partner": null
   }
