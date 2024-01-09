@@ -1,5 +1,51 @@
 [
   {
+    "id": 6297253,
+    "slug": "welke-herinneringen-heb-jij-aan-burgemeester-aboutaleb",
+    "type": "article",
+    "title": "Welke herinneringen heb jij aan burgemeester Aboutaleb?",
+    "subtitle": "Praat mee",
+    "published_at": "2024-01-09T17:43:53+01:00",
+    "updated_at": "2024-01-09T17:43:55+01:00",
+    "media_id": "4izxc5gakm55",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779134,
+      "slug": "stelling",
+      "type": "default",
+      "name": "Stelling en Praat Mee",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/stelling/6297253/welke-herinneringen-heb-jij-aan-burgemeester-aboutaleb.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297254,
+    "slug": "zo-zorgen-woke-en-klimaatverandering-voor-een-conservatievere-jeugd",
+    "type": "video",
+    "title": "Zo zorgen 'woke' en klimaatverandering voor een conservatievere jeugd",
+    "subtitle": "Video",
+    "published_at": "2024-01-09T17:36:47+01:00",
+    "updated_at": "2024-01-09T17:36:48+01:00",
+    "media_id": "s5ixft5avftf",
+    "duration": "10:09",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6297254/zo-zorgen-woke-en-klimaatverandering-voor-een-conservatievere-jeugd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297248,
     "slug": "nog-steeds-topdrukte-en-langere-wachttijden-bij-anwb-door-vorst",
     "type": "article",
@@ -282,7 +328,7 @@
     "title": "Ajax zet in op verrassende komst van voormalig Liverpool-aanvoerder Henderson",
     "subtitle": null,
     "published_at": "2024-01-09T14:48:49+01:00",
-    "updated_at": "2024-01-09T15:13:37+01:00",
+    "updated_at": "2024-01-09T17:43:27+01:00",
     "media_id": "37cx56ua5zcf",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6297224/winterswijk-dolblij-na-toewijzing-marathon-ik-verwacht-een-gekkenhuis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297225,
-    "slug": "woonboten-liggen-in-modder-na-dichten-nooddam-in-maastricht",
-    "type": "video",
-    "title": "Woonboten liggen in modder na dichten nooddam in Maastricht",
-    "subtitle": "Video",
-    "published_at": "2024-01-09T13:22:22+01:00",
-    "updated_at": "2024-01-09T13:35:14+01:00",
-    "media_id": "r8rxqzgagv9l",
-    "duration": "0:36",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6297225/woonboten-liggen-in-modder-na-dichten-nooddam-in-maastricht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297222,
-    "slug": "laatste-grote-warenhuisketen-van-duitsland-vraagt-faillissement-aan",
-    "type": "article",
-    "title": "Laatste grote warenhuisketen van Duitsland vraagt faillissement aan",
-    "subtitle": null,
-    "published_at": "2024-01-09T13:16:03+01:00",
-    "updated_at": "2024-01-09T17:28:36+01:00",
-    "media_id": "xcvx0ulag98l",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6297222/laatste-grote-warenhuisketen-van-duitsland-vraagt-faillissement-aan.html",
     "open_new_window": false,
     "partner": null
   }
