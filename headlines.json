@@ -1,12 +1,35 @@
 [
   {
+    "id": 6297378,
+    "slug": "is-het-gevaarlijk-als-je-bij-kou-blauwe-of-witte-handen-krijgt",
+    "type": "video",
+    "title": "Is het gevaarlijk als je bij kou blauwe of witte handen krijgt?",
+    "subtitle": "Video",
+    "published_at": "2024-01-10T17:25:16+01:00",
+    "updated_at": "2024-01-10T17:25:27+01:00",
+    "media_id": "ak4xbrta6jbv",
+    "duration": "4:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6297378/is-het-gevaarlijk-als-je-bij-kou-blauwe-of-witte-handen-krijgt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297373,
     "slug": "kuipers-de-vijfde-minister-van-kabinet-rutte-iv-die-opstapt-een-overzicht",
     "type": "article",
     "title": "Kuipers de vijfde minister van kabinet-Rutte IV die opstapt: een overzicht",
     "subtitle": null,
     "published_at": "2024-01-10T17:19:14+01:00",
-    "updated_at": "2024-01-10T17:19:15+01:00",
+    "updated_at": "2024-01-10T17:31:42+01:00",
     "media_id": "grwxrgdalibd",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6297374,
-    "slug": "sam-lammers-keert-bij-fc-utrecht-terug-op-de-nederlandse-velden",
+    "slug": "lammers-keert-bij-fc-utrecht-terug-in-eredivisie-nec-strikt-luxemburgs-international",
     "type": "article",
-    "title": "Sam Lammers keert bij FC Utrecht terug op de Nederlandse velden",
+    "title": "Lammers keert bij FC Utrecht terug in Eredivisie, NEC strikt Luxemburgs international",
     "subtitle": null,
     "published_at": "2024-01-10T17:03:40+01:00",
-    "updated_at": "2024-01-10T17:03:42+01:00",
+    "updated_at": "2024-01-10T17:31:00+01:00",
     "media_id": "aqux8mnaubv8",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6297374/sam-lammers-keert-bij-fc-utrecht-terug-op-de-nederlandse-velden.html",
+    "url": "/voetbal/6297374/lammers-keert-bij-fc-utrecht-terug-in-eredivisie-nec-strikt-luxemburgs-international.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Gijzelingen, explosies en méér bendegeweld: dit speelt er in Ecuador",
     "subtitle": "NU+",
     "published_at": "2024-01-10T16:23:04+01:00",
-    "updated_at": "2024-01-10T16:50:28+01:00",
+    "updated_at": "2024-01-10T17:20:08+01:00",
     "media_id": "6obxthta9ogp",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Ernst Kuipers stopt per direct als demissionair minister van Volksgezondheid",
     "subtitle": null,
     "published_at": "2024-01-10T16:17:44+01:00",
-    "updated_at": "2024-01-10T17:17:02+01:00",
+    "updated_at": "2024-01-10T17:25:50+01:00",
     "media_id": "oudx3nca8cbw",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Russische raketwerper knalt uit elkaar na Oekraïense aanval",
     "subtitle": "Video",
     "published_at": "2024-01-10T14:25:31+01:00",
-    "updated_at": "2024-01-10T16:28:36+01:00",
+    "updated_at": "2024-01-10T17:26:22+01:00",
     "media_id": "7vex0ibaord3",
     "duration": "0:36",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6297354/russische-raketwerper-knalt-uit-elkaar-na-oekraiense-aanval.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297352,
-    "slug": "smaadzaak-tegen-maxime-meiland-uitgesteld-tot-februari",
-    "type": "article",
-    "title": "Smaadzaak tegen Maxime Meiland uitgesteld tot februari",
-    "subtitle": null,
-    "published_at": "2024-01-10T14:22:56+01:00",
-    "updated_at": "2024-01-10T14:25:46+01:00",
-    "media_id": "jgoxx2aawah4",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6297352/smaadzaak-tegen-maxime-meiland-uitgesteld-tot-februari.html",
     "open_new_window": false,
     "partner": null
   }
