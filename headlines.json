@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297357,
+    "slug": "dansgezelschap-van-igone-de-jongh-met-oekraiense-vluchtelingen-stopt",
+    "type": "article",
+    "title": "Dansgezelschap van Igone de Jongh met Oekraïense vluchtelingen stopt",
+    "subtitle": null,
+    "published_at": "2024-01-10T15:12:54+01:00",
+    "updated_at": "2024-01-10T15:12:55+01:00",
+    "media_id": "4frxspaa9nx3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772075,
+      "slug": "cultuur-overig",
+      "type": "default",
+      "name": "Boek & Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/cultuur-overig/6297357/dansgezelschap-van-igone-de-jongh-met-oekraiense-vluchtelingen-stopt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297356,
     "slug": "boze-boeren-en-driedaagse-staking-op-spoor-maken-reizen-door-duitsland-lastig",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Bekritiseerde Maurits Hendriks volgende bestuurder die vertrekt bij Ajax",
     "subtitle": null,
     "published_at": "2024-01-10T15:03:56+01:00",
-    "updated_at": "2024-01-10T15:11:43+01:00",
+    "updated_at": "2024-01-10T15:18:32+01:00",
     "media_id": "3lfxadmahtsc",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6297341/voor-het-eerst-meer-zeventigplussers-dan-twintigers-in-zuid-korea.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297340,
-    "slug": "sekswerkers-kunnen-zich-vanaf-nu-makkelijker-verzekeren-tegen-schade",
-    "type": "article",
-    "title": "Sekswerkers kunnen zich vanaf nu makkelijker verzekeren tegen schade",
-    "subtitle": null,
-    "published_at": "2024-01-10T13:08:14+01:00",
-    "updated_at": "2024-01-10T13:24:25+01:00",
-    "media_id": "l56x605adcd8",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6297340/sekswerkers-kunnen-zich-vanaf-nu-makkelijker-verzekeren-tegen-schade.html",
     "open_new_window": false,
     "partner": null
   }
