@@ -1,12 +1,35 @@
 [
   {
-    "id": 6297500,
-    "slug": "mogelijk-gewapend-persoon-op-station-zwolle-geen-treinen-naar-het-noorden",
+    "id": 6297498,
+    "slug": "geen-explosieven-in-belgische-bus-waarin-terreurplannen-zouden-zijn-besproken",
     "type": "article",
-    "title": "Mogelijk gewapend persoon op station Zwolle, geen treinen naar het noorden",
+    "title": "Geen explosieven in Belgische bus waarin terreurplannen zouden zijn besproken",
+    "subtitle": null,
+    "published_at": "2024-01-11T17:46:10+01:00",
+    "updated_at": "2024-01-11T17:52:53+01:00",
+    "media_id": "cutxdp8aqepa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6297498/geen-explosieven-in-belgische-bus-waarin-terreurplannen-zouden-zijn-besproken.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297500,
+    "slug": "mogelijk-gewapende-persoon-op-station-zwolle-geen-treinen-van-en-naar-noorden",
+    "type": "article",
+    "title": "Mogelijk gewapende persoon op station Zwolle, geen treinen van en naar noorden",
     "subtitle": null,
     "published_at": "2024-01-11T17:43:47+01:00",
-    "updated_at": "2024-01-11T17:45:54+01:00",
+    "updated_at": "2024-01-11T18:02:07+01:00",
     "media_id": "hm9xqkua04q7",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6297500/mogelijk-gewapend-persoon-op-station-zwolle-geen-treinen-naar-het-noorden.html",
+    "url": "/binnenland/6297500/mogelijk-gewapende-persoon-op-station-zwolle-geen-treinen-van-en-naar-noorden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Bijzondere wolk boven Japan wekt verwarring op",
     "subtitle": "Video",
     "published_at": "2024-01-11T17:36:30+01:00",
-    "updated_at": "2024-01-11T17:36:31+01:00",
+    "updated_at": "2024-01-11T17:48:49+01:00",
     "media_id": "7pqxxb7ay04t",
     "duration": "0:38",
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Microsoft passeerde vandaag kort Apple als waardevolste bedrijf ter wereld",
     "subtitle": null,
     "published_at": "2024-01-11T17:29:00+01:00",
-    "updated_at": "2024-01-11T17:34:25+01:00",
+    "updated_at": "2024-01-11T17:57:13+01:00",
     "media_id": "oxyxha6aeagi",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6297474/chaos-in-new-yorkse-synagoge-na-ontdekking-geheime-tunnel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297472,
-    "slug": "negen-arrestaties-na-ontdekking-geheime-tunnels-onder-synagoge-in-new-york",
-    "type": "article",
-    "title": "Negen arrestaties na ontdekking geheime tunnels onder synagoge in New York",
-    "subtitle": null,
-    "published_at": "2024-01-11T14:32:32+01:00",
-    "updated_at": "2024-01-11T16:29:23+01:00",
-    "media_id": "vt3xoccag4vc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6297472/negen-arrestaties-na-ontdekking-geheime-tunnels-onder-synagoge-in-new-york.html",
     "open_new_window": false,
     "partner": null
   }
