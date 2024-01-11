@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297473,
+    "slug": "juwelier-pompt-chinese-rivier-leeg-om-verloren-kostbare-ring-te-vinden",
+    "type": "video",
+    "title": "Juwelier pompt Chinese rivier leeg om verloren kostbare ring te vinden",
+    "subtitle": "Video",
+    "published_at": "2024-01-11T14:24:44+01:00",
+    "updated_at": "2024-01-11T14:24:45+01:00",
+    "media_id": "jwjxp22a9obs",
+    "duration": "0:28",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6297473/juwelier-pompt-chinese-rivier-leeg-om-verloren-kostbare-ring-te-vinden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297470,
     "slug": "werknemers-in-winkelstraat-krijgen-minimaal-375-procent-meer-loon",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6297469,
-    "slug": "belgische-politie-pakt-buspassagiers-op-vanwege-mogelijke-aanslagplannen",
+    "slug": "belgische-politie-pakt-drie-buspassagiers-op-die-plannen-voor-aanslag-bespraken",
     "type": "article",
-    "title": "Belgische politie pakt buspassagiers op vanwege mogelijke aanslagplannen",
+    "title": "Belgische politie pakt drie buspassagiers op die plannen voor aanslag bespraken",
     "subtitle": null,
     "published_at": "2024-01-11T13:57:03+01:00",
-    "updated_at": "2024-01-11T13:57:04+01:00",
+    "updated_at": "2024-01-11T14:18:35+01:00",
     "media_id": "2fmxwgjaeyhl",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6297469/belgische-politie-pakt-buspassagiers-op-vanwege-mogelijke-aanslagplannen.html",
+    "url": "/buitenland/6297469/belgische-politie-pakt-drie-buspassagiers-op-die-plannen-voor-aanslag-bespraken.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,7 +121,7 @@
     "title": "Rechter zet streep door plan om kinderhartchirurgie samen te voegen",
     "subtitle": null,
     "published_at": "2024-01-11T13:55:32+01:00",
-    "updated_at": "2024-01-11T14:17:25+01:00",
+    "updated_at": "2024-01-11T14:22:00+01:00",
     "media_id": "popxxuualo9q",
     "duration": null,
     "canonical_section": {
@@ -305,8 +328,8 @@
     "title": "OMT-lid Menno de Jong volgt Jaap van Dissel op als RIVM-directeur",
     "subtitle": null,
     "published_at": "2024-01-11T12:35:51+01:00",
-    "updated_at": "2024-01-11T12:45:42+01:00",
-    "media_id": "ymex79da1ep4",
+    "updated_at": "2024-01-11T14:19:07+01:00",
+    "media_id": "hgixgdjacz5d",
     "duration": null,
     "canonical_section": {
       "id": 1771435,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6297455/duizenden-kilos-aan-kreeft-onderschept-in-hongkong.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297454,
-    "slug": "golven-slaan-tijdens-storm-op-autodek-van-amerikaanse-ferry",
-    "type": "video",
-    "title": "Golven slaan tijdens storm op autodek van Amerikaanse ferry",
-    "subtitle": "Video",
-    "published_at": "2024-01-11T11:28:49+01:00",
-    "updated_at": "2024-01-11T11:28:50+01:00",
-    "media_id": "5b4xj2eaic3k",
-    "duration": "0:29",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6297454/golven-slaan-tijdens-storm-op-autodek-van-amerikaanse-ferry.html",
     "open_new_window": false,
     "partner": null
   }
