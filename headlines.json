@@ -1,12 +1,58 @@
 [
   {
+    "id": 6297500,
+    "slug": "mogelijk-gewapend-persoon-op-station-zwolle-geen-treinen-naar-het-noorden",
+    "type": "article",
+    "title": "Mogelijk gewapend persoon op station Zwolle, geen treinen naar het noorden",
+    "subtitle": null,
+    "published_at": "2024-01-11T17:43:47+01:00",
+    "updated_at": "2024-01-11T17:45:54+01:00",
+    "media_id": "hm9xqkua04q7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6297500/mogelijk-gewapend-persoon-op-station-zwolle-geen-treinen-naar-het-noorden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297499,
+    "slug": "bijzondere-wolk-boven-japan-wekt-verwarring-op",
+    "type": "video",
+    "title": "Bijzondere wolk boven Japan wekt verwarring op",
+    "subtitle": "Video",
+    "published_at": "2024-01-11T17:36:30+01:00",
+    "updated_at": "2024-01-11T17:36:31+01:00",
+    "media_id": "7pqxxb7ay04t",
+    "duration": "0:38",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6297499/bijzondere-wolk-boven-japan-wekt-verwarring-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297496,
     "slug": "autobiografie-lisa-marie-presley-verschijnt-in-oktober",
     "type": "article",
     "title": "Autobiografie Lisa Marie Presley verschijnt in oktober",
     "subtitle": null,
     "published_at": "2024-01-11T17:30:26+01:00",
-    "updated_at": "2024-01-11T17:30:27+01:00",
+    "updated_at": "2024-01-11T17:36:45+01:00",
     "media_id": "sovxpthay319",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Microsoft passeerde vandaag kort Apple als waardevolste bedrijf ter wereld",
     "subtitle": null,
     "published_at": "2024-01-11T17:29:00+01:00",
-    "updated_at": "2024-01-11T17:29:01+01:00",
+    "updated_at": "2024-01-11T17:34:25+01:00",
     "media_id": "oxyxha6aeagi",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6297472/negen-arrestaties-na-ontdekking-geheime-tunnels-onder-synagoge-in-new-york.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297473,
-    "slug": "juwelier-pompt-chinese-rivier-leeg-om-verloren-kostbare-ring-te-vinden",
-    "type": "video",
-    "title": "Juwelier pompt Chinese rivier leeg om verloren kostbare ring te vinden",
-    "subtitle": "Video",
-    "published_at": "2024-01-11T14:24:44+01:00",
-    "updated_at": "2024-01-11T16:16:28+01:00",
-    "media_id": "jwjxp22a9obs",
-    "duration": "0:28",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6297473/juwelier-pompt-chinese-rivier-leeg-om-verloren-kostbare-ring-te-vinden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297470,
-    "slug": "werknemers-in-winkelstraat-krijgen-minimaal-375-procent-meer-loon",
-    "type": "article",
-    "title": "Werknemers in winkelstraat krijgen minimaal 3,75 procent meer loon",
-    "subtitle": null,
-    "published_at": "2024-01-11T14:17:22+01:00",
-    "updated_at": "2024-01-11T14:17:24+01:00",
-    "media_id": "a5fxg03a5yjo",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6297470/werknemers-in-winkelstraat-krijgen-minimaal-375-procent-meer-loon.html",
     "open_new_window": false,
     "partner": null
   }
