@@ -1,12 +1,35 @@
 [
   {
+    "id": 6297421,
+    "slug": "kroos-uitgefloten-om-uitspraken-over-saoedi-arabie-snap-er-niets-van",
+    "type": "article",
+    "title": "Kroos uitgefloten om uitspraken over Saoedi-Arabië: 'Snap er niets van'",
+    "subtitle": null,
+    "published_at": "2024-01-11T08:29:24+01:00",
+    "updated_at": "2024-01-11T08:29:25+01:00",
+    "media_id": "xvlxo1halv52",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6297421/kroos-uitgefloten-om-uitspraken-over-saoedi-arabie-snap-er-niets-van.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297420,
     "slug": "zware-loting-van-de-zandschulp-duel-met-sinner-in-eerste-ronde-australian-open",
     "type": "article",
     "title": "Zware loting Van de Zandschulp: duel met Sinner in eerste ronde Australian Open",
     "subtitle": null,
     "published_at": "2024-01-11T07:51:08+01:00",
-    "updated_at": "2024-01-11T08:09:33+01:00",
+    "updated_at": "2024-01-11T08:41:16+01:00",
     "media_id": "8jgxa1fadn0m",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6297380/ondanks-coronapandemie-zijn-er-nog-altijd-duizenden-reisbureaus-in-nederland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297408,
-    "slug": "12000-liter-gasolie-in-kerstvakantie-gestolen-uit-opslagtanks-haven-terneuzen",
-    "type": "article",
-    "title": "12.000 liter gasolie in kerstvakantie gestolen uit opslagtanks haven Terneuzen",
-    "subtitle": null,
-    "published_at": "2024-01-11T00:40:06+01:00",
-    "updated_at": "2024-01-11T06:17:45+01:00",
-    "media_id": "csvxofhahzei",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6297408/12000-liter-gasolie-in-kerstvakantie-gestolen-uit-opslagtanks-haven-terneuzen.html",
     "open_new_window": false,
     "partner": null
   }
