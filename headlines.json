@@ -1,5 +1,51 @@
 [
   {
+    "id": 6297511,
+    "slug": "netanyahu-boos-op-zuid-afrika-om-genocide-proces-in-den-haag-omgekeerde-wereld",
+    "type": "article",
+    "title": "Netanyahu boos op Zuid-Afrika om genocide-proces in Den Haag: 'Omgekeerde wereld'",
+    "subtitle": null,
+    "published_at": "2024-01-11T19:34:50+01:00",
+    "updated_at": "2024-01-11T19:34:51+01:00",
+    "media_id": "twgxhycahchu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Oorlog Israël en Hamas",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6297511/netanyahu-boos-op-zuid-afrika-om-genocide-proces-in-den-haag-omgekeerde-wereld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297507,
+    "slug": "handballers-beginnen-voortvarend-aan-ek-met-overtuigende-overwinning",
+    "type": "article",
+    "title": "Handballers beginnen voortvarend aan EK met overtuigende overwinning",
+    "subtitle": null,
+    "published_at": "2024-01-11T19:32:12+01:00",
+    "updated_at": "2024-01-11T19:36:57+01:00",
+    "media_id": "rt1x8n2ay8v9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6297507/handballers-beginnen-voortvarend-aan-ek-met-overtuigende-overwinning.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297510,
     "slug": "brand-en-ravage-op-a1-nadat-vrachtwagen-op-autos-inrijdt",
     "type": "video",
@@ -75,7 +121,7 @@
     "title": "Vrachtwagen rijdt op A1 bij Amersfoort in op langzaam rijdend verkeer: vier gewonden",
     "subtitle": null,
     "published_at": "2024-01-11T18:41:20+01:00",
-    "updated_at": "2024-01-11T19:13:53+01:00",
+    "updated_at": "2024-01-11T19:37:41+01:00",
     "media_id": "rncxe6falgc7",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6297491/brandende-rode-dubbeldekker-hult-londense-straat-in-rook.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297488,
-    "slug": "brug-kan-niet-meer-open-door-koperdiefstal-geen-scheepvaart-op-de-zaan",
-    "type": "article",
-    "title": "Brug kan niet meer open door koperdiefstal: geen scheepvaart op de Zaan",
-    "subtitle": null,
-    "published_at": "2024-01-11T16:14:27+01:00",
-    "updated_at": "2024-01-11T19:19:55+01:00",
-    "media_id": "maux4tya6nno",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6297488/brug-kan-niet-meer-open-door-koperdiefstal-geen-scheepvaart-op-de-zaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297479,
-    "slug": "opluchting-en-frustratie-na-uitspraak-kinderhartchirurgie-concentratie-is-cruciaal",
-    "type": "article",
-    "title": "Opluchting en frustratie na uitspraak kinderhartchirurgie: 'Concentratie is cruciaal'",
-    "subtitle": null,
-    "published_at": "2024-01-11T16:10:39+01:00",
-    "updated_at": "2024-01-11T17:12:21+01:00",
-    "media_id": "9guxs39aoqo3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6297479/opluchting-en-frustratie-na-uitspraak-kinderhartchirurgie-concentratie-is-cruciaal.html",
     "open_new_window": false,
     "partner": null
   }
