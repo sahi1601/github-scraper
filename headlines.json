@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297581,
+    "slug": "seuntjens-vertrekt-na-mislukt-half-jaar-alweer-bij-utrecht-en-lijkt-naar-rkc-te-gaan",
+    "type": "article",
+    "title": "Seuntjens vertrekt na mislukt half jaar alweer bij Utrecht en lijkt naar RKC te gaan",
+    "subtitle": null,
+    "published_at": "2024-01-12T15:17:24+01:00",
+    "updated_at": "2024-01-12T15:17:25+01:00",
+    "media_id": "efxx4ina04tx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6297581/seuntjens-vertrekt-na-mislukt-half-jaar-alweer-bij-utrecht-en-lijkt-naar-rkc-te-gaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297589,
     "slug": "de-jong-gaat-grand-slam-debuut-vereeuwigen-op-arm-eerbetoon-aan-opa",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6297576/ook-baggeraar-boskalis-mijdt-rode-zee-om-aanvallen-houthi-rebellen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297575,
-    "slug": "terreurverdachten-in-belgische-bus-blijken-ruziende-reizigers",
-    "type": "article",
-    "title": "'Terreurverdachten' in Belgische bus blijken ruziënde reizigers",
-    "subtitle": null,
-    "published_at": "2024-01-12T11:39:33+01:00",
-    "updated_at": "2024-01-12T11:39:34+01:00",
-    "media_id": "xayx4pwasf8k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6297575/terreurverdachten-in-belgische-bus-blijken-ruziende-reizigers.html",
     "open_new_window": false,
     "partner": null
   }
