@@ -1,12 +1,35 @@
 [
   {
+    "id": 6297541,
+    "slug": "derde-explosie-in-een-week-tijd-in-straat-in-vlaardingen",
+    "type": "article",
+    "title": "Derde explosie in een week tijd in straat in Vlaardingen",
+    "subtitle": null,
+    "published_at": "2024-01-12T07:28:07+01:00",
+    "updated_at": "2024-01-12T07:28:09+01:00",
+    "media_id": "y5zxay1akw7z",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6297541/derde-explosie-in-een-week-tijd-in-straat-in-vlaardingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297540,
     "slug": "de-jong-plaatst-zich-in-australie-voor-eerste-grand-slam-toernooi-ooit",
     "type": "article",
     "title": "De Jong plaatst zich in Australië voor eerste Grand Slam-toernooi ooit",
     "subtitle": null,
     "published_at": "2024-01-12T07:14:33+01:00",
-    "updated_at": "2024-01-12T07:17:30+01:00",
+    "updated_at": "2024-01-12T07:26:51+01:00",
     "media_id": "hp5xhkhan3tc",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Amerikanen en Britten voeren met Nederlandse steun luchtaanvallen uit in Jemen",
     "subtitle": null,
     "published_at": "2024-01-12T00:45:48+01:00",
-    "updated_at": "2024-01-12T06:23:08+01:00",
+    "updated_at": "2024-01-12T07:25:19+01:00",
     "media_id": "i1xxp09ax6p5",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6297525/fc-barcelona-verslaat-osasuna-en-treft-real-madrid-in-finale-spaanse-supercup.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297524,
-    "slug": "premier-en-gezondheidsminister-curacao-zegt-dat-coronasituatie-onder-controle-is",
-    "type": "article",
-    "title": "Premier én gezondheidsminister Curaçao zegt dat coronasituatie onder controle is",
-    "subtitle": null,
-    "published_at": "2024-01-11T21:56:52+01:00",
-    "updated_at": "2024-01-11T22:02:28+01:00",
-    "media_id": "5mnxuqraked1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6297524/premier-en-gezondheidsminister-curacao-zegt-dat-coronasituatie-onder-controle-is.html",
     "open_new_window": false,
     "partner": null
   }
