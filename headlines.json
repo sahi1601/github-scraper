@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297665,
+    "slug": "koolhof-boekt-richting-australian-open-eerste-toernooizege-met-nieuwe-partner",
+    "type": "article",
+    "title": "Koolhof boekt richting Australian Open eerste toernooizege met nieuwe partner",
+    "subtitle": null,
+    "published_at": "2024-01-13T09:20:15+01:00",
+    "updated_at": "2024-01-13T09:23:29+01:00",
+    "media_id": "sahxnoma3xc2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6297665/koolhof-boekt-richting-australian-open-eerste-toernooizege-met-nieuwe-partner.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297664,
     "slug": "peperdure-britse-kostschool-sluit-deuren-vanwege-overstroomd-riool",
     "type": "article",
@@ -52,8 +75,8 @@
     "title": "Ravage na achtervolging in Leeuwarden waarbij ook is geschoten",
     "subtitle": "Video",
     "published_at": "2024-01-13T08:39:04+01:00",
-    "updated_at": "2024-01-13T08:39:06+01:00",
-    "media_id": "a38xqgla054k",
+    "updated_at": "2024-01-13T09:20:34+01:00",
+    "media_id": "6evx1owaek51",
     "duration": "0:47",
     "canonical_section": {
       "id": 1772431,
@@ -374,7 +397,7 @@
     "title": "Microsoft haalt Apple op laatste dag van de week in als waardevolste bedrijf",
     "subtitle": null,
     "published_at": "2024-01-12T22:52:16+01:00",
-    "updated_at": "2024-01-12T22:54:43+01:00",
+    "updated_at": "2024-01-13T09:21:19+01:00",
     "media_id": "svvx12batutv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6297653/asielhotel-albergen-vermoedelijk-beschoten-met-luchtbuks-coa-doet-aangifte.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297652,
-    "slug": "bayern-munchen-eert-overleden-beckenbauer-met-zege-op-hoffenheim",
-    "type": "article",
-    "title": "Bayern München eert overleden Beckenbauer met zege op Hoffenheim",
-    "subtitle": null,
-    "published_at": "2024-01-12T22:34:30+01:00",
-    "updated_at": "2024-01-12T22:50:02+01:00",
-    "media_id": "0fxx7oxahuzn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6297652/bayern-munchen-eert-overleden-beckenbauer-met-zege-op-hoffenheim.html",
     "open_new_window": false,
     "partner": null
   }
