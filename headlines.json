@@ -1,12 +1,35 @@
 [
   {
+    "id": 6297810,
+    "slug": "lucht-boven-ijsland-kleurt-oranje-en-roze-door-vulkaanuitbarsting",
+    "type": "article",
+    "title": "Lucht boven IJsland kleurt oranje en roze door vulkaanuitbarsting",
+    "subtitle": "In beeld",
+    "published_at": "2024-01-14T23:47:14+01:00",
+    "updated_at": "2024-01-14T23:55:12+01:00",
+    "media_id": "ht4x3zaaz1ab",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6297810/lucht-boven-ijsland-kleurt-oranje-en-roze-door-vulkaanuitbarsting.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297813,
     "slug": "snookerlegende-osullivan-pakt-29-jaar-na-eerste-eindzege-opnieuw-masters-titel",
     "type": "article",
     "title": "Snookerlegende O'Sullivan pakt 29 jaar na eerste eindzege opnieuw Masters-titel",
     "subtitle": null,
     "published_at": "2024-01-14T23:33:49+01:00",
-    "updated_at": "2024-01-14T23:33:50+01:00",
+    "updated_at": "2024-01-14T23:48:30+01:00",
     "media_id": "wcvxjzkatmai",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6297812,
-    "slug": "vliegtuig-onderweg-van-valencia-naar-eindhoven-keert-om-door-mogelijke-rook",
+    "slug": "vliegtuig-van-valencia-naar-eindhoven-keert-onderweg-om-wegens-mogelijke-rook",
     "type": "article",
-    "title": "Vliegtuig onderweg van Valencia naar Eindhoven keert om door mogelijke rook",
+    "title": "Vliegtuig van Valencia naar Eindhoven keert onderweg om wegens mogelijke rook",
     "subtitle": null,
     "published_at": "2024-01-14T22:54:06+01:00",
-    "updated_at": "2024-01-14T23:14:33+01:00",
+    "updated_at": "2024-01-14T23:46:36+01:00",
     "media_id": "vzvx42ua8ig1",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6297812/vliegtuig-onderweg-van-valencia-naar-eindhoven-keert-om-door-mogelijke-rook.html",
+    "url": "/buitenland/6297812/vliegtuig-van-valencia-naar-eindhoven-keert-onderweg-om-wegens-mogelijke-rook.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6297794/parasite-regisseur-eist-onderzoek-naar-dood-acteur-we-willen-de-waarheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297793,
-    "slug": "aston-villa-verspeelt-punten-bij-everton-en-raakt-tweede-plaats-kwijt-aan-city",
-    "type": "article",
-    "title": "Aston Villa verspeelt punten bij Everton en raakt tweede plaats kwijt aan City",
-    "subtitle": null,
-    "published_at": "2024-01-14T17:12:54+01:00",
-    "updated_at": "2024-01-14T17:24:41+01:00",
-    "media_id": "jhbxu3ca68pm",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6297793/aston-villa-verspeelt-punten-bij-everton-en-raakt-tweede-plaats-kwijt-aan-city.html",
     "open_new_window": false,
     "partner": null
   }
