@@ -1,12 +1,35 @@
 [
   {
-    "id": 6297938,
-    "slug": "jong-psv-blijft-steken-op-gelijkspel-tegen-den-bosch-ook-vvv-pakt-punt-in-kkd",
+    "id": 6297931,
+    "slug": "handballers-bereiken-ondanks-verlies-tegen-titelverdediger-zweden-hoofdfase-ek",
     "type": "article",
-    "title": "Jong PSV blijft steken op gelijkspel tegen Den Bosch, ook VVV pakt punt in KKD",
+    "title": "Handballers bereiken ondanks verlies tegen titelverdediger Zweden hoofdfase EK",
+    "subtitle": null,
+    "published_at": "2024-01-15T22:16:45+01:00",
+    "updated_at": "2024-01-15T22:18:40+01:00",
+    "media_id": "b81xcebaveip",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6297931/handballers-bereiken-ondanks-verlies-tegen-titelverdediger-zweden-hoofdfase-ek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297938,
+    "slug": "jong-psv-blijft-steken-op-gelijkspel-tegen-fc-den-bosch-ook-vvv-pakt-punt",
+    "type": "article",
+    "title": "Jong PSV blijft steken op gelijkspel tegen FC Den Bosch, ook VVV pakt punt",
     "subtitle": null,
     "published_at": "2024-01-15T22:12:06+01:00",
-    "updated_at": "2024-01-15T22:12:09+01:00",
+    "updated_at": "2024-01-15T22:23:27+01:00",
     "media_id": "ysdxl35akiob",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6297938/jong-psv-blijft-steken-op-gelijkspel-tegen-den-bosch-ook-vvv-pakt-punt-in-kkd.html",
+    "url": "/voetbal/6297938/jong-psv-blijft-steken-op-gelijkspel-tegen-fc-den-bosch-ook-vvv-pakt-punt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Messi bij FIFA verrassend opnieuw verkozen tot Speler van het Jaar",
     "subtitle": null,
     "published_at": "2024-01-15T21:53:17+01:00",
-    "updated_at": "2024-01-15T22:09:28+01:00",
+    "updated_at": "2024-01-15T22:15:44+01:00",
     "media_id": "xhfxuh9ae8ui",
     "duration": null,
     "canonical_section": {
@@ -254,12 +277,12 @@
   },
   {
     "id": 6297926,
-    "slug": "live-fifa-gala-messi-mbappe-en-haaland-schitteren-in-afwezigheid",
+    "slug": "live-fifa-gala-reacties-na-prijzenregen-in-londen",
     "type": "article",
-    "title": "Live FIFA-gala | Messi, Mbappé en Haaland schitteren in afwezigheid",
+    "title": "Live FIFA-gala | Reacties na prijzenregen in Londen",
     "subtitle": null,
     "published_at": "2024-01-15T19:35:20+01:00",
-    "updated_at": "2024-01-15T22:09:04+01:00",
+    "updated_at": "2024-01-15T22:15:03+01:00",
     "media_id": "lx5xvahachpt",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6297926/live-fifa-gala-messi-mbappe-en-haaland-schitteren-in-afwezigheid.html",
+    "url": "/voetbal/6297926/live-fifa-gala-reacties-na-prijzenregen-in-londen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6297918/everton-en-forest-erkennen-overtreding-financiele-regels-en-riskeren-straf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297901,
-    "slug": "nederlandse-bijdrage-aan-aanval-jemen-is-symbolisch-maar-niet-onbeduidend",
-    "type": "article",
-    "title": "Nederlandse bijdrage aan aanval Jemen is symbolisch, maar niet onbeduidend",
-    "subtitle": null,
-    "published_at": "2024-01-15T18:23:15+01:00",
-    "updated_at": "2024-01-15T20:08:19+01:00",
-    "media_id": "2qwxszva5xxl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6297901/nederlandse-bijdrage-aan-aanval-jemen-is-symbolisch-maar-niet-onbeduidend.html",
     "open_new_window": false,
     "partner": null
   }
