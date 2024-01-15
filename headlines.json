@@ -1,5 +1,51 @@
 [
   {
+    "id": 6297913,
+    "slug": "watermassa-sleurt-autos-op-mauritius-mee",
+    "type": "video",
+    "title": "Watermassa sleurt auto’s op Mauritius mee",
+    "subtitle": "Video",
+    "published_at": "2024-01-15T17:27:08+01:00",
+    "updated_at": "2024-01-15T17:27:08+01:00",
+    "media_id": "fomx70paspmg",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6297913/watermassa-sleurt-autos-op-mauritius-mee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6297912,
+    "slug": "dode-en-zwaargewonde-bij-woningbrand-eersel-4-aanhoudingen-om-brandstichting",
+    "type": "article",
+    "title": "Dode en zwaargewonde bij woningbrand Eersel, 4 aanhoudingen om brandstichting",
+    "subtitle": null,
+    "published_at": "2024-01-15T17:21:33+01:00",
+    "updated_at": "2024-01-15T17:33:06+01:00",
+    "media_id": "yrrxzqbamtxt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6297912/dode-en-zwaargewonde-bij-woningbrand-eersel-4-aanhoudingen-om-brandstichting.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297906,
     "slug": "red-bull-racing-presenteert-nieuwe-auto-verstappen-en-perez-op-15-februari",
     "type": "article",
@@ -52,7 +98,7 @@
     "title": "Feyenoorder Minteh verliest eerste Afrika Cup-duel na noodlanding met Gambia",
     "subtitle": null,
     "published_at": "2024-01-15T17:01:25+01:00",
-    "updated_at": "2024-01-15T17:14:06+01:00",
+    "updated_at": "2024-01-15T17:23:25+01:00",
     "media_id": "gxrxygialzof",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Spaanse motorcoureur Falcón (45) overlijdt aan gevolgen zware val Dakar Rally",
     "subtitle": null,
     "published_at": "2024-01-15T16:50:32+01:00",
-    "updated_at": "2024-01-15T16:50:33+01:00",
+    "updated_at": "2024-01-15T17:22:21+01:00",
     "media_id": "ekqxu7ta45po",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Hoofdrolspelers uit Videoland-serie Máxima zijn ook in het echt verliefd",
     "subtitle": null,
     "published_at": "2024-01-15T16:39:47+01:00",
-    "updated_at": "2024-01-15T17:14:28+01:00",
+    "updated_at": "2024-01-15T17:19:21+01:00",
     "media_id": "luux68gao3wy",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6297889/pinguin-met-bijzondere-genetische-afwijking-gefilmd-op-antarctica.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297885,
-    "slug": "toto-wolff-blijft-tot-eind-2026-teambaas-mercedes-we-zitten-op-een-lijn",
-    "type": "article",
-    "title": "Toto Wolff blijft tot eind 2026 teambaas Mercedes: 'We zitten op één lijn'",
-    "subtitle": null,
-    "published_at": "2024-01-15T14:07:44+01:00",
-    "updated_at": "2024-01-15T14:14:59+01:00",
-    "media_id": "nmnxrfqact7m",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6297885/toto-wolff-blijft-tot-eind-2026-teambaas-mercedes-we-zitten-op-een-lijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297876,
-    "slug": "van-schaatspret-naar-sneeuwpret-winterbeelden-uit-het-hele-land",
-    "type": "article",
-    "title": "Van schaatspret naar sneeuwpret: winterbeelden uit het hele land",
-    "subtitle": "In beeld",
-    "published_at": "2024-01-15T13:57:42+01:00",
-    "updated_at": "2024-01-15T14:49:40+01:00",
-    "media_id": "8zjxd6naizlz",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6297876/van-schaatspret-naar-sneeuwpret-winterbeelden-uit-het-hele-land.html",
     "open_new_window": false,
     "partner": null
   }
