@@ -1,5 +1,28 @@
 [
   {
+    "id": 6297899,
+    "slug": "gasprijs-zakt-naar-laagste-punt-in-ruim-vier-maanden",
+    "type": "article",
+    "title": "Gasprijs zakt naar laagste punt in ruim vier maanden",
+    "subtitle": null,
+    "published_at": "2024-01-15T16:14:12+01:00",
+    "updated_at": "2024-01-15T16:14:13+01:00",
+    "media_id": "kkjx6caa3i40",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6297899/gasprijs-zakt-naar-laagste-punt-in-ruim-vier-maanden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297897,
     "slug": "slang-komt-tot-schrik-van-passagiers-tevoorschijn-tijdens-vlucht",
     "type": "video",
@@ -397,7 +420,7 @@
     "title": "Filialen van Perry Sport en Aktie Sport deels overgenomen door Brits concern",
     "subtitle": null,
     "published_at": "2024-01-15T12:45:08+01:00",
-    "updated_at": "2024-01-15T13:42:14+01:00",
+    "updated_at": "2024-01-15T16:11:36+01:00",
     "media_id": "r45x17sa8rrz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6297872/duitse-airport-weeze-trekt-veel-meer-reizigers-dan-voor-coronapandemie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297869,
-    "slug": "lavastroom-bij-ijslands-dorp-lijkt-gestopt-vulkaanuitbarsting-wordt-minder-hevig",
-    "type": "article",
-    "title": "Lavastroom bij IJslands dorp lijkt gestopt, vulkaanuitbarsting wordt minder hevig",
-    "subtitle": null,
-    "published_at": "2024-01-15T12:22:28+01:00",
-    "updated_at": "2024-01-15T12:53:03+01:00",
-    "media_id": "ypcx4jvadfqf",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6297869/lavastroom-bij-ijslands-dorp-lijkt-gestopt-vulkaanuitbarsting-wordt-minder-hevig.html",
     "open_new_window": false,
     "partner": null
   }
