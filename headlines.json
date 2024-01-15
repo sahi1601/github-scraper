@@ -1,12 +1,35 @@
 [
   {
+    "id": 6297944,
+    "slug": "iran-meldt-aanvallen-op-anti-iraanse-doelen-in-syrie-en-irak",
+    "type": "article",
+    "title": "Iran meldt aanvallen op 'anti-Iraanse doelen' in Syrië en Irak",
+    "subtitle": null,
+    "published_at": "2024-01-15T23:48:21+01:00",
+    "updated_at": "2024-01-15T23:48:22+01:00",
+    "media_id": "3w8xsl3an90s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6297944/iran-meldt-aanvallen-op-anti-iraanse-doelen-in-syrie-en-irak.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6297943,
     "slug": "koopmeiners-zet-goede-vorm-door-en-leidt-met-nieuwe-goal-grote-zege-atalanta-in",
     "type": "article",
     "title": "Koopmeiners zet goede vorm door en leidt met nieuwe goal grote zege Atalanta in",
     "subtitle": null,
     "published_at": "2024-01-15T23:20:19+01:00",
-    "updated_at": "2024-01-15T23:23:48+01:00",
+    "updated_at": "2024-01-15T23:54:45+01:00",
     "media_id": "31rx88iaeh6x",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6297942,
-    "slug": "na-eerste-dag-eerste-kamerdebat-nog-geen-duidelijkheid-over-lot-spreidingswet",
+    "slug": "senatoren-in-verdeelde-eerste-kamer-willen-toezeggingen-rond-spreidingswet",
     "type": "article",
-    "title": "Na eerste dag Eerste Kamerdebat nog geen duidelijkheid over lot spreidingswet",
+    "title": "Senatoren in verdeelde Eerste Kamer willen toezeggingen rond spreidingswet",
     "subtitle": null,
     "published_at": "2024-01-15T23:20:18+01:00",
-    "updated_at": "2024-01-15T23:20:19+01:00",
+    "updated_at": "2024-01-16T00:02:39+01:00",
     "media_id": "t9ix8lhajgsz",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6297942/na-eerste-dag-eerste-kamerdebat-nog-geen-duidelijkheid-over-lot-spreidingswet.html",
+    "url": "/politiek/6297942/senatoren-in-verdeelde-eerste-kamer-willen-toezeggingen-rond-spreidingswet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Wiegman grapt na vierde FIFA-prijs: 'Jullie zullen wel denken, daar staat ze weer'",
     "subtitle": null,
     "published_at": "2024-01-15T23:01:06+01:00",
-    "updated_at": "2024-01-15T23:10:34+01:00",
+    "updated_at": "2024-01-15T23:52:27+01:00",
     "media_id": "dp1xsomanh1c",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Oranje-international Cody Gakpo wordt voor eerste keer vader",
     "subtitle": null,
     "published_at": "2024-01-15T22:31:33+01:00",
-    "updated_at": "2024-01-15T22:58:23+01:00",
+    "updated_at": "2024-01-16T00:11:50+01:00",
     "media_id": "sdcxei1aixrz",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Handballers komen op EK net tekort voor sensatie tegen titelverdediger Zweden",
     "subtitle": null,
     "published_at": "2024-01-15T22:16:45+01:00",
-    "updated_at": "2024-01-15T22:39:53+01:00",
+    "updated_at": "2024-01-16T00:05:00+01:00",
     "media_id": "b81xcebaveip",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Wiegman voor vierde keer door FIFA uitgeroepen tot coach van het jaar",
     "subtitle": null,
     "published_at": "2024-01-15T20:54:45+01:00",
-    "updated_at": "2024-01-15T23:43:11+01:00",
+    "updated_at": "2024-01-15T23:50:31+01:00",
     "media_id": "5o4x702aqffm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech-wetenschap/6297870/big-brother-awards-voor-meta-x-telegram-en-demissionair-minister-yesilgoz.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297924,
-    "slug": "berlijns-plein-staat-vol-met-duizenden-demonstrerende-boeren",
-    "type": "video",
-    "title": "Berlijns plein staat vol met duizenden demonstrerende boeren",
-    "subtitle": "Video",
-    "published_at": "2024-01-15T19:27:40+01:00",
-    "updated_at": "2024-01-15T19:27:41+01:00",
-    "media_id": "s8vx0l7akir2",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6297924/berlijns-plein-staat-vol-met-duizenden-demonstrerende-boeren.html",
     "open_new_window": false,
     "partner": null
   }
