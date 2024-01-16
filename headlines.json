@@ -6,7 +6,7 @@
     "title": "Rijkswaterstaat verwacht vanavond en morgen nog gladheid op de wegen",
     "subtitle": null,
     "published_at": "2024-01-16T17:15:28+01:00",
-    "updated_at": "2024-01-16T17:15:30+01:00",
+    "updated_at": "2024-01-16T17:27:17+01:00",
     "media_id": "ggixsfxa56k1",
     "duration": null,
     "canonical_section": {
@@ -98,7 +98,7 @@
     "title": "Racismezaak Real-speler Vinícius geseponeerd door gebrek aan bewijs",
     "subtitle": null,
     "published_at": "2024-01-16T17:10:34+01:00",
-    "updated_at": "2024-01-16T17:18:03+01:00",
+    "updated_at": "2024-01-16T17:21:22+01:00",
     "media_id": "7fvxyu7afkc5",
     "duration": null,
     "canonical_section": {
@@ -116,12 +116,12 @@
   },
   {
     "id": 6298021,
-    "slug": "staatssecretaris-zet-alles-op-alles-om-spreidingswet-door-eerste-kamer-te-loodsen",
+    "slug": "staatssecretaris-doet-alles-om-spreidingswet-door-eerste-kamer-te-loodsen",
     "type": "article",
-    "title": "Staatssecretaris zet alles op alles om spreidingswet door Eerste Kamer te loodsen",
+    "title": "Staatssecretaris doet alles om spreidingswet door Eerste Kamer te loodsen",
     "subtitle": null,
     "published_at": "2024-01-16T17:10:01+01:00",
-    "updated_at": "2024-01-16T17:10:03+01:00",
+    "updated_at": "2024-01-16T17:22:17+01:00",
     "media_id": "ogpxrc5aoayl",
     "duration": null,
     "canonical_section": {
@@ -133,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/politiek/6298021/staatssecretaris-zet-alles-op-alles-om-spreidingswet-door-eerste-kamer-te-loodsen.html",
+    "url": "/politiek/6298021/staatssecretaris-doet-alles-om-spreidingswet-door-eerste-kamer-te-loodsen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,8 +144,8 @@
     "title": "Van Bommel wil duidelijkheid over situatie Overmars: 'En we nemen geen risico's'",
     "subtitle": null,
     "published_at": "2024-01-16T17:02:03+01:00",
-    "updated_at": "2024-01-16T17:02:04+01:00",
-    "media_id": "s09xqdoa3svb",
+    "updated_at": "2024-01-16T17:31:16+01:00",
+    "media_id": "21ixmx5aqnb4",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -162,12 +162,12 @@
   },
   {
     "id": 6298035,
-    "slug": "prorail-werd-verrast-door-sneeuw-waren-aan-het-voorbereiden-op-woensdag",
+    "slug": "prorail-had-last-van-sneeuw-hard-bezig-met-maatregelen-voor-woensdag",
     "type": "article",
-    "title": "ProRail werd verrast door sneeuw: 'Waren aan het voorbereiden op woensdag'",
+    "title": "ProRail had last van sneeuw: 'Hard bezig met maatregelen voor woensdag'",
     "subtitle": null,
     "published_at": "2024-01-16T16:58:16+01:00",
-    "updated_at": "2024-01-16T16:58:17+01:00",
+    "updated_at": "2024-01-16T17:27:51+01:00",
     "media_id": "mihxobna300f",
     "duration": null,
     "canonical_section": {
@@ -179,30 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6298035/prorail-werd-verrast-door-sneeuw-waren-aan-het-voorbereiden-op-woensdag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298044,
-    "slug": "henderson-lijkt-op-weg-naar-ajax-saoedische-media-melden-vertrek-engelsman",
-    "type": "article",
-    "title": "Henderson lijkt op weg naar Ajax: Saoedische media melden vertrek Engelsman",
-    "subtitle": null,
-    "published_at": "2024-01-16T16:36:33+01:00",
-    "updated_at": "2024-01-16T17:07:27+01:00",
-    "media_id": "ny0xmh5aiij7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6298044/henderson-lijkt-op-weg-naar-ajax-saoedische-media-melden-vertrek-engelsman.html",
+    "url": "/binnenland/6298035/prorail-had-last-van-sneeuw-hard-bezig-met-maatregelen-voor-woensdag.html",
     "open_new_window": false,
     "partner": null
   },
@@ -397,19 +374,19 @@
     "title": "Wereldwijd roken we minder, tot 2030 stoppen nog eens 50 miljoen rokers",
     "subtitle": null,
     "published_at": "2024-01-16T14:53:14+01:00",
-    "updated_at": "2024-01-16T14:54:45+01:00",
+    "updated_at": "2024-01-16T17:23:32+01:00",
     "media_id": "xgqxn3wawdqb",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 1146768,
+      "slug": "gezondheid",
       "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
+      "name": "Gezondheid",
+      "style": "nunjij",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6298025/wereldwijd-roken-we-minder-tot-2030-stoppen-nog-eens-50-miljoen-rokers.html",
+    "url": "/gezondheid/6298025/wereldwijd-roken-we-minder-tot-2030-stoppen-nog-eens-50-miljoen-rokers.html",
     "open_new_window": false,
     "partner": null
   },
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/videos/6298028/omgevallen-boom-zorgt-voor-ravage-in-san-francisco.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298024,
+    "slug": "oprichter-lightyear-naar-achterbank-nieuwe-topvrouw-klimt-achter-het-stuur",
+    "type": "article",
+    "title": "Oprichter Lightyear naar achterbank, nieuwe topvrouw klimt achter het stuur",
+    "subtitle": null,
+    "published_at": "2024-01-16T14:33:14+01:00",
+    "updated_at": "2024-01-16T16:05:24+01:00",
+    "media_id": "lq7xl8oaza1i",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6298024/oprichter-lightyear-naar-achterbank-nieuwe-topvrouw-klimt-achter-het-stuur.html",
     "open_new_window": false,
     "partner": null
   }
