@@ -1,12 +1,58 @@
 [
   {
+    "id": 6298203,
+    "slug": "nec-wint-mede-dankzij-wereldgoal-nipt-van-go-ahead-in-knvb-beker",
+    "type": "article",
+    "title": "NEC wint mede dankzij wereldgoal nipt van Go Ahead in KNVB-beker",
+    "subtitle": null,
+    "published_at": "2024-01-17T20:38:06+01:00",
+    "updated_at": "2024-01-17T20:42:51+01:00",
+    "media_id": "2cjx0ezat3ge",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6298203/nec-wint-mede-dankzij-wereldgoal-nipt-van-go-ahead-in-knvb-beker.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298199,
+    "slug": "ijskap-groenland-verloor-in-bijna-40-jaar-gebied-zo-groot-als-noord-brabant",
+    "type": "article",
+    "title": "IJskap Groenland verloor in bijna 40 jaar gebied zo groot als Noord-Brabant",
+    "subtitle": null,
+    "published_at": "2024-01-17T20:35:37+01:00",
+    "updated_at": "2024-01-17T20:35:38+01:00",
+    "media_id": "hccxu8cadpr0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772754,
+      "slug": "klimaat",
+      "type": "default",
+      "name": "Klimaat",
+      "style": "nuzakelijk",
+      "media_id": "kf4x3b2agsxg",
+      "partner": null
+    },
+    "url": "/klimaat/6298199/ijskap-groenland-verloor-in-bijna-40-jaar-gebied-zo-groot-als-noord-brabant.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298201,
     "slug": "ziyech-en-amrabat-laten-met-marokko-weinig-heel-van-tanzania-op-afrika-cup",
     "type": "article",
     "title": "Ziyech en Amrabat laten met Marokko weinig heel van Tanzania op Afrika Cup",
     "subtitle": null,
     "published_at": "2024-01-17T20:07:53+01:00",
-    "updated_at": "2024-01-17T20:11:13+01:00",
+    "updated_at": "2024-01-17T20:26:52+01:00",
     "media_id": "74nxrfuauunj",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Surinaamse politie verspreidt opsporingsbericht voor spoorloze Desi Bouterse",
     "subtitle": null,
     "published_at": "2024-01-17T20:02:23+01:00",
-    "updated_at": "2024-01-17T20:19:56+01:00",
+    "updated_at": "2024-01-17T20:23:56+01:00",
     "media_id": "7v8xs47a5fm1",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Ajax-icoon en oud-international Bennie Muller op 85-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2024-01-17T19:08:28+01:00",
-    "updated_at": "2024-01-17T19:58:49+01:00",
+    "updated_at": "2024-01-17T20:27:30+01:00",
     "media_id": "54yxxhia5evj",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6298183/ariana-grande-brengt-op-8-maart-nieuw-album-uit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298180,
-    "slug": "djokovic-ruziet-met-toeschouwer-zeg-het-dan-recht-in-mijn-gezicht",
-    "type": "article",
-    "title": "Djokovic ruziet met toeschouwer: 'Zeg het dan recht in mijn gezicht'",
-    "subtitle": null,
-    "published_at": "2024-01-17T17:57:23+01:00",
-    "updated_at": "2024-01-17T17:57:24+01:00",
-    "media_id": "l93xwjlazjpr",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772432,
-      "slug": "tennis",
-      "type": "default",
-      "name": "Tennis",
-      "style": "nusport",
-      "media_id": "m1oxohpan0gq",
-      "partner": null
-    },
-    "url": "/tennis/6298180/djokovic-ruziet-met-toeschouwer-zeg-het-dan-recht-in-mijn-gezicht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298181,
-    "slug": "slachtoffers-en-verdachte-schietpartij-weiteveen-stapten-al-eerder-naar-politie",
-    "type": "article",
-    "title": "Slachtoffers én verdachte schietpartij Weiteveen stapten al eerder naar politie",
-    "subtitle": null,
-    "published_at": "2024-01-17T17:50:05+01:00",
-    "updated_at": "2024-01-17T18:50:19+01:00",
-    "media_id": "8z2x4pcana36",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6298181/slachtoffers-en-verdachte-schietpartij-weiteveen-stapten-al-eerder-naar-politie.html",
     "open_new_window": false,
     "partner": null
   }
