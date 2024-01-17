@@ -1,12 +1,35 @@
 [
   {
+    "id": 6298185,
+    "slug": "arnold-schwarzenegger-aangehouden-door-duitse-douane-vanwege-horloge",
+    "type": "article",
+    "title": "Arnold Schwarzenegger aangehouden door Duitse douane vanwege horloge",
+    "subtitle": null,
+    "published_at": "2024-01-17T18:27:28+01:00",
+    "updated_at": "2024-01-17T18:27:48+01:00",
+    "media_id": "ae9xgqaa70j0",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6298185/arnold-schwarzenegger-aangehouden-door-duitse-douane-vanwege-horloge.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298189,
     "slug": "live-knvb-beker-go-ahead-wil-ajax-kater-wegspoelen-wachten-op-twente-psv",
     "type": "article",
     "title": "Live KNVB-beker | Go Ahead wil Ajax-kater wegspoelen, wachten op Twente-PSV",
     "subtitle": null,
     "published_at": "2024-01-17T18:22:04+01:00",
-    "updated_at": "2024-01-17T18:22:05+01:00",
+    "updated_at": "2024-01-17T18:38:48+01:00",
     "media_id": "o55xb7namkr3",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Sneeuwval leidt tot files in Limburg, oproep om snelwegen in provincie te mijden",
     "subtitle": null,
     "published_at": "2024-01-17T17:33:59+01:00",
-    "updated_at": "2024-01-17T18:01:47+01:00",
+    "updated_at": "2024-01-17T18:37:42+01:00",
     "media_id": "p31xtu4akcpi",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6298163/az-zet-trainer-pascal-jansen-op-straat-na-bekerontsnapping-tegen-quick-boys.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298162,
-    "slug": "slachtofferhulp-op-scholen-na-schietincident-weiteveen-bewoners-bijeen-in-kerk",
-    "type": "article",
-    "title": "Slachtofferhulp op scholen na schietincident Weiteveen, bewoners bijeen in kerk",
-    "subtitle": null,
-    "published_at": "2024-01-17T15:47:37+01:00",
-    "updated_at": "2024-01-17T17:58:27+01:00",
-    "media_id": "59jxwrdajz22",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6298162/slachtofferhulp-op-scholen-na-schietincident-weiteveen-bewoners-bijeen-in-kerk.html",
     "open_new_window": false,
     "partner": null
   }
