@@ -1,5 +1,28 @@
 [
   {
+    "id": 6298228,
+    "slug": "swiatek-ontsnapt-tegen-oud-finaliste-en-houdt-kans-op-eerste-australian-open-titel",
+    "type": "article",
+    "title": "Swiatek ontsnapt tegen oud-finaliste en houdt kans op eerste Australian Open-titel",
+    "subtitle": null,
+    "published_at": "2024-01-18T08:19:21+01:00",
+    "updated_at": "2024-01-18T08:19:22+01:00",
+    "media_id": "qphxwahan6m0",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6298228/swiatek-ontsnapt-tegen-oud-finaliste-en-houdt-kans-op-eerste-australian-open-titel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298230,
     "slug": "drone-filmt-door-sneeuwval-ingestorte-overkapping-in-amerikaanse-haven",
     "type": "video",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6298227,
-    "slug": "plaatselijk-25-centimeter-sneeuw-gevallen-in-limburg-en-kans-op-schaatsweer",
+    "slug": "plaatselijk-25-centimeter-sneeuw-gevallen-in-limburg-lokaal-kans-op-schaatsweer",
     "type": "article",
-    "title": "Plaatselijk 25 centimeter sneeuw gevallen in Limburg en kans op schaatsweer",
+    "title": "Plaatselijk 25 centimeter sneeuw gevallen in Limburg, lokaal kans op schaatsweer",
     "subtitle": null,
     "published_at": "2024-01-18T07:46:46+01:00",
-    "updated_at": "2024-01-18T08:12:17+01:00",
+    "updated_at": "2024-01-18T08:21:32+01:00",
     "media_id": "5m4xx18akheh",
     "duration": null,
     "canonical_section": {
@@ -87,18 +110,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6298227/plaatselijk-25-centimeter-sneeuw-gevallen-in-limburg-en-kans-op-schaatsweer.html",
+    "url": "/binnenland/6298227/plaatselijk-25-centimeter-sneeuw-gevallen-in-limburg-lokaal-kans-op-schaatsweer.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6298226,
-    "slug": "werknemer-met-minimumloon-krijgt-extra-uren-betaald-en-dus-honderden-euros-meer",
+    "slug": "werknemer-met-minimumloon-krijgt-extra-uren-uitbetaald-en-dus-tientallen-euros-meer",
     "type": "article",
-    "title": "Werknemer met minimumloon krijgt extra uren betaald en dus honderden euro's meer",
+    "title": "Werknemer met minimumloon krijgt extra uren uitbetaald en dus tientallen euro's meer",
     "subtitle": null,
     "published_at": "2024-01-18T07:25:26+01:00",
-    "updated_at": "2024-01-18T07:25:27+01:00",
+    "updated_at": "2024-01-18T08:16:54+01:00",
     "media_id": "ztrxt5nau1yi",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6298226/werknemer-met-minimumloon-krijgt-extra-uren-betaald-en-dus-honderden-euros-meer.html",
+    "url": "/economie/6298226/werknemer-met-minimumloon-krijgt-extra-uren-uitbetaald-en-dus-tientallen-euros-meer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6298033/schrijnende-taalachterstanden-door-groot-tekort-aan-logopedisten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298125,
-    "slug": "eu-klimaatraad-stop-met-subsidies-voor-fossiele-brandstoffen-en-veehouderijen",
-    "type": "article",
-    "title": "EU-klimaatraad: 'Stop met subsidies voor fossiele brandstoffen én veehouderijen'",
-    "subtitle": null,
-    "published_at": "2024-01-18T00:03:09+01:00",
-    "updated_at": "2024-01-18T08:12:08+01:00",
-    "media_id": "bcmxtdsak1v4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6298125/eu-klimaatraad-stop-met-subsidies-voor-fossiele-brandstoffen-en-veehouderijen.html",
     "open_new_window": false,
     "partner": null
   }
