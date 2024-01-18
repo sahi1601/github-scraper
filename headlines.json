@@ -1,12 +1,35 @@
 [
   {
-    "id": 6298219,
-    "slug": "winterse-buien-met-af-en-toe-zon-opnieuw-code-geel-wegens-gladheid",
+    "id": 6298182,
+    "slug": "in-2023-meldden-minder-mensen-zich-ziek-dan-in-de-jaren-daarvoor",
     "type": "article",
-    "title": "Winterse buien met af en toe zon, opnieuw code geel wegens gladheid",
+    "title": "In 2023 meldden minder mensen zich ziek dan in de jaren daarvoor",
+    "subtitle": null,
+    "published_at": "2024-01-18T05:34:27+01:00",
+    "updated_at": "2024-01-18T05:34:28+01:00",
+    "media_id": "gtsx8jfaxceg",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6298182/in-2023-meldden-minder-mensen-zich-ziek-dan-in-de-jaren-daarvoor.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298219,
+    "slug": "winterse-buien-met-af-en-toe-zon-weer-code-geel-om-gladheid",
+    "type": "article",
+    "title": "Winterse buien met af en toe zon, weer code geel om gladheid",
     "subtitle": "Weerbericht",
     "published_at": "2024-01-18T05:28:38+01:00",
-    "updated_at": "2024-01-18T05:28:39+01:00",
+    "updated_at": "2024-01-18T05:33:38+01:00",
     "media_id": "15sximsalecm",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/weerbericht/6298219/winterse-buien-met-af-en-toe-zon-opnieuw-code-geel-wegens-gladheid.html",
+    "url": "/weerbericht/6298219/winterse-buien-met-af-en-toe-zon-weer-code-geel-om-gladheid.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Aanklager die aanval op tv-studio Ecuador onderzocht doodgeschoten",
     "subtitle": null,
     "published_at": "2024-01-17T23:09:48+01:00",
-    "updated_at": "2024-01-17T23:17:21+01:00",
+    "updated_at": "2024-01-18T05:36:39+01:00",
     "media_id": "agex8viax93f",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6298208/zweden-roept-iraanse-diplomaat-op-het-matje-vanwege-in-iran-opgesloten-burgers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298062,
-    "slug": "ook-duitsland-heeft-een-stikstofprobleem-maar-anders-dan-in-nederland",
-    "type": "article",
-    "title": "Ook Duitsland heeft een stikstofprobleem, maar anders dan in Nederland",
-    "subtitle": "NU+",
-    "published_at": "2024-01-17T20:55:42+01:00",
-    "updated_at": "2024-01-17T20:55:43+01:00",
-    "media_id": "0nhxfr6at4s1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778778,
-      "slug": "stikstof",
-      "type": "default",
-      "name": "Stikstof",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stikstof/6298062/ook-duitsland-heeft-een-stikstofprobleem-maar-anders-dan-in-nederland.html",
     "open_new_window": false,
     "partner": null
   }
