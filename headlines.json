@@ -1,5 +1,28 @@
 [
   {
+    "id": 6298336,
+    "slug": "spaanse-politie-rolt-grote-wietkwekerij-op-in-natuurpark",
+    "type": "video",
+    "title": "Spaanse politie rolt grote wietkwekerij op in natuurpark",
+    "subtitle": "Video",
+    "published_at": "2024-01-18T21:17:46+01:00",
+    "updated_at": "2024-01-18T21:17:47+01:00",
+    "media_id": "mnkxgspa7gxp",
+    "duration": "0:30",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6298336/spaanse-politie-rolt-grote-wietkwekerij-op-in-natuurpark.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298335,
     "slug": "van-t-schip-verheugd-met-komst-henderson-dit-is-een-flinke-kwaliteitsimpuls",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Deze grote internationale namen doken net als Henderson op in de Eredivisie",
     "subtitle": null,
     "published_at": "2024-01-18T20:42:53+01:00",
-    "updated_at": "2024-01-18T20:42:54+01:00",
+    "updated_at": "2024-01-18T21:16:29+01:00",
     "media_id": "nwvxdgnad4vx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6298318/ontslag-en-straffen-voor-agenten-vanwege-kwetsende-opmerkingen-in-groepschat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298316,
-    "slug": "fc-groningen-krijgt-zijn-zin-duel-met-fc-emmen-uitgesteld-wegens-virusuitbraak",
-    "type": "article",
-    "title": "FC Groningen krijgt zijn zin: duel met FC Emmen uitgesteld wegens virusuitbraak",
-    "subtitle": null,
-    "published_at": "2024-01-18T17:46:30+01:00",
-    "updated_at": "2024-01-18T17:46:32+01:00",
-    "media_id": "w37xnulazty6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6298316/fc-groningen-krijgt-zijn-zin-duel-met-fc-emmen-uitgesteld-wegens-virusuitbraak.html",
     "open_new_window": false,
     "partner": null
   }
