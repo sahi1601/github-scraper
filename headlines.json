@@ -1,5 +1,28 @@
 [
   {
+    "id": 6298233,
+    "slug": "europeanen-kochten-vorig-jaar-meer-dan-tien-miljoen-nieuwe-autos",
+    "type": "article",
+    "title": "Europeanen kochten vorig jaar meer dan tien miljoen nieuwe auto's",
+    "subtitle": null,
+    "published_at": "2024-01-18T09:19:24+01:00",
+    "updated_at": "2024-01-18T09:19:25+01:00",
+    "media_id": "hy3xhuoa6p8k",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6298233/europeanen-kochten-vorig-jaar-meer-dan-tien-miljoen-nieuwe-autos.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298232,
     "slug": "welsford-sprint-naar-tweede-ritoverwinning-in-tour-down-under",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Overheid wil dat AI in Nederland innoveert en niet discrimineert",
     "subtitle": null,
     "published_at": "2024-01-18T08:02:07+01:00",
-    "updated_at": "2024-01-18T08:54:03+01:00",
+    "updated_at": "2024-01-18T09:25:29+01:00",
     "media_id": "vtgxe78asij9",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Maine wacht op Hooggerechtshof om te bepalen of Trump op stembiljet mag",
     "subtitle": null,
     "published_at": "2024-01-18T07:17:37+01:00",
-    "updated_at": "2024-01-18T07:41:25+01:00",
+    "updated_at": "2024-01-18T09:19:32+01:00",
     "media_id": "sv5xkepay8ai",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6298217/psv-is-in-nederland-onverslaanbaar-weet-niet-wie-ons-kan-afstoppen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6297674,
-    "slug": "zo-neem-je-afspeellijsten-mee-als-je-van-muziekdienst-wisselt",
-    "type": "article",
-    "title": "Zo neem je afspeellijsten mee als je van muziekdienst wisselt",
-    "subtitle": "NU+",
-    "published_at": "2024-01-18T05:03:16+01:00",
-    "updated_at": "2024-01-18T05:03:18+01:00",
-    "media_id": "7maxk07awcyp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779328,
-      "slug": "slimmer-leven",
-      "type": "default",
-      "name": "Slimmer leven",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/slimmer-leven/6297674/zo-neem-je-afspeellijsten-mee-als-je-van-muziekdienst-wisselt.html",
     "open_new_window": false,
     "partner": null
   }
