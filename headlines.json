@@ -1,12 +1,35 @@
 [
   {
-    "id": 6298286,
-    "slug": "jullie-vragen-over-de-spreidingswet-heeft-dit-een-aanzuigende-werking",
+    "id": 6298315,
+    "slug": "weer-israelische-voetballer-in-turkije-ontslagen-vanwege-politieke-uitingen",
     "type": "article",
-    "title": "Jullie vragen over de spreidingswet: 'Heeft dit een aanzuigende werking?'",
+    "title": "Wéér Israëlische voetballer in Turkije ontslagen vanwege politieke uitingen",
+    "subtitle": null,
+    "published_at": "2024-01-18T17:26:39+01:00",
+    "updated_at": "2024-01-18T17:26:40+01:00",
+    "media_id": "rqjxpoua2149",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6298315/weer-israelische-voetballer-in-turkije-ontslagen-vanwege-politieke-uitingen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298286,
+    "slug": "jullie-vragen-over-de-spreidingswet-beantwoord-waarom-is-pvv-tegen",
+    "type": "article",
+    "title": "Jullie vragen over de spreidingswet beantwoord: 'Waarom is PVV tegen?'",
     "subtitle": "NU+",
     "published_at": "2024-01-18T16:58:07+01:00",
-    "updated_at": "2024-01-18T16:58:09+01:00",
+    "updated_at": "2024-01-18T17:28:46+01:00",
     "media_id": "l6uxn29a50fx",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/vragenuur/6298286/jullie-vragen-over-de-spreidingswet-heeft-dit-een-aanzuigende-werking.html",
+    "url": "/vragenuur/6298286/jullie-vragen-over-de-spreidingswet-beantwoord-waarom-is-pvv-tegen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6298277/rapper-ice-spice-aangeklaagd-voor-plagiaat-in-nummer-in-ha-mood.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298279,
-    "slug": "gewapende-man-met-clownsmasker-overvalt-winkel-in-australie",
-    "type": "video",
-    "title": "Gewapende man met clownsmasker overvalt winkel in Australië",
-    "subtitle": "Video",
-    "published_at": "2024-01-18T13:44:43+01:00",
-    "updated_at": "2024-01-18T13:44:44+01:00",
-    "media_id": "98bxkqkaqchz",
-    "duration": "0:42",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6298279/gewapende-man-met-clownsmasker-overvalt-winkel-in-australie.html",
     "open_new_window": false,
     "partner": null
   }
