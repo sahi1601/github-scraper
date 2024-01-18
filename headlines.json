@@ -1,12 +1,58 @@
 [
   {
+    "id": 6298342,
+    "slug": "van-bommel-na-topseizoen-verkozen-tot-trainer-van-het-jaar-in-belgie",
+    "type": "article",
+    "title": "Van Bommel na topseizoen verkozen tot trainer van het jaar in België",
+    "subtitle": null,
+    "published_at": "2024-01-18T23:07:57+01:00",
+    "updated_at": "2024-01-18T23:07:58+01:00",
+    "media_id": "cvjx3jcakl4k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6298342/van-bommel-na-topseizoen-verkozen-tot-trainer-van-het-jaar-in-belgie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298340,
+    "slug": "voormalig-wereldkampioen-polsstokhoogspringen-shawn-barber-29-overleden",
+    "type": "article",
+    "title": "Voormalig wereldkampioen polsstokhoogspringen Shawn Barber (29) overleden",
+    "subtitle": null,
+    "published_at": "2024-01-18T22:58:31+01:00",
+    "updated_at": "2024-01-18T23:05:02+01:00",
+    "media_id": "at5xs9eat7in",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6298340/voormalig-wereldkampioen-polsstokhoogspringen-shawn-barber-29-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298339,
     "slug": "italie-verhoogt-boetes-voor-bekladden-van-monumenten-na-milieuprotesten",
     "type": "article",
     "title": "Italië verhoogt boetes voor bekladden van monumenten na milieuprotesten",
     "subtitle": null,
     "published_at": "2024-01-18T22:41:57+01:00",
-    "updated_at": "2024-01-18T22:44:56+01:00",
+    "updated_at": "2024-01-18T22:50:33+01:00",
     "media_id": "pzqx1swakqdz",
     "duration": null,
     "canonical_section": {
@@ -374,7 +420,7 @@
     "title": "Bekerduel stuntploeg Hercules tegen Cambuur afgelast: 'Te gevaarlijk op dit veld'",
     "subtitle": null,
     "published_at": "2024-01-18T19:27:43+01:00",
-    "updated_at": "2024-01-18T21:41:02+01:00",
+    "updated_at": "2024-01-18T23:07:00+01:00",
     "media_id": "vqax5k4au2gr",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6298324/buizerd-steelt-visfilet-van-amerikaanse-visser.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298323,
-    "slug": "biden-zegt-dat-amerikaanse-luchtaanvallen-op-houthis-blijven-doorgaan",
-    "type": "article",
-    "title": "Biden zegt dat Amerikaanse luchtaanvallen op Houthi's blijven doorgaan",
-    "subtitle": null,
-    "published_at": "2024-01-18T19:05:47+01:00",
-    "updated_at": "2024-01-18T20:54:26+01:00",
-    "media_id": "l9dxz53aga21",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6298323/biden-zegt-dat-amerikaanse-luchtaanvallen-op-houthis-blijven-doorgaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298321,
-    "slug": "amerikaanse-politie-maakte-cruciale-fouten-bij-schietpartij-op-school-in-uvalde",
-    "type": "article",
-    "title": "Amerikaanse politie maakte cruciale fouten bij schietpartij op school in Uvalde",
-    "subtitle": null,
-    "published_at": "2024-01-18T18:52:58+01:00",
-    "updated_at": "2024-01-18T19:28:56+01:00",
-    "media_id": "kqvxfnlak5sc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6298321/amerikaanse-politie-maakte-cruciale-fouten-bij-schietpartij-op-school-in-uvalde.html",
     "open_new_window": false,
     "partner": null
   }
