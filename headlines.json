@@ -1,5 +1,28 @@
 [
   {
+    "id": 6298413,
+    "slug": "fortuna-pikt-lonwijk-op-uit-oekraine-volendam-huurt-fransman-van-udinese",
+    "type": "article",
+    "title": "Fortuna pikt Lonwijk op uit Oekraïne, Volendam huurt Fransman van Udinese",
+    "subtitle": null,
+    "published_at": "2024-01-19T14:23:32+01:00",
+    "updated_at": "2024-01-19T14:23:34+01:00",
+    "media_id": "zckxlbma9dro",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6298413/fortuna-pikt-lonwijk-op-uit-oekraine-volendam-huurt-fransman-van-udinese.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298411,
     "slug": "psv-mist-geblesseerde-veerman-in-mogelijk-historisch-duel-tegen-fc-utrecht",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Kabinet wil dat Twitter-alternatieven snel aan elkaar worden gekoppeld",
     "subtitle": null,
     "published_at": "2024-01-19T14:08:04+01:00",
-    "updated_at": "2024-01-19T14:08:05+01:00",
+    "updated_at": "2024-01-19T14:21:10+01:00",
     "media_id": "6j0x48wab9r9",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6298378/historisch-besluit-voor-ek-atletiek-2024-voor-het-eerst-prijzengeld.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298373,
-    "slug": "zondag-zijn-we-van-de-gladheid-af-maar-misschien-nog-niet-van-code-geel",
-    "type": "article",
-    "title": "Zondag zijn we van de gladheid af, maar misschien nog niet van code geel",
-    "subtitle": null,
-    "published_at": "2024-01-19T10:54:34+01:00",
-    "updated_at": "2024-01-19T10:54:35+01:00",
-    "media_id": "aloxn6ialf26",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6298373/zondag-zijn-we-van-de-gladheid-af-maar-misschien-nog-niet-van-code-geel.html",
     "open_new_window": false,
     "partner": null
   }
