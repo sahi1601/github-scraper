@@ -1,12 +1,58 @@
 [
   {
+    "id": 6298434,
+    "slug": "overleden-kaiser-beckenbauer-herdacht-in-allianz-arena",
+    "type": "article",
+    "title": "Overleden 'Kaiser' Beckenbauer herdacht in Allianz Arena",
+    "subtitle": "In beeld",
+    "published_at": "2024-01-19T16:25:22+01:00",
+    "updated_at": "2024-01-19T16:25:23+01:00",
+    "media_id": "4o7xge4a4ioa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6298434/overleden-kaiser-beckenbauer-herdacht-in-allianz-arena.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298420,
+    "slug": "twee-mensen-dood-man-opgepakt-dit-weten-we-over-schietpartij-weiteveen",
+    "type": "article",
+    "title": "Twee mensen dood, man opgepakt: dit weten we over schietpartij Weiteveen",
+    "subtitle": null,
+    "published_at": "2024-01-19T16:15:46+01:00",
+    "updated_at": "2024-01-19T16:15:48+01:00",
+    "media_id": "vyvxbndad65d",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6298420/twee-mensen-dood-man-opgepakt-dit-weten-we-over-schietpartij-weiteveen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298300,
     "slug": "milieudefensie-daagt-ing-voor-de-rechter-om-co2-uitstoot",
     "type": "article",
     "title": "Milieudefensie daagt ING voor de rechter om CO2-uitstoot",
     "subtitle": null,
     "published_at": "2024-01-19T16:06:26+01:00",
-    "updated_at": "2024-01-19T16:14:46+01:00",
+    "updated_at": "2024-01-19T16:23:00+01:00",
     "media_id": "pabxw1da71dw",
     "duration": null,
     "canonical_section": {
@@ -52,7 +98,7 @@
     "title": "Tata Steel schrapt tot 2.800 banen in Wales",
     "subtitle": null,
     "published_at": "2024-01-19T15:55:24+01:00",
-    "updated_at": "2024-01-19T15:55:25+01:00",
+    "updated_at": "2024-01-19T16:19:55+01:00",
     "media_id": "pb9xnsgafuca",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Verdachte Weiteveen gebruikte extreem geweld, ook voor ogen van zoon slachtoffers",
     "subtitle": null,
     "published_at": "2024-01-19T15:25:38+01:00",
-    "updated_at": "2024-01-19T16:05:32+01:00",
+    "updated_at": "2024-01-19T16:22:44+01:00",
     "media_id": "k07x0wja62yr",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/tech/6298405/apple-zwicht-voor-druk-van-brussel-en-laat-concurrerende-betaaldiensten-toe.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298404,
-    "slug": "live-persconferentie-lees-terug-hoe-henderson-bij-ajax-werd-gepresenteerd",
-    "type": "article",
-    "title": "Live persconferentie | Lees terug hoe Henderson bij Ajax werd gepresenteerd",
-    "subtitle": null,
-    "published_at": "2024-01-19T13:45:23+01:00",
-    "updated_at": "2024-01-19T14:53:23+01:00",
-    "media_id": "dobxbyiau3w1",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6298404/live-persconferentie-lees-terug-hoe-henderson-bij-ajax-werd-gepresenteerd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298400,
-    "slug": "uitspraak-kort-geding-de-vries-en-ad-op-26-januari-blijft-mogelijk-geheim",
-    "type": "article",
-    "title": "Uitspraak kort geding De Vries en AD op 26 januari, blijft mogelijk geheim",
-    "subtitle": null,
-    "published_at": "2024-01-19T13:05:13+01:00",
-    "updated_at": "2024-01-19T13:09:28+01:00",
-    "media_id": "ouqxdvqa7nv2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6298400/uitspraak-kort-geding-de-vries-en-ad-op-26-januari-blijft-mogelijk-geheim.html",
     "open_new_window": false,
     "partner": null
   }
