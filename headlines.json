@@ -1,12 +1,35 @@
 [
   {
+    "id": 6298354,
+    "slug": "tienersensatie-andreeva-overleeft-matchpoint-en-gaat-door-op-australian-open",
+    "type": "article",
+    "title": "Tienersensatie Andreeva overleeft matchpoint en gaat door op Australian Open",
+    "subtitle": null,
+    "published_at": "2024-01-19T08:14:45+01:00",
+    "updated_at": "2024-01-19T08:14:46+01:00",
+    "media_id": "p4lxw4lacecp",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6298354/tienersensatie-andreeva-overleeft-matchpoint-en-gaat-door-op-australian-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298353,
     "slug": "consument-met-variabel-contract-ziet-nog-niets-terug-van-lagere-gasprijzen",
     "type": "article",
     "title": "Consument met variabel contract ziet nog niets terug van lagere gasprijzen",
     "subtitle": null,
     "published_at": "2024-01-19T07:57:20+01:00",
-    "updated_at": "2024-01-19T08:07:45+01:00",
+    "updated_at": "2024-01-19T08:14:34+01:00",
     "media_id": "k2hxph0aboo8",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Madonna aangeklaagd in VS omdat ze concerten te laat begon",
     "subtitle": null,
     "published_at": "2024-01-19T07:13:18+01:00",
-    "updated_at": "2024-01-19T07:44:35+01:00",
+    "updated_at": "2024-01-19T08:14:04+01:00",
     "media_id": "0suxd7iatsma",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6298341/henderson-mag-bij-ajax-niet-met-zijn-nummer-14-spelen-maar-dat-is-begrijpelijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298342,
-    "slug": "van-bommel-na-topseizoen-verkozen-tot-trainer-van-het-jaar-in-belgie",
-    "type": "article",
-    "title": "Van Bommel na topseizoen verkozen tot trainer van het jaar in België",
-    "subtitle": null,
-    "published_at": "2024-01-18T23:07:57+01:00",
-    "updated_at": "2024-01-18T23:14:16+01:00",
-    "media_id": "cvjx3jcakl4k",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6298342/van-bommel-na-topseizoen-verkozen-tot-trainer-van-het-jaar-in-belgie.html",
     "open_new_window": false,
     "partner": null
   }
