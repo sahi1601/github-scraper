@@ -1,13 +1,36 @@
 [
   {
-    "id": 6298552,
-    "slug": "live-eredivisie-fc-twente-opent-in-nijmegen-jacht-op-tweede-plek",
+    "id": 6298553,
+    "slug": "achtergelaten-hond-met-zes-poten-na-inzamelingsactie-succesvol-geopereerd",
     "type": "article",
-    "title": "Live Eredivisie | FC Twente opent in Nijmegen jacht op tweede plek",
+    "title": "Achtergelaten hond met zes poten na inzamelingsactie succesvol geopereerd",
+    "subtitle": null,
+    "published_at": "2024-01-20T16:38:08+01:00",
+    "updated_at": "2024-01-20T16:44:02+01:00",
+    "media_id": "wepxllzaqh81",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772536,
+      "slug": "dieren",
+      "type": "default",
+      "name": "Dieren",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/dieren/6298553/achtergelaten-hond-met-zes-poten-na-inzamelingsactie-succesvol-geopereerd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298552,
+    "slug": "live-eredivisie-fc-twente-in-nijmegen-begonnen-aan-jacht-op-tweede-plek",
+    "type": "article",
+    "title": "Live Eredivisie | FC Twente in Nijmegen begonnen aan jacht op tweede plek",
     "subtitle": null,
     "published_at": "2024-01-20T16:17:30+01:00",
-    "updated_at": "2024-01-20T16:20:01+01:00",
-    "media_id": "7icxpn1auq47",
+    "updated_at": "2024-01-20T16:37:16+01:00",
+    "media_id": "8bbxdckaw03h",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6298552/live-eredivisie-fc-twente-opent-in-nijmegen-jacht-op-tweede-plek.html",
+    "url": "/voetbal/6298552/live-eredivisie-fc-twente-in-nijmegen-begonnen-aan-jacht-op-tweede-plek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6298532/zanger-zayn-malik-duikt-voor-het-eerst-in-vijf-jaar-op-bij-groot-publiek-evenement.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298531,
-    "slug": "van-gerwen-wanhoopt-niet-na-nederlaag-tegen-littler-ik-zal-hem-ooit-verslaan",
-    "type": "article",
-    "title": "Van Gerwen wanhoopt niet na nederlaag tegen Littler: 'Ik zal hem ooit verslaan'",
-    "subtitle": null,
-    "published_at": "2024-01-20T12:25:59+01:00",
-    "updated_at": "2024-01-20T14:34:09+01:00",
-    "media_id": "y0hx3zmagjx7",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6298531/van-gerwen-wanhoopt-niet-na-nederlaag-tegen-littler-ik-zal-hem-ooit-verslaan.html",
     "open_new_window": false,
     "partner": null
   }
