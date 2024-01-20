@@ -1,5 +1,28 @@
 [
   {
+    "id": 6298557,
+    "slug": "groenewegen-sprint-in-valencia-meteen-naar-eerste-zege-van-seizoen",
+    "type": "article",
+    "title": "Groenewegen sprint in Valencia meteen naar eerste zege van seizoen",
+    "subtitle": null,
+    "published_at": "2024-01-20T17:20:58+01:00",
+    "updated_at": "2024-01-20T17:20:59+01:00",
+    "media_id": "u3nxpyuarz7w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6298557/groenewegen-sprint-in-valencia-meteen-naar-eerste-zege-van-seizoen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298556,
     "slug": "miedema-wint-dankzij-pelova-en-partner-bij-basisrentree-in-competitieduel-arsenal",
     "type": "article",
@@ -93,13 +116,13 @@
   },
   {
     "id": 6298552,
-    "slug": "live-eredivisie-nec-creeert-kansen-in-duel-met-fc-twente",
+    "slug": "live-eredivisie-nec-en-fc-twente-kennen-matige-eerste-helft-in-de-goffert",
     "type": "article",
-    "title": "Live Eredivisie | NEC creëert kansen in duel met FC Twente",
+    "title": "Live Eredivisie | NEC en FC Twente kennen matige eerste helft in De Goffert",
     "subtitle": null,
     "published_at": "2024-01-20T16:17:30+01:00",
-    "updated_at": "2024-01-20T17:07:37+01:00",
-    "media_id": "egxxri2a7p1j",
+    "updated_at": "2024-01-20T17:24:51+01:00",
+    "media_id": "rjtxqnwaa152",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6298552/live-eredivisie-nec-creeert-kansen-in-duel-met-fc-twente.html",
+    "url": "/voetbal/6298552/live-eredivisie-nec-en-fc-twente-kennen-matige-eerste-helft-in-de-goffert.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6298538/helikopter-redt-verdwaalde-nederlander-uit-ravijn-in-spanje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298537,
-    "slug": "met-spoed-opgenomen-nederlander-vernielt-apparatuur-in-belgisch-ziekenhuis",
-    "type": "article",
-    "title": "Met spoed opgenomen Nederlander vernielt apparatuur in Belgisch ziekenhuis",
-    "subtitle": null,
-    "published_at": "2024-01-20T13:31:31+01:00",
-    "updated_at": "2024-01-20T13:44:40+01:00",
-    "media_id": "86ax4o9ayq7b",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6298537/met-spoed-opgenomen-nederlander-vernielt-apparatuur-in-belgisch-ziekenhuis.html",
     "open_new_window": false,
     "partner": null
   }
