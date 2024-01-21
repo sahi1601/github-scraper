@@ -1,12 +1,81 @@
 [
   {
+    "id": 6298610,
+    "slug": "fifa-voorzitter-infantino-zinspeelt-op-reglementaire-nederlaag-bij-racisme",
+    "type": "article",
+    "title": "FIFA-voorzitter Infantino zinspeelt op reglementaire nederlaag bij racisme",
+    "subtitle": null,
+    "published_at": "2024-01-21T13:38:20+01:00",
+    "updated_at": "2024-01-21T13:41:43+01:00",
+    "media_id": "sjhxetnag5n3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6298610/fifa-voorzitter-infantino-zinspeelt-op-reglementaire-nederlaag-bij-racisme.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298609,
+    "slug": "noorse-prinses-ingrid-alexandra-20-viert-verjaardag-in-het-leger",
+    "type": "article",
+    "title": "Noorse prinses Ingrid Alexandra (20) viert verjaardag in het leger",
+    "subtitle": null,
+    "published_at": "2024-01-21T13:31:00+01:00",
+    "updated_at": "2024-01-21T13:50:22+01:00",
+    "media_id": "xzkxqula7xyo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772242,
+      "slug": "entertainment",
+      "type": "default",
+      "name": "Media en Cultuur",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/entertainment/6298609/noorse-prinses-ingrid-alexandra-20-viert-verjaardag-in-het-leger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298608,
+    "slug": "vlammen-en-explosies-bij-russische-gasproducent",
+    "type": "video",
+    "title": "Vlammen en explosies bij Russische gasproducent",
+    "subtitle": "Video",
+    "published_at": "2024-01-21T13:27:47+01:00",
+    "updated_at": "2024-01-21T13:27:47+01:00",
+    "media_id": "sgyxz83a5iym",
+    "duration": "0:43",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6298608/vlammen-en-explosies-bij-russische-gasproducent.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298592,
     "slug": "feyenoord-coach-slot-kiest-in-uitduel-met-vitesse-opnieuw-voor-paixao-en-dilrosun",
     "type": "article",
     "title": "Feyenoord-coach Slot kiest in uitduel met Vitesse opnieuw voor Paixão en Dilrosun",
     "subtitle": null,
     "published_at": "2024-01-21T13:23:30+01:00",
-    "updated_at": "2024-01-21T13:23:32+01:00",
+    "updated_at": "2024-01-21T13:41:16+01:00",
     "media_id": "b23xlqwa36kg",
     "duration": null,
     "canonical_section": {
@@ -29,7 +98,7 @@
     "title": "Vanaf komende nacht code oranje in Noord-Holland en Waddengebied vanwege storm Isha",
     "subtitle": null,
     "published_at": "2024-01-21T13:17:49+01:00",
-    "updated_at": "2024-01-21T13:24:14+01:00",
+    "updated_at": "2024-01-21T13:48:07+01:00",
     "media_id": "qzpxeffasi45",
     "duration": null,
     "canonical_section": {
@@ -47,13 +116,13 @@
   },
   {
     "id": 6298606,
-    "slug": "murder-on-the-dancefloor-zangeres-sophie-ellis-bextor-tekent-bij-oude-platenlabel",
+    "slug": "murder-on-the-dancefloor-zangeres-tekent-bij-oude-platenlabel",
     "type": "article",
-    "title": "'Murder on the Dancefloor'-zangeres Sophie Ellis-Bextor tekent bij oude platenlabel",
+    "title": "'Murder on the Dancefloor'-zangeres tekent bij oude platenlabel",
     "subtitle": null,
     "published_at": "2024-01-21T13:01:09+01:00",
-    "updated_at": "2024-01-21T13:15:18+01:00",
-    "media_id": "hqyxenna9w81",
+    "updated_at": "2024-01-21T13:45:54+01:00",
+    "media_id": "29kxvk3a13uc",
     "duration": null,
     "canonical_section": {
       "id": 868281,
@@ -64,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/muziek/6298606/murder-on-the-dancefloor-zangeres-sophie-ellis-bextor-tekent-bij-oude-platenlabel.html",
+    "url": "/muziek/6298606/murder-on-the-dancefloor-zangeres-tekent-bij-oude-platenlabel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -119,9 +188,9 @@
     "slug": "wie-is-barry-keoghan-de-saltburn-acteur-die-opgroeide-in-pleeggezinnen",
     "type": "article",
     "title": "Wie is Barry Keoghan, de Saltburn-acteur die opgroeide in pleeggezinnen?",
-    "subtitle": null,
+    "subtitle": "NU+",
     "published_at": "2024-01-21T12:27:43+01:00",
-    "updated_at": "2024-01-21T12:27:45+01:00",
+    "updated_at": "2024-01-21T13:50:41+01:00",
     "media_id": "dj9x8mjakvi5",
     "duration": null,
     "canonical_section": {
@@ -185,12 +254,12 @@
   },
   {
     "id": 6298309,
-    "slug": "duurzame-chirurg-gezondheid-verkopen-en-zelf-vervuilen-dat-kan-niet-meer",
+    "slug": "duurzame-chirurg-gezondheid-verkopen-en-zelf-vervuilen-kan-niet-meer",
     "type": "article",
-    "title": "Duurzame chirurg: 'Gezondheid verkopen en zelf vervuilen, dat kan niet meer'",
+    "title": "Duurzame chirurg: 'Gezondheid verkopen en zelf vervuilen kan niet meer'",
     "subtitle": "NU+",
     "published_at": "2024-01-21T11:41:09+01:00",
-    "updated_at": "2024-01-21T13:10:44+01:00",
+    "updated_at": "2024-01-21T13:32:28+01:00",
     "media_id": "i5jx5wzagt9p",
     "duration": null,
     "canonical_section": {
@@ -202,7 +271,7 @@
       "media_id": "kf4x3b2agsxg",
       "partner": null
     },
-    "url": "/klimaat/6298309/duurzame-chirurg-gezondheid-verkopen-en-zelf-vervuilen-dat-kan-niet-meer.html",
+    "url": "/klimaat/6298309/duurzame-chirurg-gezondheid-verkopen-en-zelf-vervuilen-kan-niet-meer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -231,13 +300,13 @@
   },
   {
     "id": 6298599,
-    "slug": "live-eredivisie-psv-loert-op-tweede-goal-in-jacht-op-recordzege-in-utrecht",
+    "slug": "live-eredivisie-historische-zege-psv-in-gevaar-na-gelijkmaker-fc-utrecht",
     "type": "article",
-    "title": "Live Eredivisie | PSV loert op tweede goal in jacht op recordzege in Utrecht",
+    "title": "Live Eredivisie | Historische zege PSV in gevaar na gelijkmaker FC Utrecht",
     "subtitle": null,
     "published_at": "2024-01-21T11:36:35+01:00",
-    "updated_at": "2024-01-21T13:25:18+01:00",
-    "media_id": "nj4x926a8cxp",
+    "updated_at": "2024-01-21T13:40:37+01:00",
+    "media_id": "mgwxq6da5xa5",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -248,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6298599/live-eredivisie-psv-loert-op-tweede-goal-in-jacht-op-recordzege-in-utrecht.html",
+    "url": "/voetbal/6298599/live-eredivisie-historische-zege-psv-in-gevaar-na-gelijkmaker-fc-utrecht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -387,75 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6298593/andreeva-16-strandt-na-voorsprong-op-australian-open-primeur-voor-gauff.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298591,
-    "slug": "ac-milan-doelman-eist-zware-straffen-na-apengeluiden-praten-lost-niks-op",
-    "type": "article",
-    "title": "AC Milan-doelman eist zware straffen na apengeluiden: 'Praten lost niks op'",
-    "subtitle": null,
-    "published_at": "2024-01-21T09:54:02+01:00",
-    "updated_at": "2024-01-21T10:00:18+01:00",
-    "media_id": "cj7xfe2acs9o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6298591/ac-milan-doelman-eist-zware-straffen-na-apengeluiden-praten-lost-niks-op.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298590,
-    "slug": "grote-hoeveelheden-ijs-drijven-naar-japans-eiland",
-    "type": "video",
-    "title": "Grote hoeveelheden ijs drijven naar Japans eiland",
-    "subtitle": "Video",
-    "published_at": "2024-01-21T09:50:08+01:00",
-    "updated_at": "2024-01-21T10:29:51+01:00",
-    "media_id": "3q1xhe7aq9vb",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6298590/grote-hoeveelheden-ijs-drijven-naar-japans-eiland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298589,
-    "slug": "bekerheld-van-wermeskerken-verlaat-nec-na-drie-maanden-transfervrij",
-    "type": "article",
-    "title": "Bekerheld Van Wermeskerken verlaat NEC na drie maanden transfervrij",
-    "subtitle": null,
-    "published_at": "2024-01-21T09:21:30+01:00",
-    "updated_at": "2024-01-21T09:25:07+01:00",
-    "media_id": "492xgi3a8m4r",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6298589/bekerheld-van-wermeskerken-verlaat-nec-na-drie-maanden-transfervrij.html",
     "open_new_window": false,
     "partner": null
   }
