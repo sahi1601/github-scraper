@@ -1,12 +1,58 @@
 [
   {
+    "id": 6298676,
+    "slug": "hoge-golven-slaan-kapot-op-ierse-kades-door-storm-isha",
+    "type": "video",
+    "title": "Hoge golven slaan kapot op Ierse kades door storm Isha",
+    "subtitle": "Video",
+    "published_at": "2024-01-22T08:23:42+01:00",
+    "updated_at": "2024-01-22T08:23:43+01:00",
+    "media_id": "3o3xhoja29gh",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6298676/hoge-golven-slaan-kapot-op-ierse-kades-door-storm-isha.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298672,
+    "slug": "almeria-ziedend-op-arbitrage-na-verlies-tegen-real-we-mochten-hier-niet-winnen",
+    "type": "article",
+    "title": "Almería ziedend op arbitrage na verlies tegen Real: 'We mochten hier niet winnen'",
+    "subtitle": null,
+    "published_at": "2024-01-22T08:16:56+01:00",
+    "updated_at": "2024-01-22T08:16:57+01:00",
+    "media_id": "qyuxjioakpq2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6298672/almeria-ziedend-op-arbitrage-na-verlies-tegen-real-we-mochten-hier-niet-winnen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298674,
     "slug": "trumps-laatste-uitdager-haley-blijft-strijdbaar-nu-desantis-is-gestopt",
     "type": "article",
     "title": "Trumps laatste uitdager Haley blijft strijdbaar nu DeSantis is gestopt",
     "subtitle": null,
     "published_at": "2024-01-22T08:01:35+01:00",
-    "updated_at": "2024-01-22T08:10:29+01:00",
+    "updated_at": "2024-01-22T08:22:12+01:00",
     "media_id": "oabxd7ma713d",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Svitolina verlaat Australian Open in tranen vanwege stekende pijn in de rug",
     "subtitle": null,
     "published_at": "2024-01-22T07:02:52+01:00",
-    "updated_at": "2024-01-22T07:11:19+01:00",
+    "updated_at": "2024-01-22T08:14:15+01:00",
     "media_id": "ilixyx4aiv1h",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6298428/daling-huizenprijzen-was-vorig-jaar-vooral-te-merken-in-de-randstad.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298662,
-    "slug": "veelbesproken-osullivan-verkeert-in-topvorm-met-tweede-titel-in-een-week",
-    "type": "article",
-    "title": "Veelbesproken O'Sullivan verkeert in topvorm met tweede titel in een week",
-    "subtitle": null,
-    "published_at": "2024-01-21T23:32:18+01:00",
-    "updated_at": "2024-01-22T06:38:28+01:00",
-    "media_id": "et1xm1pa3iqq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6298662/veelbesproken-osullivan-verkeert-in-topvorm-met-tweede-titel-in-een-week.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298655,
-    "slug": "van-aert-reed-in-veldrit-zonder-zadel-naar-winst-ik-maakte-absolute-blunder",
-    "type": "article",
-    "title": "Van Aert reed in veldrit zonder zadel naar winst: 'Ik maakte absolute blunder'",
-    "subtitle": null,
-    "published_at": "2024-01-21T23:13:08+01:00",
-    "updated_at": "2024-01-22T07:55:36+01:00",
-    "media_id": "4zaxeriackqb",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6298655/van-aert-reed-in-veldrit-zonder-zadel-naar-winst-ik-maakte-absolute-blunder.html",
     "open_new_window": false,
     "partner": null
   }
