@@ -1,5 +1,28 @@
 [
   {
+    "id": 6298675,
+    "slug": "burgemeester-westerwolde-krijgt-prijs-voor-communicatie-rond-ter-apel",
+    "type": "article",
+    "title": "Burgemeester Westerwolde krijgt prijs voor communicatie rond Ter Apel",
+    "subtitle": null,
+    "published_at": "2024-01-22T08:31:26+01:00",
+    "updated_at": "2024-01-22T08:44:22+01:00",
+    "media_id": "jwtx9esa14fa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6298675/burgemeester-westerwolde-krijgt-prijs-voor-communicatie-rond-ter-apel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298676,
     "slug": "hoge-golven-slaan-kapot-op-ierse-kades-door-storm-isha",
     "type": "video",
@@ -116,12 +139,12 @@
   },
   {
     "id": 6298670,
-    "slug": "svitolina-verlaat-australian-open-in-tranen-vanwege-stekende-pijn-in-de-rug",
+    "slug": "svitolina-verlaat-australian-open-in-tranen-medvedev-en-hurkacz-simpel-door",
     "type": "article",
-    "title": "Svitolina verlaat Australian Open in tranen vanwege stekende pijn in de rug",
+    "title": "Svitolina verlaat Australian Open in tranen, Medvedev en Hurkacz simpel door",
     "subtitle": null,
     "published_at": "2024-01-22T07:02:52+01:00",
-    "updated_at": "2024-01-22T08:14:15+01:00",
+    "updated_at": "2024-01-22T08:31:43+01:00",
     "media_id": "ilixyx4aiv1h",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6298670/svitolina-verlaat-australian-open-in-tranen-vanwege-stekende-pijn-in-de-rug.html",
+    "url": "/tennis/6298670/svitolina-verlaat-australian-open-in-tranen-medvedev-en-hurkacz-simpel-door.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/klimaat/6298500/vuur-in-ijmuidense-hoogovens-is-honderd-jaar-aan-maar-nu-is-er-crisis.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298428,
-    "slug": "daling-huizenprijzen-was-vorig-jaar-vooral-te-merken-in-de-randstad",
-    "type": "article",
-    "title": "Daling huizenprijzen was vorig jaar vooral te merken in de Randstad",
-    "subtitle": null,
-    "published_at": "2024-01-22T00:13:37+01:00",
-    "updated_at": "2024-01-22T06:22:51+01:00",
-    "media_id": "g9hx71wa2lra",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6298428/daling-huizenprijzen-was-vorig-jaar-vooral-te-merken-in-de-randstad.html",
     "open_new_window": false,
     "partner": null
   }
