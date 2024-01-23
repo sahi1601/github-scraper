@@ -1,12 +1,35 @@
 [
   {
-    "id": 6298791,
-    "slug": "doden-en-gewonden-bij-aanvallen-op-oekraiense-steden-kyiv-en-kharkiv",
+    "id": 6298792,
+    "slug": "recordaantal-zonnepanelen-geplaatst-op-woningen-in-drie-provincies",
     "type": "article",
-    "title": "Doden en gewonden bij aanvallen op Oekraïense steden Kyiv en Kharkiv",
+    "title": "Recordaantal zonnepanelen geplaatst op woningen in drie provincies",
+    "subtitle": null,
+    "published_at": "2024-01-23T08:47:55+01:00",
+    "updated_at": "2024-01-23T09:07:17+01:00",
+    "media_id": "e9fxg2ya2o1t",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6298792/recordaantal-zonnepanelen-geplaatst-op-woningen-in-drie-provincies.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6298791,
+    "slug": "doden-en-tientallen-gewonden-bij-aanvallen-op-oekraiense-steden",
+    "type": "article",
+    "title": "Doden en tientallen gewonden bij aanvallen op Oekraïense steden",
     "subtitle": null,
     "published_at": "2024-01-23T08:41:54+01:00",
-    "updated_at": "2024-01-23T08:43:21+01:00",
+    "updated_at": "2024-01-23T09:00:30+01:00",
     "media_id": "me2x1z6a5qf8",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6298791/doden-en-gewonden-bij-aanvallen-op-oekraiense-steden-kyiv-en-kharkiv.html",
+    "url": "/spanningen-oekraine/6298791/doden-en-tientallen-gewonden-bij-aanvallen-op-oekraiense-steden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6298777/amerikanen-en-britten-voeren-opnieuw-aanvallen-uit-op-houthi-doelen-in-jemen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298775,
-    "slug": "veelbekroonde-filmregisseur-norman-jewison-97-overleden",
-    "type": "article",
-    "title": "Veelbekroonde filmregisseur Norman Jewison (97) overleden",
-    "subtitle": null,
-    "published_at": "2024-01-22T23:18:40+01:00",
-    "updated_at": "2024-01-23T07:36:46+01:00",
-    "media_id": "nd1x9tmajthj",
-    "duration": null,
-    "canonical_section": {
-      "id": 127,
-      "slug": "film",
-      "type": "default",
-      "name": "Films & Series",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/film/6298775/veelbekroonde-filmregisseur-norman-jewison-97-overleden.html",
     "open_new_window": false,
     "partner": null
   }
