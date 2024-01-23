@@ -1,12 +1,35 @@
 [
   {
+    "id": 6298783,
+    "slug": "coco-gauff-bereikt-na-tennisgevecht-van-drie-uur-halve-finales-australian-open",
+    "type": "article",
+    "title": "Coco Gauff bereikt na tennisgevecht van drie uur halve finales Australian Open",
+    "subtitle": null,
+    "published_at": "2024-01-23T07:06:00+01:00",
+    "updated_at": "2024-01-23T07:08:36+01:00",
+    "media_id": "gkqxfrcajg8k",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6298783/coco-gauff-bereikt-na-tennisgevecht-van-drie-uur-halve-finales-australian-open.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6298782,
     "slug": "billy-joel-komt-na-zeventien-jaar-met-nieuwe-single",
     "type": "article",
     "title": "Billy Joel komt na zeventien jaar met nieuwe single",
     "subtitle": null,
     "published_at": "2024-01-23T06:43:28+01:00",
-    "updated_at": "2024-01-23T06:43:29+01:00",
+    "updated_at": "2024-01-23T06:49:05+01:00",
     "media_id": "hxoxyzuazwq1",
     "duration": null,
     "canonical_section": {
@@ -47,12 +70,12 @@
   },
   {
     "id": 6298776,
-    "slug": "hoe-een-rattenplaag-soldaten-teistert-in-oekraine",
+    "slug": "hoe-een-rattenplaag-militairen-teistert-in-loopgraven-oekraine",
     "type": "video",
-    "title": "Hoe een rattenplaag soldaten teistert in Oekraïne",
+    "title": "Hoe een rattenplaag militairen teistert in loopgraven Oekraïne",
     "subtitle": "Explainer",
     "published_at": "2024-01-23T06:08:02+01:00",
-    "updated_at": "2024-01-23T06:43:39+01:00",
+    "updated_at": "2024-01-23T06:49:29+01:00",
     "media_id": "rhtxrj7aqvb3",
     "duration": "1:40",
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/spanningen-oekraine/6298776/hoe-een-rattenplaag-soldaten-teistert-in-oekraine.html",
+    "url": "/spanningen-oekraine/6298776/hoe-een-rattenplaag-militairen-teistert-in-loopgraven-oekraine.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Tientallen banen verdwijnen door reorganisatie Roompot en Landal",
     "subtitle": null,
     "published_at": "2024-01-23T00:41:19+01:00",
-    "updated_at": "2024-01-23T06:27:18+01:00",
+    "updated_at": "2024-01-23T07:10:26+01:00",
     "media_id": "u6hx9unaajes",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6298767/verzamelaar-laat-zeker-20-exclusieve-sportwagens-achter-in-brussel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298763,
-    "slug": "ecuador-claimt-een-van-grootste-drugsvangsten-ooit-22-ton-cocaine-onderschept",
-    "type": "article",
-    "title": "Ecuador claimt een van grootste drugsvangsten ooit: 22 ton cocaïne onderschept",
-    "subtitle": null,
-    "published_at": "2024-01-22T20:48:59+01:00",
-    "updated_at": "2024-01-22T20:49:00+01:00",
-    "media_id": "pyexyw6ackqd",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6298763/ecuador-claimt-een-van-grootste-drugsvangsten-ooit-22-ton-cocaine-onderschept.html",
     "open_new_window": false,
     "partner": null
   }
