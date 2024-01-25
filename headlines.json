@@ -1,12 +1,58 @@
 [
   {
+    "id": 6299122,
+    "slug": "live-knvb-beker-hercules-gaat-na-ajax-voor-nieuwe-stunt-tegen-cambuur",
+    "type": "article",
+    "title": "Live KNVB-beker | Hercules gaat na Ajax voor nieuwe stunt tegen Cambuur",
+    "subtitle": null,
+    "published_at": "2024-01-25T19:21:50+01:00",
+    "updated_at": "2024-01-25T19:21:51+01:00",
+    "media_id": "7snx5deafxqa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6299122/live-knvb-beker-hercules-gaat-na-ajax-voor-nieuwe-stunt-tegen-cambuur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299123,
+    "slug": "vrouw-zwaargewond-doordat-trein-haar-auto-schept-in-rosmalen",
+    "type": "video",
+    "title": "Vrouw zwaargewond doordat trein haar auto schept in Rosmalen",
+    "subtitle": "Video",
+    "published_at": "2024-01-25T19:21:43+01:00",
+    "updated_at": "2024-01-25T19:21:45+01:00",
+    "media_id": "gysxpekanfbo",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6299123/vrouw-zwaargewond-doordat-trein-haar-auto-schept-in-rosmalen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299121,
     "slug": "voorlopig-minder-treinen-tussen-amsterdam-en-rotterdam-spoor-niet-overal-veilig",
     "type": "article",
     "title": "Voorlopig minder treinen tussen Amsterdam en Rotterdam, spoor niet overal veilig",
     "subtitle": null,
     "published_at": "2024-01-25T19:15:56+01:00",
-    "updated_at": "2024-01-25T19:15:58+01:00",
+    "updated_at": "2024-01-25T19:24:10+01:00",
     "media_id": "owcx75ra50sj",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6299095/broer-van-vermoorde-nederlandse-crimineel-scarface-aangehouden-in-spanje.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298997,
-    "slug": "de-alternatieve-prijs-voor-vrouwelijke-radiomakers-is-nodig-voor-meer-gelijkheid",
-    "type": "article",
-    "title": "'De alternatieve prijs voor vrouwelijke radiomakers is nodig voor meer gelijkheid'",
-    "subtitle": "Stelling",
-    "published_at": "2024-01-25T16:16:37+01:00",
-    "updated_at": "2024-01-25T16:16:39+01:00",
-    "media_id": "milxqfpak29g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6298997/de-alternatieve-prijs-voor-vrouwelijke-radiomakers-is-nodig-voor-meer-gelijkheid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299099,
-    "slug": "russin-moet-27-jaar-cel-in-voor-bomaanslag-op-militaire-blogger-in-cafe",
-    "type": "article",
-    "title": "Russin moet 27 jaar cel in voor bomaanslag op militaire blogger in café",
-    "subtitle": null,
-    "published_at": "2024-01-25T16:06:37+01:00",
-    "updated_at": "2024-01-25T18:28:07+01:00",
-    "media_id": "f0dx6w7apqjo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6299099/russin-moet-27-jaar-cel-in-voor-bomaanslag-op-militaire-blogger-in-cafe.html",
     "open_new_window": false,
     "partner": null
   }
