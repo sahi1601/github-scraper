@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299081,
+    "slug": "dit-weten-we-nog-niet-over-het-neergestorte-vliegtuig-in-rusland",
+    "type": "article",
+    "title": "Dit weten we (nog niet) over het neergestorte vliegtuig in Rusland",
+    "subtitle": null,
+    "published_at": "2024-01-25T15:29:57+01:00",
+    "updated_at": "2024-01-25T15:32:45+01:00",
+    "media_id": "xnkximhajusb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6299081/dit-weten-we-nog-niet-over-het-neergestorte-vliegtuig-in-rusland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299094,
     "slug": "turks-transportvliegtuig-maakt-buikschuiver-bij-noodlanding",
     "type": "video",
@@ -75,7 +98,7 @@
     "title": "Leclerc ligt met nieuwe verbintenis langer vast bij Ferrari",
     "subtitle": null,
     "published_at": "2024-01-25T14:37:06+01:00",
-    "updated_at": "2024-01-25T14:49:58+01:00",
+    "updated_at": "2024-01-25T15:32:26+01:00",
     "media_id": "x1wxltsayfu0",
     "duration": null,
     "canonical_section": {
@@ -236,7 +259,7 @@
     "title": "Sofia Vergara moest nepcocaïne snuiven voor Griselda: 'Het was het waard'",
     "subtitle": "NU+",
     "published_at": "2024-01-25T13:37:08+01:00",
-    "updated_at": "2024-01-25T15:25:44+01:00",
+    "updated_at": "2024-01-25T15:29:33+01:00",
     "media_id": "leoxk13a5fwv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6299075/advocaat-fritzl-rechtbank-vindt-hem-niet-langer-gevaarlijk.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6298745,
-    "slug": "depressie-kunstgebit-en-geldproblemen-de-val-van-topdarter-de-zwaan",
-    "type": "article",
-    "title": "Depressie, kunstgebit en geldproblemen: de val van topdarter De Zwaan",
-    "subtitle": "NU+",
-    "published_at": "2024-01-25T12:12:03+01:00",
-    "updated_at": "2024-01-25T13:32:38+01:00",
-    "media_id": "wfzx21ca71qp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1777376,
-      "slug": "darts",
-      "type": "default",
-      "name": "Darts",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/darts/6298745/depressie-kunstgebit-en-geldproblemen-de-val-van-topdarter-de-zwaan.html",
     "open_new_window": false,
     "partner": null
   }
