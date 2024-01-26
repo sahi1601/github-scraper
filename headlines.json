@@ -1,12 +1,35 @@
 [
   {
+    "id": 6299259,
+    "slug": "shiffrin-naar-ziekenhuis-gebracht-na-zware-val-topskiester-maakt-het-goed",
+    "type": "article",
+    "title": "Shiffrin naar ziekenhuis gebracht na zware val, topskiester maakt het goed",
+    "subtitle": null,
+    "published_at": "2024-01-26T19:19:28+01:00",
+    "updated_at": "2024-01-26T19:22:50+01:00",
+    "media_id": "w1kxu5cau7td",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6299259/shiffrin-naar-ziekenhuis-gebracht-na-zware-val-topskiester-maakt-het-goed.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299257,
     "slug": "hondentrimmers-doen-live-examen-op-immense-dierenbeurs-hongkong",
     "type": "video",
     "title": "Hondentrimmers doen live examen op immense dierenbeurs Hongkong",
-    "subtitle": null,
+    "subtitle": "Video",
     "published_at": "2024-01-26T19:02:42+01:00",
-    "updated_at": "2024-01-26T19:02:42+01:00",
+    "updated_at": "2024-01-26T19:26:25+01:00",
     "media_id": "g0axw3aai4ra",
     "duration": "1:15",
     "canonical_section": {
@@ -47,24 +70,24 @@
   },
   {
     "id": 6299254,
-    "slug": "palestijnen-blij-met-icj-uitspraak-over-gaza-israel-gaat-uiterste-best-doen",
+    "slug": "wisselende-reacties-op-icj-uitspraak-belangrijke-dag-voor-mensen-in-gaza",
     "type": "article",
-    "title": "Palestijnen blij met ICJ-uitspraak over Gaza, Israël gaat 'uiterste best' doen",
+    "title": "Wisselende reacties op ICJ-uitspraak: 'Belangrijke dag voor mensen in Gaza'",
     "subtitle": null,
     "published_at": "2024-01-26T18:34:04+01:00",
-    "updated_at": "2024-01-26T18:54:39+01:00",
+    "updated_at": "2024-01-26T19:27:47+01:00",
     "media_id": "qpdxwc6astin",
     "duration": null,
     "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
       "type": "default",
-      "name": "Buitenland",
+      "name": "Oorlog Israël en Hamas",
       "style": "nu",
-      "media_id": null,
+      "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/buitenland/6299254/palestijnen-blij-met-icj-uitspraak-over-gaza-israel-gaat-uiterste-best-doen.html",
+    "url": "/midden-oostenconflict/6299254/wisselende-reacties-op-icj-uitspraak-belangrijke-dag-voor-mensen-in-gaza.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media/6299230/ad-mag-van-rechter-niet-meer-publiceren-over-geluidsopnames-peter-r-de-vries.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299218,
-    "slug": "grootste-koraalrif-ooit-gevonden-in-de-atlantische-oceaan",
-    "type": "article",
-    "title": "Grootste koraalrif ooit gevonden in de Atlantische Oceaan",
-    "subtitle": null,
-    "published_at": "2024-01-26T15:40:43+01:00",
-    "updated_at": "2024-01-26T16:24:21+01:00",
-    "media_id": "pkpxsxwa3yyw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
-      "type": "default",
-      "name": "Tech en Wetenschap",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech-wetenschap/6299218/grootste-koraalrif-ooit-gevonden-in-de-atlantische-oceaan.html",
     "open_new_window": false,
     "partner": null
   }
