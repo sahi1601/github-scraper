@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299172,
+    "slug": "personeel-op-schiphol-ademt-kankerverwekkende-stoffen-in",
+    "type": "article",
+    "title": "Personeel op Schiphol ademt kankerverwekkende stoffen in",
+    "subtitle": null,
+    "published_at": "2024-01-26T10:26:44+01:00",
+    "updated_at": "2024-01-26T10:43:24+01:00",
+    "media_id": "6bwx5wjaftxo",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6299172/personeel-op-schiphol-ademt-kankerverwekkende-stoffen-in.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299167,
     "slug": "verloren-schilderij-van-gustav-klimt-na-bijna-honderd-jaar-teruggevonden",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Londen gebruikt illegaal verkregen gegevens om Europeanen te beboeten",
     "subtitle": null,
     "published_at": "2024-01-26T10:04:46+01:00",
-    "updated_at": "2024-01-26T10:04:48+01:00",
+    "updated_at": "2024-01-26T10:36:29+01:00",
     "media_id": "43mxbr4az5iv",
     "duration": null,
     "canonical_section": {
@@ -190,7 +213,7 @@
     "title": "Pesten op kantoor komt nog vaak voor: 'Werkplek voor veel mensen een kwelling'",
     "subtitle": null,
     "published_at": "2024-01-26T08:29:55+01:00",
-    "updated_at": "2024-01-26T08:29:56+01:00",
+    "updated_at": "2024-01-26T10:44:56+01:00",
     "media_id": "2asx4qea4u8i",
     "duration": null,
     "canonical_section": {
@@ -374,7 +397,7 @@
     "title": "Rachel Hazes krijgt mogelijk eigen realityserie over brasserie in Spanje",
     "subtitle": null,
     "published_at": "2024-01-26T06:20:41+01:00",
-    "updated_at": "2024-01-26T06:40:34+01:00",
+    "updated_at": "2024-01-26T10:30:56+01:00",
     "media_id": "p6sx35kavwkx",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/midden-oostenconflict/6299133/overlevende-hamas-aanval-keert-terug-naar-haar-verwoeste-dorp-in-israel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299143,
-    "slug": "s-ochtends-code-geel-om-zware-windstoten-later-ruimte-voor-zon",
-    "type": "article",
-    "title": "'s Ochtends code geel om zware windstoten, later ruimte voor zon",
-    "subtitle": "Weerbericht",
-    "published_at": "2024-01-26T05:59:28+01:00",
-    "updated_at": "2024-01-26T07:19:47+01:00",
-    "media_id": "pw4x5z7apnht",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6299143/s-ochtends-code-geel-om-zware-windstoten-later-ruimte-voor-zon.html",
     "open_new_window": false,
     "partner": null
   }
