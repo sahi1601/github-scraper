@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299140,
+    "slug": "beschuldigingen-over-en-weer-in-vn-bijeenkomst-rond-vliegtuigcrash-in-rusland",
+    "type": "article",
+    "title": "Beschuldigingen over en weer in VN-bijeenkomst rond vliegtuigcrash in Rusland",
+    "subtitle": null,
+    "published_at": "2024-01-26T05:44:10+01:00",
+    "updated_at": "2024-01-26T05:44:11+01:00",
+    "media_id": "02sxmi3auh5w",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6299140/beschuldigingen-over-en-weer-in-vn-bijeenkomst-rond-vliegtuigcrash-in-rusland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299139,
     "slug": "van-barneveld-snakt-naar-beker-in-2024-je-wil-een-aai-over-je-bol",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6299127/vier-maanden-cel-voor-trumps-oud-adviseur-voor-niet-verschijnen-voor-commissie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299126,
-    "slug": "antitankmijn-uit-woii-tot-ontploffing-gebracht-in-mijdrecht",
-    "type": "video",
-    "title": "Antitankmijn uit WOII tot ontploffing gebracht in Mijdrecht",
-    "subtitle": "Video",
-    "published_at": "2024-01-25T20:04:26+01:00",
-    "updated_at": "2024-01-25T20:04:27+01:00",
-    "media_id": "jw8xccbalvfd",
-    "duration": "0:38",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6299126/antitankmijn-uit-woii-tot-ontploffing-gebracht-in-mijdrecht.html",
     "open_new_window": false,
     "partner": null
   }
