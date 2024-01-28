@@ -1,12 +1,35 @@
 [
   {
+    "id": 6299458,
+    "slug": "verwaarloosde-giraffe-maakt-nieuwe-vrienden-na-verhuizing-in-mexico",
+    "type": "video",
+    "title": "Verwaarloosde giraffe maakt nieuwe vrienden na verhuizing in Mexico",
+    "subtitle": "Video",
+    "published_at": "2024-01-28T19:22:54+01:00",
+    "updated_at": "2024-01-28T19:22:55+01:00",
+    "media_id": "ylox34maft8d",
+    "duration": "1:05",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6299458/verwaarloosde-giraffe-maakt-nieuwe-vrienden-na-verhuizing-in-mexico.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299454,
-    "slug": "drie-amerikaanse-militairen-omgekomen-bij-drone-aanval-in-jordanie",
+    "slug": "drie-amerikaanse-militairen-omgekomen-bij-droneaanval-in-jordanie",
     "type": "article",
-    "title": "Drie Amerikaanse militairen omgekomen bij drone-aanval in Jordanië",
+    "title": "Drie Amerikaanse militairen omgekomen bij droneaanval in Jordanië",
     "subtitle": null,
     "published_at": "2024-01-28T19:13:54+01:00",
-    "updated_at": "2024-01-28T19:13:55+01:00",
+    "updated_at": "2024-01-28T19:22:14+01:00",
     "media_id": "nz9xt83a182g",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6299454/drie-amerikaanse-militairen-omgekomen-bij-drone-aanval-in-jordanie.html",
+    "url": "/buitenland/6299454/drie-amerikaanse-militairen-omgekomen-bij-droneaanval-in-jordanie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/weerbericht/6299426/geen-code-geel-of-oranje-maar-zacht-weer-op-komst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299437,
-    "slug": "meerdere-gewonden-bij-zware-rellen-tijdens-fa-cup-duel-west-brom-wolves",
-    "type": "article",
-    "title": "Meerdere gewonden bij zware rellen tijdens FA Cup-duel West Brom-Wolves",
-    "subtitle": null,
-    "published_at": "2024-01-28T15:41:49+01:00",
-    "updated_at": "2024-01-28T16:10:25+01:00",
-    "media_id": "lecxv69aa7ru",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6299437/meerdere-gewonden-bij-zware-rellen-tijdens-fa-cup-duel-west-brom-wolves.html",
     "open_new_window": false,
     "partner": null
   }
