@@ -1,12 +1,104 @@
 [
   {
-    "id": 6299401,
-    "slug": "liveblog-australian-open-sinner-en-medvedev-gaan-voor-eerste-titel-in-melbourne",
+    "id": 6299406,
+    "slug": "hotel-uit-filmklassieker-the-shining-wordt-deels-horrormuseum",
     "type": "article",
-    "title": "Liveblog Australian Open | Sinner en Medvedev gaan voor eerste titel in Melbourne",
+    "title": "Hotel uit filmklassieker The Shining wordt deels horrormuseum",
+    "subtitle": null,
+    "published_at": "2024-01-28T09:44:28+01:00",
+    "updated_at": "2024-01-28T09:44:29+01:00",
+    "media_id": "nq4xz4iakipp",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6299406/hotel-uit-filmklassieker-the-shining-wordt-deels-horrormuseum.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299405,
+    "slug": "maker-soldaat-van-oranje-diep-geroerd-door-zang-van-oud-schaatser-michel-mulder",
+    "type": "article",
+    "title": "Maker Soldaat van Oranje diep geroerd door zang van oud-schaatser Michel Mulder",
+    "subtitle": null,
+    "published_at": "2024-01-28T09:40:31+01:00",
+    "updated_at": "2024-01-28T09:40:49+01:00",
+    "media_id": "i59xdaba09hk",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6299405/maker-soldaat-van-oranje-diep-geroerd-door-zang-van-oud-schaatser-michel-mulder.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299403,
+    "slug": "bankzitters-slepen-twee-zapp-awards-in-de-wacht",
+    "type": "article",
+    "title": "Bankzitters slepen twee Zapp Awards in de wacht",
+    "subtitle": null,
+    "published_at": "2024-01-28T09:35:36+01:00",
+    "updated_at": "2024-01-28T09:35:57+01:00",
+    "media_id": "awnx4a3ae7n8",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6299403/bankzitters-slepen-twee-zapp-awards-in-de-wacht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299402,
+    "slug": "hond-op-surfplank-trotseert-de-peruaanse-golven",
+    "type": "video",
+    "title": "Hond op surfplank trotseert de Peruaanse golven",
+    "subtitle": "Video",
+    "published_at": "2024-01-28T09:28:34+01:00",
+    "updated_at": "2024-01-28T09:28:35+01:00",
+    "media_id": "jp0xagdas0gp",
+    "duration": "1:12",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6299402/hond-op-surfplank-trotseert-de-peruaanse-golven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299401,
+    "slug": "live-australian-open-sinner-en-medvedev-gaan-voor-eerste-titel-in-melbourne",
+    "type": "article",
+    "title": "Live Australian Open | Sinner en Medvedev gaan voor eerste titel in Melbourne",
     "subtitle": null,
     "published_at": "2024-01-28T09:25:03+01:00",
-    "updated_at": "2024-01-28T09:25:04+01:00",
+    "updated_at": "2024-01-28T09:35:58+01:00",
     "media_id": "f4pxofrazmr9",
     "duration": null,
     "canonical_section": {
@@ -18,7 +110,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6299401/liveblog-australian-open-sinner-en-medvedev-gaan-voor-eerste-titel-in-melbourne.html",
+    "url": "/tennis/6299401/live-australian-open-sinner-en-medvedev-gaan-voor-eerste-titel-in-melbourne.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +121,7 @@
     "title": "Weer protest in Noorwegen tegen deelname Israël aan Eurovisie Songfestival",
     "subtitle": null,
     "published_at": "2024-01-28T09:19:41+01:00",
-    "updated_at": "2024-01-28T09:27:17+01:00",
+    "updated_at": "2024-01-28T09:27:38+01:00",
     "media_id": "agvx73na7goi",
     "duration": null,
     "canonical_section": {
@@ -364,98 +456,6 @@
       "partner": null
     },
     "url": "/economie/6299238/meevaller-in-de-supermarkt-winterse-kost-vaak-goedkoper-dan-vorig-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299184,
-    "slug": "in-heel-europa-schuift-de-politiek-verder-op-naar-rechts-hoe-komt-dat",
-    "type": "article",
-    "title": "In heel Europa schuift de politiek verder op naar rechts: hoe komt dat?",
-    "subtitle": null,
-    "published_at": "2024-01-28T05:09:16+01:00",
-    "updated_at": "2024-01-28T05:09:17+01:00",
-    "media_id": "f79xkjma5fo6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6299184/in-heel-europa-schuift-de-politiek-verder-op-naar-rechts-hoe-komt-dat.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299390,
-    "slug": "uit-de-hand-gelopen-natuurbrand-bedreigt-twee-argentijnse-steden",
-    "type": "article",
-    "title": "'Uit de hand gelopen' natuurbrand bedreigt twee Argentijnse steden",
-    "subtitle": null,
-    "published_at": "2024-01-28T00:41:57+01:00",
-    "updated_at": "2024-01-28T00:41:59+01:00",
-    "media_id": "8nbx26raa52z",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6299390/uit-de-hand-gelopen-natuurbrand-bedreigt-twee-argentijnse-steden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299386,
-    "slug": "chef-vn-organisatie-voor-palestijnen-geschokt-door-opschorten-financiele-steun",
-    "type": "article",
-    "title": "Chef VN-organisatie voor Palestijnen geschokt door opschorten financiële steun",
-    "subtitle": null,
-    "published_at": "2024-01-28T00:10:35+01:00",
-    "updated_at": "2024-01-28T09:19:44+01:00",
-    "media_id": "vvkxd5darlmj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Oorlog Israël en Hamas",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6299386/chef-vn-organisatie-voor-palestijnen-geschokt-door-opschorten-financiele-steun.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299389,
-    "slug": "femke-kok-leert-belangrijke-les-voor-wk-op-hoogte-moet-je-niet-te-gek-doen",
-    "type": "article",
-    "title": "Femke Kok leert belangrijke les voor WK: 'Op hoogte moet je niet te gek doen'",
-    "subtitle": null,
-    "published_at": "2024-01-28T00:03:57+01:00",
-    "updated_at": "2024-01-28T00:05:35+01:00",
-    "media_id": "iiyxkfbagd5d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6299389/femke-kok-leert-belangrijke-les-voor-wk-op-hoogte-moet-je-niet-te-gek-doen.html",
     "open_new_window": false,
     "partner": null
   }
