@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299237,
+    "slug": "zo-ziet-een-vogel-of-bij-de-wereld",
+    "type": "video",
+    "title": "Zo ziet een vogel of bij de wereld",
+    "subtitle": "Explainer",
+    "published_at": "2024-01-28T06:07:02+01:00",
+    "updated_at": "2024-01-28T06:07:03+01:00",
+    "media_id": "ztnx2x7akeqb",
+    "duration": "2:06",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6299237/zo-ziet-een-vogel-of-bij-de-wereld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299372,
     "slug": "emotionele-van-gerwen-geeft-sensatie-littler-in-achtertuin-een-tik-terug",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6299378/100000-mensen-demonstreren-in-dusseldorf-tegen-extreemrechtse-afd.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299376,
-    "slug": "rkc-geeft-zege-uit-handen-tegen-sparta-fc-utrecht-niet-langs-excelsior",
-    "type": "article",
-    "title": "RKC geeft zege uit handen tegen Sparta, FC Utrecht niet langs Excelsior",
-    "subtitle": null,
-    "published_at": "2024-01-27T21:01:49+01:00",
-    "updated_at": "2024-01-27T23:29:56+01:00",
-    "media_id": "krkxqj7awihi",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6299376/rkc-geeft-zege-uit-handen-tegen-sparta-fc-utrecht-niet-langs-excelsior.html",
     "open_new_window": false,
     "partner": null
   }
