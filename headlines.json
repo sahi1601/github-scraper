@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299460,
+    "slug": "antony-maakt-in-fa-cup-duel-eerste-goal-sinds-16-april-voor-united",
+    "type": "video",
+    "title": "Antony maakt in FA Cup-duel eerste goal sinds 16 april voor United",
+    "subtitle": "Video",
+    "published_at": "2024-01-28T20:17:48+01:00",
+    "updated_at": "2024-01-28T20:22:27+01:00",
+    "media_id": "jaxxeo2azspf",
+    "duration": "1:35",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6299460/antony-maakt-in-fa-cup-duel-eerste-goal-sinds-16-april-voor-united.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299375,
     "slug": "defensie-expert-ko-colijn-over-effect-van-de-russische-oorlogseconomie",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6299457,
-    "slug": "live-schaatsen-leerdam-wil-zich-revancheren-op-1000-meter-in-salt-lake",
+    "slug": "live-schaatsen-leerdam-revancheert-zich-op-1000-meter-in-salt-lake",
     "type": "article",
-    "title": "Live schaatsen | Leerdam wil zich revancheren op 1.000 meter in Salt Lake",
+    "title": "Live schaatsen | Leerdam revancheert zich op 1.000 meter in Salt Lake",
     "subtitle": null,
     "published_at": "2024-01-28T19:27:37+01:00",
-    "updated_at": "2024-01-28T19:57:59+01:00",
+    "updated_at": "2024-01-28T20:22:07+01:00",
     "media_id": "yrax99oa9rvo",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6299457/live-schaatsen-leerdam-wil-zich-revancheren-op-1000-meter-in-salt-lake.html",
+    "url": "/schaatsen/6299457/live-schaatsen-leerdam-revancheert-zich-op-1000-meter-in-salt-lake.html",
     "open_new_window": false,
     "partner": null
   },
@@ -236,7 +259,7 @@
     "title": "United met schrik vrij in FA Cup, Van Dijk en Gravenberch scoren voor Liverpool",
     "subtitle": null,
     "published_at": "2024-01-28T17:30:38+01:00",
-    "updated_at": "2024-01-28T19:46:39+01:00",
+    "updated_at": "2024-01-28T20:13:49+01:00",
     "media_id": "f3fx9tlapsjf",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6299440/miedema-maakt-eerste-arsenal-goal-sinds-rentree-brugts-scoort-voor-barcelona.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299439,
-    "slug": "girona-en-blind-leggen-druk-weer-bij-real-madrid-met-zeventiende-seizoenszege",
-    "type": "article",
-    "title": "Girona en Blind leggen druk weer bij Real Madrid met zeventiende seizoenszege",
-    "subtitle": null,
-    "published_at": "2024-01-28T15:55:55+01:00",
-    "updated_at": "2024-01-28T16:44:36+01:00",
-    "media_id": "vjcxvrcapmew",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6299439/girona-en-blind-leggen-druk-weer-bij-real-madrid-met-zeventiende-seizoenszege.html",
     "open_new_window": false,
     "partner": null
   }
