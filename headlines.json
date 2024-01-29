@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299538,
+    "slug": "duncan-laurence-biedt-excuses-aan-en-gaat-concerten-verlengen-na-kritiek",
+    "type": "article",
+    "title": "Duncan Laurence biedt excuses aan en gaat concerten verlengen na kritiek",
+    "subtitle": null,
+    "published_at": "2024-01-29T15:17:32+01:00",
+    "updated_at": "2024-01-29T15:22:11+01:00",
+    "media_id": "ch5x2x1au36k",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6299538/duncan-laurence-biedt-excuses-aan-en-gaat-concerten-verlengen-na-kritiek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299540,
     "slug": "congo-schiet-egypte-na-spectaculaire-strafschoppenserie-uit-afrika-cup",
     "type": "video",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6299516/panamees-topscorer-aller-tijden-tejada-41-overleden-na-hartaanval-tijdens-duel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299514,
-    "slug": "waterschap-ving-meer-muskus-en-beverratten-om-dijkschade-te-voorkomen",
-    "type": "article",
-    "title": "Waterschap ving meer muskus- en beverratten om dijkschade te voorkomen",
-    "subtitle": null,
-    "published_at": "2024-01-29T11:17:38+01:00",
-    "updated_at": "2024-01-29T11:56:02+01:00",
-    "media_id": "vn2x8rza8ocx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772536,
-      "slug": "dieren",
-      "type": "default",
-      "name": "Dieren",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/dieren/6299514/waterschap-ving-meer-muskus-en-beverratten-om-dijkschade-te-voorkomen.html",
     "open_new_window": false,
     "partner": null
   }
