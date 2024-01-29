@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299585,
+    "slug": "grote-ravage-bij-appartementengebouw-rotterdam-door-brand-vuur-nog-niet-uit",
+    "type": "article",
+    "title": "Grote ravage bij appartementengebouw Rotterdam door brand, vuur nog niet uit",
+    "subtitle": null,
+    "published_at": "2024-01-30T00:17:53+01:00",
+    "updated_at": "2024-01-30T00:17:54+01:00",
+    "media_id": "9y1xot8a7lqd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6299585/grote-ravage-bij-appartementengebouw-rotterdam-door-brand-vuur-nog-niet-uit.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299544,
     "slug": "stikstofoverschot-in-2022-weer-gestegen-door-droge-zomer",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Voor het eerst gedachtenlezer van Elon Musks Neuralink geplaatst bij een mens",
     "subtitle": null,
     "published_at": "2024-01-30T00:02:31+01:00",
-    "updated_at": "2024-01-30T00:08:51+01:00",
+    "updated_at": "2024-01-30T00:18:45+01:00",
     "media_id": "3aux804ay918",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6299567/wegblokkades-belgische-boeren-gaan-door-plan-om-dinsdag-haven-te-blokkeren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299563,
-    "slug": "radiostilte-in-formatie-wordt-doorbroken-spanning-loopt-op",
-    "type": "article",
-    "title": "Radiostilte in formatie wordt doorbroken, spanning loopt op",
-    "subtitle": null,
-    "published_at": "2024-01-29T19:03:21+01:00",
-    "updated_at": "2024-01-29T20:27:06+01:00",
-    "media_id": "wpaxzqoazjwk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6299563/radiostilte-in-formatie-wordt-doorbroken-spanning-loopt-op.html",
     "open_new_window": false,
     "partner": null
   }
