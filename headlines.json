@@ -1,12 +1,35 @@
 [
   {
+    "id": 6299582,
+    "slug": "explosie-in-rotterdam-zet-woningcomplex-in-brand",
+    "type": "video",
+    "title": "Explosie in Rotterdam zet woningcomplex in brand",
+    "subtitle": "Video",
+    "published_at": "2024-01-29T22:35:01+01:00",
+    "updated_at": "2024-01-29T22:35:02+01:00",
+    "media_id": "37nx78ea067n",
+    "duration": "0:36",
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6299582/explosie-in-rotterdam-zet-woningcomplex-in-brand.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299581,
     "slug": "reactie-op-aanval-jordanie-kwam-te-laat-omdat-amerikanen-drone-niet-herkenden",
     "type": "article",
     "title": "Reactie op aanval Jordanië kwam te laat omdat Amerikanen drone niet herkenden",
     "subtitle": null,
     "published_at": "2024-01-29T22:19:24+01:00",
-    "updated_at": "2024-01-29T22:21:48+01:00",
+    "updated_at": "2024-01-29T22:29:46+01:00",
     "media_id": "ik0xzjoah68s",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Weer puntenverlies koploper Willem II, Van 't Schip ziet Jong Ajax gelijkspelen",
     "subtitle": null,
     "published_at": "2024-01-29T22:11:41+01:00",
-    "updated_at": "2024-01-29T22:18:19+01:00",
+    "updated_at": "2024-01-29T22:33:10+01:00",
     "media_id": "kemxbljaw6y9",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "PSV blokkeert voorlopig tóch transfer boze Vertessen, aanvaller is al in Berlijn",
     "subtitle": null,
     "published_at": "2024-01-29T21:54:52+01:00",
-    "updated_at": "2024-01-29T22:19:57+01:00",
+    "updated_at": "2024-01-29T22:26:06+01:00",
     "media_id": "30qxvoqax0ft",
     "duration": null,
     "canonical_section": {
@@ -116,12 +139,12 @@
   },
   {
     "id": 6299576,
-    "slug": "meerdere-gewonden-en-veel-schade-door-brand-in-appartementencomplex-rotterdam",
+    "slug": "een-gewonde-en-veel-schade-door-brand-in-appartementencomplex-rotterdam",
     "type": "article",
-    "title": "Meerdere gewonden en veel schade door brand in appartementencomplex Rotterdam",
+    "title": "Eén gewonde en veel schade door brand in appartementencomplex Rotterdam",
     "subtitle": null,
     "published_at": "2024-01-29T21:19:33+01:00",
-    "updated_at": "2024-01-29T22:22:27+01:00",
+    "updated_at": "2024-01-29T22:31:08+01:00",
     "media_id": "fnqxr05aaw17",
     "duration": null,
     "canonical_section": {
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6299576/meerdere-gewonden-en-veel-schade-door-brand-in-appartementencomplex-rotterdam.html",
+    "url": "/binnenland/6299576/een-gewonde-en-veel-schade-door-brand-in-appartementencomplex-rotterdam.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6299561/franse-boeren-blokkeren-wegen-uit-protest-tegen-landbouwbeleid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299560,
-    "slug": "italie-mag-van-albanees-hof-migranten-in-albanie-gaan-opvangen",
-    "type": "article",
-    "title": "Italië mag van Albanees hof migranten in Albanië gaan opvangen",
-    "subtitle": null,
-    "published_at": "2024-01-29T17:49:52+01:00",
-    "updated_at": "2024-01-29T19:21:31+01:00",
-    "media_id": "w53xrnya27pn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6299560/italie-mag-van-albanees-hof-migranten-in-albanie-gaan-opvangen.html",
     "open_new_window": false,
     "partner": null
   }
