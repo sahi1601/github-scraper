@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299642,
+    "slug": "weer-een-vedette-naar-saoedi-arabie-rakitic-wordt-ploeggenoot-van-carrasco",
+    "type": "article",
+    "title": "Weer een vedette naar Saoedi-Arabië: Rakitic wordt ploeggenoot van Carrasco",
+    "subtitle": null,
+    "published_at": "2024-01-30T13:29:47+01:00",
+    "updated_at": "2024-01-30T13:29:48+01:00",
+    "media_id": "wp0xahoa0vqs",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6299642/weer-een-vedette-naar-saoedi-arabie-rakitic-wordt-ploeggenoot-van-carrasco.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299636,
     "slug": "premier-league-darts-met-van-gerwen-en-littler-bijna-van-start-het-programma",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6299640,
-    "slug": "corruptie-in-nederland-neemt-verder-toe",
+    "slug": "nederland-heeft-steeds-meer-moeite-met-voorkomen-van-corruptie",
     "type": "article",
-    "title": "Corruptie in Nederland neemt verder toe",
+    "title": "Nederland heeft steeds meer moeite met voorkomen van corruptie",
     "subtitle": null,
     "published_at": "2024-01-30T13:17:33+01:00",
-    "updated_at": "2024-01-30T13:17:34+01:00",
+    "updated_at": "2024-01-30T13:47:54+01:00",
     "media_id": "1cpx3fvamp2g",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6299640/corruptie-in-nederland-neemt-verder-toe.html",
+    "url": "/economie/6299640/nederland-heeft-steeds-meer-moeite-met-voorkomen-van-corruptie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +98,7 @@
     "title": "Explosie in Rotterdam zo hard dat 'iemand met bank en al naar beneden viel'",
     "subtitle": null,
     "published_at": "2024-01-30T12:48:25+01:00",
-    "updated_at": "2024-01-30T12:51:01+01:00",
+    "updated_at": "2024-01-30T13:45:12+01:00",
     "media_id": "3suxn98akwdc",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Grote fietsenfabrikant Accell schrapt tot 150 banen in Heerenveen",
     "subtitle": null,
     "published_at": "2024-01-30T12:40:26+01:00",
-    "updated_at": "2024-01-30T12:40:27+01:00",
+    "updated_at": "2024-01-30T13:35:50+01:00",
     "media_id": "pdtxoz3aldk3",
     "duration": null,
     "canonical_section": {
@@ -144,7 +167,7 @@
     "title": "Steeds meer mensen gaan voor zichzelf werken",
     "subtitle": null,
     "published_at": "2024-01-30T12:12:23+01:00",
-    "updated_at": "2024-01-30T12:28:22+01:00",
+    "updated_at": "2024-01-30T13:29:50+01:00",
     "media_id": "ssnxmbmabfy6",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Ammar liep een blauwtje en maakte lied: 'Ben na een knipoog al verliefd'",
     "subtitle": "NU+",
     "published_at": "2024-01-30T10:50:10+01:00",
-    "updated_at": "2024-01-30T10:50:36+01:00",
+    "updated_at": "2024-01-30T13:30:02+01:00",
     "media_id": "bq0x1f5a0ah7",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Kunstrijders VS nemen olympisch goud over na dopingschorsing Valieva",
     "subtitle": null,
     "published_at": "2024-01-30T10:41:06+01:00",
-    "updated_at": "2024-01-30T10:57:47+01:00",
+    "updated_at": "2024-01-30T13:43:30+01:00",
     "media_id": "l4hxh3gah9r5",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6299616/kunstrijders-vs-nemen-olympisch-goud-over-na-dopingschorsing-valieva.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299613,
-    "slug": "488-graden-op-sicilie-ruim-twee-jaar-later-alsnog-erkend-als-recordtemperatuur",
-    "type": "article",
-    "title": "48,8 graden op Sicilië ruim twee jaar later alsnog erkend als recordtemperatuur",
-    "subtitle": null,
-    "published_at": "2024-01-30T10:33:43+01:00",
-    "updated_at": "2024-01-30T10:33:44+01:00",
-    "media_id": "v59xni0a1mkj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6299613/488-graden-op-sicilie-ruim-twee-jaar-later-alsnog-erkend-als-recordtemperatuur.html",
     "open_new_window": false,
     "partner": null
   }
