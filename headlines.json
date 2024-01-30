@@ -1,5 +1,28 @@
 [
   {
+    "id": 6299681,
+    "slug": "taakstraf-van-240-uur-voor-protestactie-die-dodelijk-ongeval-veroorzaakte-op-a28",
+    "type": "article",
+    "title": "Taakstraf van 240 uur voor protestactie die dodelijk ongeval veroorzaakte op A28",
+    "subtitle": null,
+    "published_at": "2024-01-30T18:17:06+01:00",
+    "updated_at": "2024-01-30T18:17:07+01:00",
+    "media_id": "acgx62macy3t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6299681/taakstraf-van-240-uur-voor-protestactie-die-dodelijk-ongeval-veroorzaakte-op-a28.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299669,
     "slug": "om-eist-celstraffen-tot-zeven-jaar-wegens-drugsfabriek-boven-kinderdagverblijf",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Zoeken naar vermisten in verwoest Rotterdams pand voorlopig onmogelijk",
     "subtitle": null,
     "published_at": "2024-01-30T17:49:02+01:00",
-    "updated_at": "2024-01-30T18:01:40+01:00",
+    "updated_at": "2024-01-30T18:20:28+01:00",
     "media_id": "9x9xx05axozg",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6299654/man-ontsnapt-ternauwernood-aan-brandend-puin-in-rotterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6299651,
-    "slug": "wereldwijde-schade-door-natuurrampen-loopt-op-tot-350-miljard-euro",
-    "type": "article",
-    "title": "Wereldwijde schade door natuurrampen loopt op tot 350 miljard euro",
-    "subtitle": null,
-    "published_at": "2024-01-30T14:41:11+01:00",
-    "updated_at": "2024-01-30T14:41:12+01:00",
-    "media_id": "urdx3d4axn38",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6299651/wereldwijde-schade-door-natuurrampen-loopt-op-tot-350-miljard-euro.html",
     "open_new_window": false,
     "partner": null
   }
