@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300111,
+    "slug": "rocky-acteur-carl-weathers-op-76-jarige-leeftijd-overleden",
+    "type": "article",
+    "title": "Rocky-acteur Carl Weathers op 76-jarige leeftijd overleden",
+    "subtitle": null,
+    "published_at": "2024-02-02T21:28:14+01:00",
+    "updated_at": "2024-02-02T21:36:48+01:00",
+    "media_id": "awjxc4ua2smb",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6300111/rocky-acteur-carl-weathers-op-76-jarige-leeftijd-overleden.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300108,
     "slug": "enorme-watermassa-stroomt-uit-stuwmeer-in-californie",
     "type": "video",
@@ -346,13 +369,13 @@
   },
   {
     "id": 6300095,
-    "slug": "live-eredivisie-almere-city-draait-achterstand-om-tegen-excelsior",
+    "slug": "live-eredivisie-almere-city-lijkt-op-weg-naar-winst-tegen-excelsior",
     "type": "article",
-    "title": "Live Eredivisie | Almere City draait achterstand om tegen Excelsior",
+    "title": "Live Eredivisie | Almere City lijkt op weg naar winst tegen Excelsior",
     "subtitle": null,
     "published_at": "2024-02-02T19:10:04+01:00",
-    "updated_at": "2024-02-02T21:25:51+01:00",
-    "media_id": "idqxigeacofk",
+    "updated_at": "2024-02-02T21:44:39+01:00",
+    "media_id": "pnoxjbqawsks",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -363,7 +386,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6300095/live-eredivisie-almere-city-draait-achterstand-om-tegen-excelsior.html",
+    "url": "/voetbal/6300095/live-eredivisie-almere-city-lijkt-op-weg-naar-winst-tegen-excelsior.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/opmerkelijk/6300093/schoenen-van-michael-jordan-na-veiling-duurste-gedragen-schoenen-ooit.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300092,
-    "slug": "bosmarmot-phil-voorspelt-vroeg-voorjaar-op-groundhog-day",
-    "type": "video",
-    "title": "Bosmarmot Phil voorspelt vroeg voorjaar op Groundhog Day",
-    "subtitle": "Video",
-    "published_at": "2024-02-02T18:13:18+01:00",
-    "updated_at": "2024-02-02T19:56:55+01:00",
-    "media_id": "ahuxn3iamct9",
-    "duration": "0:58",
-    "canonical_section": {
-      "id": 937692,
-      "slug": "opmerkelijk",
-      "type": "default",
-      "name": "Opmerkelijk",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/opmerkelijk/6300092/bosmarmot-phil-voorspelt-vroeg-voorjaar-op-groundhog-day.html",
     "open_new_window": false,
     "partner": null
   }
