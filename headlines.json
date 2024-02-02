@@ -1,24 +1,47 @@
 [
   {
+    "id": 6300093,
+    "slug": "zes-schoenen-van-basketballer-michael-jordan-geveild-voor-ruim-7-miljoen-euro",
+    "type": "article",
+    "title": "Zes schoenen van basketballer Michael Jordan geveild voor ruim 7 miljoen euro",
+    "subtitle": null,
+    "published_at": "2024-02-02T18:18:28+01:00",
+    "updated_at": "2024-02-02T18:24:37+01:00",
+    "media_id": "brqx4qya4dan",
+    "duration": null,
+    "canonical_section": {
+      "id": 937692,
+      "slug": "opmerkelijk",
+      "type": "default",
+      "name": "Opmerkelijk",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/opmerkelijk/6300093/zes-schoenen-van-basketballer-michael-jordan-geveild-voor-ruim-7-miljoen-euro.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300092,
     "slug": "bosmarmot-phil-voorspelt-vroeg-voorjaar-op-groundhog-day",
     "type": "video",
     "title": "Bosmarmot Phil voorspelt vroeg voorjaar op Groundhog Day",
     "subtitle": "Video",
     "published_at": "2024-02-02T18:13:18+01:00",
-    "updated_at": "2024-02-02T18:13:19+01:00",
+    "updated_at": "2024-02-02T18:25:53+01:00",
     "media_id": "ahuxn3iamct9",
     "duration": "0:58",
     "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
+      "id": 100,
+      "slug": "algemeen",
       "type": "default",
-      "name": "Video's",
-      "style": null,
+      "name": "Algemeen",
+      "style": "nu",
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6300092/bosmarmot-phil-voorspelt-vroeg-voorjaar-op-groundhog-day.html",
+    "url": "/algemeen/6300092/bosmarmot-phil-voorspelt-vroeg-voorjaar-op-groundhog-day.html",
     "open_new_window": false,
     "partner": null
   },
@@ -47,12 +70,12 @@
   },
   {
     "id": 6300087,
-    "slug": "griekspoor-klaagt-over-tennisballen-in-groningen-ze-waren-gewoon-lek",
+    "slug": "griekspoor-klaagt-over-ballen-bij-davis-cup-in-groningen-ze-waren-gewoon-lek",
     "type": "article",
-    "title": "Griekspoor klaagt over tennisballen in Groningen: 'Ze waren gewoon lek'",
+    "title": "Griekspoor klaagt over ballen bij Davis Cup in Groningen: 'Ze waren gewoon lek'",
     "subtitle": null,
     "published_at": "2024-02-02T18:01:56+01:00",
-    "updated_at": "2024-02-02T18:05:48+01:00",
+    "updated_at": "2024-02-02T18:20:32+01:00",
     "media_id": "beix2oyau21t",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": "m1oxohpan0gq",
       "partner": null
     },
-    "url": "/tennis/6300087/griekspoor-klaagt-over-tennisballen-in-groningen-ze-waren-gewoon-lek.html",
+    "url": "/tennis/6300087/griekspoor-klaagt-over-ballen-bij-davis-cup-in-groningen-ze-waren-gewoon-lek.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6300074/veertien-jaar-cel-voor-doodsteken-britse-toerist-in-amsterdam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300073,
-    "slug": "meta-en-amazon-in-een-klap-honderden-miljarden-dollars-meer-waard",
-    "type": "article",
-    "title": "Meta en Amazon in één klap honderden miljarden dollars meer waard",
-    "subtitle": null,
-    "published_at": "2024-02-02T16:12:54+01:00",
-    "updated_at": "2024-02-02T17:46:33+01:00",
-    "media_id": "5gex6apacam6",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6300073/meta-en-amazon-in-een-klap-honderden-miljarden-dollars-meer-waard.html",
     "open_new_window": false,
     "partner": null
   }
