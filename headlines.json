@@ -1,12 +1,35 @@
 [
   {
+    "id": 6300232,
+    "slug": "marco-schuitmaker-uitgeroepen-tot-beste-nieuwkomer-top-40-awards",
+    "type": "article",
+    "title": "Marco Schuitmaker uitgeroepen tot Beste Nieuwkomer Top 40 Awards",
+    "subtitle": null,
+    "published_at": "2024-02-03T22:12:17+01:00",
+    "updated_at": "2024-02-03T22:19:31+01:00",
+    "media_id": "4acxytta11m0",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6300232/marco-schuitmaker-uitgeroepen-tot-beste-nieuwkomer-top-40-awards.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300227,
     "slug": "ajax-houdt-gehavende-koploper-psv-op-gelijkspel-in-levendige-kraker",
     "type": "article",
     "title": "Ajax houdt gehavende koploper PSV op gelijkspel in levendige kraker",
     "subtitle": null,
     "published_at": "2024-02-03T21:55:48+01:00",
-    "updated_at": "2024-02-03T22:09:33+01:00",
+    "updated_at": "2024-02-03T22:23:42+01:00",
     "media_id": "er7xtxgayjae",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6300228,
-    "slug": "stolz-verpulvert-in-quebec-baanrecord-op-1500-meter-krol-en-dijs-zijn-kansloos",
+    "slug": "indrukwekkende-stolz-wint-in-quebec-binnen-een-uur-500-en-1500-meter",
     "type": "article",
-    "title": "Stolz verpulvert in Quebec baanrecord op 1.500 meter, Krol en Dijs zijn kansloos",
+    "title": "Indrukwekkende Stolz wint in Quebec binnen een uur 500 én 1.500 meter",
     "subtitle": null,
     "published_at": "2024-02-03T21:12:24+01:00",
-    "updated_at": "2024-02-03T21:22:24+01:00",
+    "updated_at": "2024-02-03T22:24:19+01:00",
     "media_id": "1z5xk1ma1duk",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6300228/stolz-verpulvert-in-quebec-baanrecord-op-1500-meter-krol-en-dijs-zijn-kansloos.html",
+    "url": "/schaatsen/6300228/indrukwekkende-stolz-wint-in-quebec-binnen-een-uur-500-en-1500-meter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -144,7 +167,7 @@
     "title": "Van Duijvenbode en wereldkampioen Humphries uitgeschakeld op The Masters",
     "subtitle": null,
     "published_at": "2024-02-03T21:01:20+01:00",
-    "updated_at": "2024-02-03T22:04:48+01:00",
+    "updated_at": "2024-02-03T22:11:29+01:00",
     "media_id": "z4axmmaabink",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Vitor Roque grijpt weer hoofdrol bij winnend FC Barcelona met goal en rode kaart",
     "subtitle": null,
     "published_at": "2024-02-03T20:25:56+01:00",
-    "updated_at": "2024-02-03T21:19:46+01:00",
+    "updated_at": "2024-02-03T22:23:59+01:00",
     "media_id": "edbx69ba6gns",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6300214/boadu-bekroont-debuut-voor-winnend-fc-twente-met-doelpunt-tegen-rkc.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300213,
-    "slug": "taco-zimmerman-nieuwe-algemeen-directeur-bij-avrotros",
-    "type": "article",
-    "title": "Taco Zimmerman nieuwe algemeen directeur bij AVROTROS",
-    "subtitle": null,
-    "published_at": "2024-02-03T18:02:14+01:00",
-    "updated_at": "2024-02-03T18:07:52+01:00",
-    "media_id": "zlcx8v4aa9rk",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6300213/taco-zimmerman-nieuwe-algemeen-directeur-bij-avrotros.html",
     "open_new_window": false,
     "partner": null
   }
