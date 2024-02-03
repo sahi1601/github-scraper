@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300206,
+    "slug": "turkse-politie-pakt-gezochte-nederlandse-drugsbaas-op",
+    "type": "video",
+    "title": "Turkse politie pakt gezochte Nederlandse drugsbaas op",
+    "subtitle": "Video",
+    "published_at": "2024-02-03T16:27:02+01:00",
+    "updated_at": "2024-02-03T16:27:04+01:00",
+    "media_id": "zsyxotpat4hj",
+    "duration": "0:27",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6300206/turkse-politie-pakt-gezochte-nederlandse-drugsbaas-op.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300205,
     "slug": "waarom-denken-fans-dat-justin-bieber-met-usher-optreedt-tijdens-de-super-bowl",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Van Empel maakt favorietenrol waar op WK: 'Ik ben mentaal enorm gegroeid'",
     "subtitle": null,
     "published_at": "2024-02-03T16:12:40+01:00",
-    "updated_at": "2024-02-03T16:23:46+01:00",
+    "updated_at": "2024-02-03T16:30:29+01:00",
     "media_id": "jdlxuxraboqo",
     "duration": null,
     "canonical_section": {
@@ -70,13 +93,13 @@
   },
   {
     "id": 6300202,
-    "slug": "live-eredivisie-boadu-begint-op-de-bank-bij-twente-rkc-aftellen-naar-ajax-psv",
+    "slug": "live-eredivisie-twente-zoekt-naar-openingsgoal-tegen-rkc-aftellen-naar-ajax-psv",
     "type": "article",
-    "title": "Live Eredivisie | Boadu begint op de bank bij Twente-RKC, aftellen naar Ajax-PSV",
+    "title": "Live Eredivisie | Twente zoekt naar openingsgoal tegen RKC, aftellen naar Ajax-PSV",
     "subtitle": null,
     "published_at": "2024-02-03T16:03:02+01:00",
-    "updated_at": "2024-02-03T16:20:43+01:00",
-    "media_id": "jzcxgivaywdw",
+    "updated_at": "2024-02-03T16:41:55+01:00",
+    "media_id": "933xziyaf8o3",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6300202/live-eredivisie-boadu-begint-op-de-bank-bij-twente-rkc-aftellen-naar-ajax-psv.html",
+    "url": "/voetbal/6300202/live-eredivisie-twente-zoekt-naar-openingsgoal-tegen-rkc-aftellen-naar-ajax-psv.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6300188/exxonmobil-wil-toch-rechtszaak-tegen-klimaatvoorstel-ondanks-terugtrekking.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300186,
-    "slug": "dichter-des-vaderlands-babs-gons-wint-gouden-ganzenveer",
-    "type": "article",
-    "title": "Dichter des Vaderlands Babs Gons wint Gouden Ganzenveer",
-    "subtitle": null,
-    "published_at": "2024-02-03T14:08:27+01:00",
-    "updated_at": "2024-02-03T14:31:40+01:00",
-    "media_id": "dodxs50aeuqj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6300186/dichter-des-vaderlands-babs-gons-wint-gouden-ganzenveer.html",
     "open_new_window": false,
     "partner": null
   }
