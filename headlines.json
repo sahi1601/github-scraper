@@ -1,12 +1,35 @@
 [
   {
+    "id": 6300181,
+    "slug": "japanse-ambassade-belooft-fans-dat-taylor-swift-op-tijd-terug-is-voor-super-bowl",
+    "type": "article",
+    "title": "Japanse ambassade belooft fans dat Taylor Swift op tijd terug is voor Super Bowl",
+    "subtitle": null,
+    "published_at": "2024-02-03T13:38:08+01:00",
+    "updated_at": "2024-02-03T13:38:09+01:00",
+    "media_id": "pcqxypkavxsp",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6300181/japanse-ambassade-belooft-fans-dat-taylor-swift-op-tijd-terug-is-voor-super-bowl.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300162,
     "slug": "astronomen-vinden-bij-toeval-dwergsterrenstelsel-dat-niet-hoort-te-bestaan",
     "type": "article",
     "title": "Astronomen vinden bij toeval dwergsterrenstelsel dat 'niet hoort te bestaan'",
     "subtitle": null,
     "published_at": "2024-02-03T13:22:17+01:00",
-    "updated_at": "2024-02-03T13:22:18+01:00",
+    "updated_at": "2024-02-03T13:26:20+01:00",
     "media_id": "ec0xmc3aqd2w",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6300180,
-    "slug": "klimaatactivisten-blokkeren-a12-in-den-haag-weg-dicht-voor-verkeer-de-stad-uit",
+    "slug": "klimaatactivisten-blokkeren-opnieuw-a12-in-den-haag-beide-rijstroken-dicht",
     "type": "article",
-    "title": "Klimaatactivisten blokkeren A12 in Den Haag, weg dicht voor verkeer de stad uit",
+    "title": "Klimaatactivisten blokkeren opnieuw A12 in Den Haag, beide rijstroken dicht",
     "subtitle": null,
     "published_at": "2024-02-03T13:14:01+01:00",
-    "updated_at": "2024-02-03T13:21:21+01:00",
+    "updated_at": "2024-02-03T13:30:28+01:00",
     "media_id": "vzwx7eka6gmk",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6300180/klimaatactivisten-blokkeren-a12-in-den-haag-weg-dicht-voor-verkeer-de-stad-uit.html",
+    "url": "/binnenland/6300180/klimaatactivisten-blokkeren-opnieuw-a12-in-den-haag-beide-rijstroken-dicht.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Honderden Brazilianen schenken cadeaus aan godin van de zee",
     "subtitle": "Video",
     "published_at": "2024-02-03T12:33:11+01:00",
-    "updated_at": "2024-02-03T12:33:11+01:00",
+    "updated_at": "2024-02-03T13:39:41+01:00",
     "media_id": "dqpxsevan5vf",
     "duration": "0:39",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6300145/asbest-gevonden-bij-boerenprotest-op-a1-platen-hebben-niet-gebrand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300143,
-    "slug": "van-rouwendaal-verovert-tweede-wereldtitel-in-open-water-en-mag-naar-spelen",
-    "type": "article",
-    "title": "Van Rouwendaal verovert tweede wereldtitel in open water en mag naar Spelen",
-    "subtitle": null,
-    "published_at": "2024-02-03T10:34:17+01:00",
-    "updated_at": "2024-02-03T12:40:23+01:00",
-    "media_id": "iluxj29a29ja",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6300143/van-rouwendaal-verovert-tweede-wereldtitel-in-open-water-en-mag-naar-spelen.html",
     "open_new_window": false,
     "partner": null
   }
