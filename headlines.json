@@ -1,12 +1,35 @@
 [
   {
+    "id": 6300285,
+    "slug": "van-der-poel-nog-maar-een-titel-verwijderd-van-record-had-dit-nooit-gedacht",
+    "type": "article",
+    "title": "Van der Poel nog maar één titel verwijderd van record: 'Had dit nooit gedacht'",
+    "subtitle": null,
+    "published_at": "2024-02-04T16:22:09+01:00",
+    "updated_at": "2024-02-04T16:23:22+01:00",
+    "media_id": "2bux02haq0d7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6300285/van-der-poel-nog-maar-een-titel-verwijderd-van-record-had-dit-nooit-gedacht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300282,
     "slug": "politie-zoekt-eigenaar-volkswagen-polo-na-aanrijding-waarbij-meisje-14-omkwam",
     "type": "article",
     "title": "Politie zoekt eigenaar Volkswagen Polo na aanrijding waarbij meisje (14) omkwam",
     "subtitle": null,
     "published_at": "2024-02-04T15:59:54+01:00",
-    "updated_at": "2024-02-04T16:02:36+01:00",
+    "updated_at": "2024-02-04T16:15:26+01:00",
     "media_id": "rzcxbo5apz7x",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Van der Poel verovert zesde wereldtitel veldrijden na galavoorstelling in Tábor",
     "subtitle": null,
     "published_at": "2024-02-04T15:33:08+01:00",
-    "updated_at": "2024-02-04T15:43:57+01:00",
+    "updated_at": "2024-02-04T16:17:35+01:00",
     "media_id": "m8wxa4iatg73",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6300261/cafe-go-ahead-fans-vernield-richting-derby-tegen-pec-vijf-zwollenaren-opgepakt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300263,
-    "slug": "russische-kosmonaut-breekt-wereldrecord-voor-langste-tijd-in-de-ruimte",
-    "type": "article",
-    "title": "Russische kosmonaut breekt wereldrecord voor langste tijd in de ruimte",
-    "subtitle": null,
-    "published_at": "2024-02-04T12:22:54+01:00",
-    "updated_at": "2024-02-04T14:36:35+01:00",
-    "media_id": "zodxz4wacy2a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
-      "type": "default",
-      "name": "Tech en Wetenschap",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech-wetenschap/6300263/russische-kosmonaut-breekt-wereldrecord-voor-langste-tijd-in-de-ruimte.html",
     "open_new_window": false,
     "partner": null
   }
