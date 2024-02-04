@@ -1,12 +1,35 @@
 [
   {
+    "id": 6300266,
+    "slug": "zerrouki-in-feyenoord-basis-voor-topper-tegen-az-ook-stengs-keert-terug",
+    "type": "article",
+    "title": "Zerrouki in Feyenoord-basis voor topper tegen AZ, ook Stengs keert terug",
+    "subtitle": null,
+    "published_at": "2024-02-04T13:33:02+01:00",
+    "updated_at": "2024-02-04T13:36:02+01:00",
+    "media_id": "ev7x71ealzm1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6300266/zerrouki-in-feyenoord-basis-voor-topper-tegen-az-ook-stengs-keert-terug.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300265,
     "slug": "verdachte-dodelijke-explosie-rotterdam-wordt-dinsdag-voorgeleid",
     "type": "article",
     "title": "Verdachte dodelijke explosie Rotterdam wordt dinsdag voorgeleid",
     "subtitle": null,
     "published_at": "2024-02-04T13:07:04+01:00",
-    "updated_at": "2024-02-04T13:15:37+01:00",
+    "updated_at": "2024-02-04T13:37:01+01:00",
     "media_id": "cisxc4va5blo",
     "duration": null,
     "canonical_section": {
@@ -167,8 +190,8 @@
     "title": "Live Eredivisie | Dolend Vitesse moet in tweede helft aan de bak tegen Go Ahead",
     "subtitle": null,
     "published_at": "2024-02-04T11:46:26+01:00",
-    "updated_at": "2024-02-04T13:23:06+01:00",
-    "media_id": "x5kxjsla8mss",
+    "updated_at": "2024-02-04T13:23:48+01:00",
+    "media_id": "18ix8a1aur60",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6300249/gitarist-en-medeoprichter-mc5-wayne-kramer-75-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300248,
-    "slug": "veertienjarig-meisje-omgekomen-bij-aanrijding-in-epe-bestuurder-doorgereden",
-    "type": "article",
-    "title": "Veertienjarig meisje omgekomen bij aanrijding in Epe, bestuurder doorgereden",
-    "subtitle": null,
-    "published_at": "2024-02-04T09:51:08+01:00",
-    "updated_at": "2024-02-04T11:45:12+01:00",
-    "media_id": "by5x3dgajjff",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6300248/veertienjarig-meisje-omgekomen-bij-aanrijding-in-epe-bestuurder-doorgereden.html",
     "open_new_window": false,
     "partner": null
   }
