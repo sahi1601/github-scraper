@@ -1,12 +1,35 @@
 [
   {
+    "id": 6299934,
+    "slug": "natasha-bedingfield-scoort-weer-brullende-fans-in-bioscoop-door-unwritten",
+    "type": "article",
+    "title": "Natasha Bedingfield scoort weer: brullende fans in bioscoop door Unwritten",
+    "subtitle": "NU+",
+    "published_at": "2024-02-04T11:19:36+01:00",
+    "updated_at": "2024-02-04T11:20:43+01:00",
+    "media_id": "22rxgo3a342f",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6299934/natasha-bedingfield-scoort-weer-brullende-fans-in-bioscoop-door-unwritten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300257,
     "slug": "nederlander-63-overleden-in-oostenrijk-na-botsing-tijdens-het-skien",
     "type": "article",
     "title": "Nederlander (63) overleden in Oostenrijk na botsing tijdens het skiën",
     "subtitle": null,
     "published_at": "2024-02-04T11:09:50+01:00",
-    "updated_at": "2024-02-04T11:12:52+01:00",
+    "updated_at": "2024-02-04T11:18:10+01:00",
     "media_id": "549xslsa74gg",
     "duration": null,
     "canonical_section": {
@@ -98,7 +121,7 @@
     "title": "Luuk de Jong definitief niet met Oranje naar EK: 'Dit station is voorbij'",
     "subtitle": null,
     "published_at": "2024-02-04T10:40:54+01:00",
-    "updated_at": "2024-02-04T11:04:29+01:00",
+    "updated_at": "2024-02-04T11:15:01+01:00",
     "media_id": "pfgxy7lava6d",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Houthi's beloven vergelding na nieuwe Amerikaanse en Britse aanvallen in Jemen",
     "subtitle": null,
     "published_at": "2024-02-04T09:32:29+01:00",
-    "updated_at": "2024-02-04T11:03:15+01:00",
+    "updated_at": "2024-02-04T11:17:22+01:00",
     "media_id": "ubgxw8laudxr",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Chileense families ontvluchten kustplaats vanwege hevige bosbranden",
     "subtitle": "Video",
     "published_at": "2024-02-04T09:22:16+01:00",
-    "updated_at": "2024-02-04T09:22:17+01:00",
+    "updated_at": "2024-02-04T11:24:01+01:00",
     "media_id": "6amx7sla2eao",
     "duration": "0:38",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6300240/tientallen-doden-in-chili-door-bosbranden-die-hele-woonwijken-in-de-as-leggen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300239,
-    "slug": "grauwe-en-grijze-ochtend-daarna-opklaringen-en-zelfs-wat-zon",
-    "type": "article",
-    "title": "Grauwe en grijze ochtend, daarna opklaringen en zelfs wat zon",
-    "subtitle": "Weerbericht",
-    "published_at": "2024-02-04T05:59:30+01:00",
-    "updated_at": "2024-02-04T07:44:50+01:00",
-    "media_id": "66fx9xia0tyw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6300239/grauwe-en-grijze-ochtend-daarna-opklaringen-en-zelfs-wat-zon.html",
     "open_new_window": false,
     "partner": null
   }
