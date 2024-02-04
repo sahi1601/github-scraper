@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300259,
+    "slug": "topman-vitens-nederlanders-moeten-anders-omgaan-met-drinkwater",
+    "type": "article",
+    "title": "Topman Vitens: Nederlanders moeten anders omgaan met drinkwater",
+    "subtitle": null,
+    "published_at": "2024-02-04T11:28:44+01:00",
+    "updated_at": "2024-02-04T11:28:45+01:00",
+    "media_id": "78yxpm6a9kmp",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6300259/topman-vitens-nederlanders-moeten-anders-omgaan-met-drinkwater.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6299934,
     "slug": "natasha-bedingfield-scoort-weer-brullende-fans-in-bioscoop-door-unwritten",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "Luuk de Jong definitief niet met Oranje naar EK: 'Dit station is voorbij'",
     "subtitle": null,
     "published_at": "2024-02-04T10:40:54+01:00",
-    "updated_at": "2024-02-04T11:15:01+01:00",
+    "updated_at": "2024-02-04T11:36:02+01:00",
     "media_id": "pfgxy7lava6d",
     "duration": null,
     "canonical_section": {
@@ -162,12 +185,12 @@
   },
   {
     "id": 6300251,
-    "slug": "chinees-internetconcern-tencent-ontsloeg-ruim-120-medewerkers-vanwege-fraude",
+    "slug": "chinees-internetconcern-tencent-ontsloeg-ruim-120-medewerkers-wegens-fraude",
     "type": "article",
-    "title": "Chinees internetconcern Tencent ontsloeg ruim 120 medewerkers vanwege fraude",
+    "title": "Chinees internetconcern Tencent ontsloeg ruim 120 medewerkers wegens fraude",
     "subtitle": null,
     "published_at": "2024-02-04T10:23:32+01:00",
-    "updated_at": "2024-02-04T10:31:38+01:00",
+    "updated_at": "2024-02-04T11:32:21+01:00",
     "media_id": "u5uxr0jaadt8",
     "duration": null,
     "canonical_section": {
@@ -179,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6300251/chinees-internetconcern-tencent-ontsloeg-ruim-120-medewerkers-vanwege-fraude.html",
+    "url": "/economie/6300251/chinees-internetconcern-tencent-ontsloeg-ruim-120-medewerkers-wegens-fraude.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Houthi's beloven vergelding na nieuwe Amerikaanse en Britse aanvallen in Jemen",
     "subtitle": null,
     "published_at": "2024-02-04T09:32:29+01:00",
-    "updated_at": "2024-02-04T11:17:22+01:00",
+    "updated_at": "2024-02-04T11:34:54+01:00",
     "media_id": "ubgxw8laudxr",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6300040/zorgoverstappers-verlieten-asr-cz-en-vgz-en-kozen-voor-de-laagste-premie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300240,
-    "slug": "tientallen-doden-in-chili-door-bosbranden-die-hele-woonwijken-in-de-as-leggen",
-    "type": "article",
-    "title": "Tientallen doden in Chili door bosbranden die hele woonwijken in de as leggen",
-    "subtitle": null,
-    "published_at": "2024-02-04T07:17:50+01:00",
-    "updated_at": "2024-02-04T09:22:49+01:00",
-    "media_id": "ntgx183ad3xj",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6300240/tientallen-doden-in-chili-door-bosbranden-die-hele-woonwijken-in-de-as-leggen.html",
     "open_new_window": false,
     "partner": null
   }
