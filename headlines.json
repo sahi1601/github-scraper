@@ -1,12 +1,58 @@
 [
   {
+    "id": 6300389,
+    "slug": "domper-voor-van-de-beek-frankfurt-schrijft-hem-niet-in-voor-europese-duels",
+    "type": "article",
+    "title": "Domper voor Van de Beek: Frankfurt schrijft hem niet in voor Europese duels",
+    "subtitle": null,
+    "published_at": "2024-02-05T16:31:02+01:00",
+    "updated_at": "2024-02-05T16:31:04+01:00",
+    "media_id": "jwsxpzoan9t6",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6300389/domper-voor-van-de-beek-frankfurt-schrijft-hem-niet-in-voor-europese-duels.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300388,
+    "slug": "williams-past-ontwerp-van-auto-aan-maar-laat-m-nog-niet-zien",
+    "type": "article",
+    "title": "Williams past ontwerp van auto aan, maar laat 'm nog niet zien",
+    "subtitle": null,
+    "published_at": "2024-02-05T16:27:09+01:00",
+    "updated_at": "2024-02-05T16:27:11+01:00",
+    "media_id": "innxr4qaz9s3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6300388/williams-past-ontwerp-van-auto-aan-maar-laat-m-nog-niet-zien.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300383,
     "slug": "kroonprinses-amalia-woont-na-bedreigingen-weer-in-amsterdam",
     "type": "article",
     "title": "Kroonprinses Amalia woont na bedreigingen weer in Amsterdam",
     "subtitle": null,
     "published_at": "2024-02-05T16:19:51+01:00",
-    "updated_at": "2024-02-05T16:21:30+01:00",
+    "updated_at": "2024-02-05T16:30:01+01:00",
     "media_id": "vetxfixalptd",
     "duration": null,
     "canonical_section": {
@@ -75,7 +121,7 @@
     "title": "Videodirecteur NPO op non-actief wegens onderzoek naar wangedrag",
     "subtitle": null,
     "published_at": "2024-02-05T15:36:44+01:00",
-    "updated_at": "2024-02-05T16:04:03+01:00",
+    "updated_at": "2024-02-05T16:30:41+01:00",
     "media_id": "4ftxfzxalt1v",
     "duration": null,
     "canonical_section": {
@@ -213,7 +259,7 @@
     "title": "Toeristen verbazen zich over walvishaai die vlak voor Thaise kust zwemt",
     "subtitle": "Video",
     "published_at": "2024-02-05T14:25:37+01:00",
-    "updated_at": "2024-02-05T15:06:42+01:00",
+    "updated_at": "2024-02-05T16:25:30+01:00",
     "media_id": "rddxxcyalofn",
     "duration": "0:25",
     "canonical_section": {
@@ -282,7 +328,7 @@
     "title": "Red Bull onderzoekt mogelijk grensoverschrijdend gedrag F1-teambaas Horner",
     "subtitle": null,
     "published_at": "2024-02-05T13:45:30+01:00",
-    "updated_at": "2024-02-05T14:54:19+01:00",
+    "updated_at": "2024-02-05T16:25:46+01:00",
     "media_id": "9jzxbldaj8jc",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6300364/a2-bij-belgische-grens-uit-voorzorg-afgesloten-wegens-demonstratie-boeren.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300358,
-    "slug": "kritische-opponent-poetin-mogelijk-uitgesloten-van-verkiezingen-wegens-fraude",
-    "type": "article",
-    "title": "Kritische opponent Poetin mogelijk uitgesloten van verkiezingen wegens fraude",
-    "subtitle": null,
-    "published_at": "2024-02-05T12:46:54+01:00",
-    "updated_at": "2024-02-05T15:07:13+01:00",
-    "media_id": "s5sxq73ajc3a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6300358/kritische-opponent-poetin-mogelijk-uitgesloten-van-verkiezingen-wegens-fraude.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300363,
-    "slug": "spanje-geeft-vn-hulporganisatie-ondanks-beschuldigingen-extra-geld-voor-gaza",
-    "type": "article",
-    "title": "Spanje geeft VN-hulporganisatie ondanks beschuldigingen extra geld voor Gaza",
-    "subtitle": null,
-    "published_at": "2024-02-05T12:35:37+01:00",
-    "updated_at": "2024-02-05T12:35:39+01:00",
-    "media_id": "426xl5mat4pe",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Oorlog Israël en Hamas",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6300363/spanje-geeft-vn-hulporganisatie-ondanks-beschuldigingen-extra-geld-voor-gaza.html",
     "open_new_window": false,
     "partner": null
   }
