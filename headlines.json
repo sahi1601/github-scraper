@@ -1,5 +1,51 @@
 [
   {
+    "id": 6300315,
+    "slug": "taylor-swift-miley-cyrus-en-billie-eilish-winnen-belangrijkste-grammys",
+    "type": "article",
+    "title": "Taylor Swift, Miley Cyrus en Billie Eilish winnen belangrijkste Grammy's",
+    "subtitle": null,
+    "published_at": "2024-02-05T06:19:47+01:00",
+    "updated_at": "2024-02-05T06:19:48+01:00",
+    "media_id": "6wfxt0ra2z8x",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6300315/taylor-swift-miley-cyrus-en-billie-eilish-winnen-belangrijkste-grammys.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300316,
+    "slug": "grotendeels-droge-dag-met-hier-en-daar-wat-zon",
+    "type": "article",
+    "title": "Grotendeels droge dag met hier en daar wat zon",
+    "subtitle": "Weerbericht",
+    "published_at": "2024-02-05T06:17:18+01:00",
+    "updated_at": "2024-02-05T06:19:57+01:00",
+    "media_id": "8ihxz4ba5hwb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6300316/grotendeels-droge-dag-met-hier-en-daar-wat-zon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300068,
     "slug": "satellietbeelden-vergelijken-schade-in-gaza-van-november-met-nu",
     "type": "video",
@@ -190,7 +236,7 @@
     "title": "Politie houdt verdachte aan voor ongeluk Epe waarbij meisje (14) omkwam",
     "subtitle": null,
     "published_at": "2024-02-04T23:38:30+01:00",
-    "updated_at": "2024-02-04T23:39:51+01:00",
+    "updated_at": "2024-02-05T06:16:21+01:00",
     "media_id": "rz1xmseaufcj",
     "duration": null,
     "canonical_section": {
@@ -351,7 +397,7 @@
     "title": "Boerenactie in poging Duitse grens te blokkeren over, A7 Scheemda weer open",
     "subtitle": null,
     "published_at": "2024-02-04T21:09:12+01:00",
-    "updated_at": "2024-02-04T21:16:36+01:00",
+    "updated_at": "2024-02-05T06:17:44+01:00",
     "media_id": "iwrxv50aef1h",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/media/6300302/radio-icoon-en-candlelight-presentator-jan-van-veen-79-overleden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300184,
-    "slug": "goed-nieuws-deze-week-gevoelige-geiten-en-wereldkampioen-zonnepanelen",
-    "type": "article",
-    "title": "Goed nieuws deze week: gevoelige geiten en wereldkampioen zonnepanelen",
-    "subtitle": null,
-    "published_at": "2024-02-04T20:01:15+01:00",
-    "updated_at": "2024-02-05T05:11:28+01:00",
-    "media_id": "k7nxfsoaujoa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779220,
-      "slug": "goed-nieuws",
-      "type": "default",
-      "name": "Goed nieuws",
-      "style": "nuoverig",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/goed-nieuws/6300184/goed-nieuws-deze-week-gevoelige-geiten-en-wereldkampioen-zonnepanelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300299,
-    "slug": "taylor-wint-broederstrijd-van-zach-bij-utrecht-volendam-wordt-een-duur-etentje",
-    "type": "article",
-    "title": "Taylor wint broederstrijd van Zach bij Utrecht-Volendam: 'Wordt een duur etentje'",
-    "subtitle": null,
-    "published_at": "2024-02-04T19:59:03+01:00",
-    "updated_at": "2024-02-04T20:07:36+01:00",
-    "media_id": "nmzxuona85v0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6300299/taylor-wint-broederstrijd-van-zach-bij-utrecht-volendam-wordt-een-duur-etentje.html",
     "open_new_window": false,
     "partner": null
   }
