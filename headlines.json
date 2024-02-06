@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300435,
+    "slug": "saoedi-arabie-organiseert-tijdens-atp-seizoen-demonstratietoernooi-met-zes-toppers",
+    "type": "article",
+    "title": "Saoedi-Arabië organiseert tijdens ATP-seizoen demonstratietoernooi met zes toppers",
+    "subtitle": null,
+    "published_at": "2024-02-06T07:25:12+01:00",
+    "updated_at": "2024-02-06T07:25:13+01:00",
+    "media_id": "jf2x6wqapas7",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6300435/saoedi-arabie-organiseert-tijdens-atp-seizoen-demonstratietoernooi-met-zes-toppers.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300430,
     "slug": "speciale-echo-laat-zien-of-kleine-babys-in-de-buik-problemen-hebben",
     "type": "article",
@@ -305,7 +328,7 @@
     "title": "Manchester City wint ondanks assist van uitblinkende keeper Flekken in Brentford",
     "subtitle": null,
     "published_at": "2024-02-05T22:55:32+01:00",
-    "updated_at": "2024-02-05T23:33:36+01:00",
+    "updated_at": "2024-02-06T07:21:57+01:00",
     "media_id": "iynx476au2hu",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/midden-oostenconflict/6300422/nederland-dropt-voor-tweede-dag-op-rij-goederen-boven-gaza.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300420,
-    "slug": "meerdere-wegen-dicht-door-nieuwe-boerenacties-politie-meldt-onveilige-situaties",
-    "type": "article",
-    "title": "Meerdere wegen dicht door nieuwe boerenacties, politie meldt onveilige situaties",
-    "subtitle": null,
-    "published_at": "2024-02-05T21:48:27+01:00",
-    "updated_at": "2024-02-05T23:58:08+01:00",
-    "media_id": "kqtxe50a0hhx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6300420/meerdere-wegen-dicht-door-nieuwe-boerenacties-politie-meldt-onveilige-situaties.html",
     "open_new_window": false,
     "partner": null
   }
