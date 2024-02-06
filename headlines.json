@@ -1,12 +1,35 @@
 [
   {
-    "id": 6299610,
-    "slug": "romeins-kamp-of-gouden-munten-bodem-ligt-vol-archeologische-schatten",
+    "id": 6300508,
+    "slug": "politie-heeft-eerste-verdachten-aangehouden-na-boerenprotesten",
     "type": "article",
-    "title": "Romeins kamp of gouden munten: bodem ligt vol archeologische schatten",
+    "title": "Politie heeft eerste verdachten aangehouden na boerenprotesten",
+    "subtitle": null,
+    "published_at": "2024-02-06T14:26:11+01:00",
+    "updated_at": "2024-02-06T14:41:32+01:00",
+    "media_id": "e6kxqm6abiwa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6300508/politie-heeft-eerste-verdachten-aangehouden-na-boerenprotesten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6299610,
+    "slug": "romeins-schip-of-gouden-munten-nederlandse-bodem-vol-oude-schatten",
+    "type": "article",
+    "title": "Romeins schip of gouden munten: Nederlandse bodem vol oude schatten",
     "subtitle": "NU+",
     "published_at": "2024-02-06T14:08:51+01:00",
-    "updated_at": "2024-02-06T14:08:52+01:00",
+    "updated_at": "2024-02-06T14:32:47+01:00",
     "media_id": "6g9x9cgapeuw",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/cultuur-overig/6299610/romeins-kamp-of-gouden-munten-bodem-ligt-vol-archeologische-schatten.html",
+    "url": "/cultuur-overig/6299610/romeins-schip-of-gouden-munten-nederlandse-bodem-vol-oude-schatten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6300480/zes-gewonden-bij-poging-tot-aanslag-op-rechtbank-in-istanboel-schutters-gedood.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300476,
-    "slug": "eu-plan-tegen-bestrijdingsmiddelen-definitief-van-de-baan",
-    "type": "article",
-    "title": "EU-plan tegen bestrijdingsmiddelen definitief van de baan",
-    "subtitle": null,
-    "published_at": "2024-02-06T11:21:59+01:00",
-    "updated_at": "2024-02-06T12:02:46+01:00",
-    "media_id": "oczxjtsaelua",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6300476/eu-plan-tegen-bestrijdingsmiddelen-definitief-van-de-baan.html",
     "open_new_window": false,
     "partner": null
   }
