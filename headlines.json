@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300655,
+    "slug": "deadpool-medebedenker-stopt-na-33-jaar-met-het-maken-van-de-strips",
+    "type": "article",
+    "title": "Deadpool-medebedenker stopt na 33 jaar met het maken van de strips",
+    "subtitle": null,
+    "published_at": "2024-02-07T16:13:34+01:00",
+    "updated_at": "2024-02-07T16:13:35+01:00",
+    "media_id": "z2ax6jjabeaf",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6300655/deadpool-medebedenker-stopt-na-33-jaar-met-het-maken-van-de-strips.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300658,
     "slug": "rechtszaak-peter-gillis-over-belastingfraude-bij-vakantieparken-start-19-maart",
     "type": "article",
@@ -328,7 +351,7 @@
     "title": "'11,5 miljard A4'tjes' aan staatsgeheimen in beslag genomen bij NCTV'er",
     "subtitle": null,
     "published_at": "2024-02-07T13:56:03+01:00",
-    "updated_at": "2024-02-07T13:56:04+01:00",
+    "updated_at": "2024-02-07T16:23:06+01:00",
     "media_id": "60txrfeav38c",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6300640/jumbo-zet-meer-cameras-personeel-en-beveiligers-in-tegen-winkeldiefstal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300641,
-    "slug": "wilders-verbaasd-en-geschokt-dat-omtzigt-wegloopt-bij-formatietafel",
-    "type": "video",
-    "title": "Wilders 'verbaasd en geschokt' dat Omtzigt wegloopt bij formatietafel",
-    "subtitle": "Video",
-    "published_at": "2024-02-07T13:33:18+01:00",
-    "updated_at": "2024-02-07T13:38:33+01:00",
-    "media_id": "au6x667ad7q5",
-    "duration": "0:45",
-    "canonical_section": {
-      "id": 1771437,
-      "slug": "politiek",
-      "type": "default",
-      "name": "Politiek",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/politiek/6300641/wilders-verbaasd-en-geschokt-dat-omtzigt-wegloopt-bij-formatietafel.html",
     "open_new_window": false,
     "partner": null
   }
