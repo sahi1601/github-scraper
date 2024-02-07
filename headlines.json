@@ -1,12 +1,35 @@
 [
   {
-    "id": 6300672,
-    "slug": "live-knvb-beker-cambuur-en-vitesse-strijden-om-plek-in-halve-finales",
+    "id": 6300674,
+    "slug": "oekraine-gaat-sperma-en-eicellen-van-militairen-ook-bewaren-als-ze-sneuvelen",
     "type": "article",
-    "title": "Live KNVB-beker | Cambuur en Vitesse strijden om plek in halve finales",
+    "title": "Oekraïne gaat sperma en eicellen van militairen ook bewaren als ze sneuvelen",
+    "subtitle": null,
+    "published_at": "2024-02-07T18:29:03+01:00",
+    "updated_at": "2024-02-07T18:35:21+01:00",
+    "media_id": "slqxoicab4mo",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6300674/oekraine-gaat-sperma-en-eicellen-van-militairen-ook-bewaren-als-ze-sneuvelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300672,
+    "slug": "live-knvb-beker-cambuur-en-vitesse-begonnen-aan-kwartfinaleduel",
+    "type": "article",
+    "title": "Live KNVB-beker | Cambuur en Vitesse begonnen aan kwartfinaleduel",
     "subtitle": null,
     "published_at": "2024-02-07T18:21:54+01:00",
-    "updated_at": "2024-02-07T18:21:55+01:00",
+    "updated_at": "2024-02-07T18:44:54+01:00",
     "media_id": "470x4wfan9fi",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6300672/live-knvb-beker-cambuur-en-vitesse-strijden-om-plek-in-halve-finales.html",
+    "url": "/voetbal/6300672/live-knvb-beker-cambuur-en-vitesse-begonnen-aan-kwartfinaleduel.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Vele longontstekingen in Nederland komen niet door één virus of bacterie",
     "subtitle": null,
     "published_at": "2024-02-07T16:26:37+01:00",
-    "updated_at": "2024-02-07T17:22:44+01:00",
+    "updated_at": "2024-02-07T18:40:27+01:00",
     "media_id": "9p4xjn3a4xp7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/vragenoproep/6300630/werk-jij-als-vrouw-in-de-technische-sector-dan-zoeken-we-jou.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300649,
-    "slug": "griekse-voetbalfans-weer-welkom-na-twee-maanden-lege-tribunes-door-incidenten",
-    "type": "article",
-    "title": "Griekse voetbalfans weer welkom na twee maanden lege tribunes door incidenten",
-    "subtitle": null,
-    "published_at": "2024-02-07T14:36:22+01:00",
-    "updated_at": "2024-02-07T14:36:24+01:00",
-    "media_id": "njexvswayot3",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6300649/griekse-voetbalfans-weer-welkom-na-twee-maanden-lege-tribunes-door-incidenten.html",
     "open_new_window": false,
     "partner": null
   }
