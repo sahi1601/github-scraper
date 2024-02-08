@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300716,
+    "slug": "politie-haalt-scooterbestuurder-zonder-rijbewijs-van-snelweg",
+    "type": "video",
+    "title": "Politie haalt scooterbestuurder zonder rijbewijs van snelweg",
+    "subtitle": "Video",
+    "published_at": "2024-02-08T08:15:26+01:00",
+    "updated_at": "2024-02-08T08:15:27+01:00",
+    "media_id": "85zxkgta7s79",
+    "duration": "0:51",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6300716/politie-haalt-scooterbestuurder-zonder-rijbewijs-van-snelweg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300715,
     "slug": "geen-incidenten-in-apeldoorn-na-oproep-om-aangehouden-boeren-te-bevrijden",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Halvefinalist Cambuur droomt van finale in De Kuip: 'Kunnen gekke dingen doen'",
     "subtitle": null,
     "published_at": "2024-02-08T07:32:29+01:00",
-    "updated_at": "2024-02-08T07:36:48+01:00",
+    "updated_at": "2024-02-08T08:21:04+01:00",
     "media_id": "md9x08xahmiq",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Oranje in de koker voor Nations League-loting: bekijk de potindeling",
     "subtitle": null,
     "published_at": "2024-02-08T06:29:23+01:00",
-    "updated_at": "2024-02-08T06:34:34+01:00",
+    "updated_at": "2024-02-08T08:20:31+01:00",
     "media_id": "hpcxichaeod5",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Weerbericht: Carnaval trapt donderdag af met regen (of zelfs sneeuw)",
     "subtitle": null,
     "published_at": "2024-02-08T05:45:23+01:00",
-    "updated_at": "2024-02-08T07:01:03+01:00",
+    "updated_at": "2024-02-08T08:15:29+01:00",
     "media_id": "s9rxbouazgro",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6300679/team-jonk-voorlopige-winnaar-in-emotionele-arbitragezaak-tegen-fc-volendam.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300703,
-    "slug": "atletico-meldde-zich-bij-feyenoord-voor-wieffer-had-wel-met-ze-willen-praten",
-    "type": "article",
-    "title": "Atlético meldde zich bij Feyenoord voor Wieffer: 'Had wel met ze willen praten'",
-    "subtitle": null,
-    "published_at": "2024-02-07T23:31:38+01:00",
-    "updated_at": "2024-02-08T08:12:43+01:00",
-    "media_id": "qvjxewqash34",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6300703/atletico-meldde-zich-bij-feyenoord-voor-wieffer-had-wel-met-ze-willen-praten.html",
     "open_new_window": false,
     "partner": null
   }
