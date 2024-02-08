@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300705,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-02-08T05:21:30+01:00",
+    "updated_at": "2024-02-08T05:21:31+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6300705/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300629,
     "slug": "ek-winst-bredewold-doet-nog-altijd-pijn-bij-wiebes-het-was-de-druppel",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/algemeen/6300686/102-jarige-engelsman-mogelijk-oudste-spitfire-piloot.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300690,
-    "slug": "prins-william-bedankt-iedereen-voor-steun-na-kankerdiagnose-vader-charles",
-    "type": "article",
-    "title": "Prins William bedankt iedereen voor steun na kankerdiagnose vader Charles",
-    "subtitle": null,
-    "published_at": "2024-02-07T21:03:32+01:00",
-    "updated_at": "2024-02-07T21:11:00+01:00",
-    "media_id": "1ikxt1rangt9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778775,
-      "slug": "koningshuis",
-      "type": "default",
-      "name": "Koningshuis",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/koningshuis/6300690/prins-william-bedankt-iedereen-voor-steun-na-kankerdiagnose-vader-charles.html",
     "open_new_window": false,
     "partner": null
   }
