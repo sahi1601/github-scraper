@@ -1,12 +1,35 @@
 [
   {
+    "id": 6300791,
+    "slug": "overvallers-rene-van-der-gijp-en-nikkie-de-jager-krijgen-celstraffen-tot-55-jaar",
+    "type": "article",
+    "title": "Overvallers René van der Gijp en Nikkie de Jager krijgen celstraffen tot 5,5 jaar",
+    "subtitle": null,
+    "published_at": "2024-02-08T16:29:56+01:00",
+    "updated_at": "2024-02-08T16:39:16+01:00",
+    "media_id": "41sxbjuadrxc",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6300791/overvallers-rene-van-der-gijp-en-nikkie-de-jager-krijgen-celstraffen-tot-55-jaar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300797,
     "slug": "aantal-zelfdodingen-van-jongeren-is-in-tien-jaar-met-17-procent-toegenomen",
     "type": "article",
     "title": "Aantal zelfdodingen van jongeren is in tien jaar met 17 procent toegenomen",
     "subtitle": null,
     "published_at": "2024-02-08T16:20:43+01:00",
-    "updated_at": "2024-02-08T16:24:21+01:00",
+    "updated_at": "2024-02-08T16:34:45+01:00",
     "media_id": "dmaxye4adk0s",
     "duration": null,
     "canonical_section": {
@@ -328,7 +351,7 @@
     "title": "Europese wetenschappers breken eigen kernfusierecord: 'Ontwikkeling gaat hard'",
     "subtitle": null,
     "published_at": "2024-02-08T14:18:28+01:00",
-    "updated_at": "2024-02-08T15:20:01+01:00",
+    "updated_at": "2024-02-08T16:37:14+01:00",
     "media_id": "oy6xlf9acyey",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6300776/dit-vrachtvliegtuig-maakte-een-noodlanding-op-schiphol.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300766,
-    "slug": "rabobank-topman-boeren-lenen-minder-door-onzekerheid-over-landbouwbeleid",
-    "type": "article",
-    "title": "Rabobank-topman: Boeren lenen minder door onzekerheid over landbouwbeleid",
-    "subtitle": null,
-    "published_at": "2024-02-08T13:40:37+01:00",
-    "updated_at": "2024-02-08T13:45:43+01:00",
-    "media_id": "owyxyqqa4red",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6300766/rabobank-topman-boeren-lenen-minder-door-onzekerheid-over-landbouwbeleid.html",
     "open_new_window": false,
     "partner": null
   }
