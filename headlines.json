@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300797,
+    "slug": "aantal-zelfdodingen-van-jongeren-is-in-tien-jaar-met-17-procent-toegenomen",
+    "type": "article",
+    "title": "Aantal zelfdodingen van jongeren is in tien jaar met 17 procent toegenomen",
+    "subtitle": null,
+    "published_at": "2024-02-08T16:20:43+01:00",
+    "updated_at": "2024-02-08T16:24:21+01:00",
+    "media_id": "dmaxye4adk0s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6300797/aantal-zelfdodingen-van-jongeren-is-in-tien-jaar-met-17-procent-toegenomen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300796,
     "slug": "de-correspondent-daagt-om-wegens-afluisteren-journalisten",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Nederlander leeft veertig jaar met donorhart en vestigt wereldrecord",
     "subtitle": null,
     "published_at": "2024-02-08T16:09:13+01:00",
-    "updated_at": "2024-02-08T16:09:14+01:00",
+    "updated_at": "2024-02-08T16:19:09+01:00",
     "media_id": "9mqxf48at4xo",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Politie in 2022 drie keer in de fout met onderzoek naar hele gemeenschappen",
     "subtitle": null,
     "published_at": "2024-02-08T15:43:06+01:00",
-    "updated_at": "2024-02-08T16:01:48+01:00",
+    "updated_at": "2024-02-08T16:18:58+01:00",
     "media_id": "f0vxemia1uh6",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6300766/rabobank-topman-boeren-lenen-minder-door-onzekerheid-over-landbouwbeleid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300774,
-    "slug": "man-overleden-na-omvallen-van-heistelling-in-rotterdam",
-    "type": "article",
-    "title": "Man overleden na omvallen van heistelling in Rotterdam",
-    "subtitle": null,
-    "published_at": "2024-02-08T13:40:17+01:00",
-    "updated_at": "2024-02-08T14:58:25+01:00",
-    "media_id": "lxcxulrael1x",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6300774/man-overleden-na-omvallen-van-heistelling-in-rotterdam.html",
     "open_new_window": false,
     "partner": null
   }
