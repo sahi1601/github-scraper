@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300723,
+    "slug": "voor-derde-keer-in-korte-tijd-vulkaanuitbarsting-in-zelfde-ijslandse-regio",
+    "type": "article",
+    "title": "Voor derde keer in korte tijd vulkaanuitbarsting in zelfde IJslandse regio",
+    "subtitle": null,
+    "published_at": "2024-02-08T09:47:36+01:00",
+    "updated_at": "2024-02-08T09:47:38+01:00",
+    "media_id": "bifxk16ajly2",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6300723/voor-derde-keer-in-korte-tijd-vulkaanuitbarsting-in-zelfde-ijslandse-regio.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300594,
     "slug": "de-ontwikkeling-van-trainer-buijs-spelers-hoeven-me-niet-aardig-te-vinden",
     "type": "article",
@@ -328,7 +351,7 @@
     "title": "Universiteiten bieden minder in Engels aan om buitenlandse instroom te beperken",
     "subtitle": null,
     "published_at": "2024-02-08T07:20:24+01:00",
-    "updated_at": "2024-02-08T08:05:39+01:00",
+    "updated_at": "2024-02-08T10:03:31+01:00",
     "media_id": "wmhxmybalgv1",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6300709/huub-stapel-is-klaar-met-influencers-in-films-rot-gauw-op-met-die-onzin.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300334,
-    "slug": "oranje-in-de-koker-voor-nations-league-loting-bekijk-de-potindeling",
-    "type": "article",
-    "title": "Oranje in de koker voor Nations League-loting: bekijk de potindeling",
-    "subtitle": null,
-    "published_at": "2024-02-08T06:29:23+01:00",
-    "updated_at": "2024-02-08T08:20:31+01:00",
-    "media_id": "hpcxichaeod5",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6300334/oranje-in-de-koker-voor-nations-league-loting-bekijk-de-potindeling.html",
     "open_new_window": false,
     "partner": null
   }
