@@ -1,12 +1,58 @@
 [
   {
-    "id": 6300896,
-    "slug": "studenten-over-engelstalig-onderwijs-onmisbaar-in-internationale-cultuur",
+    "id": 6300970,
+    "slug": "maan-van-saturnus-die-op-death-star-lijkt-heeft-een-verborgen-oceaan",
     "type": "article",
-    "title": "Studenten over Engelstalig onderwijs: 'Onmisbaar in internationale cultuur'",
+    "title": "Maan van Saturnus die op 'Death Star' lijkt heeft een verborgen oceaan",
+    "subtitle": null,
+    "published_at": "2024-02-09T20:34:39+01:00",
+    "updated_at": "2024-02-09T20:34:41+01:00",
+    "media_id": "25yxf5yahdwc",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6300970/maan-van-saturnus-die-op-death-star-lijkt-heeft-een-verborgen-oceaan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300961,
+    "slug": "oekraine-gooit-het-na-twee-jaar-oorlog-over-andere-militaire-boeg",
+    "type": "article",
+    "title": "Oekraïne gooit het na twee jaar oorlog over andere militaire boeg",
+    "subtitle": "Overzicht",
+    "published_at": "2024-02-09T20:34:21+01:00",
+    "updated_at": "2024-02-09T20:41:20+01:00",
+    "media_id": "v9gxwwdafaza",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6300961/oekraine-gooit-het-na-twee-jaar-oorlog-over-andere-militaire-boeg.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300896,
+    "slug": "studenten-over-engelstalig-onderwijs-tweede-taal-hoort-verrijking-te-zijn",
+    "type": "article",
+    "title": "Studenten over Engelstalig onderwijs: 'Tweede taal hoort verrijking te zijn'",
     "subtitle": "NU+",
     "published_at": "2024-02-09T20:15:54+01:00",
-    "updated_at": "2024-02-09T20:15:57+01:00",
+    "updated_at": "2024-02-09T20:43:10+01:00",
     "media_id": "yoax5fian956",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6300896/studenten-over-engelstalig-onderwijs-onmisbaar-in-internationale-cultuur.html",
+    "url": "/algemeen/6300896/studenten-over-engelstalig-onderwijs-tweede-taal-hoort-verrijking-te-zijn.html",
     "open_new_window": false,
     "partner": null
   },
@@ -116,12 +162,12 @@
   },
   {
     "id": 6300965,
-    "slug": "live-eredivisie-rkc-in-carnavalstenue-razendsnel-op-voorsprong-tegen-nec",
+    "slug": "live-eredivisie-rkc-op-voorsprong-cillessen-leek-eindelijk-penalty-te-keren",
     "type": "article",
-    "title": "Live Eredivisie | RKC in carnavalstenue razendsnel op voorsprong tegen NEC",
+    "title": "Live Eredivisie | RKC op voorsprong, Cillessen leek eindelijk penalty te keren",
     "subtitle": null,
     "published_at": "2024-02-09T19:24:57+01:00",
-    "updated_at": "2024-02-09T20:16:10+01:00",
+    "updated_at": "2024-02-09T20:24:32+01:00",
     "media_id": "06yxbira6r2v",
     "duration": null,
     "canonical_section": {
@@ -133,18 +179,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6300965/live-eredivisie-rkc-in-carnavalstenue-razendsnel-op-voorsprong-tegen-nec.html",
+    "url": "/voetbal/6300965/live-eredivisie-rkc-op-voorsprong-cillessen-leek-eindelijk-penalty-te-keren.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6300964,
-    "slug": "man-die-chemische-aanval-deed-in-londen-ligt-vermoedelijk-in-rivier-theems",
+    "slug": "man-die-aanval-met-zuur-uitvoerde-in-londen-ligt-vermoedelijk-in-rivier-theems",
     "type": "article",
-    "title": "Man die chemische aanval deed in Londen ligt vermoedelijk in rivier Theems",
+    "title": "Man die aanval met zuur uitvoerde in Londen ligt vermoedelijk in rivier Theems",
     "subtitle": null,
     "published_at": "2024-02-09T19:14:45+01:00",
-    "updated_at": "2024-02-09T20:00:02+01:00",
+    "updated_at": "2024-02-09T20:25:55+01:00",
     "media_id": "x57x5toa3yjj",
     "duration": null,
     "canonical_section": {
@@ -156,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6300964/man-die-chemische-aanval-deed-in-londen-ligt-vermoedelijk-in-rivier-theems.html",
+    "url": "/buitenland/6300964/man-die-aanval-met-zuur-uitvoerde-in-londen-ligt-vermoedelijk-in-rivier-theems.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6300952/opnieuw-legere-schappen-bij-jumbo-vanwege-onderhandelingen-met-leveranciers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300935,
-    "slug": "netanyahu-geeft-leger-opdracht-rafah-te-evacueren-offensief-lijkt-aanstaande",
-    "type": "article",
-    "title": "Netanyahu geeft leger opdracht Rafah te evacueren, offensief lijkt aanstaande",
-    "subtitle": null,
-    "published_at": "2024-02-09T17:16:27+01:00",
-    "updated_at": "2024-02-09T17:17:13+01:00",
-    "media_id": "uklxmzta4a7i",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Oorlog Israël en Hamas",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6300935/netanyahu-geeft-leger-opdracht-rafah-te-evacueren-offensief-lijkt-aanstaande.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300934,
-    "slug": "sluiten-van-scholen-hielp-het-minst-om-verspreiding-coronavirus-tegen-te-gaan",
-    "type": "article",
-    "title": "Sluiten van scholen hielp het minst om verspreiding coronavirus tegen te gaan",
-    "subtitle": null,
-    "published_at": "2024-02-09T17:03:56+01:00",
-    "updated_at": "2024-02-09T17:03:58+01:00",
-    "media_id": "kqexpviag057",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778528,
-      "slug": "coronavirus",
-      "type": "default",
-      "name": "Coronavirus",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/coronavirus/6300934/sluiten-van-scholen-hielp-het-minst-om-verspreiding-coronavirus-tegen-te-gaan.html",
     "open_new_window": false,
     "partner": null
   }
