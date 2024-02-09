@@ -1,5 +1,28 @@
 [
   {
+    "id": 6300976,
+    "slug": "malen-schiet-psv-opponent-dortmund-met-twee-doelpunten-naar-winst",
+    "type": "article",
+    "title": "Malen schiet PSV-opponent Dortmund met twee doelpunten naar winst",
+    "subtitle": null,
+    "published_at": "2024-02-09T22:38:30+01:00",
+    "updated_at": "2024-02-09T22:38:31+01:00",
+    "media_id": "kwhxkn9anoln",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6300976/malen-schiet-psv-opponent-dortmund-met-twee-doelpunten-naar-winst.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6300975,
     "slug": "koploper-willem-ii-gaat-met-goed-gevoel-carnaval-in-ook-roda-jc-wint",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Teamgenoot voorkomt penaltyprimeur Cillessen bij verliezend NEC in Waalwijk",
     "subtitle": null,
     "published_at": "2024-02-09T21:58:55+01:00",
-    "updated_at": "2024-02-09T22:17:07+01:00",
+    "updated_at": "2024-02-09T22:29:07+01:00",
     "media_id": "o9rxwita5pfm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6300957/provincies-en-gemeenten-moeten-binnen-vijf-weken-5500-opvangplekken-regelen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300956,
-    "slug": "nog-twee-aanhoudingen-voor-ontvoering-man-uit-maassluis-totaal-nu-op-negen",
-    "type": "article",
-    "title": "Nog twee aanhoudingen voor ontvoering man uit Maassluis, totaal nu op negen",
-    "subtitle": null,
-    "published_at": "2024-02-09T18:43:35+01:00",
-    "updated_at": "2024-02-09T18:43:36+01:00",
-    "media_id": "hocxrvba3jyw",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6300956/nog-twee-aanhoudingen-voor-ontvoering-man-uit-maassluis-totaal-nu-op-negen.html",
     "open_new_window": false,
     "partner": null
   }
