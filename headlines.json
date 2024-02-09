@@ -1,12 +1,35 @@
 [
   {
-    "id": 6300920,
-    "slug": "geen-carnaval-zonder-optochten-bekijk-hier-waar-je-praalwagens-kan-spotten",
+    "id": 6300896,
+    "slug": "studenten-over-engelstalig-onderwijs-onmisbaar-in-internationale-cultuur",
     "type": "article",
-    "title": "Geen carnaval zonder optochten: bekijk hier waar je praalwagens kan spotten",
+    "title": "Studenten over Engelstalig onderwijs: 'Onmisbaar in internationale cultuur'",
+    "subtitle": "NU+",
+    "published_at": "2024-02-09T20:15:54+01:00",
+    "updated_at": "2024-02-09T20:15:57+01:00",
+    "media_id": "yoax5fian956",
+    "duration": null,
+    "canonical_section": {
+      "id": 100,
+      "slug": "algemeen",
+      "type": "default",
+      "name": "Algemeen",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/algemeen/6300896/studenten-over-engelstalig-onderwijs-onmisbaar-in-internationale-cultuur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6300920,
+    "slug": "geen-carnaval-zonder-optochten-kijk-hier-waar-je-praalwagens-kan-spotten",
+    "type": "article",
+    "title": "Geen carnaval zonder optochten: kijk hier waar je praalwagens kan spotten",
     "subtitle": "NU+",
     "published_at": "2024-02-09T20:11:17+01:00",
-    "updated_at": "2024-02-09T20:11:28+01:00",
+    "updated_at": "2024-02-09T20:21:38+01:00",
     "media_id": "nqax69vaawlg",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": "m1mxhujaaiwg",
       "partner": null
     },
-    "url": "/carnaval/6300920/geen-carnaval-zonder-optochten-bekijk-hier-waar-je-praalwagens-kan-spotten.html",
+    "url": "/carnaval/6300920/geen-carnaval-zonder-optochten-kijk-hier-waar-je-praalwagens-kan-spotten.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,8 +121,8 @@
     "title": "Live Eredivisie | RKC in carnavalstenue razendsnel op voorsprong tegen NEC",
     "subtitle": null,
     "published_at": "2024-02-09T19:24:57+01:00",
-    "updated_at": "2024-02-09T20:07:55+01:00",
-    "media_id": "qpgx7i8a9ipd",
+    "updated_at": "2024-02-09T20:16:10+01:00",
+    "media_id": "06yxbira6r2v",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/coronavirus/6300934/sluiten-van-scholen-hielp-het-minst-om-verspreiding-coronavirus-tegen-te-gaan.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6300947,
-    "slug": "zelensky-kiest-met-nieuwe-legerleider-voor-andere-benadering-oorlog",
-    "type": "video",
-    "title": "Zelensky kiest met nieuwe legerleider voor andere benadering oorlog",
-    "subtitle": "Explainer",
-    "published_at": "2024-02-09T16:56:58+01:00",
-    "updated_at": "2024-02-09T18:37:07+01:00",
-    "media_id": "3dex7lnanem9",
-    "duration": "2:11",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6300947/zelensky-kiest-met-nieuwe-legerleider-voor-andere-benadering-oorlog.html",
     "open_new_window": false,
     "partner": null
   }
