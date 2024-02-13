@@ -1,12 +1,35 @@
 [
   {
+    "id": 6301346,
+    "slug": "amsterdamse-orde-der-advocaten-verdenkt-gerald-roethof-van-lekken-informatie",
+    "type": "article",
+    "title": "Amsterdamse Orde der Advocaten verdenkt Gerald Roethof van lekken informatie",
+    "subtitle": null,
+    "published_at": "2024-02-13T15:11:21+01:00",
+    "updated_at": "2024-02-13T15:11:22+01:00",
+    "media_id": "1ncxrffaobie",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6301346/amsterdamse-orde-der-advocaten-verdenkt-gerald-roethof-van-lekken-informatie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301363,
     "slug": "leclerc-verwacht-beter-te-presteren-met-ferrari-sf-24-ziet-er-geweldig-uit",
     "type": "article",
     "title": "Leclerc verwacht beter te presteren met Ferrari SF-24: 'Ziet er geweldig uit'",
     "subtitle": null,
     "published_at": "2024-02-13T14:54:55+01:00",
-    "updated_at": "2024-02-13T14:54:56+01:00",
+    "updated_at": "2024-02-13T15:15:21+01:00",
     "media_id": "qqzx83paj7ac",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6301343/azerbeidzjan-en-armenie-beschieten-elkaar-bij-grens-mogelijk-meerdere-doden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301324,
-    "slug": "golfers-woest-om-wangedrag-publiek-bij-roemrucht-toernooi-in-vs-een-shitshow",
-    "type": "article",
-    "title": "Golfers woest om wangedrag publiek bij roemrucht toernooi in VS: 'Een shitshow'",
-    "subtitle": null,
-    "published_at": "2024-02-13T12:21:35+01:00",
-    "updated_at": "2024-02-13T12:21:36+01:00",
-    "media_id": "858xb3zag2yo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6301324/golfers-woest-om-wangedrag-publiek-bij-roemrucht-toernooi-in-vs-een-shitshow.html",
     "open_new_window": false,
     "partner": null
   }
