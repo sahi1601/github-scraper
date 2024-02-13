@@ -1,12 +1,35 @@
 [
   {
+    "id": 6301351,
+    "slug": "randstad-topman-we-hebben-kennis-en-arbeidsmigranten-gewoon-nodig",
+    "type": "article",
+    "title": "Randstad-topman: 'We hebben kennis- en arbeidsmigranten gewoon nodig'",
+    "subtitle": null,
+    "published_at": "2024-02-13T13:25:23+01:00",
+    "updated_at": "2024-02-13T13:40:38+01:00",
+    "media_id": "k0vxywuah4w6",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6301351/randstad-topman-we-hebben-kennis-en-arbeidsmigranten-gewoon-nodig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301350,
     "slug": "wat-is-salderen",
     "type": "article",
     "title": "Wat is salderen?",
     "subtitle": "In 100 woorden ",
     "published_at": "2024-02-13T13:10:49+01:00",
-    "updated_at": "2024-02-13T13:10:53+01:00",
+    "updated_at": "2024-02-13T13:32:54+01:00",
     "media_id": "fmtxcm3aindt",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Verstappen maakt op afgesloten Silverstone eerste kilometers in nieuwe Red Bull",
     "subtitle": null,
     "published_at": "2024-02-13T13:07:55+01:00",
-    "updated_at": "2024-02-13T13:22:45+01:00",
+    "updated_at": "2024-02-13T13:35:36+01:00",
     "media_id": "hzsx9tta4vel",
     "duration": null,
     "canonical_section": {
@@ -167,7 +190,7 @@
     "title": "Salderingsregeling voor zonnepanelen wordt komende jaren niet afgebouwd",
     "subtitle": null,
     "published_at": "2024-02-13T12:28:31+01:00",
-    "updated_at": "2024-02-13T12:44:24+01:00",
+    "updated_at": "2024-02-13T13:30:32+01:00",
     "media_id": "0lxx545ak0p2",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6301308/toyota-stuurt-daihatsu-bazen-weg-na-gesjoemel-met-veiligheidstests.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301319,
-    "slug": "zorgverzekeraars-vragen-na-ophef-niet-meer-om-borstfotos-voor-reconstructie",
-    "type": "article",
-    "title": "Zorgverzekeraars vragen na ophef niet meer om borstfoto's voor reconstructie",
-    "subtitle": null,
-    "published_at": "2024-02-13T10:45:25+01:00",
-    "updated_at": "2024-02-13T11:05:46+01:00",
-    "media_id": "m1nxht6afmaw",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6301319/zorgverzekeraars-vragen-na-ophef-niet-meer-om-borstfotos-voor-reconstructie.html",
     "open_new_window": false,
     "partner": null
   }
