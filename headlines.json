@@ -1,5 +1,28 @@
 [
   {
+    "id": 6301510,
+    "slug": "bbc-maakt-vijftig-jaar-na-songfestival-winst-documentaire-over-abba",
+    "type": "article",
+    "title": "BBC maakt vijftig jaar na Songfestival-winst documentaire over ABBA",
+    "subtitle": null,
+    "published_at": "2024-02-14T16:25:42+01:00",
+    "updated_at": "2024-02-14T16:25:43+01:00",
+    "media_id": "88oxnhma1crh",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6301510/bbc-maakt-vijftig-jaar-na-songfestival-winst-documentaire-over-abba.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301511,
     "slug": "alle-bitcoins-in-de-wereld-zijn-samen-weer-meer-dan-1-biljoen-dollar-waard",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6301508,
-    "slug": "16-jarige-jongen-opgepakt-vanwege-fataal-schietincident-bij-station-purmerend",
+    "slug": "zestienjarige-jongen-opgepakt-wegens-fataal-schietincident-bij-station-purmerend",
     "type": "article",
-    "title": "16-jarige jongen opgepakt vanwege fataal schietincident bij station Purmerend",
+    "title": "Zestienjarige jongen opgepakt wegens fataal schietincident bij station Purmerend",
     "subtitle": null,
     "published_at": "2024-02-14T16:04:21+01:00",
-    "updated_at": "2024-02-14T16:08:04+01:00",
+    "updated_at": "2024-02-14T16:14:49+01:00",
     "media_id": "j2px79xadzd7",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6301508/16-jarige-jongen-opgepakt-vanwege-fataal-schietincident-bij-station-purmerend.html",
+    "url": "/binnenland/6301508/zestienjarige-jongen-opgepakt-wegens-fataal-schietincident-bij-station-purmerend.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Vitesse snapt niets van afgekeurde overname, maar is ver met alternatief plan",
     "subtitle": null,
     "published_at": "2024-02-14T15:41:21+01:00",
-    "updated_at": "2024-02-14T15:57:46+01:00",
+    "updated_at": "2024-02-14T16:18:35+01:00",
     "media_id": "laaxq0ha1o11",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6301485/seizoen-4-van-only-murders-in-the-building-speelt-zich-af-in-los-angeles.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301487,
-    "slug": "achttien-navo-landen-geven-dit-jaar-waarschijnlijk-genoeg-uit-aan-defensie",
-    "type": "article",
-    "title": "Achttien NAVO-landen geven dit jaar waarschijnlijk genoeg uit aan defensie",
-    "subtitle": null,
-    "published_at": "2024-02-14T13:31:51+01:00",
-    "updated_at": "2024-02-14T15:42:44+01:00",
-    "media_id": "l51xl4hahl29",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6301487/achttien-navo-landen-geven-dit-jaar-waarschijnlijk-genoeg-uit-aan-defensie.html",
     "open_new_window": false,
     "partner": null
   }
