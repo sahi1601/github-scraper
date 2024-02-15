@@ -1,5 +1,28 @@
 [
   {
+    "id": 6301652,
+    "slug": "66000-huishoudens-in-regio-zeist-hebben-problemen-met-water-door-storing",
+    "type": "article",
+    "title": "66.000 huishoudens in regio Zeist hebben problemen met water door storing",
+    "subtitle": null,
+    "published_at": "2024-02-15T15:12:49+01:00",
+    "updated_at": "2024-02-15T15:19:22+01:00",
+    "media_id": "m1ix0g9a3v9y",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6301652/66000-huishoudens-in-regio-zeist-hebben-problemen-met-water-door-storing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301651,
     "slug": "wereldtopper-rune-strandt-verrassend-in-tweede-ronde-abn-amro-open",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Roekeloze Brit steekt met hond spoor over terwijl trein nadert",
     "subtitle": "Video",
     "published_at": "2024-02-15T14:55:50+01:00",
-    "updated_at": "2024-02-15T14:55:51+01:00",
+    "updated_at": "2024-02-15T15:23:23+01:00",
     "media_id": "d7sxb9kav9rq",
     "duration": "0:29",
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Nationaal Slavernijmuseum moet komen op Amsterdams Java-eiland",
     "subtitle": null,
     "published_at": "2024-02-15T14:07:12+01:00",
-    "updated_at": "2024-02-15T15:09:22+01:00",
+    "updated_at": "2024-02-15T15:17:31+01:00",
     "media_id": "s4exhfga33to",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "'Zorgenkindje' Frankrijk zegt dit jaar wél aan NAVO-norm te voldoen",
     "subtitle": null,
     "published_at": "2024-02-15T12:43:34+01:00",
-    "updated_at": "2024-02-15T14:04:24+01:00",
+    "updated_at": "2024-02-15T15:24:46+01:00",
     "media_id": "3y2x86ba84cm",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formatie-2023/6301599/informateur-putters-gaat-eerst-uitzoeken-wat-een-extraparlementair-kabinet-is.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301571,
-    "slug": "de-friese-zomer-van-schaatsfenomeen-stolz-hij-tapte-elke-dag-liters-melk",
-    "type": "article",
-    "title": "De Friese zomer van schaatsfenomeen Stolz: 'Hij tapte elke dag liters melk'",
-    "subtitle": "NU+",
-    "published_at": "2024-02-15T12:16:21+01:00",
-    "updated_at": "2024-02-15T13:05:51+01:00",
-    "media_id": "l5extgcauci2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6301571/de-friese-zomer-van-schaatsfenomeen-stolz-hij-tapte-elke-dag-liters-melk.html",
     "open_new_window": false,
     "partner": null
   }
