@@ -1,12 +1,35 @@
 [
   {
+    "id": 6301671,
+    "slug": "voor-het-eerst-in-bijna-twee-jaar-kopen-we-weer-meer-in-de-winkelstraat",
+    "type": "article",
+    "title": "Voor het eerst in bijna twee jaar kopen we weer meer in de winkelstraat",
+    "subtitle": null,
+    "published_at": "2024-02-16T00:16:53+01:00",
+    "updated_at": "2024-02-16T00:16:55+01:00",
+    "media_id": "yp9xyfbao5or",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6301671/voor-het-eerst-in-bijna-twee-jaar-kopen-we-weer-meer-in-de-winkelstraat.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301718,
     "slug": "teamsprinters-missen-wereldtitel-op-duizendsten-leerdam-kansloos-met-vrouwen",
     "type": "article",
     "title": "Teamsprinters missen wereldtitel op duizendsten, Leerdam kansloos met vrouwen",
     "subtitle": null,
     "published_at": "2024-02-16T00:09:37+01:00",
-    "updated_at": "2024-02-16T00:09:39+01:00",
+    "updated_at": "2024-02-16T00:24:05+01:00",
     "media_id": "v9fxha3a6rk0",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Roest maakt favorietenrol waar en schaatst naar nieuwe wereldtitel op 5 kilometer",
     "subtitle": null,
     "published_at": "2024-02-15T23:10:04+01:00",
-    "updated_at": "2024-02-15T23:34:08+01:00",
+    "updated_at": "2024-02-16T00:21:44+01:00",
     "media_id": "xsrxosjal84g",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6301682/verstappen-snapt-dat-andere-teams-red-bull-kopieren-bewezen-dat-we-snel-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301686,
-    "slug": "teambaas-verstappen-reageert-op-beschuldiging-wangedrag-ik-voel-veel-steun",
-    "type": "article",
-    "title": "Teambaas Verstappen reageert op beschuldiging wangedrag: 'Ik voel veel steun'",
-    "subtitle": null,
-    "published_at": "2024-02-15T21:00:31+01:00",
-    "updated_at": "2024-02-15T21:25:52+01:00",
-    "media_id": "s5oxfk6a7p9h",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6301686/teambaas-verstappen-reageert-op-beschuldiging-wangedrag-ik-voel-veel-steun.html",
     "open_new_window": false,
     "partner": null
   }
