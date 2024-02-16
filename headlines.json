@@ -1,5 +1,51 @@
 [
   {
+    "id": 6301866,
+    "slug": "live-eredivisie-psv-gaat-tegen-heracles-voor-goede-generale-richting-cl",
+    "type": "article",
+    "title": "Live Eredivisie | PSV gaat tegen Heracles voor goede generale richting CL",
+    "subtitle": null,
+    "published_at": "2024-02-16T19:26:23+01:00",
+    "updated_at": "2024-02-16T19:26:24+01:00",
+    "media_id": "bogxlk1a6wkl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6301866/live-eredivisie-psv-gaat-tegen-heracles-voor-goede-generale-richting-cl.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301865,
+    "slug": "team-navalny-heeft-geen-hoop-meer-dat-hij-nog-leeft-advocaat-bezoekt-strafkolonie",
+    "type": "article",
+    "title": "Team Navalny heeft geen hoop meer dat hij nog leeft, advocaat bezoekt strafkolonie",
+    "subtitle": null,
+    "published_at": "2024-02-16T19:24:41+01:00",
+    "updated_at": "2024-02-16T19:24:42+01:00",
+    "media_id": "6s6x4ehacmbt",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779362,
+      "slug": "overlijden-navalny",
+      "type": "default",
+      "name": "Overlijden Navalny",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/overlijden-navalny/6301865/team-navalny-heeft-geen-hoop-meer-dat-hij-nog-leeft-advocaat-bezoekt-strafkolonie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301864,
     "slug": "bedroefde-reacties-op-dood-navalny-we-hebben-een-vrijheidsstrijder-verloren",
     "type": "video",
@@ -29,7 +75,7 @@
     "title": "Prachtig gebaar Bologna: overleden coach Mihajlovic werd volledig doorbetaald",
     "subtitle": null,
     "published_at": "2024-02-16T19:06:35+01:00",
-    "updated_at": "2024-02-16T19:16:03+01:00",
+    "updated_at": "2024-02-16T19:22:04+01:00",
     "media_id": "x7gxhu6am1tu",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "PSV begint met Pepi tegen Heracles, zieke Bakayoko ontbreekt in selectie",
     "subtitle": null,
     "published_at": "2024-02-16T18:55:45+01:00",
-    "updated_at": "2024-02-16T19:15:55+01:00",
+    "updated_at": "2024-02-16T19:24:43+01:00",
     "media_id": "022xf8aad0af",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6301842/navalnys-vrouw-reageert-op-zijn-dood-ik-weet-niet-of-ik-het-moet-geloven.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301839,
-    "slug": "nederlands-palestijnse-fotograaf-sakir-khader-wint-zilveren-camera-2023",
-    "type": "article",
-    "title": "Nederlands-Palestijnse fotograaf Sakir Khader wint Zilveren Camera 2023",
-    "subtitle": null,
-    "published_at": "2024-02-16T17:09:27+01:00",
-    "updated_at": "2024-02-16T17:09:28+01:00",
-    "media_id": "vxvxw3naitw6",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6301839/nederlands-palestijnse-fotograaf-sakir-khader-wint-zilveren-camera-2023.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301834,
-    "slug": "weer-nederlands-zwemsucces-op-wk-na-steenbergen-pakt-ook-schouten-goud",
-    "type": "article",
-    "title": "Wéér Nederlands zwemsucces op WK: na Steenbergen pakt ook Schouten goud",
-    "subtitle": null,
-    "published_at": "2024-02-16T17:06:46+01:00",
-    "updated_at": "2024-02-16T19:01:03+01:00",
-    "media_id": "bx6xb9kamtcx",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6301834/weer-nederlands-zwemsucces-op-wk-na-steenbergen-pakt-ook-schouten-goud.html",
     "open_new_window": false,
     "partner": null
   }
