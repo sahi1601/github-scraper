@@ -1,5 +1,28 @@
 [
   {
+    "id": 6301797,
+    "slug": "ook-albert-heijn-en-andere-supers-roepen-chocoladekoekjes-terug-om-metaal",
+    "type": "article",
+    "title": "Ook Albert Heijn en andere supers roepen chocoladekoekjes terug om metaal",
+    "subtitle": null,
+    "published_at": "2024-02-16T14:29:02+01:00",
+    "updated_at": "2024-02-16T14:44:52+01:00",
+    "media_id": "z9dxjgyaf2nt",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6301797/ook-albert-heijn-en-andere-supers-roepen-chocoladekoekjes-terug-om-metaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301783,
     "slug": "schiphol-heeft-genoeg-personeel-reizigers-hoeven-geen-chaos-te-verwachten",
     "type": "article",
@@ -31,7 +54,7 @@
     "published_at": "2024-02-16T13:52:01+01:00",
     "updated_at": "2024-02-16T13:57:44+01:00",
     "media_id": "6s6x4ehacmbt",
-    "duration": "0:25",
+    "duration": "0:49",
     "canonical_section": {
       "id": 1772431,
       "slug": "videos",
@@ -52,7 +75,7 @@
     "title": "Navalny is niet de eerste Poetin-criticus die vroegtijdig overlijdt",
     "subtitle": "NU+",
     "published_at": "2024-02-16T13:50:59+01:00",
-    "updated_at": "2024-02-16T14:22:35+01:00",
+    "updated_at": "2024-02-16T14:26:18+01:00",
     "media_id": "051xazuads5c",
     "duration": null,
     "canonical_section": {
@@ -70,13 +93,13 @@
   },
   {
     "id": 6301787,
-    "slug": "liveblog-dood-navalny-premier-rutte-en-eu-houden-rusland-verantwoordelijk",
+    "slug": "liveblog-dood-navalny-moeder-hij-was-deze-week-nog-vrolijk-en-gezond",
     "type": "article",
-    "title": "Liveblog dood Navalny | Premier Rutte en EU houden Rusland verantwoordelijk",
+    "title": "Liveblog dood Navalny | Moeder: Hij was deze week nog vrolijk en gezond",
     "subtitle": null,
     "published_at": "2024-02-16T13:49:23+01:00",
-    "updated_at": "2024-02-16T14:02:55+01:00",
-    "media_id": "rpbxevoa7z12",
+    "updated_at": "2024-02-16T14:44:04+01:00",
+    "media_id": "lq0x78pavcht",
     "duration": null,
     "canonical_section": {
       "id": 1779362,
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/overlijden-navalny/6301787/liveblog-dood-navalny-premier-rutte-en-eu-houden-rusland-verantwoordelijk.html",
+    "url": "/overlijden-navalny/6301787/liveblog-dood-navalny-moeder-hij-was-deze-week-nog-vrolijk-en-gezond.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Reacties op dood Navalny: 'Rusland heeft ernstige vragen te beantwoorden'",
     "subtitle": null,
     "published_at": "2024-02-16T13:38:56+01:00",
-    "updated_at": "2024-02-16T14:20:35+01:00",
+    "updated_at": "2024-02-16T14:27:00+01:00",
     "media_id": "rjixxt9aepiy",
     "duration": null,
     "canonical_section": {
@@ -282,7 +305,7 @@
     "title": "Rusland meldt overlijden oppositieleider Alexei Navalny (47) in gevangenis",
     "subtitle": null,
     "published_at": "2024-02-16T12:27:23+01:00",
-    "updated_at": "2024-02-16T14:02:40+01:00",
+    "updated_at": "2024-02-16T14:27:37+01:00",
     "media_id": "c4exj6na4g0k",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6301739/patty-brard-ziet-andere-kant-van-zichzelf-in-patty-wat-was-ik-bijdehand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301758,
-    "slug": "inwoners-filmen-paarse-rookwolk-boven-chinese-stad",
-    "type": "video",
-    "title": "Inwoners filmen paarse rookwolk boven Chinese stad",
-    "subtitle": "Video",
-    "published_at": "2024-02-16T11:17:46+01:00",
-    "updated_at": "2024-02-16T11:32:55+01:00",
-    "media_id": "lvmxsecaiv0m",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6301758/inwoners-filmen-paarse-rookwolk-boven-chinese-stad.html",
     "open_new_window": false,
     "partner": null
   }
