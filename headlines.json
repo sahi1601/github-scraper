@@ -1,5 +1,28 @@
 [
   {
+    "id": 6301819,
+    "slug": "weekendweerbericht-prima-weer-om-eropuit-te-gaan-en-op-de-bank-te-hangen",
+    "type": "article",
+    "title": "Weekendweerbericht | Prima weer om eropuit te gaan én op de bank te hangen",
+    "subtitle": null,
+    "published_at": "2024-02-16T22:33:18+01:00",
+    "updated_at": "2024-02-16T22:33:20+01:00",
+    "media_id": "nqdxfk8akw2s",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6301819/weekendweerbericht-prima-weer-om-eropuit-te-gaan-en-op-de-bank-te-hangen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301880,
     "slug": "eeuwenoude-mammoetbotten-gevonden-tijdens-aanleg-metrolijn-in-brussel",
     "type": "article",
@@ -52,8 +75,8 @@
     "title": "Koploper Willem II wint topper van ADO, Roda ontsnapt door goals in blessuretijd",
     "subtitle": null,
     "published_at": "2024-02-16T22:03:49+01:00",
-    "updated_at": "2024-02-16T22:24:58+01:00",
-    "media_id": "4txxl48a8kcx",
+    "updated_at": "2024-02-16T22:31:26+01:00",
+    "media_id": "x6jx5v1a4bbk",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -75,7 +98,7 @@
     "title": "PSV boekt vier dagen voor CL-kraker tegen Dortmund zuinige zege op Heracles",
     "subtitle": null,
     "published_at": "2024-02-16T21:55:26+01:00",
-    "updated_at": "2024-02-16T22:21:44+01:00",
+    "updated_at": "2024-02-16T22:42:44+01:00",
     "media_id": "g6bxhpdabc4p",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6301877,
-    "slug": "icj-verwerpt-verzoek-zuid-afrika-om-verbod-op-offensief-in-rafah",
+    "slug": "icj-verwerpt-verzoek-zuid-afrika-om-verbod-op-israelisch-offensief-in-rafah",
     "type": "article",
-    "title": "ICJ verwerpt verzoek Zuid-Afrika om verbod op offensief in Rafah",
+    "title": "ICJ verwerpt verzoek Zuid-Afrika om verbod op Israëlisch offensief in Rafah",
     "subtitle": null,
     "published_at": "2024-02-16T21:49:22+01:00",
-    "updated_at": "2024-02-16T21:49:23+01:00",
+    "updated_at": "2024-02-16T22:25:23+01:00",
     "media_id": "wrexycxa6e01",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/midden-oostenconflict/6301877/icj-verwerpt-verzoek-zuid-afrika-om-verbod-op-offensief-in-rafah.html",
+    "url": "/midden-oostenconflict/6301877/icj-verwerpt-verzoek-zuid-afrika-om-verbod-op-israelisch-offensief-in-rafah.html",
     "open_new_window": false,
     "partner": null
   },
@@ -121,7 +144,7 @@
     "title": "Toekomstig motorleverancier Ford volgt onderzoek naar teambaas Verstappen",
     "subtitle": null,
     "published_at": "2024-02-16T21:27:59+01:00",
-    "updated_at": "2024-02-16T21:46:34+01:00",
+    "updated_at": "2024-02-16T22:34:29+01:00",
     "media_id": "p3nxa2iaq9da",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/overlijden-navalny/6301865/team-navalny-heeft-geen-hoop-meer-dat-hij-leeft-advocaat-bezoekt-strafkolonie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301864,
-    "slug": "bedroefde-reacties-op-dood-navalny-we-hebben-een-vrijheidsstrijder-verloren",
-    "type": "video",
-    "title": "Bedroefde reacties op dood Navalny: 'We hebben een vrijheidsstrijder verloren'",
-    "subtitle": "Video",
-    "published_at": "2024-02-16T19:13:27+01:00",
-    "updated_at": "2024-02-16T19:13:28+01:00",
-    "media_id": "68vxi7oavhd8",
-    "duration": "1:26",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6301864/bedroefde-reacties-op-dood-navalny-we-hebben-een-vrijheidsstrijder-verloren.html",
     "open_new_window": false,
     "partner": null
   }
