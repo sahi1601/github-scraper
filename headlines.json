@@ -1,5 +1,51 @@
 [
   {
+    "id": 6301959,
+    "slug": "xavi-simons-maakt-wederom-wonderschoon-doelpunt-voor-rb-leipzig",
+    "type": "video",
+    "title": "Xavi Simons maakt wederom wonderschoon doelpunt voor RB Leipzig",
+    "subtitle": "Video",
+    "published_at": "2024-02-17T19:21:55+01:00",
+    "updated_at": "2024-02-17T19:21:57+01:00",
+    "media_id": "036xy2pa725n",
+    "duration": "1:25",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6301959/xavi-simons-maakt-wederom-wonderschoon-doelpunt-voor-rb-leipzig.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6301958,
+    "slug": "politie-grijpt-in-met-traangas-bij-rellen-tussen-groepen-eritreeers-in-den-haag",
+    "type": "article",
+    "title": "Politie grijpt in met traangas bij rellen tussen groepen Eritreeërs in Den Haag",
+    "subtitle": null,
+    "published_at": "2024-02-17T19:21:22+01:00",
+    "updated_at": "2024-02-17T19:21:32+01:00",
+    "media_id": "cl0xyykat5yw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6301958/politie-grijpt-in-met-traangas-bij-rellen-tussen-groepen-eritreeers-in-den-haag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301646,
     "slug": "ben-saddik-stelt-fans-teleur-en-bedankt-voor-toernooi-met-verhoeven-in-arnhem",
     "type": "article",
@@ -24,12 +70,12 @@
   },
   {
     "id": 6301953,
-    "slug": "live-eredivisie-zwalkend-az-komt-ook-tegen-fortuna-op-achterstand",
+    "slug": "live-eredivisie-dolend-az-op-achterstand-al-vier-goals-in-rotterdamse-derby",
     "type": "article",
-    "title": "Live Eredivisie | Zwalkend AZ komt ook tegen Fortuna op achterstand",
+    "title": "Live Eredivisie | Dolend AZ op achterstand, al vier goals in Rotterdamse derby",
     "subtitle": null,
     "published_at": "2024-02-17T18:19:55+01:00",
-    "updated_at": "2024-02-17T19:08:24+01:00",
+    "updated_at": "2024-02-17T19:18:09+01:00",
     "media_id": "o5pxqg0aa3cd",
     "duration": null,
     "canonical_section": {
@@ -41,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6301953/live-eredivisie-zwalkend-az-komt-ook-tegen-fortuna-op-achterstand.html",
+    "url": "/voetbal/6301953/live-eredivisie-dolend-az-op-achterstand-al-vier-goals-in-rotterdamse-derby.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +121,7 @@
     "title": "Korstanje grijpt ondanks puike start net naast WK-medaille op 100 meter vlinder",
     "subtitle": null,
     "published_at": "2024-02-17T18:01:12+01:00",
-    "updated_at": "2024-02-17T19:14:11+01:00",
+    "updated_at": "2024-02-17T19:17:53+01:00",
     "media_id": "ypkxw7na2xne",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6301941/flekken-krijgt-prachtig-lobje-en-goal-gakpo-om-de-oren-bij-dikke-zege-liverpool.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301940,
-    "slug": "miedema-valt-week-voor-cruciale-oranje-interland-in-slotfase-in-bij-zege-arsenal",
-    "type": "article",
-    "title": "Miedema valt week voor cruciale Oranje-interland in slotfase in bij zege Arsenal",
-    "subtitle": null,
-    "published_at": "2024-02-17T15:31:05+01:00",
-    "updated_at": "2024-02-17T16:20:02+01:00",
-    "media_id": "gbsxysaaik0g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6301940/miedema-valt-week-voor-cruciale-oranje-interland-in-slotfase-in-bij-zege-arsenal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301939,
-    "slug": "drietal-opgepakt-na-vondst-drugslab-in-rijsenhout",
-    "type": "video",
-    "title": "Drietal opgepakt na vondst drugslab in Rijsenhout",
-    "subtitle": "Video",
-    "published_at": "2024-02-17T15:27:24+01:00",
-    "updated_at": "2024-02-17T15:28:07+01:00",
-    "media_id": "5q8xct9aogxs",
-    "duration": "0:46",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6301939/drietal-opgepakt-na-vondst-drugslab-in-rijsenhout.html",
     "open_new_window": false,
     "partner": null
   }
