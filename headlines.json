@@ -1,5 +1,28 @@
 [
   {
+    "id": 6301977,
+    "slug": "nuis-pakt-drie-weken-na-val-wk-brons-op-1000-meter-weer-goud-voor-stolz",
+    "type": "article",
+    "title": "Nuis pakt drie weken na val WK-brons op 1.000 meter, weer goud voor Stolz",
+    "subtitle": null,
+    "published_at": "2024-02-17T23:26:36+01:00",
+    "updated_at": "2024-02-17T23:26:37+01:00",
+    "media_id": "ysxx0dwac4oa",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6301977/nuis-pakt-drie-weken-na-val-wk-brons-op-1000-meter-weer-goud-voor-stolz.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301975,
     "slug": "go-ahead-wint-bij-heerenveen-almere-lijkt-hard-op-weg-naar-handhaving",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Geschokte reacties op rellen Eritreeërs in Den Haag: 'Te idioot voor woorden'",
     "subtitle": null,
     "published_at": "2024-02-17T22:15:42+01:00",
-    "updated_at": "2024-02-17T22:26:30+01:00",
+    "updated_at": "2024-02-17T23:21:11+01:00",
     "media_id": "1btxteea4dxh",
     "duration": null,
     "canonical_section": {
@@ -277,13 +300,13 @@
   },
   {
     "id": 6301961,
-    "slug": "voormalig-fortuna-speler-noslin-brengt-juventus-nog-meer-schade-toe-in-titelstrijd",
+    "slug": "hoofdrol-voor-koopmeiners-en-bakker-bij-fraaie-zege-van-atalanta-op-sassuolo",
     "type": "article",
-    "title": "Voormalig Fortuna-speler Noslin brengt Juventus nog meer schade toe in titelstrijd",
+    "title": "Hoofdrol voor Koopmeiners en Bakker bij fraaie zege van Atalanta op Sassuolo",
     "subtitle": null,
     "published_at": "2024-02-17T19:58:46+01:00",
-    "updated_at": "2024-02-17T20:02:19+01:00",
-    "media_id": "gw6xsg2a57rp",
+    "updated_at": "2024-02-17T23:25:46+01:00",
+    "media_id": "z9dxpx2aov37",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -294,19 +317,19 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6301961/voormalig-fortuna-speler-noslin-brengt-juventus-nog-meer-schade-toe-in-titelstrijd.html",
+    "url": "/voetbal/6301961/hoofdrol-voor-koopmeiners-en-bakker-bij-fraaie-zege-van-atalanta-op-sassuolo.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6301957,
-    "slug": "live-schaatsen-wonderkind-stolz-gaat-voor-vijfde-wereldtitel-in-carriere",
+    "slug": "live-schaatsen-massastart-finale-vormt-sluitstuk-van-derde-dag-wk-afstanden",
     "type": "article",
-    "title": "Live schaatsen | Wonderkind Stolz gaat voor vijfde wereldtitel in carrière",
+    "title": "Live schaatsen | Massastart finale vormt sluitstuk van derde dag WK afstanden",
     "subtitle": null,
     "published_at": "2024-02-17T19:58:00+01:00",
-    "updated_at": "2024-02-17T23:00:51+01:00",
-    "media_id": "i4fxkaxaema1",
+    "updated_at": "2024-02-17T23:24:24+01:00",
+    "media_id": "9paxhqmalc30",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -317,7 +340,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6301957/live-schaatsen-wonderkind-stolz-gaat-voor-vijfde-wereldtitel-in-carriere.html",
+    "url": "/schaatsen/6301957/live-schaatsen-massastart-finale-vormt-sluitstuk-van-derde-dag-wk-afstanden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6301953/live-eredivisie-reacties-na-zeges-go-ahead-en-almere-city.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301586,
-    "slug": "de-beste-kleine-smartphones",
-    "type": "article",
-    "title": "De beste kleine smartphones",
-    "subtitle": "NU+",
-    "published_at": "2024-02-17T18:16:02+01:00",
-    "updated_at": "2024-02-17T18:16:04+01:00",
-    "media_id": "0obxxkaa9caa",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779328,
-      "slug": "slimmer-leven",
-      "type": "default",
-      "name": "Slimmer leven",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/slimmer-leven/6301586/de-beste-kleine-smartphones.html",
     "open_new_window": false,
     "partner": null
   }
