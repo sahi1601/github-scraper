@@ -1,12 +1,35 @@
 [
   {
+    "id": 6301969,
+    "slug": "bosker-kan-hoolwerf-niet-helpen-bij-massastart-wk-na-slechte-halve-finale",
+    "type": "article",
+    "title": "Bosker kan Hoolwerf niet helpen bij massastart WK na slechte halve finale",
+    "subtitle": null,
+    "published_at": "2024-02-17T21:42:53+01:00",
+    "updated_at": "2024-02-17T21:44:05+01:00",
+    "media_id": "g83xftlakg79",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6301969/bosker-kan-hoolwerf-niet-helpen-bij-massastart-wk-na-slechte-halve-finale.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301968,
     "slug": "griekspoor-verliest-kansloos-van-topfavoriet-sinner-en-mist-weer-finale-in-ahoy",
     "type": "article",
     "title": "Griekspoor verliest kansloos van topfavoriet Sinner en mist wéér finale in Ahoy",
     "subtitle": null,
     "published_at": "2024-02-17T21:02:52+01:00",
-    "updated_at": "2024-02-17T21:21:54+01:00",
+    "updated_at": "2024-02-17T21:33:20+01:00",
     "media_id": "0jnxwp4anl3y",
     "duration": null,
     "canonical_section": {
@@ -162,13 +185,13 @@
   },
   {
     "id": 6301957,
-    "slug": "live-schaatsen-mannen-strijden-voor-finale-massastart-aftellen-naar-leerdam",
+    "slug": "live-schaatsen-leerdam-gaat-in-calgary-voor-derde-wereldtitel-1000-meter",
     "type": "article",
-    "title": "Live schaatsen | Mannen strijden voor finale massastart, aftellen naar Leerdam",
+    "title": "Live schaatsen | Leerdam gaat in Calgary voor derde wereldtitel 1.000 meter",
     "subtitle": null,
     "published_at": "2024-02-17T19:58:00+01:00",
-    "updated_at": "2024-02-17T21:03:54+01:00",
-    "media_id": "9zzxlk8as9hl",
+    "updated_at": "2024-02-17T21:43:48+01:00",
+    "media_id": "i58xz1cantmd",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -179,7 +202,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6301957/live-schaatsen-mannen-strijden-voor-finale-massastart-aftellen-naar-leerdam.html",
+    "url": "/schaatsen/6301957/live-schaatsen-leerdam-gaat-in-calgary-voor-derde-wereldtitel-1000-meter.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6301950/evenepoel-deelt-van-aert-en-concurrentie-dreun-uit-in-tijdrit-ronde-van-algarve.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301949,
-    "slug": "de-minaur-walst-over-oud-winnaar-dimitrov-heen-en-is-eerste-finalist-in-ahoy",
-    "type": "article",
-    "title": "De Minaur walst over oud-winnaar Dimitrov heen en is eerste finalist in Ahoy",
-    "subtitle": null,
-    "published_at": "2024-02-17T16:41:54+01:00",
-    "updated_at": "2024-02-17T21:06:25+01:00",
-    "media_id": "6q9xy9zarnk0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6301949/de-minaur-walst-over-oud-winnaar-dimitrov-heen-en-is-eerste-finalist-in-ahoy.html",
     "open_new_window": false,
     "partner": null
   }
