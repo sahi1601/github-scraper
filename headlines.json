@@ -1,12 +1,35 @@
 [
   {
+    "id": 6301935,
+    "slug": "russische-politie-pakt-navalny-sympathisanten-hardhandig-aan",
+    "type": "video",
+    "title": "Russische politie pakt Navalny-sympathisanten hardhandig aan",
+    "subtitle": "Video",
+    "published_at": "2024-02-17T14:15:51+01:00",
+    "updated_at": "2024-02-17T14:19:55+01:00",
+    "media_id": "04kxri6adly2",
+    "duration": "0:47",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6301935/russische-politie-pakt-navalny-sympathisanten-hardhandig-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301932,
-    "slug": "drugslab-aangetroffen-in-rijsenhout-drie-personen-aangehouden",
+    "slug": "drugslab-aangetroffen-op-terrein-in-rijsenhout-waar-legale-wietkwekerij-komt",
     "type": "article",
-    "title": "Drugslab aangetroffen in Rijsenhout, drie personen aangehouden",
+    "title": "Drugslab aangetroffen op terrein in Rijsenhout waar legale wietkwekerij komt",
     "subtitle": null,
     "published_at": "2024-02-17T14:09:47+01:00",
-    "updated_at": "2024-02-17T14:09:48+01:00",
+    "updated_at": "2024-02-17T14:21:19+01:00",
     "media_id": "vy9xlrhaf31f",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6301932/drugslab-aangetroffen-in-rijsenhout-drie-personen-aangehouden.html",
+    "url": "/binnenland/6301932/drugslab-aangetroffen-op-terrein-in-rijsenhout-waar-legale-wietkwekerij-komt.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,8 +121,8 @@
     "title": "Strafkamp waar Navalny vastzat is een van de beruchtste van Rusland",
     "subtitle": "NU+",
     "published_at": "2024-02-17T13:20:53+01:00",
-    "updated_at": "2024-02-17T14:07:50+01:00",
-    "media_id": "gf5x1qrajeo8",
+    "updated_at": "2024-02-17T14:16:07+01:00",
+    "media_id": "sp1xytdaukon",
     "duration": null,
     "canonical_section": {
       "id": 1779362,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6301909/amerikaans-huis-ligt-in-stukken-op-straat-na-heftige-explosie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301902,
-    "slug": "nintendo-switch-2-komt-later-uit-op-zn-vroegst-in-maart-2025",
-    "type": "article",
-    "title": "Nintendo Switch 2 komt later uit: 'op z'n vroegst' in maart 2025",
-    "subtitle": null,
-    "published_at": "2024-02-17T10:08:01+01:00",
-    "updated_at": "2024-02-17T10:34:30+01:00",
-    "media_id": "fuwxttsaj1me",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6301902/nintendo-switch-2-komt-later-uit-op-zn-vroegst-in-maart-2025.html",
     "open_new_window": false,
     "partner": null
   }
