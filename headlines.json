@@ -1,12 +1,35 @@
 [
   {
+    "id": 6301831,
+    "slug": "goed-nieuws-deze-week-grieks-huwelijk-open-voor-koppel-gelijk-geslacht",
+    "type": "article",
+    "title": "Goed nieuws deze week: Grieks huwelijk open voor koppel gelijk geslacht",
+    "subtitle": null,
+    "published_at": "2024-02-18T17:33:29+01:00",
+    "updated_at": "2024-02-18T17:44:34+01:00",
+    "media_id": "x9oxb5jaemmj",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779220,
+      "slug": "goed-nieuws",
+      "type": "default",
+      "name": "Goed nieuws",
+      "style": "nuoverig",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/goed-nieuws/6301831/goed-nieuws-deze-week-grieks-huwelijk-open-voor-koppel-gelijk-geslacht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302034,
     "slug": "van-t-schip-ziet-gebrek-aan-ervaring-vertrouwen-en-kwaliteit-bij-ajax",
     "type": "article",
     "title": "Van 't Schip ziet gebrek aan ervaring, vertrouwen en kwaliteit bij Ajax",
     "subtitle": null,
     "published_at": "2024-02-18T17:23:10+01:00",
-    "updated_at": "2024-02-18T17:30:26+01:00",
+    "updated_at": "2024-02-18T17:43:13+01:00",
     "media_id": "w3cxqgragw0b",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6302018,
-    "slug": "ajax-beleeft-opnieuw-dramatisch-eredivisie-weekend-door-gelijkspel-tegen-nec",
+    "slug": "ajax-krijgt-nieuwe-tik-in-eredivisie-door-late-gelijkmaker-nec",
     "type": "article",
-    "title": "Ajax beleeft opnieuw dramatisch Eredivisie-weekend door gelijkspel tegen NEC",
+    "title": "Ajax krijgt nieuwe tik in Eredivisie door late gelijkmaker NEC",
     "subtitle": null,
     "published_at": "2024-02-18T16:28:13+01:00",
-    "updated_at": "2024-02-18T17:28:28+01:00",
+    "updated_at": "2024-02-18T17:37:53+01:00",
     "media_id": "zxlxc8badwk6",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6302018/ajax-beleeft-opnieuw-dramatisch-eredivisie-weekend-door-gelijkspel-tegen-nec.html",
+    "url": "/voetbal/6302018/ajax-krijgt-nieuwe-tik-in-eredivisie-door-late-gelijkmaker-nec.html",
     "open_new_window": false,
     "partner": null
   },
@@ -98,8 +121,8 @@
     "title": "Degradatiezorgen Vitesse en FC Volendam houden aan door gelijkspel",
     "subtitle": null,
     "published_at": "2024-02-18T16:24:04+01:00",
-    "updated_at": "2024-02-18T17:21:57+01:00",
-    "media_id": "pukx4gea9k29",
+    "updated_at": "2024-02-18T17:42:40+01:00",
+    "media_id": "ik1xicna2seg",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -190,7 +213,7 @@
     "title": "Schulting valt in halve finales van 1.000 meter in Gdansk, goud voor Velzeboer",
     "subtitle": null,
     "published_at": "2024-02-18T15:42:56+01:00",
-    "updated_at": "2024-02-18T17:17:28+01:00",
+    "updated_at": "2024-02-18T17:30:47+01:00",
     "media_id": "gc3xjsmacbe7",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tennis/6302017/koolhof-wint-met-mektic-in-afscheidsjaar-eindelijk-dubbeltitel-abn-amro-open.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302016,
-    "slug": "puntenverlies-koploper-real-madrid-zirkzee-volleert-bologna-naar-zege-bij-lazio",
-    "type": "article",
-    "title": "Puntenverlies koploper Real Madrid, Zirkzee volleert Bologna naar zege bij Lazio",
-    "subtitle": null,
-    "published_at": "2024-02-18T14:31:30+01:00",
-    "updated_at": "2024-02-18T17:05:35+01:00",
-    "media_id": "lowx9odax2dh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6302016/puntenverlies-koploper-real-madrid-zirkzee-volleert-bologna-naar-zege-bij-lazio.html",
     "open_new_window": false,
     "partner": null
   }
