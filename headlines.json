@@ -1,5 +1,28 @@
 [
   {
+    "id": 6302150,
+    "slug": "marineschepen-vertrekken-voor-navo-oefening-moeten-er-klaar-voor-zijn",
+    "type": "video",
+    "title": "Marineschepen vertrekken voor NAVO-oefening: 'Moeten er klaar voor zijn'",
+    "subtitle": "Video",
+    "published_at": "2024-02-19T16:20:29+01:00",
+    "updated_at": "2024-02-19T16:20:30+01:00",
+    "media_id": "aw0x7k7a2oph",
+    "duration": "1:56",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6302150/marineschepen-vertrekken-voor-navo-oefening-moeten-er-klaar-voor-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302142,
     "slug": "wat-doet-een-navo-baas-vier-vragen-over-ruttes-sollicitatie",
     "type": "article",
@@ -47,12 +70,12 @@
   },
   {
     "id": 6302146,
-    "slug": "drievoudig-olympisch-kampioen-irene-schouten-31-stopt-met-schaatsen",
+    "slug": "drievoudig-olympisch-kampioen-irene-schouten-31-stopt-verrassend-met-schaatsen",
     "type": "article",
-    "title": "Drievoudig olympisch kampioen Irene Schouten (31) stopt met schaatsen",
+    "title": "Drievoudig olympisch kampioen Irene Schouten (31) stopt verrassend met schaatsen",
     "subtitle": null,
     "published_at": "2024-02-19T16:06:21+01:00",
-    "updated_at": "2024-02-19T16:13:41+01:00",
+    "updated_at": "2024-02-19T16:22:41+01:00",
     "media_id": "urzxr5zalv3k",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6302146/drievoudig-olympisch-kampioen-irene-schouten-31-stopt-met-schaatsen.html",
+    "url": "/schaatsen/6302146/drievoudig-olympisch-kampioen-irene-schouten-31-stopt-verrassend-met-schaatsen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6302124/de-kleijn-grijpt-in-uae-tour-net-naast-eerste-world-tour-zege-jakobsen-vierde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302027,
-    "slug": "mijn-werkgever-doet-genoeg-om-grensoverschrijdend-gedrag-te-voorkomen",
-    "type": "article",
-    "title": "'Mijn werkgever doet genoeg om grensoverschrijdend gedrag te voorkomen'",
-    "subtitle": "Lezersstelling",
-    "published_at": "2024-02-19T13:08:18+01:00",
-    "updated_at": "2024-02-19T13:53:04+01:00",
-    "media_id": "kakxyvtal51d",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779134,
-      "slug": "stelling",
-      "type": "default",
-      "name": "Stelling en Praat Mee",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/stelling/6302027/mijn-werkgever-doet-genoeg-om-grensoverschrijdend-gedrag-te-voorkomen.html",
     "open_new_window": false,
     "partner": null
   }
