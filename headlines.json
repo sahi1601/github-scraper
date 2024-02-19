@@ -1,12 +1,35 @@
 [
   {
+    "id": 6302180,
+    "slug": "vluchten-geannuleerd-wegens-grote-staking-lufthansa",
+    "type": "article",
+    "title": "Vluchten geannuleerd wegens grote staking Lufthansa",
+    "subtitle": null,
+    "published_at": "2024-02-19T22:51:54+01:00",
+    "updated_at": "2024-02-19T22:51:55+01:00",
+    "media_id": "4y0xv2yak2w7",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6302180/vluchten-geannuleerd-wegens-grote-staking-lufthansa.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302179,
     "slug": "napoli-ontslaat-trainer-twee-dagen-voor-champions-league-duel-met-barcelona",
     "type": "article",
     "title": "Napoli ontslaat trainer twee dagen voor Champions League-duel met Barcelona",
     "subtitle": null,
     "published_at": "2024-02-19T22:30:08+01:00",
-    "updated_at": "2024-02-19T22:37:17+01:00",
+    "updated_at": "2024-02-19T22:46:27+01:00",
     "media_id": "l4jx2wra9691",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Bioscoop in Leiden ontruimd wegens gaslucht, eerder al lek in zelfde straat",
     "subtitle": null,
     "published_at": "2024-02-19T22:19:55+01:00",
-    "updated_at": "2024-02-19T22:45:17+01:00",
+    "updated_at": "2024-02-19T23:06:46+01:00",
     "media_id": "yrrxzqbamtxt",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6302161/oudste-premier-league-manager-ooit-hodgson-76-stopt-bij-crystal-palace.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302159,
-    "slug": "acteur-jeremy-renner-voor-het-eerst-op-podium-na-ongeluk-met-sneeuwschuiver",
-    "type": "article",
-    "title": "Acteur Jeremy Renner voor het eerst op podium na ongeluk met sneeuwschuiver",
-    "subtitle": null,
-    "published_at": "2024-02-19T17:28:53+01:00",
-    "updated_at": "2024-02-19T18:13:08+01:00",
-    "media_id": "5ftxd1paw81n",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6302159/acteur-jeremy-renner-voor-het-eerst-op-podium-na-ongeluk-met-sneeuwschuiver.html",
     "open_new_window": false,
     "partner": null
   }
