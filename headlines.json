@@ -1,5 +1,28 @@
 [
   {
+    "id": 6301617,
+    "slug": "studenten-moeten-langer-ingeschreven-staan-voor-kamer-dan-hun-studie-duurt",
+    "type": "article",
+    "title": "Studenten moeten langer ingeschreven staan voor kamer dan hun studie duurt",
+    "subtitle": null,
+    "published_at": "2024-02-19T04:56:15+01:00",
+    "updated_at": "2024-02-19T04:56:16+01:00",
+    "media_id": "0ngxtr8aw01p",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6301617/studenten-moeten-langer-ingeschreven-staan-voor-kamer-dan-hun-studie-duurt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302063,
     "slug": "nuis-pakt-weer-wk-zilver-op-1500-meter-en-ziet-stolz-opnieuw-hattrick-voltooien",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/entertainment/6302044/nederlandse-cameraman-hoyte-van-hoytema-wint-bafta-voor-oppenheimer.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302042,
-    "slug": "nederlandse-estafettezwemmers-pakken-in-recordtijd-historisch-zilver-op-wk",
-    "type": "article",
-    "title": "Nederlandse estafettezwemmers pakken in recordtijd historisch zilver op WK",
-    "subtitle": null,
-    "published_at": "2024-02-18T18:56:12+01:00",
-    "updated_at": "2024-02-18T21:55:44+01:00",
-    "media_id": "rvsx19maehl0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772456,
-      "slug": "sport-overig",
-      "type": "default",
-      "name": "Sport Overig",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/sport-overig/6302042/nederlandse-estafettezwemmers-pakken-in-recordtijd-historisch-zilver-op-wk.html",
     "open_new_window": false,
     "partner": null
   }
