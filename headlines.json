@@ -1,5 +1,51 @@
 [
   {
+    "id": 6302066,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-02-19T05:25:51+01:00",
+    "updated_at": "2024-02-19T05:25:53+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6302066/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302065,
+    "slug": "weerbericht-na-een-kletsnatte-zondag-wordt-het-maandag-iets-droger",
+    "type": "article",
+    "title": "Weerbericht | Na een kletsnatte zondag wordt het maandag iets droger",
+    "subtitle": null,
+    "published_at": "2024-02-19T05:20:13+01:00",
+    "updated_at": "2024-02-19T05:20:14+01:00",
+    "media_id": "s6lx6qkap13q",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6302065/weerbericht-na-een-kletsnatte-zondag-wordt-het-maandag-iets-droger.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6301617,
     "slug": "studenten-moeten-langer-ingeschreven-staan-voor-kamer-dan-hun-studie-duurt",
     "type": "article",
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6302045/uitblinker-hjlund-leidt-manchester-united-van-ten-hag-ook-langs-luton-town.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302041,
-    "slug": "live-schaatsen-reacties-na-weer-een-wereldtitel-voor-stolz-op-1500-meter",
-    "type": "article",
-    "title": "Live schaatsen | Reacties na wéér een wereldtitel voor Stolz op 1.500 meter",
-    "subtitle": null,
-    "published_at": "2024-02-18T19:27:57+01:00",
-    "updated_at": "2024-02-19T01:01:48+01:00",
-    "media_id": "l5extgcauci2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6302041/live-schaatsen-reacties-na-weer-een-wereldtitel-voor-stolz-op-1500-meter.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302044,
-    "slug": "nederlandse-cameraman-hoyte-van-hoytema-wint-bafta-voor-oppenheimer",
-    "type": "article",
-    "title": "Nederlandse cameraman Hoyte van Hoytema wint BAFTA voor Oppenheimer",
-    "subtitle": null,
-    "published_at": "2024-02-18T19:08:53+01:00",
-    "updated_at": "2024-02-18T21:30:09+01:00",
-    "media_id": "kw3xbozal83q",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6302044/nederlandse-cameraman-hoyte-van-hoytema-wint-bafta-voor-oppenheimer.html",
     "open_new_window": false,
     "partner": null
   }
