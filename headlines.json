@@ -1,5 +1,28 @@
 [
   {
+    "id": 6302326,
+    "slug": "gasverbruik-in-europa-met-20-procent-verlaagd-sinds-oorlog-in-oekraine",
+    "type": "article",
+    "title": "Gasverbruik in Europa met 20 procent verlaagd sinds oorlog in Oekraïne",
+    "subtitle": null,
+    "published_at": "2024-02-21T07:20:32+01:00",
+    "updated_at": "2024-02-21T07:20:33+01:00",
+    "media_id": "si6x3lqa2uwm",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6302326/gasverbruik-in-europa-met-20-procent-verlaagd-sinds-oorlog-in-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302325,
     "slug": "alcaraz-moet-al-na-twee-games-opgeven-in-eerste-ronde-rio-de-janeiro",
     "type": "article",
@@ -167,7 +190,7 @@
     "title": "PSV met borst vooruit naar Dortmund voor CL-return: '80.000 fans stil krijgen'",
     "subtitle": null,
     "published_at": "2024-02-21T06:26:49+01:00",
-    "updated_at": "2024-02-21T07:02:23+01:00",
+    "updated_at": "2024-02-21T07:20:22+01:00",
     "media_id": "d9yx9c5a4uep",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6302312/spotgoedkope-benzine-leidt-tot-topdrukte-bij-gelders-tankstation.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302311,
-    "slug": "de-jong-maakt-belangrijke-gelijkmaker-tegen-dortmund",
-    "type": "video",
-    "title": "De Jong maakt belangrijke gelijkmaker tegen Dortmund",
-    "subtitle": "Video",
-    "published_at": "2024-02-20T22:39:15+01:00",
-    "updated_at": "2024-02-20T22:39:16+01:00",
-    "media_id": "uvixvmcabl8n",
-    "duration": "1:51",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6302311/de-jong-maakt-belangrijke-gelijkmaker-tegen-dortmund.html",
     "open_new_window": false,
     "partner": null
   }
