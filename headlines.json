@@ -1,5 +1,28 @@
 [
   {
+    "id": 6302410,
+    "slug": "politie-ontving-zeventig-tips-over-rellen-tussen-eritreeers-in-den-haag",
+    "type": "article",
+    "title": "Politie ontving zeventig tips over rellen tussen Eritreeërs in Den Haag",
+    "subtitle": null,
+    "published_at": "2024-02-21T15:15:47+01:00",
+    "updated_at": "2024-02-21T15:16:33+01:00",
+    "media_id": "r3rx858aq1us",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6302410/politie-ontving-zeventig-tips-over-rellen-tussen-eritreeers-in-den-haag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302402,
     "slug": "duitsland-verwacht-veel-lagere-economische-groei-in-2024",
     "type": "article",
@@ -75,7 +98,7 @@
     "title": "Waarschijnlijk iemand overleden na aanvaring schip met boorplatform in Botlek",
     "subtitle": null,
     "published_at": "2024-02-21T14:56:17+01:00",
-    "updated_at": "2024-02-21T15:05:31+01:00",
+    "updated_at": "2024-02-21T15:16:23+01:00",
     "media_id": "80jxsq4ainj3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6302148/bos-gaat-voor-unieke-skeletontitel-in-haar-winterberg-heb-thuisvoordeel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6301624,
-    "slug": "eefje-de-visser-vond-na-geboorte-van-zoon-meer-tijd-voor-nieuwe-muziek",
-    "type": "article",
-    "title": "Eefje de Visser vond na geboorte van zoon méér tijd voor nieuwe muziek",
-    "subtitle": "NU+",
-    "published_at": "2024-02-21T12:25:41+01:00",
-    "updated_at": "2024-02-21T14:56:25+01:00",
-    "media_id": "ttkxkgjaw6oc",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6301624/eefje-de-visser-vond-na-geboorte-van-zoon-meer-tijd-voor-nieuwe-muziek.html",
     "open_new_window": false,
     "partner": null
   }
