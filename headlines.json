@@ -1,5 +1,51 @@
 [
   {
+    "id": 6301624,
+    "slug": "eefje-de-visser-vond-na-geboorte-van-zoon-meer-tijd-voor-nieuwe-muziek",
+    "type": "article",
+    "title": "Eefje de Visser vond na geboorte van zoon méér tijd voor nieuwe muziek",
+    "subtitle": "NU+",
+    "published_at": "2024-02-21T12:25:41+01:00",
+    "updated_at": "2024-02-21T12:25:42+01:00",
+    "media_id": "ttkxkgjaw6oc",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6301624/eefje-de-visser-vond-na-geboorte-van-zoon-meer-tijd-voor-nieuwe-muziek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302383,
+    "slug": "verstappen-goed-begonnen-aan-wintertests-problemen-bij-mercedes",
+    "type": "article",
+    "title": "Verstappen goed begonnen aan wintertests, problemen bij Mercedes",
+    "subtitle": null,
+    "published_at": "2024-02-21T12:12:55+01:00",
+    "updated_at": "2024-02-21T12:12:57+01:00",
+    "media_id": "3qvxt5sai4ss",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6302383/verstappen-goed-begonnen-aan-wintertests-problemen-bij-mercedes.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302386,
     "slug": "brug-in-aanbouw-ingestort-in-lochem-waarschijnlijk-knapte-een-kabel",
     "type": "video",
@@ -52,7 +98,7 @@
     "title": "Deel van brug in aanbouw in Lochem ingestort, meerdere mensen bekneld",
     "subtitle": null,
     "published_at": "2024-02-21T11:50:50+01:00",
-    "updated_at": "2024-02-21T12:11:21+01:00",
+    "updated_at": "2024-02-21T12:24:55+01:00",
     "media_id": "szpxgcvaf0ri",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/het-woord/6302339/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302330,
-    "slug": "beyonce-eerste-zwarte-vrouw-op-een-in-amerikaanse-countryhitlijst",
-    "type": "article",
-    "title": "Beyoncé eerste zwarte vrouw op één in Amerikaanse countryhitlijst",
-    "subtitle": null,
-    "published_at": "2024-02-21T08:33:50+01:00",
-    "updated_at": "2024-02-21T08:33:56+01:00",
-    "media_id": "prpxx0tahh6i",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6302330/beyonce-eerste-zwarte-vrouw-op-een-in-amerikaanse-countryhitlijst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302332,
-    "slug": "wachtrij-voor-stroomnet-wordt-langer-en-langer-ook-scholen-zijn-de-dupe",
-    "type": "article",
-    "title": "Wachtrij voor stroomnet wordt langer en langer, ook scholen zijn de dupe",
-    "subtitle": null,
-    "published_at": "2024-02-21T08:17:14+01:00",
-    "updated_at": "2024-02-21T10:39:42+01:00",
-    "media_id": "mi3xo3qaaizl",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6302332/wachtrij-voor-stroomnet-wordt-langer-en-langer-ook-scholen-zijn-de-dupe.html",
     "open_new_window": false,
     "partner": null
   }
