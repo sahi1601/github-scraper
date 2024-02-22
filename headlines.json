@@ -1,12 +1,58 @@
 [
   {
+    "id": 6302462,
+    "slug": "seksueel-misbruikzaak-tegen-aerosmith-zanger-steven-tyler-verworpen",
+    "type": "article",
+    "title": "Seksueel misbruikzaak tegen Aerosmith-zanger Steven Tyler verworpen",
+    "subtitle": null,
+    "published_at": "2024-02-22T07:40:46+01:00",
+    "updated_at": "2024-02-22T07:40:47+01:00",
+    "media_id": "2iaxpnxayviz",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6302462/seksueel-misbruikzaak-tegen-aerosmith-zanger-steven-tyler-verworpen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302461,
+    "slug": "vijfjarig-meisje-overlijdt-nadat-zandkuil-instort-in-amerika",
+    "type": "article",
+    "title": "Vijfjarig meisje overlijdt nadat zandkuil instort in Amerika",
+    "subtitle": null,
+    "published_at": "2024-02-22T07:37:18+01:00",
+    "updated_at": "2024-02-22T07:37:20+01:00",
+    "media_id": "xyzxjqcatv9a",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6302461/vijfjarig-meisje-overlijdt-nadat-zandkuil-instort-in-amerika.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302460,
     "slug": "vloek-van-laatste-zestien-dreigt-opnieuw-voor-arsenal-het-moet-veel-beter",
     "type": "article",
     "title": "'Vloek van laatste zestien' dreigt opnieuw voor Arsenal: 'Het moet veel beter'",
     "subtitle": null,
     "published_at": "2024-02-22T07:22:35+01:00",
-    "updated_at": "2024-02-22T07:22:36+01:00",
+    "updated_at": "2024-02-22T07:34:39+01:00",
     "media_id": "jxcx8q9adutn",
     "duration": null,
     "canonical_section": {
@@ -144,7 +190,7 @@
     "title": "Weerbericht | Vanavond code geel in heel het land vanwege zware windstoten",
     "subtitle": null,
     "published_at": "2024-02-22T05:33:56+01:00",
-    "updated_at": "2024-02-22T06:47:53+01:00",
+    "updated_at": "2024-02-22T07:40:08+01:00",
     "media_id": "0awxnwhazofl",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6302448/hoofd-bekritiseerd-737-max-programma-na-bijna-achttien-jaar-weg-bij-boeing.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302447,
-    "slug": "vrouw-gewond-en-hond-dood-na-aanrijding-valkenswaard-automobilist-rijdt-door",
-    "type": "article",
-    "title": "Vrouw gewond en hond dood na aanrijding Valkenswaard, automobilist rijdt door",
-    "subtitle": null,
-    "published_at": "2024-02-21T20:43:21+01:00",
-    "updated_at": "2024-02-21T20:52:52+01:00",
-    "media_id": "bnbx33mab8fn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6302447/vrouw-gewond-en-hond-dood-na-aanrijding-valkenswaard-automobilist-rijdt-door.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302446,
-    "slug": "dodelijke-slachtoffers-brugongeluk-lochem-zijn-twee-mannen-uit-belgie-en-polen",
-    "type": "article",
-    "title": "Dodelijke slachtoffers brugongeluk Lochem zijn twee mannen uit België en Polen",
-    "subtitle": null,
-    "published_at": "2024-02-21T20:37:09+01:00",
-    "updated_at": "2024-02-21T21:37:46+01:00",
-    "media_id": "0yrxqeaarx9o",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6302446/dodelijke-slachtoffers-brugongeluk-lochem-zijn-twee-mannen-uit-belgie-en-polen.html",
     "open_new_window": false,
     "partner": null
   }
