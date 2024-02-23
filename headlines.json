@@ -1,5 +1,28 @@
 [
   {
+    "id": 6302724,
+    "slug": "hamas-praat-met-egypte-israel-neemt-huizen-onder-vuur-in-rafah",
+    "type": "article",
+    "title": "Hamas praat met Egypte, Israël neemt huizen onder vuur in Rafah",
+    "subtitle": "Overzicht",
+    "published_at": "2024-02-23T21:33:43+01:00",
+    "updated_at": "2024-02-23T21:33:59+01:00",
+    "media_id": "dftxk1xam5v5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772085,
+      "slug": "midden-oostenconflict",
+      "type": "default",
+      "name": "Oorlog Israël en Hamas",
+      "style": "nu",
+      "media_id": "m1oxeovaiadm",
+      "partner": null
+    },
+    "url": "/midden-oostenconflict/6302724/hamas-praat-met-egypte-israel-neemt-huizen-onder-vuur-in-rafah.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302730,
     "slug": "acteur-bas-muijs-staat-langs-snelweg-na-auto-ongeluk-op-a4",
     "type": "video",
@@ -29,8 +52,8 @@
     "title": "Oostenrijkse oud-kanselier Kurz schuldig aan afleggen valse getuigenis",
     "subtitle": null,
     "published_at": "2024-02-23T20:44:45+01:00",
-    "updated_at": "2024-02-23T21:23:07+01:00",
-    "media_id": "s3nxssxa91oi",
+    "updated_at": "2024-02-23T21:27:08+01:00",
+    "media_id": "iatxle5amxvb",
     "duration": null,
     "canonical_section": {
       "id": 1771436,
@@ -47,13 +70,13 @@
   },
   {
     "id": 6302728,
-    "slug": "live-nations-league-oranje-ontsnapt-aan-achterstand-in-strijd-om-olympisch-ticket",
+    "slug": "live-nations-league-oranje-op-achterstand-in-strijd-om-olympisch-ticket",
     "type": "article",
-    "title": "Live Nations League | Oranje ontsnapt aan achterstand in strijd om olympisch ticket",
+    "title": "Live Nations League | Oranje op achterstand in strijd om olympisch ticket",
     "subtitle": null,
     "published_at": "2024-02-23T20:37:38+01:00",
-    "updated_at": "2024-02-23T21:17:44+01:00",
-    "media_id": "q4nxzs2a5ejn",
+    "updated_at": "2024-02-23T21:42:19+01:00",
+    "media_id": "8uxx8dja8kjq",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6302728/live-nations-league-oranje-ontsnapt-aan-achterstand-in-strijd-om-olympisch-ticket.html",
+    "url": "/voetbal/6302728/live-nations-league-oranje-op-achterstand-in-strijd-om-olympisch-ticket.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/film/6302708/game-of-thrones-spin-off-the-hedge-knight-verschijnt-eind-volgend-jaar.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302705,
-    "slug": "gordon-gaat-het-theater-in-met-zijn-nieuwe-album",
-    "type": "article",
-    "title": "Gordon gaat het theater in met zijn nieuwe album",
-    "subtitle": null,
-    "published_at": "2024-02-23T18:02:35+01:00",
-    "updated_at": "2024-02-23T18:42:40+01:00",
-    "media_id": "3cfxh85ag3e4",
-    "duration": null,
-    "canonical_section": {
-      "id": 868281,
-      "slug": "muziek",
-      "type": "default",
-      "name": "Muziek",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/muziek/6302705/gordon-gaat-het-theater-in-met-zijn-nieuwe-album.html",
     "open_new_window": false,
     "partner": null
   }
