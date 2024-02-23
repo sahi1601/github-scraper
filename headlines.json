@@ -1,12 +1,35 @@
 [
   {
+    "id": 6302612,
+    "slug": "nog-veertien-mensen-vermist-na-fatale-brand-in-wooncomplex-valencia",
+    "type": "article",
+    "title": "Nog veertien mensen vermist na fatale brand in wooncomplex Valencia",
+    "subtitle": null,
+    "published_at": "2024-02-23T09:51:54+01:00",
+    "updated_at": "2024-02-23T10:01:13+01:00",
+    "media_id": "ldzxfiaae9ze",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6302612/nog-veertien-mensen-vermist-na-fatale-brand-in-wooncomplex-valencia.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302614,
     "slug": "slimme-deurbel-leidt-tot-golf-aan-privacyklachten-bij-toezichthouder",
     "type": "article",
     "title": "Slimme deurbel leidt tot golf aan privacyklachten bij toezichthouder",
     "subtitle": null,
     "published_at": "2024-02-23T09:43:45+01:00",
-    "updated_at": "2024-02-23T09:43:46+01:00",
+    "updated_at": "2024-02-23T10:00:03+01:00",
     "media_id": "krsxxf8al4ss",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6302107,
-    "slug": "er-is-meer-dan-project-van-der-poel-om-dit-wielerseizoen-naar-uit-te-kijken",
+    "slug": "vrouwenpeloton-in-wurggreep-en-project-van-der-poel-wielerjaar-van-start",
     "type": "article",
-    "title": "Er is meer dan project Van der Poel om dit wielerseizoen naar uit te kijken",
+    "title": "Vrouwenpeloton in wurggreep en project Van der Poel: wielerjaar van start",
     "subtitle": "NU+",
     "published_at": "2024-02-23T09:40:59+01:00",
-    "updated_at": "2024-02-23T09:41:00+01:00",
+    "updated_at": "2024-02-23T10:04:28+01:00",
     "media_id": "jjmxdfyaj0wc",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6302107/er-is-meer-dan-project-van-der-poel-om-dit-wielerseizoen-naar-uit-te-kijken.html",
+    "url": "/wielrennen/6302107/vrouwenpeloton-in-wurggreep-en-project-van-der-poel-wielerjaar-van-start.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,12 +231,12 @@
   },
   {
     "id": 6302603,
-    "slug": "live-f1-alle-putdeksels-zitten-weer-vast-testdag-in-bahrein-na-een-uur-hervat",
+    "slug": "live-f1-alle-putdeksels-zitten-weer-vast-testdag-in-bahrein-na-ruim-een-uur-hervat",
     "type": "article",
-    "title": "Live F1 | Alle putdeksels zitten weer vast, testdag in Bahrein na een uur hervat",
+    "title": "Live F1 | Alle putdeksels zitten weer vast, testdag in Bahrein na ruim een uur hervat",
     "subtitle": null,
     "published_at": "2024-02-23T07:55:08+01:00",
-    "updated_at": "2024-02-23T09:43:30+01:00",
+    "updated_at": "2024-02-23T09:59:35+01:00",
     "media_id": "5wzxlfaae02v",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6302603/live-f1-alle-putdeksels-zitten-weer-vast-testdag-in-bahrein-na-een-uur-hervat.html",
+    "url": "/formule-1/6302603/live-f1-alle-putdeksels-zitten-weer-vast-testdag-in-bahrein-na-ruim-een-uur-hervat.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/weerbericht/6302596/weerbericht-mix-van-zon-buien-en-nog-steeds-flink-wat-wind.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302595,
-    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
-    "type": "article",
-    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
-    "subtitle": null,
-    "published_at": "2024-02-23T05:15:44+01:00",
-    "updated_at": "2024-02-23T05:15:45+01:00",
-    "media_id": "vunx81iava32",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779164,
-      "slug": "het-woord",
-      "type": "default",
-      "name": "Het Woord",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/het-woord/6302595/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
     "open_new_window": false,
     "partner": null
   }
