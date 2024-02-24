@@ -1,12 +1,58 @@
 [
   {
-    "id": 6302300,
-    "slug": "guido-werkt-in-een-ziekenhuis-in-gaza-eet-zelden-meer-dan-rijst-en-bonen",
+    "id": 6302829,
+    "slug": "twee-jaar-geleden-viel-rusland-oekraine-binnen-zo-verliep-die-dag",
     "type": "article",
-    "title": "Guido werkt in een ziekenhuis in Gaza: 'Eet zelden méér dan rijst en bonen'",
+    "title": "Twee jaar geleden viel Rusland Oekraïne binnen: zo verliep die dag",
+    "subtitle": null,
+    "published_at": "2024-02-24T20:19:44+01:00",
+    "updated_at": "2024-02-24T20:20:37+01:00",
+    "media_id": "tp5xivaavdf3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779364,
+      "slug": "twee-jaar-oorlog-in-oekraine",
+      "type": "default",
+      "name": "Twee jaar oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/twee-jaar-oorlog-in-oekraine/6302829/twee-jaar-geleden-viel-rusland-oekraine-binnen-zo-verliep-die-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302839,
+    "slug": "brandweer-redt-met-touwen-new-yorkers-uit-brandend-flatgebouw",
+    "type": "video",
+    "title": "Brandweer redt met touwen New Yorkers uit brandend flatgebouw",
+    "subtitle": "Video",
+    "published_at": "2024-02-24T20:12:54+01:00",
+    "updated_at": "2024-02-24T20:12:56+01:00",
+    "media_id": "n94xvv5a52qo",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6302839/brandweer-redt-met-touwen-new-yorkers-uit-brandend-flatgebouw.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302300,
+    "slug": "guido-werkt-in-gaza-in-ziekenhuis-eet-zelden-meer-dan-rijst-en-bonen",
+    "type": "article",
+    "title": "Guido werkt in Gaza in ziekenhuis: 'Eet zelden méér dan rijst en bonen'",
     "subtitle": "NU+",
     "published_at": "2024-02-24T20:02:36+01:00",
-    "updated_at": "2024-02-24T20:02:38+01:00",
+    "updated_at": "2024-02-24T20:10:42+01:00",
     "media_id": "uhwx6yoacuiq",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/midden-oostenconflict/6302300/guido-werkt-in-een-ziekenhuis-in-gaza-eet-zelden-meer-dan-rijst-en-bonen.html",
+    "url": "/midden-oostenconflict/6302300/guido-werkt-in-gaza-in-ziekenhuis-eet-zelden-meer-dan-rijst-en-bonen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +121,7 @@
     "title": "Zo werd in meerdere landen stilgestaan bij 2 jaar oorlog in Oekraïne",
     "subtitle": "Video",
     "published_at": "2024-02-24T18:59:11+01:00",
-    "updated_at": "2024-02-24T18:59:12+01:00",
+    "updated_at": "2024-02-24T20:16:43+01:00",
     "media_id": "zwwxn7wavgyy",
     "duration": "1:16",
     "canonical_section": {
@@ -162,13 +208,13 @@
   },
   {
     "id": 6302830,
-    "slug": "live-eredivisie-psv-jaagt-in-zwolle-op-tweede-uitzege-van-dit-kalenderjaar",
+    "slug": "live-eredivisie-psv-ziet-openingsgoal-na-lange-var-check-afgekeurd-worden",
     "type": "article",
-    "title": "Live Eredivisie | PSV jaagt in Zwolle op tweede uitzege van dit kalenderjaar",
+    "title": "Live Eredivisie | PSV ziet openingsgoal na lange VAR-check afgekeurd worden",
     "subtitle": null,
     "published_at": "2024-02-24T18:16:37+01:00",
-    "updated_at": "2024-02-24T20:03:58+01:00",
-    "media_id": "s2px2slaw83m",
+    "updated_at": "2024-02-24T20:25:50+01:00",
+    "media_id": "s3cxjpbakzk8",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -179,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6302830/live-eredivisie-psv-jaagt-in-zwolle-op-tweede-uitzege-van-dit-kalenderjaar.html",
+    "url": "/voetbal/6302830/live-eredivisie-psv-ziet-openingsgoal-na-lange-var-check-afgekeurd-worden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6302822/nuis-en-grevelt-leiden-na-eerste-dag-van-nk-sprint-wennemars-op-wk-koers.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302804,
-    "slug": "visma-heerst-opnieuw-in-omloop-het-nieuwsblad-winst-tratnik-van-aert-derde",
-    "type": "article",
-    "title": "Visma heerst opnieuw in Omloop Het Nieuwsblad: winst Tratnik, Van Aert derde",
-    "subtitle": null,
-    "published_at": "2024-02-24T15:51:53+01:00",
-    "updated_at": "2024-02-24T18:31:50+01:00",
-    "media_id": "m19xcd8apkkl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772339,
-      "slug": "wielrennen",
-      "type": "default",
-      "name": "Wielrennen",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/wielrennen/6302804/visma-heerst-opnieuw-in-omloop-het-nieuwsblad-winst-tratnik-van-aert-derde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302821,
-    "slug": "ford-zet-levering-elektrische-pick-uptruck-stop-wegens-onbekend-probleem",
-    "type": "article",
-    "title": "Ford zet levering elektrische pick-uptruck stop wegens onbekend probleem",
-    "subtitle": null,
-    "published_at": "2024-02-24T15:39:55+01:00",
-    "updated_at": "2024-02-24T15:57:30+01:00",
-    "media_id": "bijx1m6a3n87",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6302821/ford-zet-levering-elektrische-pick-uptruck-stop-wegens-onbekend-probleem.html",
     "open_new_window": false,
     "partner": null
   }
