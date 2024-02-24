@@ -1,12 +1,35 @@
 [
   {
-    "id": 6302659,
-    "slug": "klimaatverandering-bedreigt-alpengletsjers-veel-zijn-al-verdwenen",
+    "id": 6302819,
+    "slug": "graham-norton-kondigt-plotseling-vertrek-bij-radioshow-aan",
     "type": "article",
-    "title": "Klimaatverandering bedreigt Alpengletsjers: 'Veel zijn al verdwenen'",
+    "title": "Graham Norton kondigt plotseling vertrek bij radioshow aan",
+    "subtitle": null,
+    "published_at": "2024-02-24T15:23:04+01:00",
+    "updated_at": "2024-02-24T15:23:05+01:00",
+    "media_id": "4buxck9awwq8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771675,
+      "slug": "media",
+      "type": "default",
+      "name": "Media",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/media/6302819/graham-norton-kondigt-plotseling-vertrek-bij-radioshow-aan.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302659,
+    "slug": "het-gaat-slecht-met-gletsjers-in-de-alpen-ze-worden-kleiner-en-kleiner",
+    "type": "article",
+    "title": "Het gaat slecht met gletsjers in de Alpen: 'Ze worden kleiner en kleiner'",
     "subtitle": "NU+",
     "published_at": "2024-02-24T14:59:59+01:00",
-    "updated_at": "2024-02-24T15:00:01+01:00",
+    "updated_at": "2024-02-24T15:23:46+01:00",
     "media_id": "s8pxd2pacivg",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": "kf4x3b2agsxg",
       "partner": null
     },
-    "url": "/klimaat/6302659/klimaatverandering-bedreigt-alpengletsjers-veel-zijn-al-verdwenen.html",
+    "url": "/klimaat/6302659/het-gaat-slecht-met-gletsjers-in-de-alpen-ze-worden-kleiner-en-kleiner.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6302784/rijpma-de-jong-ligt-bij-nk-allround-op-koers-voor-laatste-wk-ticket-dul-outsider.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302360,
-    "slug": "jaar-na-hard-rapport-zijn-groningers-weinig-opgeschoten-hele-dorp-is-ontwricht",
-    "type": "article",
-    "title": "Jaar na hard rapport zijn Groningers weinig opgeschoten: 'Hele dorp is ontwricht'",
-    "subtitle": null,
-    "published_at": "2024-02-24T11:25:52+01:00",
-    "updated_at": "2024-02-24T13:38:22+01:00",
-    "media_id": "70fx5dpaar1l",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772247,
-      "slug": "gaswinning-groningen",
-      "type": "files",
-      "name": "Gaswinning",
-      "style": "nu",
-      "media_id": "m1mxes7a42ey",
-      "partner": null
-    },
-    "url": "/gaswinning-groningen/6302360/jaar-na-hard-rapport-zijn-groningers-weinig-opgeschoten-hele-dorp-is-ontwricht.html",
     "open_new_window": false,
     "partner": null
   }
