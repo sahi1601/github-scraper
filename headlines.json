@@ -1,12 +1,58 @@
 [
   {
+    "id": 6302832,
+    "slug": "vos-bekroont-debuut-in-omloop-met-zege-had-dit-vooraf-niet-durven-dromen",
+    "type": "article",
+    "title": "Vos bekroont debuut in Omloop met zege: 'Had dit vooraf niet durven dromen'",
+    "subtitle": null,
+    "published_at": "2024-02-24T18:03:02+01:00",
+    "updated_at": "2024-02-24T18:03:03+01:00",
+    "media_id": "kjuxq9oain0c",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6302832/vos-bekroont-debuut-in-omloop-met-zege-had-dit-vooraf-niet-durven-dromen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302831,
+    "slug": "oud-ajacied-bassey-eist-hoofdrol-op-bij-pijnlijke-nederlaag-ten-hag-en-united",
+    "type": "article",
+    "title": "Oud-Ajacied Bassey eist hoofdrol op bij pijnlijke nederlaag Ten Hag en United",
+    "subtitle": null,
+    "published_at": "2024-02-24T17:59:41+01:00",
+    "updated_at": "2024-02-24T18:11:34+01:00",
+    "media_id": "h0oxadbawevx",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6302831/oud-ajacied-bassey-eist-hoofdrol-op-bij-pijnlijke-nederlaag-ten-hag-en-united.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302825,
     "slug": "marianne-vos-breidt-imposante-erelijst-uit-met-winst-in-omloop-het-nieuwsblad",
     "type": "article",
     "title": "Marianne Vos breidt imposante erelijst uit met winst in Omloop Het Nieuwsblad",
     "subtitle": null,
     "published_at": "2024-02-24T17:23:41+01:00",
-    "updated_at": "2024-02-24T17:38:40+01:00",
+    "updated_at": "2024-02-24T18:03:21+01:00",
     "media_id": "7swxyd8a53ao",
     "duration": null,
     "canonical_section": {
@@ -29,7 +75,7 @@
     "title": "Van Zundert en Dijkstra rouwen om overleden Haanappel: 'Ze was m'n bonusoma'",
     "subtitle": null,
     "published_at": "2024-02-24T17:17:22+01:00",
-    "updated_at": "2024-02-24T17:24:49+01:00",
+    "updated_at": "2024-02-24T17:50:42+01:00",
     "media_id": "xo7xpsyanj7v",
     "duration": null,
     "canonical_section": {
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/slimmer-leven/6302389/is-rijst-nou-slecht-voor-je-natte-smartphone.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302811,
-    "slug": "geen-derde-boete-voor-coa-minder-dan-2000-asielzoekers-in-ter-apel",
-    "type": "article",
-    "title": "Geen derde boete voor COA, minder dan 2.000 asielzoekers in Ter Apel",
-    "subtitle": null,
-    "published_at": "2024-02-24T13:52:15+01:00",
-    "updated_at": "2024-02-24T13:59:15+01:00",
-    "media_id": "cvoxwkrataz8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779109,
-      "slug": "asielcrisis",
-      "type": "default",
-      "name": "Asiel",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/asielcrisis/6302811/geen-derde-boete-voor-coa-minder-dan-2000-asielzoekers-in-ter-apel.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302812,
-    "slug": "wendy-williams-dankbaar-voor-steun-na-diagnose-dementie-overweldigend",
-    "type": "article",
-    "title": "Wendy Williams dankbaar voor steun na diagnose dementie: 'Overweldigend'",
-    "subtitle": null,
-    "published_at": "2024-02-24T13:52:03+01:00",
-    "updated_at": "2024-02-24T14:35:26+01:00",
-    "media_id": "64ux6oha7uw4",
-    "duration": null,
-    "canonical_section": {
-      "id": 125,
-      "slug": "achterklap",
-      "type": "default",
-      "name": "Achterklap",
-      "style": "nuentertainment",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/achterklap/6302812/wendy-williams-dankbaar-voor-steun-na-diagnose-dementie-overweldigend.html",
     "open_new_window": false,
     "partner": null
   }
