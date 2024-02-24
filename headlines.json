@@ -1,5 +1,28 @@
 [
   {
+    "id": 6302784,
+    "slug": "rijpma-de-jong-begint-op-nk-allround-uitstekend-aan-jacht-op-wk-ticket",
+    "type": "article",
+    "title": "Rijpma-de Jong begint op NK allround uitstekend aan jacht op WK-ticket",
+    "subtitle": null,
+    "published_at": "2024-02-24T11:36:08+01:00",
+    "updated_at": "2024-02-24T11:36:09+01:00",
+    "media_id": "o12xpb5akutu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6302784/rijpma-de-jong-begint-op-nk-allround-uitstekend-aan-jacht-op-wk-ticket.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302360,
     "slug": "jaar-na-hard-rapport-is-voor-groningers-nog-altijd-veel-onduidelijk",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Nieuw ontdekte maan van Neptunus maakt langst bekende baan om moederplaneet",
     "subtitle": null,
     "published_at": "2024-02-24T11:21:05+01:00",
-    "updated_at": "2024-02-24T11:26:40+01:00",
+    "updated_at": "2024-02-24T11:44:27+01:00",
     "media_id": "urmx5nfafjd3",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6302776,
-    "slug": "live-omloop-van-baarle-en-collegas-onderweg-voor-eerste-grote-voorjaarskoers",
+    "slug": "live-omloop-twee-nederlandse-talenten-mee-vooraan-van-aert-in-peloton",
     "type": "article",
-    "title": "Live Omloop | Van Baarle en collega's onderweg voor eerste grote voorjaarskoers",
+    "title": "Live Omloop | Twee Nederlandse talenten mee vooraan, Van Aert in peloton",
     "subtitle": null,
     "published_at": "2024-02-24T10:57:30+01:00",
-    "updated_at": "2024-02-24T11:26:45+01:00",
+    "updated_at": "2024-02-24T11:40:20+01:00",
     "media_id": "luzxrkranw12",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6302776/live-omloop-van-baarle-en-collegas-onderweg-voor-eerste-grote-voorjaarskoers.html",
+    "url": "/wielrennen/6302776/live-omloop-twee-nederlandse-talenten-mee-vooraan-van-aert-in-peloton.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6302571/ongewild-afscheid-van-hooydonck-na-hartstilstand-blijft-voelbaar-bij-visma.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302539,
-    "slug": "whatsapp-na-vijftien-jaar-nog-steeds-superpopulair-ook-onder-criminelen",
-    "type": "article",
-    "title": "WhatsApp na vijftien jaar nog steeds superpopulair (ook onder criminelen)",
-    "subtitle": "NU+",
-    "published_at": "2024-02-24T06:05:41+01:00",
-    "updated_at": "2024-02-24T10:59:06+01:00",
-    "media_id": "9u7x27gaw8yt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6302539/whatsapp-na-vijftien-jaar-nog-steeds-superpopulair-ook-onder-criminelen.html",
     "open_new_window": false,
     "partner": null
   }
