@@ -1,12 +1,35 @@
 [
   {
+    "id": 6302919,
+    "slug": "van-aert-wil-nog-een-ezeltje-na-droomdebuut-in-kuurne-voor-mijn-jongste-zoon",
+    "type": "article",
+    "title": "Van Aert wil nóg een ezeltje na droomdebuut in Kuurne: 'Voor mijn jongste zoon'",
+    "subtitle": null,
+    "published_at": "2024-02-25T19:20:36+01:00",
+    "updated_at": "2024-02-25T19:25:02+01:00",
+    "media_id": "uilxh6davliu",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6302919/van-aert-wil-nog-een-ezeltje-na-droomdebuut-in-kuurne-voor-mijn-jongste-zoon.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302920,
     "slug": "van-den-boomen-na-nederlaag-ajax-denk-dat-we-in-dit-systeem-kunnen-spelen",
     "type": "article",
     "title": "Van den Boomen na nederlaag Ajax: 'Denk dat we in dit systeem kunnen spelen'",
     "subtitle": null,
     "published_at": "2024-02-25T19:15:03+01:00",
-    "updated_at": "2024-02-25T19:15:05+01:00",
+    "updated_at": "2024-02-25T19:20:56+01:00",
     "media_id": "fw5x5csamewn",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Van Dijk kopt Liverpool in verlenging tegen Chelsea naar League Cup-winst",
     "subtitle": null,
     "published_at": "2024-02-25T18:43:37+01:00",
-    "updated_at": "2024-02-25T18:54:50+01:00",
+    "updated_at": "2024-02-25T19:16:20+01:00",
     "media_id": "l5sxsvgazduw",
     "duration": null,
     "canonical_section": {
@@ -259,7 +282,7 @@
     "title": "Dallinga helpt Toulouse met achtste seizoenstreffer aan winst op Lille",
     "subtitle": null,
     "published_at": "2024-02-25T17:13:02+01:00",
-    "updated_at": "2024-02-25T19:08:18+01:00",
+    "updated_at": "2024-02-25T19:19:08+01:00",
     "media_id": "qabx4b3a6khv",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6302903/wolf-laat-22-dode-schapen-achter-in-gelders-weiland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302902,
-    "slug": "auteur-kim-moelands-op-48-jarige-leeftijd-overleden",
-    "type": "article",
-    "title": "Auteur Kim Moelands op 48-jarige leeftijd overleden",
-    "subtitle": null,
-    "published_at": "2024-02-25T15:55:33+01:00",
-    "updated_at": "2024-02-25T18:38:05+01:00",
-    "media_id": "nmixo4ia6bt8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6302902/auteur-kim-moelands-op-48-jarige-leeftijd-overleden.html",
     "open_new_window": false,
     "partner": null
   }
