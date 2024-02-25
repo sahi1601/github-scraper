@@ -1,12 +1,35 @@
 [
   {
+    "id": 6302906,
+    "slug": "fc-twente-wint-dankzij-steijn-eenvoudig-van-go-ahead-en-verstevigt-derde-plek",
+    "type": "article",
+    "title": "FC Twente wint dankzij Steijn eenvoudig van Go Ahead en verstevigt derde plek",
+    "subtitle": null,
+    "published_at": "2024-02-25T16:23:40+01:00",
+    "updated_at": "2024-02-25T16:23:41+01:00",
+    "media_id": "uy2xr9lawwb4",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6302906/fc-twente-wint-dankzij-steijn-eenvoudig-van-go-ahead-en-verstevigt-derde-plek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302903,
     "slug": "wolf-laat-22-dode-schapen-achter-in-gelders-weiland",
     "type": "video",
     "title": "Wolf laat 22 dode schapen achter in Gelders weiland",
     "subtitle": "Video",
     "published_at": "2024-02-25T16:08:32+01:00",
-    "updated_at": "2024-02-25T16:10:33+01:00",
+    "updated_at": "2024-02-25T16:15:49+01:00",
     "media_id": "rz7xvswan4bo",
     "duration": "0:50",
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Auteur Kim Moelands op 48-jarige leeftijd overleden",
     "subtitle": null,
     "published_at": "2024-02-25T15:55:33+01:00",
-    "updated_at": "2024-02-25T16:00:26+01:00",
+    "updated_at": "2024-02-25T16:15:05+01:00",
     "media_id": "yv6xgfwakcw1",
     "duration": null,
     "canonical_section": {
@@ -305,7 +328,7 @@
     "title": "Vitesse wint degradatiekraker bij Excelsior en verlaat laatste plek in Eredivisie",
     "subtitle": null,
     "published_at": "2024-02-25T14:08:13+01:00",
-    "updated_at": "2024-02-25T14:51:41+01:00",
+    "updated_at": "2024-02-25T16:14:41+01:00",
     "media_id": "ocsxfxcasty0",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6302889/argentijnse-president-dolgelukkig-tijdens-ontmoeting-met-trump.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302888,
-    "slug": "chinese-reuzenpandas-in-ouwehands-dierenpark-paren-weer-hard-aan-gewerkt",
-    "type": "article",
-    "title": "Chinese reuzenpanda's in Ouwehands Dierenpark paren weer: 'Hard aan gewerkt'",
-    "subtitle": null,
-    "published_at": "2024-02-25T13:35:59+01:00",
-    "updated_at": "2024-02-25T14:11:49+01:00",
-    "media_id": "rqwx4f5at0qo",
-    "duration": null,
-    "canonical_section": {
-      "id": 937692,
-      "slug": "opmerkelijk",
-      "type": "default",
-      "name": "Opmerkelijk",
-      "style": "nunjij",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/opmerkelijk/6302888/chinese-reuzenpandas-in-ouwehands-dierenpark-paren-weer-hard-aan-gewerkt.html",
     "open_new_window": false,
     "partner": null
   }
