@@ -1,5 +1,28 @@
 [
   {
+    "id": 6302947,
+    "slug": "koningin-maxima-komt-via-vliegtuigslurf-aan-op-colombiaans-vliegveld",
+    "type": "video",
+    "title": "Koningin Máxima komt via vliegtuigslurf aan op Colombiaans vliegveld",
+    "subtitle": "Video",
+    "published_at": "2024-02-26T07:37:54+01:00",
+    "updated_at": "2024-02-26T07:37:55+01:00",
+    "media_id": "y94x58caxbht",
+    "duration": "0:49",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6302947/koningin-maxima-komt-via-vliegtuigslurf-aan-op-colombiaans-vliegveld.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6302943,
     "slug": "van-dijk-in-extase-na-eerste-prijs-als-liverpool-aanvoerder-trots-op-de-talenten",
     "type": "article",
@@ -236,7 +259,7 @@
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2024-02-26T05:27:45+01:00",
-    "updated_at": "2024-02-26T07:29:38+01:00",
+    "updated_at": "2024-02-26T07:33:22+01:00",
     "media_id": "vunx81iava32",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6302931/zeker-veertien-doden-nadat-landmijn-ontploft-in-syrische-woestijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302933,
-    "slug": "koopmeiners-bezorgt-atalanta-punt-in-san-siro-invaller-modric-redt-real-madrid",
-    "type": "article",
-    "title": "Koopmeiners bezorgt Atalanta punt in San Siro, invaller Modric redt Real Madrid",
-    "subtitle": null,
-    "published_at": "2024-02-25T23:00:58+01:00",
-    "updated_at": "2024-02-25T23:09:21+01:00",
-    "media_id": "murxk16aa9sh",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6302933/koopmeiners-bezorgt-atalanta-punt-in-san-siro-invaller-modric-redt-real-madrid.html",
     "open_new_window": false,
     "partner": null
   }
