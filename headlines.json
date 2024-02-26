@@ -1,12 +1,35 @@
 [
   {
-    "id": 6302946,
-    "slug": "bijna-twee-weken-minder-treinen-van-en-naar-schiphol-om-werkzaamheden",
+    "id": 6302943,
+    "slug": "van-dijk-in-extase-na-eerste-prijs-als-liverpool-aanvoerder-trots-op-de-talenten",
     "type": "article",
-    "title": "Bijna twee weken minder treinen van en naar Schiphol om werkzaamheden",
+    "title": "Van Dijk in extase na eerste prijs als Liverpool-aanvoerder: 'Trots op de talenten'",
+    "subtitle": null,
+    "published_at": "2024-02-26T07:23:06+01:00",
+    "updated_at": "2024-02-26T07:23:07+01:00",
+    "media_id": "t1ixsogann42",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6302943/van-dijk-in-extase-na-eerste-prijs-als-liverpool-aanvoerder-trots-op-de-talenten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6302946,
+    "slug": "bijna-twee-weken-minder-treinen-van-en-naar-schiphol-vanwege-werkzaamheden",
+    "type": "article",
+    "title": "Bijna twee weken minder treinen van en naar Schiphol vanwege werkzaamheden",
     "subtitle": null,
     "published_at": "2024-02-26T07:04:44+01:00",
-    "updated_at": "2024-02-26T07:10:48+01:00",
+    "updated_at": "2024-02-26T07:20:24+01:00",
     "media_id": "qqfxvl0abwj8",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6302946/bijna-twee-weken-minder-treinen-van-en-naar-schiphol-om-werkzaamheden.html",
+    "url": "/binnenland/6302946/bijna-twee-weken-minder-treinen-van-en-naar-schiphol-vanwege-werkzaamheden.html",
     "open_new_window": false,
     "partner": null
   },
@@ -213,7 +236,7 @@
     "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
     "subtitle": null,
     "published_at": "2024-02-26T05:27:45+01:00",
-    "updated_at": "2024-02-26T05:27:46+01:00",
+    "updated_at": "2024-02-26T07:29:38+01:00",
     "media_id": "vunx81iava32",
     "duration": null,
     "canonical_section": {
@@ -254,12 +277,12 @@
   },
   {
     "id": 6302702,
-    "slug": "deel-1-de-zwembadmoord-de-dubbele-agenda",
+    "slug": "deel-1-de-zwembadmoord-dubbele-agenda-en-onverwerkt-verdriet",
     "type": "audio",
-    "title": "Deel 1 | De Zwembadmoord: De dubbele agenda",
+    "title": "Deel 1 | De Zwembadmoord: Dubbele agenda en onverwerkt verdriet",
     "subtitle": "Podcast",
     "published_at": "2024-02-26T05:14:12+01:00",
-    "updated_at": "2024-02-26T05:14:13+01:00",
+    "updated_at": "2024-02-26T07:30:13+01:00",
     "media_id": "du6x79ha24gm",
     "duration": null,
     "canonical_section": {
@@ -271,7 +294,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/de-zwembadmoord/6302702/deel-1-de-zwembadmoord-de-dubbele-agenda.html",
+    "url": "/de-zwembadmoord/6302702/deel-1-de-zwembadmoord-dubbele-agenda-en-onverwerkt-verdriet.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6302933/koopmeiners-bezorgt-atalanta-punt-in-san-siro-invaller-modric-redt-real-madrid.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302932,
-    "slug": "star-trek-acteur-kenneth-mitchell-49-overleden",
-    "type": "article",
-    "title": "Star Trek-acteur Kenneth Mitchell (49) overleden",
-    "subtitle": null,
-    "published_at": "2024-02-25T22:48:15+01:00",
-    "updated_at": "2024-02-26T05:31:10+01:00",
-    "media_id": "58vx36oapeb2",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6302932/star-trek-acteur-kenneth-mitchell-49-overleden.html",
     "open_new_window": false,
     "partner": null
   }
