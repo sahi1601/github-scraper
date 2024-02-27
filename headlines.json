@@ -1,5 +1,28 @@
 [
   {
+    "id": 6303156,
+    "slug": "vrouwen-hebben-op-lange-termijn-meer-profijt-van-sporten-dan-mannen",
+    "type": "article",
+    "title": "Vrouwen hebben op lange termijn meer profijt van sporten dan mannen",
+    "subtitle": null,
+    "published_at": "2024-02-27T17:42:45+01:00",
+    "updated_at": "2024-02-27T17:42:47+01:00",
+    "media_id": "gtkxg9fawgb7",
+    "duration": null,
+    "canonical_section": {
+      "id": 478878,
+      "slug": "wetenschap",
+      "type": "default",
+      "name": "Wetenschap",
+      "style": "nunjij",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wetenschap/6303156/vrouwen-hebben-op-lange-termijn-meer-profijt-van-sporten-dan-mannen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303121,
     "slug": "voorverkiezing-in-michigan-test-voor-aanzien-biden-binnen-eigen-partij",
     "type": "article",
@@ -98,7 +121,7 @@
     "title": "Tweede Kamer herdenkt 'markante en authentieke staatsman' Van Agt",
     "subtitle": "Video",
     "published_at": "2024-02-27T17:07:48+01:00",
-    "updated_at": "2024-02-27T17:07:49+01:00",
+    "updated_at": "2024-02-27T17:35:03+01:00",
     "media_id": "8twxmrcaw7da",
     "duration": "2:00",
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/muziek/6303135/charlotte-de-witte-en-oliver-heldens-treden-op-tijdens-mysteryland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303134,
-    "slug": "sony-ontslaat-negenhonderd-werknemers-van-playstation-tak",
-    "type": "article",
-    "title": "Sony ontslaat negenhonderd werknemers van PlayStation-tak",
-    "subtitle": null,
-    "published_at": "2024-02-27T15:07:35+01:00",
-    "updated_at": "2024-02-27T15:38:20+01:00",
-    "media_id": "gqyxdqeaut5g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771438,
-      "slug": "tech",
-      "type": "default",
-      "name": "Tech",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech/6303134/sony-ontslaat-negenhonderd-werknemers-van-playstation-tak.html",
     "open_new_window": false,
     "partner": null
   }
