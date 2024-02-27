@@ -1,5 +1,28 @@
 [
   {
+    "id": 6303062,
+    "slug": "ten-hag-ziet-assistent-ramsay-vertrekken-bij-united-voor-mls-avontuur",
+    "type": "article",
+    "title": "Ten Hag ziet assistent Ramsay vertrekken bij United voor MLS-avontuur",
+    "subtitle": null,
+    "published_at": "2024-02-27T07:59:12+01:00",
+    "updated_at": "2024-02-27T08:12:07+01:00",
+    "media_id": "xdhxmg6abow1",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6303062/ten-hag-ziet-assistent-ramsay-vertrekken-bij-united-voor-mls-avontuur.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303059,
     "slug": "rechtszaak-tegen-alec-baldwin-over-schietincident-op-filmset-begint-in-juli",
     "type": "article",
@@ -24,12 +47,12 @@
   },
   {
     "id": 6303060,
-    "slug": "tachtigjarige-willem-van-hanegem-wordt-op-verjaardagsfeest-verrast-met-lintje",
+    "slug": "willem-van-hanegem-80-wordt-op-verjaardagsfeest-verrast-met-lintje",
     "type": "article",
-    "title": "Tachtigjarige Willem van Hanegem wordt op verjaardagsfeest verrast met lintje",
+    "title": "Willem van Hanegem (80) wordt op verjaardagsfeest verrast met lintje",
     "subtitle": null,
     "published_at": "2024-02-27T07:16:25+01:00",
-    "updated_at": "2024-02-27T07:40:36+01:00",
+    "updated_at": "2024-02-27T07:57:18+01:00",
     "media_id": "kgxx79gawr3s",
     "duration": null,
     "canonical_section": {
@@ -41,18 +64,18 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6303060/tachtigjarige-willem-van-hanegem-wordt-op-verjaardagsfeest-verrast-met-lintje.html",
+    "url": "/voetbal/6303060/willem-van-hanegem-80-wordt-op-verjaardagsfeest-verrast-met-lintje.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6303058,
-    "slug": "babboe-roept-bakfietsen-van-het-type-city-en-mini-terug-vanwege-veiligheid",
+    "slug": "babboe-roept-city-en-mini-bakfietsen-terug-vanwege-veiligheidsrisicos",
     "type": "article",
-    "title": "Babboe roept bakfietsen van het type City en Mini terug vanwege veiligheid",
+    "title": "Babboe roept City- en Mini-bakfietsen terug vanwege veiligheidsrisico's",
     "subtitle": null,
     "published_at": "2024-02-27T07:09:01+01:00",
-    "updated_at": "2024-02-27T07:39:10+01:00",
+    "updated_at": "2024-02-27T08:00:20+01:00",
     "media_id": "4v5x6wra27ck",
     "duration": null,
     "canonical_section": {
@@ -64,7 +87,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6303058/babboe-roept-bakfietsen-van-het-type-city-en-mini-terug-vanwege-veiligheid.html",
+    "url": "/economie/6303058/babboe-roept-city-en-mini-bakfietsen-terug-vanwege-veiligheidsrisicos.html",
     "open_new_window": false,
     "partner": null
   },
@@ -259,7 +282,7 @@
     "title": "Na zes jaar volgt eindelijk de uitspraak in het Marengo-proces: krijgt Taghi levenslang?",
     "subtitle": null,
     "published_at": "2024-02-27T05:02:54+01:00",
-    "updated_at": "2024-02-27T05:02:55+01:00",
+    "updated_at": "2024-02-27T08:14:07+01:00",
     "media_id": "g57xgfsaiipq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6303048/jong-ajax-mede-door-wereldgoal-pijnlijk-onderuit-nac-viert-weer-eens-een-zege.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303047,
-    "slug": "op-zijn-kant-liggende-odysseus-weet-alsnog-eerste-beelden-van-maan-te-sturen",
-    "type": "article",
-    "title": "Op zijn kant liggende Odysseus weet alsnog eerste beelden van maan te sturen",
-    "subtitle": null,
-    "published_at": "2024-02-26T21:59:01+01:00",
-    "updated_at": "2024-02-26T22:25:06+01:00",
-    "media_id": "bfzx6wvaz1kn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779219,
-      "slug": "tech-wetenschap",
-      "type": "default",
-      "name": "Tech en Wetenschap",
-      "style": "nutech",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/tech-wetenschap/6303047/op-zijn-kant-liggende-odysseus-weet-alsnog-eerste-beelden-van-maan-te-sturen.html",
     "open_new_window": false,
     "partner": null
   }
