@@ -1,5 +1,51 @@
 [
   {
+    "id": 6303181,
+    "slug": "om-houdt-vast-aan-liegende-kroongetuige-zwembadmoord-en-eist-tot-20-jaar-cel",
+    "type": "article",
+    "title": "OM houdt vast aan liegende kroongetuige zwembadmoord en eist tot 20 jaar cel",
+    "subtitle": null,
+    "published_at": "2024-02-28T10:44:38+01:00",
+    "updated_at": "2024-02-28T10:44:43+01:00",
+    "media_id": "u2gxbq8akuqg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779354,
+      "slug": "misdaad",
+      "type": "default",
+      "name": "Misdaad",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/misdaad/6303181/om-houdt-vast-aan-liegende-kroongetuige-zwembadmoord-en-eist-tot-20-jaar-cel.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303217,
+    "slug": "moederbedrijf-thuisbezorgd-verdient-meer-door-restaurants-extra-geld-te-vragen",
+    "type": "article",
+    "title": "Moederbedrijf Thuisbezorgd verdient meer door restaurants extra geld te vragen",
+    "subtitle": null,
+    "published_at": "2024-02-28T10:39:48+01:00",
+    "updated_at": "2024-02-28T10:39:49+01:00",
+    "media_id": "wvfx3lfatabj",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6303217/moederbedrijf-thuisbezorgd-verdient-meer-door-restaurants-extra-geld-te-vragen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303216,
     "slug": "anne-van-dam-plaatst-zich-als-eerste-nederlandse-golfer-voor-spelen-in-parijs",
     "type": "article",
@@ -29,8 +75,8 @@
     "title": "Meevaller voor Oranje: Van de Donk wél in selectie voor duel om olympisch ticket",
     "subtitle": null,
     "published_at": "2024-02-28T10:16:05+01:00",
-    "updated_at": "2024-02-28T10:21:54+01:00",
-    "media_id": "nbwx2kwagvxu",
+    "updated_at": "2024-02-28T10:43:53+01:00",
+    "media_id": "tq8xyv6aw3po",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -70,12 +116,12 @@
   },
   {
     "id": 6303211,
-    "slug": "vier-explosies-in-een-nacht-bij-woningen-in-amsterdam",
+    "slug": "vier-explosies-in-amsterdam-politie-onderzoekt-verband-met-moord-bigidagoe",
     "type": "article",
-    "title": "Vier explosies in één nacht bij woningen in Amsterdam",
+    "title": "Vier explosies in Amsterdam, politie onderzoekt verband met moord Bigidagoe",
     "subtitle": null,
     "published_at": "2024-02-28T10:02:35+01:00",
-    "updated_at": "2024-02-28T10:06:55+01:00",
+    "updated_at": "2024-02-28T10:44:04+01:00",
     "media_id": "qpkx7mbaf4l3",
     "duration": null,
     "canonical_section": {
@@ -87,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6303211/vier-explosies-in-een-nacht-bij-woningen-in-amsterdam.html",
+    "url": "/binnenland/6303211/vier-explosies-in-amsterdam-politie-onderzoekt-verband-met-moord-bigidagoe.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/buitenland/6303195/30000-australiers-moeten-huis-verlaten-wegens-bosbrand.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303014,
-    "slug": "oranje-speelt-ook-tegen-duitsland-niet-in-groot-stadion-moet-wel-vol-zijn",
-    "type": "article",
-    "title": "Oranje speelt ook tegen Duitsland niet in groot stadion: 'Moet wel vol zijn'",
-    "subtitle": "NU+",
-    "published_at": "2024-02-28T06:31:30+01:00",
-    "updated_at": "2024-02-28T08:23:57+01:00",
-    "media_id": "t1ax116auoq4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779108,
-      "slug": "nu-voetbal",
-      "type": "default",
-      "name": "NU+ Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/nu-voetbal/6303014/oranje-speelt-ook-tegen-duitsland-niet-in-groot-stadion-moet-wel-vol-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303167,
-    "slug": "hoe-hitfilm-saltburn-een-golf-van-opvallende-trends-veroorzaakt",
-    "type": "video",
-    "title": "Hoe hitfilm Saltburn een golf van opvallende trends veroorzaakt",
-    "subtitle": "Explainer",
-    "published_at": "2024-02-28T06:09:48+01:00",
-    "updated_at": "2024-02-28T08:12:50+01:00",
-    "media_id": "tbtx0ynarepo",
-    "duration": "1:49",
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6303167/hoe-hitfilm-saltburn-een-golf-van-opvallende-trends-veroorzaakt.html",
     "open_new_window": false,
     "partner": null
   }
