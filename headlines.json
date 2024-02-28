@@ -1,5 +1,28 @@
 [
   {
+    "id": 6303306,
+    "slug": "tweevoudig-olympisch-schaatskampioen-sverre-lunde-pedersen-31-stopt",
+    "type": "article",
+    "title": "Tweevoudig olympisch schaatskampioen Sverre Lunde Pedersen (31) stopt",
+    "subtitle": null,
+    "published_at": "2024-02-28T18:27:54+01:00",
+    "updated_at": "2024-02-28T18:27:55+01:00",
+    "media_id": "1woxzyqa63kg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772452,
+      "slug": "schaatsen",
+      "type": "default",
+      "name": "Schaatsen",
+      "style": "nusport",
+      "media_id": "5ktx9n6axubw",
+      "partner": null
+    },
+    "url": "/schaatsen/6303306/tweevoudig-olympisch-schaatskampioen-sverre-lunde-pedersen-31-stopt.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303299,
     "slug": "verdachte-in-zaak-peter-r-de-vries-richt-zich-tot-familie-heb-hem-niet-vermoord",
     "type": "article",
@@ -70,12 +93,12 @@
   },
   {
     "id": 6303301,
-    "slug": "werknemers-doen-beklag-over-omroep-wnl-hoofdredacteur-creeert-angstcultuur",
+    "slug": "eva-jinek-en-wnl-werknemers-zeggen-dat-hoofdredacteur-angstcultuur-creeert",
     "type": "article",
-    "title": "Werknemers doen beklag over omroep WNL: 'Hoofdredacteur creëert angstcultuur'",
+    "title": "Eva Jinek en WNL-werknemers zeggen dat hoofdredacteur angstcultuur creëert",
     "subtitle": null,
     "published_at": "2024-02-28T18:04:40+01:00",
-    "updated_at": "2024-02-28T18:04:41+01:00",
+    "updated_at": "2024-02-28T18:32:54+01:00",
     "media_id": "28wx9bmas86f",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/media/6303301/werknemers-doen-beklag-over-omroep-wnl-hoofdredacteur-creeert-angstcultuur.html",
+    "url": "/media/6303301/eva-jinek-en-wnl-werknemers-zeggen-dat-hoofdredacteur-angstcultuur-creeert.html",
     "open_new_window": false,
     "partner": null
   },
@@ -167,7 +190,7 @@
     "title": "Femke Halsema blijft nog eens zes jaar burgemeester van Amsterdam",
     "subtitle": null,
     "published_at": "2024-02-28T17:39:13+01:00",
-    "updated_at": "2024-02-28T17:56:29+01:00",
+    "updated_at": "2024-02-28T18:37:48+01:00",
     "media_id": "j4mxdxjamt3z",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6303285/geen-uitzondering-voor-picnic-en-flink-supermarkt-cao-moet-ook-daar-gelden.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303284,
-    "slug": "verstappen-houdt-zich-op-vlakte-over-kwestie-horner-niet-mijn-zaak",
-    "type": "article",
-    "title": "Verstappen houdt zich op vlakte over kwestie Horner: 'Niet mijn zaak'",
-    "subtitle": null,
-    "published_at": "2024-02-28T16:10:25+01:00",
-    "updated_at": "2024-02-28T16:36:37+01:00",
-    "media_id": "kwixr2jak8ip",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772449,
-      "slug": "formule-1",
-      "type": "default",
-      "name": "Formule 1",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/formule-1/6303284/verstappen-houdt-zich-op-vlakte-over-kwestie-horner-niet-mijn-zaak.html",
     "open_new_window": false,
     "partner": null
   }
