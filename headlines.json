@@ -1,13 +1,36 @@
 [
   {
+    "id": 6303463,
+    "slug": "bestuurders-staan-met-lekke-band-langs-a12-na-negeren-rode-kruizen",
+    "type": "video",
+    "title": "Bestuurders staan met lekke band langs A12 na negeren rode kruizen",
+    "subtitle": "Video",
+    "published_at": "2024-02-29T22:24:46+01:00",
+    "updated_at": "2024-02-29T22:24:48+01:00",
+    "media_id": "p9uxo49a5mqz",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6303463/bestuurders-staan-met-lekke-band-langs-a12-na-negeren-rode-kruizen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303447,
     "slug": "feyenoord-bereikt-bekerfinale-door-zwaarbevochten-zege-op-fc-groningen",
     "type": "article",
     "title": "Feyenoord bereikt bekerfinale door zwaarbevochten zege op FC Groningen",
     "subtitle": null,
     "published_at": "2024-02-29T21:58:27+01:00",
-    "updated_at": "2024-02-29T21:59:01+01:00",
-    "media_id": "knlxsaya7cc8",
+    "updated_at": "2024-02-29T22:20:48+01:00",
+    "media_id": "3w0xja4anvli",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -29,7 +52,7 @@
     "title": "Automobilisten negeren rood kruis vanwege glas op weg en krijgen lekke band",
     "subtitle": null,
     "published_at": "2024-02-29T21:54:17+01:00",
-    "updated_at": "2024-02-29T22:01:53+01:00",
+    "updated_at": "2024-02-29T22:20:09+01:00",
     "media_id": "y7nxnzfa4tt5",
     "duration": null,
     "canonical_section": {
@@ -213,7 +236,7 @@
     "title": "Zegereeks Van Gerwen in Premier League voorbij door verlies tegen Humphries",
     "subtitle": null,
     "published_at": "2024-02-29T20:43:05+01:00",
-    "updated_at": "2024-02-29T20:47:04+01:00",
+    "updated_at": "2024-02-29T22:24:31+01:00",
     "media_id": "hrsxiq5ajh6m",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6303445/live-knvb-beker-reacties-na-moeizame-zege-feyenoord-op-fc-groningen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303407,
-    "slug": "van-joost-klein-tot-aan-de-gp-van-bahrein",
-    "type": "article",
-    "title": "Van Joost Klein tot aan de GP van Bahrein",
-    "subtitle": "NU praat je bij",
-    "published_at": "2024-02-29T19:12:33+01:00",
-    "updated_at": "2024-02-29T19:12:34+01:00",
-    "media_id": "3yix8r6azfzo",
-    "duration": null,
-    "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
-      "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/algemeen/6303407/van-joost-klein-tot-aan-de-gp-van-bahrein.html",
     "open_new_window": false,
     "partner": null
   }
