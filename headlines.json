@@ -1,12 +1,58 @@
 [
   {
+    "id": 6303423,
+    "slug": "ad-mag-toch-over-tapes-de-vries-publiceren-belangrijk-voor-journalistiek",
+    "type": "video",
+    "title": "AD mag toch over tapes De Vries publiceren: 'Belangrijk voor journalistiek'",
+    "subtitle": "Video",
+    "published_at": "2024-02-29T16:20:19+01:00",
+    "updated_at": "2024-02-29T16:20:19+01:00",
+    "media_id": "40dxfo3a79yl",
+    "duration": "2:01",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6303423/ad-mag-toch-over-tapes-de-vries-publiceren-belangrijk-voor-journalistiek.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303414,
+    "slug": "tori-spelling-lijkt-uit-geldproblemen-te-zijn-en-huurt-weer-luxe-appartement",
+    "type": "article",
+    "title": "Tori Spelling lijkt uit geldproblemen te zijn en huurt weer luxe appartement",
+    "subtitle": null,
+    "published_at": "2024-02-29T16:15:38+01:00",
+    "updated_at": "2024-02-29T16:16:12+01:00",
+    "media_id": "b59xxvsa81lp",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6303414/tori-spelling-lijkt-uit-geldproblemen-te-zijn-en-huurt-weer-luxe-appartement.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303421,
     "slug": "luchtbeelden-tonen-dodelijk-gedrang-rond-hulpkonvooi-in-gaza",
     "type": "video",
     "title": "Luchtbeelden tonen dodelijk gedrang rond hulpkonvooi in Gaza",
     "subtitle": "Video",
     "published_at": "2024-02-29T15:59:31+01:00",
-    "updated_at": "2024-02-29T15:59:33+01:00",
+    "updated_at": "2024-02-29T16:17:48+01:00",
     "media_id": "wfbxqvzamk66",
     "duration": "0:36",
     "canonical_section": {
@@ -369,12 +415,12 @@
   },
   {
     "id": 6303391,
-    "slug": "live-f1-verstappen-ver-achter-hamilton-na-eerste-rondes-op-zachte-band",
+    "slug": "live-f1-verstappen-ver-achter-hamilton-in-tweede-vrije-training-bahrein",
     "type": "article",
-    "title": "Live F1 | Verstappen ver achter Hamilton na eerste rondes op zachte band",
+    "title": "Live F1 | Verstappen ver achter Hamilton in tweede vrije training Bahrein",
     "subtitle": null,
     "published_at": "2024-02-29T12:17:55+01:00",
-    "updated_at": "2024-02-29T16:13:51+01:00",
+    "updated_at": "2024-02-29T16:16:00+01:00",
     "media_id": "b38xb6yaqzco",
     "duration": null,
     "canonical_section": {
@@ -386,7 +432,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6303391/live-f1-verstappen-ver-achter-hamilton-na-eerste-rondes-op-zachte-band.html",
+    "url": "/formule-1/6303391/live-f1-verstappen-ver-achter-hamilton-in-tweede-vrije-training-bahrein.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/film/6303388/dramaserie-maxima-binnenkort-ook-te-zien-in-andere-landen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303382,
-    "slug": "rusland-gaat-grensgebied-militair-versterken-nu-finland-en-zweden-navo-lid-zijn",
-    "type": "article",
-    "title": "Rusland gaat grensgebied militair versterken nu Finland en Zweden NAVO-lid zijn",
-    "subtitle": null,
-    "published_at": "2024-02-29T12:07:09+01:00",
-    "updated_at": "2024-02-29T15:43:21+01:00",
-    "media_id": "4bpxytjawoqq",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6303382/rusland-gaat-grensgebied-militair-versterken-nu-finland-en-zweden-navo-lid-zijn.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303265,
-    "slug": "windmolenbouwers-zien-ondanks-tegenwind-nog-brood-in-noordzee",
-    "type": "article",
-    "title": "Windmolenbouwers zien ondanks tegenwind nog brood in Noordzee",
-    "subtitle": "NU+",
-    "published_at": "2024-02-29T11:56:38+01:00",
-    "updated_at": "2024-02-29T15:09:35+01:00",
-    "media_id": "ahgxzzca6ubt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772754,
-      "slug": "klimaat",
-      "type": "default",
-      "name": "Klimaat",
-      "style": "nuzakelijk",
-      "media_id": "kf4x3b2agsxg",
-      "partner": null
-    },
-    "url": "/klimaat/6303265/windmolenbouwers-zien-ondanks-tegenwind-nog-brood-in-noordzee.html",
     "open_new_window": false,
     "partner": null
   }
