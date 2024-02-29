@@ -1,12 +1,58 @@
 [
   {
-    "id": 6303446,
-    "slug": "vs-onderzoekt-dodelijk-schietincident-gaza-vn-veiligheidsraad-komt-bijeen",
+    "id": 6303450,
+    "slug": "joost-klein-wil-moshpit-bij-europapa-alsjeblieft-songfestival-laat-het-toe",
+    "type": "video",
+    "title": "Joost Klein wil moshpit bij Europapa: 'Alsjeblieft Songfestival, laat het toe'",
+    "subtitle": "Video",
+    "published_at": "2024-02-29T19:28:28+01:00",
+    "updated_at": "2024-02-29T19:28:29+01:00",
+    "media_id": "b5oxo1cak2vt",
+    "duration": "5:32",
+    "canonical_section": {
+      "id": 1772282,
+      "slug": "songfestival",
+      "type": "default",
+      "name": "Songfestival",
+      "style": "nuuit",
+      "media_id": "adlxjvvaxwzv",
+      "partner": null
+    },
+    "url": "/songfestival/6303450/joost-klein-wil-moshpit-bij-europapa-alsjeblieft-songfestival-laat-het-toe.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303449,
+    "slug": "red-bull-teambaas-horner-blijft-ontkennen-na-lek-van-vermeend-bewijsmateriaal",
     "type": "article",
-    "title": "VS onderzoekt dodelijk schietincident Gaza, VN-Veiligheidsraad komt bijeen",
+    "title": "Red Bull-teambaas Horner blijft ontkennen na 'lek' van vermeend bewijsmateriaal",
+    "subtitle": null,
+    "published_at": "2024-02-29T19:28:00+01:00",
+    "updated_at": "2024-02-29T19:28:01+01:00",
+    "media_id": "lzpxnp8a37pg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6303449/red-bull-teambaas-horner-blijft-ontkennen-na-lek-van-vermeend-bewijsmateriaal.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303446,
+    "slug": "vs-onderzoekt-dodelijk-schietincident-in-gaza-vn-veiligheidsraad-komt-bijeen",
+    "type": "article",
+    "title": "VS onderzoekt dodelijk schietincident in Gaza, VN-Veiligheidsraad komt bijeen",
     "subtitle": null,
     "published_at": "2024-02-29T19:13:26+01:00",
-    "updated_at": "2024-02-29T19:13:28+01:00",
+    "updated_at": "2024-02-29T19:25:05+01:00",
     "media_id": "idtxmk1axo64",
     "duration": null,
     "canonical_section": {
@@ -18,7 +64,7 @@
       "media_id": "m1oxeovaiadm",
       "partner": null
     },
-    "url": "/midden-oostenconflict/6303446/vs-onderzoekt-dodelijk-schietincident-gaza-vn-veiligheidsraad-komt-bijeen.html",
+    "url": "/midden-oostenconflict/6303446/vs-onderzoekt-dodelijk-schietincident-in-gaza-vn-veiligheidsraad-komt-bijeen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6303430/verrassing-in-tweede-training-bahrein-verstappen-zesde-hamilton-het-snelst.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303428,
-    "slug": "stagiair-die-werd-aangereden-door-sterrenchef-ontwaakt-uit-coma",
-    "type": "article",
-    "title": "Stagiair die werd aangereden door sterrenchef ontwaakt uit coma",
-    "subtitle": null,
-    "published_at": "2024-02-29T17:08:14+01:00",
-    "updated_at": "2024-02-29T17:08:15+01:00",
-    "media_id": "0ubxqu6a7jzo",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6303428/stagiair-die-werd-aangereden-door-sterrenchef-ontwaakt-uit-coma.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303429,
-    "slug": "timelapse-toont-rookuitbarsting-vulkaan-popocatepetl",
-    "type": "video",
-    "title": "Timelapse toont rookuitbarsting vulkaan Popocatépetl",
-    "subtitle": "Video",
-    "published_at": "2024-02-29T17:01:32+01:00",
-    "updated_at": "2024-02-29T17:28:12+01:00",
-    "media_id": "cfoxya1a30fz",
-    "duration": "0:40",
-    "canonical_section": {
-      "id": 1772431,
-      "slug": "videos",
-      "type": "default",
-      "name": "Video's",
-      "style": null,
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/videos/6303429/timelapse-toont-rookuitbarsting-vulkaan-popocatepetl.html",
     "open_new_window": false,
     "partner": null
   }
