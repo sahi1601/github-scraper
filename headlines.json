@@ -1,12 +1,35 @@
 [
   {
+    "id": 6303659,
+    "slug": "madame-tussauds-onthult-nieuw-wassen-beeld-justin-bieber",
+    "type": "video",
+    "title": "Madame Tussauds onthult nieuw wassen beeld Justin Bieber",
+    "subtitle": "Video",
+    "published_at": "2024-03-02T11:25:53+01:00",
+    "updated_at": "2024-03-02T11:25:55+01:00",
+    "media_id": "94rxcmfakke9",
+    "duration": "0:34",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6303659/madame-tussauds-onthult-nieuw-wassen-beeld-justin-bieber.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303583,
-    "slug": "max-verstappen-wint-dit-jaar-eenvoudig-de-formule-1",
+    "slug": "max-verstappen-wordt-dit-jaar-eenvoudig-kampioen",
     "type": "article",
-    "title": "'Max Verstappen wint dit jaar eenvoudig de Formule 1'",
+    "title": "'Max Verstappen wordt dit jaar eenvoudig kampioen'",
     "subtitle": "Stelling",
     "published_at": "2024-03-02T11:09:27+01:00",
-    "updated_at": "2024-03-02T11:09:29+01:00",
+    "updated_at": "2024-03-02T11:24:31+01:00",
     "media_id": "p99x7jzakljb",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/stelling/6303583/max-verstappen-wint-dit-jaar-eenvoudig-de-formule-1.html",
+    "url": "/stelling/6303583/max-verstappen-wordt-dit-jaar-eenvoudig-kampioen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -29,7 +52,7 @@
     "title": "Moleneigenaar overvallen door aandacht na Songfestival-clip Joost Klein",
     "subtitle": null,
     "published_at": "2024-03-02T10:52:10+01:00",
-    "updated_at": "2024-03-02T11:09:51+01:00",
+    "updated_at": "2024-03-02T11:19:10+01:00",
     "media_id": "belxo8oav4kt",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Vooruitblik GP Bahrein: Groot gevecht achter Verstappen aanstaande",
     "subtitle": "NU+",
     "published_at": "2024-03-02T10:35:32+01:00",
-    "updated_at": "2024-03-02T10:49:30+01:00",
+    "updated_at": "2024-03-02T11:21:00+01:00",
     "media_id": "lrsxa4eae2b6",
     "duration": null,
     "canonical_section": {
@@ -144,8 +167,8 @@
     "title": "Dokter verbaast zichzelf met WK-brons na 'rollercoaster van emoties' op vijfkamp",
     "subtitle": null,
     "published_at": "2024-03-02T10:04:57+01:00",
-    "updated_at": "2024-03-02T10:37:30+01:00",
-    "media_id": "rcvx116avn5j",
+    "updated_at": "2024-03-02T11:22:16+01:00",
+    "media_id": "ex5xdw8a7xju",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/weerbericht/6303622/weerbericht-wolken-en-zon-wisselen-elkaar-af-op-overwegend-droge-zaterdag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303621,
-    "slug": "amerikaanse-mode-icoon-met-grote-bril-iris-apfel-op-102-jarige-leeftijd-overleden",
-    "type": "article",
-    "title": "Amerikaanse mode-icoon met grote bril Iris Apfel op 102-jarige leeftijd overleden",
-    "subtitle": null,
-    "published_at": "2024-03-02T05:41:34+01:00",
-    "updated_at": "2024-03-02T08:43:42+01:00",
-    "media_id": "0boxwila00of",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772242,
-      "slug": "entertainment",
-      "type": "default",
-      "name": "Media en Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/entertainment/6303621/amerikaanse-mode-icoon-met-grote-bril-iris-apfel-op-102-jarige-leeftijd-overleden.html",
     "open_new_window": false,
     "partner": null
   }
