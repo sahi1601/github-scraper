@@ -1,12 +1,35 @@
 [
   {
-    "id": 6303623,
-    "slug": "meer-kwetsbare-ouderen-dreigen-onverantwoord-lang-thuis-te-moeten-blijven-wonen",
+    "id": 6303590,
+    "slug": "bekijk-de-startopstelling-voor-de-gp-van-bahrein-met-verstappen-op-pole",
     "type": "article",
-    "title": "Meer kwetsbare ouderen dreigen onverantwoord lang thuis te moeten blijven wonen",
+    "title": "Bekijk de startopstelling voor de GP van Bahrein met Verstappen op pole",
+    "subtitle": null,
+    "published_at": "2024-03-02T08:03:17+01:00",
+    "updated_at": "2024-03-02T08:03:19+01:00",
+    "media_id": "wqcxx4ta2eb5",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6303590/bekijk-de-startopstelling-voor-de-gp-van-bahrein-met-verstappen-op-pole.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6303623,
+    "slug": "kwetsbare-ouderen-dreigen-onverantwoord-lang-thuis-te-moeten-blijven-wonen",
+    "type": "article",
+    "title": "Kwetsbare ouderen dreigen onverantwoord lang thuis te moeten blijven wonen",
     "subtitle": null,
     "published_at": "2024-03-02T07:38:36+01:00",
-    "updated_at": "2024-03-02T07:38:37+01:00",
+    "updated_at": "2024-03-02T07:49:09+01:00",
     "media_id": "nl4xqt2a7huh",
     "duration": null,
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6303623/meer-kwetsbare-ouderen-dreigen-onverantwoord-lang-thuis-te-moeten-blijven-wonen.html",
+    "url": "/binnenland/6303623/kwetsbare-ouderen-dreigen-onverantwoord-lang-thuis-te-moeten-blijven-wonen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -52,7 +75,7 @@
     "title": "Bol torenhoge favoriet voor WK-goud: 'Ze is alle opzichten nóg beter geworden'",
     "subtitle": null,
     "published_at": "2024-03-02T06:30:34+01:00",
-    "updated_at": "2024-03-02T06:31:12+01:00",
+    "updated_at": "2024-03-02T08:08:54+01:00",
     "media_id": "cmhx5ltatvnd",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6303605/duel-mvv-gestaakt-na-medisch-noodgeval-willem-ii-en-roda-verspelen-punten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303587,
-    "slug": "weekendweerbericht-eerste-weekend-van-meteorologische-lente-vooral-droog",
-    "type": "article",
-    "title": "Weekendweerbericht | Eerste weekend van meteorologische lente vooral droog",
-    "subtitle": null,
-    "published_at": "2024-03-01T21:58:32+01:00",
-    "updated_at": "2024-03-01T22:13:43+01:00",
-    "media_id": "d44xe1kainib",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779283,
-      "slug": "weerbericht",
-      "type": "default",
-      "name": "Weerbericht",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/weerbericht/6303587/weekendweerbericht-eerste-weekend-van-meteorologische-lente-vooral-droog.html",
     "open_new_window": false,
     "partner": null
   }
