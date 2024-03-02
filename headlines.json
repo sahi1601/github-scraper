@@ -1,12 +1,35 @@
 [
   {
+    "id": 6303687,
+    "slug": "joost-klein-scoort-met-europapa-in-dag-12-miljoen-spotify-streams-in-nederland",
+    "type": "article",
+    "title": "Joost Klein scoort met Europapa in dag 1,2 miljoen Spotify-streams in Nederland",
+    "subtitle": null,
+    "published_at": "2024-03-02T15:19:02+01:00",
+    "updated_at": "2024-03-02T15:22:53+01:00",
+    "media_id": "cv1x6cnaufx9",
+    "duration": null,
+    "canonical_section": {
+      "id": 868281,
+      "slug": "muziek",
+      "type": "default",
+      "name": "Muziek",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/muziek/6303687/joost-klein-scoort-met-europapa-in-dag-12-miljoen-spotify-streams-in-nederland.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303683,
-    "slug": "orka-verslindt-in-zijn-eentje-witte-haai-bij-zuid-afrika",
+    "slug": "orka-doodt-in-zijn-eentje-witte-haai-bij-zuid-afrika",
     "type": "video",
-    "title": "Orka verslindt in zijn eentje witte haai bij Zuid-Afrika",
+    "title": "Orka doodt in zijn eentje witte haai bij Zuid-Afrika",
     "subtitle": "Video",
     "published_at": "2024-03-02T14:34:48+01:00",
-    "updated_at": "2024-03-02T14:42:15+01:00",
+    "updated_at": "2024-03-02T15:13:11+01:00",
     "media_id": "51lxnahaifq7",
     "duration": "0:38",
     "canonical_section": {
@@ -18,7 +41,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6303683/orka-verslindt-in-zijn-eentje-witte-haai-bij-zuid-afrika.html",
+    "url": "/videos/6303683/orka-doodt-in-zijn-eentje-witte-haai-bij-zuid-afrika.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6303653/schiphol-hield-rapport-over-krimp-luchthaven-tegen-onder-druk-van-klm.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303660,
-    "slug": "nederland-dit-jaar-weer-buiten-top-twintig-beste-lhbtiq-reisbestemmingen",
-    "type": "article",
-    "title": "Nederland dit jaar weer buiten top twintig beste lhbtiq+-reisbestemmingen",
-    "subtitle": null,
-    "published_at": "2024-03-02T11:28:30+01:00",
-    "updated_at": "2024-03-02T14:56:36+01:00",
-    "media_id": "7pyxlxva9ptl",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772075,
-      "slug": "cultuur-overig",
-      "type": "default",
-      "name": "Boek & Cultuur",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/cultuur-overig/6303660/nederland-dit-jaar-weer-buiten-top-twintig-beste-lhbtiq-reisbestemmingen.html",
     "open_new_window": false,
     "partner": null
   }
