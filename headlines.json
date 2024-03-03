@@ -1,5 +1,28 @@
 [
   {
+    "id": 6303738,
+    "slug": "het-woord-van-vandaag-raad-jij-het-woord-van-de-dag",
+    "type": "article",
+    "title": "Het Woord van vandaag: Raad jij het woord van de dag?",
+    "subtitle": null,
+    "published_at": "2024-03-03T05:18:03+01:00",
+    "updated_at": "2024-03-03T05:18:04+01:00",
+    "media_id": "vunx81iava32",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779164,
+      "slug": "het-woord",
+      "type": "default",
+      "name": "Het Woord",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/het-woord/6303738/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303736,
     "slug": "bol-en-klaver-danken-wk-medailles-aan-kinderbadje-en-ijsblokjes-van-lidl",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6303720/sprinttalent-seedo-mist-finale-60-meter-bij-wk-indoor-ook-geerds-strandt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303719,
-    "slug": "go-ahead-verslaat-rkc-en-stoot-ajax-in-ieder-geval-voor-even-van-vijfde-plek",
-    "type": "article",
-    "title": "Go Ahead verslaat RKC en stoot Ajax in ieder geval voor even van vijfde plek",
-    "subtitle": null,
-    "published_at": "2024-03-02T20:44:34+01:00",
-    "updated_at": "2024-03-02T21:16:05+01:00",
-    "media_id": "fvexujzakdtt",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6303719/go-ahead-verslaat-rkc-en-stoot-ajax-in-ieder-geval-voor-even-van-vijfde-plek.html",
     "open_new_window": false,
     "partner": null
   }
