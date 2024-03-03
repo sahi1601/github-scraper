@@ -1,13 +1,36 @@
 [
   {
+    "id": 6303818,
+    "slug": "almere-city-geeft-0-2-voorsprong-weg-en-speelt-met-tien-man-gelijk-bij-heracles",
+    "type": "article",
+    "title": "Almere City geeft 0-2-voorsprong weg en speelt met tien man gelijk bij Heracles",
+    "subtitle": null,
+    "published_at": "2024-03-03T22:01:10+01:00",
+    "updated_at": "2024-03-03T22:07:49+01:00",
+    "media_id": "81vxuuvaofhb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6303818/almere-city-geeft-0-2-voorsprong-weg-en-speelt-met-tien-man-gelijk-bij-heracles.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303816,
     "slug": "femke-bol-verovert-met-estafettevrouwen-ook-wereldtitel-op-4x400-meter-indoor",
     "type": "article",
     "title": "Femke Bol verovert met estafettevrouwen ook wereldtitel op 4x400 meter indoor",
     "subtitle": null,
     "published_at": "2024-03-03T21:38:16+01:00",
-    "updated_at": "2024-03-03T21:45:30+01:00",
-    "media_id": "01txdvfa9lz1",
+    "updated_at": "2024-03-03T22:07:09+01:00",
+    "media_id": "yuvx6tqacmno",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -29,8 +52,8 @@
     "title": "Nederlandse estafettemannen pakken brons op 4x400 meter bij WK indoor",
     "subtitle": null,
     "published_at": "2024-03-03T21:21:52+01:00",
-    "updated_at": "2024-03-03T21:42:41+01:00",
-    "media_id": "r3kx56jama2q",
+    "updated_at": "2024-03-03T22:00:38+01:00",
+    "media_id": "hx3xurtaxkon",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -121,8 +144,8 @@
     "title": "Live WK atletiek | Reacties na wereldtitel Bol, Klaver, De Witte en Peeters",
     "subtitle": null,
     "published_at": "2024-03-03T20:42:11+01:00",
-    "updated_at": "2024-03-03T21:43:58+01:00",
-    "media_id": "s0xxq77akw3i",
+    "updated_at": "2024-03-03T21:48:33+01:00",
+    "media_id": "zsuxwdta4qto",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6303799/ten-hag-gaat-met-united-na-voorsprong-onderuit-in-vermakelijke-topper-tegen-city.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303798,
-    "slug": "zorgcomplex-in-drachten-ontruimd-vanwege-rookontwikkeling-door-korte-brand",
-    "type": "article",
-    "title": "Zorgcomplex in Drachten ontruimd vanwege rookontwikkeling door korte brand",
-    "subtitle": null,
-    "published_at": "2024-03-03T18:10:36+01:00",
-    "updated_at": "2024-03-03T19:21:00+01:00",
-    "media_id": "vopxuj4aq609",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6303798/zorgcomplex-in-drachten-ontruimd-vanwege-rookontwikkeling-door-korte-brand.html",
     "open_new_window": false,
     "partner": null
   }
