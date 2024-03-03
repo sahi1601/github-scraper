@@ -29,7 +29,7 @@
     "title": "Weerbericht | Fijne dag om buiten te zijn: warm en weinig wind",
     "subtitle": null,
     "published_at": "2024-03-03T06:25:30+01:00",
-    "updated_at": "2024-03-03T06:25:31+01:00",
+    "updated_at": "2024-03-03T07:39:09+01:00",
     "media_id": "x65x5veaya4c",
     "duration": null,
     "canonical_section": {
@@ -167,7 +167,7 @@
     "title": "Bol en Klaver danken WK-medailles aan kinderbadje en ijsblokjes van Lidl",
     "subtitle": null,
     "published_at": "2024-03-03T05:09:46+01:00",
-    "updated_at": "2024-03-03T07:26:31+01:00",
+    "updated_at": "2024-03-03T07:42:40+01:00",
     "media_id": "6utxibdaj18h",
     "duration": null,
     "canonical_section": {
@@ -190,19 +190,19 @@
     "title": "Verduurzaming gascentrales komt nauwelijks op gang, kabinet schrapt subsidie",
     "subtitle": "NU+",
     "published_at": "2024-03-03T05:08:24+01:00",
-    "updated_at": "2024-03-03T07:25:48+01:00",
+    "updated_at": "2024-03-03T07:27:52+01:00",
     "media_id": "3szx48najwmq",
     "duration": null,
     "canonical_section": {
-      "id": 100,
-      "slug": "algemeen",
+      "id": 99,
+      "slug": "economie",
       "type": "default",
-      "name": "Algemeen",
-      "style": "nu",
+      "name": "Economie",
+      "style": "nuzakelijk",
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6303425/verduurzaming-gascentrales-komt-nauwelijks-op-gang-kabinet-schrapt-subsidie.html",
+    "url": "/economie/6303425/verduurzaming-gascentrales-komt-nauwelijks-op-gang-kabinet-schrapt-subsidie.html",
     "open_new_window": false,
     "partner": null
   },
