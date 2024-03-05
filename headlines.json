@@ -1,12 +1,35 @@
 [
   {
+    "id": 6303960,
+    "slug": "meerdere-doden-bij-ongeluk-met-klein-vliegtuig-in-verenigde-staten",
+    "type": "article",
+    "title": "Meerdere doden bij ongeluk met klein vliegtuig in Verenigde Staten",
+    "subtitle": null,
+    "published_at": "2024-03-05T07:32:35+01:00",
+    "updated_at": "2024-03-05T07:40:19+01:00",
+    "media_id": "xcgxp5sazzd8",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6303960/meerdere-doden-bij-ongeluk-met-klein-vliegtuig-in-verenigde-staten.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303959,
     "slug": "smaadzaak-tegen-regisseur-roman-polanski-van-start-in-parijs",
     "type": "article",
     "title": "Smaadzaak tegen regisseur Roman Polanski van start in Parijs",
     "subtitle": null,
     "published_at": "2024-03-05T07:25:58+01:00",
-    "updated_at": "2024-03-05T07:25:59+01:00",
+    "updated_at": "2024-03-05T07:35:32+01:00",
     "media_id": "1hxxbqra2t4f",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6303945,
-    "slug": "hoe-migranten-de-speelbal-zijn-geworden-van-amerikaanse-politiek",
+    "slug": "zo-gebruiken-biden-en-trump-de-migratiecrisis-in-hun-campagne",
     "type": "video",
-    "title": "Hoe migranten de speelbal zijn geworden van Amerikaanse politiek",
+    "title": "Zo gebruiken Biden en Trump de migratiecrisis in hun campagne",
     "subtitle": "Explainer",
     "published_at": "2024-03-05T06:32:13+01:00",
-    "updated_at": "2024-03-05T06:44:40+01:00",
+    "updated_at": "2024-03-05T07:30:05+01:00",
     "media_id": "zpexvgfapckq",
     "duration": "2:25",
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/algemeen/6303945/hoe-migranten-de-speelbal-zijn-geworden-van-amerikaanse-politiek.html",
+    "url": "/algemeen/6303945/zo-gebruiken-biden-en-trump-de-migratiecrisis-in-hun-campagne.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,7 +328,7 @@
     "title": "Oranje in koker voor EK-kwalificatie: Wiegmans Engeland kan wéér opponent zijn",
     "subtitle": null,
     "published_at": "2024-03-05T05:00:48+01:00",
-    "updated_at": "2024-03-05T05:00:49+01:00",
+    "updated_at": "2024-03-05T07:41:30+01:00",
     "media_id": "ppmxof9awt0t",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6303944/russen-volgens-oekraine-gestuit-bij-avdiivka-maar-hergroeperen-zich-in-de-buurt.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303943,
-    "slug": "arsenal-scoort-er-ook-in-sheffield-lustig-op-los-inter-verdwijnt-uit-zicht-in-italie",
-    "type": "article",
-    "title": "Arsenal scoort er ook in Sheffield lustig op los, Inter verdwijnt uit zicht in Italië",
-    "subtitle": null,
-    "published_at": "2024-03-04T22:57:26+01:00",
-    "updated_at": "2024-03-05T06:47:04+01:00",
-    "media_id": "lp1xkeha11qc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6303943/arsenal-scoort-er-ook-in-sheffield-lustig-op-los-inter-verdwijnt-uit-zicht-in-italie.html",
     "open_new_window": false,
     "partner": null
   }
