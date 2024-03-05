@@ -1,12 +1,35 @@
 [
   {
+    "id": 6303959,
+    "slug": "smaadzaak-tegen-regisseur-roman-polanski-van-start-in-parijs",
+    "type": "article",
+    "title": "Smaadzaak tegen regisseur Roman Polanski van start in Parijs",
+    "subtitle": null,
+    "published_at": "2024-03-05T07:25:58+01:00",
+    "updated_at": "2024-03-05T07:25:59+01:00",
+    "media_id": "1hxxbqra2t4f",
+    "duration": null,
+    "canonical_section": {
+      "id": 127,
+      "slug": "film",
+      "type": "default",
+      "name": "Films & Series",
+      "style": "nuuit",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/film/6303959/smaadzaak-tegen-regisseur-roman-polanski-van-start-in-parijs.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6303957,
     "slug": "rusland-zou-europese-unie-hebben-geinfiltreerd-met-servische-geheim-agent",
     "type": "article",
     "title": "Rusland zou Europese Unie hebben geïnfiltreerd met Servische geheim agent",
     "subtitle": null,
     "published_at": "2024-03-05T07:14:03+01:00",
-    "updated_at": "2024-03-05T07:14:04+01:00",
+    "updated_at": "2024-03-05T07:27:01+01:00",
     "media_id": "ypux4cratlzs",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6303939,
-    "slug": "zo-kun-je-het-risico-op-dementie-verkleinen",
+    "slug": "e-bike-de-deur-uit-zo-verklein-je-het-risico-op-dementie",
     "type": "video",
-    "title": "Zo kun je het risico op dementie verkleinen",
+    "title": "E-bike de deur uit: zo verklein je het risico op dementie",
     "subtitle": "Video",
     "published_at": "2024-03-05T07:00:56+01:00",
-    "updated_at": "2024-03-05T07:00:57+01:00",
+    "updated_at": "2024-03-05T07:19:58+01:00",
     "media_id": "b42x4qnarbpt",
     "duration": "13:19",
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6303939/zo-kun-je-het-risico-op-dementie-verkleinen.html",
+    "url": "/videos/6303939/e-bike-de-deur-uit-zo-verklein-je-het-risico-op-dementie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -328,7 +351,7 @@
     "title": "Nederlandse economie voor het eerst groter dan 1 biljoen euro",
     "subtitle": null,
     "published_at": "2024-03-05T00:00:38+01:00",
-    "updated_at": "2024-03-05T00:00:39+01:00",
+    "updated_at": "2024-03-05T07:27:53+01:00",
     "media_id": "iptxuhnahn6w",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6303943/arsenal-scoort-er-ook-in-sheffield-lustig-op-los-inter-verdwijnt-uit-zicht-in-italie.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6303924,
-    "slug": "opnieuw-aanhouding-voor-dodelijke-schietpartij-treinstation-purmerend",
-    "type": "article",
-    "title": "Opnieuw aanhouding voor dodelijke schietpartij treinstation Purmerend",
-    "subtitle": null,
-    "published_at": "2024-03-04T22:38:21+01:00",
-    "updated_at": "2024-03-05T06:32:42+01:00",
-    "media_id": "d7axzn5aovy9",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6303924/opnieuw-aanhouding-voor-dodelijke-schietpartij-treinstation-purmerend.html",
     "open_new_window": false,
     "partner": null
   }
