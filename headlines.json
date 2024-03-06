@@ -1,12 +1,35 @@
 [
   {
+    "id": 6304170,
+    "slug": "filipijns-bemanningslid-filmt-aanvaring-met-chinees-kustwachtschip",
+    "type": "video",
+    "title": "Filipijns bemanningslid filmt aanvaring met Chinees kustwachtschip",
+    "subtitle": "Video",
+    "published_at": "2024-03-06T15:36:45+01:00",
+    "updated_at": "2024-03-06T15:36:46+01:00",
+    "media_id": "5oexjg2a8reb",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6304170/filipijns-bemanningslid-filmt-aanvaring-met-chinees-kustwachtschip.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304163,
     "slug": "asml-topman-hekelt-desinteresse-van-politiek-voor-techconferentie",
     "type": "article",
     "title": "ASML-topman hekelt desinteresse van politiek voor techconferentie",
     "subtitle": null,
     "published_at": "2024-03-06T15:10:47+01:00",
-    "updated_at": "2024-03-06T15:12:55+01:00",
+    "updated_at": "2024-03-06T15:31:34+01:00",
     "media_id": "76txc75a1rnd",
     "duration": null,
     "canonical_section": {
@@ -29,7 +52,7 @@
     "title": "Bedreiger van Tim Hofman had volgens OM een terroristisch motief",
     "subtitle": null,
     "published_at": "2024-03-06T14:22:38+01:00",
-    "updated_at": "2024-03-06T14:25:09+01:00",
+    "updated_at": "2024-03-06T15:35:46+01:00",
     "media_id": "qo5x74maa0mu",
     "duration": null,
     "canonical_section": {
@@ -93,12 +116,12 @@
   },
   {
     "id": 6304153,
-    "slug": "nederlander-21-die-vader-en-familievriend-doodstak-in-italie-hoeft-niet-de-cel-in",
+    "slug": "nederlander-die-vader-en-familievriend-doodstak-in-italie-hoeft-niet-langer-cel-in",
     "type": "article",
-    "title": "Nederlander (21) die vader en familievriend doodstak in Italië hoeft niet de cel in",
+    "title": "Nederlander die vader en familievriend doodstak in Italië hoeft niet langer cel in",
     "subtitle": null,
     "published_at": "2024-03-06T13:45:25+01:00",
-    "updated_at": "2024-03-06T14:18:45+01:00",
+    "updated_at": "2024-03-06T15:36:53+01:00",
     "media_id": "qlsxfbpaef40",
     "duration": null,
     "canonical_section": {
@@ -110,7 +133,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6304153/nederlander-21-die-vader-en-familievriend-doodstak-in-italie-hoeft-niet-de-cel-in.html",
+    "url": "/buitenland/6304153/nederlander-die-vader-en-familievriend-doodstak-in-italie-hoeft-niet-langer-cel-in.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6304133/granaat-uit-tweede-wereldoorlog-gevonden-in-de-efteling.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6302852,
-    "slug": "wnl-baas-bert-huisjes-legt-werk-tijdelijk-neer-na-beschuldigingen-van-wangedrag",
-    "type": "article",
-    "title": "WNL-baas Bert Huisjes legt werk tijdelijk neer na beschuldigingen van wangedrag",
-    "subtitle": null,
-    "published_at": "2024-03-06T11:37:39+01:00",
-    "updated_at": "2024-03-06T12:54:15+01:00",
-    "media_id": "ipsx6avaxyny",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771675,
-      "slug": "media",
-      "type": "default",
-      "name": "Media",
-      "style": "nuuit",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/media/6302852/wnl-baas-bert-huisjes-legt-werk-tijdelijk-neer-na-beschuldigingen-van-wangedrag.html",
     "open_new_window": false,
     "partner": null
   }
