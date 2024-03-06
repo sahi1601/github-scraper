@@ -1,12 +1,35 @@
 [
   {
+    "id": 6304209,
+    "slug": "tesla-fabriek-bij-berlijn-langer-zonder-stroom-dan-verwacht",
+    "type": "article",
+    "title": "Tesla-fabriek bij Berlijn langer zonder stroom dan verwacht",
+    "subtitle": null,
+    "published_at": "2024-03-06T21:21:53+01:00",
+    "updated_at": "2024-03-06T21:21:54+01:00",
+    "media_id": "zvxxx6qap1pu",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6304209/tesla-fabriek-bij-berlijn-langer-zonder-stroom-dan-verwacht.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304206,
     "slug": "oekraine-meldt-vijf-doden-bij-russische-aanval-op-odesa-tijdens-bezoek-zelensky",
     "type": "article",
     "title": "Oekraïne meldt vijf doden bij Russische aanval op Odesa tijdens bezoek Zelensky",
     "subtitle": null,
     "published_at": "2024-03-06T21:14:04+01:00",
-    "updated_at": "2024-03-06T21:14:05+01:00",
+    "updated_at": "2024-03-06T21:17:11+01:00",
     "media_id": "xr1xpudaou1j",
     "duration": null,
     "canonical_section": {
@@ -116,13 +139,13 @@
   },
   {
     "id": 6304204,
-    "slug": "live-champions-league-snelle-goals-city-xavi-simons-nog-kansrijk-tegen-real",
+    "slug": "live-champions-league-grabbelende-keeper-in-manchester-xavi-simons-treft-real",
     "type": "article",
-    "title": "Live Champions League | Snelle goals City, Xavi Simons nog kansrijk tegen Real",
+    "title": "Live Champions League | Grabbelende keeper in Manchester, Xavi Simons treft Real",
     "subtitle": null,
     "published_at": "2024-03-06T20:14:08+01:00",
-    "updated_at": "2024-03-06T21:14:16+01:00",
-    "media_id": "mh7xgy6awfbk",
+    "updated_at": "2024-03-06T21:24:42+01:00",
+    "media_id": "bebxdpoa4nle",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -133,7 +156,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6304204/live-champions-league-snelle-goals-city-xavi-simons-nog-kansrijk-tegen-real.html",
+    "url": "/voetbal/6304204/live-champions-league-grabbelende-keeper-in-manchester-xavi-simons-treft-real.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6304189/dominique-janssen-vertrekt-na-vijf-jaar-bij-wolfsburg-en-wil-weer-naar-engeland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304190,
-    "slug": "joost-klein-vestigt-definitief-spotify-record-met-europapa-ik-ben-heel-dankbaar",
-    "type": "article",
-    "title": "Joost Klein vestigt definitief Spotify-record met Europapa: 'Ik ben heel dankbaar'",
-    "subtitle": null,
-    "published_at": "2024-03-06T17:36:10+01:00",
-    "updated_at": "2024-03-06T20:40:40+01:00",
-    "media_id": "tyvxfgtajd44",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772282,
-      "slug": "songfestival",
-      "type": "default",
-      "name": "Songfestival",
-      "style": "nuuit",
-      "media_id": "adlxjvvaxwzv",
-      "partner": null
-    },
-    "url": "/songfestival/6304190/joost-klein-vestigt-definitief-spotify-record-met-europapa-ik-ben-heel-dankbaar.html",
     "open_new_window": false,
     "partner": null
   }
