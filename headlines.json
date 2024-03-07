@@ -1,12 +1,35 @@
 [
   {
+    "id": 6304369,
+    "slug": "robbie-williams-opent-kunstexpo-in-amsterdams-museum",
+    "type": "video",
+    "title": "Robbie Williams opent kunstexpo in Amsterdams museum",
+    "subtitle": "Video",
+    "published_at": "2024-03-07T22:35:56+01:00",
+    "updated_at": "2024-03-07T22:45:23+01:00",
+    "media_id": "aokx47kalo5d",
+    "duration": "1:02",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6304369/robbie-williams-opent-kunstexpo-in-amsterdams-museum.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304366,
     "slug": "trots-bij-ajax-over-spel-tegen-aston-villa-naar-dit-niveau-moeten-we-toe",
     "type": "article",
     "title": "Trots bij Ajax over spel tegen Aston Villa: 'Naar dit niveau moeten we toe'",
     "subtitle": null,
     "published_at": "2024-03-07T22:20:35+01:00",
-    "updated_at": "2024-03-07T22:23:01+01:00",
+    "updated_at": "2024-03-07T22:35:09+01:00",
     "media_id": "nqpxf53au0fu",
     "duration": null,
     "canonical_section": {
@@ -70,12 +93,12 @@
   },
   {
     "id": 6304364,
-    "slug": "koning-ondanks-kritiek-gewoon-met-israelische-president-bij-opening-holocaustmuseum",
+    "slug": "koning-is-ondanks-kritiek-met-israelische-president-bij-opening-holocaustmuseum",
     "type": "article",
-    "title": "Koning ondanks kritiek 'gewoon' met Israëlische president bij opening Holocaustmuseum",
+    "title": "Koning is ondanks kritiek met Israëlische president bij opening Holocaustmuseum",
     "subtitle": null,
     "published_at": "2024-03-07T21:20:12+01:00",
-    "updated_at": "2024-03-07T22:19:46+01:00",
+    "updated_at": "2024-03-07T22:45:11+01:00",
     "media_id": "e6sxt9xa565z",
     "duration": null,
     "canonical_section": {
@@ -87,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/binnenland/6304364/koning-ondanks-kritiek-gewoon-met-israelische-president-bij-opening-holocaustmuseum.html",
+    "url": "/binnenland/6304364/koning-is-ondanks-kritiek-met-israelische-president-bij-opening-holocaustmuseum.html",
     "open_new_window": false,
     "partner": null
   },
@@ -305,8 +328,8 @@
     "title": "De Boo en Nuis wacht na eerste dag WK sprint spannende strijd om goud",
     "subtitle": null,
     "published_at": "2024-03-07T20:21:47+01:00",
-    "updated_at": "2024-03-07T22:15:33+01:00",
-    "media_id": "36dxmkaao72o",
+    "updated_at": "2024-03-07T22:24:35+01:00",
+    "media_id": "976xut0a22hc",
     "duration": null,
     "canonical_section": {
       "id": 1772452,
@@ -374,7 +397,7 @@
     "title": "Wéér wordt het Trump vs. Biden: 'Lastig voor anderen om terrein te winnen'",
     "subtitle": "NU+",
     "published_at": "2024-03-07T19:56:37+01:00",
-    "updated_at": "2024-03-07T21:28:49+01:00",
+    "updated_at": "2024-03-07T22:25:27+01:00",
     "media_id": "sr3xvpkag8rv",
     "duration": null,
     "canonical_section": {
@@ -420,7 +443,7 @@
     "title": "Leerdam en Kok staan na eerste dag WK sprint op grote achterstand van Takagi",
     "subtitle": null,
     "published_at": "2024-03-07T19:36:10+01:00",
-    "updated_at": "2024-03-07T21:57:56+01:00",
+    "updated_at": "2024-03-07T22:44:24+01:00",
     "media_id": "qsjxffoabp89",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/schaatsen/6304347/leerdam-en-kok-staan-na-eerste-dag-wk-sprint-op-grote-achterstand-van-takagi.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304022,
-    "slug": "gender-is-fictie-we-lieten-experts-reageren-op-jullie-opmerkingen",
-    "type": "article",
-    "title": "'Gender is fictie'? We lieten experts reageren op jullie opmerkingen",
-    "subtitle": "NU+",
-    "published_at": "2024-03-07T19:28:06+01:00",
-    "updated_at": "2024-03-07T19:51:49+01:00",
-    "media_id": "vo3x9dgakuzp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779003,
-      "slug": "gebaseerd-op-jullie-vragen",
-      "type": "default",
-      "name": "Gebaseerd op NUjij",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/gebaseerd-op-jullie-vragen/6304022/gender-is-fictie-we-lieten-experts-reageren-op-jullie-opmerkingen.html",
     "open_new_window": false,
     "partner": null
   }
