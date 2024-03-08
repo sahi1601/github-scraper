@@ -1,5 +1,28 @@
 [
   {
+    "id": 6304437,
+    "slug": "bekijk-de-wk-standen-in-de-formule-1-met-verstappen-aan-kop",
+    "type": "article",
+    "title": "Bekijk de WK-standen in de Formule 1 met Verstappen aan kop",
+    "subtitle": null,
+    "published_at": "2024-03-08T12:20:11+01:00",
+    "updated_at": "2024-03-08T12:21:40+01:00",
+    "media_id": "tnsxbsma6y5y",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6304437/bekijk-de-wk-standen-in-de-formule-1-met-verstappen-aan-kop.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304344,
     "slug": "isabel-grevelt-is-nu-wel-klaar-voor-profploeg-mooi-om-gewild-te-zijn",
     "type": "article",
@@ -231,12 +254,12 @@
   },
   {
     "id": 6304410,
-    "slug": "vliegtuig-verliest-band-bij-het-opstijgen-en-maakt-noodlanding",
+    "slug": "vliegtuig-verliest-wiel-bij-het-opstijgen-en-maakt-noodlanding",
     "type": "video",
-    "title": "Vliegtuig verliest band bij het opstijgen en maakt noodlanding",
+    "title": "Vliegtuig verliest wiel bij het opstijgen en maakt noodlanding",
     "subtitle": "Video",
     "published_at": "2024-03-08T10:50:02+01:00",
-    "updated_at": "2024-03-08T11:06:10+01:00",
+    "updated_at": "2024-03-08T12:20:51+01:00",
     "media_id": "ve2xhh1a8qie",
     "duration": "0:46",
     "canonical_section": {
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/videos/6304410/vliegtuig-verliest-band-bij-het-opstijgen-en-maakt-noodlanding.html",
+    "url": "/videos/6304410/vliegtuig-verliest-wiel-bij-het-opstijgen-en-maakt-noodlanding.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6304117/van-dijk-5-maanden-na-bevalling-weer-in-koers-dacht-te-moeten-stoppen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304389,
-    "slug": "vrouwen-gaan-meestal-over-huishoudportemonnee-mannen-over-hypotheek",
-    "type": "article",
-    "title": "Vrouwen gaan meestal over huishoudportemonnee, mannen over hypotheek",
-    "subtitle": null,
-    "published_at": "2024-03-08T09:15:00+01:00",
-    "updated_at": "2024-03-08T12:02:31+01:00",
-    "media_id": "psuxaf1apwd2",
-    "duration": null,
-    "canonical_section": {
-      "id": 99,
-      "slug": "economie",
-      "type": "default",
-      "name": "Economie",
-      "style": "nuzakelijk",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/economie/6304389/vrouwen-gaan-meestal-over-huishoudportemonnee-mannen-over-hypotheek.html",
     "open_new_window": false,
     "partner": null
   }
