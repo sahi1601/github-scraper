@@ -1,12 +1,58 @@
 [
   {
+    "id": 6304477,
+    "slug": "zhou-crasht-op-hoge-snelheid-in-jeddah",
+    "type": "video",
+    "title": "Zhou crasht op hoge snelheid in Jeddah",
+    "subtitle": "Video",
+    "published_at": "2024-03-08T15:49:14+01:00",
+    "updated_at": "2024-03-08T15:57:55+01:00",
+    "media_id": "ztxxzo7av0e7",
+    "duration": "1:36",
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6304477/zhou-crasht-op-hoge-snelheid-in-jeddah.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6304475,
+    "slug": "jersey-shore-ster-mike-sorrentino-en-vrouw-verwelkomen-derde-kind",
+    "type": "article",
+    "title": "Jersey Shore-ster Mike Sorrentino en vrouw verwelkomen derde kind",
+    "subtitle": null,
+    "published_at": "2024-03-08T15:49:11+01:00",
+    "updated_at": "2024-03-08T15:54:58+01:00",
+    "media_id": "wkvx3dha9b7i",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6304475/jersey-shore-ster-mike-sorrentino-en-vrouw-verwelkomen-derde-kind.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304465,
     "slug": "rapper-joeyak-krijgt-4-jaar-cel-voor-ontvoering-zaak-tegen-bigidagoe-beeindigd",
     "type": "article",
     "title": "Rapper JoeyAK krijgt 4 jaar cel voor ontvoering, zaak tegen Bigidagoe beëindigd",
     "subtitle": null,
     "published_at": "2024-03-08T15:41:17+01:00",
-    "updated_at": "2024-03-08T15:41:18+01:00",
+    "updated_at": "2024-03-08T15:49:30+01:00",
     "media_id": "o9qxp33azoa4",
     "duration": null,
     "canonical_section": {
@@ -24,12 +70,12 @@
   },
   {
     "id": 6304472,
-    "slug": "nigeriaanse-troepen-gaan-op-zoek-naar-ontvoerde-kinderen-25-zijn-weer-terecht",
+    "slug": "nigeriaanse-troepen-gaan-op-zoek-naar-280-ontvoerde-kinderen-25-weer-terecht",
     "type": "article",
-    "title": "Nigeriaanse troepen gaan op zoek naar ontvoerde kinderen, 25 zijn weer terecht",
+    "title": "Nigeriaanse troepen gaan op zoek naar 280 ontvoerde kinderen, 25 weer terecht",
     "subtitle": null,
     "published_at": "2024-03-08T15:38:06+01:00",
-    "updated_at": "2024-03-08T15:38:07+01:00",
+    "updated_at": "2024-03-08T16:10:58+01:00",
     "media_id": "27cx0b3aesb0",
     "duration": null,
     "canonical_section": {
@@ -41,19 +87,19 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6304472/nigeriaanse-troepen-gaan-op-zoek-naar-ontvoerde-kinderen-25-zijn-weer-terecht.html",
+    "url": "/buitenland/6304472/nigeriaanse-troepen-gaan-op-zoek-naar-280-ontvoerde-kinderen-25-weer-terecht.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6304473,
-    "slug": "vingegaard-soleert-naar-dubbelslag-in-vijfde-etappe-van-tirreno-adriatico",
+    "slug": "vingegaard-soleert-naar-dubbelslag-in-vijfde-etappe-tirreno-adriatico",
     "type": "article",
-    "title": "Vingegaard soleert naar dubbelslag in vijfde etappe van Tirreno-Adriatico",
+    "title": "Vingegaard soleert naar dubbelslag in vijfde etappe Tirreno-Adriatico",
     "subtitle": null,
     "published_at": "2024-03-08T15:37:46+01:00",
-    "updated_at": "2024-03-08T15:43:25+01:00",
-    "media_id": "ybjxo81aim9r",
+    "updated_at": "2024-03-08T16:05:58+01:00",
+    "media_id": "ua3xja2afdea",
     "duration": null,
     "canonical_section": {
       "id": 1772339,
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/wielrennen/6304473/vingegaard-soleert-naar-dubbelslag-in-vijfde-etappe-van-tirreno-adriatico.html",
+    "url": "/wielrennen/6304473/vingegaard-soleert-naar-dubbelslag-in-vijfde-etappe-tirreno-adriatico.html",
     "open_new_window": false,
     "partner": null
   },
@@ -75,7 +121,7 @@
     "title": "Verstappen klokt snelste tijd in derde training Jeddah, stevige crash Zhou",
     "subtitle": null,
     "published_at": "2024-03-08T15:34:42+01:00",
-    "updated_at": "2024-03-08T15:42:32+01:00",
+    "updated_at": "2024-03-08T15:50:09+01:00",
     "media_id": "wt2x974ameys",
     "duration": null,
     "canonical_section": {
@@ -98,7 +144,7 @@
     "title": "Q-koortspatiënten willen excuses: wat is deze ziekte en is het gevaarlijk?",
     "subtitle": "NU+",
     "published_at": "2024-03-08T15:29:10+01:00",
-    "updated_at": "2024-03-08T15:42:43+01:00",
+    "updated_at": "2024-03-08T15:48:14+01:00",
     "media_id": "m1mxqeda8tu3",
     "duration": null,
     "canonical_section": {
@@ -121,7 +167,7 @@
     "title": "Girls Aloud brengt nieuwe nummers uit, overleden bandlid Sarah Harding ook te horen",
     "subtitle": null,
     "published_at": "2024-03-08T15:27:44+01:00",
-    "updated_at": "2024-03-08T15:27:46+01:00",
+    "updated_at": "2024-03-08T15:55:19+01:00",
     "media_id": "m1mxwbda7xhp",
     "duration": null,
     "canonical_section": {
@@ -190,7 +236,7 @@
     "title": "Klein deel gedupeerden van failliet VanMoof krijgt mogelijk geld terug",
     "subtitle": null,
     "published_at": "2024-03-08T15:01:17+01:00",
-    "updated_at": "2024-03-08T15:25:12+01:00",
+    "updated_at": "2024-03-08T16:12:56+01:00",
     "media_id": "b8exnpkakfuy",
     "duration": null,
     "canonical_section": {
@@ -236,7 +282,7 @@
     "title": "Leeuw laat deuk achter in jeep na gevecht met andere leeuw",
     "subtitle": "Video",
     "published_at": "2024-03-08T14:48:22+01:00",
-    "updated_at": "2024-03-08T14:56:56+01:00",
+    "updated_at": "2024-03-08T15:45:53+01:00",
     "media_id": "dioxuulaewst",
     "duration": "0:36",
     "canonical_section": {
@@ -300,12 +346,12 @@
   },
   {
     "id": 6304458,
-    "slug": "live-f1-zware-chrash-zhou-in-slotfase-derde-vrije-training",
+    "slug": "live-f1-reacties-na-derde-training-met-snelste-tijd-verstappen-en-crash-zhou",
     "type": "article",
-    "title": "Live F1 | Zware chrash Zhou in slotfase derde vrije training",
+    "title": "Live F1 | Reacties na derde training met snelste tijd Verstappen en crash Zhou",
     "subtitle": null,
     "published_at": "2024-03-08T14:25:17+01:00",
-    "updated_at": "2024-03-08T15:28:38+01:00",
+    "updated_at": "2024-03-08T15:53:51+01:00",
     "media_id": "li5xl7jablsa",
     "duration": null,
     "canonical_section": {
@@ -317,7 +363,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6304458/live-f1-zware-chrash-zhou-in-slotfase-derde-vrije-training.html",
+    "url": "/formule-1/6304458/live-f1-reacties-na-derde-training-met-snelste-tijd-verstappen-en-crash-zhou.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/economie/6304450/extra-beveiliging-bij-duitse-tesla-fabriek-na-brandstichting-hoogspanningsmast.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304449,
-    "slug": "weer-iets-meer-ruimte-in-opvang-oekrainers-verzamelpunt-blijft-nog-dicht",
-    "type": "article",
-    "title": "Weer iets meer ruimte in opvang Oekraïners, verzamelpunt blijft nog dicht",
-    "subtitle": null,
-    "published_at": "2024-03-08T13:43:28+01:00",
-    "updated_at": "2024-03-08T13:43:29+01:00",
-    "media_id": "4sixpfdaoapn",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6304449/weer-iets-meer-ruimte-in-opvang-oekrainers-verzamelpunt-blijft-nog-dicht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304445,
-    "slug": "verhuurde-doelman-vindahl-keert-na-dit-seizoen-niet-meer-terug-bij-az",
-    "type": "article",
-    "title": "Verhuurde doelman Vindahl keert na dit seizoen niet meer terug bij AZ",
-    "subtitle": null,
-    "published_at": "2024-03-08T13:34:16+01:00",
-    "updated_at": "2024-03-08T13:34:17+01:00",
-    "media_id": "h6exlmjaziml",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6304445/verhuurde-doelman-vindahl-keert-na-dit-seizoen-niet-meer-terug-bij-az.html",
     "open_new_window": false,
     "partner": null
   }
