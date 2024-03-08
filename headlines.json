@@ -1,12 +1,35 @@
 [
   {
+    "id": 6304117,
+    "slug": "van-dijk-5-maanden-na-bevalling-weer-in-koers-dacht-te-moeten-stoppen",
+    "type": "article",
+    "title": "Van Dijk 5 maanden na bevalling weer in koers: 'Dacht te moeten stoppen'",
+    "subtitle": "NU+",
+    "published_at": "2024-03-08T09:43:24+01:00",
+    "updated_at": "2024-03-08T09:43:25+01:00",
+    "media_id": "b0pxe0lab9eg",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772339,
+      "slug": "wielrennen",
+      "type": "default",
+      "name": "Wielrennen",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/wielrennen/6304117/van-dijk-5-maanden-na-bevalling-weer-in-koers-dacht-te-moeten-stoppen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304389,
     "slug": "vrouwen-gaan-meestal-over-huishoudportemonnee-mannen-over-hypotheek",
     "type": "article",
     "title": "Vrouwen gaan meestal over huishoudportemonnee, mannen over hypotheek",
     "subtitle": null,
     "published_at": "2024-03-08T09:15:00+01:00",
-    "updated_at": "2024-03-08T09:28:50+01:00",
+    "updated_at": "2024-03-08T09:32:59+01:00",
     "media_id": "x85xdm1aiwdb",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "ASML gaat scherper op kosten letten: 'Maar van reorganisatie is geen sprake'",
     "subtitle": null,
     "published_at": "2024-03-08T08:45:43+01:00",
-    "updated_at": "2024-03-08T08:55:19+01:00",
+    "updated_at": "2024-03-08T09:33:17+01:00",
     "media_id": "jnsxvvdawomt",
     "duration": null,
     "canonical_section": {
@@ -121,7 +144,7 @@
     "title": "Bekijk hoe Biden 13 keer uithaalt naar Trump in zijn State of the Union",
     "subtitle": "Video",
     "published_at": "2024-03-08T08:23:19+01:00",
-    "updated_at": "2024-03-08T08:35:22+01:00",
+    "updated_at": "2024-03-08T09:39:40+01:00",
     "media_id": "bhax71xaz0ri",
     "duration": "1:52",
     "canonical_section": {
@@ -208,12 +231,12 @@
   },
   {
     "id": 6304295,
-    "slug": "steeds-minder-nederlandse-bloemen-naar-rusland",
+    "slug": "nederlandse-bloemen-minder-populair-in-rusland",
     "type": "article",
-    "title": "Steeds minder Nederlandse bloemen naar Rusland",
+    "title": "Nederlandse bloemen minder populair in Rusland",
     "subtitle": null,
     "published_at": "2024-03-08T07:05:47+01:00",
-    "updated_at": "2024-03-08T07:05:48+01:00",
+    "updated_at": "2024-03-08T09:43:10+01:00",
     "media_id": "3ynx8tea2pvm",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6304295/steeds-minder-nederlandse-bloemen-naar-rusland.html",
+    "url": "/economie/6304295/nederlandse-bloemen-minder-populair-in-rusland.html",
     "open_new_window": false,
     "partner": null
   },
@@ -374,7 +397,7 @@
     "title": "Loonkloof wordt kleiner, maar verschillen tussen mannen en vrouwen blijven groot",
     "subtitle": null,
     "published_at": "2024-03-08T05:57:27+01:00",
-    "updated_at": "2024-03-08T05:57:28+01:00",
+    "updated_at": "2024-03-08T09:43:42+01:00",
     "media_id": "vfsxveqam9on",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/het-woord/6304376/het-woord-van-vandaag-raad-jij-het-woord-van-de-dag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304346,
-    "slug": "vele-nieuwe-regels-drijven-boeren-tot-wanhoop-mensen-staan-op-omvallen",
-    "type": "article",
-    "title": "Vele nieuwe regels drijven boeren tot wanhoop: 'Mensen staan op omvallen'",
-    "subtitle": null,
-    "published_at": "2024-03-08T05:07:17+01:00",
-    "updated_at": "2024-03-08T06:22:30+01:00",
-    "media_id": "kl0xj4ya8x6a",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6304346/vele-nieuwe-regels-drijven-boeren-tot-wanhoop-mensen-staan-op-omvallen.html",
     "open_new_window": false,
     "partner": null
   }
