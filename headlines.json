@@ -1,12 +1,35 @@
 [
   {
+    "id": 6304521,
+    "slug": "tsjechie-koopt-granaten-voor-oekraine-martelingen-mogelijk-bewust",
+    "type": "article",
+    "title": "Tsjechië koopt granaten voor Oekraïne, martelingen mogelijk bewust",
+    "subtitle": "Overzicht",
+    "published_at": "2024-03-08T20:49:26+01:00",
+    "updated_at": "2024-03-08T21:11:10+01:00",
+    "media_id": "vt2x4dzawkak",
+    "duration": null,
+    "canonical_section": {
+      "id": 1778980,
+      "slug": "spanningen-oekraine",
+      "type": "default",
+      "name": "Oorlog in Oekraïne",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/spanningen-oekraine/6304521/tsjechie-koopt-granaten-voor-oekraine-martelingen-mogelijk-bewust.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304520,
     "slug": "verstappen-verbindt-lot-bij-red-bull-aan-marko-ik-kan-niet-zonder-hem-doorgaan",
     "type": "article",
     "title": "Verstappen verbindt lot bij Red Bull aan Marko: 'Ik kan niet zonder hem doorgaan'",
     "subtitle": null,
     "published_at": "2024-03-08T20:32:49+01:00",
-    "updated_at": "2024-03-08T20:38:29+01:00",
+    "updated_at": "2024-03-08T21:02:17+01:00",
     "media_id": "ygtxke3ah45u",
     "duration": null,
     "canonical_section": {
@@ -139,12 +162,12 @@
   },
   {
     "id": 6304513,
-    "slug": "live-eredivisie-psv-leidt-bij-go-ahead-en-helpt-veel-kansen-om-zeep",
+    "slug": "live-eredivisie-psv-leidt-dankzij-fraaie-knal-dest-bij-rust-in-deventer",
     "type": "article",
-    "title": "Live Eredivisie | PSV leidt bij Go Ahead én helpt veel kansen om zeep",
+    "title": "Live Eredivisie | PSV leidt dankzij fraaie knal Dest bij rust in Deventer",
     "subtitle": null,
     "published_at": "2024-03-08T19:31:43+01:00",
-    "updated_at": "2024-03-08T20:38:13+01:00",
+    "updated_at": "2024-03-08T20:54:58+01:00",
     "media_id": "opsxpbqaleu0",
     "duration": null,
     "canonical_section": {
@@ -156,7 +179,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6304513/live-eredivisie-psv-leidt-bij-go-ahead-en-helpt-veel-kansen-om-zeep.html",
+    "url": "/voetbal/6304513/live-eredivisie-psv-leidt-dankzij-fraaie-knal-dest-bij-rust-in-deventer.html",
     "open_new_window": false,
     "partner": null
   },
@@ -190,7 +213,7 @@
     "title": "Kok pakt achter ongenaakbare Takagi zilver op WK sprint, brons voor Leerdam",
     "subtitle": null,
     "published_at": "2024-03-08T19:09:42+01:00",
-    "updated_at": "2024-03-08T20:40:16+01:00",
+    "updated_at": "2024-03-08T20:45:36+01:00",
     "media_id": "65mxqlka83xj",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/economie/6304502/personeel-van-nederlands-chipbedrijf-nxp-gaat-staken-voor-hoger-salaris.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304497,
-    "slug": "live-schaatsen-de-boo-wacht-strijd-met-dubreuil-en-ning-om-wereldtitel-sprint",
-    "type": "article",
-    "title": "Live schaatsen | De Boo wacht strijd met Dubreuil en Ning om wereldtitel sprint",
-    "subtitle": null,
-    "published_at": "2024-03-08T17:59:55+01:00",
-    "updated_at": "2024-03-08T20:33:04+01:00",
-    "media_id": "yi3xdd7arq49",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6304497/live-schaatsen-de-boo-wacht-strijd-met-dubreuil-en-ning-om-wereldtitel-sprint.html",
     "open_new_window": false,
     "partner": null
   }
