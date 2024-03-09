@@ -1,12 +1,35 @@
 [
   {
+    "id": 6304628,
+    "slug": "verstappen-houdt-hoofd-koel-in-red-bull-crisis-en-wint-ook-in-saoedi-arabie",
+    "type": "article",
+    "title": "Verstappen houdt hoofd koel in Red Bull-crisis en wint ook in Saoedi-Arabië",
+    "subtitle": null,
+    "published_at": "2024-03-09T19:25:24+01:00",
+    "updated_at": "2024-03-09T19:25:31+01:00",
+    "media_id": "wwfxqfxabbly",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772449,
+      "slug": "formule-1",
+      "type": "default",
+      "name": "Formule 1",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/formule-1/6304628/verstappen-houdt-hoofd-koel-in-red-bull-crisis-en-wint-ook-in-saoedi-arabie.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304627,
     "slug": "takagi-start-niet-meer-op-wk-allround-nederlanders-gaan-strijden-om-wereldtitel",
     "type": "article",
     "title": "Takagi start niet meer op WK allround, Nederlanders gaan strijden om wereldtitel",
     "subtitle": null,
     "published_at": "2024-03-09T19:05:49+01:00",
-    "updated_at": "2024-03-09T19:10:33+01:00",
+    "updated_at": "2024-03-09T19:21:04+01:00",
     "media_id": "2ylxj4ba2crq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/spanningen-oekraine/6304565/ko-colijn-over-westerse-troepen-in-oekraine-en-duitse-afluisterschandaal.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304608,
-    "slug": "ten-hag-en-united-rekenen-dankzij-twee-strafschoppen-af-met-everton",
-    "type": "article",
-    "title": "Ten Hag en United rekenen dankzij twee strafschoppen af met Everton",
-    "subtitle": null,
-    "published_at": "2024-03-09T15:32:30+01:00",
-    "updated_at": "2024-03-09T18:11:23+01:00",
-    "media_id": "hncx3c3aert8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6304608/ten-hag-en-united-rekenen-dankzij-twee-strafschoppen-af-met-everton.html",
     "open_new_window": false,
     "partner": null
   }
