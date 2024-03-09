@@ -1,13 +1,59 @@
 [
   {
+    "id": 6304633,
+    "slug": "nederlands-marineschip-vertrekt-richting-conflict-in-rode-zee",
+    "type": "video",
+    "title": "Nederlands marineschip vertrekt richting conflict in Rode Zee",
+    "subtitle": "Video",
+    "published_at": "2024-03-09T19:44:39+01:00",
+    "updated_at": "2024-03-09T19:45:49+01:00",
+    "media_id": "wifx2fbagxdo",
+    "duration": "0:46",
+    "canonical_section": {
+      "id": 1772431,
+      "slug": "videos",
+      "type": "default",
+      "name": "Video's",
+      "style": null,
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/videos/6304633/nederlands-marineschip-vertrekt-richting-conflict-in-rode-zee.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6304632,
+    "slug": "nederlands-beachduo-stunt-met-zege-in-doha-en-zet-goede-stap-richting-spelen",
+    "type": "article",
+    "title": "Nederlands beachduo stunt met zege in Doha en zet goede stap richting Spelen",
+    "subtitle": null,
+    "published_at": "2024-03-09T19:44:21+01:00",
+    "updated_at": "2024-03-09T19:44:22+01:00",
+    "media_id": "9ekxn3xa9ywy",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772456,
+      "slug": "sport-overig",
+      "type": "default",
+      "name": "Sport Overig",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/sport-overig/6304632/nederlands-beachduo-stunt-met-zege-in-doha-en-zet-goede-stap-richting-spelen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304628,
     "slug": "verstappen-houdt-hoofd-koel-in-red-bull-crisis-en-wint-ook-in-saoedi-arabie",
     "type": "article",
     "title": "Verstappen houdt hoofd koel in Red Bull-crisis en wint ook in Saoedi-Arabië",
     "subtitle": null,
     "published_at": "2024-03-09T19:25:24+01:00",
-    "updated_at": "2024-03-09T19:25:31+01:00",
-    "media_id": "wwfxqfxabbly",
+    "updated_at": "2024-03-09T19:41:48+01:00",
+    "media_id": "fulx3mwaxmzw",
     "duration": null,
     "canonical_section": {
       "id": 1772449,
@@ -24,12 +70,12 @@
   },
   {
     "id": 6304627,
-    "slug": "takagi-start-niet-meer-op-wk-allround-nederlanders-gaan-strijden-om-wereldtitel",
+    "slug": "takagi-start-niet-meer-op-wk-allround-nederlanders-gaan-om-wereldtitel-strijden",
     "type": "article",
-    "title": "Takagi start niet meer op WK allround, Nederlanders gaan strijden om wereldtitel",
+    "title": "Takagi start niet meer op WK allround, Nederlanders gaan om wereldtitel strijden",
     "subtitle": null,
     "published_at": "2024-03-09T19:05:49+01:00",
-    "updated_at": "2024-03-09T19:21:04+01:00",
+    "updated_at": "2024-03-09T19:35:58+01:00",
     "media_id": "2ylxj4ba2crq",
     "duration": null,
     "canonical_section": {
@@ -41,18 +87,18 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6304627/takagi-start-niet-meer-op-wk-allround-nederlanders-gaan-strijden-om-wereldtitel.html",
+    "url": "/schaatsen/6304627/takagi-start-niet-meer-op-wk-allround-nederlanders-gaan-om-wereldtitel-strijden.html",
     "open_new_window": false,
     "partner": null
   },
   {
     "id": 6304609,
-    "slug": "geweld-en-chaos-in-haiti-wie-zijn-de-belangrijkste-spelers-op-dit-moment",
+    "slug": "geweld-en-chaos-in-haiti-wie-zijn-de-hoofdrolspelers-op-dit-moment",
     "type": "article",
-    "title": "Geweld en chaos in Haïti, wie zijn de belangrijkste spelers op dit moment?",
+    "title": "Geweld en chaos in Haïti: wie zijn de hoofdrolspelers op dit moment?",
     "subtitle": null,
     "published_at": "2024-03-09T19:00:28+01:00",
-    "updated_at": "2024-03-09T19:00:29+01:00",
+    "updated_at": "2024-03-09T19:28:45+01:00",
     "media_id": "4ohxoyzaw99q",
     "duration": null,
     "canonical_section": {
@@ -64,7 +110,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/buitenland/6304609/geweld-en-chaos-in-haiti-wie-zijn-de-belangrijkste-spelers-op-dit-moment.html",
+    "url": "/buitenland/6304609/geweld-en-chaos-in-haiti-wie-zijn-de-hoofdrolspelers-op-dit-moment.html",
     "open_new_window": false,
     "partner": null
   },
@@ -139,13 +185,13 @@
   },
   {
     "id": 6304622,
-    "slug": "live-eredivisie-rots-kopt-twente-op-voorsprong-in-thuisduel-met-sparta",
+    "slug": "live-eredivisie-twente-op-voorsprong-tegen-sparta-na-leuke-eerste-helft",
     "type": "article",
-    "title": "Live Eredivisie | Rots kopt Twente op voorsprong in thuisduel met Sparta",
+    "title": "Live Eredivisie | Twente op voorsprong tegen Sparta na leuke eerste helft",
     "subtitle": null,
     "published_at": "2024-03-09T18:16:18+01:00",
-    "updated_at": "2024-03-09T19:13:22+01:00",
-    "media_id": "o2nxvtsa7sxy",
+    "updated_at": "2024-03-09T19:36:03+01:00",
+    "media_id": "2wgx3xoaojbq",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -156,7 +202,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6304622/live-eredivisie-rots-kopt-twente-op-voorsprong-in-thuisduel-met-sparta.html",
+    "url": "/voetbal/6304622/live-eredivisie-twente-op-voorsprong-tegen-sparta-na-leuke-eerste-helft.html",
     "open_new_window": false,
     "partner": null
   },
@@ -208,12 +254,12 @@
   },
   {
     "id": 6304620,
-    "slug": "live-f1-verstappen-riant-aan-de-leiding-in-jeddah-tijdstraf-voor-perez",
+    "slug": "live-f1-reacties-na-afgetekende-zege-van-verstappen-in-jeddah",
     "type": "article",
-    "title": "Live F1 | Verstappen riant aan de leiding in Jeddah, tijdstraf voor Pérez",
+    "title": "Live F1 | Reacties na afgetekende zege van Verstappen in Jeddah",
     "subtitle": null,
     "published_at": "2024-03-09T17:45:04+01:00",
-    "updated_at": "2024-03-09T18:41:46+01:00",
+    "updated_at": "2024-03-09T19:29:43+01:00",
     "media_id": "nhdxwu7a21xa",
     "duration": null,
     "canonical_section": {
@@ -225,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/formule-1/6304620/live-f1-verstappen-riant-aan-de-leiding-in-jeddah-tijdstraf-voor-perez.html",
+    "url": "/formule-1/6304620/live-f1-reacties-na-afgetekende-zege-van-verstappen-in-jeddah.html",
     "open_new_window": false,
     "partner": null
   },
@@ -410,52 +456,6 @@
       "partner": null
     },
     "url": "/videos/6304613/me-sleurt-klimaatactivist-over-de-grond-bij-kunstbeurs-tefaf.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304612,
-    "slug": "bezoek-orban-aan-vs-zet-campagnestrijd-tussen-trump-en-biden-op-scherp",
-    "type": "article",
-    "title": "Bezoek Orbán aan VS zet campagnestrijd tussen Trump en Biden op scherp",
-    "subtitle": null,
-    "published_at": "2024-03-09T16:01:36+01:00",
-    "updated_at": "2024-03-09T16:53:56+01:00",
-    "media_id": "tx8x0oxawfi0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779258,
-      "slug": "binnenland-en-buitenland",
-      "type": "default",
-      "name": "Binnen- en buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland-en-buitenland/6304612/bezoek-orban-aan-vs-zet-campagnestrijd-tussen-trump-en-biden-op-scherp.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304565,
-    "slug": "ko-colijn-over-westerse-troepen-in-oekraine-en-duitse-afluisterschandaal",
-    "type": "article",
-    "title": "Ko Colijn over westerse troepen in Oekraïne en Duitse afluisterschandaal",
-    "subtitle": "NU+",
-    "published_at": "2024-03-09T15:46:16+01:00",
-    "updated_at": "2024-03-09T15:46:17+01:00",
-    "media_id": "988xpzha767t",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6304565/ko-colijn-over-westerse-troepen-in-oekraine-en-duitse-afluisterschandaal.html",
     "open_new_window": false,
     "partner": null
   }
