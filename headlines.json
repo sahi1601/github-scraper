@@ -1,12 +1,35 @@
 [
   {
+    "id": 6304637,
+    "slug": "tsjechische-krystyna-pyszkova-wint-71e-miss-world-verkiezing",
+    "type": "article",
+    "title": "Tsjechische Krystyna Pyszková wint 71e Miss World-verkiezing",
+    "subtitle": null,
+    "published_at": "2024-03-09T20:31:43+01:00",
+    "updated_at": "2024-03-09T20:37:33+01:00",
+    "media_id": "byax3z9astww",
+    "duration": null,
+    "canonical_section": {
+      "id": 125,
+      "slug": "achterklap",
+      "type": "default",
+      "name": "Achterklap",
+      "style": "nuentertainment",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/achterklap/6304637/tsjechische-krystyna-pyszkova-wint-71e-miss-world-verkiezing.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304636,
     "slug": "verstappen-doet-oproep-aan-red-bull-na-nieuwe-zege-nu-tijd-voor-rust-in-de-tent",
     "type": "article",
     "title": "Verstappen doet oproep aan Red Bull na nieuwe zege: 'Nu tijd voor rust in de tent'",
     "subtitle": null,
     "published_at": "2024-03-09T20:21:03+01:00",
-    "updated_at": "2024-03-09T20:21:04+01:00",
+    "updated_at": "2024-03-09T20:27:26+01:00",
     "media_id": "d2vx0ltasewp",
     "duration": null,
     "canonical_section": {
@@ -29,8 +52,8 @@
     "title": "Verhoeven verslaat Fransman Laidouni en is halvefinalist op GLORY Grand Prix",
     "subtitle": null,
     "published_at": "2024-03-09T20:18:01+01:00",
-    "updated_at": "2024-03-09T20:22:53+01:00",
-    "media_id": "1slx8hhavn3z",
+    "updated_at": "2024-03-09T20:38:15+01:00",
+    "media_id": "zl4xjb6ab7yg",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -231,13 +254,13 @@
   },
   {
     "id": 6304624,
-    "slug": "live-glory-verhoeven-dendert-door-naar-halve-finales-in-arnhem",
+    "slug": "live-glory-verhoeven-telt-in-arnhem-af-naar-halve-finale-tegen-khachab",
     "type": "article",
-    "title": "Live GLORY | Verhoeven dendert door naar halve finales in Arnhem",
+    "title": "Live GLORY | Verhoeven telt in Arnhem af naar halve finale tegen Khachab",
     "subtitle": null,
     "published_at": "2024-03-09T18:17:01+01:00",
-    "updated_at": "2024-03-09T20:17:19+01:00",
-    "media_id": "xudxmo1a4gmn",
+    "updated_at": "2024-03-09T20:35:09+01:00",
+    "media_id": "fgmx37easjqe",
     "duration": null,
     "canonical_section": {
       "id": 1772456,
@@ -248,7 +271,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6304624/live-glory-verhoeven-dendert-door-naar-halve-finales-in-arnhem.html",
+    "url": "/sport-overig/6304624/live-glory-verhoeven-telt-in-arnhem-af-naar-halve-finale-tegen-khachab.html",
     "open_new_window": false,
     "partner": null
   },
@@ -351,7 +374,7 @@
     "title": "Malen bezorgt Dortmund goede generale richting clash met PSV, Bayern haalt uit",
     "subtitle": null,
     "published_at": "2024-03-09T17:35:54+01:00",
-    "updated_at": "2024-03-09T20:26:06+01:00",
+    "updated_at": "2024-03-09T20:34:04+01:00",
     "media_id": "t1hxubgacc8a",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/formule-1/6304617/red-bull-ziet-af-van-schorsing-topman-marko-na-steunbetuiging-verstappen.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304616,
-    "slug": "burgemeester-van-limburgse-beekdaelen-voor-tweede-keer-in-korte-tijd-bedreigd",
-    "type": "article",
-    "title": "Burgemeester van Limburgse Beekdaelen voor tweede keer in korte tijd bedreigd",
-    "subtitle": null,
-    "published_at": "2024-03-09T17:06:57+01:00",
-    "updated_at": "2024-03-09T17:43:34+01:00",
-    "media_id": "8o9xta8axvwc",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6304616/burgemeester-van-limburgse-beekdaelen-voor-tweede-keer-in-korte-tijd-bedreigd.html",
     "open_new_window": false,
     "partner": null
   }
