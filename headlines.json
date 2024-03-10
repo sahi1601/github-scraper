@@ -1,12 +1,35 @@
 [
   {
+    "id": 6304697,
+    "slug": "ajax-ontsnapt-dankzij-late-goal-invaller-brobbey-aan-thuisnederlaag-tegen-fortuna",
+    "type": "article",
+    "title": "Ajax ontsnapt dankzij late goal invaller Brobbey aan thuisnederlaag tegen Fortuna",
+    "subtitle": null,
+    "published_at": "2024-03-10T16:25:22+01:00",
+    "updated_at": "2024-03-10T16:25:58+01:00",
+    "media_id": "rjhxchsa6r7u",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6304697/ajax-ontsnapt-dankzij-late-goal-invaller-brobbey-aan-thuisnederlaag-tegen-fortuna.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304696,
     "slug": "honderden-activisten-protesteren-tegen-uitbreiding-van-tesla-fabriek-in-berlijn",
     "type": "article",
     "title": "Honderden activisten protesteren tegen uitbreiding van Tesla-fabriek in Berlijn",
     "subtitle": null,
     "published_at": "2024-03-10T16:10:07+01:00",
-    "updated_at": "2024-03-10T16:10:09+01:00",
+    "updated_at": "2024-03-10T16:15:03+01:00",
     "media_id": "87hxkl0azmn9",
     "duration": null,
     "canonical_section": {
@@ -52,7 +75,7 @@
     "title": "Koning begrijpt demonstranten: 'Maar bezoek vooral het Holocaustmuseum'",
     "subtitle": null,
     "published_at": "2024-03-10T15:50:18+01:00",
-    "updated_at": "2024-03-10T15:59:57+01:00",
+    "updated_at": "2024-03-10T16:13:25+01:00",
     "media_id": "ihaxxxfaiqsq",
     "duration": null,
     "canonical_section": {
@@ -75,7 +98,7 @@
     "title": "Joy Beune verovert wereldtitel allround en voert Nederlands podium aan",
     "subtitle": null,
     "published_at": "2024-03-10T15:37:09+01:00",
-    "updated_at": "2024-03-10T16:05:49+01:00",
+    "updated_at": "2024-03-10T16:17:47+01:00",
     "media_id": "oxuxn8iasjt9",
     "duration": null,
     "canonical_section": {
@@ -397,7 +420,7 @@
     "title": "Protest synagoge Amsterdam voorbij, nog wel demonstranten bij museum",
     "subtitle": null,
     "published_at": "2024-03-10T13:21:51+01:00",
-    "updated_at": "2024-03-10T16:04:17+01:00",
+    "updated_at": "2024-03-10T16:13:07+01:00",
     "media_id": "gfxxh86a5r3k",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6304666/brobbey-op-bank-bij-ajax-berghuis-en-bergwijn-nog-afwezig-tegen-fortuna.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304677,
-    "slug": "koning-opent-holocaustmuseum-slachtoffers-hebben-nu-een-gezicht-en-stem",
-    "type": "article",
-    "title": "Koning opent Holocaustmuseum: 'Slachtoffers hebben nu een gezicht en stem'",
-    "subtitle": null,
-    "published_at": "2024-03-10T13:15:18+01:00",
-    "updated_at": "2024-03-10T15:31:52+01:00",
-    "media_id": "1xfxz32acrql",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6304677/koning-opent-holocaustmuseum-slachtoffers-hebben-nu-een-gezicht-en-stem.html",
     "open_new_window": false,
     "partner": null
   }
