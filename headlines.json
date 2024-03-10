@@ -1,12 +1,35 @@
 [
   {
+    "id": 6304691,
+    "slug": "weekweerbericht-na-regen-komt-zonneschijn-en-mogelijk-weer-regen",
+    "type": "article",
+    "title": "Weekweerbericht | Na regen komt zonneschijn (en mogelijk weer regen)",
+    "subtitle": null,
+    "published_at": "2024-03-10T15:14:37+01:00",
+    "updated_at": "2024-03-10T15:21:26+01:00",
+    "media_id": "424xkwuadvm9",
+    "duration": null,
+    "canonical_section": {
+      "id": 1779283,
+      "slug": "weerbericht",
+      "type": "default",
+      "name": "Weerbericht",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/weerbericht/6304691/weekweerbericht-na-regen-komt-zonneschijn-en-mogelijk-weer-regen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304690,
     "slug": "visma-kopman-jorgenson-houdt-evenepoel-van-eindzege-in-parijs-nice",
     "type": "article",
     "title": "Visma-kopman Jorgenson houdt Evenepoel van eindzege in Parijs-Nice",
     "subtitle": null,
     "published_at": "2024-03-10T15:05:09+01:00",
-    "updated_at": "2024-03-10T15:05:10+01:00",
+    "updated_at": "2024-03-10T15:19:10+01:00",
     "media_id": "0k3xx16adwvc",
     "duration": null,
     "canonical_section": {
@@ -24,12 +47,12 @@
   },
   {
     "id": 6304687,
-    "slug": "stolz-loopt-met-baanrecord-verder-uit-op-roest-en-heeft-wereldtitel-voor-het-grijpen",
+    "slug": "stolz-loopt-met-baanrecord-verder-uit-op-roest-en-heeft-wereldtitel-bijna-binnen",
     "type": "article",
-    "title": "Stolz loopt met baanrecord verder uit op Roest en heeft wereldtitel voor het grijpen",
+    "title": "Stolz loopt met baanrecord verder uit op Roest en heeft wereldtitel bijna binnen",
     "subtitle": null,
     "published_at": "2024-03-10T14:50:14+01:00",
-    "updated_at": "2024-03-10T15:07:31+01:00",
+    "updated_at": "2024-03-10T15:20:02+01:00",
     "media_id": "fy5xznja478g",
     "duration": null,
     "canonical_section": {
@@ -41,7 +64,7 @@
       "media_id": "5ktx9n6axubw",
       "partner": null
     },
-    "url": "/schaatsen/6304687/stolz-loopt-met-baanrecord-verder-uit-op-roest-en-heeft-wereldtitel-voor-het-grijpen.html",
+    "url": "/schaatsen/6304687/stolz-loopt-met-baanrecord-verder-uit-op-roest-en-heeft-wereldtitel-bijna-binnen.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/media-en-cultuur/6304674/hoe-dennis-weening-de-mol-per-ongeluk-verraadde.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304672,
-    "slug": "demonstratie-tegen-israelische-president-in-amsterdam-me-blokkeert-doorgang",
-    "type": "article",
-    "title": "Demonstratie tegen Israëlische president in Amsterdam, ME blokkeert doorgang",
-    "subtitle": "In beeld",
-    "published_at": "2024-03-10T12:01:27+01:00",
-    "updated_at": "2024-03-10T12:45:59+01:00",
-    "media_id": "bq1xfmbaox1w",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772085,
-      "slug": "midden-oostenconflict",
-      "type": "default",
-      "name": "Oorlog Israël en Hamas",
-      "style": "nu",
-      "media_id": "m1oxeovaiadm",
-      "partner": null
-    },
-    "url": "/midden-oostenconflict/6304672/demonstratie-tegen-israelische-president-in-amsterdam-me-blokkeert-doorgang.html",
     "open_new_window": false,
     "partner": null
   }
