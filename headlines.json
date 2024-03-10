@@ -1,5 +1,28 @@
 [
   {
+    "id": 6304707,
+    "slug": "twee-doden-door-ongeluk-in-gelderse-azewijn",
+    "type": "article",
+    "title": "Twee doden door ongeluk in Gelderse Azewijn",
+    "subtitle": null,
+    "published_at": "2024-03-10T17:44:22+01:00",
+    "updated_at": "2024-03-10T17:44:23+01:00",
+    "media_id": "k0cx79ca5g2t",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6304707/twee-doden-door-ongeluk-in-gelderse-azewijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304706,
     "slug": "zeilsters-van-aanholt-en-duetz-heroveren-wereldtitel-in-olympische-klasse-49erfx",
     "type": "article",
@@ -29,7 +52,7 @@
     "title": "Schilderij Vincent van Gogh verkocht voor 4,6 miljoen euro",
     "subtitle": null,
     "published_at": "2024-03-10T17:16:32+01:00",
-    "updated_at": "2024-03-10T17:21:50+01:00",
+    "updated_at": "2024-03-10T17:28:33+01:00",
     "media_id": "s9nxoioap1r3",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wielrennen/6304690/visma-kopman-jorgenson-houdt-evenepoel-van-eindzege-in-parijs-nice.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304687,
-    "slug": "stolz-loopt-met-baanrecord-verder-uit-op-roest-en-heeft-wereldtitel-bijna-binnen",
-    "type": "article",
-    "title": "Stolz loopt met baanrecord verder uit op Roest en heeft wereldtitel bijna binnen",
-    "subtitle": null,
-    "published_at": "2024-03-10T14:50:14+01:00",
-    "updated_at": "2024-03-10T15:20:02+01:00",
-    "media_id": "fy5xznja478g",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772452,
-      "slug": "schaatsen",
-      "type": "default",
-      "name": "Schaatsen",
-      "style": "nusport",
-      "media_id": "5ktx9n6axubw",
-      "partner": null
-    },
-    "url": "/schaatsen/6304687/stolz-loopt-met-baanrecord-verder-uit-op-roest-en-heeft-wereldtitel-bijna-binnen.html",
     "open_new_window": false,
     "partner": null
   }
