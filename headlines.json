@@ -1,5 +1,28 @@
 [
   {
+    "id": 6304728,
+    "slug": "dode-bij-steekpartij-eindhoven",
+    "type": "article",
+    "title": "Dode bij steekpartij Eindhoven",
+    "subtitle": null,
+    "published_at": "2024-03-11T00:25:32+01:00",
+    "updated_at": "2024-03-11T00:25:33+01:00",
+    "media_id": "fhcxzqca0gen",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6304728/dode-bij-steekpartij-eindhoven.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304476,
     "slug": "nederlanders-schermen-persoonlijke-gegevens-op-internet-vaker-af",
     "type": "article",
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/binnenland/6304714/dertien-aanhoudingen-bij-protesten-nationaal-holocaustmuseum.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304712,
-    "slug": "feyenoord-trainer-slot-start-met-een-wijziging-aan-duel-met-heracles",
-    "type": "article",
-    "title": "Feyenoord-trainer Slot start met één wijziging aan duel met Heracles",
-    "subtitle": null,
-    "published_at": "2024-03-10T18:47:04+01:00",
-    "updated_at": "2024-03-10T18:52:38+01:00",
-    "media_id": "tvnx7aga8ih0",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6304712/feyenoord-trainer-slot-start-met-een-wijziging-aan-duel-met-heracles.html",
     "open_new_window": false,
     "partner": null
   }
