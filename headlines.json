@@ -1,5 +1,28 @@
 [
   {
+    "id": 6304852,
+    "slug": "djokovic-verrassend-uitgeschakeld-op-indian-wells-door-twintigjarige-luca-nardi",
+    "type": "article",
+    "title": "Djokovic verrassend uitgeschakeld op Indian Wells door twintigjarige Luca Nardi",
+    "subtitle": null,
+    "published_at": "2024-03-12T07:25:20+01:00",
+    "updated_at": "2024-03-12T07:25:21+01:00",
+    "media_id": "07sx41yaalsl",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6304852/djokovic-verrassend-uitgeschakeld-op-indian-wells-door-twintigjarige-luca-nardi.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6304851,
     "slug": "weerbericht-zuiden-blijft-regenachtig-in-het-noorden-wat-ruimte-voor-zon",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Premier van door bendegeweld geteisterd Haïti kondigt vertrek aan",
     "subtitle": null,
     "published_at": "2024-03-12T06:38:52+01:00",
-    "updated_at": "2024-03-12T07:10:00+01:00",
+    "updated_at": "2024-03-12T07:20:26+01:00",
     "media_id": "du0x8wvarntk",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/videos/6304833/honderd-nieuwe-zeediersoorten-ontdekt-bij-nieuw-zeeland.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6304835,
-    "slug": "student-23-krijgt-gevangenisstraf-voor-twee-verkrachtingen-in-utrecht",
-    "type": "article",
-    "title": "Student (23) krijgt gevangenisstraf voor twee verkrachtingen in Utrecht",
-    "subtitle": null,
-    "published_at": "2024-03-11T19:52:45+01:00",
-    "updated_at": "2024-03-11T20:08:44+01:00",
-    "media_id": "5hvxhqralek8",
-    "duration": null,
-    "canonical_section": {
-      "id": 1779354,
-      "slug": "misdaad",
-      "type": "default",
-      "name": "Misdaad",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/misdaad/6304835/student-23-krijgt-gevangenisstraf-voor-twee-verkrachtingen-in-utrecht.html",
     "open_new_window": false,
     "partner": null
   }
